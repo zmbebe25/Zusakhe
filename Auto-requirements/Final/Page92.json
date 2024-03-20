@@ -1,0 +1,814 @@
+[
+    {
+        "Qualification": "GEOGRAPHY AND ENVIRONMENTAL MANAGEMENT",
+        "Qualification Code": "B2E13Q",
+        "APS": 26,
+        "Description": "Location Analyst, Town Planner, Geo-Information Specialist, Environmental Rehabilitation Manager, Geomorphologist.",
+        "Subject": [
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "English"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Physical Science"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Life Science"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "PHYSIOLOGY AND BIOCHEMISTRY",
+        "Qualification Code": "B2E14Q",
+        "APS": 26,
+        "Description": "Biochemist, Researcher, Forensic Analyst, Biotechnologist.",
+        "Subject": [
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "English"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Physical Science"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Life Science"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "PHYSIOLOGY AND PSYCHOLOGY",
+        "Qualification Code": "B2E15Q",
+        "APS": 26,
+        "Description": "Psychologist, Forensic Pathologist, Researcher.",
+        "Subject": [
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "English"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Physical Science"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Life Science"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "ZOOLOGY AND BIOCHEMISTRY",
+        "Qualification Code": "B2E17Q",
+        "APS": 26,
+        "Description": "Zoologist, Biochemist, Nature Conservationist, Environmentalist, Ecologist, Entomologist, Pathologist, Geneticist, Food Technologist.",
+        "Subject": [
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "English"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Physical Science"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Life Science"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "ZOOLOGY AND CHEMISTRY",
+        "Qualification Code": "B2E18Q",
+        "APS": 26,
+        "Description": "Zoologist, Chemical Technologist And Researcher.",
+        "Subject": [
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "English"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Physical Science"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Life Science"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "ZOOLOGY AND ENVIRONMENTAL MANAGEMENT",
+        "Qualification Code": "B2E19Q",
+        "APS": 26,
+        "Description": "Geo-Zoologist, Population Geneticist, Environmental Ecologist and Specialist.",
+        "Subject": [
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "English"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Physical Science"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Life Science"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "ZOOLOGY AND GEOGRAPHY",
+        "Qualification Code": "B2E20Q",
+        "APS": 26,
+        "Description": "Geo-Zoologist, Population Geneticist, Environmental Ecologist and Specialist.",
+        "Subject": [
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "English"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Physical Science"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Life Science"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            }
+        ]
+    }
+]

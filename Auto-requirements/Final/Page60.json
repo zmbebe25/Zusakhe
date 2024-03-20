@@ -1,0 +1,1089 @@
+[
+    {
+        "Qualification": "CIVIL ENGINEERING",
+        "Qualification Code": "B6CISQ",
+        "APS": 32,
+        "Description": "Plan, design and construction of infrastructure.",
+        "Subject": [
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "English"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematics/Technical Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Physical Sciences"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "ELECTRICAL AND ELECTRONIC ENGINEERING",
+        "Qualification Code": "B6ELSQ",
+        "APS": 32,
+        "Description": "Electronic Design, Software System Design.",
+        "Subject": [
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "English"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematics/Technical Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Physical Sciences"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "MECHANICAL ENGINEERING",
+        "Qualification Code": "B6MESQ",
+        "APS": 32,
+        "Description": "Designing, manufacturing, and maintenance of machines.",
+        "Subject": [
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "English"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematics/Technical Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Physical Sciences"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "CHEMICAL ENGINEERING",
+        "Qualification Code": "B6CE1Q",
+        "APS": 30,
+        "Description": "Design and manage industrial chemical processes for the manufacturing sector.",
+        "Subject": [
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "English"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematics/Technical Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Physical Sciences"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "CIVIL ENGINEERING",
+        "Qualification Code": "B6CV3Q",
+        "APS": 28,
+        "Description": "Plan, design and construction of infrastructure.",
+        "Subject": [
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "English"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematics/Technical Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Physical Sciences"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Technical Science"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "ELECTRICAL ENGINEERING",
+        "Qualification Code": "B6EL1Q",
+        "APS": 30,
+        "Description": "Electronic Design, Software System Design.",
+        "Subject": [
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "English"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematics/Technical Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Physical Sciences"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "EXTRACTION METALLURGY",
+        "Qualification Code": "B6EXTQ",
+        "APS": 30,
+        "Description": "Manage metallurgical plants that are designed to recover and refine metals or other valuable constituents in mine ores.",
+        "Subject": [
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "English"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematics/Technical Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Physical Sciences"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "INDUSTRIAL ENGINEERING",
+        "Qualification Code": "B6IN2Q",
+        "APS": 30,
+        "Description": "Design and implement systems in organisations to maximise production.",
+        "Subject": [
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "English"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematics/Technical Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Physical Sciences"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Technical Science"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "MECHANICAL ENGINEERING",
+        "Qualification Code": "B6MC2Q",
+        "APS": 30,
+        "Description": "Design, manufacture and maintain industrial machines and engines.",
+        "Subject": [
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "English"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematics/Technical Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Physical Sciences"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Technical Science"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "MINING ENGINEERING",
+        "Qualification Code": "B6MINQ",
+        "APS": 23,
+        "Description": "Select and manage the correct method of mining in specific geological environments.",
+        "Subject": [
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "English"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematics/Technical Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Physical Sciences"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Technical Science"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "PHYSICAL METALLURGY",
+        "Qualification Code": "B6PY2Q",
+        "APS": 30,
+        "Description": "Assesses the suitability of metals for their use in metallic goods.",
+        "Subject": [
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "English"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematics/Technical Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Physical Sciences"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            }
+        ]
+    }
+]

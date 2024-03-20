@@ -1,0 +1,215 @@
+[
+    {
+        "Qualification": "PUBLIC MANAGEMENT AND GOVERNANCE",
+        "ID":825814404,
+        "Qualification Code": "B34PKQ",
+        "APS": 28,
+        "Description": "Public Managers in State Departments, Provincial Departments and Municipalities, Public, Private and NGO Sector, Administrative and Managerial Positions.",
+        "Subject": [
+            "AND",
+            {
+                "subjectid": "English",
+                "minmark": 60,
+                "required": true
+            },
+            [
+            "OR",
+            {
+                "subjectid": "Mathematics",
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematical Literacy",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Technical Mathematics",
+                "minmark": 40,
+                "required": true
+            }
+            ]
+        ]
+    },
+    {
+        "Qualification": "PUBLIC MANAGEMENT AND GOVERNANCE",
+        "ID":825814404,
+        "Qualification Code": "B34PSQ",
+        "APS": 28,
+        "Description": "Public Managers in State Departments, Provincial Departments and Municipalities, Public, Private and NGO Sector, Administrative and Managerial Positions.",
+        "Subject": [
+            "AND",
+            {
+                "subjectid": "English",
+                "minmark": 60,
+                "required": true
+            },
+            [
+            "OR",
+            {
+                "subjectid": "Mathematics",
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematical Literacy",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Technical Mathematics",
+                "minmark": 40,
+                "required": true
+            }
+            ]
+        ]
+    },
+    {
+        "Qualification": "ACCOUNTING",
+        "ID":179,
+        "Qualification Code": "B3A17Q",
+        "APS": 28,
+        "Description": "Financial Manager, Accountant, Internal Auditor, Tax Consultant.",
+        "Subject": [
+            "AND", 
+               
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematics",
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "BUSINESS MANAGEMENT",
+        "ID":863725579,
+        "Qualification Code": "B34BMQ",
+        "APS": 26,
+        "Description": "Training Manager, HRD Manager, Employment Relations Manager, Product Development Manager, Branch Manager, General Manager, Change Facilitator, Management Consultant, Entrepreneur, Business Innovator.",
+        "Subject":[
+            "AND",
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            },
+            [
+            "OR",
+            {
+                "subjectid": "Mathematics",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Technical Mathematics",
+                "minmark": 50,
+                "required": true
+            } 
+            ]
+        ]
+    },
+    {
+        "Qualification": "ECONOMICS AND ECONOMETRICS",
+        "ID":180,
+        "Qualification Code": "B3N14Q",
+        "APS": 28,
+        "Description": "Economist, Econometrician, Economic Analyst, Forecaster, Economic Planner.",
+        "Subject": [
+            "AND",      
+
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematics",
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "ENTREPRENEURIAL MANAGEMENT",
+        "ID":338473379,
+        "Qualification Code": "B1CEMQ",
+        "APS": 26,
+        "Description": "Business Owner, Marketing Manager, Manager, Consultant, Business Manager, Financial Manager.",
+        "Subject":[
+            "AND",
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            },
+            [
+            "OR",
+            {
+                "subjectid": "Mathematics",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Technical Mathematics",
+                "minmark": 50,
+                "required": true
+            }
+            ]
+        ]
+    },
+    {
+        "Qualification": "FINANCE",
+        "ID":182,
+        "Qualification Code": "B3F17Q",
+        "APS": 28,
+        "Description": "Financial Manager, Stockbroker, Accountant, Financial Consultant, Investment Advisor.",
+        "Subject": [
+            "AND", 
+               
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematics",
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "INDUSTRIAL PSYCHOLOGY",
+        "ID":424822464,
+        "Qualification Code": "B34IPQ",
+        "APS": 26,
+        "Description": "Specialist HR Practitioners dealing with the problems or challenges arising from employees\u2019 relationship within the work environment.",
+        "Subject":[
+            "AND",
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            },
+            [
+            "OR",
+            {
+                "subjectid": "Mathematics",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Technical Mathematics",
+                "minmark": 50,
+                "required": true
+            }
+            ]
+        ]
+    }
+]

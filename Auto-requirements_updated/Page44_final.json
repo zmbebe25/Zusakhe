@@ -1,0 +1,138 @@
+[
+    {
+        "Qualification": "ACCOUNTANCY *",
+        "ID":183,
+        "FacultyID":47,
+        "Qualification Code": "D3A15Q",
+        "APS": 24,
+        "Description": "Accounting Technician, Bookkeeper, Cost Accountant.",
+        "Subject": [
+            "AND",
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            },
+            [
+            "OR",
+            {
+                "subjectid": "Mathematics",
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematical Literacy",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Technical Mathematics",
+                "minmark": 40,
+                "required": true
+            }
+            ]
+        ]
+    },
+    {
+        "Qualification": "BUSINESS INFORMATION TECHNOLOGY",
+        "ID":184401988,
+        "FacultyID":47,
+        "Qualification Code": "DI1401",
+        "APS": 24,
+        "Description": "IT practitioners provide solutions to business problems through the application of computer based technology and techniques.",
+        "Subject": [
+            "AND",
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            },
+            [
+            "OR",
+            {
+                "subjectid": "Mathematics",
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematical Literacy",
+                "minmark": 70,
+                "required": true
+            },
+            {
+                "subjectid": "Technical Mathematics",
+                "minmark": 40,
+                "required": true
+            }
+            ]
+        ]
+    },
+    {
+        "Qualification": "FINANCIAL SERVICES OPERATIONS *",
+        "ID":409706944,
+        "FacultyID":47,
+        "Qualification Code": "D34F9Q",
+        "APS": 24,
+        "Description": "Middle and Back Office Operations: Financial Operations Administrator, Operations Analyst, Risk and Compliance Officer.",
+        "Subject":  [
+            "AND",
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            },
+            [
+            "OR",
+            {
+                "subjectid": "Mathematics",
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematical Literacy",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Technical Mathematics",
+                "minmark": 40,
+                "required": true
+            }
+            ]
+        ]
+    },
+    {
+        "Qualification": "FOOD AND BEVERAGE OPERATIONS",
+        "ID":580042892,
+        "FacultyID":47,
+        "Qualification Code": "D34FBQ",
+        "APS": 24,
+        "Description": "The successful food and beverage operations student will possess the appropriate skills at operational and supervisory levels within the food and beverage industry in South Africa or internationally. Persons can work in food and beverage units, private and executive catering, marketing and promotions, training or in areas of food and drinks within the industry.",
+        "Subject":  [
+            "AND",
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            },
+            [
+            "OR",
+            {
+                "subjectid": "Mathematics",
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematical Literacy",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Technical Mathematics",
+                "minmark": 40,
+                "required": true
+            }
+            ]
+        ]
+    }
+]

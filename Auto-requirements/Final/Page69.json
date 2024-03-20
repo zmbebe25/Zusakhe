@@ -1,0 +1,234 @@
+[
+    {
+        "Qualification": "SPORT AND EXERCISE SCIENCES",
+        "Qualification Code": "B9SE1Q",
+        "APS": 28,
+        "Description": "Sport scientist, sport coach, fitness instructor, health and life style instructor/consultant, performance analyst.",
+        "Subject": [
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "English"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "40"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Physical Sciences"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "None"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Life Sciences"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Technical Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Technical Science"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "SPORT MANAGEMENT",
+        "Qualification Code": "B9S14Q",
+        "APS": 23,
+        "Description": "Sport Manager, Sport Marketer, Sport Administrator, Sport Events Organiser, Sport Promoter, Coach or Specialisation in Biokinetics, Sport Science or Sport Management, Researcher, Exercise Scientist.",
+        "Subject": [
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "English"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            }
+        ]
+    }
+]

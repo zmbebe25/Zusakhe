@@ -1,0 +1,187 @@
+[
+    {
+        "Qualification": "CHIROPRACTIC",
+        "ID": 167,
+        "Qualification Code": "B9C01Q",
+        "APS": 26,
+        "Description": "Chiropractors treat conditions and injuries that are nerve, muscle or joint related.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Sciences",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Life Sciences",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "COMPLEMENTARY MEDICINE",
+        "ID": 168,
+        "Qualification Code": "B9CM1Q",
+        "APS": 26,
+        "Description": "Acupuncturists, health and wellness industry, patient- services co-ordinator within a multidisciplinary practice, retail and pharmacy assistants, health and lifestyle journalists.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Sciences",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Life Sciences",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "EMERGENCY MEDICAL CARE (EMC)",
+        "ID": 169,
+        "Qualification Code": "B9E01Q",
+        "APS": 26,
+        "Description": "Emergency Care Practitioners are specialists in the field of emergency care and rescue, focusing on the management of critically ill or injured patients. Career opportunities exist in public and private emergency services, both local and abroad. Holders of the qualification will be entitled to register as independent Emergency Care Practitioners with the HPCSA.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Sciences",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Life Sciences",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "MEDICAL LABORATORY SCIENCE",
+        "ID": 170,
+        "Qualification Code": "B9B01Q",
+        "APS": 30,
+        "Description": "Medical laboratory scientists analyse clinical specimens submitted to laboratories by medical practitioners, and interpret the results.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Sciences",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Life Sciences",
+                    "minmark": 60,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Technical Mathematics",
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "PODIATRY",
+        "ID": 171,
+        "Qualification Code": "B9P01Q",
+        "APS": 28,
+        "Description": "Podiatrists are health care professionals that deals with the examination, diagnosis, prevention and treatment of conditions and functions of the human foot, lower limb and associated structures. Holders of the qualification will be entitled to register as independent practitioners with the HPCSA.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Sciences",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Life Sciences",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Technical Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        ]
+    }
+]

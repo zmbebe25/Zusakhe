@@ -1,0 +1,111 @@
+[
+    {
+        "Qualification": "ANALYTICAL CHEMISTRY",
+        "ID":396,
+        "Qualification Code": "D2ACXQ",
+        "APS": 22,
+        "Description": "Analytical Chemists analyse raw materials and final products to gauge their quality levels.",
+        "Subject": [
+            "AND",
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Physical Science",
+                "minmark": 50,
+                "required": true
+            },
+            [
+            "OR",
+            {
+                "subjectid": "Mathematics",
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": "Technical Mathematics",
+                "minmark": 40,
+                "required": true
+            }
+            ]
+        ]
+    },
+    {
+        "Qualification": "BIOTECHNOLOGY",
+        "ID":397,
+        "Qualification Code": "D2BTEQ",
+        "APS": 23,
+        "Description": "Biotechnologists manipulate living cells for application in the baking, brewing, chemical, agricultural and pharmaceutical fields.",
+        "Subject":[
+            "AND",
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Life Science",
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": "Physical Science",
+                "minmark": 40,
+                "required": true
+            },
+            [
+            "OR",
+            {
+                "subjectid": "Mathematics",
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": "Technical Mathematics",
+                "minmark": 40,
+                "required": true
+            }
+            ]
+        ]
+    },
+    {
+        "Qualification": "FOOD TECHNOLOGY",
+        "ID":398,
+        "Qualification Code": "D2FTEQ",
+        "APS": 22,
+        "Description": "Food Technologists research the production, processing, preservation, packing and distribution of food.",
+        "Subject": [
+            "AND",
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Life Science",
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": "Physical Science",
+                "minmark": 40,
+                "required": true
+            },
+            [
+            "OR",
+            {
+                "subjectid": "Mathematics",
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": "Technical Mathematics",
+                "minmark": 40,
+                "required": true
+            }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "Qualification": "ACCOUNTANCY *",
+        "Qualification Code": "D3A15Q",
+        "APS": 24,
+        "Description": ".tnatnuoccA tsoC\n,repeekkooB ,naicinhceT gnitnuoccA",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 60
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    },
+    {
+        "Qualification": "BUSINESS INFORMATION\nTECHNOLOGY",
+        "Qualification Code": "DI1401",
+        "APS": 24,
+        "Description": ".seuqinhcet dna ygolonhcet\ndesab retupmoc fo noitacilppa\neht hguorht smelborp ssenisub ot\nsnoitulos edivorp srenoititcarp TI",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 70
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    },
+    {
+        "Qualification": "FINANCIAL SERVICES\nOPERATIONS *",
+        "Qualification Code": "D34F9Q",
+        "APS": 24,
+        "Description": ".reciffO ecnailpmoC\ndna ksiR ,tsylanA snoitarepO\n,rotartsinimdA snoitarepO laicnaniF\n:snoitarepO eciffO kcaB dna elddiM",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 60
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    },
+    {
+        "Qualification": "FOOD AND BEVERAGE\nOPERATIONS",
+        "Qualification Code": "D34FBQ",
+        "APS": 24,
+        "Description": ".yrtsudni eht nihtiw sknird dna doof\nfo saera ni ro gniniart ,snoitomorp\ndna gnitekram ,gniretac evitucexe\ndna etavirp ,stinu egareveb dna doof\nni krow nac snosreP .yllanoitanretni\nro acirfA htuoS ni yrtsudni egareveb\ndna doof eht nihtiw slevel yrosivrepus\ndna lanoitarepo ta slliks etairporppa\neht ssessop lliw tneduts snoitarepo\negareveb dna doof lufsseccus ehT",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 60
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    }
+]

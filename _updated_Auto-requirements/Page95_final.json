@@ -1,0 +1,77 @@
+[
+    {
+        "Qualification": "ANALYTICAL CHEMISTRY",
+        "Qualification Code": "D2ACXQ",
+        "APS": 22,
+        "Description": "Analytical Chemists analyse raw materials and final products to gauge their quality levels.",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 50
+                },
+                {
+                    "Mathematics": 40
+                },
+                {
+                    "Technical Mathematics": 40
+                },
+                {
+                    "Physical Science": 50
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "BIOTECHNOLOGY",
+        "Qualification Code": "D2BTEQ",
+        "APS": 23,
+        "Description": "Biotechnologists manipulate living cells for application in the baking, brewing, chemical, agricultural and pharmaceutical fields.",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 50
+                },
+                {
+                    "Mathematics": 40
+                },
+                {
+                    "Technical Mathematics": 40
+                },
+                {
+                    "Physical Science": 40
+                },
+                {
+                    "Life Science": 40
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "FOOD TECHNOLOGY",
+        "Qualification Code": "D2FTEQ",
+        "APS": 22,
+        "Description": "Food Technologists research the production, processing, preservation, packing and distribution of food.",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 50
+                },
+                {
+                    "Mathematics": 40
+                },
+                {
+                    "Technical Mathematics": 40
+                },
+                {
+                    "Physical Science": 40
+                },
+                {
+                    "Life Science": 40
+                }
+            ]
+        ]
+    }
+]

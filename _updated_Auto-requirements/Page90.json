@@ -1,0 +1,217 @@
+[
+    {
+        "Qualification": "BIOCHEMISTRY AND CHEMISTRY",
+        "ID": 167,
+        "Qualification Code": "B2P70Q",
+        "APS": 31,
+        "Description": "Scientist in the field of food and water, biomedical, biotechnological and agricultural sectors.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Life Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 70,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "CHEMISTRY AND MATHEMATICS",
+        "ID": 168,
+        "Qualification Code": "B2P71Q",
+        "APS": 31,
+        "Description": "Chemistry, Researcher, Technologist, Problem Solver.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 60,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 70,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "CHEMISTRY AND PHYSICS",
+        "ID": 169,
+        "Qualification Code": "B2P72Q",
+        "APS": 31,
+        "Description": "Physicist, Researcher, Chemistry Technologist, Forensic Researcher.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 60,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 70,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "GEOLOGY AND CHEMISTRY",
+        "ID": 170,
+        "Qualification Code": "B2P81Q",
+        "APS": 31,
+        "Description": "Geochemist, Geologist, Forensic Scientist, Exploration Expert.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Life Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 70,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "MATHEMATICAL STATISTICS AND ECONOMICS (WITH FINANCIAL ORIENTATION)",
+        "ID": 171,
+        "Qualification Code": "B2M50Q",
+        "APS": 33,
+        "Description": "Econometrist, Investment Economist, Biometricist, Economic Journalist.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 70,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "MATHEMATICS AND ECONOMICS (WITH FINANCIAL ORIENTATION)",
+        "ID": 172,
+        "Qualification Code": "B2M51Q",
+        "APS": 33,
+        "Description": "Econometrist, Investment Economist, Consultant.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 70,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "ACTUARIAL SCIENCE",
+        "ID": 173,
+        "Qualification Code": "B2M52Q",
+        "APS": 33,
+        "Description": "Actuary, Actuarial Analyst, Quantitative Analyst, Risk Manager, Investment Manager, Credit Ratings Analyst, Statistician, Academic.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 80,
+                    "required": true
+                }
+            ]
+        ]
+    }
+]

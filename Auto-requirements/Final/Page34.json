@@ -1,0 +1,380 @@
+[
+    {
+        "Qualification": "ARCHITECTURE",
+        "Qualification Code": "D8AT1Q",
+        "APS": 24,
+        "Description": "Architectural Practitioners design simple buildings and produce technological details.",
+        "9": "BPA",
+        "Subject": [
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "English"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "First Additional Language"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Technical Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "FASHION PRODUCTION",
+        "Qualification Code": "D8FP1Q",
+        "APS": 21,
+        "Description": "Fashion Production Graduates can be involved in the business, manufacturing, retail and quality assurance aspects of the clothing industry.",
+        "9": "BPA",
+        "Subject": [
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "English"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "First Additional Language"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "40"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematical Literacy"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "JEWELLERY DESIGN AND MANUFACTURE",
+        "Qualification Code": "D8JD1Q",
+        "APS": 20,
+        "Description": "Jewellery Designers and Manufacturers process designs and concepts in high end commercial and contemporary commercial manufacture processes.",
+        "9": "BPA",
+        "Subject": [
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "English"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "First Additional Language"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "40"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematical Literacy"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Technical Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            }
+        ]
+    }
+]

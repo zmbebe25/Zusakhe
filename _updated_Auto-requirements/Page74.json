@@ -1,0 +1,20 @@
+[
+    {
+        "Qualification": "SOCIAL WORK",
+        "ID": 167,
+        "Qualification Code": "B7025Q",
+        "APS": 31,
+        "Description": "Social Worker in Private Sector, Welfare Organisations and Government or Non-Governmental Organisations.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    }
+]

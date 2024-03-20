@@ -1,0 +1,82 @@
+[
+    {
+        "Qualification": "DIAGNOSTIC RADIOGRAPHY",
+        "Qualification Code": "B9M01Q",
+        "APS": 31,
+        "Description": "Radiographers use x-ray equipment and Magnetic Resonance Imaging equipment to produce images that assist in the diagnosis of injuries and diseases.",
+        "Subject": [
+            {
+                "English": 60
+            },
+            {
+                "Mathematics": 50
+            },
+            {
+                "Physical Sciences": 50
+            },
+            {
+                "Life Sciences": 60
+            }
+        ]
+    },
+    {
+        "Qualification": "DIAGNOSTIC ULTRASOUND",
+        "Qualification Code": "B9M03Q",
+        "APS": 31,
+        "Description": "Practitioners uses high frequency sound waves to produce images of body structures.",
+        "Subject": [
+            {
+                "English": 60
+            },
+            {
+                "Mathematics": 50
+            },
+            {
+                "Physical Sciences": 50
+            },
+            {
+                "Life Sciences": 60
+            }
+        ]
+    },
+    {
+        "Qualification": "NUCLEAR MEDICINE",
+        "Qualification Code": "B9M02Q",
+        "APS": 31,
+        "Description": "Practitioners use small amounts of radioactive substances (radio-nuclides) to diagnose and treat diseases.",
+        "Subject": [
+            {
+                "English": 60
+            },
+            {
+                "Mathematics": 50
+            },
+            {
+                "Physical Sciences": 50
+            },
+            {
+                "Life Sciences": 60
+            }
+        ]
+    },
+    {
+        "Qualification": "RADIATION THERAPY",
+        "Qualification Code": "B9M04Q",
+        "APS": 31,
+        "Description": "Radiation therapists use high energy radiation such as x-rays, gamma rays, proton or neutrons to treat cancer.",
+        "Subject": [
+            {
+                "English": 60
+            },
+            {
+                "Mathematics": 50
+            },
+            {
+                "Physical Sciences": 50
+            },
+            {
+                "Life Sciences": 60
+            }
+        ]
+    }
+]

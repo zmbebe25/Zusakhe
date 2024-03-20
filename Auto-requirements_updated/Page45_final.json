@@ -1,0 +1,104 @@
+[
+    {
+        "Qualification": "LOGISTICS",
+        "ID":408493388,
+        "FacultyID":47,
+        "Qualification Code": "D1LOGQ",
+        "APS": 26,
+        "Description": "Purchasing Manager, Warehouse Manager.",
+        "Subject": [
+            "AND",
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            },
+            [
+            "OR",
+            {
+                "subjectid": "Mathematics",
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematical Literacy",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Technical Mathematics",
+                "minmark": 40,
+                "required": true
+            }
+            ]
+        ]
+    },
+    {
+        "Qualification": "MARKETING **",
+        "ID":465619120,
+        "FacultyID":47,
+        "Qualification Code": "D1MKTQ",
+        "APS": 24,
+        "Description": "Marketer, Advertising, Brand Management, Customer Relationship Manager, Marketing Manager, Marketing Researcher, Customer Services, Marketing Consulting, Media Planning, Sales Manager.",
+        "Subject": [
+            "AND",
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            },
+            [
+            "OR",
+            {
+                "subjectid": "Mathematics",
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematical Literacy",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Technical Mathematics",
+                "minmark": 40,
+                "required": true
+            }
+            ]
+        ]
+    },
+    {
+        "Qualification": "PEOPLE MANAGEMENT",
+        "ID":942590209,
+        "FacultyID":47,
+        "Qualification Code": "D34P2Q",
+        "APS": 24,
+        "Description": "People Management Practitioners dealing with employee-related issues in organisations. Human Resource Officer, Employee Benefits Officer, Health and Wellness Official, Recruitment and Selection Official, Human Resource Researcher, Training and Development Officer, Change Facilitator, Organisational Development Practitioner.",
+        "Subject": [
+            "AND",
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            },
+            [
+            "OR",
+            {
+                "subjectid": "Mathematics",
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematical Literacy",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Technical Mathematics",
+                "minmark": 40,
+                "required": true
+            }
+            ]
+        ]
+    }
+]

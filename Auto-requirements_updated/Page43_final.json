@@ -1,0 +1,123 @@
+[
+    {
+        "Qualification": "ACCOUNTING",
+        "ID":5928,
+        "FacultyID":47,
+        "Qualification Code": "B3AE7Q",
+        "APS": 28,
+        "Description": "Financial Manager, Accountant, Internal Auditor, Tax Consultant.",
+        "Subject": [
+            "AND",
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            },
+            [
+            "OR",
+            {
+                "subjectid": "Mathematics",
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematical Literacy",
+                "minmark": 70,
+                "required": true
+            }
+            ]
+        ]
+    },
+    {
+        "Qualification": "BUSINESS MANAGEMENT",
+        "ID":132356935,
+        "FacultyID":47,
+        "Qualification Code": "B34BEQ",
+        "APS": 28,
+        "Description": "Management opportunities in various industries on first and/or middle management level, Training Manager, HRD Manager, Employment Relations Manager, Product Development Manager, Branch Manager, General Manager, Change Facilitator, Management Consultant, Entrepreneur, Business Innovator.",
+        "Subject": [
+            "AND",
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            },
+            [
+            "OR",
+            {
+                "subjectid": "Mathematics",
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematical Literacy",
+                "minmark": 70,
+                "required": true
+            },
+            {
+                "subjectid": "Technical Mathematics",
+                "minmark": 40,
+                "required": true
+            }
+            ]
+        ]
+    },
+    {
+        "Qualification": "ECONOMICS AND ECONOMETRICS",
+        "ID":167,
+        "FacultyID":47,
+        "Qualification Code": "B3NE4Q",
+        "APS": 28,
+        "Description": "Economist, Econometrician, Economic Analyst, Forecaster, Economic Planner.",
+        "Subject": [
+            "AND",
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            },
+            [
+            "OR",
+            {
+                "subjectid": "Mathematics",
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematical Literacy",
+                "minmark": 70,
+                "required": true
+            }
+            ]
+        ]
+    },
+    {
+        "Qualification": "FINANCE",
+        "ID":5930,
+        "FacultyID":47,
+        "Qualification Code": "B3FE7Q",
+        "APS": 28,
+        "Description": "Financial Manager, Stockbroker, Accountant, Financial Consultant, Investment Advisor.",
+        "Subject": [
+            "AND",
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            },
+            [
+            "OR",
+            {
+                "subjectid": "Mathematics",
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematical Literacy",
+                "minmark": 70,
+                "required": true
+            }
+            ]
+        ]
+    }
+]

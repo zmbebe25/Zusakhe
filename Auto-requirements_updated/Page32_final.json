@@ -1,0 +1,135 @@
+[
+    {
+        "Qualification": "B ARCHITECTURE",
+        "ID":167,
+        "Qualification Code": "B8BA3Q",
+        "APS": 28,
+        "Description": "Architectural professionals are involved in shaping our built environment, from the simple construction of low- cost housing projects to the most sophisticated technology employed in the erection of skyscrapers. Architectural professionals are thus employed in the design, technological resolution and management of the design and construction process of buildings.",
+        "ENTRANCE": [
+            "AND",
+            {
+                "subjectid": 1,
+                "minmark": 60,
+                "required": true
+            },
+            [
+            "OR",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 97,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "BA DESIGN (COMMUNICATION DESIGN)",
+        "ID":168,
+        "Qualification Code": "B8CD2Q",
+        "APS": 24,
+        "Description": "Communication Designers are creative thinkers and problem solvers who use a range of design methods, processes and techniques to create professional communication designs, such as posters, books, magazines, corporate identity programmes, packaging and web sites, both individually and as members of teams.",
+        "ENTRANCE": [
+            "AND",
+            ["OR", 
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 97,
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            ["OR",
+                {
+                    "subjectid": 1,
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": 21,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+]
+    },
+    {
+        "Qualification": "BA (DIGITAL MEDIA DESIGN)",
+        "ID":169,
+        "Qualification Code": "B8DM3Q",
+        "APS": 24,
+        "Description": "This degree prepares students for careers in the design, film, broadcast and advertising industries as: interaction designers, user experience designers, user interface designers, service designers, music video designers, multimedia animators, motion graphics designers, information designers, video editors, video compositors, digital photographers, digital media consultants and or creative directors.",
+        "ENTRANCE": [
+            "AND",
+            ["OR", 
+            {
+                "subjectid": 103,
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 50,
+                "required": true
+            }
+            ],
+            ["OR",
+            {
+                "subjectid": 1,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 50,
+                "required": true
+            }
+            ]
+]
+
+    },
+    {
+        "Qualification": "BA DESIGN (INDUSTRIAL DESIGN)",
+        "ID":171,
+        "Qualification Code": "B8ID1Q",
+        "APS": 24,
+        "Description": "Industrial Designers improve the aesthetics, ergonomics and functionality of a broad range of products from bespoke/one-off furniture items to mass produced products such as kitchen appliances and cellphones.",
+        "ENTRANCE": [
+            "AND",
+            ["OR", 
+            {
+                "subjectid": 103,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 50,
+                "required": true
+            }   
+
+            ],
+            ["OR",
+            {
+                "subjectid": 1,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 60,
+                "required": true
+            }
+
+            ]
+]
+    }
+]

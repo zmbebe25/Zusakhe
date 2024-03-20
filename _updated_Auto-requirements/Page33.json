@@ -1,0 +1,112 @@
+[
+    {
+        "Qualification": "BA DESIGN (INTERIOR DESIGN)",
+        "ID": 167,
+        "Qualification Code": "B8BA6Q",
+        "APS": 24,
+        "Description": "Interior Designers engage with a range of interior spaces to create innovative spatial solutions with a thorough knowledge of building technology, materials and human environment needs.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "First Additional Language",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Mathematical Literacy",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "BA DESIGN (FASHION DESIGN)",
+        "ID": 168,
+        "Qualification Code": "B8FD1Q",
+        "APS": 24,
+        "Description": "A degree in fashion design prepares graduates for various career possibilities in the fast-paced fashion industry. Amongst other, these include being a fashion designer, a fashion entrepreneur, a pattern engineer, a fashion buyer a fashion stylist.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "First Additional Language",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Mathematical Literacy",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "BA (VISUAL ART)",
+        "ID": 169,
+        "Qualification Code": "B8BA7Q",
+        "APS": 24,
+        "Description": "Visual Art graduates find work in diverse fields of the visual arts industries. In addition to being a professional artist, graduates could work, in art education and training, art gallery and museum curating and management, art consulting, arts writing, art criticism, research and journalism, printmaking and print studio management, paper making and paper production design, community and arts project management, visual events management.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "First Additional Language",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": "Mathematical Literacy",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Technical Mathematics",
+                    "minmark": 40,
+                    "required": true
+                }
+            ]
+        ]
+    }
+]

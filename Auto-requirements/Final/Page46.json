@@ -1,0 +1,814 @@
+[
+    {
+        "Qualification": "RETAIL BUSINESS MANAGEMENT **",
+        "Qualification Code": "D1RBMQ",
+        "APS": 24,
+        "Description": "Prepares the graduate for work in the retailing industry. Buyers, Store Managers, Layout Specialists, Visual Merchandisers, Product Category Managers, Sales Managers, Service Retailing, Advertising and Sales Promotion, Customer Experience Leaders, Customer Analytics, Retail Software Developers, Business Owner.",
+        "Subject": [
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "English"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "40"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematical Literacy"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Technical Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "40"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "SMALL BUSINESS MANAGEMENT",
+        "Qualification Code": "D1SBMQ",
+        "APS": 24,
+        "Description": "Entrepreneur, Business Owner, Business Advisor, Business Manager, Social Entrepreneur. It is recommended that applicants to this qualification show a desire to start their own business.",
+        "Subject": [
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "English"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "40"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematical Literacy"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Technical Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "40"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "TOURISM MANAGEMENT",
+        "Qualification Code": "D34TMQ",
+        "APS": 24,
+        "Description": "Prepares the graduate with operational and managerial aspects to work in a variety of different tourism related sectors.",
+        "Subject": [
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "English"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "40"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematical Literacy"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Technical Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "40"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "TRANSPORTATION MANAGEMENT",
+        "Qualification Code": "D1TRMQ",
+        "APS": 26,
+        "Description": "Transportation Manager.",
+        "Subject": [
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "English"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "40"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematical Literacy"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Technical Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "40"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "LOGISTICS",
+        "Qualification Code": "D1LOGE",
+        "APS": 24,
+        "Description": "Purchasing Manager, Warehouse Manager.",
+        "Subject": [
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "English"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "40"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematical Literacy"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "60"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Technical Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "40"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "PEOPLE MANAGEMENT",
+        "Qualification Code": "D34PEQ",
+        "APS": 21,
+        "Description": "People Management Practitioners deal with employee-related issues in organisations. Human Resource Officer, Employee Benefits Officer, Health and Wellness Official, Recruitment and Selection Official, Human Resource Researcher, Training and Development Officer, Change Facilitator, Organisational Development Practitioner.",
+        "Subject": [
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "English"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "40"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematical Literacy"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Technical Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "40"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "SMALL BUSINESS MANAGEMENT",
+        "Qualification Code": "D1SBME",
+        "APS": 21,
+        "Description": "Entrepreneur, Business Owner, Business Advisor, Business Manager, Social Entrepreneur. It is recommended that applicants to this qualification show a desire to start their own business.",
+        "Subject": [
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "English"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "40"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Mathematical Literacy"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "50"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "subjectid"
+            },
+            {
+                "minmark": "Technical Mathematics"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "minmark"
+            },
+            {
+                "minmark": "40"
+            },
+            {
+                "required": true
+            },
+            {
+                "subjectid": "required"
+            },
+            {
+                "minmark": "True"
+            },
+            {
+                "required": true
+            }
+        ]
+    }
+]

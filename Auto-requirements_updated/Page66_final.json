@@ -1,0 +1,187 @@
+[
+
+    {
+        "Qualification": "BIOKINETICS",
+        "ID":307,
+        "Qualification Code": "B9S15Q",
+        "APS": 32,
+        "Description": "Practitioners uses high frequency sound waves to produce images of body structures.",
+        "Subject":  [
+            "AND", 
+           
+            {
+                "subjectid": "English",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematics",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematical Literacy",
+                "minmark": 60,
+                "required": true
+            }
+
+        ]
+    },
+    {
+        "Qualification": "NUCLEAR MEDICINE",
+        "ID":266,
+        "Qualification Code": "B9M02Q",
+        "APS": 31,
+        "Description": "Practitioners use small amounts of radioactive substances (radio-nuclides) to diagnose and treat diseases.",
+        "Subject":  [
+            "AND", 
+            {
+                "subjectid": "Life Sciences",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "English",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematics",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Physical Sciences",
+                "minmark": 50,
+                "required": true
+            }
+
+        ]
+    },
+    {
+        "Qualification": "DIAGNOSTIC RADIOGRAPHY",
+        "ID":263,
+        "Qualification Code": "B9M01Q",
+        "APS": 31,
+        "Description": "Radiographers use x-ray equipment and Magnetic Resonance Imaging equipment to produce images that assist in the diagnosis of injuries and diseases.",
+        "Subject": 
+        [
+            "AND", 
+            {
+                "subjectid": "Life Sciences",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "English",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematics",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Physical Sciences",
+                "minmark": 50,
+                "required": true
+            }
+
+        ]
+    },
+    {
+        "Qualification": "DIAGNOSTIC ULTRASOUND",
+        "ID":264,
+        "Qualification Code": "B9M03Q",
+        "APS": 31,
+        "Description": "Practitioners uses high frequency sound waves to produce images of body structures.",
+        "Subject":  [
+            "AND", 
+            {
+                "subjectid": "Life Sciences",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "English",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematics",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Physical Sciences",
+                "minmark": 50,
+                "required": true
+            }
+
+        ]
+    },
+    {
+        "Qualification": "NUCLEAR MEDICINE",
+        "ID":266,
+        "Qualification Code": "B9M02Q",
+        "APS": 31,
+        "Description": "Practitioners use small amounts of radioactive substances (radio-nuclides) to diagnose and treat diseases.",
+        "Subject":  [
+            "AND", 
+            {
+                "subjectid": "Life Sciences",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "English",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematics",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Physical Sciences",
+                "minmark": 50,
+                "required": true
+            }
+
+        ]
+    },
+    {
+        "Qualification": "RADIATION THERAPY",
+        "ID":267,
+        "Qualification Code": "B9M04Q",
+        "APS": 31,
+        "Description": "Radiation therapists use high energy radiation such as x-rays, gamma rays, proton or neutrons to treat cancer.",
+        "Subject":  [
+            "AND", 
+            {
+                "subjectid": "Life Sciences",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "English",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematics",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Physical Sciences",
+                "minmark": 50,
+                "required": true
+            }
+
+        ]
+        
+    }
+]

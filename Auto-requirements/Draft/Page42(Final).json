@@ -1,0 +1,46 @@
+[
+    {
+        "Qualification": "INFORMATION\nMANAGEMENT",
+        "Qualification Code": "B34IMQ",
+        "APS": "RO ycaretiL\nshtaM\nlacitamehtaM\nhceT/shtaM\nhtiw htiw\n62 82",
+        "English": "4\n(50%+)",
+        "Mathematics": "4\n(50%+)",
+        "Mathematical Literacy": "6\n(70%+)",
+        "Technical Mathematics": "4\n(50%+)",
+        "Description": ".reganaM sdroceR ,reciffO ecnegilletnI\nevititepmoC ,rehcraeseR ,reganaM\negdelwonK ,reganaM noitamrofnI",
+        "8": "KPA"
+    },
+    {
+        "Qualification": "INFORMATION\nSYSTEMS",
+        "Qualification Code": "B1CISQ",
+        "APS": "26",
+        "English": "4\n(50%+)",
+        "Mathematics": "4\n(50%+)",
+        "Mathematical Literacy": "Not\naccepted",
+        "Technical Mathematics": "4\n(50%+)",
+        "Description": ".tnatlusnoC TI ,tsylanA\nsmetsyS ,rotartsinimdA esabataD\n,reciffO noitamrofnI feihC ,trepxE\necnegilletnI ssenisuB ,reganaM TI\n,tsylanA ssenisuB ,reganaM tcejorP TI",
+        "8": "BPA"
+    },
+    {
+        "Qualification": "MARKETING\nMANAGEMENT",
+        "Qualification Code": "B1CMMQ",
+        "APS": "26",
+        "English": "4\n(50%+)",
+        "Mathematics": "4\n(50%+)",
+        "Mathematical Literacy": "Not\naccepted",
+        "Technical Mathematics": "4\n(50%+)",
+        "Description": ".reganaM selaS ,rennalP aideM\n,tnatlusnoC gnitekraM ,reganaM\nsecivreS remotsuC ,rehcraeseR\ngnitekraM ,reganaM gnitekraM\n,reganaM pihsnoitaleR remotsuC\n,reganaM dnarB ,reganaM gnisitrevdA",
+        "8": "KPA"
+    },
+    {
+        "Qualification": "TRANSPORT\nAND LOGISTICS\nMANAGEMENT",
+        "Qualification Code": "B34TLQ",
+        "APS": "27",
+        "English": "5\n(60%+)",
+        "Mathematics": "4\n(50%+)",
+        "Mathematical Literacy": "accepted Not",
+        "Technical Mathematics": "4\n(50%+)",
+        "Description": ".reganaM noitcudorP ,tnatlusnoC\n,reganaM scitsigoL",
+        "8": "KPA"
+    }
+]

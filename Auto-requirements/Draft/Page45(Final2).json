@@ -1,0 +1,38 @@
+[
+    {
+        "Qualification": "LOGISTICS",
+        "Qualification Code": "D1LOGQ",
+        "APS": 26,
+        "English": 50,
+        "Mathematics": 40,
+        "Mathematical Literacy": 60,
+        "Technical Mathematics": 40,
+        "Description": ".reganaM esuoheraW\n,reganaM gnisahcruP",
+        "8": "BPA",
+        "First Additional Language": null
+    },
+    {
+        "Qualification": "MARKETING **",
+        "Qualification Code": "D1MKTQ",
+        "APS": 24,
+        "English": 50,
+        "Mathematics": 40,
+        "Mathematical Literacy": 60,
+        "Technical Mathematics": 40,
+        "Description": ".reganaM selaS ,gninnalP\naideM ,gnitlusnoC gnitekraM ,secivreS\nremotsuC ,rehcraeseR gnitekraM\n,reganaM gnitekraM ,reganaM\npihsnoitaleR remotsuC ,tnemeganaM\ndnarB ,gnisitrevdA ,retekraM",
+        "8": "BPA",
+        "First Additional Language": null
+    },
+    {
+        "Qualification": "PEOPLE\nMANAGEMENT",
+        "Qualification Code": "D34P2Q",
+        "APS": 24,
+        "English": 50,
+        "Mathematics": 40,
+        "Mathematical Literacy": 60,
+        "Technical Mathematics": 40,
+        "Description": ".renoititcarP tnempoleveD\nlanoitasinagrO ,rotatilicaF egnahC\n,reciffO tnempoleveD dna gniniarT\n,rehcraeseR ecruoseR namuH\n,laiciffO noitceleS dna tnemtiurceR\n,laiciffO ssenlleW dna htlaeH ,reciffO\nstifeneB eeyolpmE ,reciffO ecruoseR\nnamuH .snoitasinagro ni seussi\ndetaler-eeyolpme htiw gnilaed\nsrenoititcarP tnemeganaM elpoeP",
+        "8": "CWS",
+        "First Additional Language": null
+    }
+]

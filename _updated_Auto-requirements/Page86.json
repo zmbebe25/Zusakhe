@@ -1,0 +1,77 @@
+[
+    {
+        "Qualification": "INFORMATION TECHNOLOGY",
+        "ID": 167,
+        "Qualification Code": "B2I01Q",
+        "APS": 30,
+        "Description": "Systems Analyst, Network Manager, Programmer, Web Developer, Web Master, Database Administrator, Software Engineer, Computer Graphics Designer, Information Technology Manager, Researcher.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 70,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "COMPUTER SCIENCE AND INFORMATICS",
+        "ID": 168,
+        "Qualification Code": "B2I02Q",
+        "APS": 30,
+        "Description": "Systems Analyst, Network Manager, Programmer, Web Developer, Web Master, Database Administrator, Software Engineer, Computer Graphics Designer, Information Technology Manager, Researcher.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 70,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "COMPUTER SCIENCE AND INFORMATICS specialising in AI (Artificial Intelligence)",
+        "ID": 169,
+        "Qualification Code": "B2I04Q",
+        "APS": 34,
+        "Description": "Security Architect, Knowledge Manager, Cyber Crime Investigator, All-Source Analyst, IT Investment/Portfolio Manager, Systems Analyst, Network Manager, Programmer, Web Developer, Web Master, Database Administrator, Software Engineer, Computer Graphics Designer, Information Technology Manager, Researcher.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 80,
+                    "required": true
+                }
+            ]
+        ]
+    }
+]

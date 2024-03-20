@@ -1,0 +1,352 @@
+[
+    {
+        "Qualification": "CONSTRUCTION",
+        "ID": 167,
+        "Qualification Code": "B6SC0Q",
+        "APS": 26,
+        "Description": "Students are employed in the construction industry as Quantity Surveyors and Construction Managers.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Technical Science",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Sciences",
+                    "minmark": 60,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Technical Mathematics",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "CIVIL ENGINEERING",
+        "ID": 168,
+        "Qualification Code": "B6CX3Q",
+        "APS": 26,
+        "Description": "Professional Civil Engineering, Plan, Design and Construction of Infrastructure.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Sciences",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Technical Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Technical Mathematics",
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "ELECTRICAL ENGINEERING",
+        "ID": 169,
+        "Qualification Code": "B6L1XQ",
+        "APS": 26,
+        "Description": "Electronic Design, Software System Design.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Sciences",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Technical Science",
+                    "minmark": 60,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Technical Mathematics",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "EXTRACTION METALLURGY",
+        "ID": 170,
+        "Qualification Code": "B6EX0Q",
+        "APS": 22,
+        "Description": "Manage metallurgical plants that are designed to recover and refine metals or other valuable constituents in mine ores.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Sciences",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Technical Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Technical Mathematics",
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "INDUSTRIAL ENGINEERING",
+        "ID": 171,
+        "Qualification Code": "B6IX2Q",
+        "APS": 24,
+        "Description": "Industrial Engineers design and implement systems in organisations to maximise production.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Sciences",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Technical Science",
+                    "minmark": 60,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Technical Mathematics",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "MECHANICAL ENGINEERING",
+        "ID": 172,
+        "Qualification Code": "B6MX2Q",
+        "APS": 24,
+        "Description": "Mechanical Engineers design, manufacture and maintain industrial machines and engines.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Sciences",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Technical Science",
+                    "minmark": 60,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Technical Mathematics",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "PHYSICAL METALLURGY",
+        "ID": 173,
+        "Qualification Code": "B6PX2Q",
+        "APS": 22,
+        "Description": "Engineering Metallurgists assess the suitability of metals for their use in metallic goods.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Sciences",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Technical Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Technical Mathematics",
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "MANAGEMENT SERVICES",
+        "ID": 174,
+        "Qualification Code": "D6MAEQ",
+        "APS": 21,
+        "Description": "Advise on improving the efficiency and the productivity of an organisation.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": "Technical Mathematics",
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": "Mathematical Literacy",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "OPERATIONS MANAGEMENT",
+        "ID": 175,
+        "Qualification Code": "D6OPEQ",
+        "APS": 22,
+        "Description": "This career equips the graduate with the ability to plan, organise and control operational activities in an organisation.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": "Technical Mathematics",
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": "Mathematical Literacy",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    }
+]

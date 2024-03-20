@@ -1,0 +1,107 @@
+[
+    {
+        "Qualification": "GEOGRAPHY AND ENVIRONMENTAL MANAGEMENT",
+        "ID": 167,
+        "Qualification Code": "B2L20Q",
+        "APS": 30,
+        "Description": "Location Analyst, Town Planner, Geo-Information Specialist, Environmental Rehabilitation Manager, Geomorphologist.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Life Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "GEOLOGY AND ENVIRONMENTAL MANAGEMENT",
+        "ID": 168,
+        "Qualification Code": "B2L24Q",
+        "APS": 30,
+        "Description": "Geographer, Geologist, Mineralogist, Regional Planner, Site Analyst, GIS Specialist.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Life Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "GEOLOGY AND GEOGRAPHY",
+        "ID": 169,
+        "Qualification Code": "B2L25Q",
+        "APS": 30,
+        "Description": "Geographer, Geologist, Mineralogist, Regional Planner, Site Analyst, Geographical Information Specialist.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Life Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    }
+]

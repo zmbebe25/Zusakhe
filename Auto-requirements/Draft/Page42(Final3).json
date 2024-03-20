@@ -1,0 +1,82 @@
+[
+    {
+        "Qualification": "INFORMATION\nMANAGEMENT",
+        "Qualification Code": "B34IMQ",
+        "APS": 28,
+        "Description": ".reganaM sdroceR ,reciffO ecnegilletnI\nevititepmoC ,rehcraeseR ,reganaM\negdelwonK ,reganaM noitamrofnI",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 50
+            },
+            {
+                "Mathematical Literacy": 70
+            },
+            {
+                "Technical Mathematics": 50
+            }
+        ]
+    },
+    {
+        "Qualification": "INFORMATION\nSYSTEMS",
+        "Qualification Code": "B1CISQ",
+        "APS": 26,
+        "Description": ".tnatlusnoC TI ,tsylanA\nsmetsyS ,rotartsinimdA esabataD\n,reciffO noitamrofnI feihC ,trepxE\necnegilletnI ssenisuB ,reganaM TI\n,tsylanA ssenisuB ,reganaM tcejorP TI",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 50
+            },
+            {
+                "Mathematical Literacy": null
+            },
+            {
+                "Technical Mathematics": 50
+            }
+        ]
+    },
+    {
+        "Qualification": "MARKETING\nMANAGEMENT",
+        "Qualification Code": "B1CMMQ",
+        "APS": 26,
+        "Description": ".reganaM selaS ,rennalP aideM\n,tnatlusnoC gnitekraM ,reganaM\nsecivreS remotsuC ,rehcraeseR\ngnitekraM ,reganaM gnitekraM\n,reganaM pihsnoitaleR remotsuC\n,reganaM dnarB ,reganaM gnisitrevdA",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 50
+            },
+            {
+                "Mathematical Literacy": null
+            },
+            {
+                "Technical Mathematics": 50
+            }
+        ]
+    },
+    {
+        "Qualification": "TRANSPORT\nAND LOGISTICS\nMANAGEMENT",
+        "Qualification Code": "B34TLQ",
+        "APS": 27,
+        "Description": ".reganaM noitcudorP ,tnatlusnoC\n,reganaM scitsigoL",
+        "Subject": [
+            {
+                "English": 60
+            },
+            {
+                "Mathematics": 50
+            },
+            {
+                "Mathematical Literacy": null
+            },
+            {
+                "Technical Mathematics": 50
+            }
+        ]
+    }
+]

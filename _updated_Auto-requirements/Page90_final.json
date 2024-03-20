@@ -1,0 +1,145 @@
+[
+    {
+        "Qualification": "BIOCHEMISTRY AND CHEMISTRY",
+        "Qualification Code": "B2P70Q",
+        "APS": 31,
+        "Description": "Scientist in the field of food and water, biomedical, biotechnological and agricultural sectors.",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 60
+                },
+                {
+                    "Mathematics": 70
+                },
+                {
+                    "Physical Science": 60
+                },
+                {
+                    "Life Science": 50
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "CHEMISTRY AND MATHEMATICS",
+        "Qualification Code": "B2P71Q",
+        "APS": 31,
+        "Description": "Chemistry, Researcher, Technologist, Problem Solver.",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 60
+                },
+                {
+                    "Mathematics": 70
+                },
+                {
+                    "Physical Science": 60
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "CHEMISTRY AND PHYSICS",
+        "Qualification Code": "B2P72Q",
+        "APS": 31,
+        "Description": "Physicist, Researcher, Chemistry Technologist, Forensic Researcher.",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 60
+                },
+                {
+                    "Mathematics": 70
+                },
+                {
+                    "Physical Science": 60
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "GEOLOGY AND CHEMISTRY",
+        "Qualification Code": "B2P81Q",
+        "APS": 31,
+        "Description": "Geochemist, Geologist, Forensic Scientist, Exploration Expert.",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 60
+                },
+                {
+                    "Mathematics": 70
+                },
+                {
+                    "Physical Science": 60
+                },
+                {
+                    "Life Science": 50
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "MATHEMATICAL STATISTICS AND ECONOMICS (WITH FINANCIAL ORIENTATION)",
+        "Qualification Code": "B2M50Q",
+        "APS": 33,
+        "Description": "Econometrist, Investment Economist, Biometricist, Economic Journalist.",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 60
+                },
+                {
+                    "Mathematics": 70
+                },
+                {
+                    "Physical Science": 50
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "MATHEMATICS AND ECONOMICS (WITH FINANCIAL ORIENTATION)",
+        "Qualification Code": "B2M51Q",
+        "APS": 33,
+        "Description": "Econometrist, Investment Economist, Consultant.",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 60
+                },
+                {
+                    "Mathematics": 70
+                },
+                {
+                    "Physical Science": 50
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "ACTUARIAL SCIENCE",
+        "Qualification Code": "B2M52Q",
+        "APS": 33,
+        "Description": "Actuary, Actuarial Analyst, Quantitative Analyst, Risk Manager, Investment Manager, Credit Ratings Analyst, Statistician, Academic.",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 60
+                },
+                {
+                    "Mathematics": 80
+                }
+            ]
+        ]
+    }
+]

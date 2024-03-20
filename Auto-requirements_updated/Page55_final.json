@@ -1,0 +1,320 @@
+[
+    {
+        "Qualification": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - LANGUAGE EDUCATION: ENGLISH",
+        "ID":711401634,
+        "FacultyID":47,
+        "Qualification Code": "B5LAEQ",
+        "APS": 26,
+        "Description": "Educator focusing on high school teaching.",
+        "Subject": [
+            "OR", 
+            {
+                "subjectid": "English Home language",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "English Additional Language",
+                "minmark": 70,
+                "required": true
+            }
+
+        ]
+    },
+    {
+        "Qualification": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - LANGUAGE EDUCATION: AFRIKAANS",
+        "ID":292308067,
+        "FacultyID":47,
+        "Qualification Code": "B5LAFQ",
+        "APS": 26,
+        "Description": "Educator focusing on high school teaching.",
+        "Subject":  [
+            "AND",
+            ["OR", 
+            {
+                "subjectid": "English Home language",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "English Additional Language",
+                "minmark": 70,
+                "required": true
+            }
+            ],
+            ["OR",
+            {
+                "subjectid": "Afrikaans Home language",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Afrikaans Additional Language",
+                "minmark": 60,
+                "required": true
+            }
+               
+            ]
+]
+    },
+    {
+        "Qualification": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - LANGUAGE EDUCATION:ISIZULU",
+        "ID":262439606,
+        "FacultyID":47,
+        "Qualification Code": "B5LAZQ",
+        "APS": 26,
+        "Description": "Educator focusing on high school teaching.",
+        "Subject": {
+            "AND": [],
+            "OR": [
+                [
+                    "AND",
+                    ["OR", 
+                    {
+                        "subjectid": "English Home language",
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": "English Additional Language",
+                        "minmark": 70,
+                        "required": true
+                    }
+                    ],
+                    ["OR",
+                    {
+                        "subjectid": "IsiZulu Home language",
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": "IsiZulu Additional Language",
+                        "minmark": 60,
+                        "required": true
+                    }
+                   
+                    ]
+        ]
+            ]
+        }
+    },
+    {
+        "Qualification": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - LANGUAGE EDUCATION: SEPEDI",
+        "ID":804675385,
+        "FacultyID":47,
+        "Qualification Code": "B5LASQ",
+        "APS": 26,
+        "Description": "Educator focusing on high school teaching.",
+        "Subject": [
+            "AND",
+            ["OR", 
+            {
+                "subjectid": "English Home language",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "English Additional Language",
+                "minmark": 70,
+                "required": true
+            }
+            ],
+            ["OR",
+            {
+                "subjectid": "Sepedi Home language",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Sepedi Additional Language",
+                "minmark": 60,
+                "required": true
+            }
+            ]
+]
+    },
+    {
+        "Qualification": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - GEOGRAPHY",
+        "ID":949881135,
+        "FacultyID":47,
+        "Qualification Code": "B5SGEQ",
+        "APS": 26,
+        "Description": "Educator focusing on high school teaching.",
+        "Subject": [
+            "AND",
+            {
+                "subjectid": "Life Sciences",
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": "Geography",
+                "minmark": 40,
+                "required": true
+            },
+            ["OR", 
+            {
+                "subjectid": "English Home language",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "English Additional Language",
+                "minmark": 70,
+                "required": true
+            }
+            ],
+            ["OR",
+               
+            {
+                "subjectid": "Mathematics",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Technical Maths",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematical Literacy",
+                "minmark": 70,
+                "required": true
+            }
+        ]
+]
+    },
+    {
+        "Qualification": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - LIFE SCIENCES",
+        "ID":361239586,
+        "FacultyID":47,
+        "Qualification Code": "B5SLSQ",
+        "APS": 26,
+        "Description": "Educator focusing on high school teaching.",
+        "Subject": [
+            "AND",
+            {
+                "subjectid": "Physical Sciences",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Life Sciences",
+                "minmark": 50,
+                "required": true
+            },
+            ["OR", 
+            {
+                "subjectid": "Mathematics",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Technical Maths",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematical Literacy",
+                "minmark": 70,
+                "required": true
+            }
+            ],
+            ["OR",
+            {
+                "subjectid": "English Home language",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "English Additional Language",
+                "minmark": 70,
+                "required": true
+            }
+               
+            ]
+]
+    },
+    {
+        "Qualification": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - MATHEMATICS",
+        "ID":400416480,
+        "FacultyID":47,
+        "Qualification Code": "B5SMMQ",
+        "APS": 26,
+        "Description": "Educator focusing on high school teaching.",
+        "Subject": [
+            "AND",
+            ["OR", 
+            {
+                "subjectid": "English Home language",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "English Additional Language",
+                "minmark": 70,
+                "required": true
+            }
+            ],
+            ["OR",
+            {
+                "subjectid": "Mathematics",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Technical Maths",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematical Literacy",
+                "minmark": 70,
+                "required": true
+            }
+               
+            ]
+]
+    },
+    {
+        "Qualification": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - PHYSICAL SCIENCE",
+        "ID":575067476,
+        "FacultyID":47,
+        "Qualification Code": "B5SPSQ",
+        "APS": 26,
+        "Description": "Educator focusing on high school teaching.",
+        "Subject":[
+            "AND",
+            {
+                "subjectid": "Physical Sciences",
+                "minmark": 50,
+                "required": true
+            },
+            ["OR", 
+            {
+                "subjectid": "English Home language",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "English Additional Language",
+                "minmark": 70,
+                "required": true
+            }
+               
+            ],
+            ["OR",
+            {
+                "subjectid": "Mathematics",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Technical Maths",
+                "minmark": 50,
+                "required": true
+            }
+            ]
+]
+    }
+]

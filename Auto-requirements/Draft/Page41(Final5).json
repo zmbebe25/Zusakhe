@@ -1,0 +1,142 @@
+[
+    {
+        "Qualification": "PUBLIC MANAGEMENT AND GOVERNANCE",
+        "Qualification Code": "B34PKQ / B34PSQ",
+        "APS": 28,
+        "Description": "Public Managers in State Departments, Provincial Departments and Municipalities, Public, Private and NGO Sector, Administrative and Managerial Positions.",
+        "Subject": [
+            {
+                "English": 60
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 60
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    },
+    {
+        "Qualification": "ACCOUNTING",
+        "Qualification Code": "B3A17Q",
+        "APS": 28,
+        "Description": "Financial Manager, Accountant, Internal Auditor, Tax Consultant.",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 50
+            },
+            {
+                "Mathematical Literacy": null
+            },
+            {
+                "Technical Mathematics": null
+            }
+        ]
+    },
+    {
+        "Qualification": "BUSINESS MANAGEMENT",
+        "Qualification Code": "B34BMQ",
+        "APS": 26,
+        "Description": "Training Manager, HRD Manager, Employment Relations Manager, Product Development Manager, Branch Manager, General Manager, Change Facilitator, Management Consultant, Entrepreneur, Business Innovator.",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 50
+            },
+            {
+                "Mathematical Literacy": null
+            },
+            {
+                "Technical Mathematics": 50
+            }
+        ]
+    },
+    {
+        "Qualification": "ECONOMICS AND ECONOMETRICS",
+        "Qualification Code": "B3N14Q",
+        "APS": 28,
+        "Description": "Economist, Econometrician, Economic Analyst, Forecaster, Economic Planner.",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 50
+            },
+            {
+                "Mathematical Literacy": null
+            },
+            {
+                "Technical Mathematics": null
+            }
+        ]
+    },
+    {
+        "Qualification": "ENTREPRENEURIAL MANAGEMENT",
+        "Qualification Code": "B1CEMQ",
+        "APS": 26,
+        "Description": "Business Owner, Marketing Manager, Manager, Consultant, Business Manager, Financial Manager.",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 50
+            },
+            {
+                "Mathematical Literacy": null
+            },
+            {
+                "Technical Mathematics": 50
+            }
+        ]
+    },
+    {
+        "Qualification": "FINANCE",
+        "Qualification Code": "B3F17Q",
+        "APS": 28,
+        "Description": "Financial Manager, Stockbroker, Accountant, Financial Consultant, Investment Advisor.",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 50
+            },
+            {
+                "Mathematical Literacy": null
+            },
+            {
+                "Technical Mathematics": null
+            }
+        ]
+    },
+    {
+        "Qualification": "INDUSTRIAL PSYCHOLOGY",
+        "Qualification Code": "B34IPQ",
+        "APS": 26,
+        "Description": "Specialist HR Practitioners dealing with the problems or challenges arising from employees\u2019 relationship within the work environment.",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 50
+            },
+            {
+                "Mathematical Literacy": null
+            },
+            {
+                "Technical Mathematics": 50
+            }
+        ]
+    }
+]

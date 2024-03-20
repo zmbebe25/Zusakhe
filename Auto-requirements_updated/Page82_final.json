@@ -1,0 +1,98 @@
+[
+    {
+        "Qualification": "BA (LAW)",
+        "ID":336,
+        "Qualification Code": "B4A01Q",
+        "APS": 32,
+        "Description": "Legal Advisor, Career in Public Administration.",
+        "Subject": [
+            "AND",
+            {
+                "subjectid": "English",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "First Additional Language",
+                "minmark": 60,
+                "required": true
+            },
+            [
+            "OR",
+            {
+                "subjectid": "Mathematics",
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematical Literacy",
+                "minmark": 50,
+                "required": true
+            }
+            ]
+        ]
+    },
+    {
+        "Qualification": "BCOM (LAW)",
+        "ID":338,
+        "Qualification Code": "B4C01Q",
+        "APS": 31,
+        "Description": "Legal Advisor, Career in Commerce.",
+        "Subject": [
+            "AND", 
+               
+ 
+                
+            {
+                "subjectid": "English",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematics",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "First Additional Language",
+                "minmark": 50,
+                "required": true
+            }
+            
+        ]
+    },
+    {
+        "Qualification": "LLB",
+        "ID":337,
+        "Qualification Code": "B4L03Q",
+        "APS": 32,
+        "Description": "Advocate, Attorney, State Advocate, Legal Advisor, Magistrate, Public Prosecutor.",
+        "Subject": [
+            "AND",
+            {
+                "subjectid": "English",
+                "minmark": 60,
+                "required": true
+            },
+            
+            {
+                "subjectid": "First Additional Language",
+                "minmark": 50,
+                "required": true
+            },
+            [
+            "OR",
+            {
+                "subjectid": "Mathematics",
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematical Literacy",
+                "minmark": 50,
+                "required": true
+            }
+            ]
+        ]
+    }
+]

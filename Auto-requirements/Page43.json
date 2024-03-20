@@ -1,0 +1,73 @@
+[
+    {
+        "Qualification": "ACCOUNTING",
+        "Qualification Code": "B3AE7Q",
+        "APS": 28,
+        "Description": "Financial Manager, Accountant, Internal Auditor, Tax Consultant.",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 70
+            }
+        ]
+    },
+    {
+        "Qualification": "BUSINESS MANAGEMENT",
+        "Qualification Code": "B34BEQ",
+        "APS": 28,
+        "Description": "Management opportunities in various industries on first and/or middle management level, Training Manager, HRD Manager, Employment Relations Manager, Product Development Manager, Branch Manager, General Manager, Change Facilitator, Management Consultant, Entrepreneur, Business Innovator.",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 70
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    },
+    {
+        "Qualification": "ECONOMICS AND ECONOMETRICS",
+        "Qualification Code": "B3NE4Q",
+        "APS": 28,
+        "Description": "Economist, Econometrician, Economic Analyst, Forecaster, Economic Planner.",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 70
+            }
+        ]
+    },
+    {
+        "Qualification": "FINANCE",
+        "Qualification Code": "B3FE7Q",
+        "APS": 28,
+        "Description": "Financial Manager, Stockbroker, Accountant, Financial Consultant, Investment Advisor.",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 70
+            }
+        ]
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "Qualification": "BA (LAW)",
+        "Qualification Code": "B4A01Q",
+        "APS": 32,
+        "Description": "Legal Advisor, Career in Public Administration.",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 60
+                },
+                {
+                    "Additional Language *": 50
+                },
+                {
+                    "Mathematics": 40
+                },
+                {
+                    "Mathematical Literacy": 50
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "BCOM (LAW)",
+        "Qualification Code": "B4C01Q",
+        "APS": 31,
+        "Description": "Legal Advisor, Career in Commerce.",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 60
+                },
+                {
+                    "Additional Language *": 50
+                },
+                {
+                    "Mathematics": 50
+                },
+                {
+                    "Mathematical Literacy": null
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "LLB",
+        "Qualification Code": "B4L03Q",
+        "APS": 32,
+        "Description": "Advocate, Attorney, State Advocate, Legal Advisor, Magistrate, Public Prosecutor.",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 60
+                },
+                {
+                    "Additional Language *": 50
+                },
+                {
+                    "Mathematics": 40
+                },
+                {
+                    "Mathematical Literacy": 50
+                }
+            ]
+        ]
+    }
+]

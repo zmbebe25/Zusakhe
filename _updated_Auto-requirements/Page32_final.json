@@ -1,0 +1,95 @@
+[
+    {
+        "Qualification": "B ARCHITECTURE",
+        "Qualification Code": "B8BA3Q",
+        "APS": 28,
+        "Description": "Architectural professionals are involved in shaping our built environment, from the simple construction of low- cost housing projects to the most sophisticated technology employed in the erection of skyscrapers. Architectural professionals are thus employed in the design, technological resolution and management of the design and construction process of buildings.",
+        "9": "BPA",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 60
+                },
+                {
+                    "First Additional Language": 50
+                },
+                {
+                    "Mathematics": 60
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "BA DESIGN (COMMUNICATION DESIGN)",
+        "Qualification Code": "B8CD2Q",
+        "APS": 24,
+        "Description": "Communication Designers are creative thinkers and problem solvers who use a range of design methods, processes and techniques to create professional communication designs, such as posters, books, magazines, corporate identity programmes, packaging and web sites, both individually and as members of teams.",
+        "9": "BPA",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 60
+                },
+                {
+                    "First Additional Language": 50
+                },
+                {
+                    "Mathematics": 40
+                },
+                {
+                    "Mathematical Literacy": 50
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "BA (DIGITAL MEDIA DESIGN)",
+        "Qualification Code": "B8DM3Q",
+        "APS": 24,
+        "Description": "This degree prepares students for careers in the design, film, broadcast and advertising industries as: interaction designers, user experience designers, user interface designers, service designers, music video designers, multimedia animators, motion graphics designers, information designers, video editors, video compositors, digital photographers, digital media consultants and or creative directors.",
+        "9": "BPA",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 60
+                },
+                {
+                    "First Additional Language": 50
+                },
+                {
+                    "Mathematics": 40
+                },
+                {
+                    "Mathematical Literacy": 50
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "BA DESIGN (INDUSTRIAL DESIGN)",
+        "Qualification Code": "B8ID1Q",
+        "APS": 24,
+        "Description": "Industrial Designers improve the aesthetics, ergonomics and functionality of a broad range of products from bespoke/one-off furniture items to mass produced products such as kitchen appliances and cellphones.",
+        "9": "BPA",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 50
+                },
+                {
+                    "First Additional Language": 50
+                },
+                {
+                    "Mathematics": 50
+                },
+                {
+                    "Mathematical Literacy": 60
+                }
+            ]
+        ]
+    }
+]

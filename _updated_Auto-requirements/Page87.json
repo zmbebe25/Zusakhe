@@ -1,0 +1,317 @@
+[
+    {
+        "Qualification": "BIOCHEMISTRY AND BOTANY",
+        "ID": 167,
+        "Qualification Code": "B2L10Q",
+        "APS": 30,
+        "Description": "Analyst, Technologist or Researcher at Sasol, Eskom, Pharmaceutical Companies, Mining Companies or in Health Industry.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Life Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "BOTANY AND CHEMISTRY",
+        "ID": 168,
+        "Qualification Code": "B2L11Q",
+        "APS": 30,
+        "Description": "Biologist, Botanist, Ecologist, Nature Conservation Scientist, Forensic Scientist.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Life Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 70,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "BOTANY AND ZOOLOGY",
+        "ID": 169,
+        "Qualification Code": "B2L12Q",
+        "APS": 30,
+        "Description": "Biologist, Nature Conservationist, Environmentalist, Ethno-Botanist, Ecologist, Entomologist, Pathologist, Parasitologist, Geneticist, Food Technologist, Zoologist.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Life Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "ZOOLOGY AND BIOCHEMISTRY",
+        "ID": 170,
+        "Qualification Code": "B2L13Q",
+        "APS": 30,
+        "Description": "Zoologist, Biochemist, Nature Conservationist, Environmentalist, Ecologist, Entomologist, Pathologist, Geneticist, Food Technologist",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Life Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "ZOOLOGY AND CHEMISTRY",
+        "ID": 171,
+        "Qualification Code": "B2L14Q",
+        "APS": 30,
+        "Description": "Zoologist, Chemical Technologist and Researcher.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Life Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 70,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "ZOOLOGY AND ENVIRONMENTAL MANAGEMENT",
+        "ID": 172,
+        "Qualification Code": "B2L15Q",
+        "APS": 30,
+        "Description": "Geo-Zoologist, Population Geneticist, Environmental Ecologist and Specialist.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Life Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "ZOOLOGY AND GEOGRAPHY",
+        "ID": 173,
+        "Qualification Code": "B2L16Q",
+        "APS": 30,
+        "Description": "Geo-Zoologist, Population Geneticist, Environmental Ecologist and Specialist.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Life Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "PHYSIOLOGY AND BIOCHEMISTRY",
+        "ID": 174,
+        "Qualification Code": "B2L18Q",
+        "APS": 30,
+        "Description": "Biochemist, Researcher, Forensic Analyst, Biotechnologist.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Life Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "PHYSIOLOGY AND PSYCHOLOGY",
+        "ID": 175,
+        "Qualification Code": "B2L19Q",
+        "APS": 30,
+        "Description": "Psychologist, Forensic Pathologist, Researcher.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Life Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    }
+]

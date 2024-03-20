@@ -1,0 +1,53 @@
+[
+    {
+        "Qualification": "INFORMATION TECHNOLOGY",
+        "Qualification Code": "B2I01Q",
+        "APS": 30,
+        "Description": "Systems Analyst, Network Manager, Programmer, Web Developer, Web Master, Database Administrator, Software Engineer, Computer Graphics Designer, Information Technology Manager, Researcher.",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 60
+                },
+                {
+                    "Mathematics": 70
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "COMPUTER SCIENCE AND INFORMATICS",
+        "Qualification Code": "B2I02Q",
+        "APS": 30,
+        "Description": "Systems Analyst, Network Manager, Programmer, Web Developer, Web Master, Database Administrator, Software Engineer, Computer Graphics Designer, Information Technology Manager, Researcher.",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 60
+                },
+                {
+                    "Mathematics": 70
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "COMPUTER SCIENCE AND INFORMATICS specialising in AI (Artificial Intelligence)",
+        "Qualification Code": "B2I04Q",
+        "APS": 34,
+        "Description": "Security Architect, Knowledge Manager, Cyber Crime Investigator, All-Source Analyst, IT Investment/Portfolio Manager, Systems Analyst, Network Manager, Programmer, Web Developer, Web Master, Database Administrator, Software Engineer, Computer Graphics Designer, Information Technology Manager, Researcher.",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 60
+                },
+                {
+                    "Mathematics": 80
+                }
+            ]
+        ]
+    }
+]

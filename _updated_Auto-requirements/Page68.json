@@ -1,0 +1,107 @@
+[
+    {
+        "Qualification": "ENVIRONMENTAL HEALTH",
+        "ID": 167,
+        "Qualification Code": "B9ENV1",
+        "APS": 24,
+        "Description": "Environmental Health Practitioners, Occupational Health and Safety Officers, Water Quality and Waste Managers identify, monitor and control physical, chemical and biological hazards that are harmful to human health.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Sciences",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Life Sciences",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "NURSING",
+        "ID": 168,
+        "Qualification Code": "B9N02Q",
+        "APS": 30,
+        "Description": "The student will qualify as a professional nurse and midwife who will be to assess health needs and provide care for patients, community memebers and mothers and babies in a holistically manner to address the quadruple burden of disease as well as social determinants affecting the health of the community and enitre popluation.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Sciences",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Life Sciences",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "B OPTOM",
+        "ID": 169,
+        "Qualification Code": "B9O02Q",
+        "APS": 31,
+        "Description": "Optometrists are primary health care specialists trained to examine the eyes to detect defects in vision, signs of injury, ocular diseases or abnormality and problems with general health. Private Dispensing Optometrist, Public Sector Optometrist, Academic, Medical Liaison Officer and Researcher.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Sciences",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Life Sciences",
+                    "minmark": 60,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    }
+]

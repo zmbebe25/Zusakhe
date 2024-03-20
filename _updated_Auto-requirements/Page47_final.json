@@ -1,0 +1,65 @@
+[
+    {
+        "Qualification": "BACHELOR OF HUMAN RESOURCE MANAGEMENT",
+        "Qualification Code": "B34HRP",
+        "APS": 28,
+        "Description": "HRM Personnel Manager, HRM Personnel Officer, Training Manager, Recruitment and Selection Officer.",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 50
+                },
+                {
+                    "Mathematics": 50
+                },
+                {
+                    "Mathematical Literacy": 60
+                },
+                {
+                    "Technical Mathematics": 50
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "BACHELOR OF COMMERCE IN ACCOUNTANCY",
+        "Qualification Code": "B34ACP",
+        "APS": 28,
+        "Description": "Financial Manager, Accountant, Internal Auditor, Tax Consultant.",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 50
+                },
+                {
+                    "Mathematics": 50
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "TRANSPORTATION MANAGEMENT",
+        "Qualification Code": "D1TRME",
+        "APS": 24,
+        "Description": "Transportation Manager.",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 50
+                },
+                {
+                    "Mathematics": 40
+                },
+                {
+                    "Mathematical Literacy": 60
+                },
+                {
+                    "Technical Mathematics": 40
+                }
+            ]
+        ]
+    }
+]

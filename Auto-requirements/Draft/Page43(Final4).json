@@ -1,0 +1,82 @@
+[
+    {
+        "Qualification": "ACCOUNTING",
+        "Qualification Code": "B3AE7Q",
+        "APS": 28,
+        "Description": "Consultant. Tax Auditor, Internal Accountant, Manager, Financial",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 70
+            },
+            {
+                "Technical Mathematics": null
+            }
+        ]
+    },
+    {
+        "Qualification": "BUSINESS\nMANAGEMENT",
+        "Qualification Code": "B34BEQ",
+        "APS": 28,
+        "Description": "Innovator. Business Entrepreneur, Consultant, Management Facilitator, Change Manager, General Manager, Branch Manager, Development Product Manager, Relations Employment Manager, HRD Manager, Training level, management middle and/or first on industries various in opportunities Management",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 70
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    },
+    {
+        "Qualification": "ECONOMICS AND\nECONOMETRICS",
+        "Qualification Code": "B3NE4Q",
+        "APS": 28,
+        "Description": "Planner. Economic Forecaster, Analyst, Economic Econometrician, Economist,",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 70
+            },
+            {
+                "Technical Mathematics": null
+            }
+        ]
+    },
+    {
+        "Qualification": "FINANCE",
+        "Qualification Code": "B3FE7Q",
+        "APS": 28,
+        "Description": "Advisor. Investment Consultant, Financial Accountant, Stockbroker, Manager, Financial",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 70
+            },
+            {
+                "Technical Mathematics": null
+            }
+        ]
+    }
+]

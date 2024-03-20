@@ -1,0 +1,205 @@
+[
+    {
+        "Qualification": "FOUNDATION PHASE TEACHING GRADE R-3",
+        "ID":185,
+        "FacultyID":47,
+        "Qualification Code": "B5BFPQ",
+        "APS": 26,
+        "Description": "Educator focusing on primary school teaching.",
+        "Subject": [
+            "AND",
+            ["OR", 
+            {
+                "subjectid": "English Home language",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "English Additional Language",
+                "minmark": 70,
+                "required": true
+            }
+            ],
+            ["OR",
+            {
+                "subjectid": "Mathematics",
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematical Literacy",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Technical Mathematics",
+                "minmark": 60,
+                "required": true
+            }
+            ]
+        ]
+
+    },
+    {
+        "Qualification": "INTERMEDIATE PHASE TEACHING GRADE 4-7",
+        "ID":186,
+        "FacultyID":47,
+        "Qualification Code": "B5BITQ",
+        "APS": 26,
+        "Description": "Educator focusing on primary school teaching.",
+        "Subject": [
+            "AND",
+            ["OR", 
+            {
+                "subjectid": "English Home language",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "English Additional Language",
+                "minmark": 70,
+                "required": true
+            }
+            ],
+            ["OR",
+            {
+                "subjectid": "Mathematics",
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematical Literacy",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Technical Mathematics",
+                "minmark": 60,
+                "required": true
+            }
+            ]
+        ]
+    },
+    {
+        "Qualification": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) – LIFE ORIENTATION:PSYCHOLOGY",
+        "ID":187,
+        "FacultyID":47,
+        "Qualification Code": "B5LOPQ",
+        "APS": 26,
+        "Description": "Educator focusing on high school teaching.",
+        "Subject": [
+            "OR", 
+               
+            {
+                "subjectid": "English Home language",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "English Additional Language",
+                "minmark": 70,
+                "required": true
+            }
+    
+        ]
+    },
+    {
+        "Qualification": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - BUSINESS AND MANAGEMENT STUDIES:ACCOUNTING",
+        "ID":389037395,
+        "FacultyID":47,
+        "Qualification Code": "B5BSAQ",
+        "Minimum APS": 26,
+        "Description": "Educator focusing on high school teaching.",
+        "Subject":[
+            "AND",
+            {
+                "subjectid": "Mathematics",
+                "minmark": 50,
+                "required": true
+            },
+            [
+            "OR",
+            {
+                "subjectid": "English Home language",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "English Additional Language",
+                "minmark": 70,
+                "required": true
+            }
+            ]
+        ]
+    },
+    {
+        "Qualification": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - BUSINESS MANAGEMENT",
+        "ID":557786977,
+        "FacultyID":47,
+        "Qualification Code": "B5BSBQ",
+        "Minimum APS": 26,
+        "Description": "Educator focusing on high school teaching.",
+        "Subject": [
+            "AND",
+            ["OR", 
+            {
+                "subjectid": "English Home language",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "English Additional Language",
+                "minmark": 70,
+                "required": true
+            }
+            ],
+            ["OR",
+            {
+                "subjectid": "Mathematical Literacy",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Technical Mathematics",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematics",
+                "minmark": 50,
+                "required": true
+            }
+            ]
+]
+    },
+    {
+        "Qualification": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - ECONOMICS",
+        "ID":652929010,
+        "FacultyID":47,
+        "Qualification Code": "B5BSEQ",
+        "Minimum APS": 26,
+        "Description": "Educator focusing on high school teaching.",
+        "Subject": [
+            "AND",
+            {
+                "subjectid": "Mathematics",
+                "minmark": 50,
+                "required": true
+            },
+            [
+            "OR",
+            {
+                "subjectid": "English Home language",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "English Additional Language",
+                "minmark": 70,
+                "required": true
+            }
+            ]
+        ]
+    }
+    
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "Qualification": "APPLIED MATHEMATICS AND COMPUTER SCIENCE",
+        "ID": 167,
+        "Qualification Code": "B2M40Q",
+        "APS": 31,
+        "Description": "Computer Programmer, Systems Analyst, Mathematical Modulator.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 70,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "APPLIED MATHEMATICS AND MATHEMATICAL STATISTICS",
+        "ID": 168,
+        "Qualification Code": "B2M41Q",
+        "APS": 31,
+        "Description": "Mathematician, Data Compiler, Data Interpreter, Biometrician.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 70,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "APPLIED MATHEMATICS AND MATHEMATICS",
+        "ID": 169,
+        "Qualification Code": "B2M42Q",
+        "APS": 31,
+        "Description": "Mathematical Modulator, Mathematical Adviser.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 70,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "COMPUTATIONAL SCIENCE",
+        "ID": 170,
+        "Qualification Code": "B2M43Q",
+        "APS": 33,
+        "Description": "Software Specialist in high-tech industry, Designer of medical monitors.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 60,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 80,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "MATHEMATICAL STATISTICS AND COMPUTER SCIENCE",
+        "ID": 171,
+        "Qualification Code": "B2M44Q",
+        "APS": 31,
+        "Description": "Computer Programmer, System Analyst, Data Compiler and Analyst.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 70,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "MATHEMATICS AND COMPUTER SCIENCE",
+        "ID": 172,
+        "Qualification Code": "B2M45Q",
+        "APS": 31,
+        "Description": "Computer Programmer, Systems Analyst, Mathematical Advisor.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 70,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "MATHEMATICS AND INFORMATICS",
+        "ID": 173,
+        "Qualification Code": "B2M46Q",
+        "APS": 31,
+        "Description": "Computer Programmer, Systems Analyst.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 70,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "MATHEMATICS AND MATHEMATICAL STATISTICS",
+        "ID": 174,
+        "Qualification Code": "B2M47Q",
+        "APS": 31,
+        "Description": "Financial Analyst, Economist.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 70,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "MATHEMATICS AND PSYCHOLOGY",
+        "ID": 175,
+        "Qualification Code": "B2M48Q",
+        "APS": 31,
+        "Description": "Mathematician, Teacher, Researcher, Psychologist.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 70,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "MATHEMATICS AND MATHEMATICAL STATISTICS (WITH FINANCIAL ORIENTATION)",
+        "ID": 176,
+        "Qualification Code": "B2M49Q",
+        "APS": 33,
+        "Description": "Mathematician, Data Interpreter, Research Statistician, Mathematical Advisor.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 70,
+                    "required": true
+                }
+            ]
+        ]
+    }
+]

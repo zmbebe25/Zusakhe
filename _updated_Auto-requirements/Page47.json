@@ -1,0 +1,97 @@
+[
+    {
+        "Qualification": "BACHELOR OF HUMAN RESOURCE MANAGEMENT",
+        "ID": 167,
+        "Qualification Code": "B34HRP",
+        "APS": 28,
+        "Description": "HRM Personnel Manager, HRM Personnel Officer, Training Manager, Recruitment and Selection Officer.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Mathematical Literacy",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Technical Mathematics",
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "BACHELOR OF COMMERCE IN ACCOUNTANCY",
+        "ID": 168,
+        "Qualification Code": "B34ACP",
+        "APS": 28,
+        "Description": "Financial Manager, Accountant, Internal Auditor, Tax Consultant.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "TRANSPORTATION MANAGEMENT",
+        "ID": 169,
+        "Qualification Code": "D1TRME",
+        "APS": 24,
+        "Description": "Transportation Manager.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": "Mathematical Literacy",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Technical Mathematics",
+                    "minmark": 40,
+                    "required": true
+                }
+            ]
+        ]
+    }
+]

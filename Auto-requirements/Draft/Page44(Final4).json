@@ -1,0 +1,82 @@
+[
+    {
+        "Qualification": "ACCOUNTANCY *",
+        "Qualification Code": "D3A15Q",
+        "APS": 24,
+        "Description": "Accountant. Cost Bookkeeper, Technician, Accounting",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 60
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    },
+    {
+        "Qualification": "BUSINESS INFORMATION\nTECHNOLOGY",
+        "Qualification Code": "DI1401",
+        "APS": 24,
+        "Description": "techniques. and technology based computer of application the through problems business to solutions provide practitioners IT",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 70
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    },
+    {
+        "Qualification": "FINANCIAL SERVICES\nOPERATIONS *",
+        "Qualification Code": "D34F9Q",
+        "APS": 24,
+        "Description": "Officer. Compliance and Risk Analyst, Operations Administrator, Operations Financial Operations: Office Back and Middle",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 60
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    },
+    {
+        "Qualification": "FOOD AND BEVERAGE\nOPERATIONS",
+        "Qualification Code": "D34FBQ",
+        "APS": 24,
+        "Description": "industry. the within drinks and food of areas in or training promotions, and marketing catering, executive and private units, beverage and food in work can Persons internationally. or Africa South in industry beverage and food the within levels supervisory and operational at skills appropriate the possess will student operations beverage and food successful The",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 60
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    }
+]

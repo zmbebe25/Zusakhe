@@ -1,0 +1,123 @@
+[
+    {
+        "Qualification": "CHIROPRACTIC",
+        "Qualification Code": "B9C01Q",
+        "APS": 26,
+        "Description": "Chiropractors treat conditions and injuries that are nerve, muscle or joint related.",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 60
+                },
+                {
+                    "Mathematics": 50
+                },
+                {
+                    "Physical Sciences": 50
+                },
+                {
+                    "Life Sciences": 50
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "COMPLEMENTARY MEDICINE",
+        "Qualification Code": "B9CM1Q",
+        "APS": 26,
+        "Description": "Acupuncturists, health and wellness industry, patient- services co-ordinator within a multidisciplinary practice, retail and pharmacy assistants, health and lifestyle journalists.",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 60
+                },
+                {
+                    "Mathematics": 50
+                },
+                {
+                    "Physical Sciences": 50
+                },
+                {
+                    "Life Sciences": 50
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "EMERGENCY MEDICAL CARE (EMC)",
+        "Qualification Code": "B9E01Q",
+        "APS": 26,
+        "Description": "Emergency Care Practitioners are specialists in the field of emergency care and rescue, focusing on the management of critically ill or injured patients. Career opportunities exist in public and private emergency services, both local and abroad. Holders of the qualification will be entitled to register as independent Emergency Care Practitioners with the HPCSA.",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 60
+                },
+                {
+                    "Mathematics": 50
+                },
+                {
+                    "Physical Sciences": 50
+                },
+                {
+                    "Life Sciences": 50
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "MEDICAL LABORATORY SCIENCE",
+        "Qualification Code": "B9B01Q",
+        "APS": 30,
+        "Description": "Medical laboratory scientists analyse clinical specimens submitted to laboratories by medical practitioners, and interpret the results.",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 60
+                },
+                {
+                    "Mathematics": 50
+                },
+                {
+                    "Physical Sciences": 50
+                },
+                {
+                    "Life Sciences": 60
+                },
+                {
+                    "Technical Mathematics": 50
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "PODIATRY",
+        "Qualification Code": "B9P01Q",
+        "APS": 28,
+        "Description": "Podiatrists are health care professionals that deals with the examination, diagnosis, prevention and treatment of conditions and functions of the human foot, lower limb and associated structures. Holders of the qualification will be entitled to register as independent practitioners with the HPCSA.",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 60
+                },
+                {
+                    "Mathematics": 50
+                },
+                {
+                    "Physical Sciences": 50
+                },
+                {
+                    "Life Sciences": 50
+                },
+                {
+                    "Technical Science": 50
+                }
+            ]
+        ]
+    }
+]

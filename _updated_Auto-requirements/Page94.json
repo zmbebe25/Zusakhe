@@ -1,0 +1,157 @@
+[
+    {
+        "Qualification": "BIOCHEMISTRY AND CHEMISTRY",
+        "ID": 167,
+        "Qualification Code": "B2E70Q",
+        "APS": 26,
+        "Description": "Scientist in the field of food and water, and biomedical, biotechnological and agricultural sectors.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Life Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "CHEMISTRY AND MATHEMATICS",
+        "ID": 168,
+        "Qualification Code": "B2E71Q",
+        "APS": 26,
+        "Description": "Chemistry, Researcher, Technologist, Problem Solver.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "CHEMISTRY AND PHYSICS",
+        "ID": 169,
+        "Qualification Code": "B2E72Q",
+        "APS": 26,
+        "Description": "Physicist, Researcher, Chemistry Technologist, Forensic Researcher.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "PHYSICS AND APPLIED MATHEMATICS",
+        "ID": 170,
+        "Qualification Code": "B2E73Q",
+        "APS": 26,
+        "Description": "Problem Solver, Researcher in Astronomy and Energy Sources.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "PHYSICS AND MATHEMATICS",
+        "ID": 171,
+        "Qualification Code": "B2E74Q",
+        "APS": 26,
+        "Description": "Problem Solver, Researcher in Astronomy and Energy Sources.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    }
+]

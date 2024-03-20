@@ -1,0 +1,82 @@
+[
+    {
+        "Qualification": "INFORMATION\nMANAGEMENT",
+        "Qualification Code": "B34IMQ",
+        "APS": 28,
+        "Description": "Manager. Records Officer, Intelligence Competitive Researcher, Manager, Knowledge Manager, Information",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 50
+            },
+            {
+                "Mathematical Literacy": 70
+            },
+            {
+                "Technical Mathematics": 50
+            }
+        ]
+    },
+    {
+        "Qualification": "INFORMATION\nSYSTEMS",
+        "Qualification Code": "B1CISQ",
+        "APS": 26,
+        "Description": "Consultant. IT Analyst, Systems Administrator, Database Officer, Information Chief Expert, Intelligence Business Manager, IT Analyst, Business Manager, Project IT",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 50
+            },
+            {
+                "Mathematical Literacy": null
+            },
+            {
+                "Technical Mathematics": 50
+            }
+        ]
+    },
+    {
+        "Qualification": "MARKETING\nMANAGEMENT",
+        "Qualification Code": "B1CMMQ",
+        "APS": 26,
+        "Description": "Manager. Sales Planner, Media Consultant, Marketing Manager, Services Customer Researcher, Marketing Manager, Marketing Manager, Relationship Customer Manager, Brand Manager, Advertising",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 50
+            },
+            {
+                "Mathematical Literacy": null
+            },
+            {
+                "Technical Mathematics": 50
+            }
+        ]
+    },
+    {
+        "Qualification": "TRANSPORT\nAND LOGISTICS\nMANAGEMENT",
+        "Qualification Code": "B34TLQ",
+        "APS": 27,
+        "Description": "Manager. Production Consultant, Manager, Logistics",
+        "Subject": [
+            {
+                "English": 60
+            },
+            {
+                "Mathematics": 50
+            },
+            {
+                "Mathematical Literacy": null
+            },
+            {
+                "Technical Mathematics": 50
+            }
+        ]
+    }
+]

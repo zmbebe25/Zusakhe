@@ -1,0 +1,39 @@
+[
+    {
+        "Qualification": "SPORT AND EXERCISE SCIENCES",
+        "Qualification Code": "B9SE1Q",
+        "APS": 28,
+        "Description": "Sport scientist, sport coach, fitness instructor, health and life style instructor/consultant, performance analyst.",
+        "Subject": [
+            {
+                "English": 60
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Life Sciences": 50
+            },
+            {
+                "Technical Mathematics": 50
+            },
+            {
+                "Technical Science": 50
+            }
+        ]
+    },
+    {
+        "Qualification": "SPORT MANAGEMENT",
+        "Qualification Code": "B9S14Q",
+        "APS": 23,
+        "Description": "Sport Manager, Sport Marketer, Sport Administrator, Sport Events Organiser, Sport Promoter, Coach or Specialisation in Biokinetics, Sport Science or Sport Management, Researcher, Exercise Scientist.",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 50
+            }
+        ]
+    }
+]

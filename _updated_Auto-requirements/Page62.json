@@ -1,0 +1,72 @@
+[
+    {
+        "Qualification": "MANAGEMENT SERVICES",
+        "ID": 167,
+        "Qualification Code": "D6MASQ",
+        "APS": 21,
+        "Description": "Advise on improving the efficiency and the productivity of an organisation.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": "Technical Mathematics",
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": "Mathematical Literacy",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "OPERATIONS MANAGEMENT",
+        "ID": 168,
+        "Qualification Code": "D6OPMQ",
+        "APS": 22,
+        "Description": "This career equips the graduate with the ability to plan, organise and control operational activities in an organisation.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": "Technical Mathematics",
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": "Mathematical Literacy",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    }
+]

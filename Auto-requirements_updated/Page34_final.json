@@ -1,0 +1,115 @@
+[
+    {
+        "Qualification": "ARCHITECTURE",
+        "ID":167,
+        "Qualification Code": "D8AT1Q",
+        "APS": 24,
+        "Description": "Architectural Practitioners design simple buildings and produce technological details.",
+        "Subject": [
+            "AND",
+            ["OR", 
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "First Additional Language",
+                "minmark": 50,
+                "required": true
+            }
+            ],
+            ["OR",
+            {
+                "subjectid": "Mathematics",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Technical Mathematics",
+                "minmark": 60,
+                "required": true
+            }
+            ]
+]
+    },
+    {
+        "Qualification": "FASHION PRODUCTION",
+        "ID":167,
+        "Qualification Code": "D8FP1Q",
+        "APS": 21,
+        "Description": "Fashion Production Graduates can be involved in the business, manufacturing, retail and quality assurance aspects of the clothing industry.",
+        "Subject": [
+            "AND",
+            ["OR", 
+
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "First Additional Language",
+                "minmark": 50,
+                "required": true
+            }
+
+            ],
+            ["OR",
+               {
+                    "subjectid": "Mathematics",
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": "Mathematical Literacy",
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+]
+    },
+    {
+        "Qualification": "JEWELLERY DESIGN AND MANUFACTURE",
+        "ID":167,
+        "Qualification Code": "D8JD1Q",
+        "APS": 20,
+        "Description": "Jewellery Designers and Manufacturers process designs and concepts in high end commercial and contemporary commercial manufacture processes.",
+        "Subject": [
+            "AND",
+            ["OR", 
+
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "First Additional Language",
+                "minmark": 50,
+                "required": true
+            }
+
+            ],
+            ["OR",
+               
+            {
+                "subjectid": "Mathematics",
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematical Literacy",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Technical Mathematics",
+                "minmark": 60,
+                "required": true
+            }
+
+            ]
+]
+    }
+]

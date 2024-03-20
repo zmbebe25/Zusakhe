@@ -1,0 +1,88 @@
+[
+    {
+        "Qualification": "ACCOUNTING (CA)",
+        "Qualification Code": "BCA012",
+        "APS": 33,
+        "Description": "(SA). CA Accountant Chartered",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 50
+                },
+                {
+                    "Mathematics": 60
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "HOSPITALITY MANAGEMENT",
+        "Qualification Code": "B34HOQ",
+        "APS": 28,
+        "Description": "industry. the in positions other amongst Manager Financial Manager, General i.e. Industry Hospitality the in positions leadership into move to aspire who students of needs the serves degree This",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 60
+                },
+                {
+                    "Mathematics": 50
+                },
+                {
+                    "Mathematical Literacy": 60
+                },
+                {
+                    "Technical Mathematics": 50
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "HUMAN RESOURCE MANAGEMENT",
+        "Qualification Code": "B34HRQ",
+        "APS": 28,
+        "Description": "practices. HR standardised regulated, encourage to (SABPP) Practices People of Board African South the with Practitioners HR as register may Graduates Officer. Selection and Recruitment Manager, Training Officer, Personnel HRM Manager, Personnel HRM Practitioners, Resource Human",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 50
+                },
+                {
+                    "Mathematics": 50
+                },
+                {
+                    "Mathematical Literacy": 60
+                },
+                {
+                    "Technical Mathematics": 50
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "TOURISM DEVELOPMENT AND MANAGEMENT",
+        "Qualification Code": "B34TOQ",
+        "APS": 28,
+        "Description": "Manager. and Co-ordinator Sales Blogger, Travel Manager, and Developer Website Editor, and Writer Technical Agencies, and Departments Tourism Government Local and Provincial National, Consulting, Corporate Consultant, Development Agent, Rental Car Transportation, Lecturing, and Training Teaching, Academia, Researcher, Consultant, Visa Co-ordinator, Activity Leisure Marketing, Relations, Public Organiser, Conference and Event Operator, Tour Guide, Tour Agent, Travel Entrepreneur,",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 60
+                },
+                {
+                    "Mathematics": 40
+                },
+                {
+                    "Mathematical Literacy": 50
+                },
+                {
+                    "Technical Mathematics": 40
+                }
+            ]
+        ]
+    }
+]

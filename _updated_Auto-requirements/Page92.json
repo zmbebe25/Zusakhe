@@ -1,0 +1,247 @@
+[
+    {
+        "Qualification": "GEOGRAPHY AND ENVIRONMENTAL MANAGEMENT",
+        "ID": 167,
+        "Qualification Code": "B2E13Q",
+        "APS": 26,
+        "Description": "Location Analyst, Town Planner, Geo-Information Specialist, Environmental Rehabilitation Manager, Geomorphologist.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Life Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "PHYSIOLOGY AND BIOCHEMISTRY",
+        "ID": 168,
+        "Qualification Code": "B2E14Q",
+        "APS": 26,
+        "Description": "Biochemist, Researcher, Forensic Analyst, Biotechnologist.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Life Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "PHYSIOLOGY AND PSYCHOLOGY",
+        "ID": 169,
+        "Qualification Code": "B2E15Q",
+        "APS": 26,
+        "Description": "Psychologist, Forensic Pathologist, Researcher.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Life Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "ZOOLOGY AND BIOCHEMISTRY",
+        "ID": 170,
+        "Qualification Code": "B2E17Q",
+        "APS": 26,
+        "Description": "Zoologist, Biochemist, Nature Conservationist, Environmentalist, Ecologist, Entomologist, Pathologist, Geneticist, Food Technologist.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Life Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "ZOOLOGY AND CHEMISTRY",
+        "ID": 171,
+        "Qualification Code": "B2E18Q",
+        "APS": 26,
+        "Description": "Zoologist, Chemical Technologist And Researcher.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Life Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "ZOOLOGY AND ENVIRONMENTAL MANAGEMENT",
+        "ID": 172,
+        "Qualification Code": "B2E19Q",
+        "APS": 26,
+        "Description": "Geo-Zoologist, Population Geneticist, Environmental Ecologist and Specialist.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Life Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "ZOOLOGY AND GEOGRAPHY",
+        "ID": 173,
+        "Qualification Code": "B2E20Q",
+        "APS": 26,
+        "Description": "Geo-Zoologist, Population Geneticist, Environmental Ecologist and Specialist.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Science",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Life Science",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    }
+]

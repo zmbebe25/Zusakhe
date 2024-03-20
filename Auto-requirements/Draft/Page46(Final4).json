@@ -1,0 +1,142 @@
+[
+    {
+        "Qualification": "RETAIL BUSINESS\nMANAGEMENT **",
+        "Qualification Code": "D1RBMQ",
+        "APS": 24,
+        "Description": "Owner. Business Developers, Software Retail Analytics, Customer Leaders, Experience Customer Promotion, Sales and Advertising Retailing, Service Managers, Sales Managers, Category Product Merchandisers, Visual Specialists, Layout Managers, Store Buyers, industry. retailing the in work for graduate the Prepares",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 60
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    },
+    {
+        "Qualification": "SMALL BUSINESS\nMANAGEMENT",
+        "Qualification Code": "D1SBMQ",
+        "APS": 24,
+        "Description": "business. own their start to desire a show qualification this to applicants that recommended is It Entrepreneur. Social Manager, Business Advisor, Business Owner, Business Entrepreneur,",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 60
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    },
+    {
+        "Qualification": "TOURISM\nMANAGEMENT",
+        "Qualification Code": "D34TMQ",
+        "APS": 24,
+        "Description": "sectors. related tourism different of variety a in work to aspects managerial and operational with graduate the Prepares",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 60
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    },
+    {
+        "Qualification": "TRANSPORTATION\nMANAGEMENT",
+        "Qualification Code": "D1TRMQ",
+        "APS": 26,
+        "Description": "Manager. Transportation",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 60
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    },
+    {
+        "Qualification": "LOGISTICS",
+        "Qualification Code": "D1LOGE",
+        "APS": 24,
+        "Description": "Manager. Warehouse Manager, Purchasing",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 60
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    },
+    {
+        "Qualification": "PEOPLE\nMANAGEMENT",
+        "Qualification Code": "D34PEQ",
+        "APS": 21,
+        "Description": "Practitioner. Development Organisational Facilitator, Change Officer, Development and Training Researcher, Resource Human Official, Selection and Recruitment Official, Wellness and Health Officer, Benefits Employee Officer, Resource Human organisations. in issues employee-related with deal Practitioners Management People",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 50
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    },
+    {
+        "Qualification": "SMALL BUSINESS\nMANAGEMENT",
+        "Qualification Code": "D1SBME",
+        "APS": 21,
+        "Description": "business. own their start to desire a show qualification this to applicants that recommended is It Entrepreneur. Social Manager, Business Advisor, Business Owner, Business Entrepreneur,",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 50
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    }
+]

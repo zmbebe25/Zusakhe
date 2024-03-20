@@ -1,0 +1,64 @@
+[
+    {
+        "Qualification": "BA",
+        "Qualification Code": "B7023Q",
+        "APS": 27,
+        "Description": "Anthropologist, Ethicist, Social Responsibility Officer, Manager of Multicultural and Gender Affairs, General Manager, Teacher, Human Resources Development, Public Governance, Civil Service, Politics, Financial Sector, Journalist, Ethicist, Social Responsibility Officer, Manager of Multicultural and Gender Affairs, Development Planner, Development Administrator, Researcher, work for NGOs, Government or Private Sector, Director, Producer, Script Writer, Production Crew, Journalism, Copywriting, Corporate Journalism, Translators, Interpreters, Language Planners, Copywriters, Copy Editors, Literary Reviewers, Visual/Literary Specialists, Language Teachers/ Trainers, Public Relations, Marketing, Human Resources, Account Manager, Strategic Planner, Media Planner, Brand Manager, Marketing Communication Practitioner, Communication Researcher, Communication Consultant, Psychologist (postgraduate studies required).",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 60
+                },
+                {
+                    "Mathematics": 50
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "BA with specialisation in LANGUAGE PRACTICE",
+        "Qualification Code": "B7026Q",
+        "APS": 27,
+        "Description": "Language practitioner (translator, text editor, interpreter), language planner, language manager, lexicographer, terminologist, copy writer, journalist, subtitler, plain language specialist.",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 60
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "BA with specialisation in POLITICS, ECONOMICS AND TECHNOLOGY",
+        "Qualification Code": "B7024Q",
+        "APS": 27,
+        "Description": "Apprentice data analyst, Researcher, Account manager, Sales data management and development, Business development, Trainee analyst, Import/export administrator, Financial operations, Information management, Economic analysis, Postgraduate study.",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 60
+                },
+                {
+                    "Mathematics": 50
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "COMMUNITY DEVELOPMENT AND LEADERSHIP",
+        "Qualification Code": "B7015Q",
+        "APS": 27,
+        "Description": "Municipalities, Government Departments (e.g. Department of Social Development) and Non-Government Organisations (focusing on development work).",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 60
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "Qualification": "GEOGRAPHY AND ENVIRONMENTAL MANAGEMENT",
+        "Qualification Code": "B2L20Q",
+        "APS": 30,
+        "Description": "Location Analyst, Town Planner, Geo-Information Specialist, Environmental Rehabilitation Manager, Geomorphologist.",
+        "Subject": [
+            {
+                "English": 60
+            },
+            {
+                "Mathematics": 60
+            },
+            {
+                "Physical Science": 50
+            },
+            {
+                "Life Science": 50
+            }
+        ]
+    },
+    {
+        "Qualification": "GEOLOGY AND ENVIRONMENTAL MANAGEMENT",
+        "Qualification Code": "B2L24Q",
+        "APS": 30,
+        "Description": "Geographer, Geologist, Mineralogist, Regional Planner, Site Analyst, GIS Specialist.",
+        "Subject": [
+            {
+                "English": 60
+            },
+            {
+                "Mathematics": 60
+            },
+            {
+                "Physical Science": 50
+            },
+            {
+                "Life Science": 50
+            }
+        ]
+    },
+    {
+        "Qualification": "GEOLOGY AND GEOGRAPHY",
+        "Qualification Code": "B2L25Q",
+        "APS": 30,
+        "Description": "Geographer, Geologist, Mineralogist, Regional Planner, Site Analyst, Geographical Information Specialist.",
+        "Subject": [
+            {
+                "English": 60
+            },
+            {
+                "Mathematics": 60
+            },
+            {
+                "Physical Science": 50
+            },
+            {
+                "Life Science": 50
+            }
+        ]
+    }
+]

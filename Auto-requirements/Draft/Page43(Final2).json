@@ -1,0 +1,50 @@
+[
+    {
+        "Qualification": "ACCOUNTING",
+        "Qualification Code": "B3AE7Q",
+        "APS": 28,
+        "English": 50,
+        "Mathematics": 40,
+        "Mathematical Literacy": 70,
+        "Technical Mathematics": null,
+        "Description": ".tnatlusnoC xaT ,rotiduA lanretnI\n,tnatnuoccA ,reganaM laicnaniF",
+        "8": "KPA",
+        "First Additional Language": null
+    },
+    {
+        "Qualification": "BUSINESS\nMANAGEMENT",
+        "Qualification Code": "B34BEQ",
+        "APS": 28,
+        "English": 50,
+        "Mathematics": 40,
+        "Mathematical Literacy": 70,
+        "Technical Mathematics": 40,
+        "Description": ".rotavonnI ssenisuB\n,ruenerpertnE ,tnatlusnoC\ntnemeganaM ,rotatilicaF egnahC\n,reganaM lareneG ,reganaM hcnarB\n,reganaM tnempoleveD tcudorP\n,reganaM snoitaleR tnemyolpmE\n,reganaM DRH ,reganaM gniniarT\n,level tnemeganam elddim\nro/dna tsrif no seirtsudni suoirav\nni seitinutroppo tnemeganaM",
+        "8": "KPA",
+        "First Additional Language": null
+    },
+    {
+        "Qualification": "ECONOMICS AND\nECONOMETRICS",
+        "Qualification Code": "B3NE4Q",
+        "APS": 28,
+        "English": 50,
+        "Mathematics": 40,
+        "Mathematical Literacy": 70,
+        "Technical Mathematics": null,
+        "Description": ".rennalP cimonocE\n,retsaceroF ,tsylanA cimonocE\n,naicirtemonocE ,tsimonocE",
+        "8": "KPA",
+        "First Additional Language": null
+    },
+    {
+        "Qualification": "FINANCE",
+        "Qualification Code": "B3FE7Q",
+        "APS": 28,
+        "English": 50,
+        "Mathematics": 40,
+        "Mathematical Literacy": 70,
+        "Technical Mathematics": null,
+        "Description": ".rosivdA tnemtsevnI\n,tnatlusnoC laicnaniF ,tnatnuoccA\n,rekorbkcotS ,reganaM laicnaniF",
+        "8": "KPA",
+        "First Additional Language": null
+    }
+]

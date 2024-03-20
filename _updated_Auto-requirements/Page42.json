@@ -1,0 +1,127 @@
+[
+    {
+        "Qualification": "INFORMATION MANAGEMENT",
+        "ID": 167,
+        "Qualification Code": "B34IMQ",
+        "APS": 28,
+        "Description": "Information Manager, Knowledge Manager, Researcher, Competitive Intelligence Officer, Records Manager.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Mathematical Literacy",
+                    "minmark": 70,
+                    "required": true
+                },
+                {
+                    "subjectid": "Technical Mathematics",
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "INFORMATION SYSTEMS",
+        "ID": 168,
+        "Qualification Code": "B1CISQ",
+        "APS": 26,
+        "Description": "IT Project Manager, Business Analyst, IT Manager, Business Intelligence Expert, Chief Information Officer, Database Administrator, Systems Analyst, IT Consultant.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Technical Mathematics",
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "MARKETING MANAGEMENT",
+        "ID": 169,
+        "Qualification Code": "B1CMMQ",
+        "APS": 26,
+        "Description": "Advertising Manager, Brand Manager, Customer Relationship Manager, Marketing Manager, Marketing Researcher, Customer Services Manager, Marketing Consultant, Media Planner, Sales Manager.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Technical Mathematics",
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "TRANSPORT AND LOGISTICS MANAGEMENT",
+        "ID": 170,
+        "Qualification Code": "B34TLQ",
+        "APS": 27,
+        "Description": "Logistics Manager, Consultant, Production Manager.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 60,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Technical Mathematics",
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        ]
+    }
+]

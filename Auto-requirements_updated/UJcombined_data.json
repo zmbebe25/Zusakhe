@@ -1,0 +1,5520 @@
+[
+    [
+        {
+            "Qualification": "B ARCHITECTURE",
+            "ID": 167,
+            "Qualification Code": "B8BA3Q",
+            "APS": 28,
+            "Description": "Architectural professionals are involved in shaping our built environment, from the simple construction of low- cost housing projects to the most sophisticated technology employed in the erection of skyscrapers. Architectural professionals are thus employed in the design, technological resolution and management of the design and construction process of buildings.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 1,
+                    "minmark": 60,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 103,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 97,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "BA DESIGN (COMMUNICATION DESIGN)",
+            "ID": 168,
+            "Qualification Code": "B8CD2Q",
+            "APS": 24,
+            "Description": "Communication Designers are creative thinkers and problem solvers who use a range of design methods, processes and techniques to create professional communication designs, such as posters, books, magazines, corporate identity programmes, packaging and web sites, both individually and as members of teams.",
+            "Entrance": [
+                "AND",
+                [
+                    "OR",
+                    {
+                        "subjectid": 103,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 97,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ],
+                [
+                    "OR",
+                    {
+                        "subjectid": 1,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "BA (DIGITAL MEDIA DESIGN)",
+            "ID": 169,
+            "Qualification Code": "B8DM3Q",
+            "APS": 24,
+            "Description": "This degree prepares students for careers in the design, film, broadcast and advertising industries as: interaction designers, user experience designers, user interface designers, service designers, music video designers, multimedia animators, motion graphics designers, information designers, video editors, video compositors, digital photographers, digital media consultants and or creative directors.",
+            "Entrance": [
+                "AND",
+                [
+                    "OR",
+                    {
+                        "subjectid": 103,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 97,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ],
+                [
+                    "OR",
+                    {
+                        "subjectid": 1,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "BA DESIGN (INDUSTRIAL DESIGN)",
+            "ID": 171,
+            "Qualification Code": "B8ID1Q",
+            "APS": 24,
+            "Description": "Industrial Designers improve the aesthetics, ergonomics and functionality of a broad range of products from bespoke/one-off furniture items to mass produced products such as kitchen appliances and cellphones.",
+            "Entrance": [
+                "AND",
+                [
+                    "OR",
+                    {
+                        "subjectid": 103,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 97,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ],
+                [
+                    "OR",
+                    {
+                        "subjectid": 1,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "Qualification": "BA DESIGN (INTERIOR DESIGN)",
+            "ID": 174,
+            "Qualification Code": "B8BA6Q",
+            "APS": 24,
+            "Description": "Interior Designers engage with a range of interior spaces to create innovative spatial solutions with a thorough knowledge of building technology, materials and human environment needs.",
+            "Entrance": [
+                "AND",
+                [
+                    "OR",
+                    {
+                        "subjectid": 103,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 97,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ],
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "BA DESIGN (FASHION DESIGN)",
+            "ID": 172,
+            "Qualification Code": "B8FD1Q",
+            "APS": 24,
+            "Description": "A degree in fashion design prepares graduates for various career possibilities in the fast-paced fashion industry. Amongst other, these include being a fashion designer, a fashion entrepreneur, a pattern engineer, a fashion buyer a fashion stylist.",
+            "Entrance": [
+                "AND",
+                [
+                    "OR",
+                    {
+                        "subjectid": 103,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 97,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ],
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "BA (VISUAL ART)",
+            "ID": 178,
+            "Qualification Code": "B8BA7Q",
+            "APS": 24,
+            "Description": "Visual Art graduates find work in diverse fields of the visual arts industries. In addition to being a professional artist, graduates could work, in art education and training, art gallery and museum curating and management, art consulting, arts writing, art criticism, research and journalism, printmaking and print studio management, paper making and paper production design, community and arts project management, visual events management.",
+            "Entrance": [
+                "AND",
+                [
+                    "OR",
+                    {
+                        "subjectid": 103,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 97,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ],
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 40,
+                        "required": true
+                    }
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "Qualification": "ARCHITECTURE",
+            "ID": 167,
+            "Qualification Code": "D8AT1Q",
+            "APS": 24,
+            "Description": "Architectural Practitioners design simple buildings and produce technological details.",
+            "Entrance": [
+                "AND",
+                [
+                    "OR",
+                    {
+                        "subjectid": 103,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 97,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ],
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "FASHION PRODUCTION",
+            "ID": 167,
+            "Qualification Code": "D8FP1Q",
+            "APS": 21,
+            "Description": "Fashion Production Graduates can be involved in the business, manufacturing, retail and quality assurance aspects of the clothing industry.",
+            "Entrance": [
+                "AND",
+                [
+                    "OR",
+                    {
+                        "subjectid": 103,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 97,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ],
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "JEWELLERY DESIGN AND MANUFACTURE",
+            "ID": 167,
+            "Qualification Code": "D8JD1Q",
+            "APS": 20,
+            "Description": "Jewellery Designers and Manufacturers process designs and concepts in high end commercial and contemporary commercial manufacture processes.",
+            "Entrance": [
+                "AND",
+                [
+                    "OR",
+                    {
+                        "subjectid": 103,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 97,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ],
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "Qualification": "ACCOUNTING (CA)",
+            "ID": 181,
+            "Qualification Code": "BCA012",
+            "APS": 33,
+            "Description": "(SA). CA Accountant Chartered",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "HOSPITALITY MANAGEMENT",
+            "ID": 184,
+            "Qualification Code": "B34HOQ",
+            "APS": 28,
+            "Description": "industry. the in positions other amongst Manager Financial Manager, General i.e. Industry Hospitality the in positions leadership into move to aspire who students of needs the serves degree This",
+            "Entrance": [
+                [
+                    "AND",
+                    {
+                        "subjectid": 103,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    [
+                        "OR",
+                        {
+                            "subjectid": 2,
+                            "minmark": 50,
+                            "required": true
+                        },
+                        {
+                            "subjectid": 21,
+                            "minmark": 60,
+                            "required": true
+                        },
+                        {
+                            "subjectid": 115,
+                            "minmark": 50,
+                            "required": true
+                        }
+                    ]
+                ]
+            ]
+        },
+        {
+            "Qualification": "HUMAN RESOURCE MANAGEMENT",
+            "ID": 5230,
+            "Qualification Code": "B34HRQ",
+            "APS": 28,
+            "Description": "practices. HR standardised regulated, encourage to (SABPP) Practices People of Board African South the with Practitioners HR as register may Graduates Officer. Selection and Recruitment Manager, Training Officer, Personnel HRM Manager, Personnel HRM Practitioners, Resource Human",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "TOURISM DEVELOPMENT AND MANAGEMENT",
+            "ID": 5231,
+            "Qualification Code": "B34TOQ",
+            "APS": 28,
+            "Description": "Manager. and Co-ordinator Sales Blogger, Travel Manager, and Developer Website Editor, and Writer Technical Agencies, and Departments Tourism Government Local and Provincial National, Consulting, Corporate Consultant, Development Agent, Rental Car Transportation, Lecturing, and Training Teaching, Academia, Researcher, Consultant, Visa Co-ordinator, Activity Leisure Marketing, Relations, Public Organiser, Conference and Event Operator, Tour Guide, Tour Agent, Travel Entrepreneur,",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 40,
+                        "required": true
+                    }
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "Qualification": "PUBLIC MANAGEMENT AND GOVERNANCE",
+            "ID": 825814404,
+            "Qualification Code": "B34PKQ",
+            "APS": 28,
+            "Description": "Public Managers in State Departments, Provincial Departments and Municipalities, Public, Private and NGO Sector, Administrative and Managerial Positions.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 40,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "PUBLIC MANAGEMENT AND GOVERNANCE",
+            "ID": 825814404,
+            "Qualification Code": "B34PSQ",
+            "APS": 28,
+            "Description": "Public Managers in State Departments, Provincial Departments and Municipalities, Public, Private and NGO Sector, Administrative and Managerial Positions.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 40,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "ACCOUNTING",
+            "ID": 179,
+            "Qualification Code": "B3A17Q",
+            "APS": 28,
+            "Description": "Financial Manager, Accountant, Internal Auditor, Tax Consultant.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "BUSINESS MANAGEMENT",
+            "ID": 863725579,
+            "Qualification Code": "B34BMQ",
+            "APS": 26,
+            "Description": "Training Manager, HRD Manager, Employment Relations Manager, Product Development Manager, Branch Manager, General Manager, Change Facilitator, Management Consultant, Entrepreneur, Business Innovator.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "ECONOMICS AND ECONOMETRICS",
+            "ID": 180,
+            "Qualification Code": "B3N14Q",
+            "APS": 28,
+            "Description": "Economist, Econometrician, Economic Analyst, Forecaster, Economic Planner.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "ENTREPRENEURIAL MANAGEMENT",
+            "ID": 338473379,
+            "Qualification Code": "B1CEMQ",
+            "APS": 26,
+            "Description": "Business Owner, Marketing Manager, Manager, Consultant, Business Manager, Financial Manager.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "FINANCE",
+            "ID": 182,
+            "Qualification Code": "B3F17Q",
+            "APS": 28,
+            "Description": "Financial Manager, Stockbroker, Accountant, Financial Consultant, Investment Advisor.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "INDUSTRIAL PSYCHOLOGY",
+            "ID": 424822464,
+            "Qualification Code": "B34IPQ",
+            "APS": 26,
+            "Description": "Specialist HR Practitioners dealing with the problems or challenges arising from employees\u2019 relationship within the work environment.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "Qualification": "INFORMATION MANAGEMENT",
+            "ID": 806350099,
+            "FacultyID": 47,
+            "Qualification Code": "B34IMQ",
+            "APS": 28,
+            "Description": "Information Manager, Knowledge Manager, Researcher, Competitive Intelligence Officer, Records Manager.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 70,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "INFORMATION SYSTEMS",
+            "ID": 421930286,
+            "FacultyID": 47,
+            "Qualification Code": "B1CISQ",
+            "APS": 26,
+            "Description": "IT Project Manager, Business Analyst, IT Manager, Business Intelligence Expert, Chief Information Officer, Database Administrator, Systems Analyst, IT Consultant.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "MARKETING MANAGEMENT",
+            "ID": 371132407,
+            "FacultyID": 47,
+            "Qualification Code": "B1CMMQ",
+            "APS": 26,
+            "Description": "Advertising Manager, Brand Manager, Customer Relationship Manager, Marketing Manager, Marketing Researcher, Customer Services Manager, Marketing Consultant, Media Planner, Sales Manager.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "TRANSPORT AND LOGISTICS MANAGEMENT",
+            "ID": 264688787,
+            "FacultyID": 47,
+            "Qualification Code": "B34TLQ",
+            "APS": 27,
+            "Description": "Logistics Manager, Consultant, Production Manager.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "Qualification": "ACCOUNTING",
+            "ID": 5928,
+            "FacultyID": 47,
+            "Qualification Code": "B3AE7Q",
+            "APS": 28,
+            "Description": "Financial Manager, Accountant, Internal Auditor, Tax Consultant.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 70,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "BUSINESS MANAGEMENT",
+            "ID": 132356935,
+            "FacultyID": 47,
+            "Qualification Code": "B34BEQ",
+            "APS": 28,
+            "Description": "Management opportunities in various industries on first and/or middle management level, Training Manager, HRD Manager, Employment Relations Manager, Product Development Manager, Branch Manager, General Manager, Change Facilitator, Management Consultant, Entrepreneur, Business Innovator.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 70,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 40,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "ECONOMICS AND ECONOMETRICS",
+            "ID": 167,
+            "FacultyID": 47,
+            "Qualification Code": "B3NE4Q",
+            "APS": 28,
+            "Description": "Economist, Econometrician, Economic Analyst, Forecaster, Economic Planner.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 70,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "FINANCE",
+            "ID": 5930,
+            "FacultyID": 47,
+            "Qualification Code": "B3FE7Q",
+            "APS": 28,
+            "Description": "Financial Manager, Stockbroker, Accountant, Financial Consultant, Investment Advisor.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 70,
+                        "required": true
+                    }
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "Qualification": "ACCOUNTANCY *",
+            "ID": 183,
+            "FacultyID": 47,
+            "Qualification Code": "D3A15Q",
+            "APS": 24,
+            "Description": "Accounting Technician, Bookkeeper, Cost Accountant.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 40,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "BUSINESS INFORMATION TECHNOLOGY",
+            "ID": 184401988,
+            "FacultyID": 47,
+            "Qualification Code": "DI1401",
+            "APS": 24,
+            "Description": "IT practitioners provide solutions to business problems through the application of computer based technology and techniques.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 70,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 40,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "FINANCIAL SERVICES OPERATIONS *",
+            "ID": 409706944,
+            "FacultyID": 47,
+            "Qualification Code": "D34F9Q",
+            "APS": 24,
+            "Description": "Middle and Back Office Operations: Financial Operations Administrator, Operations Analyst, Risk and Compliance Officer.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 40,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "FOOD AND BEVERAGE OPERATIONS",
+            "ID": 580042892,
+            "FacultyID": 47,
+            "Qualification Code": "D34FBQ",
+            "APS": 24,
+            "Description": "The successful food and beverage operations student will possess the appropriate skills at operational and supervisory levels within the food and beverage industry in South Africa or internationally. Persons can work in food and beverage units, private and executive catering, marketing and promotions, training or in areas of food and drinks within the industry.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 40,
+                        "required": true
+                    }
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "Qualification": "LOGISTICS",
+            "ID": 408493388,
+            "FacultyID": 47,
+            "Qualification Code": "D1LOGQ",
+            "APS": 26,
+            "Description": "Purchasing Manager, Warehouse Manager.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 40,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "MARKETING **",
+            "ID": 465619120,
+            "FacultyID": 47,
+            "Qualification Code": "D1MKTQ",
+            "APS": 24,
+            "Description": "Marketer, Advertising, Brand Management, Customer Relationship Manager, Marketing Manager, Marketing Researcher, Customer Services, Marketing Consulting, Media Planning, Sales Manager.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 40,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "PEOPLE MANAGEMENT",
+            "ID": 942590209,
+            "FacultyID": 47,
+            "Qualification Code": "D34P2Q",
+            "APS": 24,
+            "Description": "People Management Practitioners dealing with employee-related issues in organisations. Human Resource Officer, Employee Benefits Officer, Health and Wellness Official, Recruitment and Selection Official, Human Resource Researcher, Training and Development Officer, Change Facilitator, Organisational Development Practitioner.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 40,
+                        "required": true
+                    }
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "Qualification": "RETAIL BUSINESS MANAGEMENT **",
+            "ID": 877198786,
+            "FacultyID": 47,
+            "Qualification Code": "D1RBMQ",
+            "APS": 24,
+            "Description": "Prepares the graduate for work in the retailing industry. Buyers, Store Managers, Layout Specialists, Visual Merchandisers, Product Category Managers, Sales Managers, Service Retailing, Advertising and Sales Promotion, Customer Experience Leaders, Customer Analytics, Retail Software Developers, Business Owner.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 40,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "SMALL BUSINESS MANAGEMENT",
+            "ID": 791323509,
+            "FacultyID": 47,
+            "Qualification Code": "D1SBMQ",
+            "APS": 24,
+            "Description": "Entrepreneur, Business Owner, Business Advisor, Business Manager, Social Entrepreneur. It is recommended that applicants to this qualification show a desire to start their own business.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 40,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "TOURISM MANAGEMENT",
+            "ID": 685994816,
+            "FacultyID": 47,
+            "Qualification Code": "D34TMQ",
+            "APS": 24,
+            "Description": "Prepares the graduate with operational and managerial aspects to work in a variety of different tourism related sectors.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 40,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "TRANSPORTATION MANAGEMENT",
+            "ID": 562463640,
+            "FacultyID": 47,
+            "Qualification Code": "D1TRMQ",
+            "APS": 26,
+            "Description": "Transportation Manager.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 40,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "LOGISTICS",
+            "ID": 513434945,
+            "FacultyID": 47,
+            "Qualification Code": "D1LOGE",
+            "APS": 24,
+            "Description": "Purchasing Manager, Warehouse Manager.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 40,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "PEOPLE MANAGEMENT",
+            "ID": 787691318,
+            "FacultyID": 47,
+            "Qualification Code": "D34PEQ",
+            "APS": 21,
+            "Description": "People Management Practitioners deal with employee-related issues in organisations. Human Resource Officer, Employee Benefits Officer, Health and Wellness Official, Recruitment and Selection Official, Human Resource Researcher, Training and Development Officer, Change Facilitator, Organisational Development Practitioner.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 40,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "SMALL BUSINESS MANAGEMENT",
+            "ID": 180083842,
+            "FacultyID": 47,
+            "Qualification Code": "D1SBME",
+            "APS": 21,
+            "Description": "Entrepreneur, Business Owner, Business Advisor, Business Manager, Social Entrepreneur. It is recommended that applicants to this qualification show a desire to start their own business.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 40,
+                        "required": true
+                    }
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "Qualification": "BACHELOR OF HUMAN RESOURCE MANAGEMENT",
+            "ID": 5230,
+            "FacultyID": 47,
+            "Qualification Code": "B34HRP",
+            "APS": 28,
+            "Description": "HRM Personnel Manager, HRM Personnel Officer, Training Manager, Recruitment and Selection Officer.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "BACHELOR OF COMMERCE IN ACCOUNTANCY",
+            "ID": 179,
+            "FacultyID": 47,
+            "Qualification Code": "B34ACP",
+            "APS": 28,
+            "Description": "Financial Manager, Accountant, Internal Auditor, Tax Consultant.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "TRANSPORTATION MANAGEMENT",
+            "ID": 562463640,
+            "FacultyID": 47,
+            "Qualification Code": "D1TRME",
+            "APS": 24,
+            "Description": "Transportation Manager.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 40,
+                        "required": true
+                    }
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "Qualification": "FOUNDATION PHASE TEACHING GRADE R-3",
+            "ID": 185,
+            "FacultyID": 47,
+            "Qualification Code": "B5BFPQ",
+            "APS": 26,
+            "Description": "Educator focusing on primary school teaching.",
+            "Entrance": [
+                "AND",
+                [
+                    "OR",
+                    {
+                        "subjectid": 43,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 54,
+                        "minmark": 70,
+                        "required": true
+                    }
+                ],
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "INTERMEDIATE PHASE TEACHING GRADE 4-7",
+            "ID": 186,
+            "FacultyID": 47,
+            "Qualification Code": "B5BITQ",
+            "APS": 26,
+            "Description": "Educator focusing on primary school teaching.",
+            "Entrance": [
+                "AND",
+                [
+                    "OR",
+                    {
+                        "subjectid": 43,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 54,
+                        "minmark": 70,
+                        "required": true
+                    }
+                ],
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) \u00e2\u20ac\u201c LIFE ORIENTATION:PSYCHOLOGY",
+            "ID": 187,
+            "FacultyID": 47,
+            "Qualification Code": "B5LOPQ",
+            "APS": 26,
+            "Description": "Educator focusing on high school teaching.",
+            "Entrance": [
+                "OR",
+                {
+                    "subjectid": 43,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 54,
+                    "minmark": 70,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - BUSINESS AND MANAGEMENT STUDIES:ACCOUNTING",
+            "ID": 389037395,
+            "FacultyID": 47,
+            "Qualification Code": "B5BSAQ",
+            "Minimum APS": 26,
+            "Description": "Educator focusing on high school teaching.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 2,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 43,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 54,
+                        "minmark": 70,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - BUSINESS MANAGEMENT",
+            "ID": 557786977,
+            "FacultyID": 47,
+            "Qualification Code": "B5BSBQ",
+            "Minimum APS": 26,
+            "Description": "Educator focusing on high school teaching.",
+            "Entrance": [
+                "AND",
+                [
+                    "OR",
+                    {
+                        "subjectid": 43,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 54,
+                        "minmark": 70,
+                        "required": true
+                    }
+                ],
+                [
+                    "OR",
+                    {
+                        "subjectid": 21,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 2,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - ECONOMICS",
+            "ID": 652929010,
+            "FacultyID": 47,
+            "Qualification Code": "B5BSEQ",
+            "Minimum APS": 26,
+            "Description": "Educator focusing on high school teaching.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 2,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 43,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 54,
+                        "minmark": 70,
+                        "required": true
+                    }
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "Qualification": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - LANGUAGE EDUCATION: ENGLISH",
+            "ID": 711401634,
+            "FacultyID": 47,
+            "Qualification Code": "B5LAEQ",
+            "APS": 26,
+            "Description": "Educator focusing on high school teaching.",
+            "Entrance": [
+                "OR",
+                {
+                    "subjectid": 43,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 54,
+                    "minmark": 70,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - LANGUAGE EDUCATION: AFRIKAANS",
+            "ID": 292308067,
+            "FacultyID": 47,
+            "Qualification Code": "B5LAFQ",
+            "APS": 26,
+            "Description": "Educator focusing on high school teaching.",
+            "Entrance": [
+                "AND",
+                [
+                    "OR",
+                    {
+                        "subjectid": 43,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 54,
+                        "minmark": 70,
+                        "required": true
+                    }
+                ],
+                [
+                    "OR",
+                    {
+                        "subjectid": "Afrikaans Home language",
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": "Afrikaans Additional Language",
+                        "minmark": 60,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - LANGUAGE EDUCATION:ISIZULU",
+            "ID": 262439606,
+            "FacultyID": 47,
+            "Qualification Code": "B5LAZQ",
+            "APS": 26,
+            "Description": "Educator focusing on high school teaching.",
+            "Entrance": {
+                "AND": [],
+                "OR": [
+                    [
+                        "AND",
+                        [
+                            "OR",
+                            {
+                                "subjectid": 43,
+                                "minmark": 60,
+                                "required": true
+                            },
+                            {
+                                "subjectid": 54,
+                                "minmark": 70,
+                                "required": true
+                            }
+                        ],
+                        [
+                            "OR",
+                            {
+                                "subjectid": "IsiZulu Home language",
+                                "minmark": 50,
+                                "required": true
+                            },
+                            {
+                                "subjectid": "IsiZulu Additional Language",
+                                "minmark": 60,
+                                "required": true
+                            }
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "Qualification": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - LANGUAGE EDUCATION: SEPEDI",
+            "ID": 804675385,
+            "FacultyID": 47,
+            "Qualification Code": "B5LASQ",
+            "APS": 26,
+            "Description": "Educator focusing on high school teaching.",
+            "Entrance": [
+                "AND",
+                [
+                    "OR",
+                    {
+                        "subjectid": 43,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 54,
+                        "minmark": 70,
+                        "required": true
+                    }
+                ],
+                [
+                    "OR",
+                    {
+                        "subjectid": 47,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 58,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - GEOGRAPHY",
+            "ID": 949881135,
+            "FacultyID": 47,
+            "Qualification Code": "B5SGEQ",
+            "APS": 26,
+            "Description": "Educator focusing on high school teaching.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 19,
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": 8,
+                    "minmark": 40,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 43,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 54,
+                        "minmark": 70,
+                        "required": true
+                    }
+                ],
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 70,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - LIFE SCIENCES",
+            "ID": 361239586,
+            "FacultyID": 47,
+            "Qualification Code": "B5SLSQ",
+            "APS": 26,
+            "Description": "Educator focusing on high school teaching.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 70,
+                        "required": true
+                    }
+                ],
+                [
+                    "OR",
+                    {
+                        "subjectid": 43,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 54,
+                        "minmark": 70,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - MATHEMATICS",
+            "ID": 400416480,
+            "FacultyID": 47,
+            "Qualification Code": "B5SMMQ",
+            "APS": 26,
+            "Description": "Educator focusing on high school teaching.",
+            "Entrance": [
+                "AND",
+                [
+                    "OR",
+                    {
+                        "subjectid": 43,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 54,
+                        "minmark": 70,
+                        "required": true
+                    }
+                ],
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 70,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - PHYSICAL SCIENCE",
+            "ID": 575067476,
+            "FacultyID": 47,
+            "Qualification Code": "B5SPSQ",
+            "APS": 26,
+            "Description": "Educator focusing on high school teaching.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 43,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 54,
+                        "minmark": 70,
+                        "required": true
+                    }
+                ],
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "Qualification": "CIVIL ENGINEERING",
+            "ID": 207,
+            "FacultyID": 47,
+            "Qualification Code": "B6CISQ",
+            "APS": 32,
+            "Description": "Plan, design and construction of infrastructure.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 60,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "ELECTRICAL AND ELECTRONIC ENGINEERING",
+            "ID": 199,
+            "FacultyID": 47,
+            "Qualification Code": "B6ELSQ",
+            "APS": 32,
+            "Description": "Electronic Design, Software System Design.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 60,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "MECHANICAL ENGINEERING",
+            "ID": 906870711,
+            "FacultyID": 47,
+            "Qualification Code": "B6MESQ",
+            "APS": 32,
+            "Description": "Designing, manufacturing, and maintenance of machines.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 60,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "CHEMICAL ENGINEERING",
+            "ID": 205,
+            "FacultyID": 47,
+            "Qualification Code": "B6CE1Q",
+            "APS": 30,
+            "Description": "Design and manage industrial chemical processes for the manufacturing sector.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 60,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "CIVIL ENGINEERING",
+            "ID": 5931,
+            "FacultyID": 47,
+            "Qualification Code": "B6CV3Q",
+            "APS": 28,
+            "Description": "Plan, design and construction of infrastructure.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ],
+                [
+                    "OR",
+                    {
+                        "subjectid": 20,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 114,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "ELECTRICAL ENGINEERING",
+            "ID": 2194,
+            "FacultyID": 47,
+            "Qualification Code": "B6EL1Q",
+            "APS": 30,
+            "Description": "Electronic Design, Software System Design.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 60,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "EXTRACTION METALLURGY",
+            "ID": 221,
+            "FacultyID": 47,
+            "Qualification Code": "B6EXTQ",
+            "APS": 30,
+            "Description": "Manage metallurgical plants that are designed to recover and refine metals or other valuable constituents in mine ores.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 60,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "INDUSTRIAL ENGINEERING",
+            "ID": 223,
+            "FacultyID": 47,
+            "Qualification Code": "B6IN2Q",
+            "APS": 30,
+            "Description": "Design and implement systems in organisations to maximise production.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ],
+                [
+                    "OR",
+                    {
+                        "subjectid": 20,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 114,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "MECHANICAL ENGINEERING",
+            "ID": 5933,
+            "FacultyID": 47,
+            "Qualification Code": "B6MC2Q",
+            "APS": 30,
+            "Description": "Design, manufacture and maintain industrial machines and engines.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ],
+                [
+                    "OR",
+                    {
+                        "subjectid": 20,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 114,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "MINING ENGINEERING",
+            "ID": 226,
+            "FacultyID": 47,
+            "Qualification Code": "B6MINQ",
+            "APS": 23,
+            "Description": "Select and manage the correct method of mining in specific geological environments.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ],
+                [
+                    "OR",
+                    {
+                        "subjectid": 20,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 114,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "PHYSICAL METALLURGY",
+            "ID": 203,
+            "FacultyID": 47,
+            "Qualification Code": "B6PY2Q",
+            "APS": 30,
+            "Description": "Assesses the suitability of metals for their use in metallic goods.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 60,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "Qualification": "MINE SURVEYING",
+            "ID": 2196,
+            "FacultyID": 47,
+            "Qualification Code": "B6SU0Q",
+            "APS": 23,
+            "Description": "Advise surveying mining engineers about geological areas that can be profitably mined.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ],
+                [
+                    "OR",
+                    {
+                        "subjectid": 20,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 114,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "CONSTRUCTION",
+            "ID": 2195,
+            "FacultyID": 47,
+            "Qualification Code": "B6CN0Q",
+            "APS": 30,
+            "Description": "Students are employed in the construction industry as Quantity Surveyors and Construction Managers.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ],
+                [
+                    "OR",
+                    {
+                        "subjectid": 20,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 114,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "URBAN AND REGIONAL PLANNING",
+            "ID": 2197,
+            "FacultyID": 47,
+            "Qualification Code": "B6UP0Q",
+            "APS": 27,
+            "Description": "The allocation and spatial organisation of land uses to ensure coordinated and harmonious development and to create successful and sustainable human settlements.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 8,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "Qualification": "MANAGEMENT SERVICES",
+            "ID": 237,
+            "FacultyID": 47,
+            "Qualification Code": "D6MASQ",
+            "APS": 21,
+            "Description": "Advise on improving the efficiency and the productivity of an organisation.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "OPERATIONS MANAGEMENT",
+            "ID": 239,
+            "FacultyID": 47,
+            "Qualification Code": "D6OPMQ",
+            "APS": 22,
+            "Description": "This career equips the graduate with the ability to plan, organise and control operational activities in an organisation.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "Qualification": "CONSTRUCTION",
+            "ID": 401465039,
+            "Qualification Code": "B6SC0Q",
+            "APS": 26,
+            "Description": "Students are employed in the construction industry as Quantity Surveyors and Construction Managers.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ],
+                [
+                    "OR",
+                    {
+                        "subjectid": 114,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 20,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "CIVIL ENGINEERING",
+            "ID": 5931,
+            "Qualification Code": "B6CX3Q",
+            "APS": 26,
+            "Description": "Professional Civil Engineering, Plan, Design and Construction of Infrastructure.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ],
+                [
+                    "OR",
+                    {
+                        "subjectid": 20,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 114,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "ELECTRICAL ENGINEERING",
+            "ID": 6295,
+            "Qualification Code": "B6L1XQ",
+            "APS": 26,
+            "Description": "Electronic Design, Software System Design.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ],
+                [
+                    "OR",
+                    {
+                        "subjectid": 20,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 114,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "EXTRACTION METALLURGY",
+            "ID": 5936,
+            "Qualification Code": "B6EX0Q",
+            "APS": 22,
+            "Description": "Manage metallurgical plants that are designed to recover and refine metals or other valuable constituents in mine ores.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ],
+                [
+                    "OR",
+                    {
+                        "subjectid": 20,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 114,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "INDUSTRIAL ENGINEERING",
+            "ID": 5938,
+            "Qualification Code": "B6IX2Q",
+            "APS": 24,
+            "Description": "Industrial Engineers design and implement systems in organisations to maximise production.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ],
+                [
+                    "OR",
+                    {
+                        "subjectid": 20,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 114,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "MECHANICAL ENGINEERING",
+            "ID": 5933,
+            "Qualification Code": "B6MX2Q",
+            "APS": 24,
+            "Description": "Mechanical Engineers design, manufacture and maintain industrial machines and engines.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ],
+                [
+                    "OR",
+                    {
+                        "subjectid": 20,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 114,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "PHYSICAL METALLURGY",
+            "ID": 5934,
+            "Qualification Code": "B6PX2Q",
+            "APS": 22,
+            "Description": "Engineering Metallurgists assess the suitability of metals for their use in metallic goods.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ],
+                [
+                    "OR",
+                    {
+                        "subjectid": 20,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 114,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "MANAGEMENT SERVICES",
+            "ID": 5945,
+            "Qualification Code": "D6MAEQ",
+            "APS": 21,
+            "Description": "Advise on improving the efficiency and the productivity of an organisation.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "OPERATIONS MANAGEMENT",
+            "ID": 5946,
+            "Qualification Code": "D6OPEQ",
+            "APS": 22,
+            "Description": "This career equips the graduate with the ability to plan, organise and control operational activities in an organisation.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "Qualification": "BIOKINETICS",
+            "ID": 307,
+            "Qualification Code": "B9S15Q",
+            "APS": 32,
+            "Description": "Practitioners uses high frequency sound waves to produce images of body structures.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 21,
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "NUCLEAR MEDICINE",
+            "ID": 266,
+            "Qualification Code": "B9M02Q",
+            "APS": 31,
+            "Description": "Practitioners use small amounts of radioactive substances (radio-nuclides) to diagnose and treat diseases.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 19,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "DIAGNOSTIC RADIOGRAPHY",
+            "ID": 263,
+            "Qualification Code": "B9M01Q",
+            "APS": 31,
+            "Description": "Radiographers use x-ray equipment and Magnetic Resonance Imaging equipment to produce images that assist in the diagnosis of injuries and diseases.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 19,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "DIAGNOSTIC ULTRASOUND",
+            "ID": 264,
+            "Qualification Code": "B9M03Q",
+            "APS": 31,
+            "Description": "Practitioners uses high frequency sound waves to produce images of body structures.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 19,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "NUCLEAR MEDICINE",
+            "ID": 266,
+            "Qualification Code": "B9M02Q",
+            "APS": 31,
+            "Description": "Practitioners use small amounts of radioactive substances (radio-nuclides) to diagnose and treat diseases.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 19,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "RADIATION THERAPY",
+            "ID": 267,
+            "Qualification Code": "B9M04Q",
+            "APS": 31,
+            "Description": "Radiation therapists use high energy radiation such as x-rays, gamma rays, proton or neutrons to treat cancer.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 19,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "Qualification": "CHIROPRACTIC",
+            "ID": 268,
+            "Qualification Code": "B9C01Q",
+            "APS": 26,
+            "Description": "Chiropractors treat conditions and injuries that are nerve, muscle or joint related.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "COMPLEMENTARY MEDICINE",
+            "ID": 5236,
+            "Qualification Code": "B9CM1Q",
+            "APS": 26,
+            "Description": "Acupuncturists, health and wellness industry, patient- services co-ordinator within a multidisciplinary practice, retail and pharmacy assistants, health and lifestyle journalists.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "EMERGENCY MEDICAL CARE (EMC)",
+            "ID": 255,
+            "Qualification Code": "B9E01Q",
+            "APS": 26,
+            "Description": "Emergency Care Practitioners are specialists in the field of emergency care and rescue, focusing on the management of critically ill or injured patients. Career opportunities exist in public and private emergency services, both local and abroad. Holders of the qualification will be entitled to register as independent Emergency Care Practitioners with the HPCSA.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "MEDICAL LABORATORY SCIENCE",
+            "ID": 5237,
+            "Qualification Code": "B9B01Q",
+            "APS": 30,
+            "Description": "Medical laboratory scientists analyse clinical specimens submitted to laboratories by medical practitioners, and interpret the results.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 19,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "PODIATRY",
+            "ID": 2198,
+            "Qualification Code": "B9P01Q",
+            "APS": 28,
+            "Description": "Podiatrists are health care professionals that deals with the examination, diagnosis, prevention and treatment of conditions and functions of the human foot, lower limb and associated structures. Holders of the qualification will be entitled to register as independent practitioners with the HPCSA.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 20,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 114,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "Qualification": "ENVIRONMENTAL HEALTH",
+            "ID": 304,
+            "Qualification Code": "B9ENV1",
+            "APS": 24,
+            "Description": "Environmental Health Practitioners, Occupational Health and Safety Officers, Water Quality and Waste Managers identify, monitor and control physical, chemical and biological hazards that are harmful to human health.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "NURSING",
+            "ID": 291,
+            "Qualification Code": "B9N02Q",
+            "APS": 30,
+            "Description": "The student will qualify as a professional nurse and midwife who will be to assess health needs and provide care for patients, community memebers and mothers and babies in a holistically manner to address the quadruple burden of disease as well as social determinants affecting the health of the community and enitre popluation.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "B OPTOM",
+            "ID": 293,
+            "Qualification Code": "B9O02Q",
+            "APS": 31,
+            "Description": "Optometrists are primary health care specialists trained to examine the eyes to detect defects in vision, signs of injury, ocular diseases or abnormality and problems with general health. Private Dispensing Optometrist, Public Sector Optometrist, Academic, Medical Liaison Officer and Researcher.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 19,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "Qualification": "SPORT AND EXERCISE SCIENCES",
+            "ID": 275,
+            "Qualification Code": "B9SE1Q",
+            "APS": 28,
+            "Description": "Sport scientist, sport coach, fitness instructor, health and life style instructor/consultant, performance analyst.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 114,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "SPORT MANAGEMENT",
+            "ID": 273,
+            "Qualification Code": "B9S14Q",
+            "APS": 23,
+            "Description": "Sport Manager, Sport Marketer, Sport Administrator, Sport Events Organiser, Sport Promoter, Coach or Specialisation in Biokinetics, Sport Science or Sport Management, Researcher, Exercise Scientist.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "Qualification": "SPORT MANAGEMENT",
+            "ID": 306,
+            "Qualification Code": "D9S01Q",
+            "APS": 22,
+            "Description": "Sports Administrator, Facilities Manager, Professional Coach, Fitness Trainer, Sports Marketer, Sports Sponsorship Manager, Events Manager and Marketer.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 40,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 40,
+                        "required": true
+                    }
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "Qualification": "SOCIAL WORK",
+            "ID": 320,
+            "Qualification Code": "B7025Q",
+            "APS": 31,
+            "Description": "Social Worker in Private Sector, Welfare Organisations and Government or Non-Governmental Organisations.",
+            "Entrance": {
+                "AND": [],
+                "OR": [
+                    {
+                        "subjectid": 103,
+                        "minmark": 60,
+                        "required": true
+                    }
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "Qualification": "BA",
+            "ID": 6404,
+            "Qualification Code": "B7023Q",
+            "APS": 27,
+            "Description": "Anthropologist, Ethicist, Social Responsibility Officer, Manager of Multicultural and Gender Affairs, General Manager, Teacher, Human Resources Development, Public Governance, Civil Service, Politics, Financial Sector, Journalist, Ethicist, Social Responsibility Officer, Manager of Multicultural and Gender Affairs, Development Planner, Development Administrator, Researcher, work for NGOs, Government or Private Sector, Director, Producer, Script Writer, Production Crew, Journalism, Copywriting, Corporate Journalism, Translators, Interpreters, Language Planners, Copywriters, Copy Editors, Literary Reviewers, Visual/Literary Specialists, Language Teachers/ Trainers, Public Relations, Marketing, Human Resources, Account Manager, Strategic Planner, Media Planner, Brand Manager, Marketing Communication Practitioner, Communication Researcher, Communication Consultant, Psychologist (postgraduate studies required).",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "BA with specialisation in LANGUAGE PRACTICE",
+            "ID": 593552849,
+            "Qualification Code": "B7026Q",
+            "APS": 27,
+            "Description": "Language practitioner (translator, text editor, interpreter), language planner, language manager, lexicographer, terminologist, copy writer, journalist, subtitler, plain language specialist.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "BA with specialisation in POLITICS, ECONOMICS AND TECHNOLOGY",
+            "ID": 537768198,
+            "Qualification Code": "B7024Q",
+            "APS": 27,
+            "Description": "Apprentice data analyst, Researcher, Account manager, Sales data management and development, Business development, Trainee analyst, Import/export administrator, Financial operations, Information management, Economic analysis, Postgraduate study.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "COMMUNITY DEVELOPMENT AND LEADERSHIP",
+            "ID": 325,
+            "Qualification Code": "B7015Q",
+            "APS": 27,
+            "Description": "Municipalities, Government Departments (e.g. Department of Social Development) and Non-Government Organisations (focusing on development work).",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "Qualification": "Bachelor of Arts with specialisation in Development Studies",
+            "ID": 214330503,
+            "Qualification Code": "B7EX2Q",
+            "APS": 24,
+            "Description": "Social development or social changes practitioner, researcher of social change, activist, foreign service, enterprise, and organizational development.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "Bachelor of Arts with specialisation in Linguistics",
+            "ID": 825844469,
+            "Qualification Code": "B7EX3Q",
+            "APS": 24,
+            "Description": "Education (teaching English to speakers of other languages), training, research and administration, business communication, market research, interpreting and translating, academic career.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "Bachelor of Arts with specialisation in Linguistics and Language Practice",
+            "ID": 790752808,
+            "Qualification Code": "B7EX4Q",
+            "APS": 24,
+            "Description": "Language practitioner (translator, interpreter), language planner, language manager, copywriter, journalist, subtitler, plain language specialist.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "Bachelor of Arts with specialisation in Strategic Communication",
+            "ID": 5952,
+            "Qualification Code": "B7EX5Q",
+            "APS": 24,
+            "Description": "Brand managers, social media strategists, digital marketing managers, advertising and public relations specialists, media planners, development officers, communication officers, corporate social responsibility specialists, media relations managers, etc.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "Diploma in Public Relations and Communication",
+            "ID": 335,
+            "Duration": "3 years",
+            "Qualification Code": "D7002Q",
+            "APS": 25,
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                }
+            ],
+            "Description": "A PR Practitioner is involved with an organisation's communication strategy."
+        },
+        {
+            "Qualification": "Extended Diploma in Public Relations and Communication",
+            "ID": 5954,
+            "Duration": "4 years",
+            "Qualification Code": "D7EX2Q",
+            "APS": 22,
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            "Description": "A PR Practitioner is involved with an organisation's communication strategy."
+        }
+    ],
+    [
+        {
+            "Qualification": "BA (LAW)",
+            "ID": 336,
+            "Qualification Code": "B4A01Q",
+            "APS": 32,
+            "Description": "Legal Advisor, Career in Public Administration.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 97,
+                    "minmark": 60,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "BCOM (LAW)",
+            "ID": 338,
+            "Qualification Code": "B4C01Q",
+            "APS": 31,
+            "Description": "Legal Advisor, Career in Commerce.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 97,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "LLB",
+            "ID": 337,
+            "Qualification Code": "B4L03Q",
+            "APS": 32,
+            "Description": "Advocate, Attorney, State Advocate, Legal Advisor, Magistrate, Public Prosecutor.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 97,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "Qualification": "INFORMATION TECHNOLOGY",
+            "ID": 364,
+            "Qualification Code": "B2I01Q",
+            "APS": 30,
+            "Description": "Systems Analyst, Network Manager, Programmer, Web Developer, Web Master, Database Administrator, Software Engineer, Computer Graphics Designer, Information Technology Manager, Researcher.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 70,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "COMPUTER SCIENCE AND INFORMATICS",
+            "ID": 814180295,
+            "Qualification Code": "B2I02Q",
+            "APS": 30,
+            "Description": "Systems Analyst, Network Manager, Programmer, Web Developer, Web Master, Database Administrator, Software Engineer, Computer Graphics Designer, Information Technology Manager, Researcher.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 70,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "COMPUTER SCIENCE AND INFORMATICS specialising in AI (Artificial Intelligence)",
+            "ID": 814180295,
+            "Qualification Code": "B2I04Q",
+            "APS": 34,
+            "Description": "Security Architect, Knowledge Manager, Cyber Crime Investigator, All-Source Analyst, IT Investment/Portfolio Manager, Systems Analyst, Network Manager, Programmer, Web Developer, Web Master, Database Administrator, Software Engineer, Computer Graphics Designer, Information Technology Manager, Researcher.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 80,
+                    "required": true
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "Qualification": "BIOCHEMISTRY AND BOTANY",
+            "ID": 987515746,
+            "Qualification Code": "B2L10Q",
+            "APS": 30,
+            "Description": "Analyst, Technologist or Researcher at Sasol, Eskom, Pharmaceutical Companies, Mining Companies or in Health Industry.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "BOTANY AND CHEMISTRY",
+            "ID": 593074084,
+            "Qualification Code": "B2L11Q",
+            "APS": 30,
+            "Description": "Biologist, Botanist, Ecologist, Nature Conservation Scientist, Forensic Scientist.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 70,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "BOTANY AND ZOOLOGY",
+            "ID": 368,
+            "Qualification Code": "B2L12Q",
+            "APS": 30,
+            "Description": "Biologist, Nature Conservationist, Environmentalist, Ethno-Botanist, Ecologist, Entomologist, Pathologist, Parasitologist, Geneticist, Food Technologist, Zoologist.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "ZOOLOGY AND BIOCHEMISTRY",
+            "ID": 928358273,
+            "Qualification Code": "B2L13Q",
+            "APS": 30,
+            "Description": "Zoologist, Biochemist, Nature Conservationist, Environmentalist, Ecologist, Entomologist, Pathologist, Geneticist, Food Technologist",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "ZOOLOGY AND CHEMISTRY",
+            "ID": 370,
+            "Qualification Code": "B2L14Q",
+            "APS": 30,
+            "Description": "Zoologist, Chemical Technologist and Researcher.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 70,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "ZOOLOGY AND ENVIRONMENTAL MANAGEMENT",
+            "ID": 388,
+            "Qualification Code": "B2L15Q",
+            "APS": 30,
+            "Description": "Geo-Zoologist, Population Geneticist, Environmental Ecologist and Specialist.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "ZOOLOGY AND GEOGRAPHY",
+            "ID": 372,
+            "Qualification Code": "B2L16Q",
+            "APS": 30,
+            "Description": "Geo-Zoologist, Population Geneticist, Environmental Ecologist and Specialist.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "PHYSIOLOGY AND BIOCHEMISTRY",
+            "ID": 374,
+            "Qualification Code": "B2L18Q",
+            "APS": 30,
+            "Description": "Biochemist, Researcher, Forensic Analyst, Biotechnologist.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "PHYSIOLOGY AND PSYCHOLOGY",
+            "ID": 376,
+            "Qualification Code": "B2L19Q",
+            "APS": 30,
+            "Description": "Psychologist, Forensic Pathologist, Researcher.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "Qualification": "GEOGRAPHY AND ENVIRONMENTAL MANAGEMENT",
+            "ID": 387,
+            "Qualification Code": "B2L20Q",
+            "APS": 30,
+            "Description": "Location Analyst, Town Planner, Geo-Information Specialist, Environmental Rehabilitation Manager, Geomorphologist.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "GEOLOGY AND ENVIRONMENTAL MANAGEMENT",
+            "ID": 380,
+            "Qualification Code": "B2L24Q",
+            "APS": 30,
+            "Description": "Geographer, Geologist, Mineralogist, Regional Planner, Site Analyst, GIS Specialist.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "GEOLOGY AND GEOGRAPHY",
+            "ID": 379,
+            "Qualification Code": "B2L25Q",
+            "APS": 30,
+            "Description": "Geographer, Geologist, Mineralogist, Regional Planner, Site Analyst, Geographical Information Specialist.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "Qualification": "APPLIED MATHEMATICS AND COMPUTER SCIENCE",
+            "ID": 381,
+            "Qualification Code": "B2M40Q",
+            "APS": 31,
+            "Description": "Computer Programmer, Systems Analyst, Mathematical Modulator.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 70,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "APPLIED MATHEMATICS AND MATHEMATICAL STATISTICS",
+            "ID": 383,
+            "Qualification Code": "B2M41Q",
+            "APS": 31,
+            "Description": "Mathematician, Data Compiler, Data Interpreter, Biometrician.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 70,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "APPLIED MATHEMATICS AND MATHEMATICS",
+            "ID": 2201,
+            "Qualification Code": "B2M42Q",
+            "APS": 31,
+            "Description": "Mathematical Modulator, Mathematical Adviser.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 70,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "COMPUTATIONAL SCIENCE",
+            "ID": 384,
+            "Qualification Code": "B2M43Q",
+            "APS": 33,
+            "Description": "Software Specialist in high-tech industry, Designer of medical monitors.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 80,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "MATHEMATICAL STATISTICS AND COMPUTER SCIENCE",
+            "ID": 385,
+            "Qualification Code": "B2M44Q",
+            "APS": 31,
+            "Description": "Computer Programmer, System Analyst, Data Compiler and Analyst.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 70,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "MATHEMATICS AND COMPUTER SCIENCE",
+            "ID": 386,
+            "Qualification Code": "B2M45Q",
+            "APS": 31,
+            "Description": "Computer Programmer, Systems Analyst, Mathematical Advisor.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 70,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "MATHEMATICS AND INFORMATICS",
+            "ID": 389,
+            "Qualification Code": "B2M46Q",
+            "APS": 31,
+            "Description": "Computer Programmer, Systems Analyst.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 70,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "MATHEMATICS AND MATHEMATICAL STATISTICS",
+            "ID": 390,
+            "Qualification Code": "B2M47Q",
+            "APS": 31,
+            "Description": "Financial Analyst, Economist.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 70,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "MATHEMATICS AND PSYCHOLOGY",
+            "ID": 391,
+            "Qualification Code": "B2M48Q",
+            "APS": 31,
+            "Description": "Mathematician, Teacher, Researcher, Psychologist.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 70,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "MATHEMATICS AND MATHEMATICAL STATISTICS (WITH FINANCIAL ORIENTATION)",
+            "ID": 2202,
+            "Qualification Code": "B2M49Q",
+            "APS": 33,
+            "Description": "Mathematician, Data Interpreter, Research Statistician, Mathematical Advisor.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 70,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "Qualification": "BIOCHEMISTRY AND CHEMISTRY",
+            "ID": 2204,
+            "Qualification Code": "B2P70Q",
+            "APS": 31,
+            "Description": "Scientist in the field of food and water, biomedical, biotechnological and agricultural sectors.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 70,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "CHEMISTRY AND MATHEMATICS",
+            "ID": 394,
+            "Qualification Code": "B2P71Q",
+            "APS": 31,
+            "Description": "Chemistry, Researcher, Technologist, Problem Solver.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 70,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "CHEMISTRY AND PHYSICS",
+            "ID": 395,
+            "Qualification Code": "B2P72Q",
+            "APS": 31,
+            "Description": "Physicist, Researcher, Chemistry Technologist, Forensic Researcher.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 70,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "GEOLOGY AND CHEMISTRY",
+            "ID": 2206,
+            "Qualification Code": "B2P81Q",
+            "APS": 31,
+            "Description": "Geochemist, Geologist, Forensic Scientist, Exploration Expert.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 70,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "MATHEMATICAL STATISTICS AND ECONOMICS (WITH FINANCIAL ORIENTATION)",
+            "ID": 393,
+            "Qualification Code": "B2M50Q",
+            "APS": 33,
+            "Description": "Econometrist, Investment Economist, Biometricist, Economic Journalist.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 70,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "MATHEMATICS AND ECONOMICS (WITH FINANCIAL ORIENTATION)",
+            "ID": 392,
+            "Qualification Code": "B2M51Q",
+            "APS": 33,
+            "Description": "Econometrist, Investment Economist, Consultant.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 70,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "ACTUARIAL SCIENCE",
+            "ID": 2203,
+            "Qualification Code": "B2M52Q",
+            "APS": 33,
+            "Description": "Actuary, Actuarial Analyst, Quantitative Analyst, Risk Manager, Investment Manager, Credit Ratings Analyst, Statistician, Academic.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 80,
+                    "required": true
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "Qualification": "COMPUTER SCIENCE AND INFORMATICS",
+            "ID": 5955,
+            "Qualification Code": "B2E01Q",
+            "APS": 26,
+            "Description": "Systems Analyst, Network Manager, Programmer, Web Developer, Web Master, Database Administrator, Software Engineer, Computer Graphics Designer, Information Technology Manager, Researcher.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "BIOCHEMISTRY AND BOTANY",
+            "ID": 987515746,
+            "Qualification Code": "B2E10Q",
+            "APS": 26,
+            "Description": "Analyst, Technologist, or Researcher at Sasol, Eskom, Pharmaceutical Companies, Mining Companies or in the Health Industry.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "BOTANY AND CHEMISTRY",
+            "ID": 593074084,
+            "Qualification Code": "B2E11Q",
+            "APS": 26,
+            "Description": "Biologist, Botanist, Ecologist, Nature Conservation Scientist, Forensic Scientist.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "BOTANY AND ZOOLOGY",
+            "ID": 5958,
+            "Qualification Code": "B2E12Q",
+            "APS": 26,
+            "Description": "Biologist, Nature Conservationist, Environmentalist, Ethno-Botanist, Ecologist, Entomologist, Pathologist, Parasitologist, Geneticist, Food Technologist, Zoologist.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "GEOLOGY AND MATHEMATICS",
+            "ID": 2207,
+            "Qualification Code": "B2P82Q",
+            "APS": 31,
+            "Description": "Geomathematician, Geologist, Problem Analyst.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 70,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "GEOLOGY AND PHYSICS",
+            "ID": 2208,
+            "Qualification Code": "B2P83Q",
+            "APS": 31,
+            "Description": "Physicist, Geophysicist, Geohydrologist, Geologist.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 70,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "PHYSICS AND APPLIED MATHEMATICS",
+            "ID": 6298,
+            "Qualification Code": "B2P77Q",
+            "APS": 31,
+            "Description": "Problem Solver, Researcher in Astronomy and Energy Sources.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 70,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "PHYSICS AND MATHEMATICS",
+            "ID": 663789116,
+            "Qualification Code": "B2P78Q",
+            "APS": 31,
+            "Description": "Problem Solver, Researcher in Astronomy and Energy Sources.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 70,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "Qualification": "GEOGRAPHY AND ENVIRONMENTAL MANAGEMENT",
+            "ID": 5970,
+            "Qualification Code": "B2E13Q",
+            "APS": 26,
+            "Description": "Location Analyst, Town Planner, Geo-Information Specialist, Environmental Rehabilitation Manager, Geomorphologist.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "PHYSIOLOGY AND BIOCHEMISTRY",
+            "ID": 916834655,
+            "Qualification Code": "B2E14Q",
+            "APS": 26,
+            "Description": "Biochemist, Researcher, Forensic Analyst, Biotechnologist.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "PHYSIOLOGY AND PSYCHOLOGY",
+            "ID": 5965,
+            "Qualification Code": "B2E15Q",
+            "APS": 26,
+            "Description": "Psychologist, Forensic Pathologist, Researcher.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "ZOOLOGY AND BIOCHEMISTRY",
+            "ID": 5959,
+            "Qualification Code": "B2E17Q",
+            "APS": 26,
+            "Description": "Zoologist, Biochemist, Nature Conservationist, Environmentalist, Ecologist, Entomologist, Pathologist, Geneticist, Food Technologist.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "ZOOLOGY AND CHEMISTRY",
+            "ID": 5960,
+            "Qualification Code": "B2E18Q",
+            "APS": 26,
+            "Description": "Zoologist, Chemical Technologist And Researcher.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "ZOOLOGY AND ENVIRONMENTAL MANAGEMENT",
+            "ID": 5971,
+            "Qualification Code": "B2E19Q",
+            "APS": 26,
+            "Description": "Geo-Zoologist, Population Geneticist, Environmental Ecologist and Specialist.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "ZOOLOGY AND GEOGRAPHY",
+            "ID": 5961,
+            "Qualification Code": "B2E20Q",
+            "APS": 26,
+            "Description": "Geo-Zoologist, Population Geneticist, Environmental Ecologist and Specialist.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "Qualification": "APPLIED MATHEMATICS AND COMPUTER SCIENCE",
+            "ID": 5966,
+            "Qualification Code": "B2E40Q",
+            "APS": 26,
+            "Description": "Computer Programmer, Systems Analyst, Mathematical Modulator.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "APPLIED MATHEMATICS AND MATHEMATICAL STATISTICS",
+            "ID": 168297559,
+            "Qualification Code": "B2E41Q",
+            "APS": 26,
+            "Description": "Mathematician, Data compiler, Data Interpreter, Biometrician.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "APPLIED MATHEMATICS AND MATHEMATICS",
+            "ID": 6296,
+            "Qualification Code": "B2E42Q",
+            "APS": 26,
+            "Description": "Mathematical Modulator, Mathematical adviser.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "MATHEMATICAL STATISTICS AND COMPUTER SCIENCE",
+            "ID": 5968,
+            "Qualification Code": "B2E43Q",
+            "APS": 26,
+            "Description": "Computer Programmer, Systems Analyst, Data Compiler and Analyst.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "MATHEMATICS AND COMPUTER SCIENCE",
+            "ID": 5969,
+            "Qualification Code": "B2E44Q",
+            "APS": 26,
+            "Description": "Computer Programmer, Systems Analyst, Mathematical Advisor.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "MATHEMATICS AND INFORMATICS",
+            "ID": 5972,
+            "Qualification Code": "B2E45Q",
+            "APS": 26,
+            "Description": "Computer Programmer, Systems Analyst.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "MATHEMATICS AND MATHEMATICAL STATISTICS",
+            "ID": 5973,
+            "Qualification Code": "B2E46Q",
+            "APS": 26,
+            "Description": "Financial Analyst, Economist.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "MATHEMATICS AND PSYCHOLOGY",
+            "ID": 5974,
+            "Qualification Code": "B2E47Q",
+            "APS": 26,
+            "Description": "Mathematician, Teacher, Researcher, Psychologist.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "Qualification": "BIOCHEMISTRY AND CHEMISTRY",
+            "ID": 6297,
+            "Qualification Code": "B2E70Q",
+            "APS": 26,
+            "Description": "Scientist in the field of food and water, and biomedical, biotechnological and agricultural sectors.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "CHEMISTRY AND MATHEMATICS",
+            "ID": 5975,
+            "Qualification Code": "B2E71Q",
+            "APS": 26,
+            "Description": "Chemistry, Researcher, Technologist, Problem Solver.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "CHEMISTRY AND PHYSICS",
+            "ID": 5976,
+            "Qualification Code": "B2E72Q",
+            "APS": 26,
+            "Description": "Physicist, Researcher, Chemistry Technologist, Forensic Researcher.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "PHYSICS AND APPLIED MATHEMATICS",
+            "ID": 6298,
+            "Qualification Code": "B2E73Q",
+            "APS": 26,
+            "Description": "Problem Solver, Researcher in Astronomy and Energy Sources.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "PHYSICS AND MATHEMATICS",
+            "ID": 129548604,
+            "Qualification Code": "B2E74Q",
+            "APS": 26,
+            "Description": "Problem Solver, Researcher in Astronomy and Energy Sources.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "Qualification": "ANALYTICAL CHEMISTRY",
+            "ID": 396,
+            "Qualification Code": "D2ACXQ",
+            "APS": 22,
+            "Description": "Analytical Chemists analyse raw materials and final products to gauge their quality levels.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 40,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "BIOTECHNOLOGY",
+            "ID": 397,
+            "Qualification Code": "D2BTEQ",
+            "APS": 23,
+            "Description": "Biotechnologists manipulate living cells for application in the baking, brewing, chemical, agricultural and pharmaceutical fields.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 19,
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 40,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 40,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "FOOD TECHNOLOGY",
+            "ID": 398,
+            "Qualification Code": "D2FTEQ",
+            "APS": 22,
+            "Description": "Food Technologists research the production, processing, preservation, packing and distribution of food.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 19,
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 40,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 40,
+                        "required": true
+                    }
+                ]
+            ]
+        }
+    ]
+]

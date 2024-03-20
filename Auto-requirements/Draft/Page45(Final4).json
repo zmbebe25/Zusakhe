@@ -1,0 +1,62 @@
+[
+    {
+        "Qualification": "LOGISTICS",
+        "Qualification Code": "D1LOGQ",
+        "APS": 26,
+        "Description": "Manager. Warehouse Manager, Purchasing",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 60
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    },
+    {
+        "Qualification": "MARKETING **",
+        "Qualification Code": "D1MKTQ",
+        "APS": 24,
+        "Description": "Manager. Sales Planning, Media Consulting, Marketing Services, Customer Researcher, Marketing Manager, Marketing Manager, Relationship Customer Management, Brand Advertising, Marketer,",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 60
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    },
+    {
+        "Qualification": "PEOPLE\nMANAGEMENT",
+        "Qualification Code": "D34P2Q",
+        "APS": 24,
+        "Description": "Practitioner. Development Organisational Facilitator, Change Officer, Development and Training Researcher, Resource Human Official, Selection and Recruitment Official, Wellness and Health Officer, Benefits Employee Officer, Resource Human organisations. in issues employee-related with dealing Practitioners Management People",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 60
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    }
+]

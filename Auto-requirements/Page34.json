@@ -1,0 +1,68 @@
+[
+    {
+        "Qualification": "ARCHITECTURE",
+        "Qualification Code": "D8AT1Q",
+        "APS": 24,
+        "Description": "Architectural Practitioners design simple buildings and produce technological details.",
+        "9": "BPA",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "First Additional Language": 50
+            },
+            {
+                "Mathematics": 50
+            },
+            {
+                "Technical Mathematics": 60
+            }
+        ]
+    },
+    {
+        "Qualification": "FASHION PRODUCTION",
+        "Qualification Code": "D8FP1Q",
+        "APS": 21,
+        "Description": "Fashion Production Graduates can be involved in the business, manufacturing, retail and quality assurance aspects of the clothing industry.",
+        "9": "BPA",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "First Additional Language": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 50
+            }
+        ]
+    },
+    {
+        "Qualification": "JEWELLERY DESIGN AND MANUFACTURE",
+        "Qualification Code": "D8JD1Q",
+        "APS": 20,
+        "Description": "Jewellery Designers and Manufacturers process designs and concepts in high end commercial and contemporary commercial manufacture processes.",
+        "9": "BPA",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "First Additional Language": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 50
+            },
+            {
+                "Technical Mathematics": 60
+            }
+        ]
+    }
+]

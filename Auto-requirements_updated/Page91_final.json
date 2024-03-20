@@ -1,0 +1,220 @@
+[
+    {
+        "Qualification": "COMPUTER SCIENCE AND INFORMATICS",
+        "ID":5955,
+        "Qualification Code": "B2E01Q",
+        "APS": 26,
+        "Description": "Systems Analyst, Network Manager, Programmer, Web Developer, Web Master, Database Administrator, Software Engineer, Computer Graphics Designer, Information Technology Manager, Researcher.",
+        "Subject": [
+            "AND", 
+               
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematics",
+                "minmark": 60,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "BIOCHEMISTRY AND BOTANY",
+        "ID":987515746,
+        "Qualification Code": "B2E10Q",
+        "APS": 26,
+        "Description": "Analyst, Technologist, or Researcher at Sasol, Eskom, Pharmaceutical Companies, Mining Companies or in the Health Industry.",
+        "Subject": [
+            "AND", 
+               
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematics",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Physical Science",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Life Science",
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "BOTANY AND CHEMISTRY",
+        "ID":593074084,
+        "Qualification Code": "B2E11Q",
+        "APS": 26,
+        "Description": "Biologist, Botanist, Ecologist, Nature Conservation Scientist, Forensic Scientist.",
+        "Subject": [
+            "AND", 
+               
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematics",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Physical Science",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Life Science",
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "BOTANY AND ZOOLOGY",
+        "ID":5958,
+        "Qualification Code": "B2E12Q",
+        "APS": 26,
+        "Description": "Biologist, Nature Conservationist, Environmentalist, Ethno-Botanist, Ecologist, Entomologist, Pathologist, Parasitologist, Geneticist, Food Technologist, Zoologist.",
+        "Subject": [
+            "AND", 
+               
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematics",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Physical Science",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Life Science",
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "GEOLOGY AND MATHEMATICS",
+        "ID":2207,
+        "Qualification Code": "B2P82Q",
+        "APS": 31,
+        "Description": "Geomathematician, Geologist, Problem Analyst.",
+        "Subject": [
+            "AND", 
+               
+            {
+                "subjectid": "English",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematics",
+                "minmark": 70,
+                "required": true
+            },
+            {
+                "subjectid": "Physical Science",
+                "minmark": 60,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "GEOLOGY AND PHYSICS",
+        "ID":2208,
+        "Qualification Code": "B2P83Q",
+        "APS": 31,
+        "Description": "Physicist, Geophysicist, Geohydrologist, Geologist.",
+        "Subject": [
+            "AND", 
+               
+            {
+                "subjectid": "English",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematics",
+                "minmark": 70,
+                "required": true
+            },
+            {
+                "subjectid": "Physical Science",
+                "minmark": 60,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "PHYSICS AND APPLIED MATHEMATICS",
+        "ID":6298,
+        "Qualification Code": "B2P77Q",
+        "APS": 31,
+        "Description": "Problem Solver, Researcher in Astronomy and Energy Sources.",
+        "Subject": [
+            "AND", 
+               
+            {
+                "subjectid": "English",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematics",
+                "minmark": 70,
+                "required": true
+            },
+            {
+                "subjectid": "Physical Science",
+                "minmark": 60,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "PHYSICS AND MATHEMATICS",
+        "ID":663789116,
+        "Qualification Code": "B2P78Q",
+        "APS": 31,
+        "Description": "Problem Solver, Researcher in Astronomy and Energy Sources.",
+        "Subject": [
+            "AND", 
+               
+            {
+                "subjectid": "English",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematics",
+                "minmark": 70,
+                "required": true
+            },
+            {
+                "subjectid": "Physical Science",
+                "minmark": 60,
+                "required": true
+            }
+        ]
+    }
+]

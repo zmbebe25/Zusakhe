@@ -1,0 +1,42 @@
+[
+    {
+        "Qualification": "MANAGEMENT SERVICES",
+        "Qualification Code": "D6MASQ",
+        "APS": 21,
+        "Description": "Advise on improving the efficiency and the productivity of an organisation.",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Technical Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 60
+            }
+        ]
+    },
+    {
+        "Qualification": "OPERATIONS MANAGEMENT",
+        "Qualification Code": "D6OPMQ",
+        "APS": 22,
+        "Description": "This career equips the graduate with the ability to plan, organise and control operational activities in an organisation.",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Technical Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 60
+            }
+        ]
+    }
+]

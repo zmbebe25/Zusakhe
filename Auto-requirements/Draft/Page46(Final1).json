@@ -1,0 +1,86 @@
+[
+  {
+    "Qualification": "RETAIL BUSINESS\nMANAGEMENT **",
+    "Qualification Code": "D1RBMQ",
+    "APS": "shtaM RO tiL\nshtaM\nhceT/shtaM\nhtiw\n42\nhtiw\n22",
+    "English": 50,
+    "Mathematics": 40,
+    "Mathematical Literacy": 60,
+    "Technical Mathematics": 40,
+    "Description": ".renwO ssenisuB ,srepoleveD\nerawtfoS liateR ,scitylanA remotsuC\n,sredaeL ecneirepxE remotsuC ,noitomorP\nselaS dna gnisitrevdA ,gniliateR ecivreS\n,sreganaM selaS ,sreganaM yrogetaC tcudorP\n,sresidnahcreM lausiV ,stsilaicepS tuoyaL\n,sreganaM erotS ,sreyuB .yrtsudni gniliater eht\nni krow rof etaudarg eht seraperP",
+    "8": "BPA",
+    "First Additional Language": null
+  },
+  {
+    "Qualification": "SMALL BUSINESS\nMANAGEMENT",
+    "Qualification Code": "D1SBMQ",
+    "APS": "hceT/shtaM RO tiL\nshtaM shtaM\nhtiw\nhtiw\n42\n22",
+    "English": 50,
+    "Mathematics": 40,
+    "Mathematical Literacy": 60,
+    "Technical Mathematics": 40,
+    "Description": ".ssenisub nwo rieht\ntrats ot erised a wohs noitacifilauq siht\not stnacilppa taht dednemmocer si tI\n.ruenerpertnE laicoS\n,reganaM ssenisuB ,rosivdA ssenisuB\n,renwO ssenisuB ,ruenerpertnE",
+    "8": "CWS",
+    "First Additional Language": null
+  },
+  {
+    "Qualification": "TOURISM\nMANAGEMENT",
+    "Qualification Code": "D34TMQ",
+    "APS": "hceT/shtaM RO tiL\nshtaM shtaM\nhtiw\nhtiw\n42\n22",
+    "English": 50,
+    "Mathematics": 40,
+    "Mathematical Literacy": 60,
+    "Technical Mathematics": 40,
+    "Description": ".srotces detaler\nmsiruot tnereffid fo yteirav a ni krow\not stcepsa laireganam dna lanoitarepo\nhtiw etaudarg eht seraperP",
+    "8": "BPA",
+    "First Additional Language": null
+  },
+  {
+    "Qualification": "TRANSPORTATION\nMANAGEMENT",
+    "Qualification Code": "D1TRMQ",
+    "APS": "hceT/shtaM RO tiL\nshtaM shtaM\nhtiw\nhtiw\n62\n42",
+    "English": 50,
+    "Mathematics": 40,
+    "Mathematical Literacy": 60,
+    "Technical Mathematics": 40,
+    "Description": ".reganaM noitatropsnarT",
+    "8": "BPA",
+    "First Additional Language": null
+  },
+  {
+    "Qualification": "LOGISTICS",
+    "Qualification Code": "D1LOGE",
+    "APS": "hceT/shtaM RO tiL\nshtaM shtaM\nhtiw\nhtiw\n42\n22",
+    "English": 50,
+    "Mathematics": 40,
+    "Mathematical Literacy": 60,
+    "Technical Mathematics": 40,
+    "Description": ".reganaM esuoheraW\n,reganaM gnisahcruP",
+    "8": "BPA",
+    "First Additional Language": null
+  },
+  {
+    "Qualification": "PEOPLE\nMANAGEMENT",
+    "Qualification Code": "D34PEQ",
+    "APS": "hceT/shtaM RO tiL\nshtaM shtaM\nhtiw\nhtiw\n12\n91",
+    "English": 50,
+    "Mathematics": 40,
+    "Mathematical Literacy": 50,
+    "Technical Mathematics": 40,
+    "Description": ".renoititcarP tnempoleveD lanoitasinagrO\n,rotatilicaF egnahC ,reciffO tnempoleveD\ndna gniniarT ,rehcraeseR ecruoseR namuH\n,laiciffO noitceleS dna tnemtiurceR ,laiciffO\nssenlleW dna htlaeH ,reciffO stifeneB\neeyolpmE ,reciffO ecruoseR namuH\n.snoitasinagro ni seussi detaler-eeyolpme\nhtiw laed srenoititcarP tnemeganaM elpoeP",
+    "8": "CWS",
+    "First Additional Language": null
+  },
+  {
+    "Qualification": "SMALL BUSINESS\nMANAGEMENT",
+    "Qualification Code": "D1SBME",
+    "APS": "hceT/shtaM RO tiL\nshtaM shtaM\nhtiw\nhtiw\n12\n91",
+    "English": 50,
+    "Mathematics": 40,
+    "Mathematical Literacy": 50,
+    "Technical Mathematics": 40,
+    "Description": ".ssenisub nwo rieht\ntrats ot erised a wohs noitacifilauq siht\not stnacilppa taht dednemmocer si tI\n.ruenerpertnE laicoS\n,reganaM ssenisuB ,rosivdA ssenisuB\n,renwO ssenisuB ,ruenerpertnE",
+    "8": "CWS",
+    "First Additional Language": null
+  }
+]

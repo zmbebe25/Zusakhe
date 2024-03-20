@@ -1,0 +1,42 @@
+[
+    {
+        "Qualification": "BACHELOR OF\nHUMAN RESOURCE\nMANAGEMENT",
+        "Qualification Code": "B34HRP",
+        "APS": 28,
+        "Description": ".reciffO noitceleS dna tnemtiurceR\n,reganaM gniniarT ,reciffO lennosreP\nMRH ,reganaM lennosreP MRH",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 50
+            },
+            {
+                "Mathematical Literacy": 60
+            },
+            {
+                "Technical Mathematics": 50
+            }
+        ]
+    },
+    {
+        "Qualification": "BACHELOR OF\nCOMMERCE IN\nACCOUNTANCY",
+        "Qualification Code": "B34ACP",
+        "APS": 28,
+        "Description": ".tnatlusnoC xaT ,rotiduA lanretnI\n,tnatnuoccA ,reganaM laicnaniF",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 50
+            },
+            {
+                "Mathematical Literacy": null
+            },
+            {
+                "Technical Mathematics": null
+            }
+        ]
+    }
+]

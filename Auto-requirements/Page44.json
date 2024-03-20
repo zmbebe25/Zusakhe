@@ -1,0 +1,82 @@
+[
+    {
+        "Qualification": "ACCOUNTANCY *",
+        "Qualification Code": "D3A15Q",
+        "APS": 24,
+        "Description": "Accounting Technician, Bookkeeper, Cost Accountant.",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 60
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    },
+    {
+        "Qualification": "BUSINESS INFORMATION TECHNOLOGY",
+        "Qualification Code": "DI1401",
+        "APS": 24,
+        "Description": "IT practitioners provide solutions to business problems through the application of computer based technology and techniques.",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 70
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    },
+    {
+        "Qualification": "FINANCIAL SERVICES OPERATIONS *",
+        "Qualification Code": "D34F9Q",
+        "APS": 24,
+        "Description": "Middle and Back Office Operations: Financial Operations Administrator, Operations Analyst, Risk and Compliance Officer.",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 60
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    },
+    {
+        "Qualification": "FOOD AND BEVERAGE OPERATIONS",
+        "Qualification Code": "D34FBQ",
+        "APS": 24,
+        "Description": "The successful food and beverage operations student will possess the appropriate skills at operational and supervisory levels within the food and beverage industry in South Africa or internationally. Persons can work in food and beverage units, private and executive catering, marketing and promotions, training or in areas of food and drinks within the industry.",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 60
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    }
+]

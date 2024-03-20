@@ -1,0 +1,77 @@
+[
+    {
+        "Qualification": "MINE SURVEYING",
+        "Qualification Code": "B6SU0Q",
+        "APS": 23,
+        "Description": "Advise surveying mining engineers about geological areas that can be profitably mined.",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 50
+                },
+                {
+                    "Mathematics": 60
+                },
+                {
+                    "Technical Mathematics": 60
+                },
+                {
+                    "Physical Sciences": 60
+                },
+                {
+                    "Technical Science": 60
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "CONSTRUCTION",
+        "Qualification Code": "B6CN0Q",
+        "APS": 30,
+        "Description": "Students are employed in the construction industry as Quantity Surveyors and Construction Managers.",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 50
+                },
+                {
+                    "Mathematics": 60
+                },
+                {
+                    "Technical Mathematics": 60
+                },
+                {
+                    "Physical Sciences": 60
+                },
+                {
+                    "Technical Science": 60
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "URBAN AND REGIONAL PLANNING",
+        "Qualification Code": "B6UP0Q",
+        "APS": 27,
+        "Description": "The allocation and spatial organisation of land uses to ensure coordinated and harmonious development and to create successful and sustainable human settlements.",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 50
+                },
+                {
+                    "Mathematics": 60
+                },
+                {
+                    "Technical Mathematics": 60
+                },
+                {
+                    "Geography": 60
+                }
+            ]
+        ]
+    }
+]

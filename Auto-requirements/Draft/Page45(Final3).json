@@ -1,0 +1,62 @@
+[
+    {
+        "Qualification": "LOGISTICS",
+        "Qualification Code": "D1LOGQ",
+        "APS": 26,
+        "Description": ".reganaM esuoheraW\n,reganaM gnisahcruP",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 60
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    },
+    {
+        "Qualification": "MARKETING **",
+        "Qualification Code": "D1MKTQ",
+        "APS": 24,
+        "Description": ".reganaM selaS ,gninnalP\naideM ,gnitlusnoC gnitekraM ,secivreS\nremotsuC ,rehcraeseR gnitekraM\n,reganaM gnitekraM ,reganaM\npihsnoitaleR remotsuC ,tnemeganaM\ndnarB ,gnisitrevdA ,retekraM",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 60
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    },
+    {
+        "Qualification": "PEOPLE\nMANAGEMENT",
+        "Qualification Code": "D34P2Q",
+        "APS": 24,
+        "Description": ".renoititcarP tnempoleveD\nlanoitasinagrO ,rotatilicaF egnahC\n,reciffO tnempoleveD dna gniniarT\n,rehcraeseR ecruoseR namuH\n,laiciffO noitceleS dna tnemtiurceR\n,laiciffO ssenlleW dna htlaeH ,reciffO\nstifeneB eeyolpmE ,reciffO ecruoseR\nnamuH .snoitasinagro ni seussi\ndetaler-eeyolpme htiw gnilaed\nsrenoititcarP tnemeganaM elpoeP",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 60
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    }
+]

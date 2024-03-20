@@ -1,0 +1,100 @@
+[
+    {
+        "Qualification": "Bachelor of Arts with specialisation in Development Studies",
+        "ID": 214330503,
+        "Qualification Code": "B7EX2Q",
+        "APS": 24,
+        "Description": "Social development or social changes practitioner, researcher of social change, activist, foreign service, enterprise, and organizational development.",
+        "Subject":[
+            "AND", 
+               
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "Bachelor of Arts with specialisation in Linguistics",
+        "ID": 825844469,
+        "Qualification Code": "B7EX3Q",
+        "APS": 24,
+        "Description": "Education (teaching English to speakers of other languages), training, research and administration, business communication, market research, interpreting and translating, academic career.",
+        "Subject":[
+            "AND", 
+               
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "Bachelor of Arts with specialisation in Linguistics and Language Practice",
+        "ID": 790752808,
+        "Qualification Code": "B7EX4Q",
+        "APS": 24,
+        "Description": "Language practitioner (translator, interpreter), language planner, language manager, copywriter, journalist, subtitler, plain language specialist.",
+        "Subject": [
+            "AND", 
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            }
+
+        ]
+    },
+    {
+        "Qualification": "Bachelor of Arts with specialisation in Strategic Communication",
+        "ID": 5952,
+        "Qualification Code": "B7EX5Q",
+        "APS": 24,
+        "Description": "Brand managers, social media strategists, digital marketing managers, advertising and public relations specialists, media planners, development officers, communication officers, corporate social responsibility specialists, media relations managers, etc.",
+        "Subject": [
+            "AND", 
+               
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "Diploma in Public Relations and Communication",
+        "ID": 335,
+        "Duration": "3 years",
+        "Qualification Code": "D7002Q",
+        "APS": 25,
+        "Subject": [
+            "AND", 
+               
+            {
+                "subjectid": "English",
+                "minmark": 60,
+                "required": true
+            }
+        ],
+        "Description": "A PR Practitioner is involved with an organisation’s communication strategy."
+    },
+    {
+        "Qualification": "Extended Diploma in Public Relations and Communication",
+        "ID": 5954,
+        "Duration": "4 years",
+        "Qualification Code": "D7EX2Q",
+        "APS": 22,
+        "Subject": [
+            "AND", 
+               
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        "Description": "A PR Practitioner is involved with an organisation’s communication strategy."
+    }
+]

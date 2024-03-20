@@ -1,0 +1,82 @@
+[
+    {
+        "Qualification": "ACCOUNTING (CA)",
+        "Qualification Code": "BCA012",
+        "APS": 33,
+        "Description": ".)AS( AC \u2013 tnatnuoccA deretrahC",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 60
+            },
+            {
+                "Mathematical Literacy": null
+            },
+            {
+                "Technical Mathematics": null
+            }
+        ]
+    },
+    {
+        "Qualification": "HOSPITALITY MANAGEMENT",
+        "Qualification Code": "B34HOQ",
+        "APS": 28,
+        "Description": ".yrtsudni eht ni snoitisop rehto tsgnoma reganaM laicnaniF ,reganaM lareneG .e.i yrtsudnI ytilatipsoH eht ni snoitisop pihsredael otni evom ot eripsa ohw stneduts fo sdeen eht sevres eerged sihT",
+        "Subject": [
+            {
+                "English": 60
+            },
+            {
+                "Mathematics": 50
+            },
+            {
+                "Mathematical Literacy": 60
+            },
+            {
+                "Technical Mathematics": 50
+            }
+        ]
+    },
+    {
+        "Qualification": "HUMAN RESOURCE MANAGEMENT",
+        "Qualification Code": "B34HRQ",
+        "APS": 28,
+        "Description": ".secitcarp RH desidradnats ,detaluger egaruocne ot )PPBAS( secitcarP elpoeP fo draoB nacirfA htuoS eht htiw srenoititcarP RH sa retsiger yam setaudarG .reciffO noitceleS dna tnemtiurceR ,reganaM gniniarT ,reciffO lennosreP MRH ,reganaM lennosreP MRH ,srenoititcarP ecruoseR namuH",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 50
+            },
+            {
+                "Mathematical Literacy": 60
+            },
+            {
+                "Technical Mathematics": 50
+            }
+        ]
+    },
+    {
+        "Qualification": "TOURISM DEVELOPMENT AND MANAGEMENT",
+        "Qualification Code": "B34TOQ",
+        "APS": 28,
+        "Description": ".reganaM dna rotanidro-oC selaS ,reggolB levarT ,reganaM dna repoleveD etisbeW ,rotidE dna retirW lacinhceT ,seicnegA dna stnemtrapeD msiruoT tnemnrevoG lacoL dna laicnivorP ,lanoitaN ,gnitlusnoC etaroproC ,tnatlusnoC tnempoleveD ,tnegA latneR raC ,noitatropsnarT ,gnirutceL dna gniniarT ,gnihcaeT ,aimedacA ,rehcraeseR ,tnatlusnoC asiV ,rotanidro-oC ytivitcA erusieL ,gnitekraM ,snoitaleR cilbuP ,resinagrO ecnerefnoC dna tnevE ,rotarepO ruoT ,ediuG ruoT ,tnegA levarT ,ruenerpertnE",
+        "Subject": [
+            {
+                "English": 60
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 50
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    }
+]

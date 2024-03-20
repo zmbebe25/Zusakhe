@@ -1,0 +1,79 @@
+[
+    {
+        "0": "RETAIL BUSINESS\nMANAGEMENT **",
+        "1": "D1RBMQ",
+        "2": "shtaM RO tiL\nshtaM\nhceT/shtaM\nhtiw\n42\nhtiw\n22",
+        "3": "4\n(50%+)",
+        "4": "3\n(40%+)",
+        "5": "5\n(60%+)",
+        "6": "3\n(40%+)",
+        "7": ".renwO ssenisuB ,srepoleveD\nerawtfoS liateR ,scitylanA remotsuC\n,sredaeL ecneirepxE remotsuC ,noitomorP\nselaS dna gnisitrevdA ,gniliateR ecivreS\n,sreganaM selaS ,sreganaM yrogetaC tcudorP\n,sresidnahcreM lausiV ,stsilaicepS tuoyaL\n,sreganaM erotS ,sreyuB .yrtsudni gniliater eht\nni krow rof etaudarg eht seraperP",
+        "8": "BPA"
+    },
+    {
+        "0": "SMALL BUSINESS\nMANAGEMENT",
+        "1": "D1SBMQ",
+        "2": "hceT/shtaM RO tiL\nshtaM shtaM\nhtiw\nhtiw\n42\n22",
+        "3": "4\n(50%+)",
+        "4": "3\n(40%+)",
+        "5": "5\n(60%+)",
+        "6": "3\n(40%+)",
+        "7": ".ssenisub nwo rieht\ntrats ot erised a wohs noitacifilauq siht\not stnacilppa taht dednemmocer si tI\n.ruenerpertnE laicoS\n,reganaM ssenisuB ,rosivdA ssenisuB\n,renwO ssenisuB ,ruenerpertnE",
+        "8": "CWS"
+    },
+    {
+        "0": "TOURISM\nMANAGEMENT",
+        "1": "D34TMQ",
+        "2": "hceT/shtaM RO tiL\nshtaM shtaM\nhtiw\nhtiw\n42\n22",
+        "3": "4\n(50%+)",
+        "4": "3\n(40%+)",
+        "5": "5\n(60%+)",
+        "6": "3\n(40%+)",
+        "7": ".srotces detaler\nmsiruot tnereffid fo yteirav a ni krow\not stcepsa laireganam dna lanoitarepo\nhtiw etaudarg eht seraperP",
+        "8": "BPA"
+    },
+    {
+        "0": "TRANSPORTATION\nMANAGEMENT",
+        "1": "D1TRMQ",
+        "2": "hceT/shtaM RO tiL\nshtaM shtaM\nhtiw\nhtiw\n62\n42",
+        "3": "4\n(50%+)",
+        "4": "3\n(40%+)",
+        "5": "5\n(60%+)",
+        "6": "3\n(40%+)",
+        "7": ".reganaM noitatropsnarT",
+        "8": "BPA"
+    },
+    {
+        "0": "LOGISTICS",
+        "1": "D1LOGE",
+        "2": "hceT/shtaM RO tiL\nshtaM shtaM\nhtiw\nhtiw\n42\n22",
+        "3": "4\n(50%+)",
+        "4": "3\n(40%+)",
+        "5": "5\n(60%+)",
+        "6": "3\n(40%+)",
+        "7": ".reganaM esuoheraW\n,reganaM gnisahcruP",
+        "8": "BPA"
+    },
+    {
+        "0": "PEOPLE\nMANAGEMENT",
+        "1": "D34PEQ",
+        "2": "hceT/shtaM RO tiL\nshtaM shtaM\nhtiw\nhtiw\n12\n91",
+        "3": "4\n(50%+)",
+        "4": "3\n(40%+)",
+        "5": "4\n(50%+)",
+        "6": "3\n(40%+)",
+        "7": ".renoititcarP tnempoleveD lanoitasinagrO\n,rotatilicaF egnahC ,reciffO tnempoleveD\ndna gniniarT ,rehcraeseR ecruoseR namuH\n,laiciffO noitceleS dna tnemtiurceR ,laiciffO\nssenlleW dna htlaeH ,reciffO stifeneB\neeyolpmE ,reciffO ecruoseR namuH\n.snoitasinagro ni seussi detaler-eeyolpme\nhtiw laed srenoititcarP tnemeganaM elpoeP",
+        "8": "CWS"
+    },
+    {
+        "0": "SMALL BUSINESS\nMANAGEMENT",
+        "1": "D1SBME",
+        "2": "hceT/shtaM RO tiL\nshtaM shtaM\nhtiw\nhtiw\n12\n91",
+        "3": "4\n(50%+)",
+        "4": "3\n(40%+)",
+        "5": "4\n(50%+)",
+        "6": "3\n(40%+)",
+        "7": ".ssenisub nwo rieht\ntrats ot erised a wohs noitacifilauq siht\not stnacilppa taht dednemmocer si tI\n.ruenerpertnE laicoS\n,reganaM ssenisuB ,rosivdA ssenisuB\n,renwO ssenisuB ,ruenerpertnE",
+        "8": "CWS"
+    }
+]

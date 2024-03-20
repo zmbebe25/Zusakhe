@@ -1,0 +1,105 @@
+[
+    {
+        "Qualification": "BIOCHEMISTRY AND CHEMISTRY",
+        "Qualification Code": "B2E70Q",
+        "APS": 26,
+        "Description": "Scientist in the field of food and water, and biomedical, biotechnological and agricultural sectors.",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 50
+                },
+                {
+                    "Mathematics": 60
+                },
+                {
+                    "Physical Science": 50
+                },
+                {
+                    "Life Science": 50
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "CHEMISTRY AND MATHEMATICS",
+        "Qualification Code": "B2E71Q",
+        "APS": 26,
+        "Description": "Chemistry, Researcher, Technologist, Problem Solver.",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 50
+                },
+                {
+                    "Mathematics": 60
+                },
+                {
+                    "Physical Science": 50
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "CHEMISTRY AND PHYSICS",
+        "Qualification Code": "B2E72Q",
+        "APS": 26,
+        "Description": "Physicist, Researcher, Chemistry Technologist, Forensic Researcher.",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 50
+                },
+                {
+                    "Mathematics": 60
+                },
+                {
+                    "Physical Science": 50
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "PHYSICS AND APPLIED MATHEMATICS",
+        "Qualification Code": "B2E73Q",
+        "APS": 26,
+        "Description": "Problem Solver, Researcher in Astronomy and Energy Sources.",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 50
+                },
+                {
+                    "Mathematics": 60
+                },
+                {
+                    "Physical Science": 50
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "PHYSICS AND MATHEMATICS",
+        "Qualification Code": "B2E74Q",
+        "APS": 26,
+        "Description": "Problem Solver, Researcher in Astronomy and Energy Sources.",
+        "Subject": [
+            "AND",
+            [
+                {
+                    "English": 50
+                },
+                {
+                    "Mathematics": 60
+                },
+                {
+                    "Physical Science": 50
+                }
+            ]
+        ]
+    }
+]

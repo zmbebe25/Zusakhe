@@ -1,0 +1,117 @@
+[
+    {
+        "Qualification": "MINE SURVEYING",
+        "ID": 167,
+        "Qualification Code": "B6SU0Q",
+        "APS": 23,
+        "Description": "Advise surveying mining engineers about geological areas that can be profitably mined.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Sciences",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Technical Science",
+                    "minmark": 60,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Technical Mathematics",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "CONSTRUCTION",
+        "ID": 168,
+        "Qualification Code": "B6CN0Q",
+        "APS": 30,
+        "Description": "Students are employed in the construction industry as Quantity Surveyors and Construction Managers.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Physical Sciences",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Technical Science",
+                    "minmark": 60,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Technical Mathematics",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "URBAN AND REGIONAL PLANNING",
+        "ID": 169,
+        "Qualification Code": "B6UP0Q",
+        "APS": 27,
+        "Description": "The allocation and spatial organisation of land uses to ensure coordinated and harmonious development and to create successful and sustainable human settlements.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": "Geography",
+                    "minmark": 60,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": "Technical Mathematics",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    }
+]

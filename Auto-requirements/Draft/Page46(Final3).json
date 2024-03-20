@@ -1,0 +1,142 @@
+[
+    {
+        "Qualification": "RETAIL BUSINESS\nMANAGEMENT **",
+        "Qualification Code": "D1RBMQ",
+        "APS": 24,
+        "Description": ".renwO ssenisuB ,srepoleveD\nerawtfoS liateR ,scitylanA remotsuC\n,sredaeL ecneirepxE remotsuC ,noitomorP\nselaS dna gnisitrevdA ,gniliateR ecivreS\n,sreganaM selaS ,sreganaM yrogetaC tcudorP\n,sresidnahcreM lausiV ,stsilaicepS tuoyaL\n,sreganaM erotS ,sreyuB .yrtsudni gniliater eht\nni krow rof etaudarg eht seraperP",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 60
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    },
+    {
+        "Qualification": "SMALL BUSINESS\nMANAGEMENT",
+        "Qualification Code": "D1SBMQ",
+        "APS": 24,
+        "Description": ".ssenisub nwo rieht\ntrats ot erised a wohs noitacifilauq siht\not stnacilppa taht dednemmocer si tI\n.ruenerpertnE laicoS\n,reganaM ssenisuB ,rosivdA ssenisuB\n,renwO ssenisuB ,ruenerpertnE",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 60
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    },
+    {
+        "Qualification": "TOURISM\nMANAGEMENT",
+        "Qualification Code": "D34TMQ",
+        "APS": 24,
+        "Description": ".srotces detaler\nmsiruot tnereffid fo yteirav a ni krow\not stcepsa laireganam dna lanoitarepo\nhtiw etaudarg eht seraperP",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 60
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    },
+    {
+        "Qualification": "TRANSPORTATION\nMANAGEMENT",
+        "Qualification Code": "D1TRMQ",
+        "APS": 26,
+        "Description": ".reganaM noitatropsnarT",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 60
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    },
+    {
+        "Qualification": "LOGISTICS",
+        "Qualification Code": "D1LOGE",
+        "APS": 24,
+        "Description": ".reganaM esuoheraW\n,reganaM gnisahcruP",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 60
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    },
+    {
+        "Qualification": "PEOPLE\nMANAGEMENT",
+        "Qualification Code": "D34PEQ",
+        "APS": 21,
+        "Description": ".renoititcarP tnempoleveD lanoitasinagrO\n,rotatilicaF egnahC ,reciffO tnempoleveD\ndna gniniarT ,rehcraeseR ecruoseR namuH\n,laiciffO noitceleS dna tnemtiurceR ,laiciffO\nssenlleW dna htlaeH ,reciffO stifeneB\neeyolpmE ,reciffO ecruoseR namuH\n.snoitasinagro ni seussi detaler-eeyolpme\nhtiw laed srenoititcarP tnemeganaM elpoeP",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 50
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    },
+    {
+        "Qualification": "SMALL BUSINESS\nMANAGEMENT",
+        "Qualification Code": "D1SBME",
+        "APS": 21,
+        "Description": ".ssenisub nwo rieht\ntrats ot erised a wohs noitacifilauq siht\not stnacilppa taht dednemmocer si tI\n.ruenerpertnE laicoS\n,reganaM ssenisuB ,rosivdA ssenisuB\n,renwO ssenisuB ,ruenerpertnE",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematical Literacy": 50
+            },
+            {
+                "Technical Mathematics": 40
+            }
+        ]
+    }
+]

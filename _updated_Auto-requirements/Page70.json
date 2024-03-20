@@ -1,0 +1,37 @@
+[
+    {
+        "Qualification": "SPORT MANAGEMENT",
+        "ID": 167,
+        "Qualification Code": "D9S01Q",
+        "APS": 22,
+        "Description": "Sports Administrator, Facilities Manager, Professional Coach, Fitness Trainer, Sports Marketer, Sports Sponsorship Manager, Events Manager and Marketer.",
+        "ENTRANCE": [
+            "AND",
+            [
+                "OR",
+                {
+                    "subjectid": "English",
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": "Mathematics Literacy",
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": "Technical Mathematics",
+                    "minmark": 40,
+                    "required": true
+                }
+            ]
+        ]
+    }
+]

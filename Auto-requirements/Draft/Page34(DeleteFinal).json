@@ -1,0 +1,38 @@
+[
+    {
+        "Qualification": "ARCHITECTURE",
+        "Qualification Code": "D8AT1Q",
+        "APS": "RO shtaM\nshtaM\nhceT\nhtiw\nhtiw\n32\n42",
+        "English": "4\n(50%+)",
+        "First Additional Language": "4\n(50%+)",
+        "Mathematics": "4\n(50%+)",
+        "Mathematical Literacy": "Not\naccepted",
+        "Technical Mathematics": "5\n(60%+)",
+        "Description": "Architectural Practitioners design\nsimple buildings and produce\ntechnological details.",
+        "9": "BPA"
+    },
+    {
+        "Qualification": "FASHION\nPRODUCTION",
+        "Qualification Code": "D8FP1Q",
+        "APS": "RO tiL\nsshtaM shtaM\nhtiw\nhtiw\n12\n02",
+        "English": "4\n(50%+)",
+        "First Additional Language": "4\n(50%+)",
+        "Mathematics": "3\n(40%+)",
+        "Mathematical Literacy": "4\n(50%+)",
+        "Technical Mathematics": "Not\naccepted",
+        "Description": "Fashion Production Graduates can\nbe involved in the business,\nmanufacturing, retail and quality\nassurance aspects of the\nclothing industry.",
+        "9": "BPA"
+    },
+    {
+        "Qualification": "JEWELLERY\nDESIGN AND\nMANUFACTURE",
+        "Qualification Code": "D8JD1Q",
+        "APS": "tiL shtaM\nshtaM\nhceT\nhtiw\nhtiw\n91\n02\nRO\nRO\nshtaM\nhtiw\n81",
+        "English": "4\n(50%+)",
+        "First Additional Language": "4\n(50%+)",
+        "Mathematics": "3\n(40%+)",
+        "Mathematical Literacy": "4\n(50%+)",
+        "Technical Mathematics": "5\n(60%+)",
+        "Description": "Jewellery Designers and Manufacturers\nprocess designs and concepts in high\nend commercial and contemporary\ncommercial manufacture processes.",
+        "9": "BPA"
+    }
+]

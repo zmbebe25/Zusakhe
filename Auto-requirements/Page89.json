@@ -1,0 +1,172 @@
+[
+    {
+        "Qualification": "APPLIED MATHEMATICS AND COMPUTER SCIENCE",
+        "Qualification Code": "B2M40Q",
+        "APS": 31,
+        "Description": "Computer Programmer, Systems Analyst, Mathematical Modulator.",
+        "Subject": [
+            {
+                "English": 60
+            },
+            {
+                "Mathematics": 70
+            },
+            {
+                "Physical Science": 50
+            }
+        ]
+    },
+    {
+        "Qualification": "APPLIED MATHEMATICS AND MATHEMATICAL STATISTICS",
+        "Qualification Code": "B2M41Q",
+        "APS": 31,
+        "Description": "Mathematician, Data Compiler, Data Interpreter, Biometrician.",
+        "Subject": [
+            {
+                "English": 60
+            },
+            {
+                "Mathematics": 70
+            },
+            {
+                "Physical Science": 50
+            }
+        ]
+    },
+    {
+        "Qualification": "APPLIED MATHEMATICS AND MATHEMATICS",
+        "Qualification Code": "B2M42Q",
+        "APS": 31,
+        "Description": "Mathematical Modulator, Mathematical Adviser.",
+        "Subject": [
+            {
+                "English": 60
+            },
+            {
+                "Mathematics": 70
+            },
+            {
+                "Physical Science": 50
+            }
+        ]
+    },
+    {
+        "Qualification": "COMPUTATIONAL SCIENCE",
+        "Qualification Code": "B2M43Q",
+        "APS": 33,
+        "Description": "Software Specialist in high-tech industry, Designer of medical monitors.",
+        "Subject": [
+            {
+                "English": 60
+            },
+            {
+                "Mathematics": 80
+            },
+            {
+                "Physical Science": 60
+            }
+        ]
+    },
+    {
+        "Qualification": "MATHEMATICAL STATISTICS AND COMPUTER SCIENCE",
+        "Qualification Code": "B2M44Q",
+        "APS": 31,
+        "Description": "Computer Programmer, System Analyst, Data Compiler and Analyst.",
+        "Subject": [
+            {
+                "English": 60
+            },
+            {
+                "Mathematics": 70
+            },
+            {
+                "Physical Science": 50
+            }
+        ]
+    },
+    {
+        "Qualification": "MATHEMATICS AND COMPUTER SCIENCE",
+        "Qualification Code": "B2M45Q",
+        "APS": 31,
+        "Description": "Computer Programmer, Systems Analyst, Mathematical Advisor.",
+        "Subject": [
+            {
+                "English": 60
+            },
+            {
+                "Mathematics": 70
+            },
+            {
+                "Physical Science": 50
+            }
+        ]
+    },
+    {
+        "Qualification": "MATHEMATICS AND INFORMATICS",
+        "Qualification Code": "B2M46Q",
+        "APS": 31,
+        "Description": "Computer Programmer, Systems Analyst.",
+        "Subject": [
+            {
+                "English": 60
+            },
+            {
+                "Mathematics": 70
+            },
+            {
+                "Physical Science": 50
+            }
+        ]
+    },
+    {
+        "Qualification": "MATHEMATICS AND MATHEMATICAL STATISTICS",
+        "Qualification Code": "B2M47Q",
+        "APS": 31,
+        "Description": "Financial Analyst, Economist.",
+        "Subject": [
+            {
+                "English": 60
+            },
+            {
+                "Mathematics": 70
+            },
+            {
+                "Physical Science": 50
+            }
+        ]
+    },
+    {
+        "Qualification": "MATHEMATICS AND PSYCHOLOGY",
+        "Qualification Code": "B2M48Q",
+        "APS": 31,
+        "Description": "Mathematician, Teacher, Researcher, Psychologist.",
+        "Subject": [
+            {
+                "English": 60
+            },
+            {
+                "Mathematics": 70
+            },
+            {
+                "Physical Science": 50
+            }
+        ]
+    },
+    {
+        "Qualification": "MATHEMATICS AND MATHEMATICAL STATISTICS (WITH FINANCIAL ORIENTATION)",
+        "Qualification Code": "B2M49Q",
+        "APS": 33,
+        "Description": "Mathematician, Data Interpreter, Research Statistician, Mathematical Advisor.",
+        "Subject": [
+            {
+                "English": 60
+            },
+            {
+                "Mathematics": 70
+            },
+            {
+                "Physical Science": 50
+            }
+        ]
+    }
+]

@@ -1,0 +1,144 @@
+[
+    {
+        "Qualification": "COMPUTER SCIENCE AND INFORMATICS",
+        "Qualification Code": "B2E01Q",
+        "APS": 26,
+        "Description": "Systems Analyst, Network Manager, Programmer, Web Developer, Web Master, Database Administrator, Software Engineer, Computer Graphics Designer, Information Technology Manager, Researcher.",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 60
+            }
+        ]
+    },
+    {
+        "Qualification": "BIOCHEMISTRY AND BOTANY",
+        "Qualification Code": "B2E10Q",
+        "APS": 26,
+        "Description": "Analyst, Technologist, or Researcher at Sasol, Eskom, Pharmaceutical Companies, Mining Companies or in the Health Industry.",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 60
+            },
+            {
+                "Physical Science": 50
+            },
+            {
+                "Life Science": 50
+            }
+        ]
+    },
+    {
+        "Qualification": "BOTANY AND CHEMISTRY",
+        "Qualification Code": "B2E11Q",
+        "APS": 26,
+        "Description": "Biologist, Botanist, Ecologist, Nature Conservation Scientist, Forensic Scientist.",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 60
+            },
+            {
+                "Physical Science": 50
+            },
+            {
+                "Life Science": 50
+            }
+        ]
+    },
+    {
+        "Qualification": "BOTANY AND ZOOLOGY",
+        "Qualification Code": "B2E12Q",
+        "APS": 26,
+        "Description": "Biologist, Nature Conservationist, Environmentalist, Ethno-Botanist, Ecologist, Entomologist, Pathologist, Parasitologist, Geneticist, Food Technologist, Zoologist.",
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 60
+            },
+            {
+                "Physical Science": 50
+            },
+            {
+                "Life Science": 50
+            }
+        ]
+    },
+    {
+        "Qualification": "GEOLOGY AND MATHEMATICS",
+        "Qualification Code": "B2P82Q",
+        "APS": 31,
+        "Description": "Geomathematician, Geologist, Problem Analyst.",
+        "Subject": [
+            {
+                "English": 60
+            },
+            {
+                "Mathematics": 70
+            },
+            {
+                "Physical Science": 60
+            }
+        ]
+    },
+    {
+        "Qualification": "GEOLOGY AND PHYSICS",
+        "Qualification Code": "B2P83Q",
+        "APS": 31,
+        "Description": "Physicist, Geophysicist, Geohydrologist, Geologist.",
+        "Subject": [
+            {
+                "English": 60
+            },
+            {
+                "Mathematics": 70
+            },
+            {
+                "Physical Science": 60
+            }
+        ]
+    },
+    {
+        "Qualification": "PHYSICS AND APPLIED MATHEMATICS",
+        "Qualification Code": "B2P77Q",
+        "APS": 31,
+        "Description": "Problem Solver, Researcher in Astronomy and Energy Sources.",
+        "Subject": [
+            {
+                "English": 60
+            },
+            {
+                "Mathematics": 70
+            },
+            {
+                "Physical Science": 60
+            }
+        ]
+    },
+    {
+        "Qualification": "PHYSICS AND MATHEMATICS",
+        "Qualification Code": "B2P78Q",
+        "APS": 31,
+        "Description": "Problem Solver, Researcher in Astronomy and Energy Sources.",
+        "Subject": [
+            {
+                "English": 60
+            },
+            {
+                "Mathematics": 70
+            },
+            {
+                "Physical Science": 60
+            }
+        ]
+    }
+]

@@ -1,0 +1,219 @@
+[
+    {
+        "Qualification": "GEOGRAPHY AND ENVIRONMENTAL MANAGEMENT",
+        "ID":5970,
+        "Qualification Code": "B2E13Q",
+        "APS": 26,
+        "Description": "Location Analyst, Town Planner, Geo-Information Specialist, Environmental Rehabilitation Manager, Geomorphologist.",
+        "Subject":[
+            "AND", 
+               
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematics",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Physical Science",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Life Science",
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "PHYSIOLOGY AND BIOCHEMISTRY",
+        "ID":916834655,
+        "Qualification Code": "B2E14Q",
+        "APS": 26,
+        "Description": "Biochemist, Researcher, Forensic Analyst, Biotechnologist.",
+        "Subject": [
+            "AND", 
+               
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematics",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Physical Science",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Life Science",
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "PHYSIOLOGY AND PSYCHOLOGY",
+        "ID":5965,
+        "Qualification Code": "B2E15Q",
+        "APS": 26,
+        "Description": "Psychologist, Forensic Pathologist, Researcher.",
+        "Subject": [
+            "AND", 
+               
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematics",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Physical Science",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Life Science",
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "ZOOLOGY AND BIOCHEMISTRY",
+        "ID":5959,
+        "Qualification Code": "B2E17Q",
+        "APS": 26,
+        "Description": "Zoologist, Biochemist, Nature Conservationist, Environmentalist, Ecologist, Entomologist, Pathologist, Geneticist, Food Technologist.",
+        "Subject":[
+            "AND", 
+               
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematics",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Physical Science",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Life Science",
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "ZOOLOGY AND CHEMISTRY",
+        "ID":5960,
+        "Qualification Code": "B2E18Q",
+        "APS": 26,
+        "Description": "Zoologist, Chemical Technologist And Researcher.",
+        "Subject": [
+            "AND", 
+               
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematics",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Physical Science",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Life Science",
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "ZOOLOGY AND ENVIRONMENTAL MANAGEMENT",
+        "ID":5971,
+        "Qualification Code": "B2E19Q",
+        "APS": 26,
+        "Description": "Geo-Zoologist, Population Geneticist, Environmental Ecologist and Specialist.",
+        "Subject":[
+            "AND", 
+               
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematics",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Physical Science",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Life Science",
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "ZOOLOGY AND GEOGRAPHY",
+        "ID":5961,
+        "Qualification Code": "B2E20Q",
+        "APS": 26,
+        "Description": "Geo-Zoologist, Population Geneticist, Environmental Ecologist and Specialist.",
+        "Subject": [
+            "AND", 
+               
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematics",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Physical Science",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Life Science",
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    }
+]
