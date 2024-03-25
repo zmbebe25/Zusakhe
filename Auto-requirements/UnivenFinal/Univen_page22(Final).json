@@ -1,0 +1,140 @@
+[
+    {
+        "Qualification": "Extended BSc in FINANCIAL MATHEMATICS AND AP-PLIED MATHEMATICS",
+        "Qualification Code": "MNEBSG",
+        "APS": 24,
+        "Subject": [
+            {
+                "English": 30
+            },
+            {
+                "Life Sciences": 50
+            },
+            {
+                "Agricultural Sciences": 50
+            },
+            {
+                "Physical Sciences": 50
+            },
+            {
+                "Geography": 50
+            }
+        ],
+        "Duration": "4 Years"
+    },
+    {
+        "Qualification": "Extended BSc in MATHEMATICS AND PHYSICS",
+        "Qualification Code": "MNEBSH",
+        "APS": 24,
+        "Subject": [
+            {
+                "English": 30
+            },
+            {
+                "Life Sciences": 50
+            },
+            {
+                "Agricultural Sciences": 50
+            },
+            {
+                "Physical Sciences": 50
+            },
+            {
+                "Geography": 50
+            }
+        ],
+        "Duration": "4 Years"
+    },
+    {
+        "Qualification": "Extended BSc in MATHEMATICS AND STATISTICS",
+        "Qualification Code": "MNEBSI",
+        "APS": 24,
+        "Subject": [
+            {
+                "English": 30
+            },
+            {
+                "Life Sciences": 50
+            },
+            {
+                "Agricultural Sciences": 50
+            },
+            {
+                "Physical Sciences": 50
+            },
+            {
+                "Geography": 50
+            }
+        ],
+        "Duration": "4 Years"
+    },
+    {
+        "Qualification": "Extended BSc in PHYSICS AND CHEMISTRY",
+        "Qualification Code": "MNEBSJ",
+        "APS": 24,
+        "Subject": [
+            {
+                "English": 30
+            },
+            {
+                "Life Sciences": 50
+            },
+            {
+                "Agricultural Sciences": 50
+            },
+            {
+                "Physical Sciences": 50
+            },
+            {
+                "Geography": 50
+            }
+        ],
+        "Duration": "4 Years"
+    },
+    {
+        "Qualification": "Extended BSc in CHEMISTRY AND MATHEMATICS",
+        "Qualification Code": "MNEBSK",
+        "APS": 24,
+        "Subject": [
+            {
+                "English": 30
+            },
+            {
+                "Life Sciences": 50
+            },
+            {
+                "Agricultural Sciences": 50
+            },
+            {
+                "Physical Sciences": 50
+            },
+            {
+                "Geography": 50
+            }
+        ],
+        "Duration": "4 Years"
+    },
+    {
+        "Qualification": "Extended BSc in CHEMISTRY AND BIOCHEMISTRY",
+        "Qualification Code": "MNEBSL",
+        "APS": 24,
+        "Subject": [
+            {
+                "English": 30
+            },
+            {
+                "Life Sciences": 50
+            },
+            {
+                "Agricultural Sciences": 50
+            },
+            {
+                "Physical Sciences": 50
+            },
+            {
+                "Geography": 50
+            }
+        ],
+        "Duration": "4 Years"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "Qualification": "Baccalaureus Legum",
+        "Qualification Code": "LWBBL",
+        "APS": 38,
+        "Subject": [
+            {
+                "English": 60
+            }
+        ],
+        "Duration": null
+    },
+    {
+        "Qualification": "Bachelor of Arts in Criminal Justice",
+        "Qualification Code": "LWBACJ",
+        "APS": 34,
+        "Subject": [
+            {
+                "English": 50
+            }
+        ],
+        "Duration": null
+    }
+]

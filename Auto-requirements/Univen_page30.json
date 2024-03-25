@@ -1,0 +1,32 @@
+[
+    {
+        "Qualification": "Agriculture Stream",
+        "Qualification Code": null,
+        "Description": null,
+        "Duration": null
+    },
+    {
+        "Qualification": "Bachelor of Science in Ag- riculture (Agricultural Eco- nomics)",
+        "Qualification Code": "(AGBAAE)",
+        "Description": "NSC 26 + Achievement level 4 in Mathematics, Physical Sciences and English as well as in either Life Sciences or Agricultural Sciences",
+        "Duration": "4 years"
+    },
+    {
+        "Qualification": "Bachelor of Science in Agri- culture (Agribusiness Man- agement)",
+        "Qualification Code": "(AGBAAM)",
+        "Description": "NSC 26 as certified by the Council for General and Further Education and Training (Umalusi) with an achievement rating of 4 (adequate achievement, 50- 59%) or better in each of the following four recognised 20-credit NSC subjects: En- glish, Mathematics, Physical Science and Life Sciences.",
+        "Duration": "4 years"
+    },
+    {
+        "Qualification": "Bachelor of Science in Agri- culture (Animal Science)",
+        "Qualification Code": "(AGBAAS)",
+        "Description": "NSC 26 as certified by the Council for General and Further Education and Training (Umalusi) with an achievement rating of 4 (adequate achievement, 50- 59%) or better in each of the following four recognised 20-credit NSC subjects: En- glish, Mathematics, Physical Science and Life Sciences.",
+        "Duration": "4 years"
+    },
+    {
+        "Qualification": "Bachelor of Science in Ag- riculture (Horticultural Sci- ences)",
+        "Qualification Code": "(AGBAHS)",
+        "Description": "NSC 26 as certified by the Council for General and Further Education and Training (Umalusi) with an achievement rating of 4 (adequate achievement, 50- 59%) or better in each of the following four recognised 20-credit NSC subjects: En- glish, Mathematics, Physical Science and Life Sciences.",
+        "Duration": "4 years"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "Qualification": "Extended BSc in CHEMISTRY",
+        "Qualification Code": "MNEBSN",
+        "APS": 26,
+        "Subject": [
+            {
+                "English": 40
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Physical Sciences": 40
+            }
+        ],
+        "Description": "NSC 26 with a bachelor's pass achievement rating of 3 (40-49%) or better in matric English, Mathematics, Physical Sciences and any other relevant subject as judged by responsible departments.",
+        "Duration": "4 Years"
+    },
+    {
+        "Qualification": "Extended BSc in BOTANY AND ZOOLOGY",
+        "Qualification Code": "MNEBSO",
+        "APS": 26,
+        "Subject": [
+            {
+                "English": 40
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Physical Sciences": 40
+            }
+        ],
+        "Description": "NSC 26 with a bachelor's pass achievement rating of 3 (40-49%) or better in matric English, Mathematics, Physical Sciences and any other relevant subject as judged by responsible departments.",
+        "Duration": "4 Years"
+    },
+    {
+        "Qualification": "Extended BSc in COMPUTER SCIENCE",
+        "Qualification Code": "MNEBSP",
+        "APS": 26,
+        "Subject": [
+            {
+                "English": 40
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Physical Sciences": 40
+            }
+        ],
+        "Description": "NSC 26 with a bachelor's pass achievement rating of 3 (40-49%) or better in matric English, Mathematics, Physical Sciences and any other relevant subject as judged by responsible departments.",
+        "Duration": "4 Years"
+    },
+    {
+        "Qualification": "Extended BSc in COMPUTER SCIENCE AND MATHEMATICS",
+        "Qualification Code": "MNEBSQ",
+        "APS": 26,
+        "Subject": [
+            {
+                "English": 40
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Physical Sciences": 40
+            }
+        ],
+        "Description": "NSC 26 with a bachelor's pass achievement rating of 3 (40-49%) or better in matric English, Mathematics, Physical Sciences and any other relevant subject as judged by responsible departments.",
+        "Duration": "4 Years"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "Qualification": "BSc in BIOCHEMISTRY AND BIOLOGY",
+        "Qualification Code": "MNBBSD",
+        "APS": 26,
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 50
+            },
+            {
+                "Physical Science": 50
+            },
+            {
+                "Life Sciences": 50
+            }
+        ],
+        "Duration": "3 years"
+    },
+    {
+        "Qualification": "BSc in MICROBIOLOGY AND BOTANY",
+        "Qualification Code": "MNBBSE",
+        "APS": 26,
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 50
+            },
+            {
+                "Physical Science": 50
+            },
+            {
+                "Life Sciences": 50
+            }
+        ],
+        "Duration": "3 years"
+    },
+    {
+        "Qualification": "BSc in MATHEMATICS AND APPLIED MATHEMATICS",
+        "Qualification Code": "MNBBSF",
+        "APS": 26,
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 50
+            },
+            {
+                "Physical Science": 50
+            },
+            {
+                "Life Sciences": 50
+            }
+        ],
+        "Duration": "3 years"
+    }
+]

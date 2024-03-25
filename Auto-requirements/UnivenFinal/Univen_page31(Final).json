@@ -1,0 +1,63 @@
+[
+    {
+        "Qualification": "Bachelor of Science in Agriculture (Plant Production)",
+        "Qualification Code": "AGBAPP",
+        "APS": 26,
+        "Subject": [
+            {"English": 50},
+            {"Mathematics": 50},
+            {"Physical Science": 50},
+            {"Life Sciences": 50}
+        ],
+        "Duration": "4 years"
+    },
+    {
+        "Qualification": "Bachelor of Science in Soil Science",
+        "Qualification Code": "AGBASS",
+        "APS": 26,
+        "Subject": [
+            {"English": 50},
+            {"Mathematics": 50},
+            {"Physical Science": 50},
+            {"Life Sciences": 50}
+        ],
+        "Duration": "4 years"
+    },
+    {
+        "Qualification": "Bachelor of Science in Forestry",
+        "Qualification Code": "AGBFOR",
+        "APS": 26,
+        "Subject": [
+            {"English": 50},
+            {"Mathematics": 50},
+            {"Physical Science": 50},
+            {"Life Sciences": 50}
+        ],
+        "Duration": "4 years"
+    },
+    {
+        "Qualification": "Bachelor of Science in Food Science and Technology",
+        "Qualification Code": "AGBFST",
+        "APS": 26,
+        "Subject": [
+            {"English": 50},
+            {"Mathematics": 50},
+            {"Physical Sciences": 50},
+            {"Life Sciences or Agricultural Sciences": 50}
+        ],
+        "Duration": "4 years"
+    },
+    {
+        "Qualification": "Bachelor of Science in Agricultural and Biosystems Engineering",
+        "Qualification Code": "AGBABE",
+        "APS": 26,
+        "Subject": [
+            {"English": 50},
+            {"Mathematics": 50},
+            {"Physical Sciences": 50},
+            {"Life Sciences": 50},
+            {"Agriculture": 50}
+        ],
+        "Duration": "4 years"
+    }
+]

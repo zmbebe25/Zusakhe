@@ -1,0 +1,133 @@
+[
+    {
+        "Qualification": "Bachelor of Arts (Media Studies)",
+        "Qualification Code": "HSBAMS",
+        "APS": 30,
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "African Languages": 50
+            }
+        ],
+        "Duration": "3 years"
+    },
+    {
+        "Qualification": "Bachelor of Arts (Development Studies)",
+        "Qualification Code": "HSBADS",
+        "APS": 30,
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "History": 50
+            },
+            {
+                "Economics": 50
+            }
+        ],
+        "Duration": "3 years"
+    },
+    {
+        "Qualification": "Bachelor of Arts",
+        "Qualification Code": "HSBBA",
+        "APS": 30,
+        "Subject": [
+            {
+                "English": 50
+            }
+        ],
+        "Duration": "3 years"
+    },
+    {
+        "Qualification": "Bachelor of Indigenous Knowledge Systems",
+        "Qualification Code": "HSBIKS",
+        "APS": 30,
+        "Subject": [
+            {
+                "English": 50
+            }
+        ],
+        "Duration": "4 years"
+    },
+    {
+        "Qualification": "Bachelor of Arts in Language Practice",
+        "Qualification Code": "HSBALP",
+        "APS": 30,
+        "Subject": [
+            {
+                "African Language": 50
+            },
+            {
+                "English": 50
+            }
+        ],
+        "Duration": "4 years"
+    },
+    {
+        "Qualification": "Bachelor of Arts in International Relations",
+        "Qualification Code": "HSBAIR",
+        "APS": 30,
+        "Subject": [
+            {
+                "History": 50
+            },
+            {
+                "Economics": 50
+            },
+            {
+                "English": 50
+            }
+        ],
+        "Duration": "3 years"
+    },
+    {
+        "Qualification": "Bachelor of Arts, Youth in Development",
+        "Qualification Code": "HSBAYD",
+        "APS": 30,
+        "Subject": [
+            {
+                "English": 50
+            }
+        ],
+        "Duration": "4 years"
+    },
+    {
+        "Qualification": "Bachelor of Theology",
+        "Qualification Code": "HSBBT",
+        "APS": 30,
+        "Subject": [],
+        "Duration": "3 years"
+    },
+    {
+        "Qualification": "Bachelor of Religious Studies",
+        "Qualification Code": "HSBARS",
+        "APS": 30,
+        "Subject": [],
+        "Duration": "3 years"
+    },
+    {
+        "Qualification": "Higher Certificate in Music",
+        "Qualification Code": "HSCHCM",
+        "APS": 30,
+        "Subject": [
+            {
+                "English": 50
+            }
+        ],
+        "Duration": "1 year"
+    },
+    {
+        "Qualification": "Bachelor of Social Work",
+        "Qualification Code": "HSBBSW",
+        "APS": 30,
+        "Subject": [
+            {
+                "English": 50
+            }
+        ],
+        "Duration": "4 years"
+    }
+]

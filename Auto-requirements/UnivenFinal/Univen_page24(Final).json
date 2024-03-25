@@ -1,0 +1,42 @@
+[
+    {
+        "Qualification": "Bachelor of Science degree",
+        "Qualification Code": "BSc",
+        "APS": 26,
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 50
+            },
+            {
+                "Physical Science": 50
+            },
+            {
+                "Life Sciences": 50
+            }
+        ],
+        "Duration": null
+    },
+    {
+        "Qualification": "BSc in BIOCHEMISTRY AND MICROBIOLOGY",
+        "Qualification Code": "MNBBSA",
+        "APS": 26,
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 50
+            },
+            {
+                "Physical Science": 50
+            },
+            {
+                "Life Sciences": 50
+            }
+        ],
+        "Duration": "3 years"
+    }
+]

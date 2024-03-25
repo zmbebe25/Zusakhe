@@ -1,0 +1,38 @@
+[
+    {
+        "Qualification": "Diploma in Freshwater Technology",
+        "Qualification Code": "(MNDDFT)",
+        "Description": "NSC 24 with Diploma + 30% in English, (40-49%) in 4 of the recognised 20 credit NSC subjects and 50% in either Life Sciences, Agri- cultural Sciences, Physical Sciences or Geography",
+        "Duration": "3 years"
+    },
+    {
+        "Qualification": "Extended BSc degree programme [Science Foundation Programme]",
+        "Qualification Code": null,
+        "Description": null,
+        "Duration": null
+    },
+    {
+        "Qualification": "Extended BSc in BIOCHEM- ISTRY AND MICROBIOLOGY",
+        "Qualification Code": "(MNEBSA)",
+        "Description": "NSC 26 with a bachelor's pass achievement rating of 3 (40-49%) or better in mat- ric English, Mathematics, Physical Sciences and any other relevant subject as judged by responsible de- partments.",
+        "Duration": "4 Years"
+    },
+    {
+        "Qualification": "Extended BSc in BIOCHEM- ISTRY AND BIOLOGY",
+        "Qualification Code": "(MNEBSD)",
+        "Description": "NSC 26 with a bachelor's pass achievement rating of 3 (40-49%) or better in mat- ric English, Mathematics, Physical Sciences and any other relevant subject as judged by responsible de- partments.",
+        "Duration": "4 Years"
+    },
+    {
+        "Qualification": "Extended BSc in MICROBI- OLOGY AND BOTANY",
+        "Qualification Code": "(MNEBSE)",
+        "Description": "NSC 26 with a bachelor's pass achievement rating of 3 (40-49%) or better in mat- ric English, Mathematics, Physical Sciences and any other relevant subject as judged by responsible de- partments.",
+        "Duration": "4 Years"
+    },
+    {
+        "Qualification": "Extended BSc in MATH- EMATICS AND APPLIED MATHEMATICS",
+        "Qualification Code": "(MNEBSF)",
+        "Description": "NSC 26 with a bachelor's pass achievement rating of 3 (40-49%) or better in ma- tric English, Mathematics, Physical Sciences and any other relevant subject as judged by responsible de- partments.",
+        "Duration": "4 Years"
+    }
+]

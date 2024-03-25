@@ -1,0 +1,121 @@
+[
+    {
+        "Qualification": "Bachelor of Nursing",
+        "Qualification Code": "SHBBN",
+        "APS": 36,
+        "Subject": [
+            {
+                "Life Sciences": 50
+            },
+            {
+                "Mathematics": 50
+            },
+            {
+                "English": 50
+            },
+            {
+                "Physical Sciences": 50
+            }
+        ],
+        "Duration": "4 years"
+    },
+    {
+        "Qualification": "BSc in Nutrition",
+        "Qualification Code": "SHBBSN",
+        "APS": 34,
+        "Subject": [
+            {
+                "Life Sciences": 50
+            },
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 50
+            },
+            {
+                "Physical Sciences or Agricultural Sciences": 50
+            }
+        ],
+        "Duration": "4 years"
+    },
+    {
+        "Qualification": "BSc in Biokinetics",
+        "Qualification Code": "SHBBSB",
+        "APS": 34,
+        "Subject": [
+            {
+                "Life Sciences": 50
+            },
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 50
+            },
+            {
+                "Physical Sciences": 50
+            }
+        ],
+        "Duration": "4 years"
+    },
+    {
+        "Qualification": "BSc in Sports and Exercise Science",
+        "Qualification Code": "SHBSES",
+        "APS": 34,
+        "Subject": [
+            {
+                "Life Sciences": 50
+            },
+            {
+                "English": 50
+            },
+            {
+                "Physical Sciences": 50
+            }
+        ],
+        "Duration": "4 years"
+    },
+    {
+        "Qualification": "BSc in Recreation and Leisure Studies",
+        "Qualification Code": "SHBRLS",
+        "APS": 34,
+        "Subject": [
+            {
+                "English": 50
+            }
+        ],
+        "Duration": "4 years"
+    },
+    {
+        "Qualification": "Bachelor of Psychology",
+        "Qualification Code": "SHBBP",
+        "APS": 36,
+        "Subject": [
+            {
+                "English": 50
+            }
+        ],
+        "Duration": "4 years"
+    },
+    {
+        "Qualification": "Diploma in Nursing",
+        "Qualification Code": "SHDPN",
+        "APS": 28,
+        "Subject": [
+            {
+                "Life Sciences": 50
+            },
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Physical Sciences": 50
+            }
+        ],
+        "Duration": "3 years"
+    }
+]

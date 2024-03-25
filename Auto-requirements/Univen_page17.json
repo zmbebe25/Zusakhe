@@ -1,0 +1,38 @@
+[
+    {
+        "Qualification": "Bachelor of Administration",
+        "Qualification Code": "(MSBAPA)",
+        "Description": "NSC 32 + adequate achieve- ment in English and mod- erate achievement level in any three subjects",
+        "Duration": "3 years"
+    },
+    {
+        "Qualification": "Bachelor of Commerce (In various disciplines)",
+        "Qualification Code": "",
+        "Description": "",
+        "Duration": ""
+    },
+    {
+        "Qualification": "Bachelor of Commerce in Accounting Sciences",
+        "Qualification Code": "(MSBCAS)",
+        "Description": "NSC 35 + adequate achieve- ment level in English and at least 55% pass in Maths if student does not have Matric Accounting; OR at least 50% pass in Maths if student has done/passed Accounting with at least 60% in Matric",
+        "Duration": "4 years"
+    },
+    {
+        "Qualification": "Bachelor of Commerce in Accounting",
+        "Qualification Code": "(MSBBCA)",
+        "Description": "NSC 32 + adequate achieve- ment level in English and Accounting or Mathematics",
+        "Duration": "3 years"
+    },
+    {
+        "Qualification": "Bachelor of Commerce in Business Information Systems",
+        "Qualification Code": "(MSBBIS)",
+        "Description": "NSC 32 + adequate achieve- ment level in English and moderate achievement in Mathematics or 75% in Mathematical Literacy and in any two of these sub- jects: Accounting, Busines Studies, Economics and Information Technology or Computer Studies",
+        "Duration": "3 Years"
+    },
+    {
+        "Qualification": "Bachelor of Commerce in Business Management",
+        "Qualification Code": "(MSBCBM)",
+        "Description": "NSC 32 + adequate achieve- ment level in English and Business Studies plus mod- erate achievement in any two of these subjects: Ac- counting, Economics, In- formation Technology and Mathematics",
+        "Duration": "3 Years"
+    }
+]

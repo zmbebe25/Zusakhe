@@ -1,0 +1,38 @@
+[
+    {
+        "Qualification": "BSc in PHYSICS AND CHEM- ISTRY",
+        "Qualification Code": "MNBBSJ",
+        "APS": 26,
+        "Subject": [
+            {"English": 50},
+            {"Mathematics": 50},
+            {"Physical Science": 50},
+            {"Life Sciences": 50}
+        ],
+        "Duration": "3 years"
+    },
+    {
+        "Qualification": "BSc in CHEMISTRY AND MATHEMATICS",
+        "Qualification Code": "MNBBSK",
+        "APS": 26,
+        "Subject": [
+            {"English": 50},
+            {"Mathematics": 50},
+            {"Physical Science": 50},
+            {"Life Sciences": 50}
+        ],
+        "Duration": "3 years"
+    },
+    {
+        "Qualification": "BSc in CHEMISTRY AND BIOCHEMISTRY",
+        "Qualification Code": "MNBBSL",
+        "APS": 26,
+        "Subject": [
+            {"English": 50},
+            {"Mathematics": 50},
+            {"Physical Science": 50},
+            {"Life Sciences": 50}
+        ],
+        "Duration": "3 years"
+    }
+]

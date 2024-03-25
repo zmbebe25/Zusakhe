@@ -1,0 +1,80 @@
+[
+   
+    {
+        "Qualification": "Bachelor of Environmental Sciences",
+        "Qualification Code": "ESBBES",
+        "APS": 32,
+        "Subject": [
+            {"English": 50},
+            {"Mathematics": 40},
+            {"Physical Sciences": 40},
+            {"Life Sciences": 50},
+            {"Geography": 50},
+            {"Agriculture": 50}
+
+        ],
+        "Duration": "3 years"
+    },
+    {
+        "Qualification": "Bachelor of Earth Sciences in Mining and Environmental Geology",
+        "Qualification Code": "ESBMEG",
+        "APS": 35,
+        "Subject": [
+            {"English": 50},
+            {"Mathematics": 60},
+            {"Physical Sciences": 50},
+            {"Agricultural Sciences": 50},
+            {"Accounting": 50},
+            {"Life Sciences": 50},
+            {"Economics": 50},
+            {"Geography": 50}
+        ],
+        "Duration": "4 years"
+    },
+    {
+        "Qualification": "Bachelor of Earth Sciences in Hydrology and Water Resources",
+        "Qualification Code": "ESBHWR",
+        "APS": 35,
+        "Subject": [
+            {"English": 60},
+            {"Mathematics": 60},
+            {"Physical Sciences": 60},
+            {"Agricultural Sciences": 50},
+            {"Accounting": 50},
+            {"Life Sciences": 50},
+            {"Economics": 50},
+            {"Geography": 50}
+        ],
+        "Duration": "4 years"
+    },
+    {
+        "Qualification": "Bachelor of Urban and Regional Planning",
+        "Qualification Code": "ESBURP",
+        "APS": 35,
+        "Subject": [
+            {"English": 50},
+            {"Mathematics": 50},
+            {"Physical Sciences": 60},
+            {"Agricultural Sciences": 50},
+            {"Accounting": 50},
+            {"Life Sciences": 50},
+            {"Economics": 50},
+            {"Geography": 50}
+        ],
+        "Duration": "4 years"
+    },
+    {
+        "Qualification": "Bachelor of Environmental Sciences in Disaster Risk Reduction",
+        "Qualification Code": "ESB- DRR",
+        "APS": 35,
+        "Subject": [
+            {"English": 50},
+            {"Geography": 60},
+            {"Mathematics": 60},
+            {"Life Sciences": 60},
+            {"Physical Sciences": 50},
+            {"Economics": 50}
+        ],
+        "Duration": "4 Years"
+    }
+]

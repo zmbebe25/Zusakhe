@@ -1,0 +1,38 @@
+[
+    {
+        "Qualification": "BSc in FINANCIAL MATH- EMATICS AND APPLIED MATEMATICS",
+        "Qualification Code": "MNBBSG",
+        "APS": 26,
+        "Subject": [
+            {"English": 50},
+            {"Mathematics": 50},
+            {"Physical Science": 50},
+            {"Life Sciences": 50}
+        ],
+        "Duration": "3 years"
+    },
+    {
+        "Qualification": "BSc in MATHEMATICS AND PHYSICS",
+        "Qualification Code": "MNBBSH",
+        "APS": 26,
+        "Subject": [
+            {"English": 50},
+            {"Mathematics": 50},
+            {"Physical Science": 50},
+            {"Life Sciences": 50}
+        ],
+        "Duration": "3 years"
+    },
+    {
+        "Qualification": "BSc in MATHEMATICS AND STATISTICS",
+        "Qualification Code": "MNBBSI",
+        "APS": 26,
+        "Subject": [
+            {"English": 50},
+            {"Mathematics": 50},
+            {"Physical Science": 50},
+            {"Life Sciences": 50}
+        ],
+        "Duration": "3 years"
+    }
+]

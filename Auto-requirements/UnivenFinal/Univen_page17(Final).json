@@ -1,0 +1,118 @@
+[
+    {
+        "Qualification": "Bachelor of Administration",
+        "Qualification Code": "MSBAPA",
+        "APS": 32,
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Subject 1": 40
+            },
+            {
+                "Subject 2": 40
+            },
+            {
+                "Subject 3": 40
+            }
+        ],
+        "Duration": "3 years"
+    },
+    {
+        "Qualification": "Bachelor of Commerce (In various disciplines)",
+        "Qualification Code": "",
+        "APS": 30,
+        "Subject": [],
+        "Duration": ""
+    },
+    {
+        "Qualification": "Bachelor of Commerce in Accounting Sciences",
+        "Qualification Code": "MSBCAS",
+        "APS": 35,
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Maths": 55
+            }
+        ],
+        "Duration": "4 years"
+    },
+    {
+        "Qualification": "Bachelor of Commerce in Accounting",
+        "Qualification Code": "MSBBCA",
+        "APS": 32,
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Accounting": 50
+            },
+            {
+                "Mathematics": 50
+            }
+        ],
+        "Duration": "3 years"
+    },
+    {
+        "Qualification": "Bachelor of Commerce in Business Information Systems",
+        "Qualification Code": "MSBBIS",
+        "APS": 32,
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Mathematics Literacy": 75
+            },
+            {
+                "Accounting": 75
+            },
+            {
+                "Business Studies": 75
+            },
+            {
+                "Economics": 75
+            },
+            {
+                "Information Technology": 75
+            },
+            {
+                "Computer Studies": 75
+            }
+        ],
+        "Duration": "3 Years"
+    },
+    {
+        "Qualification": "Bachelor of Commerce in Business Management",
+        "Qualification Code": "MSBCBM",
+        "APS": 32,
+        "Subject": [
+            {
+                "English": 50
+            },
+            {
+                "Business Studies": 50
+            },
+            {
+                "Accounting": 40
+            },
+            {
+                "Economics": 40
+            },
+            {
+                "Information Technology": 40
+            },
+            {
+                "Mathematics": 40
+            }
+        ],
+        "Duration": "3 Years"
+    }
+]

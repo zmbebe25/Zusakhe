@@ -1,0 +1,105 @@
+[
+    {
+        "Qualification": "Diploma in Freshwater Technology",
+        "Qualification Code": "MNDDFT",
+        "APS": 24,
+        "Subject": [
+            {
+                "English": 30
+            },
+            {
+                "Life Sciences": 50
+            },
+            {
+                "Agricultural Sciences": 50
+            },
+            {
+                "Physical Sciences": 50
+            },
+            {
+                "Geography": 50
+            }
+        ],
+        "Duration": "3 years"
+    },
+    {
+        "Qualification": "Extended BSc in BIOCHEMISTRY AND MICROBIOLOGY",
+        "Qualification Code": "MNEBSA",
+        "APS": 26,
+        "Subject": [
+            {
+                "English": 40
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Physical Sciences": 40
+            },
+            {
+                "Relevant Subject": 40
+            }
+        ],
+        "Duration": "4 Years"
+    },
+    {
+        "Qualification": "Extended BSc in BIOCHEMISTRY AND BIOLOGY",
+        "Qualification Code": "MNEBSD",
+        "APS": 26,
+        "Subject": [
+            {
+                "English": 40
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Physical Sciences": 40
+            },
+            {
+                "Relevant Subject": 40
+            }
+        ],
+        "Duration": "4 Years"
+    },
+    {
+        "Qualification": "Extended BSc in MICROBIOLOGY AND BOTANY",
+        "Qualification Code": "MNEBSE",
+        "APS": 26,
+        "Subject": [
+            {
+                "English": 40
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Physical Sciences": 40
+            },
+            {
+                "Relevant Subject": 40
+            }
+        ],
+        "Duration": "4 Years"
+    },
+    {
+        "Qualification": "Extended BSc in MATHEMATICS AND APPLIED MATHEMATICS",
+        "Qualification Code": "MNEBSF",
+        "APS": 26,
+        "Subject": [
+            {
+                "English": 40
+            },
+            {
+                "Mathematics": 40
+            },
+            {
+                "Physical Sciences": 40
+            },
+            {
+                "Relevant Subject": 40
+            }
+        ],
+        "Duration": "4 Years"
+    }
+]

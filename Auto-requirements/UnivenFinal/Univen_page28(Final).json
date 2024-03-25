@@ -1,0 +1,50 @@
+[
+    {
+        "Qualification": "BSc in CHEMISTRY",
+        "Qualification Code": "MNBBSN",
+        "APS": 26,
+        "Subject": [
+            {"English": 50},
+            {"Mathematics": 50},
+            {"Physical Science": 50},
+            {"Life Sciences": 50}
+        ],
+        "Duration": "3 years"
+    },
+    {
+        "Qualification": "BSc in BOTANY AND ZOOL- OGY",
+        "Qualification Code": "MNBBSO",
+        "APS": 26,
+        "Subject": [
+            {"English": 50},
+            {"Mathematics": 50},
+            {"Physical Science": 50},
+            {"Life Sciences": 50}
+        ],
+        "Duration": "3 years"
+    },
+    {
+        "Qualification": "BSc in COMPUTER SCIENCE",
+        "Qualification Code": "MNBBSP",
+        "APS": 26,
+        "Subject": [
+            {"English": 50},
+            {"Mathematics": 50},
+            {"Physical Science": 50},
+            {"Life Sciences": 50}
+        ],
+        "Duration": "3 years"
+    },
+    {
+        "Qualification": "BSc in COMPUTER SCIENCE AND MATHEMATICS",
+        "Qualification Code": "MNBBSQ",
+        "APS": 26,
+        "Subject": [
+            {"English": 50},
+            {"Mathematics": 50},
+            {"Physical Science": 50},
+            {"Life Sciences": 50}
+        ],
+        "Duration": "3 years"
+    }
+]

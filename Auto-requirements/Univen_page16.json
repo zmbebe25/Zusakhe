@@ -1,0 +1,44 @@
+[
+    {
+        "Qualification": "Bachelorof Nursing",
+        "Qualification Code": "(SHBBN)",
+        "Description": "NSC36+adequateachievement inLifeSciences, Maths,English andPhysical Sciences,excluding lifeorientation. Selectiontest+physical assessment",
+        "Duration": "4years"
+    },
+    {
+        "Qualification": "BScinNutrition",
+        "Qualification Code": "(SHBBSN)",
+        "Description": "NSC34+adequateachievement inLifeSciences, English, MathematicsandPhysical SciencesorAgriculturalSciences",
+        "Duration": "4years"
+    },
+    {
+        "Qualification": "BScinBiokinetics",
+        "Qualification Code": "(SHBBSB)",
+        "Description": "NSC34 +adequateachievement inLifeSciences, English, MathematicsandPhysical Sciences",
+        "Duration": "4years"
+    },
+    {
+        "Qualification": "BScinSportsand ExerciseScience",
+        "Qualification Code": "(SHBSES)",
+        "Description": "NSC34 +adequateachievement inLifeSciences, Englishand PhysicalSciences",
+        "Duration": "4years"
+    },
+    {
+        "Qualification": "BScinRecreation andLeisure Studies",
+        "Qualification Code": "(SHBRLS)",
+        "Description": "NSC34+adequateachievement inEnglish",
+        "Duration": "4years"
+    },
+    {
+        "Qualification": "Bachelorof Psychology",
+        "Qualification Code": "(SHBBP)",
+        "Description": "NSC36+adequateachievement inEnglish+selectiontest",
+        "Duration": "4years"
+    },
+    {
+        "Qualification": "Diploma in Nursing",
+        "Qualification Code": "(SHDPN)",
+        "Description": "NSC28(excludingLife Orientation)LifeSciences(level4) andEnglish(level4), Mathematics(level3)and Physicalscience (level4) Selectiontest+physical assessment",
+        "Duration": "3years"
+    }
+]
