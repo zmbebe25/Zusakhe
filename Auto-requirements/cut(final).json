@@ -1,0 +1,461 @@
+[
+    {
+        "QualificationID": 583,
+        "QualificationName": "Information Technology",
+        "Entrance": [
+            "AND",
+            {"subjectid": "E", "minmark": 50, "required": true},
+            {"subjectid": "LO", "minmark": 50, "required": true},
+            ["OR",
+            {"subjectid": "M", "minmark": 40, "required": true},
+            {"subjectid": "ML", "minmark": 70, "required": true}
+        ]
+    ],
+        "APS": 27
+    },
+    {
+        "QualificationID": 6464,
+        "QualificationName": "Computer networking",
+        "Entrance": [
+            "AND",
+            {"subjectid": "E", "minmark": 50, "required": true},
+            {"subjectid": "LO", "minmark": 50, "required": true},
+            {"subjectid": "IT", "minmark": 40, "required": true},
+            ["OR",
+            {"subjectid": "M", "minmark": 40, "required": true},
+            {"subjectid": "ML", "minmark": 70, "required": true}
+        ]
+    ],
+        "APS": 27
+    },
+    {
+        "QualificationID": 2046,
+        "QualificationName": "Construction",
+        "Entrance": [
+            "AND",
+            {"subjectid": "M", "minmark": 50, "required": true},
+            {"subjectid": "PS", "minmark": 50, "required": true}
+        ],
+        "APS": 27
+    },
+    {
+        "QualificationID": 578,
+        "QualificationName": "Renewable Energy Technologies",
+        "Entrance": [
+            "AND",
+            {"subjectid": "M", "minmark": 50, "required": true},
+            {"subjectid": "PS", "minmark": 50, "required": true}
+        ],
+        "APS": 27
+    },
+    {
+        "QualificationID": 2047,
+        "QualificationName": "Construction Management",
+        "Entrance": [
+            "AND",
+            {"subjectid": "M", "minmark": 60, "required": true},
+            {"subjectid": "PS", "minmark": 60, "required": true},
+            {"subjectid": "E", "minmark": 60, "required": true}
+        ],
+        "APS": 32
+    },
+    {
+        "QualificationID": 828447305,
+        "QualificationName": "Health and Safety Management (Construction)",
+        "Entrance": [
+            "AND",
+            {"subjectid": "M", "minmark": 50, "required": true},
+            {"subjectid": "PS", "minmark": 50, "required": true},
+            {"subjectid": "E", "minmark": 50, "required": true},
+            {"subjectid": "LO", "minmark": 50, "required": true}
+        ],
+        "APS": 32
+    },
+    {
+        "QualificationID": 2050,
+        "QualificationName": "Civil Engineering",
+        "Entrance": [
+            "AND",
+            {"subjectid": "PS", "minmark": 50, "required": true},
+            {"subjectid": "E", "minmark": 50, "required": true},
+            {"subjectid": "LO", "minmark": 50, "required": true},
+            ["OR",
+            {"subjectid": "M", "minmark": 50, "required": true},
+            {"subjectid": "ML", "minmark": 50, "required": true}
+        ]
+    ],
+        "APS": 32
+    },
+    {
+        "QualificationID": 5912,
+        "QualificationName": "Quantity Surveying",
+        "Entrance": [
+            "AND",
+            {"subjectid": "M", "minmark": 50, "required": true},
+            {"subjectid": "PS", "minmark": 50, "required": true},
+            {"subjectid": "LS", "minmark": 50, "required": true},
+            {"subjectid": "E", "minmark": 50, "required": true},
+            {"subjectid": "LO", "minmark": 50, "required": true},
+            {"subjectid": "L", "minmark": 50, "required": true},
+            {"subjectid": "A", "minmark": 50, "required": true},
+            {"subjectid": "AS", "minmark": 50, "required": true},
+            {"subjectid": "BS", "minmark": 50, "required": true},
+            {"subjectid": "IT", "minmark": 50, "required": true}
+        ],
+        "APS": 32
+    },
+    {
+        "QualificationID": 2051,
+        "QualificationName": "Hydrology and Water Resources Management",
+        "Entrance": [
+            "AND",
+            {"subjectid": "M", "minmark": 50, "required": true},
+            {"subjectid": "PS", "minmark": 50, "required": true},
+            {"subjectid": "LS", "minmark": 50, "required": true},
+            {"subjectid": "E", "minmark": 50, "required": true}
+        ],
+        "APS": 28
+    },
+    {
+        "QualificationID": 582,
+        "QualificationName": "Electrical Engineering",
+        "Entrance": [
+            "AND",
+            {"subjectid": "M", "minmark": 50, "required": true},
+            {"subjectid": "PS", "minmark": 50, "required": true},
+            {"subjectid": "E", "minmark": 50, "required": true}
+        ],
+        "APS": 27
+    },
+    {
+        "QualificationID": 581,
+        "QualificationName": "Electrical Engineering",
+        "Entrance": [
+            "AND",
+            {"subjectid": "M", "minmark": 50, "required": true},
+            {"subjectid": "PS", "minmark": 50, "required": true},
+            {"subjectid": "E", "minmark": 50, "required": true}
+        ],
+        "APS": 32
+    },
+    {
+        "QualificationID": 584,
+        "QualificationName": "Mechanical Engineering",
+        "Entrance": [
+            "AND",
+            {"subjectid": "M", "minmark": 50, "required": true},
+            {"subjectid": "PS", "minmark": 50, "required": true},
+            {"subjectid": "E", "minmark": 40, "required": true}
+        ],
+        "APS": 27
+    },
+    {
+        "QualificationID": 2053,
+        "QualificationName": "Mechanical Engineering",
+        "Entrance": [
+            "AND",
+            {"subjectid": "M", "minmark": 60, "required": true},
+            {"subjectid": "PS", "minmark": 50, "required": true},
+            {"subjectid": "E", "minmark": 40, "required": true}
+        ],
+        "APS": 32
+    },
+    {
+        "QualificationID": 807934862,
+        "QualificationName": "Mathematics for Engineering Technology",
+        "Entrance": [
+            "AND",
+            {"subjectid": "M", "minmark": 30, "required": true},
+            {"subjectid": "PS", "minmark": 50, "required": true},
+            {"subjectid": "E", "minmark": 40, "required": true}
+        ],
+        "APS": 32
+    },
+    {
+        "QualificationID": 2055,
+        "QualificationName": "Dental Assisting",
+        "Entrance": [
+            "AND",
+            {"subjectid": "LS", "minmark": 50, "required": true},
+            {"subjectid": "E", "minmark": 50, "required": true},
+            {"subjectid": "LO", "minmark": 50, "required": true}
+        ],
+        "APS": 27
+    },
+    {
+        "QualificationID": 585,
+        "QualificationName": "Agricultural Management",
+        "Entrance": [
+            "AND",
+            {"subjectid": "PS", "minmark": 50, "required": true},
+            {"subjectid": "LS", "minmark": 50, "required": true},
+            {"subjectid": "E", "minmark": 50, "required": true},
+            {"subjectid": "LO", "minmark": 50, "required": true},
+            {"subjectid": "L", "minmark": 50, "required": true},
+            {"subjectid": "A", "minmark": 50, "required": true},
+            {"subjectid": "AS", "minmark": 50, "required": true},
+            ["OR",
+            {"subjectid": "M", "minmark": 50, "required": true},
+            {"subjectid": "ML", "minmark": 50, "required": true}
+            ]
+        ],
+        "APS": 27
+    },
+    {
+        "QualificationID": 591,
+        "QualificationName": "Somatology",
+        "Entrance": [
+            "AND",
+            {"subjectid": "PS", "minmark": 50, "required": true},
+            {"subjectid": "LS", "minmark": 50, "required": true},
+            {"subjectid": "E", "minmark": 50, "required": true},
+            {"subjectid": "LO", "minmark": 50, "required": true}
+        ],
+        "APS": 27
+    },
+    {
+        "QualificationID": 590,
+        "QualificationName": "Health Sciences in Clinical Technology",
+        "Entrance": [
+            "AND",
+            {"subjectid": "M", "minmark": 50, "required": true},
+            {"subjectid": "PS", "minmark": 50, "required": true},
+            {"subjectid": "LS", "minmark": 50, "required": true},
+            {"subjectid": "E", "minmark": 50, "required": true},
+            {"subjectid": "LO", "minmark": 50, "required": true}
+        ],
+        "APS": 30
+    },
+    {
+        "QualificationID": 156566208,
+        "QualificationName": "Medical Laboratory Sciences",
+        "Entrance": [
+            "AND",
+            {"subjectid": "M", "minmark": 50, "required": true},
+            {"subjectid": "PS", "minmark": 50, "required": true},
+            {"subjectid": "LS", "minmark": 50, "required": true},
+            {"subjectid": "E", "minmark": 50, "required": true},
+            {"subjectid": "LO", "minmark": 50, "required": true}
+        ],
+        "APS": 30
+    },
+    {
+        "QualificationID": 592,
+        "QualificationName": "Environmental Health",
+        "Entrance": [
+            "AND",
+            {"subjectid": "PS", "minmark": 50, "required": true},
+            {"subjectid": "LS", "minmark": 50, "required": true},
+            {"subjectid": "E", "minmark": 50, "required": true},
+            {"subjectid": "LO", "minmark": 50, "required": true},
+            ["OR",
+            {"subjectid": "M", "minmark": 50, "required": true},
+            {"subjectid": "ML", "minmark": 50, "required": true}
+            ]
+        ],
+        "APS": 30
+    },
+    {
+        "QualificationID": 596,
+        "QualificationName": "Design and Studio Art",
+        "Entrance": [
+            "AND",
+            {"subjectid": "E", "minmark": 50, "required": true},
+            {"subjectid": "LO", "minmark": 50, "required": true}
+        ],
+        "APS": 27
+    },
+    {
+        "QualificationID": 2056,
+        "QualificationName": "Language Practice and Media Studies",
+        "Entrance": [
+            "AND",
+            {"subjectid": "E", "minmark": 60, "required": true},
+            {"subjectid": "LO", "minmark": 50, "required": true},
+            {"subjectid": "L", "minmark": 60, "required": true}
+        ],
+        "APS": 27
+    },
+    {
+        "QualificationID": 303666028,
+        "QualificationName": "Foundation Phase Teaching",
+        "Entrance": [
+            "AND",
+            {"subjectid": "E", "minmark": 50, "required": true},
+            {"subjectid": "L", "minmark": 50, "required": true}
+        ],
+        "APS": 27
+    },
+        {
+            "QualificationID": 2059,
+            "QualificationName": "(SP & FET): Computer Science",
+            "Entrance": [
+                "AND",
+                {"subjectid": "E", "minmark": 50, "required": true},
+                {"subjectid": "LO", "minmark": 50, "required": true},
+                {"subjectid": "A", "minmark": 70, "required": true},
+                ["OR",
+                {"subjectid": "M", "minmark": 50, "required": true},
+                {"subjectid": "ML", "minmark": 50, "required": true}
+                ]
+        ],
+            "APS": 27
+        },
+        {
+            "QualificationID": 2057,
+            "QualificationName": "SP & FET): Economic and Management Sciences",
+            "Entrance": [
+                "AND",
+                {"subjectid": "E", "minmark": 50, "required": true},
+                {"subjectid": "LO", "minmark": 50, "required": true},
+                {"subjectid": "L", "minmark": 70, "required": true},
+                [ "OR",
+                    {"subjectid": "M", "minmark": 50, "required": true},
+                    {"subjectid": "ML", "minmark": 50, "required": true}
+                ]
+            ],
+            "APS": 27
+        },
+        {
+            "QualificationID": 2058,
+            "QualificationName": "(SP & FET): Language Education",
+            "Entrance": [
+                "AND",
+                {"subjectid": "E", "minmark": 50, "required": true},
+                {"subjectid": "LO", "minmark": 50, "required": true},
+                {"subjectid": "L", "minmark": 50, "required": true}
+            ],
+            "APS": 27
+        },
+        {
+            "QualificationID": 2062,
+            "QualificationName": "(SP & FET): Mathematics",
+            "Entrance": [
+                "AND",
+                {"subjectid": "M", "minmark": 50, "required": true},
+                {"subjectid": "PS", "minmark": 50, "required": true},
+                {"subjectid": "E", "minmark": 50, "required": true}
+            ],
+            "APS": 27
+        },
+        {
+            "QualificationID": 2060,
+            "QualificationName": "(SP & FET): Natural Sciences",
+            "Entrance": [
+                "AND",
+                {"subjectid": "M", "minmark": 50, "required": true},
+                {"subjectid": "PS", "minmark": 50, "required": true},
+                {"subjectid": "E", "minmark": 50, "required": true},
+                {"subjectid": "LO", "minmark": 50, "required": true}
+            ],
+            "APS": 27
+        },
+        {
+            "QualificationID": 2061,
+            "QualificationName": "(SP & FET): Technology",
+            "Entrance": [
+                "AND",
+                {"subjectid": "E", "minmark": 50, "required": true},
+                {"subjectid": "LO", "minmark": 50, "required": true},
+                ["OR",
+                {"subjectid": "M", "minmark": 50, "required": true},
+                {"subjectid": "ML", "minmark": 50, "required": true}
+                ]
+            ],
+            "APS": null
+        },
+        {
+            "QualificationID": 2064,
+            "QualificationName": "Community Development Work",
+            "Entrance": [
+                "AND",
+                {"subjectid": "E", "minmark": 50, "required": true}
+            ],
+            "APS": 27
+        },
+        {
+            "QualificationID": 6446,
+            "QualificationName": "Human Resources Management",
+            "Entrance": [
+                "AND",
+                {"subjectid": "M", "minmark": 50, "required": true},
+                {"subjectid": "LO", "minmark": 50, "required": true},
+                {"subjectid": "E", "minmark": 50, "required": true}
+            ],
+            "APS": 27
+        },
+        {
+            "QualificationID": 602,
+            "QualificationName": "Marketing",
+            "Entrance": [
+                "AND",
+                {"subjectid": "M", "minmark": 50, "required": true},
+                {"subjectid": "LO", "minmark": 50, "required": true},
+                {"subjectid": "E", "minmark": 50, "required": true}
+            ],
+            "APS": 27
+        },
+        {
+            "QualificationID": 6431,
+            "QualificationName": "Office Management and Technology",
+            "Entrance": [
+                "AND",
+                {"subjectid": "M", "minmark": 50, "required": true},
+                {"subjectid": "LO", "minmark": 50, "required": true}
+            ],
+            "APS": 27
+        },
+        {
+            "QualificationID": 603,
+            "QualificationName": "Public Management",
+            "Entrance": [
+                "AND",
+                {"subjectid": "E", "minmark": 50, "required": true}
+            ],
+            "APS": 27
+        },
+        {
+            "QualificationID": 604,
+            "QualificationName": "Hospitality Management",
+            "Entrance": [
+                "AND",
+                {"subjectid": "M", "minmark": 50, "required": true},
+                {"subjectid": "LO", "minmark": 50, "required": true}
+            ],
+            "APS": 30
+        },
+        {
+            "QualificationID": 597,
+            "QualificationName": "Accountancy",
+            "Entrance": [
+                "AND",
+                {"subjectid": "M", "minmark": 40, "required": true},
+                {"subjectid": "ML", "minmark": 50, "required": true},
+                {"subjectid": "A", "minmark": 60, "required": true},
+                {"subjectid": "E", "minmark": 50, "required": true}
+            ],
+            "APS": 30
+        },
+        {
+            "QualificationID": 601,
+            "QualificationName": "Internal Auditing",
+            "Entrance": [
+                "AND",
+                {"subjectid": "M", "minmark": 40, "required": true},
+                {"subjectid": "ML", "minmark": 60, "required": true},
+                {"subjectid": "A", "minmark": 70, "required": true},
+                {"subjectid": "E", "minmark": 50, "required": true}
+            ],
+            "APS": 30
+        },
+        {
+            "QualificationID": 605,
+            "QualificationName": "Tourism Management",
+            "Entrance": [
+                "AND",
+                {"subjectid": "M", "minmark": 50, "required": true}
+            ],
+            "APS": 28
+        }
+            
+]   

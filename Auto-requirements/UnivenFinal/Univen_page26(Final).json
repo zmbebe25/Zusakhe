@@ -1,7 +1,8 @@
 [
     {
-        "Qualification": "BSc in FINANCIAL MATH- EMATICS AND APPLIED MATEMATICS",
+        "Qualification": "BSc in FINANCIAL MATHEMATICS AND APPLIED MATEMATICS",
         "Qualification Code": "MNBBSG",
+        "ID":975350076,
         "APS": 26,
         "Subject": [
             {"English": 50},
@@ -14,6 +15,7 @@
     {
         "Qualification": "BSc in MATHEMATICS AND PHYSICS",
         "Qualification Code": "MNBBSH",
+        "ID":134841428,
         "APS": 26,
         "Subject": [
             {"English": 50},
@@ -26,6 +28,7 @@
     {
         "Qualification": "BSc in MATHEMATICS AND STATISTICS",
         "Qualification Code": "MNBBSI",
+        "ID":757170141,
         "APS": 26,
         "Subject": [
             {"English": 50},

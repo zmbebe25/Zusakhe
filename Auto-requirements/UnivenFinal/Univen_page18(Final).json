@@ -2,6 +2,7 @@
     {
         "Qualification": "Bachelor of Commerce in Cost and Management Accounting",
         "Qualification Code": "MSBCMA",
+        "ID":1004,
         "APS": 32,
         "Subject": [
             {
@@ -19,6 +20,7 @@
     {
         "Qualification": "Bachelor of Commerce in Economics",
         "Qualification Code": "MSBBCE",
+        "ID":1005,
         "APS": 32,
         "Subject": [
             {
@@ -45,6 +47,7 @@
     {
         "Qualification": "Bachelor of Commerce in Human Resource Management",
         "Qualification Code": "MSBHRM",
+        "ID":1007,
         "APS": 32,
         "Subject": [
             {
@@ -71,6 +74,7 @@
     {
         "Qualification": "Bachelor of Commerce in Industrial Psychology",
         "Qualification Code": "MSBCIP",
+        "ID":5269,
         "APS": 32,
         "Subject": [
             {
@@ -97,6 +101,7 @@
     {
         "Qualification": "Bachelor of Commerce in Tourism Management",
         "Qualification Code": "MSBCTM",
+        "ID":1009,
         "APS": 32,
         "Subject": [
             {

@@ -1,0 +1,72 @@
+[
+    
+    {
+      "QualificationID": "",
+      "QualificationName": "Name",
+      "Entrance": [
+        "AND",
+        ["OR",
+          {"subjectid": 0, "minmark": 0, "required": true},
+          {"subjectid": 0, "minmark": 0, "required": true}
+        ],
+        {"subjectid": 0, "minmark": 0, "required": true},
+        {"subjectid": 0, "minmark": 0, "required": true},
+        {"subjectid": 0, "minmark": 0, "required": true},
+        {"subjectid": 0, "minmark": 0, "required": true}
+      ],
+      "APS": 0
+    },
+    {
+      "QualificationID": "",
+        "QualificationName": "Name",
+        "Entrance": [
+          "AND",
+          {"subjectid": 0, "minmark": 0, "required": true},
+          {"subjectid": 0, "minmark": 0, "required": true},
+          ["OR",
+          {"subjectid": 0, "minmark": 0, "required": true},
+          {"subjectid": 0, "minmark": 0, "required": true},
+          {"subjectid": 0, "minmark": 0, "required": true}
+        ]],
+        "APS": 0
+      },
+      {
+          "QualificationID": "",
+        "QualificationName": "Name",
+        "Entrance": [
+          "AND",
+          {"subjectid": 0, "minmark": 0, "required": true},
+          ["OR",
+            {"subjectid": 0, "minmark": 0, "required": true},
+            {"subjectid": 0, "minmark": 0, "required": true},
+            {"subjectid": 0, "minmark": 0, "required": true}
+          ]
+        ],
+        "APS": 0
+      },
+      {
+          "QualificationID": "",
+        "QualificationName": "Name",
+        "Entrance": [
+          "AND",
+          {"subjectid": 0, "minmark": 0, "required": true},
+          "OR",
+          ["OR",
+            {"subjectid": 0, "minmark": 0, "required": true},
+            {"subjectid": 0, "minmark": 0, "required": true},
+            {"subjectid": 0, "minmark": 0, "required": true}
+          ],
+          ["OR",
+            {"subjectid": 0, "minmark": 0, "required": true},
+            {"subjectid": 0, "minmark": 0, "required": true},
+            {"subjectid": 0, "minmark": 0, "required": true}
+          ],
+          ["OR",
+            {"subjectid": 0, "minmark": 0, "required": true},
+            {"subjectid": 0, "minmark": 0, "required": true},
+            {"subjectid": 0, "minmark": 0, "required": true}
+          ]
+        ],
+        "APS": 0
+      }
+]

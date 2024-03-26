@@ -1,7 +1,8 @@
 [
     {
-        "Qualification": "Extended BSc in FINANCIAL MATHEMATICS AND AP-PLIED MATHEMATICS",
+        "Qualification": "Extended BSc in FINANCIAL MATHEMATICS AND APPLIED MATHEMATICS",
         "Qualification Code": "MNEBSG",
+        "ID":538309799,
         "APS": 24,
         "Subject": [
             {
@@ -25,6 +26,7 @@
     {
         "Qualification": "Extended BSc in MATHEMATICS AND PHYSICS",
         "Qualification Code": "MNEBSH",
+        "ID":752949244,
         "APS": 24,
         "Subject": [
             {
@@ -48,6 +50,7 @@
     {
         "Qualification": "Extended BSc in MATHEMATICS AND STATISTICS",
         "Qualification Code": "MNEBSI",
+        "ID":926915996,
         "APS": 24,
         "Subject": [
             {
@@ -71,6 +74,7 @@
     {
         "Qualification": "Extended BSc in PHYSICS AND CHEMISTRY",
         "Qualification Code": "MNEBSJ",
+        "ID":913172548,
         "APS": 24,
         "Subject": [
             {
@@ -94,6 +98,7 @@
     {
         "Qualification": "Extended BSc in CHEMISTRY AND MATHEMATICS",
         "Qualification Code": "MNEBSK",
+        "ID":472542335,
         "APS": 24,
         "Subject": [
             {
@@ -117,6 +122,7 @@
     {
         "Qualification": "Extended BSc in CHEMISTRY AND BIOCHEMISTRY",
         "Qualification Code": "MNEBSL",
+        "ID":647558081,
         "APS": 24,
         "Subject": [
             {

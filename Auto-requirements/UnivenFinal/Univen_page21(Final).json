@@ -2,6 +2,7 @@
     {
         "Qualification": "Diploma in Freshwater Technology",
         "Qualification Code": "MNDDFT",
+        "ID":987,
         "APS": 24,
         "Subject": [
             {
@@ -25,6 +26,7 @@
     {
         "Qualification": "Extended BSc in BIOCHEMISTRY AND MICROBIOLOGY",
         "Qualification Code": "MNEBSA",
+        "ID":304661450,
         "APS": 26,
         "Subject": [
             {
@@ -45,6 +47,7 @@
     {
         "Qualification": "Extended BSc in BIOCHEMISTRY AND BIOLOGY",
         "Qualification Code": "MNEBSD",
+        "ID":595323485,
         "APS": 26,
         "Subject": [
             {
@@ -65,6 +68,7 @@
     {
         "Qualification": "Extended BSc in MICROBIOLOGY AND BOTANY",
         "Qualification Code": "MNEBSE",
+        "ID":195872585,
         "APS": 26,
         "Subject": [
             {
@@ -85,6 +89,7 @@
     {
         "Qualification": "Extended BSc in MATHEMATICS AND APPLIED MATHEMATICS",
         "Qualification Code": "MNEBSF",
+        "ID":752949244,
         "APS": 26,
         "Subject": [
             {

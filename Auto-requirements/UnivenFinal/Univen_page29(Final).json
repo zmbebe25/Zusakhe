@@ -3,6 +3,7 @@
     {
         "Qualification": "Bachelor of Environmental Sciences",
         "Qualification Code": "ESBBES",
+        "ID": 988,
         "APS": 32,
         "Subject": [
             {"English": 50},
@@ -18,6 +19,7 @@
     {
         "Qualification": "Bachelor of Earth Sciences in Mining and Environmental Geology",
         "Qualification Code": "ESBMEG",
+        "ID": 990,
         "APS": 35,
         "Subject": [
             {"English": 50},
@@ -34,6 +36,7 @@
     {
         "Qualification": "Bachelor of Earth Sciences in Hydrology and Water Resources",
         "Qualification Code": "ESBHWR",
+        "ID": 977,
         "APS": 35,
         "Subject": [
             {"English": 60},
@@ -50,6 +53,7 @@
     {
         "Qualification": "Bachelor of Urban and Regional Planning",
         "Qualification Code": "ESBURP",
+        "ID": 989,
         "APS": 35,
         "Subject": [
             {"English": 50},
@@ -65,7 +69,8 @@
     },
     {
         "Qualification": "Bachelor of Environmental Sciences in Disaster Risk Reduction",
-        "Qualification Code": "ESB- DRR",
+        "Qualification Code": "ESBDRR",
+        "ID": 980,
         "APS": 35,
         "Subject": [
             {"English": 50},

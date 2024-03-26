@@ -3,6 +3,7 @@
         "Qualification": "BSc in CHEMISTRY",
         "Qualification Code": "MNBBSN",
         "APS": 26,
+        "ID": 979,
         "Subject": [
             {"English": 50},
             {"Mathematics": 50},
@@ -12,9 +13,10 @@
         "Duration": "3 years"
     },
     {
-        "Qualification": "BSc in BOTANY AND ZOOL- OGY",
+        "Qualification": "BSc in BOTANY AND ZOOLOGY",
         "Qualification Code": "MNBBSO",
         "APS": 26,
+        "ID": 978,
         "Subject": [
             {"English": 50},
             {"Mathematics": 50},
@@ -27,6 +29,7 @@
         "Qualification": "BSc in COMPUTER SCIENCE",
         "Qualification Code": "MNBBSP",
         "APS": 26,
+        "ID": 450531653,
         "Subject": [
             {"English": 50},
             {"Mathematics": 50},
@@ -39,6 +42,7 @@
         "Qualification": "BSc in COMPUTER SCIENCE AND MATHEMATICS",
         "Qualification Code": "MNBBSQ",
         "APS": 26,
+        "ID": 980,
         "Subject": [
             {"English": 50},
             {"Mathematics": 50},

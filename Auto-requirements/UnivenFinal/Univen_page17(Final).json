@@ -2,19 +2,11 @@
     {
         "Qualification": "Bachelor of Administration",
         "Qualification Code": "MSBAPA",
+        "ID":999,
         "APS": 32,
         "Subject": [
             {
                 "English": 50
-            },
-            {
-                "Subject 1": 40
-            },
-            {
-                "Subject 2": 40
-            },
-            {
-                "Subject 3": 40
             }
         ],
         "Duration": "3 years"
@@ -22,6 +14,7 @@
     {
         "Qualification": "Bachelor of Commerce (In various disciplines)",
         "Qualification Code": "",
+        "ID":999,
         "APS": 30,
         "Subject": [],
         "Duration": ""
@@ -29,6 +22,7 @@
     {
         "Qualification": "Bachelor of Commerce in Accounting Sciences",
         "Qualification Code": "MSBCAS",
+        "ID":1003,
         "APS": 35,
         "Subject": [
             {
@@ -43,6 +37,7 @@
     {
         "Qualification": "Bachelor of Commerce in Accounting",
         "Qualification Code": "MSBBCA",
+        "ID":148194473,
         "APS": 32,
         "Subject": [
             {
@@ -60,6 +55,7 @@
     {
         "Qualification": "Bachelor of Commerce in Business Information Systems",
         "Qualification Code": "MSBBIS",
+        "ID":1002,
         "APS": 32,
         "Subject": [
             {
@@ -92,6 +88,7 @@
     {
         "Qualification": "Bachelor of Commerce in Business Management",
         "Qualification Code": "MSBCBM",
+        "ID":1008,
         "APS": 32,
         "Subject": [
             {

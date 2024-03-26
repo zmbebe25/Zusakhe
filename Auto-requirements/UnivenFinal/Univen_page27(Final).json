@@ -1,7 +1,8 @@
 [
     {
-        "Qualification": "BSc in PHYSICS AND CHEM- ISTRY",
+        "Qualification": "BSc in PHYSICS AND CHEMISTRY",
         "Qualification Code": "MNBBSJ",
+        "ID":998997925,
         "APS": 26,
         "Subject": [
             {"English": 50},
@@ -14,6 +15,7 @@
     {
         "Qualification": "BSc in CHEMISTRY AND MATHEMATICS",
         "Qualification Code": "MNBBSK",
+        "ID":162431644,
         "APS": 26,
         "Subject": [
             {"English": 50},
@@ -26,6 +28,7 @@
     {
         "Qualification": "BSc in CHEMISTRY AND BIOCHEMISTRY",
         "Qualification Code": "MNBBSL",
+        "ID":221396332,
         "APS": 26,
         "Subject": [
             {"English": 50},

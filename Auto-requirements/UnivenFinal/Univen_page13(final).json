@@ -1,9 +1,10 @@
 [
     {
         "Qualification": "Bachelor of Arts (Media Studies)",
+        "ID":991,
         "Qualification Code": "HSBAMS",
         "APS": 30,
-        "Subject": [
+        "Entrance": [
             {
                 "English": 50
             },
@@ -15,9 +16,10 @@
     },
     {
         "Qualification": "Bachelor of Arts (Development Studies)",
+        "ID":997,
         "Qualification Code": "HSBADS",
         "APS": 30,
-        "Subject": [
+        "Entrance": [
             {
                 "English": 50
             },
@@ -32,9 +34,10 @@
     },
     {
         "Qualification": "Bachelor of Arts",
+        "ID":105174119,
         "Qualification Code": "HSBBA",
         "APS": 30,
-        "Subject": [
+        "Entrance": [
             {
                 "English": 50
             }
@@ -43,9 +46,10 @@
     },
     {
         "Qualification": "Bachelor of Indigenous Knowledge Systems",
+        "ID":5266,
         "Qualification Code": "HSBIKS",
         "APS": 30,
-        "Subject": [
+        "Entrance": [
             {
                 "English": 50
             }
@@ -54,9 +58,10 @@
     },
     {
         "Qualification": "Bachelor of Arts in Language Practice",
+        "ID":5267,
         "Qualification Code": "HSBALP",
         "APS": 30,
-        "Subject": [
+        "Entrance": [
             {
                 "African Language": 50
             },
@@ -68,9 +73,10 @@
     },
     {
         "Qualification": "Bachelor of Arts in International Relations",
+        "ID":998,
         "Qualification Code": "HSBAIR",
         "APS": 30,
-        "Subject": [
+        "Entrance": [
             {
                 "History": 50
             },
@@ -85,9 +91,10 @@
     },
     {
         "Qualification": "Bachelor of Arts, Youth in Development",
+        "ID":995,
         "Qualification Code": "HSBAYD",
         "APS": 30,
-        "Subject": [
+        "Entrance": [
             {
                 "English": 50
             }
@@ -96,23 +103,26 @@
     },
     {
         "Qualification": "Bachelor of Theology",
+        "ID":556992671,
         "Qualification Code": "HSBBT",
         "APS": 30,
-        "Subject": [],
+        "Entrance": [],
         "Duration": "3 years"
     },
     {
         "Qualification": "Bachelor of Religious Studies",
+        "ID":580265534,
         "Qualification Code": "HSBARS",
         "APS": 30,
-        "Subject": [],
+        "Entrance": [],
         "Duration": "3 years"
     },
     {
         "Qualification": "Higher Certificate in Music",
+        "ID":996,
         "Qualification Code": "HSCHCM",
         "APS": 30,
-        "Subject": [
+        "Entrance": [
             {
                 "English": 50
             }
@@ -121,9 +131,10 @@
     },
     {
         "Qualification": "Bachelor of Social Work",
+        "ID":994,
         "Qualification Code": "HSBBSW",
         "APS": 30,
-        "Subject": [
+        "Entrance": [
             {
                 "English": 50
             }

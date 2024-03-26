@@ -1,6 +1,7 @@
 [
     {
         "Qualification": "Bachelor of Nursing",
+        "ID":972,
         "Qualification Code": "SHBBN",
         "APS": 36,
         "Subject": [
@@ -21,6 +22,7 @@
     },
     {
         "Qualification": "BSc in Nutrition",
+        "ID":973,
         "Qualification Code": "SHBBSN",
         "APS": 34,
         "Subject": [
@@ -41,6 +43,7 @@
     },
     {
         "Qualification": "BSc in Biokinetics",
+        "ID":974,
         "Qualification Code": "SHBBSB",
         "APS": 34,
         "Subject": [
@@ -61,6 +64,7 @@
     },
     {
         "Qualification": "BSc in Sports and Exercise Science",
+        "ID":6328,
         "Qualification Code": "SHBSES",
         "APS": 34,
         "Subject": [
@@ -78,6 +82,7 @@
     },
     {
         "Qualification": "BSc in Recreation and Leisure Studies",
+        "ID":975,
         "Qualification Code": "SHBRLS",
         "APS": 34,
         "Subject": [
@@ -89,6 +94,7 @@
     },
     {
         "Qualification": "Bachelor of Psychology",
+        "ID":976,
         "Qualification Code": "SHBBP",
         "APS": 36,
         "Subject": [
@@ -100,6 +106,7 @@
     },
     {
         "Qualification": "Diploma in Nursing",
+        "ID":121323630,
         "Qualification Code": "SHDPN",
         "APS": 28,
         "Subject": [

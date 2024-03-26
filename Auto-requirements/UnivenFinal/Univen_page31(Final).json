@@ -2,6 +2,7 @@
     {
         "Qualification": "Bachelor of Science in Agriculture (Plant Production)",
         "Qualification Code": "AGBAPP",
+        "ID": 969,
         "APS": 26,
         "Subject": [
             {"English": 50},
@@ -14,6 +15,7 @@
     {
         "Qualification": "Bachelor of Science in Soil Science",
         "Qualification Code": "AGBASS",
+        "ID": 970,
         "APS": 26,
         "Subject": [
             {"English": 50},
@@ -26,6 +28,7 @@
     {
         "Qualification": "Bachelor of Science in Forestry",
         "Qualification Code": "AGBFOR",
+        "ID": 963,
         "APS": 26,
         "Subject": [
             {"English": 50},
@@ -38,6 +41,7 @@
     {
         "Qualification": "Bachelor of Science in Food Science and Technology",
         "Qualification Code": "AGBFST",
+        "ID": 962,
         "APS": 26,
         "Subject": [
             {"English": 50},
@@ -50,6 +54,7 @@
     {
         "Qualification": "Bachelor of Science in Agricultural and Biosystems Engineering",
         "Qualification Code": "AGBABE",
+        "ID": 965,
         "APS": 26,
         "Subject": [
             {"English": 50},

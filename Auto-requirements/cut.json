@@ -1,0 +1,413 @@
+[
+    {
+        "Qualification": "Information Technology",
+        "ID":583,
+        "APS": 27,
+        "Subject": {
+            "M": 3,
+            "ML": 6,
+            "E": 4,
+            "LO": 4
+        }
+    },
+    {
+        "Qualification": "Computer networking",
+        "ID":6464,
+        "APS": 27,
+        "Subject": {
+            "M": 3,
+            "ML": 6,
+            "E": 4,
+            "LO": 4,
+            "IT": 3
+        }
+    },
+    {
+        "Qualification": "Construction",
+        "ID":2046,
+        "APS": 27,
+        "Subject": {
+            "M": 4,
+            "PS": 4
+        }
+    },
+    {
+        "Qualification": "Renewable Energy Technologies",
+        "ID":578,
+        "APS": 27,
+        "Subject": {
+            "M": 4,
+            "PS": 4
+        }
+    },
+    {
+        "Qualification": "Construction Management",
+        "ID":2047,
+        "APS": 32,
+        "Subject": {
+            "M": 5,
+            "PS": 5,
+            "E": 5
+        }
+    },
+    {
+        "Qualification": "Health and Safety Management (Construction)",
+        "ID":828447305,
+        "APS": 32,
+        "Subject": {
+            "M": 4,
+            "PS": 4,
+            "E": 4,
+            "LO": 4
+        }
+    },
+    {
+        "Qualification": "Civil Engineering",
+        "ID":2050,
+        "APS": 32,
+        "Subject": {
+            "M": 4,
+            "ML": 4,
+            "PS": 4,
+            "E": 4,
+            "LO": 4
+            
+        }
+    },
+    {
+        "Qualification": "Quantity Surveying",
+        "ID":5912,
+        "APS": 32,
+        "Subject": {
+            "M": 4,
+            "PS": 4,
+            "LS": 4,
+            "E": 4,
+            "LO": 4,
+            "L": 4,
+            "A": 4,
+            "AS": 4,
+            "BS": 4,
+            "IT": 4
+        }
+    },
+    {
+        "Qualification": "Hydrology and Water Resources Management",
+        "ID":2051,
+        "APS": 28,
+        "Subject": {
+            "M": 4,
+            "PS": 4,
+            "LS": 4,
+            "E": 4
+        }
+    },
+    {
+        "Qualification": "Electrical Engineering",
+        "ID":582,
+        "APS": 27,
+        "Subject": {
+            "M": 4,
+            "PS": 4,
+            "E": 4
+        }
+    },
+    {
+        "Qualification": "Electrical Engineering",
+        "ID":581,
+        "APS": 32,
+        "Subject": {
+            "M": 4,
+            "PS": 4,
+            "E": 4
+        }
+    },
+    {
+        "Qualification": "Mechanical Engineering",
+        "ID":584,
+        "APS": 27,
+        "Subject": {
+            "M": 4,
+            "PS": 4,
+            "E": 3
+        }
+    },
+    {
+        "Qualification": "Mechanical Engineering",
+        "ID":2053,
+        "APS": 32,
+        "Subject": {
+            "M": 5,
+            "PS": 4,
+            "E": 3
+        }
+    },
+    {
+        "Qualification": "Mathematics for Engineering Technology",
+        "ID":807934862,
+        "APS": 32,
+        "Subject": {
+            "M": 2,
+            "PS": 4,
+            "E": 3 }
+    },   {
+        "Qualification": "Dental Assisting",
+        "ID":2055,
+        "APS": 27,
+        "Subject": {
+        
+            "LS": 4,
+            "E": 4,
+            "LO": 4
+        }
+    },
+    {
+        "Qualification": "Agricultural Management",
+        "ID":585,
+        "APS": 27,
+        "Subject": {
+            "M": 4,
+            "ML": 4,
+            "PS": 4,
+            "LS": 4,
+            "E": 4,
+            "LO": 4,
+            "L": 4,
+            "A": 4,
+            "AS": 4
+        }
+    },
+    {
+        "Qualification": "Somatology",
+        "ID":591,
+        "APS": 27,
+        "Subject": {
+           
+            "PS": 4,
+            "LS": 4,
+            "E": 4,
+            "LO": 4
+        }
+    },
+    {
+        "Qualification": "Health Sciences in Clinical Technology",
+        "ID":590,
+        "APS": 30,
+        "Subject": {
+            "M": 4,
+            "PS": 4,
+            "LS": 4,
+            "E": 4,
+            "LO": 4
+        }
+    },
+    {
+        "Qualification": "Medical Laboratory Sciences",
+        "ID":156566208,
+        "APS": 30,
+        "Subject": {
+            "M": 4,
+            "PS": 4,
+            "LS": 4,
+            "E": 4,
+            "LO": 4
+        }
+    },
+    {
+        "Qualification": "Environmental Health",
+        "ID":592,
+        "APS": 30,
+        "Subject": {
+            "M": 4,
+            "ML": 4,
+            "PS": 4,
+            "LS": 4,
+            "E": 4,
+            "LO": 4
+        }
+    },
+    {
+        "Qualification": "Design and Studio Art",
+        "ID":596,
+        "APS": 27,
+        "Subject": {
+            
+            "E": 4,
+            "LO": 4
+        }
+    },
+    {
+        "Qualification": "Language Practice and Media Studies",
+        "ID":2056,
+        "APS": 27,
+        "Subject": {
+           
+            "E": 5,
+            "LO": 4,
+            "L": 5
+        }
+    },
+    {
+        "Qualification": "Foundation Phase Teaching",
+        "ID":303666028,
+        "APS": 27,
+        "Subject": {
+            
+            "E": 4,
+            "L": 4
+        }
+    },
+    {
+        "Qualification": "(SP & FET): Computer Science",
+        "ID":2059,
+        "APS": 27,
+        "Subject": {
+            "M": 4,
+            "ML": 4,
+            "E": 4,
+            "LO": 4,
+            "A": 6
+        }
+    },
+    {
+        "Qualification": "SP & FET): Economic and Management Sciences",
+        "ID":2057,
+        "APS": 27,
+        "Subject": {
+            "M": 4,
+            "ML": 4,
+            "E": 4,
+            "LO": 4,
+            "L": 6
+        }
+    },
+    {
+        "Qualification": "(SP & FET): Language Education",
+        "ID":2058,
+        "APS": 27,
+        "Subject": {
+           
+            "E": 4,
+            "LO": 4,
+            "L": 4
+        }
+    },
+    {
+        "Qualification": "(SP & FET): Mathematics",
+        "ID":2062,
+        "APS": 27,
+        "Subject": {
+            "M": 4,
+            "PS": 4,
+            "E": 4        
+        }
+    },
+    {
+        "Qualification": "(SP & FET): Natural Sciences",
+        "ID":2060,
+        "APS": 27,
+        "Subject": {
+            "M": 4,
+            "PS": 4,
+            "E": 4,
+            "LO": 4
+        }
+    },
+    {
+        "Qualification": "(SP & FET): Technology",
+        "ID":2061,
+        "APS": null,
+        "Subject": {
+            "M": 4,
+            "ML": 4,
+            "E": 4,
+            "LO": 4
+        }
+    },
+    {
+        "Qualification": "Community Development Work",
+        "ID":2064,
+        "APS": 27,
+        "Subject": {
+
+            "E": 4
+        }
+    },
+    {
+        "Qualification": "Human Resources Management",
+        "ID":6446,
+        "APS": 27,
+        "Subject": {
+            "M": 4,
+            "LO": 4,
+            "E": 4
+        }
+    },
+    {
+        "Qualification": "Marketing",
+        "ID":602,
+        "APS": 27,
+        "Subject": {
+            "M": 4,
+            "LO": 4,
+            "E": 4
+        }
+    },
+    {
+        "Qualification": "Office Management and Technology",
+        "ID":6431,
+        "APS": 27,
+        "Subject": {
+            "M": 4,
+            "LO": 4
+        }
+    },
+    {
+        "Qualification": "Public Management",
+        "ID":603,
+        "APS": 27,
+        "Subject": {
+            
+            "E": 4
+        }
+    },
+    {
+        "Qualification": "Hospitality Management",
+        "ID":604,
+        "APS": 30,
+        "Subject": {
+            "M": 4,
+            "LO": 4
+        }
+    },
+    {
+        "Qualification": "Accountancy",
+        "ID":597,
+        "APS": 30,
+        "Subject": {
+            "M": 3,
+            "ML": 4,
+            "A": 5,
+            "E": 4
+        }
+    },
+    {
+        "Qualification": "Internal Auditing",
+        "ID":601,
+        "APS": 30,
+        "Subject": {
+            "M": 3,
+            "ML": 5,
+            "A": 6,
+            "E": 4
+        }
+    },
+    {
+        "Qualification": "Tourism Management",
+        "ID":605,
+        "APS": 28,
+        "Subject": {
+            "M": 4
+        }
+    }
+]

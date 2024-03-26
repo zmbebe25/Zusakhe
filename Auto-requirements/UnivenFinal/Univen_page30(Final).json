@@ -3,6 +3,7 @@
     {
         "Qualification": "Bachelor of Science in Agriculture (Agricultural Economics)",
         "Qualification Code": "AGBAAE",
+        "ID": 964,
         "APS": 26,
         "Subject": [
             {"Mathematics": 50},
@@ -16,6 +17,7 @@
     {
         "Qualification": "Bachelor of Science in Agriculture (Agribusiness Management)",
         "Qualification Code": "AGBAAM",
+        "ID": 602235096,
         "APS": 26,
         "Subject": [
             {"English": 50},
@@ -28,6 +30,7 @@
     {
         "Qualification": "Bachelor of Science in Agriculture (Animal Science)",
         "Qualification Code": "AGBAAS",
+        "ID": 966,
         "APS": 26,
         "Subject": [
             {"English": 50},
@@ -40,6 +43,7 @@
     {
         "Qualification": "Bachelor of Science in Agriculture (Horticultural Sciences)",
         "Qualification Code": "AGBAHS",
+        "ID": 968,
         "APS": 26,
         "Subject": [
             {"English": 50},
