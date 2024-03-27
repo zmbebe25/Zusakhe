@@ -282,14 +282,6 @@
         "Duration": "3 years"
     },
     {
-        "QualificationID": 999,
-        "QualificationName": "Bachelor of Commerce (In various disciplines)",
-        "QualificationCode": "",
-        "APS": 30,
-        "Entrance": ["AND"],
-        "Duration": ""
-    },
-    {
         "QualificationID": 1003,
         "QualificationName": "Bachelor of Commerce in Accounting Sciences",
         "QualificationCode": "MSBCAS",
@@ -328,8 +320,10 @@
         "APS": 32,
         "Entrance": ["AND",
             {"subjectid": "English", "minmark": 50, "required": true},
+            ["OR",
             {"subjectid": "Accounting", "minmark": 50, "required": true},
             {"subjectid": "Mathematics", "minmark": 50, "required": true}
+            ]
         ],
         "Duration": "3 Years"
     },
@@ -340,11 +334,14 @@
         "APS": 32,
         "Entrance": ["AND",
             {"subjectid": "English", "minmark": 50, "required": true},
-            {"subjectid": "Economics", "minmark": 50, "required": true},
-            {"subjectid": "Mathematics", "minmark": 50, "required": true},
             {"subjectid": "Accounting", "minmark": 40, "required": true},
             {"subjectid": "Business Studies", "minmark": 40, "required": true},
-            {"subjectid": "Information Technology", "minmark": 40, "required": true}
+            {"subjectid": "Information Technology", "minmark": 40, "required": true},
+            ["OR",
+            {"subjectid": "Economics", "minmark": 50, "required": true},
+            {"subjectid": "Mathematics", "minmark": 50, "required": true}
+            ]
+            
         ],
         "Duration": "3 Years"
     },
@@ -404,7 +401,7 @@
         "Entrance": ["AND",
             {"subjectid": "English", "minmark": 60, "required": true}
         ],
-        "Duration": null
+        "Duration": 4
     },
     {
         "QualificationID": 1009,
@@ -414,7 +411,7 @@
         "Entrance": ["AND",
             {"subjectid": "English", "minmark": 50, "required": true}
         ],
-        "Duration": null
+        "Duration": 4
     },
     {
         "QualificationID": 987,
@@ -895,8 +892,10 @@
             {"subjectid": "Mathematics", "minmark": 50, "required": true},
             {"subjectid": "Physical Sciences", "minmark": 50, "required": true},
             {"subjectid": "English", "minmark": 50, "required": true},
+            ["OR",
             {"subjectid": "Life Sciences", "minmark": 50, "required": true},
             {"subjectid": "Agricultural Sciences", "minmark": 50, "required": true}
+            ]
         ],
         "Duration": "4 years"
     },
