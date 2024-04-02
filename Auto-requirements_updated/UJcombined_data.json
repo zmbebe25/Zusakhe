@@ -4,55 +4,39 @@
             "Qualification": "B ARCHITECTURE",
             "ID": 167,
             "Qualification Code": "B8BA3Q",
-            "APS": 28,
+            "APS": 30,
             "Description": "Architectural professionals are involved in shaping our built environment, from the simple construction of low- cost housing projects to the most sophisticated technology employed in the erection of skyscrapers. Architectural professionals are thus employed in the design, technological resolution and management of the design and construction process of buildings.",
             "Entrance": [
                 "AND",
                 {
-                    "subjectid": 1,
+                    "subjectid": 2,
                     "minmark": 60,
                     "required": true
                 },
-                [
-                    "OR",
-                    {
-                        "subjectid": 103,
-                        "minmark": 60,
-                        "required": true
-                    },
-                    {
-                        "subjectid": 97,
-                        "minmark": 50,
-                        "required": true
-                    }
-                ]
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                }
             ]
         },
         {
             "Qualification": "BA DESIGN (COMMUNICATION DESIGN)",
             "ID": 168,
             "Qualification Code": "B8CD2Q",
-            "APS": 24,
+            "APS": 26,
             "Description": "Communication Designers are creative thinkers and problem solvers who use a range of design methods, processes and techniques to create professional communication designs, such as posters, books, magazines, corporate identity programmes, packaging and web sites, both individually and as members of teams.",
             "Entrance": [
                 "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
                 [
                     "OR",
                     {
-                        "subjectid": 103,
-                        "minmark": 60,
-                        "required": true
-                    },
-                    {
-                        "subjectid": 97,
-                        "minmark": 50,
-                        "required": true
-                    }
-                ],
-                [
-                    "OR",
-                    {
-                        "subjectid": 1,
+                        "subjectid": 2,
                         "minmark": 40,
                         "required": true
                     },
@@ -68,27 +52,19 @@
             "Qualification": "BA (DIGITAL MEDIA DESIGN)",
             "ID": 169,
             "Qualification Code": "B8DM3Q",
-            "APS": 24,
+            "APS": 26,
             "Description": "This degree prepares students for careers in the design, film, broadcast and advertising industries as: interaction designers, user experience designers, user interface designers, service designers, music video designers, multimedia animators, motion graphics designers, information designers, video editors, video compositors, digital photographers, digital media consultants and or creative directors.",
             "Entrance": [
                 "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
                 [
                     "OR",
                     {
-                        "subjectid": 103,
-                        "minmark": 60,
-                        "required": true
-                    },
-                    {
-                        "subjectid": 97,
-                        "minmark": 50,
-                        "required": true
-                    }
-                ],
-                [
-                    "OR",
-                    {
-                        "subjectid": 1,
+                        "subjectid": 2,
                         "minmark": 40,
                         "required": true
                     },
@@ -104,27 +80,19 @@
             "Qualification": "BA DESIGN (INDUSTRIAL DESIGN)",
             "ID": 171,
             "Qualification Code": "B8ID1Q",
-            "APS": 24,
+            "APS": 26,
             "Description": "Industrial Designers improve the aesthetics, ergonomics and functionality of a broad range of products from bespoke/one-off furniture items to mass produced products such as kitchen appliances and cellphones.",
             "Entrance": [
                 "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
                 [
                     "OR",
                     {
-                        "subjectid": 103,
-                        "minmark": 50,
-                        "required": true
-                    },
-                    {
-                        "subjectid": 97,
-                        "minmark": 50,
-                        "required": true
-                    }
-                ],
-                [
-                    "OR",
-                    {
-                        "subjectid": 1,
+                        "subjectid": 2,
                         "minmark": 50,
                         "required": true
                     },
@@ -142,23 +110,15 @@
             "Qualification": "BA DESIGN (INTERIOR DESIGN)",
             "ID": 174,
             "Qualification Code": "B8BA6Q",
-            "APS": 24,
+            "APS": 26,
             "Description": "Interior Designers engage with a range of interior spaces to create innovative spatial solutions with a thorough knowledge of building technology, materials and human environment needs.",
             "Entrance": [
                 "AND",
-                [
-                    "OR",
-                    {
-                        "subjectid": 103,
-                        "minmark": 50,
-                        "required": true
-                    },
-                    {
-                        "subjectid": 97,
-                        "minmark": 50,
-                        "required": true
-                    }
-                ],
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
                 [
                     "OR",
                     {
@@ -178,23 +138,15 @@
             "Qualification": "BA DESIGN (FASHION DESIGN)",
             "ID": 172,
             "Qualification Code": "B8FD1Q",
-            "APS": 24,
+            "APS": 26,
             "Description": "A degree in fashion design prepares graduates for various career possibilities in the fast-paced fashion industry. Amongst other, these include being a fashion designer, a fashion entrepreneur, a pattern engineer, a fashion buyer a fashion stylist.",
             "Entrance": [
                 "AND",
-                [
-                    "OR",
-                    {
-                        "subjectid": 103,
-                        "minmark": 50,
-                        "required": true
-                    },
-                    {
-                        "subjectid": 97,
-                        "minmark": 50,
-                        "required": true
-                    }
-                ],
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
                 [
                     "OR",
                     {
@@ -214,23 +166,15 @@
             "Qualification": "BA (VISUAL ART)",
             "ID": 178,
             "Qualification Code": "B8BA7Q",
-            "APS": 24,
+            "APS": 26,
             "Description": "Visual Art graduates find work in diverse fields of the visual arts industries. In addition to being a professional artist, graduates could work, in art education and training, art gallery and museum curating and management, art consulting, arts writing, art criticism, research and journalism, printmaking and print studio management, paper making and paper production design, community and arts project management, visual events management.",
             "Entrance": [
                 "AND",
-                [
-                    "OR",
-                    {
-                        "subjectid": 103,
-                        "minmark": 50,
-                        "required": true
-                    },
-                    {
-                        "subjectid": 97,
-                        "minmark": 50,
-                        "required": true
-                    }
-                ],
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
                 [
                     "OR",
                     {
@@ -257,23 +201,15 @@
             "Qualification": "ARCHITECTURE",
             "ID": 167,
             "Qualification Code": "D8AT1Q",
-            "APS": 24,
+            "APS": 26,
             "Description": "Architectural Practitioners design simple buildings and produce technological details.",
             "Entrance": [
                 "AND",
-                [
-                    "OR",
-                    {
-                        "subjectid": 103,
-                        "minmark": 50,
-                        "required": true
-                    },
-                    {
-                        "subjectid": 97,
-                        "minmark": 50,
-                        "required": true
-                    }
-                ],
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
                 [
                     "OR",
                     {
@@ -293,23 +229,15 @@
             "Qualification": "FASHION PRODUCTION",
             "ID": 167,
             "Qualification Code": "D8FP1Q",
-            "APS": 21,
+            "APS": 23,
             "Description": "Fashion Production Graduates can be involved in the business, manufacturing, retail and quality assurance aspects of the clothing industry.",
             "Entrance": [
                 "AND",
-                [
-                    "OR",
-                    {
-                        "subjectid": 103,
-                        "minmark": 50,
-                        "required": true
-                    },
-                    {
-                        "subjectid": 97,
-                        "minmark": 50,
-                        "required": true
-                    }
-                ],
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
                 [
                     "OR",
                     {
@@ -329,23 +257,15 @@
             "Qualification": "JEWELLERY DESIGN AND MANUFACTURE",
             "ID": 167,
             "Qualification Code": "D8JD1Q",
-            "APS": 20,
+            "APS": 22,
             "Description": "Jewellery Designers and Manufacturers process designs and concepts in high end commercial and contemporary commercial manufacture processes.",
             "Entrance": [
                 "AND",
-                [
-                    "OR",
-                    {
-                        "subjectid": 103,
-                        "minmark": 50,
-                        "required": true
-                    },
-                    {
-                        "subjectid": 97,
-                        "minmark": 50,
-                        "required": true
-                    }
-                ],
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
                 [
                     "OR",
                     {
@@ -371,7 +291,7 @@
         {
             "Qualification": "ACCOUNTING (CA)",
             "ID": 181,
-            "Qualification Code": "BCA012",
+            "Qualification Code": "B34CAQ",
             "APS": 33,
             "Description": "(SA). CA Accountant Chartered",
             "Entrance": [
@@ -391,7 +311,7 @@
         {
             "Qualification": "HOSPITALITY MANAGEMENT",
             "ID": 184,
-            "Qualification Code": "B34HOQ",
+            "Qualification Code": "B34HNQ",
             "APS": 28,
             "Description": "industry. the in positions other amongst Manager Financial Manager, General i.e. Industry Hospitality the in positions leadership into move to aspire who students of needs the serves degree This",
             "Entrance": [
@@ -1125,7 +1045,7 @@
             "Qualification": "MARKETING **",
             "ID": 465619120,
             "FacultyID": 47,
-            "Qualification Code": "D1MKTQ",
+            "Qualification Code": "D34MKQ",
             "APS": 24,
             "Description": "Marketer, Advertising, Brand Management, Customer Relationship Manager, Marketing Manager, Marketing Researcher, Customer Services, Marketing Consulting, Media Planning, Sales Manager.",
             "Entrance": [
@@ -1195,7 +1115,7 @@
             "Qualification": "RETAIL BUSINESS MANAGEMENT **",
             "ID": 877198786,
             "FacultyID": 47,
-            "Qualification Code": "D1RBMQ",
+            "Qualification Code": "D34RMQ",
             "APS": 24,
             "Description": "Prepares the graduate for work in the retailing industry. Buyers, Store Managers, Layout Specialists, Visual Merchandisers, Product Category Managers, Sales Managers, Service Retailing, Advertising and Sales Promotion, Customer Experience Leaders, Customer Analytics, Retail Software Developers, Business Owner.",
             "Entrance": [
@@ -1632,7 +1552,7 @@
             "ID": 389037395,
             "FacultyID": 47,
             "Qualification Code": "B5BSAQ",
-            "Minimum APS": 26,
+            "APS": 26,
             "Description": "Educator focusing on high school teaching.",
             "Entrance": [
                 "AND",
@@ -1661,7 +1581,7 @@
             "ID": 557786977,
             "FacultyID": 47,
             "Qualification Code": "B5BSBQ",
-            "Minimum APS": 26,
+            "APS": 26,
             "Description": "Educator focusing on high school teaching.",
             "Entrance": [
                 "AND",
@@ -1703,7 +1623,7 @@
             "ID": 652929010,
             "FacultyID": 47,
             "Qualification Code": "B5BSEQ",
-            "Minimum APS": 26,
+            "APS": 26,
             "Description": "Educator focusing on high school teaching.",
             "Entrance": [
                 "AND",
@@ -1775,12 +1695,12 @@
                 [
                     "OR",
                     {
-                        "subjectid": "Afrikaans Home language",
+                        "subjectid": 9,
                         "minmark": 50,
                         "required": true
                     },
                     {
-                        "subjectid": "Afrikaans Additional Language",
+                        "subjectid": 53,
                         "minmark": 60,
                         "required": true
                     }
@@ -1794,10 +1714,7 @@
             "Qualification Code": "B5LAZQ",
             "APS": 26,
             "Description": "Educator focusing on high school teaching.",
-            "Entrance": {
-                "AND": [],
-                "OR": [
-                    [
+            "Entrance":[
                         "AND",
                         [
                             "OR",
@@ -1815,19 +1732,18 @@
                         [
                             "OR",
                             {
-                                "subjectid": "IsiZulu Home language",
+                                "subjectid": 46,
                                 "minmark": 50,
                                 "required": true
                             },
                             {
-                                "subjectid": "IsiZulu Additional Language",
+                                "subjectid": 57,
                                 "minmark": 60,
                                 "required": true
                             }
                         ]
                     ]
-                ]
-            }
+                 
         },
         {
             "Qualification": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - LANGUAGE EDUCATION: SEPEDI",
@@ -1882,6 +1798,11 @@
                 },
                 {
                     "subjectid": 8,
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
                     "minmark": 40,
                     "required": true
                 },
@@ -3195,11 +3116,6 @@
             "Entrance": [
                 "AND",
                 {
-                    "subjectid": 19,
-                    "minmark": 50,
-                    "required": true
-                },
-                {
                     "subjectid": 103,
                     "minmark": 60,
                     "required": true
@@ -3209,11 +3125,19 @@
                     "minmark": 50,
                     "required": true
                 },
+                [
+                "OR",
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                },
                 {
                     "subjectid": 20,
                     "minmark": 50,
                     "required": true
-                }
+                }]
+
             ]
         },
         {
@@ -3225,11 +3149,6 @@
             "Entrance": [
                 "AND",
                 {
-                    "subjectid": 19,
-                    "minmark": 50,
-                    "required": true
-                },
-                {
                     "subjectid": 103,
                     "minmark": 60,
                     "required": true
@@ -3239,11 +3158,19 @@
                     "minmark": 50,
                     "required": true
                 },
+                [
+                "OR",
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                },
                 {
                     "subjectid": 20,
                     "minmark": 50,
                     "required": true
-                }
+                }]
+
             ]
         },
         {
@@ -3337,19 +3264,11 @@
                     "minmark": 50,
                     "required": true
                 },
-                [
-                    "OR",
-                    {
-                        "subjectid": 20,
-                        "minmark": 50,
-                        "required": true
-                    },
-                    {
-                        "subjectid": 114,
-                        "minmark": 50,
-                        "required": true
-                    }
-                ]
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                }
             ]
         }
     ],
@@ -3480,6 +3399,11 @@
                         "subjectid": 115,
                         "minmark": 50,
                         "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 50,
+                        "required": true
                     }
                 ]
             ]
@@ -3533,7 +3457,7 @@
                     },
                     {
                         "subjectid": 21,
-                        "minmark": 40,
+                        "minmark": 50,
                         "required": true
                     }
                 ]
@@ -3636,7 +3560,7 @@
             "Qualification": "Bachelor of Arts with specialisation in Development Studies",
             "ID": 214330503,
             "Qualification Code": "B7EX2Q",
-            "APS": 24,
+            "APS": 27,
             "Description": "Social development or social changes practitioner, researcher of social change, activist, foreign service, enterprise, and organizational development.",
             "Entrance": [
                 "AND",
@@ -3651,7 +3575,7 @@
             "Qualification": "Bachelor of Arts with specialisation in Linguistics",
             "ID": 825844469,
             "Qualification Code": "B7EX3Q",
-            "APS": 24,
+            "APS": 27,
             "Description": "Education (teaching English to speakers of other languages), training, research and administration, business communication, market research, interpreting and translating, academic career.",
             "Entrance": [
                 "AND",
@@ -3666,7 +3590,7 @@
             "Qualification": "Bachelor of Arts with specialisation in Linguistics and Language Practice",
             "ID": 790752808,
             "Qualification Code": "B7EX4Q",
-            "APS": 24,
+            "APS": 27,
             "Description": "Language practitioner (translator, interpreter), language planner, language manager, copywriter, journalist, subtitler, plain language specialist.",
             "Entrance": [
                 "AND",
@@ -3681,7 +3605,7 @@
             "Qualification": "Bachelor of Arts with specialisation in Strategic Communication",
             "ID": 5952,
             "Qualification Code": "B7EX5Q",
-            "APS": 24,
+            "APS": 27,
             "Description": "Brand managers, social media strategists, digital marketing managers, advertising and public relations specialists, media planners, development officers, communication officers, corporate social responsibility specialists, media relations managers, etc.",
             "Entrance": [
                 "AND",
@@ -3741,7 +3665,7 @@
                 },
                 {
                     "subjectid": 97,
-                    "minmark": 60,
+                    "minmark": 50,
                     "required": true
                 },
                 [
@@ -4487,11 +4411,6 @@
                     "subjectid": 2,
                     "minmark": 70,
                     "required": true
-                },
-                {
-                    "subjectid": 20,
-                    "minmark": 50,
-                    "required": true
                 }
             ]
         }
@@ -4624,11 +4543,6 @@
                     "subjectid": 2,
                     "minmark": 70,
                     "required": true
-                },
-                {
-                    "subjectid": 20,
-                    "minmark": 50,
-                    "required": true
                 }
             ]
         },
@@ -4648,11 +4562,6 @@
                 {
                     "subjectid": 2,
                     "minmark": 70,
-                    "required": true
-                },
-                {
-                    "subjectid": 20,
-                    "minmark": 50,
                     "required": true
                 }
             ]
