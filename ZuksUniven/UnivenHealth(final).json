@@ -1,0 +1,4386 @@
+[
+    {
+        "Code": "NBP1441",
+        "Course": "Ethos of Nursing and Professional Practice",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 16,
+        "NQF": 5
+    },
+    {
+        "Code": "NFS1442",
+        "Course": "Fundamental of Nursing Science (Basic Nursing Science)",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 12,
+        "NQF": 5
+    },
+    {
+        "Code": "ECS1141",
+        "Course": "English Communication Skills",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 4,
+        "NQF": 5
+    },
+    {
+        "Code": "NBF2442",
+        "Course": "Biological Sciences (Microbiology)",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 14,
+        "NQF": 6
+    },
+    {
+        "Code": "NIS2444",
+        "Course": "Integrated Nursing Science",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 14,
+        "NQF": 6
+    },
+    {
+        "Code": "NSP2443",
+        "Course": "Pharmacology",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 14,
+        "NQF": 6
+    },
+    {
+        "Code": "NBF1443",
+        "Course": "Biological Sciences (Anatomy, Physiology)",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 24,
+        "NQF": 5
+    },
+    {
+        "Code": "NIS3442",
+        "Course": "Integrated Nursing Science",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 11,
+        "NQF": 7
+    },
+    {
+        "Code": "NSR3443",
+        "Course": "Research",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 16,
+        "NQF": 7
+    },
+    {
+        "Code": "NMS4442",
+        "Course": "Midwifery Nursing Science",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 24,
+        "NQF": 8
+    },
+    {
+        "Code": "RNT1441",
+        "Course": "Orientation to the Nutritionist Profession and Study Skill",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "RNT1443",
+        "Course": "Nutritional Physiology",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 30,
+        "NQF": 5
+    },
+    {
+        "Code": "ECS1141",
+        "Course": "English Communication Skills",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "RNT2441",
+        "Course": "Nutrition in Growth and Development",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "RNT3441",
+        "Course": "Nutrition and Disease Prevention",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "RRM3443",
+        "Course": "Nutrition Epidemiology, Applied Research Methods and Ethics",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "RNT1841",
+        "Course": "Orientation to the Nutritionist Profession and Study Skill",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "RNT1843",
+        "Course": "Nutritional Physiology",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 30,
+        "NQF": 5
+    },
+    {
+        "Code": "ECS1541",
+        "Course": "English Communication Skills",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "RNT2841",
+        "Course": "Nutrition in Growth and Development",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "RNT2842",
+        "Course": "Nutrition Assessment and Care Process",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "RNT3841",
+        "Course": "Nutrition and Disease Prevention",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "RRM3843",
+        "Course": "Nutrition Epidemiology, Applied Research Methods and Ethics",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "RRN4842",
+        "Course": "Research Project in Human Nutrition",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 30,
+        "NQF": 8
+    },
+    {
+        "Code": "RNI4881",
+        "Course": "Integrated Internship - Food Service Management",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 8
+    },
+    {
+        "Code": "RNI4882",
+        "Course": "Integrated Internship - Public Health Nutrition",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 8
+    },
+    {
+        "Code": "RNI4883",
+        "Course": "Integrated Internship - Community Nutrition",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 40,
+        "NQF": 8
+    },
+    {
+        "Code": "NCH1541",
+        "Course": "Community Health and Community Assessment",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "NAD1541",
+        "Course": "Management process of Health Services",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "PAD1541",
+        "Course": "Introduction to Public Administration I: Concept and context",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "HRM1541",
+        "Course": "Industrial Psychology: Basic psychology",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "NPH2541",
+        "Course": "Pharmacology",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "NAD1541",
+        "Course": "Management process of Health services",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "NED1541",
+        "Course": "Didactic principles: the learning process",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "PAD1541",
+        "Course": "Introduction Public administration 1 Concept and context",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "HRM1541",
+        "Course": "Industrial Psychology: Basic psychology",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "NPH2541",
+        "Course": "Pharmacology",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "IEH1521",
+        "Course": "History of Education",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "NED2541",
+        "Course": "Innovations in Nursing Education",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "HRM2521",
+        "Course": "Industrial Psychology",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "PAD2541",
+        "Course": "Policy Making, organizing & Financing",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "NRS2541",
+        "Course": "Nursing Research",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "NED3541",
+        "Course": "Nursing Theories application",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 7
+    },
+    {
+        "Code": "NAD3541",
+        "Course": "Total Quality Management",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "NAD2541",
+        "Course": "Innovations in Nursing Education",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "NCP1141",
+        "Course": "Community Health and Community Assessment",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "NED1141",
+        "Course": "Didactic Principles: The Learning Process",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "NPM2141",
+        "Course": "Pharmacology",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "IEH1121",
+        "Course": "History of Education",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "NED2141",
+        "Course": "Innovations in Nursing Education",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "NRP2141",
+        "Course": "Nursing Research",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "NCP2141",
+        "Course": "Health Promotion and Health Education",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "KOP1441",
+        "Course": "Orientation to PBL, Biokinetics and Recreation and Leisure Studies programme",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "KFH1442",
+        "Course": "Foundation of Human Movement Science and Human Behaviour",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "KHA1443",
+        "Course": "Human Anatomy and Physiology",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 30,
+        "NQF": 5
+    },
+    {
+        "Code": "ECS1141",
+        "Course": "English Communication Skills",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "KNS2441",
+        "Course": "Neuromuscular Systems in Health and Wellness",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "KEP2442",
+        "Course": "Exercise and Physical Activity for diverse (special) population",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "KPA2443",
+        "Course": "Physical Activity Health and Lifestyle",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "KCS2445",
+        "Course": "Cardio-respiratory systems and physical activity",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "KBP3441",
+        "Course": "Biokinetics: Practice and Profession",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KEP3442",
+        "Course": "Exercise (Applied) Physiology",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KCE4441",
+        "Course": "Clinical Exercise Physiology and Orthopaedic Rehabilitation",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 8
+    },
+    {
+        "Code": "KES4442",
+        "Course": "Exercise and Sport Psychology",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 8
+    },
+    {
+        "Code": "KSB4443",
+        "Course": "Seminar in Biokinetics",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 8
+    },
+    {
+        "Code": "KOP1841",
+        "Course": "Orientation to PBL, Biokinetics and Recreation and Leisure Studies programme",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "KFH1842",
+        "Course": "Foundation of Human Movement Science and Human Behaviour",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "ECS1541",
+        "Course": "English Communication Skills",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "KFR2841",
+        "Course": "Foundations of Recreation and Leisure Services",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "KOR2842",
+        "Course": "Outdoor Education and Recreation",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "KRL2843",
+        "Course": "Recreation and Leisure for diverse population (vulnerable groups)",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "KEL3841",
+        "Course": "Ethics and Legal aspects of Recreation and Leisure",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KTR3842",
+        "Course": "Therapeutic Recreation, Leisure and Wellness Education",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 7
+    },
+    {
+        "Code": "KFM3843",
+        "Course": "Facility Design and Management for Recreation and Leisure Activity",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KES4841",
+        "Course": "Exercise and Sport Psychology",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 8
+    },
+    {
+        "Code": "KSR4842",
+        "Course": "Seminar in Recreation and Leisure Services",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 8
+    },
+    {
+        "Code": "KAM4843",
+        "Course": "Organization and Administration of Major Events",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 8
+    },
+    {
+        "Code": "KOP1441",
+        "Course": "Orientation to PBL, Biokinetics and Recreation and Leisure Studies programme",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "KFH1442",
+        "Course": "Foundation of Human Movement Science and Human Behaviour",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "ECS1141",
+        "Course": "English Communication Skills",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "KFR2441",
+        "Course": "Foundations of Recreation and Leisure Services",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "KOR2442",
+        "Course": "Outdoor Education and Recreation",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "KRL2443",
+        "Course": "Recreation and Leisure for diverse population (vulnerable groups)",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "KEL3441",
+        "Course": "Ethics and Legal aspects of Recreation and Leisure",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KTR3442",
+        "Course": "Therapeutic Recreation, Leisure and Wellness Education",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 7
+    },
+    {
+        "Code": "KFM3443",
+        "Course": "Facility Design and Management for Recreation and Leisure Activity",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KES4441",
+        "Course": "Exercise and Sport Psychology",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 8
+    },
+    {
+        "Code": "KSR4442",
+        "Course": "Seminar in Recreation and Leisure Services",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 8
+    },
+    {
+        "Code": "KAM4443",
+        "Course": "Organization and Administration of Major Events",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 8
+    },
+    {
+        "Code": "KOP1441",
+        "Course": "Orientation to PBL, Biokinetics and Recreation and Leisure Studies programme",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "KFH1442",
+        "Course": "Foundation of Human Movement Science and Human Behaviour",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "KHA1443",
+        "Course": "Human Anatomy and Physiology",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 30,
+        "NQF": 5
+    },
+    {
+        "Code": "ECS1141",
+        "Course": "English Communication Skills",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "KNS2441",
+        "Course": "Neuromuscular Systems in Health and Wellness",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "KEP2442",
+        "Course": "Exercise and Physical Activity for Diverse (Special) Population",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "KPA2443",
+        "Course": "Physical Activity Health and Lifestyle",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "KKB3441",
+        "Course": "Knowledge Bases of Sport and Exercise Science",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KEP3442",
+        "Course": "Exercise (Applied) Physiology",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KSE4441",
+        "Course": "Kinanthropometry in Sports and Exercise",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 8
+    },
+    {
+        "Code": "KSE4442",
+        "Course": "Seminar in Exercise and Sport Science",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 8
+    },
+    {
+        "Code": "KES4445",
+        "Course": "Exercise and Sport Psychology",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 8
+    },
+    {
+        "Code": "KOP1841",
+        "Course": "Orientation to PBL, Biokinetics and Recreation and Leisure Studies programme",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "KFH1842",
+        "Course": "Foundation of Human Movement Science and Human Behaviour",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "KHA1843",
+        "Course": "Human Anatomy and Physiology",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 30,
+        "NQF": 5
+    },
+    {
+        "Code": "ECS1541",
+        "Course": "English Communication Skills",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "KNS2841",
+        "Course": "Neuromuscular Systems in Health and Wellness",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "KEP2842",
+        "Course": "Exercise and Physical Activity for Diverse (Special) Population",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "KPA2843",
+        "Course": "Physical Activity Health and Lifestyle",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "KKB3841",
+        "Course": "Knowledge Bases of Sport and Exercise Science",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KEP3842",
+        "Course": "Exercise (Applied) Physiology",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KSE4841",
+        "Course": "Kinanthropometry in Sports and Exercise",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 8
+    },
+    {
+        "Code": "KSE4842",
+        "Course": "Seminar in Exercise and Sport Science",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 8
+    },
+    {
+        "Code": "KES4845",
+        "Course": "Exercise and Sport Psychology",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 8
+    },
+    {
+        "Code": "KOP1841",
+        "Course": "Orientation to PBL, Biokinetics and Recreation and Leisure Studies programme",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "KFH1842",
+        "Course": "Foundation of Human Movement Science and Human Behaviour",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "KHA1843",
+        "Course": "Human Anatomy and Physiology",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 30,
+        "NQF": 5
+    },
+    {
+        "Code": "ECS1541",
+        "Course": "English Communication Skills",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "KNS2841",
+        "Course": "Neuromuscular Systems in Health and Wellness",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "KEP2842",
+        "Course": "Exercise and Physical Activity for diverse (special) population",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "KPA2843",
+        "Course": "Physical Activity Health and Lifestyle",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "KCS2845",
+        "Course": "Cardio-respiratory systems in exercise and physical activity",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "KBP3841",
+        "Course": "Biokinetics: Practice and Profession",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KEP3842",
+        "Course": "Exercise (Applied) Physiology",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KCE4841",
+        "Course": "Clinical Exercise Physiology and Orthopaedic Rehabilitation",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 8
+    },
+    {
+        "Code": "KES4842",
+        "Course": "Exercise and Sport Psychology",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 8
+    },
+    {
+        "Code": "KSB4843",
+        "Course": "Seminar in Biokinetics",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 8
+    },
+    {
+        "Code": "BPS1441",
+        "Course": "Learning Principles and LIFE skills",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "NQF": 5
+    },
+    {
+        "Code": "BPS1442",
+        "Course": "Introduction to Psychology",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "NQF": 5
+    },
+    {
+        "Code": "ECS1141",
+        "Course": "English Communication Skills",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "NQF": 5
+    },
+    {
+        "Code": "SOC1141",
+        "Course": "Introduction to Sociology",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "NQF": 5
+    },
+    {
+        "Code": "ISO2141",
+        "Course": "Sociology of Organisation",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "NQF": 6
+    },
+    {
+        "Code": "BPS2441",
+        "Course": "Child & Adult Development",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 24,
+        "NQF": 6
+    },
+    {
+        "Code": "BPS2442",
+        "Course": "Personality Theories",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 24,
+        "NQF": 6
+    },
+    {
+        "Code": "BPS3441",
+        "Course": "Research Methodology",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 30,
+        "NQF": 7
+    },
+    {
+        "Code": "BPS3442",
+        "Course": "Community Psychology",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 30,
+        "NQF": 7
+    },
+    {
+        "Code": "ISO3141",
+        "Course": "Management Sociology",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "NQF": 7
+    },
+    {
+        "Code": "BPS4441",
+        "Course": "Psychopathology II",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 15,
+        "NQF": 8
+    },
+    {
+        "Code": "BPS4442",
+        "Course": "Psychological Assessment",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 15,
+        "NQF": 8
+    },
+    {
+        "Code": "BPS4443",
+        "Course": "Psychological Counselling Techniques",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 15,
+        "NQF": 8
+    },
+    {
+        "Code": "BPS4444",
+        "Course": "Ethics, Professional Practice and Management",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 15,
+        "NQF": 8
+    },
+    {
+        "Code": "NAD1141",
+        "Course": "Management process of Health services",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "NED1141",
+        "Course": "Didactic principles: the learning process",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "PAD1141",
+        "Course": "Introduction Public administration 1 Concept and context",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "HRM1141",
+        "Course": "Industrial Psychology: Basic psychology",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "NPM2141",
+        "Course": "Pharmacology",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 8,
+        "NQF": 6
+    },
+    {
+        "Code": "IEH1121",
+        "Course": "History of Education",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "HRM2141",
+        "Course": "Career Psychology",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 8,
+        "NQF": 6
+    },
+    {
+        "Code": "NED2141",
+        "Course": "Innovations in Nursing Education",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "PAD2141",
+        "Course": "Policy Making, organizing & Financing",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "NRP2141",
+        "Course": "Nursing Research",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "NAD2141",
+        "Course": "Health service planning and human resource management",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "NED3141",
+        "Course": "Nursing Theories application",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 7
+    },
+    {
+        "Code": "NAD3141",
+        "Course": "Total Quality Management",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "NCP1141",
+        "Course": "Community Health and community assessment",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "NCP3141",
+        "Course": "Management of community health service",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "NAD3141",
+        "Course": "Total quality management",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "NCP3241",
+        "Course": "Management of community health service",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "NAD3241",
+        "Course": "Total quality management",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "NCH1541",
+        "Course": "Community health and Community Assessment",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "NPH2541",
+        "Course": "Pharmacology",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "NGN2541",
+        "Course": "Systematic disorders: skin, respiratory and cardiovascular",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "PSY2542",
+        "Course": "Human Development",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "NCH2541",
+        "Course": "Health promotion and Health Education",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "NGN3541",
+        "Course": "Systematic disorders reproductive, Urinary",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 7
+    },
+    {
+        "Code": "NGI4541",
+        "Course": "Integrated Nursing Management",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 8
+    },
+    {
+        "Code": "NSC1842",
+        "Course": "Community Assessment",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "ECS1541",
+        "Course": "English Communication Skills",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "NGI1841",
+        "Course": "Orientation to PBL, Life Skills, and Professional Practice",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 12,
+        "NQF": 5
+    },
+    {
+        "Code": "NPN2842",
+        "Course": "Psychiatric Nursing Science",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 30,
+        "NQF": 6
+    },
+    {
+        "Code": "NMW3842",
+        "Course": "Science of Midwifery",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 30,
+        "NQF": 7
+    },
+    {
+        "Code": "NGI4842",
+        "Course": "Integrated Nursing Management Science",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 26,
+        "NQF": 8
+    },
+    {
+        "Code": "NCH2541",
+        "Course": "Health Promotion and Health Education",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "HRM2521",
+        "Course": "Occupational Psychology",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "NCH3541",
+        "Course": "Management of community health service",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "NAD3541",
+        "Course": "Total quality management",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "PAD2541",
+        "Course": "Policy making, organizing & financing",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "NRS2541",
+        "Course": "Nursing Research",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "NAD2541",
+        "Course": "Labour relation in Health service management",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "NCH1541",
+        "Course": "Community Health and Community Assessment",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "NED1541",
+        "Course": "Didactic Principles: The Learning Process",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "NPH2541",
+        "Course": "Pharmacology",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "NED2541",
+        "Course": "Innovations in Nursing Education",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "NRS2541",
+        "Course": "Nursing Research",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "NCH2541",
+        "Course": "Health Promotion and Health Education",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "IEH1521",
+        "Course": "History of Education",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "NED3541",
+        "Course": "Nursing Theories application",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "NCH3541",
+        "Course": "Management of Community Health Services",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "RFD1842",
+        "Course": "Food Chemistry",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 30,
+        "NQF": 5
+    },
+    {
+        "Code": "ECS1641",
+        "Course": "English Communication Skills",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "RCN1844",
+        "Course": "Nutrition Communication, Promotion and Advocacy",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "RCN3842",
+        "Course": "Nutritional Programming and Intervention",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "RPH3844",
+        "Course": "Public Health Nutrition",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "RFD3846",
+        "Course": "Food Service Management",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "RCN2843",
+        "Course": "Principles of Community Nutrition",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "RFD2844",
+        "Course": "Introductory to Foods",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "RFD2845",
+        "Course": "Food Biotechnology, Safety and Policy Development",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "RFD1442",
+        "Course": "Food Chemistry",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 30,
+        "NQF": 5
+    },
+    {
+        "Code": "RNT2442",
+        "Course": "Nutrition Assessment and Care Process",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "RCN3442",
+        "Course": "Nutritional Programming and Intervention",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "RPH3444",
+        "Course": "Public Health Nutrition",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "RFD3446",
+        "Course": "Food Service Management",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "ECS1246",
+        "Course": "English Communication Skills",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "RCN1444",
+        "Course": "Nutrition Communication, Promotion and Advocacy",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "ECS1246",
+        "Course": "English Communication Skills",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "BPS1443",
+        "Course": "Introduction to Applied Psychology",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 15,
+        "NQF": 5
+    },
+    {
+        "Code": "SOC1241",
+        "Course": "Social Institutions",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "NQF": 5
+    },
+    {
+        "Code": "SOC2241",
+        "Course": "Sociology of Health and Illness",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "NQF": 6
+    },
+    {
+        "Code": "BPS3443",
+        "Course": "Psychopathology",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 30,
+        "NQF": 7
+    },
+    {
+        "Code": "BPS3444",
+        "Course": "Psychological Counselling Theories",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 30,
+        "NQF": 7
+    },
+    {
+        "Code": "ISO3242",
+        "Course": "Industrial Relations",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "NQF": 7
+    },
+    {
+        "Code": "BPS4445",
+        "Course": "Psychological Counselling Practical",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 40,
+        "NQF": 8
+    },
+    {
+        "Code": "BPS4446",
+        "Course": "Research project",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 8
+    },
+    {
+        "Code": "BPS2443",
+        "Course": "Employee Wellness Programme",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 24,
+        "NQF": 6
+    },
+    {
+        "Code": "BPS2444",
+        "Course": "Mental Health Promotion",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 24,
+        "NQF": 6
+    },
+    {
+        "Code": "KSS1844",
+        "Course": "Sports Skills Fundamentals and Physical Performance",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "KPC1845",
+        "Course": "Physical Conditioning for Sports, Exercise and Games",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "ECS1641",
+        "Course": "English Communication Skills",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "KML2844",
+        "Course": "Motor Learning, Motor Behaviour and Performance",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "KNE2846",
+        "Course": "Nutrition for Health and Wellness",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "KTR2847",
+        "Course": "Therapeutic Recreation for Health and Wellness",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "KAE3843",
+        "Course": "Assessment and Evaluation Techniques in Exercise and Physical Activity",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KAB3844",
+        "Course": "Applied Kinesiology and Biomechanics",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KRM3845",
+        "Course": "Research Methods and Biostatistics",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KSM3846",
+        "Course": "Sports Medicine, Injury Assessment and Rehabilitation",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KRP4844",
+        "Course": "Research Project, Data Collection and Analyses",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 30,
+        "NQF": 8
+    },
+    {
+        "Code": "KBP4845",
+        "Course": "Biokinetics Practicum, Internship and Integrated Community Biokinetics Practice",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 30,
+        "NQF": 8
+    },
+    {
+        "Code": "KSS1444",
+        "Course": "Sports Skills Fundamentals and Physical Performance",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "KPC1445",
+        "Course": "Physical Conditioning for Sports, Exercise and Games",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "ECS1246",
+        "Course": "English Communication Skills",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "KML2444",
+        "Course": "Motor Learning, Motor Behaviour and Performance",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "KNE2446",
+        "Course": "Nutrition for Health and Wellness",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "KTR2447",
+        "Course": "Therapeutic Recreation for health and wellness",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "KAE3443",
+        "Course": "Assessment and Evaluation Techniques in Exercise and Physical Activity",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KAB3444",
+        "Course": "Applied Kinesiology and Biomechanics",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KRM3445",
+        "Course": "Research Methods and Biostatistics",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KSM3446",
+        "Course": "Sports Medicine, Injury Assessment and Rehabilitation",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KRP4444",
+        "Course": "Research Project, Data Collection and Analyses",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 30,
+        "NQF": 8
+    },
+    {
+        "Code": "KBP4445",
+        "Course": "Biokinetics Practicum, Internship and Integrated Community Biokinetics Practice",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 30,
+        "NQF": 8
+    },
+    {
+        "Code": "KSS1844",
+        "Course": "Sports Skills Fundamentals and Physical Performance",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "KPC1845",
+        "Course": "Physical Conditioning for Sports, Exercise and Games",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "KNL1845",
+        "Course": "Nutrition in Sports and Exercise",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "ECS1541",
+        "Course": "English Communication Skills",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "KBR2844",
+        "Course": "Budget and Resource Attainment in Recreation and Leisure Service",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "KMR2845",
+        "Course": "Managing Recreation, Parks and Leisure Services",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "KSF2846",
+        "Course": "Sport First Aid and Management of Injuries",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "KAL2847",
+        "Course": "Adventure Leadership and Programme Planning",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "KCR3844",
+        "Course": "Commercial Recreation and Tourism Management",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KRD3845",
+        "Course": "Recreation Delivery and Leisure Programs",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KCL3846",
+        "Course": "Consultancy in Recreation and Leisure",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 7
+    },
+    {
+        "Code": "KRM3847",
+        "Course": "Research Methods in Recreation and Leisure Services",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KRP4844",
+        "Course": "Research Project; Data Collection and Analysis",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 30,
+        "NQF": 8
+    },
+    {
+        "Code": "KPR4845",
+        "Course": "Practicum in Recreation and Leisure Services",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 40,
+        "NQF": 8
+    },
+    {
+        "Code": "NCP1241",
+        "Course": "Community Health and Family Health",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "NBB1241",
+        "Course": "Fundamental of Nursing Practice",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "SFE1241",
+        "Course": "Sociological Foundations of Education",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "EPH1241",
+        "Course": "Philosophy of Education",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "NGN2641",
+        "Course": "Systematic disorders: skin, respiratory and cardiovascular",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "NCH1641",
+        "Course": "Community diagnosis",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "NGN3641",
+        "Course": "Systematic disorders: endocrine and nervous",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 7
+    },
+    {
+        "Code": "SOC2641",
+        "Course": "The sociology of Health and illness",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "NND4641",
+        "Course": "Fundamental of Nursing practice",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 8
+    },
+    {
+        "Code": "NED2241",
+        "Course": "Curriculum Development",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "NRP2241",
+        "Course": "Nursing Research",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "NED3241",
+        "Course": "Comparative study of Nursing",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "NCH3241",
+        "Course": "Management of Community Health Services",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KSS1443",
+        "Course": "Sports Skills Fundamentals and Physical Performance",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "KPC1444",
+        "Course": "Physical Conditioning for Sports, Exercise and Games",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "KNL1845",
+        "Course": "Nutrition in Sports and Exercise",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "ECS1141",
+        "Course": "English Communication Skills",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "KBR2444",
+        "Course": "Budget and Resource Attainment in Recreation and Leisure Service",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "KMR2445",
+        "Course": "Managing Recreation, Parks and Leisure Services",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "KSF2446",
+        "Course": "Sport First Aid and Management of Injuries",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "KAL2447",
+        "Course": "Adventure Leadership and Programme Planning",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "KCR3444",
+        "Course": "Commercial Recreation and Tourism Management",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KRD3445",
+        "Course": "Recreation Delivery and Leisure Programs",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KCL3446",
+        "Course": "Consultancy in Recreation and Leisure",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 7
+    },
+    {
+        "Code": "KRM3847",
+        "Course": "Research Methods in Recreation and Leisure Services",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KRP4444",
+        "Course": "Research Project; Data Collection and Analysis",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 30,
+        "NQF": 8
+    },
+    {
+        "Code": "KPR4445",
+        "Course": "Practicum in Recreation and Leisure Services",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 40,
+        "NQF": 8
+    },
+    {
+        "Code": "KSS1844",
+        "Course": "Sports Skills Fundamentals and Physical Performance",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "KPC1845",
+        "Course": "Physical Conditioning for Sports, Exercise and Games",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "ECS1641",
+        "Course": "English Communication Skills",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "KML2844",
+        "Course": "Motor Learning, Motor Behaviour and Performance",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "KNE2845",
+        "Course": "Nutrition for Health and Wellness",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "KTR2846",
+        "Course": "Therapeutic Recreation for Health and Wellness",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "KAE3843",
+        "Course": "Assessment and Evaluation Techniques in Exercise and Physical Activity",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KAB3844",
+        "Course": "Applied Kinesiology and Biomechanics",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KRM3845",
+        "Course": "Research Methods and Biostatistics",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KSM3846",
+        "Course": "Sports Medicine, Injury Assessment and Rehabilitation",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KRP4843",
+        "Course": "Research Project; Data Collection",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 30,
+        "NQF": 8
+    },
+    {
+        "Code": "KES4844",
+        "Course": "Exercise and Sport Science Practicum",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 30,
+        "NQF": 8
+    },
+    {
+        "Code": "KSS1444",
+        "Course": "Sports Skills Fundamentals and Physical Performance",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "KPC1445",
+        "Course": "Physical Conditioning for Sports, Exercise and Games",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "ECS1246",
+        "Course": "English Communication Skills",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "KML2444",
+        "Course": "Motor Learning, Motor Behaviour and Performance",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "KNE2445",
+        "Course": "Nutrition for Health and Wellness",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "KTR2446",
+        "Course": "Therapeutic Recreation for Health and Wellness",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "KAE3443",
+        "Course": "Assessment and Evaluation Techniques in Exercise and Physical Activity",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KAB3444",
+        "Course": "Applied Kinesiology and Biomechanics",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KRM3445",
+        "Course": "Research Methods and Biostatistics",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KSM3446",
+        "Course": "Sports Medicine, Injury Assessment and Rehabilitation",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "KRP4443",
+        "Course": "Research Project; Data Collection",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 30,
+        "NQF": 8
+    },
+    {
+        "Code": "KES4444",
+        "Course": "Exercise and Sport Science Practicum",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 30,
+        "NQF": 8
+    },
+    {
+        "Code": "NAD1241",
+        "Course": "Organization of health services and theories",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "PAD1241",
+        "Course": "Introduction to Public Administration II The SA Concept",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "HRM1241",
+        "Course": "Industrial Psychology as an applied field",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 8,
+        "NQF": 5
+    },
+    {
+        "Code": "NBB1241",
+        "Course": "Fundamental of Nursing Practice",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "NED2241",
+        "Course": "Curriculum Development",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "HRM2221",
+        "Course": "Industrial Psychology",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 8,
+        "NQF": 6
+    },
+    {
+        "Code": "PAD2241",
+        "Course": "Staffing, working procedure & Control",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "NED3241",
+        "Course": "Comparative study of Nursing",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "NAD3241",
+        "Course": "Total Quality management",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 7
+    },
+    {
+        "Code": "SFE1241",
+        "Course": "Sociological foundations of Education",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "NRP2241",
+        "Course": "Nursing Research",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "IEH1121",
+        "Course": "History of Education",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "EPH1241",
+        "Course": "Philosophy of Education",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "NED1241",
+        "Course": "Contextualization of Nursing education & regulatory process",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": "",
+        "NQF": 5
+    },
+    {
+        "Code": "NAD2241",
+        "Course": "Legislation, work procedures and control in health service",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "NCP1241",
+        "Course": "Community Health and Family Health",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "NCP2141",
+        "Course": "Health promotion and Health Education",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "HRM2241",
+        "Course": "Research Methodology",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "NAD1141",
+        "Course": "Management process of Health Services",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "NAD1241",
+        "Course": "Organization of health services and theories",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "HRM2141",
+        "Course": "Career Psychology",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "PAD2241",
+        "Course": "Staffing, work procedure & control",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "PAD1141",
+        "Course": "Introduction to Public Administration I: Concept and context",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 6,
+        "NQF": 5
+    },
+    {
+        "Code": "SOC2241",
+        "Course": "The sociology of Health and illness",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "PAD2141",
+        "Course": "Policy making, organizing & financing",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 6,
+        "NQF": 6
+    },
+    {
+        "Code": "NRP2621",
+        "Course": "Nursing Research",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "HRM1141",
+        "Course": "Industrial Psychology: Basic psychology",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 8,
+        "NQF": 5
+    },
+    {
+        "Code": "NPM2141",
+        "Course": "Pharmacology",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 8,
+        "NQF": 6
+    },
+    {
+        "Code": "PAD1241",
+        "Course": "Introduction of Public Administration II: The SA context",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 6,
+        "NQF": 5
+    },
+    {
+        "Code": "HRM1241",
+        "Course": "Industrial Psychology as an applied field",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 8,
+        "NQF": 5
+    },
+    {
+        "Code": "NRP2141",
+        "Course": "Nursing Research",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "NAD2141",
+        "Course": "Health service planning and human resource management",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "NAD2241",
+        "Course": "Legislation, work procedures and control in health service",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "NBB1241",
+        "Course": "Fundamental of Nursing practice",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "NED1741",
+        "Course": "Educational Technology Workbook",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 40,
+        "NQF": 5
+    },
+    {
+        "Code": "Portfolio of Evidence",
+        "Course": "Workbook",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 40
+    },
+    {
+        "Code": "NRS2641",
+        "Course": "Nursing Research",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "NED2542",
+        "Course": "Management Process of Nursing School",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "NCH1542",
+        "Course": "Workbook/Practica",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "NCH2741",
+        "Course": "Integrated Management of Childhood Illness",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "NPD4741",
+        "Course": "Project Design and Management",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 8
+    },
+    {
+        "Code": "NCH1641",
+        "Course": "Community Health and Family Health",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "NND4641",
+        "Course": "Fundamental of Nursing Practice",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 8
+    },
+    {
+        "Code": "SFE1621",
+        "Course": "Sociological Foundations of Education",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "EPH1621",
+        "Course": "Philosophy of Education",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "NED2641",
+        "Course": "Curriculum Development",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "NED3641",
+        "Course": "Comparative Study of Nursing",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "NCH364",
+        "Course": "Management of Community Health Services 1",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "NFS1443",
+        "Course": "Fundamental of Nursing Science (Basic Nursing Science)",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 12,
+        "NQF": 5
+    },
+    {
+        "Code": "ECS1246",
+        "Course": "English Communication Skills",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 4,
+        "NQF": 5
+    },
+    {
+        "Code": "NPY1445",
+        "Course": "Introduction to Social Sciences",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 8,
+        "NQF": 5
+    },
+    {
+        "Code": "NBF1444",
+        "Course": "Biological Sciences (Biochemistry, Biophysics)",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 24,
+        "NQF": 5
+    },
+    {
+        "Code": "NIS3345",
+        "Course": "Integrated Nursing Management",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 7
+    },
+    {
+        "Code": "NIS3443",
+        "Course": "Integrated Nursing Science",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 11,
+        "NQF": 7
+    },
+    {
+        "Code": "NMS3446",
+        "Course": "Introduction to Midwifery Nursing Science",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 8,
+        "NQF": 7
+    },
+    {
+        "Code": "NMS4443",
+        "Course": "High Risk Midwifery Nursing Science",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 30,
+        "NQF": 8
+    },
+    {
+        "Code": "NMD4444",
+        "Course": "Nursing Dynamics",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 8,
+        "NQF": 8
+    },
+    {
+        "Code": "NSR4445",
+        "Course": "Research",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 24,
+        "NQF": 8
+    },
+    {
+        "Code": "NPH 2843",
+        "Course": "Pharmacology",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 6,
+        "NQF": 6
+    },
+    {
+        "Code": "NGI 2844",
+        "Course": "Integrated Nursing Science",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 34,
+        "NQF": 6
+    },
+    {
+        "Code": "NCS2845",
+        "Course": "Primary Health Care",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 12,
+        "NQF": 6
+    },
+    {
+        "Code": "NOC2846",
+        "Course": "Sociology of Health and Illness",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 12,
+        "NQF": 6
+    },
+    {
+        "Code": "NPN3843",
+        "Course": "Psychiatric Nursing",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 16,
+        "NQF": 7
+    },
+    {
+        "Code": "NGI3844",
+        "Course": "Integrated Nursing Science",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 33,
+        "NQF": 7
+    },
+    {
+        "Code": "NRS3846",
+        "Course": "Introduction to Nursing Research",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 12,
+        "NQF": 7
+    },
+    {
+        "Code": "NGF1843",
+        "Course": "Biological Science",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 42,
+        "NQF": 5
+    },
+    {
+        "Code": "NGI1844",
+        "Course": "Introduction to Scientific Approach",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 30,
+        "NQF": 5
+    },
+    {
+        "Code": "NPS1846",
+        "Course": "Human Development",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 12,
+        "NQF": 5
+    },
+    {
+        "Code": "ECS1646",
+        "Course": "English Communication Skills: Environment and Health",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 12,
+        "NQF": 5
+    },
+    {
+        "Code": "NMW4843",
+        "Course": "Science Midwifery",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 8
+    },
+    {
+        "Code": "NMW4844",
+        "Course": "Specialized midwifery",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 12,
+        "NQF": 8
+    },
+    {
+        "Code": "NND4845",
+        "Course": "Ethics and ethos of professional",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 8
+    },
+    {
+        "Code": "NRS4846",
+        "Course": "Research project",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 8
+    },
+    {
+        "Code": "NCH1641",
+        "Course": "Community Health and Family Health",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "NAD1641",
+        "Course": "Management process of Health Services",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "SOC2641",
+        "Course": "The sociology of Health and illness",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "PAD1641",
+        "Course": "Introduction of Public Administration II: The SA context",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "HRM1641",
+        "Course": "Industrial Psychology as an applied field",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "NND4641",
+        "Course": "Fundamental of Nursing practice",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 8
+    },
+    {
+        "Code": "NCH3641",
+        "Course": "Management of community health service",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "NAD3641",
+        "Course": "Total quality management",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "HRM2621",
+        "Course": "Research Methodology",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "PAD2641",
+        "Course": "Staffing, work procedure & control",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "NRS2641",
+        "Course": "Nursing Research",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "NAD1641",
+        "Course": "Management and motivational theories",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "PAD1641",
+        "Course": "Introduction to Public Administration II The SA Concept",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "HRM1641",
+        "Course": "Industrial Psychology as an applied field",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "NND4641",
+        "Course": "Fundamental of Nursing Practice",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 8
+    },
+    {
+        "Code": "SFE1621",
+        "Course": "Sociological foundations of Education",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "NED2641",
+        "Course": "Curriculum Development",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "HRM2621",
+        "Course": "Industrial Psychology",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "PAD2641",
+        "Course": "Staffing, working procedure & Control",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "NRS2641",
+        "Course": "Nursing Research",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "EPH1621",
+        "Course": "Philosophy of Education",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "NED3641",
+        "Course": "Comparative study of Nursing",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "NAD3641",
+        "Course": "Total Quality management",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "credit": 10,
+        "NQF": 7
+    },
+    {
+        "Code": "NAD1341",
+        "Course": "Health services management workbook/practica",
+        "Duration": "Year",
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "NAD2341",
+        "Course": "Human resource management reflective journal",
+        "Duration": "Year",
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "NED2341",
+        "Course": "Education Technology",
+        "Duration": "Year",
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "NED2342",
+        "Course": "workbook",
+        "Duration": "Year",
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "NPR3341",
+        "Course": "project report",
+        "Duration": "Year",
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "NAD3341",
+        "Course": "workbook",
+        "Duration": "Year",
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "NAD1341",
+        "Course": "Health Service Management",
+        "Duration": "Year",
+        "credit": 20,
+        "type": "workbook/practica",
+        "NQF": 5
+    },
+    {
+        "Code": "NAD2341",
+        "Course": "Human resource management reflective journal",
+        "Duration": "Year",
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "NPR3341",
+        "Course": null,
+        "Duration": "Year",
+        "credit": 20,
+        "type": "project report",
+        "NQF": 7
+    },
+    {
+        "Code": "NGN2542",
+        "Course": "Workbook/practica",
+        "Duration": "Year",
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "NCH1542",
+        "Course": "Community diagnosis",
+        "Duration": "Year",
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "NGN3542",
+        "Course": "General Nursing",
+        "Duration": "Year",
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "NPD4741",
+        "Course": "Project report",
+        "Duration": "Year",
+        "credit": 10,
+        "NQF": 8
+    },
+    {
+        "Code": "NCH2741",
+        "Course": "Integrated management of childhood illness",
+        "Duration": "Year",
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "NGI4542",
+        "Course": "Unit management practica",
+        "Duration": "Year",
+        "credit": 20,
+        "NQF": 8
+    },
+    {
+        "Code": "NCP1342",
+        "Course": "workbook/practica",
+        "Duration": "Year",
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "NCP2341",
+        "Course": "Integrated Management of Childhood Illness",
+        "Duration": "Year",
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "NED1341",
+        "Course": "Educational Technology",
+        "Duration": "Year",
+        "credit": 40,
+        "NQF": 5
+    },
+    {
+        "Code": "NPR3341",
+        "Course": "project report",
+        "Duration": "Year",
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "NED2342",
+        "Course": "Management Process of Nursing School Workbook",
+        "Duration": "Year",
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "NED3341",
+        "Course": "workbook",
+        "Duration": "Year",
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "RNI2446",
+        "Course": "Integrated Internship",
+        "Duration": "Year",
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "RNI3445",
+        "Course": "Integrated Internship",
+        "Duration": "Year",
+        "credit": 30,
+        "NQF": 7
+    },
+    {
+        "Code": "RRN4442",
+        "Course": "Research Project in Human Nutrition",
+        "Duration": "Year",
+        "credit": 30,
+        "NQF": 8
+    },
+    {
+        "Code": "RNI4481",
+        "Course": "Integrated Internship - Food Service Management",
+        "Duration": "Year",
+        "credit": 20,
+        "NQF": 8
+    },
+    {
+        "Code": "RNI4482",
+        "Course": "Integrated Internship - Public Health Nutrition",
+        "Duration": "Year",
+        "credit": 20,
+        "NQF": 8
+    },
+    {
+        "Code": "RNI4483",
+        "Course": "Integrated Internship - Community Nutrition",
+        "Duration": "Year",
+        "credit": 40,
+        "NQF": 8
+    },
+    {
+        "Code": "RNI2846",
+        "Course": "Integrated Internship",
+        "Duration": "Year",
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "RNI3845",
+        "Course": "Integrated Internship",
+        "Duration": "Year",
+        "credit": 30,
+        "NQF": 7
+    },
+    {
+        "Code": "RRN4842",
+        "Course": "Research Project in Human Nutrition",
+        "Duration": "Year",
+        "credit": 30,
+        "NQF": 8
+    },
+    {
+        "Code": "RNI4881",
+        "Course": "Integrated Internship - Food Service Management",
+        "Duration": "Year",
+        "credit": 20,
+        "NQF": 8
+    },
+    {
+        "Code": "RNI4882",
+        "Course": "Integrated Internship - Public Health Nutrition",
+        "Duration": "Year",
+        "credit": 20,
+        "NQF": 8
+    },
+    {
+        "Code": "RNI4883",
+        "Course": "Integrated Internship - Community Nutrition",
+        "Duration": "Year",
+        "credit": 40,
+        "NQF": 8
+    },
+    {
+        "Code": "NIS1446",
+        "Course": "Integrated Clinical Skills",
+        "Duration": "Year",
+        "NQF": 5
+    },
+    {
+        "Code": "NIS2441",
+        "Course": "Integrated Nursing Skills",
+        "Duration": "Year",
+        "NQF": 6
+    },
+    {
+        "Code": "NIS3441",
+        "Course": "Integrated Nursing Skills",
+        "Duration": "Year",
+        "NQF": 7
+    },
+    {
+        "Code": "NMS4841",
+        "Course": "Midwifery Nursing Skills",
+        "Duration": "Year",
+        "NQF": 8
+    },
+    {
+        "Code": "NGI1845",
+        "Course": "Integrated Clinical Nursing Skills",
+        "Duration": "Year",
+        "credit": 12,
+        "NQF": 5
+    },
+    {
+        "Code": "NGI2841",
+        "Course": "Practica",
+        "Duration": "Year",
+        "credit": 36,
+        "NQF": 6
+    },
+    {
+        "Code": "NGI3845",
+        "Course": "Practica",
+        "Duration": "Year",
+        "credit": 15,
+        "NQF": 7
+    },
+    {
+        "Code": "NGI4841",
+        "Course": "Practica",
+        "Duration": "Year",
+        "credit": 22,
+        "NQF": 8
+    },
+    {
+        "Code": "NED1741",
+        "Course": "Educational Technology Portfolio of evidence Workbook",
+        "Duration": "Year",
+        "credit": 40,
+        "NQF": 5
+    },
+    {
+        "Code": "NED2542",
+        "Course": "Management Process of Nursing School",
+        "Duration": "Year",
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "NCH1542",
+        "Course": "Workbook/Practica",
+        "Duration": "Year",
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "NCH2741",
+        "Course": "Integrated Management of Childhood Illness",
+        "Duration": "Year",
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "NPD4741",
+        "Course": "Project Design and Management",
+        "Duration": "Year",
+        "credit": 10,
+        "NQF": 8
+    },
+    {
+        "Code": "NAD1741",
+        "Course": "Health Service Management workbook/practica",
+        "Duration": "Year",
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "NCH1542",
+        "Course": "Community Diagnosis workbook/practica",
+        "Duration": "Year",
+        "credit": 10,
+        "NQF": 5
+    },
+    {
+        "Code": "NAD2741",
+        "Course": "Human Resource Management reflective journal",
+        "Duration": "Year",
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "NCH2741",
+        "Course": "Integrated Management of Childhood Illness",
+        "Duration": "Year",
+        "credit": 10,
+        "NQF": 6
+    },
+    {
+        "Code": "NPD4741",
+        "Course": "Project Report",
+        "Duration": "Year",
+        "credit": 20,
+        "NQF": 8
+    },
+    {
+        "Code": "NAD3741",
+        "Course": "Health Services Management: Labour workbook",
+        "Duration": "Year",
+        "credit": 20,
+        "NQF": 7
+    },
+    {
+        "Code": "NAD1741",
+        "Course": "Health services management workbook/practica",
+        "Duration": "Year",
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "NED1741",
+        "Course": "Education technology Portfolio of evidence+ workbook",
+        "Duration": "Year",
+        "credit": 20,
+        "NQF": 5
+    },
+    {
+        "Code": "NPD4741",
+        "Course": "Project report",
+        "Duration": "Year",
+        "credit": 20,
+        "NQF": 8
+    },
+    {
+        "Code": "NAD2741",
+        "Course": "Human Resource management workbook/practica",
+        "Duration": "Year",
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "NED2542",
+        "Course": "Management process of Nursing School workbook",
+        "Duration": "Year",
+        "credit": 20,
+        "NQF": 6
+    },
+    {
+        "Code": "NAD3741",
+        "Course": "Health Services management: Labour workbook",
+        "Duration": "Year",
+        "credit": 20,
+        "NQF": 7
+    }
+]

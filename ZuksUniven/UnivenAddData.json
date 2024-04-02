@@ -1,0 +1,2097 @@
+{
+    "courses": [
+      {
+        "Code": "NGN2541",
+        "name": "SYSTEMATIC DISORDERS: CARDIOVASCULAR, RESPIRATORY AND SKIN",
+        "Description": "Applied anatomy, Physiology, Microbiology, Parasitology and Pharmacology, General causes, diagnostic procedure & nursing care, Physical Examination of clients of conditions related to the cardiovascular & respiratory system. Medicine and Surgery and nursing of common and minor ailments of the cardiovascular, respiratory and skin conditions"
+      },
+      {
+        "Code": "NGN2641",
+        "name": "SYSTEMATIC DISORDERS: GASTRO-INTESTINAL TRACT, SKIN, EAR, NOSE THROAT AND EYE",
+        "Description": "Applied Anatomy, Physiology, Microbiology, Parasitology and Pharmacology. Medicine and Surgery and nursing of common and minor ailments of the gastrointestinal tract, muscles and ear nose and throat.",
+        "prerequisites": [
+            {"Course": "NGN2541"}
+        ]
+      },
+      {
+        "Code": "NGN2542",
+        "name": "SYSTEMATIC DISORDERS: CARDIOVASCULAR, RESPIRATORY AND SKIN (PRACTICA)",
+        "Description": "Demonstration and assessment of skills related to disorders of cardiovascular, respiratory and integumentary systems.",
+        "prerequisites": [
+            {"Course": "NGN2541"}        
+        ]
+      },
+      {
+        "Code": "NCH1541",
+        "name": "COMMUNITY HEALTH AND COMMUNITY ASSESSMENT",
+        "Description": "Community assessment and community profile, Demography, Physical and mental health of all age groups, Women’s health, Men’s health, Gerontology, Reproductive health, safe motherhood and Disability"
+      },
+      {
+        "Code": "NCH1641",
+        "name": "COMMUNITY AND FAMILY HEALTH",
+        "Description": "History of environmental health and occupational health nursing Application of the epidemiological model in occupational health and environmental health Legislation, policies and ethics related to environmental and occupational health",
+        "prerequisites": [
+            {"Course": "NCH1541"}
+        ]
+      },
+      {
+        "Code": "NCH1542",
+        "name": "COMMUNITY DIAGNOSIS (PRACTICA)",
+        "Description": "Community assessment and diagnosis"
+      },
+      {
+        "Code": "NPH2541",
+        "name": "PHARMACOLOGY",
+        "Description": "Introduction to pharmacology, Pharmaco-kinetics, Pharmacodynamics, Legal frame work for the prescribing and dispensing of medicines by nurses. Undesirable effects of drugs and emergency protocols for specific phenomenon. Acquiring, storage, prescribing and issuing of medicines and related substances. Drug interactions, Drug incompatibility."
+      },
+      {
+        "Code": "NGN3541",
+        "name": "URINARY AND REPRODUCTIVE SYSTEMS",
+        "Description": "Applied anatomy, Physiology, Microbiology, Parasitology and Pharmacology. Medicine and Surgery and nursing of common and minor ailments of the urinary and reproductive conditions. Clinical assessments, diagnosis and treatment for urinary and reproductive systems.",
+        "prerequisites": [
+            {"Course": "NGN2641"}
+        ]
+      },
+      {
+        "Code": "NGN3641",
+        "name": "ENDOCRINE, ORTHOPAEDIC AND NERVOUS SYSTEMS",
+        "Description": "Applied anatomy, Physiology, Microbiology, Parasitology and Pharmacology. Medicine and Surgery and nursing of common and minor ailments of the endocrine, orthopaedic and nervous conditions. Clinical assessments, diagnosis and treatment. Clinical assessments, diagnosis and treatment for orthopaedic and nervous systems conditions.",
+        "prerequisites": [
+            {"Course": "NGN3541"}
+        ]
+      },
+      {
+        "Code": "NGN3542",
+        "name": "DISORDERS OF URINARY AND REPRODUCTIVE SYSTEMS (PRACTICA)",
+        "Description": "Demonstration and assessment of skills related to disorders of urinary and reproductive systems",
+        "prerequisites": [
+          {"$and": [{"Course": "NGN3541"}, {"Course": "NGN3641"}]}
+        ]
+      },
+      {
+        "Code": "NGI4541",
+        "name": "INTERGRATED UNIT MANAGEMENT",
+        "Description": "The nursing unit manager as a clinical practitioner, facilitator, researcher and educator"
+      },
+      {
+        "Code": "NGI4542",
+        "name": "INTERGRATED UNIT MANAGEMENT (PRACTICA)",
+        "Description": "Demonstration and assessment of skills related to unit management and research",
+        "prerequisites": [
+          {"$and": [{"Course": "NGN3541"}, {"Course": "NGN3641"}, {"Course": "NGI4541"}]}
+        ]
+      },
+      {
+        "Code": "NND4641",
+        "name": "NURSING DYNAMICS",
+        "Description": "Nature of nursing and moral decision making in nursing"
+      },
+      {
+        "Code": "NCH2541",
+        "name": "PRIMARY HEALTH CARE, COMMUNITY DEVELOPMENT, HEALTH PROMOTION AND HEALTH EDUCATION",
+        "Description": "Determinants of health and basic health indicators. The primary health care approach, district Health System (DHS), multidisciplinary health team. The National Health Plan of South Africa. Health promoting in schools, workplace, clinics and hospitals.",
+        "prerequisites": [
+            {"Course": "NCH1541"}        
+        ]
+      },
+      {
+        "Code": "NCH2741",
+        "name": "CHILD HEALTH ADOLESCENCE HEALTH AND INTEGRATED MANAGEMENT OF CHILDHOOD ILLNESSES (IMCI) PRACTICA",
+        "Description": "Human developmental stages. Child and adolescence nutrition, growth monitoring, immunisations, health needs/problems related to children and adolescences, health and psychosocial services and programmes for children and adolescence, the Integrated Management of Childhood Illnesses (IMCI) programme. National and international legislations and policies related to children and adolescence.",
+        "prerequisites": [
+            {"Course": "NCH2541"}
+        ]
+      },
+      {
+        "Code": "NPD4741",
+        "name": "PROJECT MANAGEMENT",
+        "Description": "Introduction to project definition and specificity, Project costing and budgeting. Project organization Planning and scheduling project activities. Project implementation, monitoring and evaluation. Writing of a project proposal and report."
+      },
+      {
+        "Code": "NAD1541",
+        "name": "Management process of Health services",
+        "Description": "Management in nursing administration, fundamentals of planning, organization, organizational structure and theory, decision-making, supervision and leadership process"
+      },
+      {
+        "Code": "NAD1641",
+        "name": "Management process of health service and human resource management",
+        "Description": "Organisation in health service, financial management, scientific approach in nursing; standards and criteria for quality care, organization in the unit-orientation and in-service, delegation, scheduling of staff, procurement and control, recording and reporting",
+        "prerequisites": [
+            {"Course": "NAD1541"}
+        ]
+      },
+      {
+        "Code": "NAD1241",
+        "name": "Management process of health service and human resource management",
+        "Description": "Organisation in health service, financial management, scientific approach in nursing; standards and criteria for quality care, organization in the unit-orientation and in-service, delegation, scheduling of staff, procurement and control, recording and reporting",
+        "prerequisites": [
+            {"Course": "NAD1541"}
+        ]
+      },
+      {
+        "Code": "NAD1241",
+        "name": "Management process of health service and human resource management",
+        "Description": "Organisation in health service, financial management, scientific approach in nursing; standards and criteria for quality care, organization in the unit-orientation and in-service, delegation, scheduling of staff, procurement and control, recording and reporting",
+        "prerequisites": [
+            {"Course": "NAD1541"}
+        ]
+      },
+      {
+        "Code": "NED1541",
+        "name": "Didactic principles and the learning process and history of nursing education",
+        "Description": "Didactics principles, theories of learning, learning styles, learning strategies, clinical teaching, philosophies, trans-cultural education teaching and learning media, systems of nursing education, factors which led to the development of Nursing in South Africa, legislation that has influence on nursing education, the historical perspective, The impact of Western nursing education on the African peoples, The International organisations that influence Nursing education (UKCC, UN, WHO)"
+      },
+      {
+        "Code": "NED1141",
+        "name": "Didactic principles and the learning process and history of nursing education",
+        "Description": "Didactics principles, theories of learning, learning styles, learning strategies, clinical teaching, philosophies, trans-cultural education teaching and learning media, systems of nursing education, factors which led to the development of Nursing in South Africa, legislation that has influence on nursing education, the historical perspective, The impact of Western nursing education on the African peoples, The International organisations that influence Nursing education (UKCC, UN, WHO)"
+      },
+      {
+        "Code": "NPH2541",
+        "name": "Pharmacology",
+        "Description": "Introduction to pharmacology, pharmacokinetics, pharmacodynamics, legal framework for prescribing and dispensing of medicines by nurses, acquiring and storage, drug interaction and incompatibility, use of drugs in different systems of the body"
+      },
+      {
+        "Code": "NPM2141",
+        "name": "Pharmacology",
+        "Description": "Introduction to pharmacology, pharmacokinetics, pharmacodynamics, legal framework for prescribing and dispensing of medicines by nurses, acquiring and storage, drug interaction and incompatibility, use of drugs in different systems of the body"
+      },
+      {
+        "Code": "NAD1741",
+        "name": "Health services management (20) workbook/practical",
+        "prerequisites": [
+            {"Course": "NAD1641"}
+        ]
+      },
+      {
+        "Code": "NAD1341",
+        "name": "Health services management (20) workbook/practical",
+        "prerequisites": [
+            {"Course": "NAD1641"}
+        ]
+      },
+      {
+        "Code": "NND4641",
+        "name": "Fundamental of Nursing Practice",
+        "Description": "History and development of nursing, introduction to nursing philosophy, professional organization, professionalism, scope of practice, nursing act, acts and omissions, professional ethical implications, professional ethical issues"
+      },
+      {
+        "Code": "NBB2141",
+        "name": "Fundamental of Nursing Practice",
+        "Description": "History and development of nursing, introduction to nursing philosophy, professional organization, professionalism, scope of practice, nursing act, acts and omissions, professional ethical implications, professional ethical issues"
+      },
+      {
+        "Code": "NED1741",
+        "name": "Education technology and clinical teaching and evaluation (20)",
+        "Description": "Practical teaching and learning, learning styles, learning strategies/media, clinical teaching, preceptorship, mentorship",
+        "prerequisites": [
+          {"$and": [{"Course": "NED1541"}, {"Course": "NED1141"}]}
+        ]
+      },
+      {
+        "Code": "NED1341",
+        "name": "Education technology and clinical teaching and evaluation (20)",
+        "Description": "Practical teaching and learning, learning styles, learning strategies/media, clinical teaching, preceptorship, mentorship",
+        "prerequisites": [
+          {"$and": [{"Course": "NED1541"}, {"Course": "NED1141"}]}
+        ]
+      },
+      {
+        "Code": "NED2541/NED2141",
+        "name": "Innovations in nursing education",
+        "Description": "Competency-based curriculum, Outcome-based, Project-based, Community-based education (CBE), Problem-based education (PBL) curriculum, Relevant policies and legislation (SAQA, NQF, SANC), Curriculum development process applied in nursing, The philosophical basis of curriculum development, The outcomes-based curriculum development process, Approaches in curriculum development and innovation, Cultural diversity and the curriculum in the African continent, Curriculum models from the West, how they fit in Africa, Curriculum structure with reference to the nursing curriculum South Africa, The emancipatory curriculum development, Partnerships for nursing education and research, with communities teaching strategies, assessment methods",
+        "prerequisites": [
+          {"$and": [{"Course": "NED1541"}, {"Course": "NED1641"},{"$or":[{"Course": "NED1741"}, {"Course": "NED1141"}]},{"Course": "NED1241"}, {"Course": "NED1341"}]}
+        ]
+      },
+      {
+        "Code": "NED2641",
+        "name": "Curriculum development",
+        "Description": "Curriculum development, Assessment in nursing education, Quality assurance in nursing education, E-learning, Clinical teaching, Contemporary issues in nursing education",
+        "prerequisites": [
+          {"$and": [{"Course": "NED2541"}, {"Course": "NED2141"}]}
+        ]
+      },
+      {
+        "Code": "NED2241",
+        "name": "Curriculum development",
+        "Description": "Curriculum development, Assessment in nursing education, Quality assurance in nursing education, E-learning, Clinical teaching, Contemporary issues in nursing education",
+        "prerequisites": [
+          {"$and": [{"Course": "NED2541"}, {"Course": "NED2141"}]}
+        ]
+      },
+      {
+        "Code": "NRS2541",
+        "name": "Nursing Research",
+        "Description": "Orientation to health science research, research and theory, ethical consideration in research, an overview of the research process, selecting or identifying research problem, literature review, refining and defining a research question or formulating hypothesis, and preparing a research proposal"
+      },
+      {
+        "Code": "NRP2141",
+        "name": "Nursing Research",
+        "Description": "Orientation to health science research, research and theory, ethical consideration in research, an overview of the research process, selecting or identifying research problem, literature review, refining and defining a research question or formulating hypothesis, and preparing a research proposal"
+      },
+      {
+        "Code": "NAD2541",
+        "name": "Labour Relations in Health Service Management",
+        "Description": "Human resource management, personnel assignment, recruitment and selection, staff development, stress and burnout, performance appraisal, Motivational theories, Group dynamics, Management of stress among health professionals, Marketing strategies in a health service, cultural diversity in the workplace, labour relations",
+        "prerequisites": [
+          {"$and": [{"Course": "NAD1541"}, {"Course": "NAD1641"},{"$or":[{"Course": "NAD1741"}, {"Course": "NAD1141"}]},{"Course": "NAD1241"}, {"Course": "NAD1341"}]}
+        ]
+      },
+      {
+        "Code": "NAD2541",
+        "name": "Labour Relations in Health Service Management",
+        "Description": "Human resource management, personnel assignment, recruitment and selection, staff development, stress and burnout, performance appraisal, Motivational theories, Group dynamics, Management of stress among health professionals, Marketing strategies in a health service, cultural diversity in the workplace, labour relations",
+        "prerequisites": [
+          {"$and": [{"Course": "NAD1541"}, {"Course": "NAD1641"},{"$or":[{"Course": "NAD1741"}, {"Course": "NAD1141"}]},{"Course": "NAD1241"}, {"Course": "NAD1341"}]}
+        ]
+      },
+      {
+        "Code": "NAD2741",
+        "name": "Human Resource Management (Practical)",
+        "prerequisites": [
+          {"$and": [{"Course": "NAD2541"}, {"Course": "NAD2141"}]}
+        ]
+      },
+      {
+        "Code": "NRS2641",
+        "name": "Nursing Research",
+        "Description": "Quantitative research, nontraditional and Qualitative research, sampling, data collection, data quality, data analysis, research report, and report evaluation.",
+        "prerequisites": [
+          {"$and": [{"Course": "NRS2541"}, {"Course": "NRP2141"}]}
+        ]
+      },
+      {
+        "Code": "NRP2241",
+        "name": "Nursing Research",
+        "Description": "Quantitative research, nontraditional and Qualitative research, sampling, data collection, data quality, data analysis, research report, and report evaluation.",
+        "prerequisites": [
+          {"$and": [{"Course": "NRS2541"}, {"Course": "NRP2141"}]}
+        ]
+      },
+      {
+        "Code": "NAD3541",
+        "name": "Total Quality Management and International Approaches to the Delivery of Nursing Services",
+        "Description": "Group dynamics and cultural diversities, Quality assurance, Conflict management and negotiation, Team development intervention, Leadership styles and theories, Disaster planning and management, Performance management and appraisal",
+        "prerequisites": [
+          {"$and": [{"Course": "NAD2541"}, {"Course": "NAD2141"}]}
+        ]
+      },
+      {
+        "Code": "NAD3141",
+        "name": "Total Quality Management and International Approaches to the Delivery of Nursing Services",
+        "Description": "Group dynamics and cultural diversities, Quality assurance, Conflict management and negotiation, Team development intervention, Leadership styles and theories, Disaster planning and management, Performance management and appraisal",
+        "prerequisites": [
+          {"$and": [{"Course": "NAD2541"}, {"Course": "NAD2141"}]}
+        ]
+      },
+      {
+        "Code": "NAD3641",
+        "name": "Management and Motivational Theories in Health Services",
+        "Description": "Research issues in nursing, Adam’s equity theory, the four approaches of needs and expectancy of people at work, Mc Gregor’s X and Y theory, developing self-concept, Relationship between Maslow, Aldefer’s and Herzberg, Useful broad 3 fold classifications for motivation at work, Vroom’s expectancy theory of motivation, Strategies to create motivating climate for subordinates, Key qualities of a motivational leader, Four common characteristics underlying definition of motivation",
+        "prerequisites": [
+          {"$and": [{"Course": "NAD3541"}, {"Course": "NAD3141"}]}
+        ]
+      },
+      {
+        "Code": "NED3541/NED3141",
+        "name": "Nursing Theories and Transcultural Nursing",
+        "Description": "Educational planning, Individualized teaching-learning approach; Educational psychology in nursing education; Theories in nursing education; Curriculum planning, development and review; Clinical teaching; Continuing education and specialty in didactics; Development of nursing education; Philosophies of nursing practice and nursing education",
+        "prerequisites": [
+          {"$and": [{"Course": "NED2541"},{"$or":[{"Course": "NED2641"},{"Course": "NED2141"}]}, {"Course": "NED2241"}]}
+        ]
+      },
+      {
+        "Code": "NED3641",
+        "name": "Comparative Study of Nursing Education System in SA, Africa, Europe, Australia and USA",
+        "Description": "National and international nursing education; Commissions of enquiry in nursing education; Global trends and issues in nursing education",
+        "prerequisites": [
+          {"$and": [{"Course": "NED3541"}, {"Course": "NED3141"}]}
+        ]
+      },
+      {
+        "Code": "NED3241",
+        "name": "Comparative Study of Nursing Education System in SA, Africa, Europe, Australia and USA",
+        "Description": "National and international nursing education; Commissions of enquiry in nursing education; Global trends and issues in nursing education",
+        "prerequisites": [
+          {"$and": [{"Course": "NED3541"}, {"Course": "NED3141"}]}
+        ]
+      },
+      {
+        "Code": "NPD4741",
+        "name": "Project Report",
+        "Description": "Introduction to project definition and specificity, Project costing and budgeting, Project organization Planning and scheduling project activities, Project implementation, Monitoring and evaluation of projects, Writing of a project proposal and report."
+      },
+      {
+        "Code": "NPD4341",
+        "name": "Project Report",
+        "Description": "Introduction to project definition and specificity, Project costing and budgeting, Project organization Planning and scheduling project activities, Project implementation, Monitoring and evaluation of projects, Writing of a project proposal and report."
+      },
+      {
+        "Code": "NAD1541",
+        "name": "Management Process of Health Services",
+        "Description": "Management in nursing administration, fundamentals of planning, organization, organizational structure and theory, decision-making, supervision and leadership process"
+      },
+      {
+        "Code": "NAD1141",
+        "name": "Management Process of Health Services",
+        "Description": "Management in nursing administration, fundamentals of planning, organization, organizational structure and theory, decision-making, supervision and leadership process"
+      },
+      {
+        "Code": "NAD1641",
+        "name": "Management Process of Health Service and Human Resource Management",
+        "Description": "Organisation in health service, financial management, scientific approach in nursing; standards and criteria for quality care, organization in the unit-orientation and in-service, delegation, scheduling of staff, procurement and control, recording and reporting",
+        "prerequisites": [
+          {"$or":[{"Course":"NAD1541"},{"Course":"NAD1141"}]}
+        ]
+      },
+      {
+        "Code": "NAD1241",
+        "name": "Management Process of Health Service and Human Resource Management",
+        "Description": "Organisation in health service, financial management, scientific approach in nursing; standards and criteria for quality care, organization in the unit-orientation and in-service, delegation, scheduling of staff, procurement and control, recording and reporting",
+        "prerequisites": [
+          {"$or":[{"Course":"NAD1541"},{"Course":"NAD1141"}]}
+        ]
+      },
+      {
+        "Code": "NAD1741",
+        "name": "Health Service Management Practica",
+        "Description": "Workbook and portfolio of evidence"
+      },
+      {
+        "Code": "NAD1341",
+        "name": "Health Service Management Practica",
+        "Description": "Workbook and portfolio of evidence"
+      },
+      {
+        "Code": "NCH1541",
+        "name": "Community Health and Community Assessment",
+        "Description": "History of community health, Philosophical views on community health, the role of the community health care provider, Approaches to community health and family health, Community assessment and community profile, Demography, Approaches to health care: Indigenous medicine, western medicine and alternative therapy, Physical and mental health of all age groups, Human development and factors affecting it, Women’s health, Men’s health, Gerontology, Reproductive health and safe motherhood, Gender and health, Disability, Family support services, Groups e.g. destitutes, Health and culture, Policies and legislations related to the different age groups within the community"
+      },
+      {
+        "Code": "NCP1141",
+        "name": "Community Health and Community Assessment",
+        "Description": "History of community health, Philosophical views on community health, the role of the community health care provider, Approaches to community health and family health, Community assessment and community profile, Demography, Approaches to health care: Indigenous medicine, western medicine and alternative therapy, Physical and mental health of all age groups, Human development and factors affecting it, Women’s health, Men’s health, Gerontology, Reproductive health and safe motherhood, Gender and health, Disability, Family support services, Groups e.g. destitutes, Health and culture, Policies and legislations related to the different age groups within the community"
+      },
+      {
+        "Code": "NCH1542",
+        "name": "Community Health Workbook (Practical)",
+        "prerequisites": [
+          {"$and": [{"Course": "NCH1541"}, {"Course": "NCP1241"},{"$or":[{"Course":"NCP1141"},{"Course":"NCH1641"}]}]}
+        ]
+      },
+      {
+        "Code": "NCP1342",
+        "name": "Community Health Workbook (Practical)",
+        "prerequisites": [
+          {"$and": [{"Course": "NCH1541"}, {"Course": "NCP1241"},{"$or":[{"Course":"NCP1141"},{"Course":"NCH1641"}]}]}
+        ]
+      },
+      {
+        "Code": "NCH1641",
+        "name": "Environmental Health and Occupational Health",
+        "Description": "History of environmental health and occupational health nursing, Application of the epidemiological model in occupational health and environmental health, Legislation, policies and ethics related to environmental and occupational health, Occupational safety and hygiene, Approaches to environmental health assessment, Environmental safety and hygiene, Occupational health risks in the work setting, Pollution, Environmental hazards in homes, schools and health services, Environmental health education, Environmental and occupational health emergency care and disaster management, Health promotion at work, The role of the community health nurse in environmental health, The role of the occupational health nurse, Advocacy in environmental and occupational health, Legislation and policies related to environmental health",
+        "prerequisites": [
+          {"$and": [{"Course": "NCH1541"},{"Course": "NCP1141"}]}
+        ]
+      },
+      {
+        "Code": "NCP1241",
+        "name": "Environmental Health and Occupational Health",
+        "Description": "History of environmental health and occupational health nursing, Application of the epidemiological model in occupational health and environmental health, Legislation, policies and ethics related to environmental and occupational health, Occupational safety and hygiene, Approaches to environmental health assessment, Environmental safety and hygiene, Occupational health risks in the work setting, Pollution, Environmental hazards in homes, schools and health services, Environmental health education, Environmental and occupational health emergency care and disaster management, Health promotion at work, The role of the community health nurse in environmental health, The role of the occupational health nurse, Advocacy in environmental and occupational health, Legislation and policies related to environmental health",
+        "prerequisites": [
+          {"$and": [{"Course": "NCH1541"},{"Course": "NCP1141"}]}
+        ]
+      },
+      {
+        "Code": "NPH2541",
+        "name": "Pharmacology",
+        "Description": "Introduction to pharmacology, pharmacokinetics, pharmacodynamics, legal framework for prescribing and dispensing of medicines by nurses, acquiring and storage, drug interaction and incompatibility, use of drugs in different systems of the body"
+      },
+      {
+        "Code": "NPM2141",
+        "name": "Pharmacology",
+        "Description": "Introduction to pharmacology, pharmacokinetics, pharmacodynamics, legal framework for prescribing and dispensing of medicines by nurses, acquiring and storage, drug interaction and incompatibility, use of drugs in different systems of the body"
+      },
+      {
+        "Code": "NND4641",
+        "name": "Fundamental of Nursing Practice",
+        "Description": "History and development of nursing, introduction to nursing philosophy, professional organization, professionalism, scope of practice, nursing act, acts and omissions, professional ethical implications, professional ethical issues"
+      },
+      {
+        "Code": "NBB1241",
+        "name": "Fundamental of Nursing Practice",
+        "Description": "History and development of nursing, introduction to nursing philosophy, professional organization, professionalism, scope of practice, nursing act, acts and omissions, professional ethical implications, professional ethical issues"
+      },
+      {
+        "Code": "NCH2541",
+        "name": "Community Health",
+        "Description": "Determinants of health, Basic health indicators, History, theories and philosophical issues in primary health care, health promotion and health education, The primary health care approach, District Health System (DHS), Multidisciplinary health team, The National Health Plan of South Africa, Health promoting schools, Health promotion in the workplace, Health promoting clinics and hospitals, Health advocacy, Legislation and policies related to primary health care and health promotion, Adult learning principles, Facilitation skills, Community development, Reconstruction and development programme, Managing primary care facilities, district health services, health promotion and health education, Adult learning principles and facilitation skills, Problem solving skills, Batho-pele principles, Values clarification",
+        "prerequisites": [
+          {"$and": [{"Course": "NCH1541"}, {"Course": "NCP1241"},{"$or":[{"Course":"NCH1641"},{"Course":"NCP1141"}]}]}
+        ]
+      },
+      {
+        "Code": "NCP2241",
+        "name": "Community Health",
+        "Description": "Determinants of health, Basic health indicators, History, theories and philosophical issues in primary health care, health promotion and health education, The primary health care approach, District Health System (DHS), Multidisciplinary health team, The National Health Plan of South Africa, Health promoting schools, Health promotion in the workplace, Health promoting clinics and hospitals, Health advocacy, Legislation and policies related to primary health care and health promotion, Adult learning principles, Facilitation skills, Community development, Reconstruction and development programme, Managing primary care facilities, district health services, health promotion and health education, Adult learning principles and facilitation skills, Problem solving skills, Batho-pele principles, Values clarification",
+        "prerequisites": [
+          {"$and": [{"Course": "NCH1541"}, {"Course": "NCP1241"},{"$or":[{"Course":"NCH1641"},{"Course":"NCP1141"}]}]}
+        ]
+      },
+      {
+        "Code": "NCH2741/NCP2341",
+        "name": "Child Health, Adolescence Health and Integrated Management of Childhood Illnesses (IMCI)",
+        "Description": "Human developmental stages, the physical, psychosocial development of a child and adolescence, Child and adolescence nutrition, Growth monitoring, Immunizations, Health needs/problems related to children and adolescences, Children and adolescence with special needs, Health and psychosocial services and programs for children and adolescence, The Integrated Management of Childhood Illnesses (IMCI) programme, National and international legislations and policies related to children and adolescence",
+        "prerequisites": [
+          {"$or": [{"Course": "NCH2541"},{"Course": "NCP2141"}]}
+        ]
+      },
+      {
+        "Code": "NRS2541",
+        "name": "Nursing Research",
+        "Description": "Orientation to health science research, research and theory, ethical consideration in research, an overview of research process, selecting or identifying research problem, literature review, refining and defining a research question or formulating hypothesis and preparing a research proposal"
+      },
+      {
+        "Code": "NRP2141",
+        "name": "Nursing Research",
+        "Description": "Orientation to health science research, research and theory, ethical consideration in research, an overview of research process, selecting or identifying research problem, literature review, refining and defining a research question or formulating hypothesis and preparing a research proposal"
+      },
+      {
+        "Code": "NAD2541",
+        "name": "Labour Relations in Health Service Management",
+        "Description": "Human resource management, personnel assignment, recruitment and selection, staff development, stress and burnout, performance appraisal, Motivational theories, Group dynamics, Management of stress among health professionals, Marketing strategies in a health service, cultural diversity in the workplace",
+        "prerequisites": [
+          {"$and": [{"Course": "NAD1541"}, {"Course": "NAD1641"}, {"Course": "NAD1241"}, {"Course": "NAD1341"},{"$or":[{"Course":"NAD1741"},{"Course":"NAD1141"}]}]}
+        ]
+      },
+      {
+        "Code": "NAD2141",
+        "name": "Labour Relations in Health Service Management",
+        "Description": "Human resource management, personnel assignment, recruitment and selection, staff development, stress and burnout, performance appraisal, Motivational theories, Group dynamics, Management of stress among health professionals, Marketing strategies in a health service, cultural diversity in the workplace",
+        "prerequisites": [
+          {"$and": [{"Course": "NAD1541"}, {"Course": "NAD1641"}, {"Course": "NAD1241"}, {"Course": "NAD1341"},{"$or":[{"Course":"NAD1741"},{"Course":"NAD1141"}]}]}
+        ]
+      },
+      {
+        "Code": "NAD2741",
+        "name": "Human Resource Management (Practical)",
+        "prerequisites": [
+          {"$and": [{"Course": "NAD2541"}, {"$or": [{"Course": "NAD1741"}, {"Course": "NAD2141"}]}, {"Course": "NAD1341"}]}
+        ]
+      },
+      {
+        "Code": "NAD2341",
+        "name": "Human Resource Management (Practical)",
+        "prerequisites": [
+          {"$and": [{"Course": "NAD2541"}, {"$or": [{"Course": "NAD1741"}, {"Course": "NAD2141"}]}, {"Course": "NAD1341"}]}
+        ]
+      },
+      {
+        "Code": "NRS2641",
+        "name": "Nursing Research",
+        "Description": "Quantitative research, nontraditional and Qualitative research, sampling, data collection, data quality, data analysis, research report and report evaluation.",
+        "prerequisites": [
+          {"$or": [{"Course": "NRS2541"},{"Course": "NRS2141"}]}
+        ]
+      },
+      {
+        "Code": "NRP2241",
+        "name": "Nursing Research",
+        "Description": "Quantitative research, nontraditional and Qualitative research, sampling, data collection, data quality, data analysis, research report and report evaluation.",
+        "prerequisites": [
+          {"$or": [{"Course": "NRS2541"},{"Course": "NRS2141"}]}
+        ]
+      },
+      {
+        "Code": "NCH3541",
+        "name": "Management of Community Health Services",
+        "Description": "Management process, organizing the health team, Management of resources – time, equipment, drugs, physical, financial and human resources, Strategic planning process, Managing primary health care and district health services, Leadership and the role of the community health nurse, Disaster management Research methodology, Assess educational needs, develop, implement and evaluate educational programs for staff, Quality improvement and assurance",
+        "prerequisites": [
+          {"$and": [{"Course": "NCH2541"},{"$or":[{"Course":"NCH2741"},{"Course":"NCP2141"}]}, {"Course": "NCP2341"}]}
+        ]
+      },
+      {
+        "Code": "NCP3141",
+        "name": "Management of Community Health Services",
+        "Description": "Management process, organizing the health team, Management of resources – time, equipment, drugs, physical, financial and human resources, Strategic planning process, Managing primary health care and district health services, Leadership and the role of the community health nurse, Disaster management Research methodology, Assess educational needs, develop, implement and evaluate educational programs for staff, Quality improvement and assurance",
+        "prerequisites": [
+          {"$and": [{"Course": "NCH2541"},{"$or":[{"Course":"NCH2741"},{"Course":"NCP2141"}]}, {"Course": "NCP2341"}]}
+        ]
+      },
+      {
+        "Code": "NCH3641",
+        "name": "International Community Health Issues",
+        "Description": "Primary health care, Women in development, Women and development, Gender and development Gender and health, HIV/AIDS epidemic, War and disaster, Women’s health, Men’s health, Environmental pollution, Substance abuse, Child poverty, Child labour, Disability, Indigenous knowledge systems",
+        "prerequisites": [
+          {"$or": [{"Course": "NCH3541"},{"Course": "NCP3141"}]}
+        ]
+      },
+      {
+        "Code": "NCP3241",
+        "name": "International Community Health Issues",
+        "Description": "Primary health care, Women in development, Women and development, Gender and development Gender and health, HIV/AIDS epidemic, War and disaster, Women’s health, Men’s health, Environmental pollution, Substance abuse, Child poverty, Child labour, Disability, Indigenous knowledge systems",
+        "prerequisites": [
+          {"$or": [{"Course": "NCH3541"},{"Course": "NCP3141"}]}
+        ]
+      },
+      {
+        "Code": "NAD3541",
+        "name": "Total Quality Management and International Approaches to the Delivery of Nursing Services",
+        "Description": "Group dynamics and cultural diversities, Quality assurance, Conflict management and negotiation, Team development intervention, Leadership styles and theories, Disaster planning and management, Performance management and appraisal",
+        "prerequisites": [
+          {"$and": [{"Course": "NAD2541"},{"Course": "NAD2141"}]}
+        ]
+      },
+      {
+        "Code": "NAD3141",
+        "name": "Total Quality Management and International Approaches to the Delivery of Nursing Services",
+        "Description": "Group dynamics and cultural diversities, Quality assurance, Conflict management and negotiation, Team development intervention, Leadership styles and theories, Disaster planning and management, Performance management and appraisal",
+        "prerequisites": [
+          {"$and": [{"Course": "NAD2541"},{"Course": "NAD2141"}]}
+        ]
+      },
+      {
+        "Code": "NAD3641",
+        "name": "Management and Motivational Theories in Health Services",
+        "Description": "Research issues in nursing, Adam’s equity theory, the four approaches of needs and expectancy of people at work, Mc Gregor’s X and Y theory, developing self-concept, Relationship between Maslow, Aldefer’s and Herzberg, Useful broad 3 fold classifications for motivation at work, Vroom’s expectancy theory of motivation, Strategies to create motivating climate for subordinates, Key qualities of a motivational leader, Four common characteristics underlying definition of motivation",
+        "prerequisites": [
+          {"$or": [{"Course": "NAD3541"}, {"Course": "NAD3141"}]}
+        ]
+      },
+      {
+        "Code": "NAD3241",
+        "name": "Management and Motivational Theories in Health Services",
+        "Description": "Research issues in nursing, Adam’s equity theory, the four approaches of needs and expectancy of people at work, Mc Gregor’s X and Y theory, developing self-concept, Relationship between Maslow, Aldefer’s and Herzberg, Useful broad 3 fold classifications for motivation at work, Vroom’s expectancy theory of motivation, Strategies to create motivating climate for subordinates, Key qualities of a motivational leader, Four common characteristics underlying definition of motivation",
+        "prerequisites": [
+          {"$or": [{"Course": "NAD3541"}, {"Course": "NAD3141"}]}
+        ]
+      },
+      {
+        "Code": "NPD4741",
+        "name": "Project Management",
+        "Description": "Introduction to project definition and specificity, Project costing and budgeting, Project organization Planning and scheduling project activities, Project implementation, Monitoring and evaluation of projects, Writing of a project proposal and report."
+      },
+      {
+        "Code": "NPR3341",
+        "name": "Project Management",
+        "Description": "Introduction to project definition and specificity, Project costing and budgeting, Project organization Planning and scheduling project activities, Project implementation, Monitoring and evaluation of projects, Writing of a project proposal and report."
+      },
+      {
+        "Code": "NED1541/NED1141",
+        "name": "Didactic Principles and the Learning Process and History of Nursing Education",
+        "Description": "Didactics principles, theories of learning, learning styles, learning strategies, clinical teaching, philosophies, trans-cultural education teaching and learning media, systems of nursing education, factors which led to the development of Nursing in South Africa, legislation that has influenced nursing education, the historical perspective, The impact of Western nursing education on the African peoples, The International organisations that influence Nursing education (UKCC, UN, WHO)"
+      },
+      {
+        "Code": "NED1741",
+        "name": "Education Technology and Clinical Teaching and Evaluation (20) Portfolio",
+        "Description": "Practical teaching and learning, learning styles, learning strategies/ media, clinical teaching, preceptorship, mentorship",
+        "prerequisites": [{"$or": [{"Course": "NED1541"},{"Course": "NED1141"}]}]
+      },
+      {
+        "Code": "NED1341",
+        "name": "Education Technology and Clinical Teaching and Evaluation (20) Portfolio",
+        "Description": "Practical teaching and learning, learning styles, learning strategies/ media, clinical teaching, preceptorship, mentorship",
+        "prerequisites": [{"$or": [{"Course": "NED1541"},{"Course": "NED1141"}]}]
+      },
+      {
+        "Code": "NPH2541",
+        "name": "Pharmacology",
+        "Description": "Introduction to pharmacology, pharmacokinetics, pharmacodynamics, legal framework for prescribing and dispensing of medicines by nurses, acquiring and storage, drug interaction and incompatibility, use of drugs in different systems of the body"
+      },
+      {
+        "Code": "NPM2141",
+        "name": "Pharmacology",
+        "Description": "Introduction to pharmacology, pharmacokinetics, pharmacodynamics, legal framework for prescribing and dispensing of medicines by nurses, acquiring and storage, drug interaction and incompatibility, use of drugs in different systems of the body"
+      },
+      {
+        "Code": "NCH1541",
+        "name": "Community Health and Community Assessment",
+        "Description": "History of community health, Philosophical views on community health, the role of the community health care provider, Approaches to community health and family health, Community assessment and community profile, Demography, Approaches to health care: Indigenous medicine, western medicine and alternative therapy, Physical and mental health of all age groups, Human development and factors affecting it, Women’s health, Men’s health, Gerontology, Reproductive health and safe motherhood, Gender and health, Disability, Family support services, Groups e.g. destitute, Health and culture, Policies and legislations related to the different age groups within the community"
+      },
+      {
+        "Code": "NCP1141",
+        "name": "Community Health and Community Assessment",
+        "Description": "History of community health, Philosophical views on community health, the role of the community health care provider, Approaches to community health and family health, Community assessment and community profile, Demography, Approaches to health care: Indigenous medicine, western medicine and alternative therapy, Physical and mental health of all age groups, Human development and factors affecting it, Women’s health, Men’s health, Gerontology, Reproductive health and safe motherhood, Gender and health, Disability, Family support services, Groups e.g. destitute, Health and culture, Policies and legislations related to the different age groups within the community"
+      },
+      {
+        "Code": "NCH1542",
+        "name": "Community Health Workbook (Practical)",
+        "prerequisites": [{"$and": [{"Course": "NCH1541"}, {"Course": "NCH1641"}]}]
+      },
+      {
+        "Code": "NCP1142",
+        "name": "Community Health Workbook (Practical)",
+        "prerequisites": [{"$and": [{"Course": "NCH1541"}, {"Course": "NCH1641"}]}]
+      },
+      {
+        "Code": "NCH1641",
+        "name": "Environmental Health and Occupational Health",
+        "Description": "History of environmental health and occupational health nursing, Application of the epidemiological model in occupational health and environmental health, Legislation, policies and ethics related to environmental and occupational health, Occupational safety and hygiene, Approaches to environmental health assessment, Environmental safety and hygiene, Occupational health risks in the work setting, Pollution, Environmental hazards in homes, schools and health services, Environmental health education, Environmental and occupational health emergency care and disaster management, Health promotion at work, The role of the community health nurse in environmental health, The role of the occupational health nurse, Advocacy in environmental and occupational health, Legislation and policies related to environmental health",
+        "prerequisites": [{"$and": [{"Course": "NCH1541"},{"Course": "NCP1141"}]}]
+      },
+      {
+        "Code": "NCP1241",
+        "name": "Environmental Health and Occupational Health",
+        "Description": "History of environmental health and occupational health nursing, Application of the epidemiological model in occupational health and environmental health, Legislation, policies and ethics related to environmental and occupational health, Occupational safety and hygiene, Approaches to environmental health assessment, Environmental safety and hygiene, Occupational health risks in the work setting, Pollution, Environmental hazards in homes, schools and health services, Environmental health education, Environmental and occupational health emergency care and disaster management, Health promotion at work, The role of the community health nurse in environmental health, The role of the occupational health nurse, Advocacy in environmental and occupational health, Legislation and policies related to environmental health",
+        "prerequisites": [{"$and": [{"Course": "NCH1541"},{"Course": "NCP1141"}]}]
+      },
+      {
+        "Code": "NND4641",
+        "name": "Fundamental of Nursing Practice",
+        "Description": "History and development of nursing, introduction to nursing philosophy, professional organization, professionalism, scope of practice, nursing act, acts and omissions, professional ethical implications, professional ethical issues"
+      },
+      {
+        "Code": "NBB1241",
+        "name": "Fundamental of Nursing Practice",
+        "Description": "History and development of nursing, introduction to nursing philosophy, professional organization, professionalism, scope of practice, nursing act, acts and omissions, professional ethical implications, professional ethical issues"
+      },
+      {
+        "Code": "NED1741",
+        "name": "Education Technology and Clinical Teaching and Evaluation (20) Portfolio",
+        "Description": "Practical teaching and learning, learning styles, learning strategies/ media, clinical teaching, preceptorship, mentorship",
+        "prerequisites": [{"$or": [{"Course": "NED1541"},{"Course": "NED1141"}]}]
+      },
+      {
+        "Code": "NED1341",
+        "name": "Education Technology and Clinical Teaching and Evaluation (20) Portfolio",
+        "Description": "Practical teaching and learning, learning styles, learning strategies/ media, clinical teaching, preceptorship, mentorship",
+        "prerequisites": [{"$or": [{"Course": "NED1541"},{"Course": "NED1141"}]}]
+      },
+      {
+        "Code": "NED2541",
+        "name": "Innovations in Nursing Education",
+        "Description": "Competency-based curriculum, Outcome-based, Project-based, Community-based education (CBE), Problem-based education (PBL) curriculum, Relevant policies and legislation (SAQA, NQF, SANC), Curriculum development process applied in nursing, The philosophical basis of curriculum development, The outcomes-based curriculum development process, Approaches in curriculum development and innovation, Cultural diversity and the curriculum in the African continent, Curriculum models from the West, how they fit in Africa, Curriculum structure with reference to the nursing curriculum South Africa, The emancipatory curriculum development, Partnerships for nursing education and research with communities",
+        "prerequisites": [
+          {"$and": [{"Course": "NED15421"}, {"Course": "NED1641"}, {"Course": "NED1241"}, {"Course": "NED1341"}, {"$or":[{"Course": "NED1741"},{"Course":"NED1141"}]}]}
+        ]
+      },
+      {
+        "Code": "NED2141",
+        "name": "Innovations in Nursing Education",
+        "Description": "Competency-based curriculum, Outcome-based, Project-based, Community-based education (CBE), Problem-based education (PBL) curriculum, Relevant policies and legislation (SAQA, NQF, SANC), Curriculum development process applied in nursing, The philosophical basis of curriculum development, The outcomes-based curriculum development process, Approaches in curriculum development and innovation, Cultural diversity and the curriculum in the African continent, Curriculum models from the West, how they fit in Africa, Curriculum structure with reference to the nursing curriculum South Africa, The emancipatory curriculum development, Partnerships for nursing education and research with communities",
+        "prerequisites": [
+          {"$and": [{"Course": "NED15421"}, {"Course": "NED1641"}, {"Course": "NED1241"}, {"Course": "NED1341"}, {"$or":[{"Course": "NED1741"},{"Course":"NED1141"}]}]}
+        ]
+      },
+      {
+        "Code": "NED2641",
+        "name": "Curriculum Development",
+        "prerequisites": [{"$or": [{"Course": "NED2541"}, {"Course": "NED2141"}]}]
+      },
+      {
+        "Code": "NED2241",
+        "name": "Curriculum Development",
+        "prerequisites": [{"$or": [{"Course": "NED2541"}, {"Course": "NED2141"}]}]
+      },
+      {
+        "Code": "NRS2541",
+        "name": "Nursing Research",
+        "Description": "Orientation to health science research, research and theory, ethical consideration in research, an overview of the research process, selecting or identifying research problem, literature review, refining and defining a research question or formulating hypothesis and preparing a research proposal"
+      },
+      {
+        "Code": "NRP2241",
+        "name": "Nursing Research",
+        "Description": "Orientation to health science research, research and theory, ethical consideration in research, an overview of the research process, selecting or identifying research problem, literature review, refining and defining a research question or formulating hypothesis and preparing a research proposal"
+      },
+      {
+        "Code": "NCH2541",
+        "name": "Community Health",
+        "Description": "Determinants of health, Basic health indicators, History, theories and philosophical issues in primary health care, health promotion and health education, The primary health care approach, District Health System (DHS), Multidisciplinary health team, The National Health Plan of South Africa, Health promoting schools, Health promotion in the workplace, Health promoting clinics and hospitals, Health advocacy, Legislation and policies related to primary health care and health promotion, Adult learning principles, Facilitation skills, Community development, Reconstruction and development programme, Managing primary care facilities, district health services, health promotion and health education, Adult learning principles and facilitation skills, Problem-solving skills, Batho-pele principles, Values clarification",
+        "prerequisites": [{"$and": [{"Course": "NCH1541"}, {"Course": "NCP1141"},{"$or":[{"Course": "NCH1641"},{"Course": "NCP1141"}]}]}]
+      },
+      {
+        "Code": "NCP21141",
+        "name": "Community Health",
+        "Description": "Determinants of health, Basic health indicators, History, theories and philosophical issues in primary health care, health promotion and health education, The primary health care approach, District Health System (DHS), Multidisciplinary health team, The National Health Plan of South Africa, Health promoting schools, Health promotion in the workplace, Health promoting clinics and hospitals, Health advocacy, Legislation and policies related to primary health care and health promotion, Adult learning principles, Facilitation skills, Community development, Reconstruction and development programme, Managing primary care facilities, district health services, health promotion and health education, Adult learning principles and facilitation skills, Problem-solving skills, Batho-pele principles, Values clarification",
+        "prerequisites": [{"$and": [{"Course": "NCH1541"}, {"Course": "NCP1141"},{"$or":[{"Course": "NCH1641"},{"Course": "NCP1141"}]}]}]
+      },
+      {
+        "Code": "NCH2741",
+        "name": "Child Health, Adolescence Health and Integrated Management of Childhood Illnesses (IMCI)",
+        "Description": "Human developmental stages, the physical, psychosocial development of a child and adolescence, Child and adolescence nutrition, Growth monitoring, Immunizations, Health needs/problems related to children and adolescences, Children and adolescence with special needs, Health and psychosocial services and programs for children and adolescence, The Integrated Management of Childhood Illnesses (IMCI) programme, National and international legislations and policies related to children and adolescence",
+        "prerequisites": [{"$or": [{"Course": "NCH2541"}, {"Course": "NCP2141"}]}]
+      },
+      {
+        "Code": "NCP2341",
+        "name": "Child Health, Adolescence Health and Integrated Management of Childhood Illnesses (IMCI)",
+        "Description": "Human developmental stages, the physical, psychosocial development of a child and adolescence, Child and adolescence nutrition, Growth monitoring, Immunizations, Health needs/problems related to children and adolescences, Children and adolescence with special needs, Health and psychosocial services and programs for children and adolescence, The Integrated Management of Childhood Illnesses (IMCI) programme, National and international legislations and policies related to children and adolescence",
+        "prerequisites": [{"$or": [{"Course": "NCH2541"}, {"Course": "NCP2141"}]}]
+      },
+      {
+        "Code": "NRS2641",
+        "name": "Nursing Research",
+        "Description": "Quantitative research, nontraditional and Qualitative research, sampling, data collection, data quality, data analysis, research report and report evaluation.",
+        "prerequisites": [{"$or": [{"Course": "NRS2541"},{"Course": "NRP2141"}]}]
+      },
+      {
+        "Code": "NRP2241",
+        "name": "Nursing Research",
+        "Description": "Quantitative research, nontraditional and Qualitative research, sampling, data collection, data quality, data analysis, research report and report evaluation.",
+        "prerequisites": [{"$or": [{"Course": "NRS2541"},{"Course": "NRP2141"}]}]
+      },
+      {
+        "Code": "NED3541",
+        "name": "Nursing Theories and Transcultural Nursing",
+        "Description": "Educational planning, Individualized teaching-learning approach; Educational psychology in nursing education; Theories in nursing education; Curriculum planning, development, and review; Clinical teaching; Continuing education and specialty in didactics; Development of nursing education; Philosophies of nursing practice and nursing education",
+        "prerequisites": [
+          {"$and": [{"Course": "NED2541"}, {"Course": "NED2241"},{"$or":[{"Course": "NED2641"},{"Course":"NED2141"}]}]}
+        ]
+      },
+      {
+        "Code": "NED3141",
+        "name": "Nursing Theories and Transcultural Nursing",
+        "Description": "Educational planning, Individualized teaching-learning approach; Educational psychology in nursing education; Theories in nursing education; Curriculum planning, development, and review; Clinical teaching; Continuing education and specialty in didactics; Development of nursing education; Philosophies of nursing practice and nursing education",
+        "prerequisites": [
+          {"$and": [{"Course": "NED2541"}, {"Course": "NED2241"},{"$or":[{"Course": "NED2641"},{"Course":"NED2141"}]}]}
+        ]
+      },
+      {
+        "Code": "NED3641",
+        "name": "Comparative Study of Nursing Education Systems",
+        "Description": "National and international nursing education; Commissions of enquiry in nursing education; Global trends and issues in nursing education",
+        "prerequisites": [{"$or": [{"Course": "NED3541"},{"Course": "NED3141"}]}]
+      },
+      {
+        "Code": "NED3241",
+        "name": "Comparative Study of Nursing Education Systems",
+        "Description": "National and international nursing education; Commissions of enquiry in nursing education; Global trends and issues in nursing education",
+        "prerequisites": [{"$or": [{"Course": "NED3541"},{"Course": "NED3141"}]}]
+      },
+      {
+        "Code": "NCH3541",
+        "name": "Management of Community Health Services",
+        "Description": "Management process, organizing the health team, Management of resources – time, equipment, drugs, physical, financial and human resources, Strategic planning process, Managing primary health care and district health services, Leadership and the role of the community health nurse, Disaster management Research methodology, Assess educational needs, develop, implement and evaluate educational programs for staff, Quality improvement and assurance",
+        "prerequisites": [
+          {"$and": [{"Course": "NCH2541"}, {"Course": "NCP2341"},{"$or":[{"Course": "NCH2741"},{"Course": "NCP2141"}]}]}
+        ]
+      },
+      {
+        "Code": "NCP3141",
+        "name": "Management of Community Health Services",
+        "Description": "Management process, organizing the health team, Management of resources – time, equipment, drugs, physical, financial and human resources, Strategic planning process, Managing primary health care and district health services, Leadership and the role of the community health nurse, Disaster management Research methodology, Assess educational needs, develop, implement and evaluate educational programs for staff, Quality improvement and assurance",
+        "prerequisites": [
+          {"$and": [{"Course": "NCH2541"}, {"Course": "NCP2341"},{"$or":[{"Course": "NCH2741"},{"Course": "NCP2141"}]}]}
+        ]
+      },
+      {
+        "Code": "NCH3641",
+        "name": "International Community Health Issues",
+        "Description": "Primary health care, Women in development, Women and development, Gender and development Gender and health, HIV/AIDS epidemic, War and disaster, Women’s health, Men’s health, Environmental pollution, Substance abuse, Child poverty, Child labour, Disability, Indigenous knowledge systems",
+        "prerequisites": [{"Course": "NCH3541"}]
+      },
+      {
+        "Code": "NCP3241",
+        "name": "International Community Health Issues",
+        "Description": "Primary health care, Women in development, Women and development, Gender and development Gender and health, HIV/AIDS epidemic, War and disaster, Women’s health, Men’s health, Environmental pollution, Substance abuse, Child poverty, Child labour, Disability, Indigenous knowledge systems",
+        "prerequisites": [{"Course": "NCH3541"}]
+      },
+      {
+        "Code": "NPD4741",
+        "name": "Project Management",
+        "Description": "Introduction to project definition and specificity, Project costing and budgeting, Project organization Planning and scheduling project activities, Project implementation, Monitoring and evaluation of projects, Writing of a project proposal and report"
+      },
+      {
+        "Code": "NPR3341",
+        "name": "Project Management",
+        "Description": "Introduction to project definition and specificity, Project costing and budgeting, Project organization Planning and scheduling project activities, Project implementation, Monitoring and evaluation of projects, Writing of a project proposal and report"
+      },
+      {
+        "Code": "NGI1841",
+        "name": "Orientation to PBL, Life Skills, and Professional Practice",
+        "Description": "Orientation to PBL, Ethos of nursing, basic nursing, basic life skill, and legal framework."
+      },
+      {
+        "Code": "NSC1842",
+        "name": "Community Health, Assessment, and Family Health",
+        "Description": "History, environmental hygiene, prevention, promotion, and control of communicable diseases"
+      },
+      {
+        "Code": "NGF1843",
+        "name": "Biological Sciences",
+        "Description": "Human anatomy and physiology, microbiology, biophysics, and biochemistry"
+      },
+      {
+        "Code": "NGI1844",
+        "name": "Introduction to Scientific Approach to Nursing",
+        "Description": "Basic nursing, first aid, scientific approach in dealing with the total person, identification of basic needs, nutrition and hydration, safety and security, nursing in disastrous situations."
+      },
+      {
+        "Code": "NGI1845",
+        "name": "Integration of Clinical Nursing Skills",
+        "Description": "Patient assessment elimination need, homeostasis need, skin integrity need, hygiene and grooming need, mobility and exercise"
+      },
+      {
+        "Code": "NPS1846",
+        "name": "Social Sciences (Human Development)",
+        "Description": "Introduction to psychology, developmental psychology, life span perspective, social psychology, sexuality, community psychology, health psychology"
+      },
+      {
+        "Code": "ECS1541",
+        "name": "English Communication",
+        "Description": "Language proficiency, communication writing skills"
+      },
+      {
+        "Code": "ECS1646",
+        "name": "English Communication: Environmental",
+        "Description": "Specific art of writing and communication in health sciences"
+      },
+      {
+      "Code": "NGI2841",
+      "name": "Integrated Specialized Nursing Skills",
+      "Description": "Specific skills related to body systems: cardiovascular, respiratory, integumentary, and gastrointestinal, ear, nose throat and eyes",
+      "prerequisites": [{"$and": [{"Course": "NGI1841"}, {"Course": "NGI1844"}]}]
+    },
+    {
+      "Code": "NPN2842",
+      "name": "Psychiatric Nursing Science",
+      "Description": "History taking, communication skills, crisis intervention skills, group therapy skills, interviewing skills, counseling skills, mental status examination, and mental health act."
+    },
+    {
+      "Code": "NPH2843",
+      "name": "Pharmacology",
+      "Description": "Introduction to pharmacology, pharmacokinetics, pharmacodynamics, legal framework for prescribing and dispensing of medicines by nurses, acquiring and storage, drug interaction and incompatibility, use of drugs in different systems of the body",
+      "prerequisites": [{"$and": [{"Course": "NGI1844"}, {"Course": "NGI1844"}]}]
+    },
+    {
+      "Code": "NGI2844",
+      "name": "Integrated Nursing Science (Clinical)",
+      "Description": "Planning and execution of care plans for all systems",
+      "prerequisites": [{"$and": [{"Course": "NGI1844"}, {"Course": "NGI1844"}]}]
+    },
+    {
+      "Code": "NCS2845",
+      "name": "Primary Health Care, Community Development, Health",
+      "Description": "Primary health care promotive, preventive and rehabilitative health care. Geriatrics and occupational, community development and participation",
+      "prerequisites": [{"Course": "NSC1842"}]
+    },
+    {
+      "Code": "NOC2846",
+      "name": "Social Sciences (Sociology of Health and Illness)",
+      "Description": "Medical sociology, sociological models of health, diseases and health care, social structures (family, group and community), social demography of health and disease, illness behavior as a sociocultural phenomenon, social epidemiology, health care providers and institutions"
+    },
+    {
+      "Code": "NMW3841",
+      "name": "Midwifery Skills",
+      "Description": "Assessment of a low-risk pregnant woman, antenatal care, intra-partum, post-partum and neonatal care, mother craft, scope of practice R2598, R2488",
+      "prerequisites": [{"$and": [{"Course": "NGI2841"}, {"Course": "NGI2844"}, {"Course": "NCS2845"}, {"Course": "NOC2846"}]}]
+    },
+    {
+      "Code": "NMW3842",
+      "name": "Science Midwifery",
+      "Description": "Management of low-risk pregnant women, intra-partum, post-partum and neonates as well as breastfeeding",
+      "prerequisites": [{"Course": "NMW3841"}]
+    },
+    {
+      "Code": "NPN3843",
+      "name": "Psychiatric Nursing Science",
+      "Description": "Therapeutic communication skills, anxiety disorders, somatoform disorders, dissociative disturbances, substance-related disorders, mental health, sexual dysfunctions, milieu therapy, personality disorders, group therapy",
+      "prerequisites": [{"$and": [{"Course": "NPN2842"}, {"Course": "NGI2841"}]}]
+    },
+    {
+      "Code": "NGI3844",
+      "name": "Integrated Nursing Science (Clinical Assessment Diagnosis and Treatment)",
+      "Description": "Assess, diagnose and manage disorders on the urinary, endocrine, nervous, musculoskeletal, reproductive systems and oncology",
+      "prerequisites": [{"Course": "NGI2844"}]
+    },
+    {
+      "Code": "NGI3845",
+      "name": "Integrated Specialized Nursing Skills",
+      "Description": "Advanced Planning and execution of care plans for all systems, urinary, endocrine, nervous, musculoskeletal, reproductive systems and oncology",
+      "prerequisites": [{"$and": [{"Course": "NGI2844"}, {"Course": "NGI3844"}]}]
+    },
+    {
+      "Code": "NRS3846",
+      "name": "Introduction to Nursing Research",
+      "Description": "Orientation to health science research, research and theory, ethical consideration, overview of the research process, selecting or identifying researchable problems, literature review, refining and defining a research question or formulating a hypothesis and preparing research proposal"
+    },
+    {
+      "Code": "NGI4841",
+      "name": "Integrated Management Skills",
+      "Description": "Clinical practice, nursing from a modern perspective, value of a model for practice, nursing process as a process modality, assessment and diagnosis, planning of nursing interventions, implementing the nursing care plans, evaluation, facilitator of clinical learning, unit management",
+      "prerequisites": [{"$and": [{"Course": "NGI3844"}, {"Course": "NGI3845"}]}]
+    },
+    {
+      "Code": "NGI4842",
+      "name": "Integrated Nursing Management Science",
+      "Description": "Unit management, facilitator of clinical learning, clinical practitioner",
+      "prerequisites": [{"$and": [{"Course": "NGI3844"}, {"Course": "NGI3845"}, {"Course": "NGI4841"}]}]
+    },
+    {
+      "Code": "NMW4843",
+      "name": "Science Midwifery",
+      "Description": "Diagnose and manage low and high-risk pregnancy, labor, puerperium and neonates and mother craft",
+      "prerequisites": [{"$and": [{"Course": "NMW3841"}, {"Course": "NMW3842"}]}]
+    },
+    {
+      "Code": "NMW4844",
+      "name": "Special Midwifery Skills",
+      "Description": "Assessment of low and high-risk pregnancy, labor, puerperium and neonates and mother craft",
+      "prerequisites": [{"$and": [{"Course": "NMW3841"}, {"Course": "NMW3842"}]}]
+    },
+    {
+      "Code": "NND4845",
+      "name": "Ethics and Ethos of Professional Practice",
+      "Description": "Professional practice and code of conduct, moral decision making, bill of human right ethical theories and principles in health care, ethical decision making processes, legal and ethical responsibilities"
+    },
+    {
+      "Code": "NRS4846",
+      "name": "Research Project",
+      "Description": "Implement the research process, evaluate research results, and communicate findings",
+      "prerequisites": [{"Course": "NRS3846"}]
+    },
+    {
+      "Code": "RNT1841",
+      "name": "Orientation to the Nutritionist Profession and Study Skills",
+      "Description": "Introduce students to university community; different types of memories and how they work; principles of problem-based learning; the seven jump steps and problem solving; the role of the tutor in a tutorial session; giving feedback and reflection; learning styles; leading group discussion; learning and study skills; assessment methods; evaluation of learning; understand different nutrition professions and their roles in public health; code of conduct of a nutritionist; role of nutrition in general health;"
+    },
+    {
+      "Code": "RNT1441",
+      "name": "Orientation to the Nutritionist Profession and Study Skills",
+      "Description": "Introduce students to university community; different types of memories and how they work; principles of problem-based learning; the seven jump steps and problem solving; the role of the tutor in a tutorial session; giving feedback and reflection; learning styles; leading group discussion; learning and study skills; assessment methods; evaluation of learning; understand different nutrition professions and their roles in public health; code of conduct of a nutritionist; role of nutrition in general health;"
+    },
+    {
+      "Code": "RFD1842",
+      "name": "Food Chemistry",
+      "Description": "Chemical composition of foods including those of indigenous origin; structure and bonding; food chemical reaction; hydrogenation and oxidation reactions; Non-nutrients (phytochemical); nutritive value and utilization of wild vegetables"
+    },
+    {
+      "Code": "RFD1442",
+      "name": "Food Chemistry",
+      "Description": "Chemical composition of foods including those of indigenous origin; structure and bonding; food chemical reaction; hydrogenation and oxidation reactions; Non-nutrients (phytochemical); nutritive value and utilization of wild vegetables"
+    },
+    {
+      "Code": "RNT1843",
+      "name": "Nutritional Physiology",
+      "Description": "Anatomy and physiology of the digestive tract; digestion of macronutrients and micronutrients; chewing, salivary secretion and swallowing; the processing of motility and secretion in the stomach; the process of secretion in the biliary system; the process motility, secretion and absorption in the small intestine; process of absorption, secretion and motility in the large intestine"
+    },
+    {
+      "Code": "RNT1443",
+      "name": "Nutritional Physiology",
+      "Description": "Anatomy and physiology of the digestive tract; digestion of macronutrients and micronutrients; chewing, salivary secretion and swallowing; the processing of motility and secretion in the stomach; the process of secretion in the biliary system; the process motility, secretion and absorption in the small intestine; process of absorption, secretion and motility in the large intestine"
+    },
+    {
+      "Code": "RCN1844",
+      "name": "Nutrition Communication, Promotion and Advocacy",
+      "Description": "Communication skills; Principles of nutrition education, advocacy and health promotion techniques; theory and practice of adult learning, communication approach, negotiate, motivation, advocacy; principles of nutrition education and training; communication strategies; introduction to scientific writing"
+    },
+    {
+      "Code": "RCN1444",
+      "name": "Nutrition Communication, Promotion and Advocacy",
+      "Description": "Communication skills; Principles of nutrition education, advocacy and health promotion techniques; theory and practice of adult learning, communication approach, negotiate, motivation, advocacy; principles of nutrition education and training; communication strategies; introduction to scientific writing"
+    },
+    {
+      "Code": "RNT2841",
+      "name": "Nutrition in Growth and Development",
+      "Description": "Nutrition during pregnancy and lactation; nutrition during infancy; nutrition in childhood; nutrition in adolescence; nutrition in the adult years; nutrition in gaining; nutrient requirements and recommendation",
+      "prerequisites": [{"$and": [{"Course": "RNT1843"},{"Course": "RNT1443"}]}]
+    },
+    {
+      "Code": "RNT2441",
+      "name": "Nutrition in Growth and Development",
+      "Description": "Nutrition during pregnancy and lactation; nutrition during infancy; nutrition in childhood; nutrition in adolescence; nutrition in the adult years; nutrition in gaining; nutrient requirements and recommendation",
+      "prerequisites": [{"$and": [{"Course": "RNT1843"},{"Course": "RNT1443"}]}]
+    },
+    {
+      "Code": "RNT2842",
+      "name": "Nutritional Assessment and Care Process",
+      "Description": "Nutritional genomics; anthropometric assessment; dietary and clinical assessment; laboratory or biochemical assessment food-drug interactions; nutrition diagnosis and intervention; dietary supplementation; counselling theory and technique"
+    },
+    {
+      "Code": "RNT2442",
+      "name": "Nutritional Assessment and Care Process",
+      "Description": "Nutritional genomics; anthropometric assessment; dietary and clinical assessment; laboratory or biochemical assessment food-drug interactions; nutrition diagnosis and intervention; dietary supplementation; counselling theory and technique"
+    },
+    {
+      "Code": "RCN2843",
+      "name": "Principles of Community Nutrition",
+      "Description": "Introduction to community nutrition; conceptual framework for nutrition; ecology of food and nutrition; principles of primary health care; relationship between food, nutrition and agriculture; understanding current nutrition situation in South Africa; needs assessment and community care; food paths; cultural eating habits; bio-cultural perspective on food and nutrition; social changes, social class and food habits; variation in contemporary food habits; pertinent aspects if common law and decision making on food habits and systems; knowledge of human rights, historical origin and cross-cultural applicability in food systems.",
+      "prerequisites": [{"$and": [{"Course": "RCN1844"},{"Course": "RCN1444"}]}]
+    },
+    {
+      "Code": "RCN2443",
+      "name": "Principles of Community Nutrition",
+      "Description": "Introduction to community nutrition; conceptual framework for nutrition; ecology of food and nutrition; principles of primary health care; relationship between food, nutrition and agriculture; understanding current nutrition situation in South Africa; needs assessment and community care; food paths; cultural eating habits; bio-cultural perspective on food and nutrition; social changes, social class and food habits; variation in contemporary food habits; pertinent aspects if common law and decision making on food habits and systems; knowledge of human rights, historical origin and cross-cultural applicability in food systems.",
+      "prerequisites": [{"$and": [{"Course": "RCN1844"},{"Course": "RCN1444"}]}]
+    },
+    {
+      "Code": "RFD2844",
+      "name": "Introductory Foods",
+      "Description": "Basic food groups, food-based dietary guidelines; cooking methods and food preparation; equipment; effect of cooking on colour, flavor, texture, appearance; preparation for serving, portion size; preparation of emulsions, milk, meat, poultry, fish, starch, cereals, sugar, desserts, gelatin, beverages",
+      "prerequisites": [{"$and": [{"Course": "RFD1842"},{"Course": "RFD1442"}]}]
+    },
+    {
+      "Code": "RFD2444",
+      "name": "Introductory Foods",
+      "Description": "Basic food groups, food-based dietary guidelines; cooking methods and food preparation; equipment; effect of cooking on colour, flavor, texture, appearance; preparation for serving, portion size; preparation of emulsions, milk, meat, poultry, fish, starch, cereals, sugar, desserts, gelatin, beverages",
+      "prerequisites": [{"$and": [{"Course": "RFD1842"},{"Course": "RFD1442"}]}]
+    },
+    {
+      "Code": "RFD2845",
+      "name": "Food Biotechnology, Safety and Policy Development",
+      "Description": "South African food and nutrition legislation governing the delivery of nutritional services, production, processing and marketing of all foods as well as relevant International policies; International covenants; food biotechnology; food control and safety; ethics, food supply and safety"
+    },
+    {
+      "Code": "RFD2445",
+      "name": "Food Biotechnology, Safety and Policy Development",
+      "Description": "South African food and nutrition legislation governing the delivery of nutritional services, production, processing and marketing of all foods as well as relevant International policies; International covenants; food biotechnology; food control and safety; ethics, food supply and safety"
+    },
+    {
+      "Code": "RNI2846",
+      "name": "Integrated Internship (to integrate all second-level modules)",
+      "Description": "Integrate all theories learned in different modules and apply them simultaneously in a holistic approach when solving health and nutrition problems of communities."
+    },
+    {
+      "Code": "RNI2446",
+      "name": "Integrated Internship (to integrate all second-level modules)",
+      "Description": "Integrate all theories learned in different modules and apply them simultaneously in a holistic approach when solving health and nutrition problems of communities."
+    },
+    {
+      "Code": "RNT3841",
+      "name": "Nutrition and Disease Prevention",
+      "Description": "Interventions and health risk indicators in the community and/or public will be covered as follows: chronic diseases of lifestyle (understand pathophysiology, prevention and management of nutrition-related diseases); malnutrition; oral health; micronutrients deficiencies; debilitating diseases (HIV & AIDS and Respiratory diseases (TB & pneumonia); diarrhea (types of diarrhea, causes diarrhea, treatment of diarrhea)",
+      "prerequisites": [{"$and": [{"Course": "RNT2841"},{"Course": "RNT2441"}]}]
+    },
+    {
+      "Code": "RNT3441",
+      "name": "Nutrition and Disease Prevention",
+      "Description": "Interventions and health risk indicators in the community and/or public will be covered as follows: chronic diseases of lifestyle (understand pathophysiology, prevention and management of nutrition-related diseases); malnutrition; oral health; micronutrients deficiencies; debilitating diseases (HIV & AIDS and Respiratory diseases (TB & pneumonia); diarrhea (types of diarrhea, causes diarrhea, treatment of diarrhea)",
+      "prerequisites": [{"$and": [{"Course": "RNT2841"},{"Course": "RNT2441"}]}]
+    },
+    {
+      "Code": "RCN3842",
+      "name": "Nutritional Programming",
+      "Description": "Nutritional management; programme/project planning; nutrition intervention strategies in South Africa and other countries - Integrated nutrition programme; maternal and child health services (integrated management of childhood illness, prevention of mother to child transmission of HIV, growth monitoring and promotion, immunization, breastfeeding promotion (MBFI & code of marketing breastmilk substitutes), infant feeding, de-worming programme); micronutrients and malnutrition control (micronutrients and food supplementation, food fortification programme); chronic diseases of lifestyle prevention strategies (nutrition promotion)",
+      "prerequisites": [{"$and": [{"Course": "RCN2843"},{"Course": "RCN2443"}]}]
+    },
+    {
+      "Code": "RCN3442",
+      "name": "Nutritional Programming",
+      "Description": "Nutritional management; programme/project planning; nutrition intervention strategies in South Africa and other countries - Integrated nutrition programme; maternal and child health services (integrated management of childhood illness, prevention of mother to child transmission of HIV, growth monitoring and promotion, immunization, breastfeeding promotion (MBFI & code of marketing breastmilk substitutes), infant feeding, de-worming programme); micronutrients and malnutrition control (micronutrients and food supplementation, food fortification programme); chronic diseases of lifestyle prevention strategies (nutrition promotion)",
+      "prerequisites": [{"$and": [{"Course": "RCN2843"},{"Course": "RCN2443"}]}]
+    },
+    {
+      "Code": "RRM3843",
+      "name": "Nutritional Epidemiology, Applied Research Methods and Ethics",
+      "Description": "Understand concepts of nutritional epidemiology; objectives of nutritional epidemiology; types of epidemiology studies; biostatistics and measurements of disease profile in the communities; nutrition surveillance; importance of conducting research; understand various research methodologies; understand principles of scientific writing; design a research project using appropriate study design; role of demography in health and nutrition; Understanding of ethics in health research."
+    },
+    {
+      "Code": "RRM3443",
+      "name": "Nutritional Epidemiology, Applied Research Methods and Ethics",
+      "Description": "Understand concepts of nutritional epidemiology; objectives of nutritional epidemiology; types of epidemiology studies; biostatistics and measurements of disease profile in the communities; nutrition surveillance; importance of conducting research; understand various research methodologies; understand principles of scientific writing; design a research project using appropriate study design; role of demography in health and nutrition; Understanding of ethics in health research."
+    },
+    {
+      "Code": "RPH3844",
+      "name": "Public Health Nutrition",
+      "Description": "Nutrition, economy and international institutions; Role of nutrition in community/public development; socio-economic factors and food deprivation; measures of maintain food security; human rights and the right to adequate food; understanding hunger and poverty; nutrition and transition; women and nutrition; nutrition and HIV/AIDS; nutrition in emergencies; nutrition and the environment; nutrition and population; white paper for health transformation of SA"
+    },
+    {
+      "Code": "RPH3444",
+      "name": "Public Health Nutrition",
+      "Description": "Nutrition, economy and international institutions; Role of nutrition in community/public development; socio-economic factors and food deprivation; measures of maintain food security; human rights and the right to adequate food; understanding hunger and poverty; nutrition and transition; women and nutrition; nutrition and HIV/AIDS; nutrition in emergencies; nutrition and the environment; nutrition and population; white paper for health transformation of SA"
+    },
+    {
+      "Code": "RFD3846",
+      "name": "Food Service Management",
+      "Description": "Food service management, food service systems, cost control, food hygiene and safety; kitchen planning, design, layout and equipment; organization linking process, human resource management, promotion and selling; recipe standardization, menu planning, food purchasing; food storage, food production, meal serving; work schedules; fast foods and take away.",
+      "prerequisites": [{"$and": [{"Course": "RFD2844"},{"Course": "RFD2444"}]}]
+    },
+    {
+      "Code": "RFD3846",
+      "name": "Food Service Management",
+      "Description": "Food service management, food service systems, cost control, food hygiene and safety; kitchen planning, design, layout and equipment; organization linking process, human resource management, promotion and selling; recipe standardization, menu planning, food purchasing; food storage, food production, meal serving; work schedules; fast foods and take away.",
+      "prerequisites": [{"$and": [{"Course": "RFD2844"},{"Course": "RFD2444"}]}]
+    },
+    {
+      "Code": "RNI3845",
+      "name": "Integrated Internship",
+      "Description": "Integrate all theories learned in different modules in the third level of study and apply them simultaneously in a holistic approach when solving health and nutrition problems of communities."
+    },
+    {
+      "Code": "RNI3445",
+      "name": "Integrated Internship",
+      "Description": "Integrate all theories learned in different modules in the third level of study and apply them simultaneously in a holistic approach when solving health and nutrition problems of communities."
+    },
+    {
+      "Code": "RRN4842",
+      "name": "Research Project in Human Nutrition",
+      "Description": "Collect data related to the research proposal developed in the third level; analyze and interpret data using appropriate tools; write the research report or min-dissertation following appropriate format.",
+      "prerequisites": [{"$and": [{"Course": "RRM3843"},{"Course": "RRM3443"}]}]
+    },
+    {
+      "Code": "RRN4442",
+      "name": "Research Project in Human Nutrition",
+      "Description": "Collect data related to the research proposal developed in the third level; analyze and interpret data using appropriate tools; write the research report or min-dissertation following appropriate format.",
+      "prerequisites": [{"$and": [{"Course": "RRM3843"},{"Course": "RRM3443"}]}]
+    },
+    {
+      "Code": "RNI4881",
+      "name": "Integrated Internship - Nutrition Management",
+      "Description": "The student will work in the food service unit applying principles of food management, planning and leading under supervision. The student will be placed in the food service unit for a period of eight weeks."
+    },
+    {
+      "Code": "RNI4481",
+      "name": "Integrated Internship - Nutrition Management",
+      "Description": "The student will work in the food service unit applying principles of food management, planning and leading under supervision. The student will be placed in the food service unit for a period of eight weeks."
+    },
+    {
+      "Code": "RNI4882",
+      "name": "Integrated Internship - Public Health Nutrition",
+      "Description": "Student will be responsible for the promotion of nutritional health and prevention of nutrition-related disorders/ill health of groups, communities or population via sustainable and equitable improvements in the food and nutrition system."
+    },
+    {
+      "Code": "RNI4482",
+      "name": "Integrated Internship - Public Health Nutrition",
+      "Description": "Student will be responsible for the promotion of nutritional health and prevention of nutrition-related disorders/ill health of groups, communities or population via sustainable and equitable improvements in the food and nutrition system."
+    },
+    {
+      "Code": "RNI4883",
+      "name": "Integrated Internship - Community Nutrition",
+      "Description": "Students will work at the community level with the aim of promoting the implementation of nutrition intervention programmes and associated skills which are critical for nutrition training at the community level."
+    },
+    {
+      "Code": "RNI4483",
+      "name": "Integrated Internship - Community Nutrition",
+      "Description": "Students will work at the community level with the aim of promoting the implementation of nutrition intervention programmes and associated skills which are critical for nutrition training at the community level."
+    },
+    {
+      "Code": "BPS1841",
+      "name": "Introduction to Learning Principles and Life Skills",
+      "Description": "Exposing students to the concepts of new learning principles and life skills. Topics include background and introduction of PBL, principles of learning in PBL, PBL process, characteristics of PBL, using PBL principles in problem solving, life skills (goal setting, time management, managing assignments and assessment, managing workload, basic helping skills, effective listening skills), and topics related to healthy living (relationships, HIV/AIDS, sexual transmitted diseases, trauma debriefing, assessment).",
+      "prerequisites": [{"Grade": "12 (English and Biology E High Grade)"}]
+    },
+    {
+      "Code": "BPS1441",
+      "name": "Introduction to Learning Principles and Life Skills",
+      "Description": "Exposing students to the concepts of new learning principles and life skills. Topics include background and introduction of PBL, principles of learning in PBL, PBL process, characteristics of PBL, using PBL principles in problem solving, life skills (goal setting, time management, managing assignments and assessment, managing workload, basic helping skills, effective listening skills), and topics related to healthy living (relationships, HIV/AIDS, sexual transmitted diseases, trauma debriefing, assessment).",
+      "prerequisites": [{"Grade": "12 (English and Biology E High Grade)"}]
+    },
+    {
+      "Code": "BPS1842",
+      "name": "Introduction to Psychology",
+      "Description": "History, nature, and goals of psychology; introduction to research in psychology; Description of research approaches (quantitative and qualitative); biological bases of human behavior (brain and behavior); perception; cognitive psychology; learning; developmental psychology; personality; social psychology.",
+      "prerequisites": [{"Grade": "12 (English and Biology E High Grade)"}]
+    },
+    {
+      "Code": "BPS1442",
+      "name": "Introduction to Psychology",
+      "Description": "History, nature, and goals of psychology; introduction to research in psychology; Description of research approaches (quantitative and qualitative); biological bases of human behavior (brain and behavior); perception; cognitive psychology; learning; developmental psychology; personality; social psychology.",
+      "prerequisites": [{"Grade": "12 (English and Biology E High Grade)"}]
+    },
+    {
+      "Code": "BPS1843",
+      "name": "Applied Psychology",
+      "Description": "Introduction to applied psychology; risk behavior and stress; substance abuse and psychopharmacology; HIV and psychology; psychopathology; psychotherapies; community mental health.",
+      "prerequisites": [{"Grade": "12 (English and Biology E High Grade)"}]
+    },
+    {
+      "Code": "BPS1443",
+      "name": "Applied Psychology",
+      "Description": "Introduction to applied psychology; risk behavior and stress; substance abuse and psychopharmacology; HIV and psychology; psychopathology; psychotherapies; community mental health.",
+      "prerequisites": [{"Grade": "12 (English and Biology E High Grade)"}]
+    },
+    {
+      "Code": "BPS2841",
+      "name": "Child and Adult Development",
+      "Description": "History and methods of the study of human development; physical development throughout the human life span; pregnancy; prenatal growth; infancy; cognitive development; theories of moral development; socio-emotional development; attachment and caregiver relationships; issues of identity, cultural roles, and gender identity; trauma."
+    },
+    {
+      "Code": "BPS2441",
+      "name": "Child and Adult Development",
+      "Description": "History and methods of the study of human development; physical development throughout the human life span; pregnancy; prenatal growth; infancy; cognitive development; theories of moral development; socio-emotional development; attachment and caregiver relationships; issues of identity, cultural roles, and gender identity; trauma."
+    },
+    {
+      "Code": "BPS2842",
+      "name": "Personality Theories",
+      "Description": "Personality psychology and various opinions about personality; personality from different perspectives; depth psychological perspective; person-oriented approach; social cognitive approach; learning perspective; biological perspective; behaviorist and alternative approach; African personality; personality structure and development; person construct theory.",
+      "prerequisites": [{"Modules": "All modules in level 1"}]
+    },
+    {
+      "Code": "BPS2442",
+      "name": "Personality Theories",
+      "Description": "Personality psychology and various opinions about personality; personality from different perspectives; depth psychological perspective; person-oriented approach; social cognitive approach; learning perspective; biological perspective; behaviorist and alternative approach; African personality; personality structure and development; person construct theory.",
+      "prerequisites": [{"Modules": "All modules in level 1"}]
+    },
+    {
+      "Code": "BPS2843",
+      "name": "Employee Wellness Program",
+      "Description": "Meaning of employee wellness program; interpersonal skills within the context of work and families; relationship between employee wellness and productivity; promoting employee wellness; work psychology and considerations of employee wellness program.",
+      "prerequisites": [{"Modules": "All modules in level 1"}]
+    },
+    {
+      "Code": "BPS2443",
+      "name": "Employee Wellness Program",
+      "Description": "Meaning of employee wellness program; interpersonal skills within the context of work and families; relationship between employee wellness and productivity; promoting employee wellness; work psychology and considerations of employee wellness program.",
+      "prerequisites": [{"Modules": "All modules in level 1"}]
+    },
+    {
+      "Code": "BPS2844",
+      "name": "Mental Health Promotion",
+      "Description": "Conducting a situational assessment for intervention programs; defining the intended audience; involving them in program design; ensuring the validity and reliability of the intervention; revising program objectives; data collection methods; evaluation process; reviewing successful programs, interventions, and policies.",
+      "prerequisites": [{"Modules": "All modules in level 1"}]
+    },
+    {
+      "Code": "BPS2444",
+      "name": "Mental Health Promotion",
+      "Description": "Conducting a situational assessment for intervention programs; defining the intended audience; involving them in program design; ensuring the validity and reliability of the intervention; revising program objectives; data collection methods; evaluation process; reviewing successful programs, interventions, and policies.",
+      "prerequisites": [{"Modules": "All modules in level 1"}]
+    },
+    {
+      "Code": "BPS3841",
+      "name": "Research Methodology",
+      "Description": "Comparing and contrasting multiple methodologies in qualitative and quantitative research; understanding research coherence; developing a research proposal; exposure to research approaches, designs, conceptualizing, operationalizing, sampling, data collection, data analysis, discussions, conclusions, reliability, validity, and trustworthiness; ethical aspects in research.",
+      "prerequisites": [{"Modules": "All modules in level 2"}]
+    },
+    {
+      "Code": "BPS3441",
+      "name": "Research Methodology",
+      "Description": "Comparing and contrasting multiple methodologies in qualitative and quantitative research; understanding research coherence; developing a research proposal; exposure to research approaches, designs, conceptualizing, operationalizing, sampling, data collection, data analysis, discussions, conclusions, reliability, validity, and trustworthiness; ethical aspects in research.",
+      "prerequisites": [{"Modules": "All modules in level 2"}]
+    },
+    {
+      "Code": "BPS3842",
+      "name": "Community Psychology",
+      "Description": "Foundations and historical influences of community psychology; definition of community psychology; basic values and theories of community psychology; understanding a sense of community; identifying social capital, social networks, and civic engagement; ecological frameworks; neighborhoods; diversity categories; stress, coping, and social support; resilience; approaches to social change; prevention and promotion programs; program and logic models.",
+      "prerequisites": [{"Course": "BPS3841"}]
+    },
+    {
+      "Code": "BPS3442",
+      "name": "Community Psychology",
+      "Description": "Foundations and historical influences of community psychology; definition of community psychology; basic values and theories of community psychology; understanding a sense of community; identifying social capital, social networks, and civic engagement; ecological frameworks; neighborhoods; diversity categories; stress, coping, and social support; resilience; approaches to social change; prevention and promotion programs; program and logic models.",
+      "prerequisites": [{"Course": "BPS3841"}]
+    },
+    {
+      "Code": "BPS3843",
+      "name": "Psychopathology",
+      "Description": "Anxiety disorders; obsessive-compulsive and trauma-related disorders; mood disorders; schizophrenia spectrum and other psychotic disorders; neurocognitive disorders; dissociative disorders; somatoform disorders; sexual dysfunctions, dysphoria, and paraphilic disorders; substance-related and addictive disorders; eating and feeding disorders.",
+      "prerequisites": [{"Modules": "All modules in level 2"}]
+    },
+    {
+      "Code": "BPS3443",
+      "name": "Psychopathology",
+      "Description": "Anxiety disorders; obsessive-compulsive and trauma-related disorders; mood disorders; schizophrenia spectrum and other psychotic disorders; neurocognitive disorders; dissociative disorders; somatoform disorders; sexual dysfunctions, dysphoria, and paraphilic disorders; substance-related and addictive disorders; eating and feeding disorders.",
+      "prerequisites": [{"Modules": "All modules in level 2"}]
+    },
+    {
+      "Code": "BPS3843",
+      "name": "Psychopathology",
+      "Description": "Anxiety disorders; obsessive-compulsive and trauma-related disorders; mood disorders; schizophrenia spectrum and other psychotic disorders; neurocognitive disorders; dissociative disorders; somatoform disorders; sexual dysfunctions, dysphoria, and paraphilic disorders; substance-related and addictive disorders; eating and feeding disorders.",
+      "prerequisites": [{"Modules": "All modules in level 2"}]
+    },
+    {
+      "Code": "BPS3443",
+      "name": "Psychopathology",
+      "Description": "Anxiety disorders; obsessive-compulsive and trauma-related disorders; mood disorders; schizophrenia spectrum and other psychotic disorders; neurocognitive disorders; dissociative disorders; somatoform disorders; sexual dysfunctions, dysphoria, and paraphilic disorders; substance-related and addictive disorders; eating and feeding disorders.",
+      "prerequisites": [{"Modules": "All modules in level 2"}]
+    },
+    {
+      "Code": "BPS3844",
+      "name": "Psychological Counseling Theories",
+      "Description": "Issues faced by beginning therapists; characteristics of an effective counselor; basic principles of codes of ethics in counseling practice; basic rights of the client; psychoanalytic theory; Adlerian therapy; existential therapy; person-centered therapy; gestalt therapy; behavior therapy; cognitive-behavior therapy; reality therapy; feminist therapy; postmodern therapy; family system therapy.",
+      "prerequisites": [{"Modules": "All modules in level 2"}]
+    },
+    {
+      "Code": "BPS3444",
+      "name": "Psychological Counseling Theories",
+      "Description": "Issues faced by beginning therapists; characteristics of an effective counselor; basic principles of codes of ethics in counseling practice; basic rights of the client; psychoanalytic theory; Adlerian therapy; existential therapy; person-centered therapy; gestalt therapy; behavior therapy; cognitive-behavior therapy; reality therapy; feminist therapy; postmodern therapy; family system therapy.",
+      "prerequisites": [{"Modules": "All modules in level 2"}]
+    },
+    {
+      "Code": "BPS4841",
+      "name": "Psychopathology II",
+      "Description": "Theory and practicals of neurodevelopmental disorders; bipolar disorders; trauma and stressor-related disorders; anxiety disorders; suicide; disruptive impulsive control and conduct disorders; substance-related and addictive disorders; somatic symptoms and related disorders; depressive disorders; schizophrenia spectrum and related disorders; obsessive-compulsive and related disorders; personality disorders; feeding and eating disorders; elimination disorders; dissociative disorders; sleep-awake disorders; sexual dysfunction; paraphilic disorders; neurocognitive disorders.",
+      "prerequisites": [{"Modules": "All modules in level 3"}]
+    },
+    {
+      "Code": "BPS4441",
+      "name": "Psychopathology II",
+      "Description": "Theory and practicals of neurodevelopmental disorders; bipolar disorders; trauma and stressor-related disorders; anxiety disorders; suicide; disruptive impulsive control and conduct disorders; substance-related and addictive disorders; somatic symptoms and related disorders; depressive disorders; schizophrenia spectrum and related disorders; obsessive-compulsive and related disorders; personality disorders; feeding and eating disorders; elimination disorders; dissociative disorders; sleep-awake disorders; sexual dysfunction; paraphilic disorders; neurocognitive disorders.",
+      "prerequisites": [{"Modules": "All modules in level 3"}]
+    },
+    {
+      "Code": "BPS4842",
+      "name": "Psychological Assessment",
+      "Description": "Understanding the technical aspects of psychological testing; application of norms; describing different assessment tools; administering psychological assessment measures; practice of psychological assessment; controlling the use of measures; competing values and ethical practices.",
+      "prerequisites": [{"Modules": "All modules in level 3"}]
+    },
+    {
+      "Code": "BPS4442",
+      "name": "Psychological Assessment",
+      "Description": "Understanding the technical aspects of psychological testing; application of norms; describing different assessment tools; administering psychological assessment measures; practice of psychological assessment; controlling the use of measures; competing values and ethical practices.",
+      "prerequisites": [{"Modules": "All modules in level 3"}]
+    },
+    {
+      "Code": "BPS4843",
+      "name": "Psychological Counselling Techniques",
+      "Description": "Understanding different theories/models of crisis and psychological counseling; trauma debriefing, including Critical Incident Stress Debriefing (CISD); core qualities of helping; psychological counseling strategies; cultural diversity in terms of trauma issues.",
+      "prerequisites": [{"Modules": "All modules in level 3"}]
+    },
+    {
+      "Code": "BPS4443",
+      "name": "Psychological Counselling Techniques",
+      "Description": "Understanding different theories/models of crisis and psychological counseling; trauma debriefing, including Critical Incident Stress Debriefing (CISD); core qualities of helping; psychological counseling strategies; cultural diversity in terms of trauma issues.",
+      "prerequisites": [{"Modules": "All modules in level 3"}]
+    },
+    {
+      "Code": "BPS4844",
+      "name": "Ethics Professional and Practice Management",
+      "Description": "Scope of practice for a registered counselor within the context of the profession of psychology; exploration of ethical dilemmas relating to informed consent, confidentiality, multiple relationships, diversity and multiculturalism, psychological assessment, forensic psychology, etc.; understanding ethical theories of deontology and tele-ontology; different ethical frameworks for ethical decision-making; exposure to the Health Professions Act and the Scope of practice.",
+      "prerequisites": [{"Modules": "All modules in level 3"}]
+    },
+    {
+      "Code": "BPS4444",
+      "name": "Ethics Professional and Practice Management",
+      "Description": "Scope of practice for a registered counselor within the context of the profession of psychology; exploration of ethical dilemmas relating to informed consent, confidentiality, multiple relationships, diversity and multiculturalism, psychological assessment, forensic psychology, etc.; understanding ethical theories of deontology and tele-ontology; different ethical frameworks for ethical decision-making; exposure to the Health Professions Act and the Scope of practice.",
+      "prerequisites": [{"Modules": "All modules in level 3"}]
+    },
+    {
+      "Code": "BPS4845",
+      "name": "Psychological Counselling Practical",
+      "Description": "Practical module applying knowledge from psychopathology, psychological assessment, psychological counseling techniques, ethics, and professional practice issues; exposure to working in multiple contexts such as NGOs, TVET colleges, schools, clinics, hospitals; providing basic counseling services to individuals and groups; community engagement and work-integrated learning.",
+      "prerequisites": [{"$and": [{"Modules": "All modules in level 3"}, {"Courses": ["BPS4841", "BPS4842", "BPS4843", "BPS4844"]}]}]
+    },
+    {
+      "Code": "BPS4445",
+      "name": "Psychological Counselling Practical",
+      "Description": "Practical module applying knowledge from psychopathology, psychological assessment, psychological counseling techniques, ethics, and professional practice issues; exposure to working in multiple contexts such as NGOs, TVET colleges, schools, clinics, hospitals; providing basic counseling services to individuals and groups; community engagement and work-integrated learning.",
+      "prerequisites": [{"$and": [{"Modules": "All modules in level 3"}, {"Courses": ["BPS4841", "BPS4842", "BPS4843", "BPS4844"]}]}]
+    },
+    {
+      "Code": "BPS4846",
+      "name": "Research Project",
+      "Description": "Implementation of all stages of the research process; completion of a research proposal and a fully integrated research project; application and understanding of research approaches, designs, and methodology; guidance by a supervisor; development of basic understanding of the application of research.",
+      "prerequisites": [{"Modules": "All modules in level 3"}]
+    },
+    {
+      "Code": "BPS4446",
+      "name": "Research Project",
+      "Description": "Implementation of all stages of the research process; completion of a research proposal and a fully integrated research project; application and understanding of research approaches, designs, and methodology; guidance by a supervisor; development of basic understanding of the application of research.",
+      "prerequisites": [{"Modules": "All modules in level 3"}]
+    },
+
+
+
+
+    {
+      "Code": "KOP1841",
+      "name": "Orientation to PBL, Biokinetics and Recreation and Leisure Studies programme",
+      "Description": "Introduces students to the three programs in the Center and the teaching methodology adopted by the School of Health Sciences."
+    },
+    {
+      "Code": "KOP1441",
+      "name": "Orientation to PBL, Biokinetics and Recreation and Leisure Studies programme",
+      "Description": "Introduces students to the three programs in the Center and the teaching methodology adopted by the School of Health Sciences."
+    },
+    {
+      "Code": "KFH1842",
+      "name": "Foundation of Human Movement Science and Human Behaviour",
+      "Description": "Introduces students to the nature, scope, and concepts in the field of Human Movement. Examines movement behaviors, mobility factors in overcoming problems of sedentariness and inactivity."
+    },
+    {
+      "Code": "KFH1442",
+      "name": "Foundation of Human Movement Science and Human Behaviour",
+      "Description": "Introduces students to the nature, scope, and concepts in the field of Human Movement. Examines movement behaviors, mobility factors in overcoming problems of sedentariness and inactivity."
+    },
+    {
+      "Code": "KHA1843",
+      "name": "Human Anatomy and Physiology",
+      "Description": "Introduces students to basic human anatomy and physiology. Explores how these subjects affect movement and analysis in sport and injury rehabilitation.",
+      "prerequisites": [{"$and": [{"Course": "Life sciences"}, {"Course": "Physics"}]}]
+    },
+    {
+      "Code": "KHA1443",
+      "name": "Human Anatomy and Physiology",
+      "Description": "Introduces students to basic human anatomy and physiology. Explores how these subjects affect movement and analysis in sport and injury rehabilitation.",
+      "prerequisites": [{"$and": [{"Course": "Life sciences"}, {"Course": "Physics"}]}]
+    },
+    {
+      "Code": "KSS1844",
+      "name": "Sports Skills Fundamentals and Physical Performance",
+      "Description": "Introduces students to selected games, sports, and physical activities for health and fitness development."
+    },
+    {
+      "Code": "KSS1444",
+      "name": "Sports Skills Fundamentals and Physical Performance",
+      "Description": "Introduces students to selected games, sports, and physical activities for health and fitness development."
+    },
+    {
+      "Code": "KPC1845",
+      "name": "Physical Conditioning for Sports, Exercise and Games",
+      "Description": "Introduces students to basic concepts in conditioning, physical fitness, exercise, and physical activity. Develops skills for conditioning athletes prior to competition."
+    },
+    {
+      "Code": "KPC1445",
+      "name": "Physical Conditioning for Sports, Exercise and Games",
+      "Description": "Introduces students to basic concepts in conditioning, physical fitness, exercise, and physical activity. Develops skills for conditioning athletes prior to competition."
+    },
+    {
+      "Code": "KNS2841",
+      "name": "Neuromuscular Systems in Health and Wellness",
+      "Description": "Teaches students the neuromuscular and skeletal systems and their role in providing highly organized, flexible, and complex movements."
+    },
+    {
+      "Code": "KNS2441",
+      "name": "Neuromuscular Systems in Health and Wellness",
+      "Description": "Teaches students the neuromuscular and skeletal systems and their role in providing highly organized, flexible, and complex movements."
+    },
+    {
+      "Code": "KEP2842",
+      "name": "Exercise and Physical Activity for Diverse (Special) Population",
+      "Description": "Provides understanding of the unique physical, physiologic, and behavioral characteristics requiring special consideration for exercise testing, prescription, and training."
+    },
+    {
+      "Code": "KEP2442",
+      "name": "Exercise and Physical Activity for Diverse (Special) Population",
+      "Description": "Provides understanding of the unique physical, physiologic, and behavioral characteristics requiring special consideration for exercise testing, prescription, and training."
+    },
+    {
+      "Code": "KPA2843",
+      "name": "Physical Activity Health and Lifestyle",
+      "Description": "Provides in-depth knowledge of the benefits of physical activity in the prevention and treatment of various health conditions."
+    },
+    {
+      "Code": "KPA2443",
+      "name": "Physical Activity Health and Lifestyle",
+      "Description": "Provides in-depth knowledge of the benefits of physical activity in the prevention and treatment of various health conditions."
+    },
+    {
+      "Code": "KCS2845",
+      "name": "Cardio-Respiratory Systems and Physical Activity",
+      "Description": "Introduces students to the cardiorespiratory system's anatomy and physiology. Discusses responses of the cardiorespiratory system in sports and games."
+    },
+    {
+      "Code": "KCS2445",
+      "name": "Cardio-Respiratory Systems and Physical Activity",
+      "Description": "Introduces students to the cardiorespiratory system's anatomy and physiology. Discusses responses of the cardiorespiratory system in sports and games."
+    },
+    {
+      "Code": "KML2844",
+      "name": "Motor Learning, Motor Behaviour and Performance",
+      "Description": "Teaches how humans learn skilled actions and how principles of motor performance and learning can be useful in teaching, coaching, rehabilitation, and equipment design."
+    },
+    {
+      "Code": "KML2444",
+      "name": "Motor Learning, Motor Behaviour and Performance",
+      "Description": "Teaches how humans learn skilled actions and how principles of motor performance and learning can be useful in teaching, coaching, rehabilitation, and equipment design."
+    },
+    {
+      "Code": "KNE2846",
+      "name": "Nutrition for Health and Wellness",
+      "Description": "Introduces the basis of good nutrition, the importance of activity in weight control, and the contributions of fitness to fat metabolism and weight control."
+    },
+    {
+      "Code": "KNE2486",
+      "name": "Nutrition for Health and Wellness",
+      "Description": "Introduces the basis of good nutrition, the importance of activity in weight control, and the contributions of fitness to fat metabolism and weight control."
+    },
+    {
+      "Code": "KTR2847",
+      "name": "Therapeutic Recreation for Health and Wellness",
+      "Description": "Discusses techniques used as interventions by therapeutic recreation specialists and the recreation therapeutic process for bringing about changes in the client and client’s environment."
+    },
+    {
+      "Code": "KTR2447",
+      "name": "Therapeutic Recreation for Health and Wellness",
+      "Description": "Discusses techniques used as interventions by therapeutic recreation specialists and the recreation therapeutic process for bringing about changes in the client and client’s environment."
+    },
+    {
+      "Code": "KBP3841",
+      "name": "Biokinetics: Practice and Profession",
+      "Description": "Provides understanding of the theoretical background for Biokinetics actions, including the scope and being of Biokinetics.",
+      "prerequisites": [{"$and": [{"Course": "KHA1843"}, {"Course": "KNS2841"}, {"Course": "KCS2847"}]}]
+    },
+    {
+      "Code": "KBP3841",
+      "name": "Biokinetics: Practice and Profession",
+      "Description": "Provides understanding of the theoretical background for Biokinetics actions, including the scope and being of Biokinetics.",
+      "prerequisites": [{"$and": [{"Course": "KHA1843"}, {"Course": "KNS2841"}, {"Course": "KCS2847"}]}]
+    },
+    {
+      "Code": "KEP3842",
+      "name": "Exercise (Applied) Physiology",
+      "Description": "Introduces students to advanced concepts in exercise physiology and health-related issues.",
+      "prerequisites": [{"Course": "KHA1843"}]
+    },
+    {
+      "Code": "KEP3442",
+      "name": "Exercise (Applied) Physiology",
+      "Description": "Introduces students to advanced concepts in exercise physiology and health-related issues.",
+      "prerequisites": [{"Course": "KHA1843"}]
+    },
+    {
+      "Code": "KAE3843",
+      "name": "Assessment and Evaluation Techniques in Exercise and Physical Activity",
+      "Description": "Teaches basic skills of quantifying certain body parameters in relation to health status and sport performance."
+    },
+    {
+      "Code": "KAE3443",
+      "name": "Assessment and Evaluation Techniques in Exercise and Physical Activity",
+      "Description": "Teaches basic skills of quantifying certain body parameters in relation to health status and sport performance."
+    },
+    {
+      "Code": "KAB3844",
+      "name": "Applied Kinesiology and Biomechanics",
+      "Description": "Introduces students to basic physics, laws of dynamics and motion. Acquires basic understanding of the application of applied human anatomy and physiology and mechanical physics to human movement.",
+      "prerequisites": [{"$and": [{"Course": "KHA1843"}, {"Course": "Physics"}]}]
+    },
+    {
+      "Code": "KAB3444",
+      "name": "Applied Kinesiology and Biomechanics",
+      "Description": "Introduces students to basic physics, laws of dynamics and motion. Acquires basic understanding of the application of applied human anatomy and physiology and mechanical physics to human movement.",
+      "prerequisites": [{"$and": [{"Course": "KHA1843"}, {"Course": "Physics"}]}]
+    },
+    {
+      "Code": "KRM3845",
+      "name": "Research Methods and Biostatistics",
+      "Description": "Acquires knowledge and ability to design research problems. Acquires training in data management skills and application of appropriate bio-statistical techniques."
+    },
+    {
+      "Code": "KRM3445",
+      "name": "Research Methods and Biostatistics",
+      "Description": "Acquires knowledge and ability to design research problems. Acquires training in data management skills and application of appropriate bio-statistical techniques."
+    },
+    {
+      "Code": "KSM3846",
+      "name": "Sports Medicine, Injury Assessment and Rehabilitation",
+      "Description": "Teaches students to develop knowledge of common injuries in sports and other conditions. Acquires skills of assessing orthopedic injuries/conditions and rehabilitation."
+    },
+    {
+      "Code": "KSM3446",
+      "name": "Sports Medicine, Injury Assessment and Rehabilitation",
+      "Description": "Teaches students to develop knowledge of common injuries in sports and other conditions. Acquires skills of assessing orthopedic injuries/conditions and rehabilitation."
+    },
+    {
+      "Code": "KCE4841",
+      "name": "Clinical Exercise Physiology and Orthopaedic Rehabilitation",
+      "Description": "Applies exercise physiology principles and clinical applications associated with a wide range of diseases and disabilities.",
+      "prerequisites": [{"$and": [{"Course": "KHA1843"}, {"Course": "KEP3842"}]}]
+    },
+    {
+      "Code": "KCE4441",
+      "name": "Clinical Exercise Physiology and Orthopaedic Rehabilitation",
+      "Description": "Applies exercise physiology principles and clinical applications associated with a wide range of diseases and disabilities.",
+      "prerequisites": [{"$and": [{"Course": "KHA1843"}, {"Course": "KEP3842"}]}]
+    },
+    {
+      "Code": "KSB4842",
+      "name": "Seminar in Biokinetics",
+      "Description": "Develops the ability to critique articles, review scientific information, and prepare students for seminar presentations.",
+      "prerequisites": [{"Course": "KRM3845"}]
+    },
+    {
+      "Code": "KSB4442",
+      "name": "Seminar in Biokinetics",
+      "Description": "Develops the ability to critique articles, review scientific information, and prepare students for seminar presentations.",
+      "prerequisites": [{"Course": "KRM3845"}]
+    },
+    {
+      "Code": "KRP4843",
+      "name": "Research Project, Data Collection and Analyses",
+      "Description": "Enables students to present a mini-dissertation based on research done in their area of specialty.",
+      "prerequisites": [{"$and": [{"Course": "KRM3845"}, {"Course": "KSB4842"}]}]
+    },
+    {
+      "Code": "KRP4443",
+      "name": "Research Project, Data Collection and Analyses",
+      "Description": "Enables students to present a mini-dissertation based on research done in their area of specialty.",
+      "prerequisites": [{"$and": [{"Course": "KRM3845"}, {"Course": "KSB4842"}]}]
+    },
+    {
+      "Code": "KBP4844",
+      "name": "Biokinetics Practicum, Internship and Integrated Community Biokinetics Practice",
+      "Description": "Applies exercise in preventing or delaying the onset of chronic diseases. Develops an understanding of Biokinetics practices in various fitness and wellness centers.",
+      "prerequisites": [{"Course": "KBP3841"}]
+    },
+    {
+      "Code": "KBP4444",
+      "name": "Biokinetics Practicum, Internship and Integrated Community Biokinetics Practice",
+      "Description": "Applies exercise in preventing or delaying the onset of chronic diseases. Develops an understanding of Biokinetics practices in various fitness and wellness centers.",
+      "prerequisites": [{"Course": "KBP3841"}]
+    },
+    {
+      "Code": "KES4845",
+      "name": "Exercise and Sport Psychology",
+      "Description": "Assists students in understanding how humans regulate their thoughts, feelings, and emotions and how their behavior can become more effective."
+    },
+    {
+      "Code": "KES4445",
+      "name": "Exercise and Sport Psychology",
+      "Description": "Assists students in understanding how humans regulate their thoughts, feelings, and emotions and how their behavior can become more effective."
+    },
+    {
+      "Code": "KOP1841",
+      "name": "Orientation to PBL, Biokinetics and Recreation and Leisure Studies programme",
+      "Description": "Introduces students to the three programs in the Center and to the teaching methodology adopted by the School of Health Sciences."
+    },
+    {
+      "Code": "KOP1441",
+      "name": "Orientation to PBL, Biokinetics and Recreation and Leisure Studies programme",
+      "Description": "Introduces students to the three programs in the Center and to the teaching methodology adopted by the School of Health Sciences."
+    },
+    {
+      "Code": "KFH1842",
+      "name": "Foundation of Human Movement Science and Human Behaviour",
+      "Description": "Introduces students to the nature, scope, and concepts often used in the field of Human Movement. Examines movement behaviors often adopted by individuals and appreciates mobility factors in overcoming problems of sedentariness and inactivity."
+    },
+    {
+      "Code": "KFH1442",
+      "name": "Foundation of Human Movement Science and Human Behaviour",
+      "Description": "Introduces students to the nature, scope, and concepts often used in the field of Human Movement. Examines movement behaviors often adopted by individuals and appreciates mobility factors in overcoming problems of sedentariness and inactivity."
+    },
+    {
+      "Code": "KSS1843",
+      "name": "Sports Skills Fundamentals and Physical Performance",
+      "Description": "Introduces students to selected games, sports (individual, dual or team), and physical activities for health and fitness development. Activities are selected based on factors like accessibility, availability, cost, facilities, equipment, and skill levels."
+    },
+    {
+      "Code": "KSS1443",
+      "name": "Sports Skills Fundamentals and Physical Performance",
+      "Description": "Introduces students to selected games, sports (individual, dual or team), and physical activities for health and fitness development. Activities are selected based on factors like accessibility, availability, cost, facilities, equipment, and skill levels."
+    },
+    {
+      "Code": "KPC1844",
+      "name": "Physical Conditioning for Sports, Exercise and Games",
+      "Description": "Introduces students to basic concepts in conditioning, physical fitness, exercise, and physical activity. Develops skills for conditioning athletes before competition."
+    },
+    {
+      "Code": "KPC1444",
+      "name": "Physical Conditioning for Sports, Exercise and Games",
+      "Description": "Introduces students to basic concepts in conditioning, physical fitness, exercise, and physical activity. Develops skills for conditioning athletes before competition."
+    },
+    {
+      "Code": "KNL1845",
+      "name": "Nutrition in Sports and Exercise",
+      "Description": "Introduces students to the basis of good nutrition, the importance of activity in weight control, and the contributions of fitness to fat metabolism and weight control. Examines how nutrition can affect performance, focusing on substances ingested and their importance beyond bioenergetics."
+    },
+    {
+      "Code": "KNL1445",
+      "name": "Nutrition in Sports and Exercise",
+      "Description": "Introduces students to the basis of good nutrition, the importance of activity in weight control, and the contributions of fitness to fat metabolism and weight control. Examines how nutrition can affect performance, focusing on substances ingested and their importance beyond bioenergetics."
+    },
+    {
+      "Code": "KFR2841",
+      "name": "Foundations of Recreation and Leisure Services",
+      "Description": "Introduces students to the concepts, scope, and nature of leisure and recreation. Understands the vital roles recreation and leisure play in solving social problems and appreciates the values of recreation and leisure."
+    },
+    {
+      "Code": "KFR2441",
+      "name": "Foundations of Recreation and Leisure Services",
+      "Description": "Introduces students to the concepts, scope, and nature of leisure and recreation. Understands the vital roles recreation and leisure play in solving social problems and appreciates the values of recreation and leisure."
+    },
+    {
+      "Code": "KOR2842",
+      "name": "Outdoor Education and Recreation",
+      "Description": "Introduces students to outdoor recreation as a sub-phenomenon of the larger recreation and leisure phenomenon, with added emphasis on the natural element, its psychological influence, and social significance."
+    },
+    {
+      "Code": "KOR2442",
+      "name": "Outdoor Education and Recreation",
+      "Description": "Introduces students to outdoor recreation as a sub-phenomenon of the larger recreation and leisure phenomenon, with added emphasis on the natural element, its psychological influence, and social significance."
+    },
+    {
+      "Code": "KRL2843",
+      "name": "Recreation and Leisure for Diverse Population (Vulnerable Groups)",
+      "Description": "Introduces students to different approaches when designing recreation and leisure activities for diverse populations like pregnant women, elderly people, and children."
+    },
+    {
+      "Code": "KRL2443",
+      "name": "Recreation and Leisure for Diverse Population (Vulnerable Groups)",
+      "Description": "Introduces students to different approaches when designing recreation and leisure activities for diverse populations like pregnant women, elderly people, and children."
+    },
+    {
+      "Code": "KBR2844",
+      "name": "Budget and Resource Attainment in Recreation and Leisure Service",
+      "Description": "Assists students in understanding the importance of budgeting and resource attainment in leisure service programming. Acquaints learners with various trends impacting budgeting and resource attainment in leisure service organizations."
+    },
+    {
+      "Code": "KBR2444",
+      "name": "Budget and Resource Attainment in Recreation and Leisure Service",
+      "Description": "Assists students in understanding the importance of budgeting and resource attainment in leisure service programming. Acquaints learners with various trends impacting budgeting and resource attainment in leisure service organizations."
+    },
+    {
+      "Code": "KMR2845",
+      "name": "Managing Recreation, Parks and Leisure Services",
+      "Description": "Educates learners as leisure managers on mechanisms to promote greater community liability through leisure services and programs, natural resource development, and tourism activities."
+    },
+    {
+      "Code": "KMR2445",
+      "name": "Managing Recreation, Parks and Leisure Services",
+      "Description": "Educates learners as leisure managers on mechanisms to promote greater community liability through leisure services and programs, natural resource development, and tourism activities."
+    },
+    {
+      "Code": "KSF2846",
+      "name": "Sport First Aid and Management of Injuries",
+      "Description": "Introduces students to basic techniques used in providing first aid and managing injuries in different spheres of life."
+    },
+    {
+      "Code": "KSF2446",
+      "name": "Sport First Aid and Management of Injuries",
+      "Description": "Introduces students to basic techniques used in providing first aid and managing injuries in different spheres of life."
+    },
+    {
+      "Code": "KAL2847",
+      "name": "Adventure Leadership and Programme Planning",
+      "Description": "Focuses on two aspects of recreation and leisure: Adventure Leadership and Recreation Programming and Planning. Teaches programming strategies, approaches, and methods for directing staff to achieve the aims and objectives of the organization."
+    },
+    {
+      "Code": "KAL2447",
+      "name": "Adventure Leadership and Programme Planning",
+      "Description": "Focuses on two aspects of recreation and leisure: Adventure Leadership and Recreation Programming and Planning. Teaches programming strategies, approaches, and methods for directing staff to achieve the aims and objectives of the organization."
+    },
+    {
+      "Code": "KEL3841",
+      "name": "Ethics and Legal Aspects of Recreation and Leisure",
+      "Description": "Introduces students to the body of knowledge that helps them manage ethics and legal risks in recreation and in their everyday lives."
+    },
+    {
+      "Code": "KEL3441",
+      "name": "Ethics and Legal Aspects of Recreation and Leisure",
+      "Description": "Introduces students to the body of knowledge that helps them manage ethics and legal risks in recreation and in their everyday lives."
+    },
+    {
+      "Code": "KTR3842",
+      "name": "Therapeutic Recreation, Leisure and Wellness Education",
+      "Description": "Discusses techniques used as interventions by therapeutic recreation specialists and the recreation therapeutic process to bring about changes in the client and client’s environment."
+    },
+    {
+      "Code": "KTR3442",
+      "name": "Therapeutic Recreation, Leisure and Wellness Education",
+      "Description": "Discusses techniques used as interventions by therapeutic recreation specialists and the recreation therapeutic process to bring about changes in the client and client’s environment."
+    },
+    {
+      "Code": "KFM3843",
+      "name": "Facility Design and Management for Recreation and Leisure Activity",
+      "Description": "Teaches students how to design and manage sports and recreation facilities."
+    },
+    {
+      "Code": "KFM3443",
+      "name": "Facility Design and Management for Recreation and Leisure Activity",
+      "Description": "Teaches students how to design and manage sports and recreation facilities."
+    },
+    {
+      "Code": "KCR3844",
+      "name": "Commercial Recreation and Tourism Management",
+      "Description": "Teaches students an understanding of the commercial leisure sector in providing leisure and recreation services. Introduction to the scope, characteristics, and management aspects of the commercial recreation and tourism industry."
+    },
+    {
+      "Code": "KCR3444",
+      "name": "Commercial Recreation and Tourism Management",
+      "Description": "Teaches students an understanding of the commercial leisure sector in providing leisure and recreation services. Introduction to the scope, characteristics, and management aspects of the commercial recreation and tourism industry."
+    },
+    {
+      "Code": "KRD3845",
+      "name": "Recreation Delivery and Leisure Programs",
+      "Description": "Aims to learn the general overview and practical experiences on modalities for delivering quality recreation and leisure programs. Understands the roles and responsibilities of leisure service programs’ supervisor/manager."
+    },
+    {
+      "Code": "KRD3445",
+      "name": "Recreation Delivery and Leisure Programs",
+      "Description": "Aims to learn the general overview and practical experiences on modalities for delivering quality recreation and leisure programs. Understands the roles and responsibilities of leisure service programs’ supervisor/manager."
+    },
+    {
+      "Code": "KCL3846",
+      "name": "Consultancy in Recreation and Leisure",
+      "Description": "Introduces students to the basic rules of consultancy in Recreation and Leisure studies."
+    },
+    {
+      "Code": "KCL3446",
+      "name": "Consultancy in Recreation and Leisure",
+      "Description": "Introduces students to the basic rules of consultancy in Recreation and Leisure studies."
+    },
+    {
+      "Code": "KRM3847",
+      "name": "Research Methods in Recreation and Leisure Services",
+      "Description": "Acquires knowledge and ability to design research problems. Acquires training in data management skills and application of appropriate bio-statistical techniques to specific research questions and data sets."
+    },
+    {
+      "Code": "KRM3447",
+      "name": "Research Methods in Recreation and Leisure Services",
+      "Description": "Acquires knowledge and ability to design research problems. Acquires training in data management skills and application of appropriate bio-statistical techniques to specific research questions and data sets."
+    },
+    {
+      "Code": "KES4841",
+      "name": "Exercise and Sport Psychology",
+      "Description": "Assists students in understanding how humans regulate their thoughts, feelings, and emotions and how their behavior can become more effective. Understands how human emotions affect performance."
+    },
+    {
+      "Code": "KES4441",
+      "name": "Exercise and Sport Psychology",
+      "Description": "Assists students in understanding how humans regulate their thoughts, feelings, and emotions and how their behavior can become more effective. Understands how human emotions affect performance."
+    },
+    {
+      "Code": "KSR4842",
+      "name": "Seminar in Recreation and Leisure Services",
+      "Description": "Develops students’ ability to critique articles, review scientific information, and prepare students for seminar presentations. Discusses intelligently on topics of current interest in biokinetics/exercise and sport science.",
+      "prerequisites": [{"Course": "KRM3845"}]
+    },
+    {
+      "Code": "KSR4442",
+      "name": "Seminar in Recreation and Leisure Services",
+      "Description": "Develops students’ ability to critique articles, review scientific information, and prepare students for seminar presentations. Discusses intelligently on topics of current interest in biokinetics/exercise and sport science.",
+      "prerequisites": [{"Course": "KRM3845"}]
+    },
+    {
+      "Code": "KAM4843",
+      "name": "Organization and Administration of Major Events",
+      "Description": "Introduces students to concepts of organizing and administrating events in recreation and leisure sector."
+    },
+    {
+      "Code": "KAM4443",
+      "name": "Organization and Administration of Major Events",
+      "Description": "Introduces students to concepts of organizing and administrating events in recreation and leisure sector."
+    },
+    {
+      "Code": "KRP4844",
+      "name": "Research Project; Data Collection and Analysis",
+      "Description": "Enables students to present the required mini-dissertation based on research done in their area of specialty.",
+      "prerequisites": [{"$and": [{"Course": "KRM3845"}, {"Course": "KSB4842"}]}]
+    },
+    {
+      "Code": "KRP4444",
+      "name": "Research Project; Data Collection and Analysis",
+      "Description": "Enables students to present the required mini-dissertation based on research done in their area of specialty.",
+      "prerequisites": [{"$and": [{"Course": "KRM3845"}, {"Course": "KSB4842"}]}]
+    },
+    {
+      "Code": "KPR4845",
+      "name": "Practicum in Recreation and Leisure Services",
+      "Description": "Acquires practical knowledge and technical know-how regarding the delivery of recreation and leisure services. Works closely with different communities to determine their recreation and leisure preferences."
+    },
+    {
+      "Code": "KPR4445",
+      "name": "Practicum in Recreation and Leisure Services",
+      "Description": "Acquires practical knowledge and technical know-how regarding the delivery of recreation and leisure services. Works closely with different communities to determine their recreation and leisure preferences."
+    },
+    {
+      "Code": "KOP1841",
+      "name": "Orientation to PBL, Biokinetics and Recreation and Leisure Studies programme",
+      "Description": "Introduces students to the three programs in the Center and to the teaching methodology adopted by the School of Health Sciences."
+    },
+    {
+      "Code": "KOP1441",
+      "name": "Orientation to PBL, Biokinetics and Recreation and Leisure Studies programme",
+      "Description": "Introduces students to the three programs in the Center and to the teaching methodology adopted by the School of Health Sciences."
+    },
+    {
+      "Code": "KFH1842",
+      "name": "Foundation of Human Movement Science and Human Behaviour",
+      "Description": "Aims to introduce students to the nature, scope, and concepts often used in the field of Human Movement. Examines movement behaviors often adopted by individuals and appreciates mobility factors in overcoming problems of sedentariness and inactivity."
+    },
+    {
+      "Code": "KFH1442",
+      "name": "Foundation of Human Movement Science and Human Behaviour",
+      "Description": "Aims to introduce students to the nature, scope, and concepts often used in the field of Human Movement. Examines movement behaviors often adopted by individuals and appreciates mobility factors in overcoming problems of sedentariness and inactivity."
+    },
+    {
+      "Code": "KHA1843",
+      "name": "Human Anatomy and Physiology",
+      "Description": "Introduces students to basic human anatomy and physiology. Explores how these two subjects affect movement and analysis in sport and injury rehabilitation.",
+      "prerequisites": [{"$and":[{"Course":"Life sciences"},{"Course":"Physics"}]}]
+    },
+    {
+      "Code": "KHA1443",
+      "name": "Human Anatomy and Physiology",
+      "Description": "Introduces students to basic human anatomy and physiology. Explores how these two subjects affect movement and analysis in sport and injury rehabilitation.",
+      "prerequisites": [{"$and":[{"Course":"Life sciences"},{"Course":"Physics"}]}]
+    },
+    {
+      "Code": "KSS1844",
+      "name": "Sports Skills Fundamentals and Physical Performance",
+      "Description": "Aims to introduce students to selected games, sports (individual, dual or team), and physical activities for health and fitness development. Activities are selected based on factors including accessibility, availability, cost, facilities, equipment, and skill levels."
+    },
+    {
+      "Code": "KSS1444",
+      "name": "Sports Skills Fundamentals and Physical Performance",
+      "Description": "Aims to introduce students to selected games, sports (individual, dual or team), and physical activities for health and fitness development. Activities are selected based on factors including accessibility, availability, cost, facilities, equipment, and skill levels."
+    },
+    {
+      "Code": "KPC1845",
+      "name": "Physical Conditioning for Sports, Exercise and Games",
+      "Description": "Introduces students to basic concepts in conditioning, physical fitness, exercise, and physical activity. Develops skills for conditioning athletes prior to competition."
+    },
+    {
+      "Code": "KPC1445",
+      "name": "Physical Conditioning for Sports, Exercise and Games",
+      "Description": "Introduces students to basic concepts in conditioning, physical fitness, exercise, and physical activity. Develops skills for conditioning athletes prior to competition."
+    },
+    {
+      "Code": "KNS2841",
+      "name": "Neuromuscular Systems in Health and Wellness",
+      "Description": "Teaches students the neuromuscular and skeletal systems and their role in providing highly organized, flexible, and complex movements. Also teaches students to appreciate the structure and function of the skeletal system, the system of joints (the articular system), and the muscular system as facilitators of movement."
+    },
+    {
+      "Code": "KNS2441",
+      "name": "Neuromuscular Systems in Health and Wellness",
+      "Description": "Teaches students the neuromuscular and skeletal systems and their role in providing highly organized, flexible, and complex movements. Also teaches students to appreciate the structure and function of the skeletal system, the system of joints (the articular system), and the muscular system as facilitators of movement."
+    },
+    {
+      "Code": "KEP2842",
+      "name": "Exercise and Physical Activity for Diverse (Special) Population",
+      "Description": "Provides students with an understanding of the unique physical, physiologic, and behavioral characteristics that require special consideration for exercise testing, exercise prescription, and training. Applies recommended procedures for exercise testing and prescription for three non-diseased special populations – children, the elderly, and pregnant women."
+    },
+    {
+      "Code": "KEP2442",
+      "name": "Exercise and Physical Activity for Diverse (Special) Population",
+      "Description": "Provides students with an understanding of the unique physical, physiologic, and behavioral characteristics that require special consideration for exercise testing, exercise prescription, and training. Applies recommended procedures for exercise testing and prescription for three non-diseased special populations – children, the elderly, and pregnant women."
+    },
+    {
+      "Code": "KPA2843",
+      "name": "Physical Activity Health and Lifestyle",
+      "Description": "Provides students with in-depth knowledge and understanding of the benefits of physical activity in the prevention and treatment of various health conditions of growing concern worldwide."
+    },
+    {
+      "Code": "KPA2443",
+      "name": "Physical Activity Health and Lifestyle",
+      "Description": "Provides students with in-depth knowledge and understanding of the benefits of physical activity in the prevention and treatment of various health conditions of growing concern worldwide."
+    },
+    {
+      "Code": "KML2844",
+      "name": "Motor Learning, Motor Behaviour and Performance",
+      "Description": "Teaches how humans learn skilled actions and how the principles of motor (movement) performance and learning can be useful in teaching, coaching, rehabilitation, and the design of performer-friendly equipment and work environment."
+    },
+    {
+      "Code": "KML2444",
+      "name": "Motor Learning, Motor Behaviour and Performance",
+      "Description": "Teaches how humans learn skilled actions and how the principles of motor (movement) performance and learning can be useful in teaching, coaching, rehabilitation, and the design of performer-friendly equipment and work environment."
+    },
+    {
+      "Code": "KNE2845",
+      "name": "Nutrition for Sports and Exercise",
+      "Description": "Introduces students to the basis of good nutrition, the importance of activity in weight control, and the contributions of fitness to fat metabolism and weight control. Examines how nutrition can affect performance, focusing on the substances ingested, their importance beyond their role in bioenergetics, and dispelling myths."
+    },
+    {
+      "Code": "KNE2845",
+      "name": "Nutrition for Sports and Exercise",
+      "Description": "Introduces students to the basis of good nutrition, the importance of activity in weight control, and the contributions of fitness to fat metabolism and weight control. Examines how nutrition can affect performance, focusing on the substances ingested, their importance beyond their role in bioenergetics, and dispelling myths."
+    },
+    {
+      "Code": "KTR2846",
+      "name": "Therapeutic Recreation for Health and Wellness",
+      "Description": "Discusses the techniques used as interventions by therapeutic recreation specialists and the recreation therapeutic process utilized to bring about changes in the client and client’s environment."
+    },
+    {
+      "Code": "KTR2846",
+      "name": "Therapeutic Recreation for Health and Wellness",
+      "Description": "Discusses the techniques used as interventions by therapeutic recreation specialists and the recreation therapeutic process utilized to bring about changes in the client and client’s environment."
+    },
+    {
+      "Code": "KKB3841",
+      "name": "Knowledge Bases of Sport and Exercise Science",
+      "Description": "Introduces students to the nature, scope, and concepts of sport and exercise. Assists students in having an analytic understanding of Sport and Exercise Science as a human performance-enhancement sub-discipline."
+    },
+    {
+      "Code": "KKB3441",
+      "name": "Knowledge Bases of Sport and Exercise Science",
+      "Description": "Introduces students to the nature, scope, and concepts of sport and exercise. Assists students in having an analytic understanding of Sport and Exercise Science as a human performance-enhancement sub-discipline."
+    },
+    {
+      "Code": "KEP3842",
+      "name": "Exercise (Applied) Physiology",
+      "Description": "Introduces students to advanced concepts in exercise physiology and health-related issues. Helps understand the health implications of training-induced physiological adaptation and advanced concepts on the physiology of physical training, conditioning, and adaptation.",
+      "prerequisites": [{"Course":"KHA1843"}]
+    },
+    {
+      "Code": "KEP3442",
+      "name": "Exercise (Applied) Physiology",
+      "Description": "Introduces students to advanced concepts in exercise physiology and health-related issues. Helps understand the health implications of training-induced physiological adaptation and advanced concepts on the physiology of physical training, conditioning, and adaptation.",
+      "prerequisites": [{"Course":"KHA1843"}]
+    },
+    {
+      "Code": "KAE3843",
+      "name": "Assessment and Evaluation Techniques in Exercise and Physical Activity",
+      "Description": "Teaches basic skills of quantifying certain body parameters (e.g. body mass, body fatness, body mass index, etc.) in relation to health status and sport performance."
+    },
+    {
+      "Code": "KAE3443",
+      "name": "Assessment and Evaluation Techniques in Exercise and Physical Activity",
+      "Description": "Teaches basic skills of quantifying certain body parameters (e.g. body mass, body fatness, body mass index, etc.) in relation to health status and sport performance."
+    },
+    {
+      "Code": "KAB3844",
+      "name": "Applied Kinesiology and Biomechanics",
+      "Description": "Introduces students to basic physics, laws of dynamics and motion. Aims to acquire a basic understanding of the application of applied human anatomy and physiology and mechanical physics to human movement associated with sports, exercise, and physical activities.",
+      "prerequisites": [{"$and":[{"Course":"KHA1843"},{"Course":"Physics"}]}]
+    },
+    {
+      "Code": "KAB3444",
+      "name": "Applied Kinesiology and Biomechanics",
+      "Description": "Introduces students to basic physics, laws of dynamics and motion. Aims to acquire a basic understanding of the application of applied human anatomy and physiology and mechanical physics to human movement associated with sports, exercise, and physical activities.",
+      "prerequisites": [{"$and":[{"Course":"KHA1843"},{"Course":"Physics"}]}]
+    },
+    {
+      "Code": "KRM3845",
+      "name": "Research Methods and Biostatistics",
+      "Description": "Acquires knowledge and ability to design research problems. Provides training in data management skills and the application of appropriate bio-statistical techniques to specific research questions and data sets."
+    },
+    {
+      "Code": "KRM3445",
+      "name": "Research Methods and Biostatistics",
+      "Description": "Acquires knowledge and ability to design research problems. Provides training in data management skills and the application of appropriate bio-statistical techniques to specific research questions and data sets."
+    },
+    {
+      "Code": "KSM3846",
+      "name": "Sports Medicine, Injury Assessment and Rehabilitation",
+      "Description": "Teaches students to develop knowledge of common injuries in sports and other conditions. Acquires skills in assessing orthopaedic injuries/conditions and rehabilitation common in different sports and populations."
+    },
+    {
+      "Code": "KSM3446",
+      "name": "Sports Medicine, Injury Assessment and Rehabilitation",
+      "Description": "Teaches students to develop knowledge of common injuries in sports and other conditions. Acquires skills in assessing orthopaedic injuries/conditions and rehabilitation common in different sports and populations."
+    },
+    {
+      "Code": "KSE4841",
+      "name": "Kinanthropometry in Sports and Exercise",
+      "Description": "Introduces students to the subject area of Kinanthropometry as an important area in understanding performance in sport and physical activity. Aims to assist students in acquiring skills in the measurement of various dimensions of the body based on anatomical landmarks and the application of measurement results to sports and physical activity."
+    },
+    {
+      "Code": "KSE4441",
+      "name": "Kinanthropometry in Sports and Exercise",
+      "Description": "Introduces students to the subject area of Kinanthropometry as an important area in understanding performance in sport and physical activity. Aims to assist students in acquiring skills in the measurement of various dimensions of the body based on anatomical landmarks and the application of measurement results to sports and physical activity."
+    },
+    {
+      "Code": "KSE4442",
+      "name": "Seminar in Exercise and Sport Science",
+      "Description": "Develops students' ability to critique articles and review scientific information in their fields of study. Prepares students to develop skills and ability in seminar presentations and to discuss intelligently topics of current interest in biokinetics/exercise and sport science.",
+      "prerequisites": [{"Course":"KRM3845"}]
+    },
+    {
+      "Code": "KSE4442",
+      "name": "Seminar in Exercise and Sport Science",
+      "Description": "Develops students' ability to critique articles and review scientific information in their fields of study. Prepares students to develop skills and ability in seminar presentations and to discuss intelligently topics of current interest in biokinetics/exercise and sport science.",
+      "prerequisites": [{"Course":"KRM3845"}]
+    },
+    {
+      "Code": "KRP4843",
+      "name": "Research Project, Data Collection",
+      "Description": "At the end of the programme, a student will be able to present the required mini-dissertation based on research done in their area of specialty. This module provides the student with an excellent opportunity to implement ideas and knowledge gathered in theory and practical courses and conduct supervised research in the field of Biokinetics or Exercise and Sport Science.",
+      "prerequisites": [{"$and":[{"Course":"KRM3845"},{"Course":"KSB4842"}]}]
+    },
+    {
+      "Code": "KRP4443",
+      "name": "Research Project, Data Collection",
+      "Description": "At the end of the programme, a student will be able to present the required mini-dissertation based on research done in their area of specialty. This module provides the student with an excellent opportunity to implement ideas and knowledge gathered in theory and practical courses and conduct supervised research in the field of Biokinetics or Exercise and Sport Science.",
+      "prerequisites": [{"$and":[{"Course":"KRM3845"},{"Course":"KSB4842"}]}]
+    },
+    {
+      "Code": "KES4844",
+      "name": "Exercise and Sport Science Practicum",
+      "Description": "Exposes students to experience in both clinical, laboratory, and field settings employing sport science practices and principles. Students may be sent on attachment to sports clubs/teams, physical fitness centres, and sports medicine clinics. They may also be assigned to the University Biokinetic Clinic."
+    },
+    {
+      "Code": "KES4444",
+      "name": "Exercise and Sport Science Practicum",
+      "Description": "Exposes students to experience in both clinical, laboratory, and field settings employing sport science practices and principles. Students may be sent on attachment to sports clubs/teams, physical fitness centres, and sports medicine clinics. They may also be assigned to the University Biokinetic Clinic."
+    },
+    {
+      "Code": "KES4845",
+      "name": "Exercise and Sport Psychology",
+      "Description": "Assists students to understand how humans regulate their thoughts, feelings, and emotions and how their behavior can become more effective. Aims to understand how human emotions affect performance."
+    },
+    {
+      "Code": "KES4445",
+      "name": "Exercise and Sport Psychology",
+      "Description": "Assists students to understand how humans regulate their thoughts, feelings, and emotions and how their behavior can become more effective. Aims to understand how human emotions affect performance."
+    }
+    ]
+}
+  

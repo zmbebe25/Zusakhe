@@ -1,0 +1,1682 @@
+[
+    {
+      "Module name": "Academic Literacy for Commerce",
+      "Module Code": "ACCT1ALPYWY",
+      "Prerequisite Requirement": "None",
+      "Aim": "The purpose of this module is to develop and improve students’ academic literacies that they will need to succeed in their academic programmes. It will equip students with discipline specific vocabulary and the skills to cope with reading and writing in a Commerce field.",
+      "Content": "The module will focus on: Reading and Writing for purpose; Research into selected topics; Genre-specific vocabulary; Appropriate dictionary use; Paraphrasing; Extended writing for a specific purpose and Writing with cohesion Assessment: 4 Assignments (80%) and 1 project (20%)",
+      "Assessments":[
+        {
+            "Name": "Assignment 1",
+            "Type": "Assignment",
+            "Weight": 20,
+            "Equal": false,
+            "Subitems": [
+              {
+                "Name": "Assignment 2"
+              },
+              {
+                "Name": "Assignment 3"
+              },
+              {
+                "Name": "Assignment 4"
+              }
+
+            ]
+          },
+          {
+            "Name": "project",
+            "Type": "project",
+            "Weight": 20
+          }
+      ]
+    },
+    {
+      "Module name": "Accounting 101",
+      "Module Code": "ACCT101P1W1",
+      "Prerequisite Requirement": "Nil",
+      "Content": "The module provides the student with an understanding of the role of accounting in business, various forms of business entities, the conceptual framework and the theory underpinning certain International Financial Reporting Standards and provides the student with the ability to record certain financial transactions and to prepare basic financial statements in accordance with IFRSs and the Companies Act.",
+      "Assessment": "Class Mark (50%), Examination (50%)",
+      "Assessments":[
+        {
+            "Name": "Class Mark",
+            "Type": "Assessment",
+            "Weight": 50,
+            "Dynamic": true
+
+          },
+          {
+            "Name": "Examination",
+            "Type": "Examination",
+            "Weight": 50
+          }
+      ]    
+    },
+    {
+      "Module name": "Accounting 102",
+      "Module Code": "ACCT102P2W2",
+      "Prerequisite Requirement": "ACCT101",
+      "Prerequisite":[{"Course":"ACCT101"}],
+      "Content": "The module builds on the material studied in Accounting 101 by introducing further International Financial Reporting Standards. The module aims to provide an understanding of the theory underpinning these standards and an ability to apply these standards when recording certain financial transactions and preparing basic financial statements in accordance with International Financial Reporting Standards and the Companies Act.",
+      "Assessment": "Class Mark (50%), Examination (50%)",
+      "DP Requirement": "A class mark of 40%",
+      "Assessments":[
+        {
+            "Name": "Class Mark",
+            "Type": "Assessment",
+            "Weight": 50,
+            "Dynamic": true
+
+          },
+          {
+            "Name": "Examination",
+            "Type": "Examination",
+            "Weight": 50
+          }
+      ]    
+    },
+    {
+      "Module name": "Accounting 103",
+      "Module Code": "ACCT103P2W2H2",
+      "Prerequisite Requirement": "None",
+      "Content": "The objectives of the module are to provide students with the business knowledge necessary to formulate a successful business plan; to expose students to sound business controls and tools for the running of a successful business; and to introduce students to basic taxation in a small business.",
+      "Assessment": "Class Mark (50%), Examination (50%)",
+      "DP Requirement": "None",
+      "Assessments":[
+        {
+            "Name": "Class Mark",
+            "Type": "Assessment",
+            "Weight": 50,
+            "Dynamic": true
+
+          },
+          {
+            "Name": "Examination",
+            "Type": "Examination",
+            "Weight": 50
+          }
+      ]    
+    },
+    {
+      "Module name": "Financial Accounting 2A",
+      "Module Code": "ACCT211P1W1",
+      "Prerequisite Requirement": "ACCT102",
+      "Prerequisite":[{"Course":"ACCT102"}],
+      "Aim": "Equip learners to compile and critically evaluate primary financial statements.",
+      "Content": "The module builds on the material studied in ACCT101 and ACCT 102 by introducing further International Financial Reporting Standards. On completion of the module, students should be able to prepare general purpose financial statements of an entity in accordance with all IFRSs and sections of the Companies Act studied to date. Students should also be able to make and evaluate both financial accounting and financial reporting decisions and should be able to explain the reasoning behind such decisions with reference to the principles and requirements included in the IFRSs.",
+      "Assessment": "Class Mark (40%), Examination (60%)",
+      "DP Requirement": "A class mark of 40%",
+      "Assessments":[
+        {
+            "Name": "Class Mark",
+            "Type": "Assessment",
+            "Weight": 40,
+            "Dynamic": true
+
+          },
+          {
+            "Name": "Examination",
+            "Type": "Examination",
+            "Weight": 60
+          }
+      ]   
+    },
+    {
+      "Module name": "Financial Accounting 2B",
+      "Module Code": "ACCT212P2W2",
+      "Prerequisite Requirement": "ACCT211",
+      "Prerequisite":[{"Course":"ACCT211"}],
+      "Aim": "Equip learners to compile and critically evaluate primary financial statements.",
+      "Content": "The module builds on the material studied in ACCT211 by introducing further International Financial Reporting Standards. On completion of the module, students should be able to prepare general purpose financial state1ments of an entity in accordance with all IFRSs and sections of the Companies Act studied to date. Students should also be able to make and evaluate both financial accounting and financial reporting decisions and should be able to explain the reasoning behind such decisions with reference to the principles and requirements included in the IFRSs.",
+      "Assessment": "Class Mark (40%), Examination (60%)",
+      "DP Requirement": "A class mark of 40%",
+      "Assessments":[
+        {
+            "Name": "Class Mark",
+            "Type": "Assessment",
+            "Weight": 40,
+            "Dynamic": true
+
+          },
+          {
+            "Name": "Examination",
+            "Type": "Examination",
+            "Weight": 60
+          }
+      ]    
+
+
+    },
+    {
+      "Module name": "Financial Accounting 3A",
+      "Module Code": "AACCT311P1,W1",
+      "Prerequisite Requirement": "ACCT212",
+      "Prerequisite":[{"Course":"ACCT212"}],
+      "Aim": "The module builds on the material studied in Financial Accounting 211 and Financial Accounting 212 by introducing further International Financial Reporting Standards. On completion of the module, the student should be able to prepare general purpose financial statements (primary and group) in compliance with all International Financial Reporting Standards and sections of the Companies Act studied to date. Students should also be able to make and evaluate financial accounting and reporting decisions and explain the reasoning behind such decisions with reference to the principles and requirements included in International Financial Reporting Standards.",
+      "Content": "On completion of the course the student should be able to Identify, define and describe those areas relevant to a conceptual framework for financial reporting according to International Financial Reporting Standards (IFRS). Prepare the financial statements and other financial reports from the underlying accounting entries for differing forms of the business entity in a manner which recognises the objectives of financial reporting as applicable to the entity form, complies with that IFRS which best gives expression to the concepts underlying accounting, and complies with the requirements of the Companies Act of 2008. Explain and evaluate the implications of accounting standards and whether current practice is consistent with the needs of users and the objectives of financial reporting. The following topics are offered in this module:"
+
+    },
+    {
+      "Module name": "Financial Accounting 3B",
+      "Module Code": "ACCT312W2P2",
+      "Prerequisite Requirement": "At least 40% in ACCT311",
+      "Prerequisite":[{"Comment":"At least 40% in ACCT311"} ],
+      "Aim": "The module builds on the material studied in Financial Accounting 3A by introducing more advanced standards of International Financial Reporting Standards. On completion of the module, the student should be able to apply the accounting standards to financial instruments, equities, associates, subsidiaries and joint ventures. Students should also be able to prepare advanced financial statements including group financial statements and changes in holdings in compliance with all International Financial Reporting Standards and sections of the Companies Act studied to date. Students should also be able to make and evaluate financial accounting and reporting decisions and explain the reasoning behind such decisions with reference to the principles and requirements included in International Financial Reporting Standards.",
+      "Content": "The module content will include Revenue, Earnings per share, Non-Current Assets Held for Sale, Employee Benefits and Group Financial Statements. Group Financial Statements will include: Account for Business Combinations: prepare group statement of financial position, group statement of comprehensive income, group statement of changes in equity and notes to financial statements in a form suitable for publication in compliance with IFRS and statutory requirements.",
+      "Assessment": "Class Mark (40%), Examination (60%)",
+      "DP Requirement": "A class mark of 40%",
+      "Assessments":[
+        {
+            "Name": "Class Mark",
+            "Type": "Assessment",
+            "Weight": 40,
+            "Dynamic": true
+
+          },
+          {
+            "Name": "Examination",
+            "Type": "Examination",
+            "Weight": 60
+          }
+      ]   
+    },
+    {
+        "Module name": "Advanced Accounting",
+        "Module Code": "ACCT6DAWYPY",
+        "Prerequisite Requirement": "Completion of the approved curriculum as per rule LM-U19",
+        "Prerequisite": [{"Comment": "Completion of the approved curriculum as per rule LM-U19"}],
+        "Aim": "To equip learners to compile and critically evaluate primary and group financial statements.",
+        "Content": "In compliance with the International Financial Reporting Standards, the following: Company annual financial statements: financial position, performance and cash flows and their recognition measurement and presentation and disclosure; group annual financial statements. Advanced problems and applications: holding company accounting; issue of shares by subsidiary; equity accounting; foreign subsidiaries; associated companies; consolidated cash flow statements; joint ventures. Changes in the form and capital structure of the enterprise: business combinations; reconstructions, reorganisations and liquidations.",
+        "Assessment": "Class Mark (30%), Examination (70%)",
+        "DP Requirement": "A class mark of 40%",
+        "Assessments": [
+        {
+        "Name": "Class Mark",
+        "Type": "Assessment",
+        "Weight": 30,
+        "Dynamic": true
+        },
+        {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 70
+        }
+        ]
+    },
+    {
+        "Module name": "Advanced Financial Accounting",
+        "Module Code": "ACCT7DAWYPY",
+        "Prerequisite Requirement": "Completion of the approved curriculum as per rule LM-U19.",
+        "Prerequisite": [
+        {"Comment": "Completion of the approved curriculum as per rule LM-U19."}
+        ],
+        "Aim": "To equip learners to compile and critically evaluate primary and group financial statements.",
+        "Content": "In compliance with the International Financial Reporting Standards, the following: Company annual financial statements: financial position, performance and cash flows and their recognition measurement and presentation and disclosure; group annual financial statements. Advanced problems and applications: holding company accounting; issue of shares by subsidiary; equity accounting; foreign subsidiaries; associated companies; consolidated cash flow statements; joint ventures. Changes in the form and capital structure of the enterprise: business combinations; reconstructions, reorganizations and liquidations.",
+        "Assessment": "Class Mark (50) Examination (50%)",
+        "DP Requirement": "A class mark of 40%",
+        "Assessments": [
+        {
+        "Name": "Class Mark",
+        "Type": "Assessment",
+        "Weight": 50,
+        "Dynamic": true
+        },
+        {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 50
+        }
+        ]
+        },
+        {
+        "Module name": "Research Project",
+        "Module Code": "ACCT7RPWYPY",
+        "Prerequisite Requirement": "Acceptance onto the Honours Accounting programme.",
+        "Prerequisite": [
+        {"Comment": "Acceptance onto the Honours Accounting programme."}
+        ],
+        "Aim": "To enable learners to conduct research on an approved topic leading to a dissertation.",
+        "Content": "Research and preparation of a dissertation on an approved topic.",
+        "Assessment": "Research Dissertation (100%)",
+        "DP Requirement": "None",
+        "Assessments": [
+        {
+        "Name": "Research Dissertation",
+        "Type": "Assessment",
+        "Weight": 100
+        }
+        ]
+        },
+        {
+        "Module name": "M Res Diss Financial Acct Subseq Yr",
+        "Module Code": "ACCT8DSW1W2",
+        "Content": "The module consists of two components: (i) Research Methodology: addressing problems with scientific thinking, types of research, the problem statement, stating research hypothesis, ethics in research, sources and collection of data, statistical techniques in research, the research proposal, methods of citation, and analysis and presentation of data; and (ii) a research dissertation consisting of at least 20 000 words on an aspect of financial accounting approved by the Programme Director.",
+        "Assessment": "Research Dissertation (100%)",
+        "DP Requirement": "None",
+        "Assessments": [
+        {
+        "Name": "Research Dissertation",
+        "Type": "Assessment",
+        "Weight": 100
+        }
+        ]
+        },
+        {
+        "Module name": "M Res Diss Financial Acct",
+        "Module Code": "ACCT8FDW1W2",
+        "Prerequisite Requirement": "Completion of an honours degree within the field of financial accounting",
+        "Corequisite1": "Research Methodology – ACCT8RM",
+        "Prerequisite":[{"Comment":"Completion of an honours degree within the field of financial accounting"} ],
+        "Corequisite": [{"Course":"ACCT8RM"}],
+        "Aim": "To produce a dissertation consisting of at least 20 000 words on an aspect of financial accounting.",
+        "Content": "Students must complete a research dissertation on an aspect of financial accounting approved by the Programme coordinator.",
+        "Assessment": "Research Dissertation (100%)",
+        "DP Requirement": "None",
+        "Assessments": [
+        {
+        "Name": "Research Dissertation",
+        "Type": "Assessment",
+        "Weight": 100
+        }
+        ]
+        },
+        {
+        "Module name": "Reporting Financial Performance",
+        "Module Code": "ACCT8FPWB",
+        "Content": "Certain International Financial Reporting Standards guide the recognition of revenue (and associated expenses), the presentation of certain items within the format of the income statement, and the presentation and calculation of certain performance indicators (for example, earnings per share). This module studies these with specific emphasis on those areas that are still subject to international debate (eg. measurement bases and income measurement).",
+        "Assessment": "Class Mark (50%), Examination (50%)",
+        "DP Requirement": "None",
+        "Assessments": [
+        {
+        "Name": "Class Mark",
+        "Type": "Assessment",
+        "Weight": 50,
+        "Dynamic": true
+        },
+        {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 50
+        }
+        ]
+    },
+    {
+        "Module name": "Managerial Accounting & Financial Mgt 200",
+        "Module Code": "ACCT231P2W2",
+        "Prerequisite Requirement": "ACCT102",
+        "Prerequisite": [
+        {"Course": "ACCT102"}
+        ],
+        "Aim": "To provide an introduction to the principles of management accounting and financial management.",
+        "Content": "Introduction to costing and costing terminology. Cost assignment. Job costing. Process costing. Joint & By products. Absorption vs Variable costing. Introduction to Cost Volume Profit analysis. Financial Management Overview. Time value of money. Risk and Return. Financial Statement analysis. Introduction to capital budgeting.",
+        "Assessment": "Class mark (40%), Examination (60%)",
+        "DP Requirement": "A class mark of 40%",
+        "Assessments": [
+        {
+        "Name": "Class Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+        },
+        {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 60
+        }
+        ]
+        },
+        {
+        "Module name": "Management and Cost Accounting 200",
+        "Module Code": "ACCT251P1W1",
+        "Prerequisite Requirement": "ACCT102",
+        "Prerequisite": [
+        {"Course": "ACCT102"}
+        ],
+        "Aim": "To introduce students to Management and Cost Accounting principles, concepts and techniques in terms of the competencies outlined by the South African Institute of Chartered Accountants (SAICA). The aim allows students to acquire knowledge and understanding of the concepts, techniques and practices within cost and management accounting and to develop skills necessary for decision making practice",
+        "Content": "The module content will include an introduction to costing and costing terminology, costing systems, and costing information, and management accounting for decision making. These techniques consist of principles and rules which govern the procedure of ascertaining cost of products or services.",
+        "Assessment": "Class mark (40%), Examination (60%)",
+        "DP Requirement": "A class mark of 40%",
+        "Assessments": [
+        {
+        "Name": "Class Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+        },
+        {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 60
+        }
+        ]
+        },
+        {
+        "Module name": "Managerial Accounting & Financial Management 3A",
+        "Module Code": "ACCT331P1W1",
+        "Prerequisite Requirement": "ACCT212 and ACCT231",
+        "Prerequisite": [ {"$and":[{"Course":"ACCT212"},{"Course":"ACCT231"}]}
+        ],
+        "Aim": "To further students’ understanding of and competency in Managerial Accounting concepts and techniques in terms of the competencies outlined by the South African Institute of Chartered Accountants (SAICA) This module has two key objectives: • To prepare the student for entry into post-graduate studies of Management Accounting (that is Advanced Management Accounting), as well as • To equip the student with the management accounting tools required to allow the student to work within the finance department of a business",
+        "Content": "The module content will include a revision of the introduction to costing, costing terminology, and costing systems previously taught in ACCT231. Thereafter tools for managing and controlling cost are covered in detail, together with those for providing information for decision-making.",
+        "Assessment": "Class mark (40%), Examination (60%)",
+        "DP Requirement": "A class mark of 40%",
+        "Assessments": [
+        {
+        "Name": "Class Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+        },
+        {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 60
+        }
+        ]
+    },
+    {
+        "Module name": "Managerial Accounting & Financial Management 3B",
+        "Module Code": "ACCT332P2W2",
+        "Prerequisite Requirement": "40% in ACCT331",
+        "Prerequisite": [{"Comment": "40% in ACCT331"}],
+        "Aim": "To further students’ understanding of and competency in Managerial Accounting and, concepts and techniques in terms of the competencies outlined by the South African Institute of Chartered Accountants (SAICA). This module has two key objectives: • To prepare the student for entry into post-graduate studies of Financial Management (that is Advanced Financial Management), as well as • To equip the student with the financial management tools required to allow the student to work within the finance department of a business.",
+        "Content": "The module content will include a revision of the introduction to financial management, risk and return and financial statement analysis previously taught in ACCT231.Thereafter, the tools for evaluation of risk and return and financial statement analysis will be expanded upon. Further investment decisions, working capital management and valuations will be covered in detail.",
+        "Assessment": "Class mark (40%), Examination (60%)",
+        "DP Requirement": "A class mark of 40%",
+        "Assessments": [
+        {"Name": "Class Mark", "Type": "Assessment", "Weight": 40, "Dynamic": true},
+        {"Name": "Examination", "Type": "Examination", "Weight": 60}
+        ]
+        },
+        {
+        "Module name": "Taxation 3A",
+        "Module Code": "ACCT341P1W1",
+        "Prerequisite Requirement": "ACCT212",
+        "Prerequisite": [{"Course": "ACCT212"}],
+        "Aim": "The aim of the module is to achieve an intermediate comprehension and application of fiscal legislation in South Africa, and to develop the ability to interpret and apply the laws and procedures relating to taxes levied in terms of the Income Tax Act 58 of 1962. Moreover to provide an intermediate understanding of the principles governing the calculation of individual and corporate tax in South Africa.",
+        "Content": "The calculation of the different types of taxes contained in the Income Tax Act, with a primary focus on the overview of the tax structure in South Africa, including the definition of gross income, source and residence rules, exemptions and deductions, capital and revenue, and capital gains pertaining to an individuals and company’s tax liability to the fiscus.",
+        "Assessment": "Class mark (40%), Examination (60%)",
+        "DP Requirement": "A class mark of 40%",
+        "Assessments": [
+        {"Name": "Class Mark", "Type": "Assessment", "Weight": 40, "Dynamic": true},
+        {"Name": "Examination", "Type": "Examination", "Weight": 60}
+        ]
+        },
+        {
+        "Module name": "Taxation 3B",
+        "Module Code": "ACCT342P2W2",
+        "Prerequisite Requirement": "40% in ACCT341",
+        "Prerequisite": [{"Comment": "40% in ACCT341"}],
+        "Aim": "The aim of the module is to achieve a detailed comprehension and application of fiscal legislation in South Africa, and to develop the ability to interpret and apply the laws and procedures relating to taxes levied in terms of the Income Tax Act 58 of 1962. Moreover to provide a detailed understanding of the principles governing the calculation of individual and corporate tax in South Africa.",
+        "Content": "The calculation of the different types of taxes contained in the Income Tax Act as well as other taxes such as VAT and Estate Duty. Fringe benefits as well as employees’ tax, provisional tax, dividends tax and tax avoidance are also included in the module.",
+        "Assessment": "Class Mark (40%) Examination (60%)",
+        "DP Requirement": "A class mark of 40%",
+        "Assessments": [
+        {"Name": "Class Mark", "Type": "Assessment", "Weight": 40, "Dynamic": true},
+        {"Name": "Examination", "Type": "Examination", "Weight": 60}
+        ]
+        },
+        {
+        "Module name": "Business Law 102",
+        "Module Code": "BBAP1BLP2W2",
+        "Prerequisite Requirement": "None.",
+        "Prerequisite": [{"Comment": "None."}],
+        "Aim": "To introduce learners to substantive and procedural topics in business law.",
+        "Content": "Law as an environmental component and its impact on the organisation; Sources of law; basic legal concepts; principles of SA business law.",
+        "Assessment": "Class Mark 40%, Examination 60%",
+        "DP Requirement": "Students must obtain a class mark of at least 40%",
+        "Assessments": [
+        {"Name": "Class Mark", "Type": "Assessment", "Weight": 40, "Dynamic": true},
+        {"Name": "Examination", "Type": "Examination", "Weight": 60}
+        ]
+        },
+        {
+        "Module name": "Computing 102",
+        "Module Code": "BBAP1C2W2P2",
+        "Prerequisite Requirement": "Learners must meet the requirements for admission to study for the BBA.",
+        "Prerequisite": [{"Comment": "Learners must meet the requirements for admission to study for the BBA."}],
+        "Aim": "To provide students with the theory and practice needed to attain computer literacy skills in Windows, MS Word, MS Excel, and an appreciation of the Internet as a foundational element of management studies.",
+        "Content": "MS Windows; MS Word (word-processing, creating business correspondence/documents); MS Excel (setting up spreadsheets, formatting, calculations, charts,); Internet (search engines, downloading, security).",
+        "Assessment": "Class Mark 40%, Examination 60%",
+        "DP Requirement": "Students must obtain a class mark of at least 40%",
+        "Assessments": [
+        {"Name": "Class Mark", "Type": "Assessment", "Weight": 40, "Dynamic": true},
+        {"Name": "Examination", "Type": "Examination", "Weight": 60}
+        ]
+        },
+        {
+        "Module name": "Communication in Business 101",
+        "Module Code": "BBAP1CBP1W1",
+        "Prerequisite Requirement": "None",
+        "Prerequisite": [{"Comment": "None"}],
+        "Aim": "To develop communication and interpersonal skills applicable to a variety of situations appropriate in the business world.",
+        "Content": "The transactional model of communication and its application, intercultural communication, small group interaction (including meetings), written reports, oral presentations, conflict management, basic negotiation skills, Harvard Referencing System.",
+        "Assessment": "Class Mark 40%, Examination 60%",
+        "DP Requirement": "Students must obtain a class mark of at least 40%",
+        "Assessments": [
+        {"Name": "Class Mark", "Type": "Assessment", "Weight": 40, "Dynamic": true},
+        {"Name": "Examination", "Type": "Examination", "Weight": 60}
+        ]
+    }, 
+    {
+        "Module name": "Economics 101",
+        "Module Code": "BBAP1E1W1P1",
+        "Prerequisite Requirement": "None",
+        "Prerequisite": [
+        {
+        "Comment": "None"
+        }
+        ],
+        "Aim": "To introduce learners to core concepts in microeconomics such as pricing theory, supply and demand for a good or service, globalization and other factors impacting on the operation of the market economy.",
+        "Content": "The module covers the following topics: Needs, wants, resources, factors of production, supply and demand factors, elasticities both of demand and resources use, gains from trade, rents, costs, firm structure, globalization and markets, and game theory.",
+        "Assessment": "Class Mark 40%, Examination 60%",
+        "DP Requirement": "Students must obtain a class mark of at least 40%",
+        "Assessments": [
+        {
+        "Name": "Class Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+        },
+        {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 60
+        }
+        ]
+        },
+        {
+        "Module name": "Economics 102",
+        "Module Code": "BBAP1E2W2P2",
+        "Prerequisite Requirement": "None",
+        "Prerequisite": [
+        {
+        "Comment": "None"
+        }
+        ],
+        "Aim": "To introduce learners to fundamental concepts in macroeconomics such as National income accounts, government expenditure, monetary and fiscal policy, aggregate demand and supply.",
+        "Content": "The module covers the following topics: National income accounts; income determination; saving and investment; government expenditure; tax and the government expenditure multiplier; interest rates; monetary and fiscal policy; aggregate demand and aggregate supply",
+        "Assessment": "Class Mark 40%, Examination 60%",
+        "DP Requirement": "Students must obtain a class mark of at least 40%",
+        "Assessments": [
+        {
+        "Name": "Class Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+        },
+        {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 60
+        }
+        ]
+        },
+        {
+        "Module name": "Business Management 101",
+        "Module Code": "BBAP1M1P1W1",
+        "Prerequisite Requirement": "None",
+        "Prerequisite": [
+        {
+        "Comment": "None"
+        }
+        ],
+        "Aim": "To gain an overview of business management.",
+        "Content": "Introduction to Business Management; the dynamics of business and economics; ethics and social responsibility; international business; starting and growing a business; quality and competitiveness; human resources; management function in business; marketing; financing enterprises, other relevant issues in business management. Case study analysis.",
+        "Assessment": "Class Mark 40%, Examination 60%",
+        "DP Requirement": "Students must obtain a class mark of at least 40%",
+        "Assessments": [
+        {
+        "Name": "Class Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+        },
+        {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 60
+        }
+        ]
+        },
+        {
+        "Module name": "Management Science 101",
+        "Module Code": "BBAP1MSP1P2W1",
+        "Prerequisite Requirement": "None",
+        "Prerequisite": [
+        {
+        "Comment": "None"
+        }
+        ],
+        "Aim": "To introduce principles of applied business statistics in the context of public and private sector management decisions.",
+        "Content": "The organisation and display of data, central tendency and variation, index numbers, correlation and regression, forecasting, basic inferential statistics, mathematics of finance.",
+        "Assessment": "Class Mark 40%, Examination 60%",
+        "DP Requirement": "Students must obtain a class mark of at least 40%",
+        "Assessments": [
+        {
+        "Name": "Class Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+        },
+        {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 60
+        }
+        ]
+    },
+    {
+        "Module name": "Business Accounting 211",
+        "Module Code": "BBAP211W1P1",
+        "Prerequisite Requirement": "BBAP112",
+        "Prerequisite": [
+        {
+        "Course": "BBAP112"
+        }
+        ],
+        "Aim": "To explore more advanced methods of analysing and interpreting financial statements, managing working capital and appraising investments.",
+        "Content": "Creative Accounting, predicting financial distress, other information in the annual financial report, assessing performances, intangible assets, provisions, revenue recognition problems, share options, sources of finance dividend policy, overtrading, the EQQ model, cost of capital return on investment (ROI), discounted cash flow techniques (DCF).",
+        "Assessment": "Class Mark 40%, Examination 60%",
+        "DP Requirement": "Students must obtain a class mark of at least 40%",
+        "Assessments": [
+        {
+        "Name": "Class Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+        },
+        {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 60
+        }
+        ]
+        },
+        {
+        "Module name": "Business Accounting 212",
+        "Module Code": "BBAP212W2P2",
+        "Prerequisite Requirement": "BBAP211",
+        "Prerequisite": [
+        {
+        "Course": "BBAP211"
+        }
+        ],
+        "Aim": "To introduce principles of management accounting, methods of valuing businesses, and decision making using common accounting techniques.",
+        "Content": "Cost accounting techniques, job costing, process costing, batch costing, standard costing and various analyses. Cost/volume/profit analysis. Fixed, variable and semi variable costs. Calculation of break-even point , Operating leverage Accounting and Economic theories of costing. Business valuation methods – liquidation basis, super profits and discounted future returns. Structuring an acquisition and drafting agreements. Investigation of potential acquisitions.",
+        "Assessment": "Class Mark 40%, Examination 60%.",
+        "DP Requirement": "Students must obtain a class mark of at least 40%.",
+        "Assessments": [
+        {
+        "Name": "Class Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+        },
+        {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 60
+        }
+        ]
+        },
+        {
+        "Module name": "Human Resource Management 211",
+        "Module Code": "BBAP2H1P1W1",
+        "Prerequisite Requirement": "None",
+        "Prerequisite": [],
+        "Aim": "To introduce students to Human Resource Management, its systems and processes.",
+        "Content": "The module provides a broad introduction to Human Resource Management as a field of study and practice in the South African context including the areas of Job Analyses, Job Descriptions and Job Specifications; HR Planning, Recruitment & Selection; Performance and Compensation Management and Training and Development.",
+        "Assessment": "Class Mark 40%, Examination 60%.",
+        "DP Requirement": "Students must obtain a class mark of at least 40%.",
+        "Assessments": [
+        {
+        "Name": "Class Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+        },
+        {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 60
+        }
+        ]
+        },
+        {
+        "Module name": "Human Resource Management 212",
+        "Module Code": "BBAP2H2P2W2",
+        "Prerequisite Requirement": "BBAP2H1",
+        "Prerequisite": [
+        {
+        "Course": "BBAP2H1"
+        }
+        ],
+        "Aim": "To provide students with a sound knowledge of the management of people in organisations. A particular aim of this course is to place, wherever possible, theories and concepts developed in advanced western industrialised nations within the South African context and to provide the students with essential people management skills.",
+        "Content": "Introduction and revision of the HRM211 course content. Interviewing skills exercises. Selection testing theory, principles and practice. Motivational theory and its relation to HRM. Compensation management with special regard to job evaluation and incentive schemes. Performance management, which includes Management by Objectives and goal setting; Performance appraisals; Training and development; Coaching. Employee counselling and employee assistant programmes. Social responsibility programmes. Group dynamics. Stress management. Revision.",
+        "Assessment": "1 essay 20%; 1 test 20%; 1 Exam (3hrs) 60%.",
+        "DP Requirement": "Students must obtain a class mark of at least 40%.",
+        "Assessments": [
+            {
+                "Name": "essay",
+                "Type": "essay",
+                "Weight": 20
+            },
+            {
+                "Name": "test",
+                "Type": "test",
+                "Weight": 20
+            },
+            {
+            "Name": "Exam",
+            "Type": "Exam",
+            "Weight": 60
+            }
+            ]
+    },
+    {
+        "Module name": "Information Management 202",
+        "Module Code": "BBAP2IMW1P1",
+        "Prerequisite Requirement": "BBAP1C2",
+        "Prerequisite": [{"Course": "BBAP1C2"}],
+        "Aim": "Introduce to students the concepts, challenges and opportunities underpinning the use of information technology.",
+        "Content": "How businesses use information systems; information systems and strategy; ethical and social issues; business intelligence; databases and information management; telecommunications; the internet and wireless technology; securing information systems; creating a new internet business; enterprise applications; E-commerce; managing knowledge; enhancing decision making; building information systems.",
+        "Assessment": "Class Mark 40%, Examination 60%",
+        "DP Requirement": "Students must obtain a class mark of at least 40%",
+        "Assessments": [
+        {
+        "Name": "Class Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+        },
+        {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 60
+        }
+        ]
+        },
+        {
+        "Module name": "Business Management 201",
+        "Module Code": "BBAP2M1P1W1",
+        "Prerequisite Requirement": "BBAP1M1",
+        "Prerequisite": [{"Course": "BBAP1M1"}],
+        "Aim": "To introduce and explain the concepts of operations management in both the manufacturing and services sectors.",
+        "Content": "Operations management strategy, quality management, the supply chain, facility location and layout, processes in manufacturing and services, operations planning and control including inventory control, materials requirements planning (MRP), manufacturing resources planning (MRP11), JIT, ERP and project management.",
+        "Assessment": "Class Mark 40%, Examination 60%",
+        "DP Requirement": "Students must obtain a class mark of at least 40%",
+        "Assessments": [
+        {
+        "Name": "Class Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+        },
+        {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 60
+        }
+        ]
+        },
+        {
+        "Module name": "Marketing Management 202",
+        "Module Code": "BBAP2MMP2W2",
+        "Prerequisite Requirement": "BBAP1M1",
+        "Prerequisite": [{"Comment": "BBAP1M1"}],
+        "Aim": "To introduce the field of Marketing including consumer behaviour and marketing research.",
+        "Content": "Introduction to marketing; consumer behaviour and marketing research.",
+        "Assessment": "Class Mark 40%, Examination 60%",
+        "DP Requirement": "Students must obtain a class mark of at least 40%",
+        "Assessments": [
+        {
+        "Name": "Class Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+        },
+        {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 60
+        }
+        ]
+        },
+        {
+        "Module name": "Supply Chain Management 202",
+        "Module Code": "BBAP2SCP2W2",
+        "Prerequisite Requirement": "BBAP1M1",
+        "Prerequisite": [{"Course": "BBAP1M1"}],
+        "Aim": "To introduce the field and functions of supply chain management and to provide an understanding of the purchasing management function and its relationship to other functions.",
+        "Content": "Supply chain management and logistics; purchasing objectives and impact; supplier selection and evaluation; quality in purchasing and supply chain management. Value analysis; price determination: price analysis and cost analysis. Outsourcing (make or buy); quantity determination; time and place utility; purchasing ethics; Purchasing of capital equipment; international procurement and electronic commerce. Selected topics.",
+        "Assessment": "Class Mark 40%, Examination 60%",
+        "DP Requirement": "Students must obtain a class mark of at least 40%",
+        "Assessments": [
+        {
+        "Name": "Class Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+        },
+        {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 60
+        }
+        ]
+    },
+    {
+      "Module name": "Business Management 311 (Entre & Leadership)",
+      "Module Code": "BBAP311",
+      "Prerequisite Requirement": "None",
+      "Aim": [
+        "To introduce learners to the theory and practice of entrepreneurship and to facilitate the acquisition of skills relevant to enterprise initiation, expansion, and organizational renewal and turnaround strategies.",
+        "To introduce learners to the principles and processes related to successful change interventions in organizations with particular emphasis on the critical role of leadership."
+      ],
+      "Content": "Fundamentals of entrepreneurship & its application to: SMME venture initiation, business growth, turnaround of a business demise & initiating organizational renewal. Introduction to the nature of change facing organizations in the 21st century & ‘best business practices & principles’ related to leading successful organizational change interventions.",
+      "Assessment": {
+        "Class Mark": "40%",
+        "Examination": "60%"
+      },
+      "DP Requirement": "NONE"
+    },
+    {
+      "Module name": "Business Management 312 (Corp Strategy)",
+      "Module Code": "BBAP312",
+      "Prerequisite Requirement": "None",
+      "Aim": "To develop capacity to think strategically about a company, its present business position, long-term direction, resources and competitive capabilities, the features of its strategy and opportunities for gaining sustainable competitive advantage. To build skills in conducting strategic analysis in a variety of industries and competitive situations including the challenges of a global market environment.",
+      "Content": "What is strategy and why it is important; The strategic management process and strategic alignment; Evaluating a company’s external environment; Evaluating a company’s resources and competitive position; The five generic competitive strategies; Supplementing the chosen competitive strategy; Competing in foreign markets and strategy in emerging economies; Tailoring strategy to fit specific industry and company situations; Diversification: strategies for managing a group of business; Corporate governance, strategy, ethics and social responsibility; Building an organization capable of good strategy execution and strategic alignment; Enterprise performance and managing internal operations; Corporate culture, leadership and teamwork",
+      "Assessment": {
+        "Class Mark": "40%",
+        "Examination": "60%"
+      },
+      "DP Requirement": "NONE"
+    },
+    {
+      "Module name": "Business Management 313 (Ethics)",
+      "Module Code": "BBAP313",
+      "Prerequisite Requirement": "None",
+      "Aim": "To provide learners with an understanding of business ethics and corporate social responsibility as a field of applied ethics.",
+      "Content": "The nature and importance of ethical behaviour; Major paradigms of ethical behaviour; Organisational ethics as a field of applied ethics; Models of ethical decision-making in organizations; specific organizational contexts; Integrative review of material/topics covered.",
+      "Assessment": "Class Mark 40%, Examination 60%",
+      "DP Requirement": "NONE"
+    },
+    {
+      "Module name": "Business Management 314 (Project Mgnt)",
+      "Module Code": "BBAP314",
+      "Prerequisite Requirement": "BBAP2M1",
+      "Aim": "To provide students with a holistic, integrative view of project management, focusing on project management as a key managerial activity, how projects contribute to the strategic goals of an organisation and how to select the best projects that can be supported by the available technical and managerial support.",
+      "Content": "Project Management is the coordinated organization, direction and implementation of portfolio of projects and activities that together achieve outcomes and realize benefits that are of strategic importance. Managing successful project programmes includes the change process, program management principles, organization and leadership, benefits management, stakeholder management and communications, risk management and issue resolution programme planning and control, and quality management.",
+      "Assessment": "Class Mark 40%, Examination 60%",
+      "DP Requirement": "NONE"
+    },
+    {
+      "Module name": "Business Tax 313",
+      "Module Code": "BBAP3BT",
+      "Prerequisite Requirement": "BBAP211 and BBAP212",
+      "Aim": "To provide an understanding of taxation of individuals, companies and special classes of taxpayers including VAT and the effect of tax on business finance.",
+      "Content": "General review of tax structure, gross income and tax deductions; taxation of special classes of taxpayers; taxation of individuals and companies; employees tax and provisional tax; implication of tax on business finance.",
+      "Assessment": "Class Mark 40%, Examination 60%",
+      "DP Requirement": "NONE"
+    }
+  ,
+    {
+      "Module name": "Human Resource Management 311",
+      "Module Code": "BBAP3HR",
+      "Prerequisite Requirement": "BBAP2H1 and BBAP2H2",
+      "Aim": "To introduce learners to employment relations in South Africa",
+      "Content": "Overview of the Basic Conditions of Employment and Labour Relations Acts, with a focus on Unfair Dismissals. Trade Union Rights, Dispute Resolution and Strike Action.",
+      "Assessment": "Class Mark 40%, Examination 60%",
+      "DP Requirement": "NONE"
+    },
+    {
+      "Module name": "Marketing Management 301",
+      "Module Code": "BBAP3MK",
+      "Prerequisite Requirement": "BBAP2MM",
+      "Aim": "To provide an understanding and knowledge of the specialised marketing fields of Business to Business marketing, promotional strategies and strategic marketing.",
+      "Content": "Integrated Marketing. Communication and special topics in Marketing which may include, but not restricted to Business to Business Marketing. Technology in Marketing and Services Marketing.",
+      "Assessment": "Class Mark 40%, Examination 60%",
+      "DP Requirement": "NONE"
+    }
+  ,
+    {
+      "Module name": "Supply Chain Management 302",
+      "Module Code": "BBAP3SM",
+      "Prerequisite Requirement": "None",
+      "Aim": "To provide an understanding and knowledge of physical distribution and transportation and their impact on customer service; appreciation of negotiation in purchasing and supply chain management; strategic supply chain management.",
+      "Content": "Strategic supply chain management planning; physical distribution; storage, packaging and warehousing/distribution centres; transportation; electronic commerce. Negotiation and negotiation practical. Selected topics.",
+      "Assessment": "Class Mark 40%, Examination 60%",
+      "DP Requirement": "NONE"
+    },
+    {
+      "Module name": "Principles of Microeconomics",
+      "Module Code": "ECON101",
+      "Prerequisite Requirement": "Nil",
+      "Content": "Introductory economic concepts including the principles of supply and demand, the efficient production of goods, market structures under perfect competition and monopoly. The markets for labour, capital and land are analysed and the manner in which income and wealth is distributed.",
+      "Assessment": "Class mark (50%), Examination (50%)",
+      "DP Requirement": "None"
+    },
+    {
+      "Module name": "Principles of Macroeconomics",
+      "Module Code": "ECON102",
+      "Prerequisite Requirement": "Nil",
+      "Content": "An introduction to macroeconomics. The operation of the money market is examined, and the main components of expenditure (consumption, investment, government spending and net exports) are used to build simple macroeconomic models. Fiscal and monetary policy tools and their ability to influence key macroeconomics concerns of inflation, unemployment and growth are assessed.",
+      "Assessment": "Class mark (50%), Examination (50%)",
+      "DP Requirement": "None"
+    },
+    {
+      "Module name": "Elementary Microeconomics",
+      "Module Code": "ECON1C0",
+      "Prerequisite Requirement": "None",
+      "Corequisite": "Business Language Development (two modules), Elementary Macroeconomics; Foundation Mathematics and Service-Learning.",
+      "Aim": "To introduce the students to the key economic question, microeconomic concepts, principles of economics, and economic systems. Secondly, the module aims to prepare students by laying the foundations for the more advanced and more technical first-year mainstream principles of microeconomics module.",
+      "Content": "Introduction to Economics and Economic Systems. Factors of Production, and the economic problem, scarcity, choice and opportunity cost. Market mechanism, demand, supply and prices and elasticities of demand and supply. Consumer behaviour, market structures, perfect competition, monopoly and (imperfect competition), introduction to Distribution theory – Labour and Wages.",
+      "Practicals": "none",
+      "Assessment": "Class mark (50%), Examination (50%).",
+      "DP Requirement": "None"
+    },
+    {
+      "Module name": "Elementary Macroeconomics",
+      "Module Code": "ECON1D0",
+      "Prerequisite Requirement": "None",
+      "Corequisite": "Business Language Development, Elementary Microeconomics; Foundation Mathematics and Service- Learning.",
+      "Aim": "The main aim of Elementary Macroeconomics is to introduce students to concepts and principles of macroeconomics. Secondly, the module aims to prepare students by laying the foundations for the more advanced and more technical first-year mainstream principles of microeconomics module.",
+      "Content": "Concepts and principles of macroeconomics, macroeconomic goals, introduction to money and banking in economic policy issues and policy measures. Introduction to International Trade, rationale for trade, exchange rates, balance of payments and international economic problems and issues.",
+      "Practicals": "none",
+      "Assessment": "Class mark (50%), Examination (50%).",
+      "DP Requirement": "None"
+    },
+    {
+      "Module name": "Intermediate Macroeconomic & Applications",
+      "Module Code": "ECON201",
+      "Prerequisite Requirement": "ECON102",
+      "Content": "Intermediate macroeconomics and applications. This module covers theories of income determination and employment. These are examined in the context of the analysis of goods and money markets as well as in an aggregate demand/aggregate supply framework. Fiscal and monetary policies and their impact on output, employment and prices are analysed, as are trade-offs between inflation and unemployment. Key macroeconomic issues are assessed in the context of developed and developing economies.",
+      "Assessment": "Class mark (50%), Examination (50%).",
+      "DP Requirement": "None"
+    },
+    {
+      "Module name": "Intermediate Microeconomics & Applications",
+      "Module Code": "ECON202",
+      "Prerequisite Requirement": "ECON101",
+      "Content": "Intermediate microeconomics and applications. This module covers intermediate microeconomic theory, its application to solving real-world economic problems and the analysis of policy-related issues. Traditional theories of consumer (utility) behaviour and production (output and profit optimization) behaviour are examined. In addition, students are exposed to modern theories – such as game theory and transaction cost theory. Applications include the analysis of risk in consumption, investment and insurance decisions and the efficient allocation of resources and output under welfare economics.",
+      "Assessment": "Class mark (50%), Examination (50%).",
+      "DP Requirement": "None"
+    },
+    {
+        "Module name": "Industrial Organisation",
+        "Module Code": "ECON305 W1",
+        "Prerequisite Requirement": "ECON202",
+        "Content": "This module studies the meaning, measurement and promotion of effective competition as it has been studied in the field of industrial organisation. This requires the study of competition and monopoly. The module therefore involves the concepts and analytical methods that clarify markets and assesses the data on markets. Market structure and competition policy as it is applied in South Africa forms the nucleus of this course.",
+        "Assessment": "Class mark (50%), Examination (50%)",
+        "DP Requirement": "None"
+    },
+    {
+      "Module name": "International Economics",
+      "Module Code": "ECON306",
+      "Prerequisite Requirement": "ECON201 and ECON202",
+      "Content": "The objective of this course is to provide a theoretical and empirical understanding of those issues in economics that are critical to decision making in international trade and finance. The course focuses on the trade flows between countries, their determinants and the institutions governing these flows. In addition, the international monetary environment within which trade and investment flows occur is examined. A thorough examination of exchange rate and their determinants is included.",
+      "Assessment": "Class mark (50%), Examination (50%)",
+      "DP Requirement": "None"
+    },
+    {
+      "Module name": "Macroeconomic Policy in SA",
+      "Module Code": "ECON309",
+      "Prerequisite Requirement": "ECON201",
+      "Content": "The theoretical foundations of macroeconomics are used to understand the objectives of and conflicts in macroeconomic policy. The module will examine monetary policy and the S.A. financial system, as well as fiscal and budgetary policy. Open-economy macroeconomic issues will be analysed, as will the co-ordination between monetary, fiscal and balance of payments policies.",
+      "Assessment": "Class mark (50%), Examination (50%)",
+      "DP Requirement": "None"
+    },
+    {
+      "Module name": "Special Topics",
+      "Module Code": "ECON310",
+      "Prerequisite Requirement": "ECON201 and 202",
+      "Content": "Topics of current interest from theoretical and policy perspectives may be offered.",
+      "Assessment": "Class mark (50%), Examination (50%)",
+      "DP Requirement": "Write all tests and submit all assignments",
+      "Note": "Students entering into Level 4 of the Bachelor of Business Science (Economics) in 2020, and students wishing to apply for the Bachelor of Commerce Honours (Economics) in 2020 must ensure that they complete both ECON314(Quantitative Economics) and ECON310 (Mathematical Economics)."
+    },
+    {
+      "Module name": "Quantitative Economics",
+      "Module Code": "ECON314",
+      "Prerequisite Requirement": "ECON201 and ECON202",
+      "Content": "This module will cover the essential elements of the application of economic theory to real-world data using the tools of mathematics and econometrics at a basic level. A brief introduction to the necessary mathematical tools lays the foundation for the estimation and interpretation of single-equation models with continuous dependent variables. The emphasis will be on practical application rather than theory.",
+      "Assessment": "Class mark (50%), Examination (50%)",
+      "DP Requirement": "None"
+    },
+    {
+      "Module name": "Mathematical Economics",
+      "Module Code": "ECON315",
+      "Prerequisite Requirement": "Successful completion of ECON201 and ECON202",
+      "Aim": "To equip students with a solid theoretical foundation of how mathematics can be used in economics such as understanding consumer and firm behaviour and the economy in general.",
+      "Content": "The module covers the application of matrices, differential and integral calculus to a range of economic problems such as comparative statics, constrained and unconstrained optimisation and dynamics of economic systems. It then considers the economic applications of differential and difference equations.",
+      "Assessment": "Class mark (50%), Examinations (50%)",
+      "DP Requirement": "None"
+    },
+    {
+      "Module name": "Development Economics",
+      "Module Code": "ECON370",
+      "Prerequisite Requirement": "Econ 201",
+      "Aim": "To study the theory of economic development and growth, addressing issues specific to developing countries.",
+      "Content": "Theories of development and globalization, population growth, the role of the state, foreign aid and investment, agriculture and industry.",
+      "Assessment": "Class mark (50%), Examination (50%).",
+      "DP Requirement": "None"
+    },
+    {
+      "Module name": "Introduction to Entrepreneurship",
+      "Module Code": "ENTR2IE",
+      "Prerequisite Requirement": "MGNT102 or EDUN103 or FINA103",
+      "Aim": "The aim of the module is to provide an introduction to the theoretical base and practical applications of the principles and concepts underlying entrepreneurship. The course explains the nature and fundamentals of entrepreneurship, how business opportunities are identified and developed into a successful business venture.",
+      "Content": "Nature and fundamentals of entrepreneurship; Identification of entrepreneurial opportunities; Implementation of management functions in an entrepreneurial business; Launching and running a successful entrepreneurial venture; Growing and developing an entrepreneurial venture",
+      "Assessment": "Tests, Assignments and/or Projects (50%), Final examination (50%)",
+      "DP Requirement": "Students must obtain a class mark of at least 40%"
+    },#Zusakhe
+    {
+      "Module name": "Integrated Business Studies",
+      "Module Code": "FINA103",
+      "Prerequisite Requirement": "None"
+    },
+    {
+      "Module name": "Finance 201",
+      "Module Code": "FINA201",
+      "Prerequisite Requirement": "MATH134 OR 40% in MATH130; and STAT130",
+      "Corequisite": "Nil"
+    }
+  ,
+    {
+      "Module name": "Finance 202",
+      "Module Code": "FINA202",
+      "Prerequisite Requirement": "FINA201",
+      "Corequisite": "Nil",
+      "Content": "This course expands on the major decisions facing the investor and financial manager covered in FINA201. Specifically, (1) the investment landscape (the introduction to the investment industry); (2) intermediate quantitative concepts in Finance (intermediate time value money, valuation of bonds and shares, and capital budgeting techniques); (3) financial and portfolio management (expected risk and return, CAPM, introduction to portfolio management, WACC, and capital structure theory); and (4) introduction to exchange rates and derivatives.",
+      "Assessment": "Class Mark (50%), Examination (50%)",
+      "DP Requirement": "None"
+    },
+    {
+      "Module name": "Capital Market Theory",
+      "Module Code": "FINA311",
+      "Prerequisite Requirement": "FINA201 and FINA202",
+      "Corequisite": "Nil",
+      "Content": "The course includes: (1) the South African financial environment; (2) security analysis; and (3) risk and return – portfolio theory, the capital asset pricing model and arbitrage pricing theory.",
+      "Assessment": "Class Mark (50%), Examination (50%)",
+      "DP Requirement": "None"
+    },
+    {
+      "Module name": "Financial Risk Management",
+      "Module Code": "FINA312",
+      "Prerequisite Requirement": "FINA201 and FINA202",
+      "Corequisite": "Nil",
+      "Content": "The course covers the major sources of financial risk for a firm with a specific emphasis on price risk and interest rate risk as well as derivative instruments and their use in the management of financial risks.",
+      "Assessment": "Class Mark (50%), Examination (50%)",
+      "DP Requirement": "None"
+    },
+    {
+      "Module name": "Corporate Financial Management",
+      "Module Code": "FINA321",
+      "Prerequisite Requirement": "FINA201 and FINA202",
+      "Corequisite": "Nil",
+      "Content": "The course includes: (1) the firm’s investment decision – advanced applications; (2) international business finance; and (3) long-term financing, expansion and restructuring (including mergers and acquisitions).",
+      "Assessment": "Class Mark (50%), Examination (50%)",
+      "DP Requirement": "None"
+    },
+    {
+      "Module name": "Res Methodology: Statistical Methods & Analysis",
+      "Module Code": "HRMG2A0 W1",
+      "Prerequisite Requirement": "(HRMG1AO and HRMG1CO) or MGNT102",
+      "Aim": "To introduce students to the various philosophies of research, data collection techniques, forms of analysis, and ethical considerations.",
+      "Content": "Theoretical and philosophical approaches to research, proposal writing, strategies of research design, positivist and interpretivist data collection methods, analytical techniques, and ethics in research",
+      "Assessment": "Tests (33%), Examination of 3 Hour (67%)",
+      "DP Requirement": "Students must obtain a class mark of at least 40%",
+      "Status": "Not offered until further notice"
+    },
+    {
+      "Module name": "Intro to Human Resource Information Systems",
+      "Module Code": "HRMG2D0 W2",
+      "Prerequisite Requirement": "(HRMG1AO and HRMG1CO) or MGNT102",
+      "Aim": "The 21st-century organizational era is known as the information and knowledge era. HRIS is a critical tool for the management of HR information...",
+      "Content": "Introduction to HRIS, design and configuration of HRIS, management of HRIS security in terms of identifying risks, analyzing risks, & managing risks, contingency Planning& Disaster Recovery, ethical dimensions of HRIS, HRIS & Knowledge Management, promotion of Access to Info Act- Implications for HRM, HR records access vs information privacy, legislation related to information management and HRM in the electronic era.",
+      "Assessment": "Tests (33%), Examination of 3 Hour duration (67%)",
+      "DP Requirement": "Students must obtain a class mark of at least 40%",
+      "Status": "Not offered until further notice"
+    },
+    {
+      "Module name": "Managerial Ethics In The Workplace",
+      "Module Code": "HRMG2E0 W1",
+      "Prerequisite Requirement": "(HRMG1AO and HRMG1CO) or MGNT102",
+      "Aim": "To give students an insight into business ethics.",
+      "Content": [
+        "Approaches to ethics",
+        "Ethics and company policy",
+        "Social responsibility",
+        "Fraud",
+        "Affirmative action",
+        "Ethics and company policies",
+        "Moral choices facing employees"
+      ],
+      "Assessment": {
+        "Tests": "33%",
+        "Examination": "67%"
+      },
+      "DP Requirement": "Students must obtain a class mark of at least 40%",
+      "Offered": false
+    },
+    {
+      "Module name": "Employee Wellness",
+      "Module Code": "HRMG2HO W2",
+      "Prerequisite Requirement": "(HRMG1AO and HRMG1CO) or MGNT102",
+      "Aim": "To enlighten learners about various employee wellness issues in the workplace",
+      "Content": [
+        "Stress",
+        "HIV/AIDS",
+        "Absenteeism",
+        "Employee assistance programs",
+        "Workaholism",
+        "Sexual harassment",
+        "Substance abuse",
+        "Smoking",
+        "Mental health",
+        "Safety on the job and resources"
+      ],
+      "Assessment": {
+        "Tests": "33%",
+        "Examination": "67%"
+      },
+      "DP Requirement": "Students must obtain a class mark of at least 40%",
+      "Offered": false
+    }
+  ,
+    {
+      "Module name": "Introduction to HR Management",
+      "Module Code": "HRMG2HM",
+      "Prerequisite Requirement": "MGNT102 or EDUN103 or FINA103",
+      "Aim": "This module aims to provide an overview of the HR functions within the organisation; to establish spheres of responsibility of HR management, practices and policies that should be adhered to; to understand the needs of an ethical and fair work environment and the development and application of HR planning, recruitment, selection and placement in the organisation",
+      "Content": "Introduction to HRM; Employment Law impacting on Employment Relations; Employment Equity and Diversity Management; Job Analysis; Workforce Planning and Recruitment; Selection; Induction and Staffing Decisions; Compensation Management; Health and Safety Management; Training and Development; Performance Management.",
+      "Assessment": "Tests (33%), Examination of 3 Hour Duration (67%)",
+      "DP Requirement": "Students must obtain a class mark of at least 40%"
+    },
+    {
+      "Module name": "Managing Workforce Diversity",
+      "Module Code": "HRMG2JO",
+      "Prerequisite Requirement": "(HRMG1AO and HRMG1CO) or MGNT102",
+      "Aim": "To introduce students to the management of equality and diversity within the multi-cultural organizational and labour market framework, with special emphasis on communications, negotiations, cultural sensitivity, skills in work relationships, strategies and structures amongst cross level, cross functional and transnational work teams and groups.",
+      "Content": "The approach to diversity, benefits and pitfalls of a multi-cultural organization, implications of diversity for recruitment and selection, diver-similarity ‘strategies’ and implications for organizational competitiveness, the challenge of sexual diversity, disability, partnership in diversity and strategies for future human resource diversity managers.",
+      "Assessment": "Tests (33%), Examination of 3 Hour Duration (67%)",
+      "DP Requirement": "Students must obtain a class mark of at least 40%"
+    }
+  ,
+    {
+      "Module name": "Collective Employment Relations & Law",
+      "Module Code": "HRMG3CE",
+      "Prerequisite Requirement": "HRMG2HM and HRMG2J0",
+      "Aim": "To introduce one to the collective employment in the workplace and the implications and impact of labour law.",
+      "Content": "Introduction to Employment Relations as a field of study; Conflict in Employment Relations; Environmental influences and parties to the collective Employment Relationship: Trade Unions as primary parties; Parties to the collective Employment Relationship: Employers (and/or Employer Organisations) and the State as a secondary party; The relationship at Organisational Level; The relationship at Sectoral Level; Dispute Resolution Procedures and Processes; Strikes & Lock-outs.",
+      "Assessment": "Tests and/or Assignments (33%), 3hr Exam (67%).",
+      "DP Requirement": "NONE"
+    },
+    {
+      "Module name": "Employment Resourcing",
+      "Module Code": "HRMG3ER",
+      "Prerequisite Requirement": "HRMG2HM and HRMG2J0",
+      "Aim": "To provide the students taking this module with a balance of academic theory and practical application of Employment Resourcing practices in the South African workplace. This incorporates recruitment and selection, retention, induction, performance management and talent management.",
+      "Content": "The course content includes: Resourcing and development of staff, techniques used in recruitment and selection, induction, the development of the psychological contract, principles of performance and reward management, the national training and development context and talent management.",
+      "Assessment": "2 tests and/or assignments (33%), 3hr examination (67%).",
+      "DP Requirement": "NONE"
+    },
+    {
+      "Module name": "Individual Employment Relations & Law",
+      "Module Code": "HRMG3IE",
+      "Prerequisite Requirement": "HRMG2HM and HRMG2J0",
+      "Aim": "To introduce one to the individual employment relationship in the workplace and the implications and impact of labour law",
+      "Content": "Introduction to Employment Relations as a field of study; an introduction to Individual Employment Relations – the common law basis for the individual contract of employment; workplace discipline, unfair dismissal and the remedies for unfair dismissal under the Labour Relations Act; the argument for ‘social legislation’ (in particular the Basic Conditions of Employment Act).",
+      "Assessment": "Tests and/or Assignments (33%), 3hr Exam (67%).",
+      "DP Requirement": "NONE"
+    }
+  ,
+    {
+      "Module name": "Individual & Organisational Development",
+      "Module Code": "HRMG3OD",
+      "Prerequisite Requirement": "HRMG2HM and HRMG2J0",
+      "Aim": "To expose learners to the theory and best practice principles related to development and training interventions designed to improve individual, team and organisational performance. In addition, this module aims to introduce learners to the field of Organisation Development.",
+      "Content": "Macro environmental factors impacting on training and development interventions in organisations in South Africa. Legislation related to training and development in South Africa. Theoretical principles applicable to the adult learning context. Managing training interventions. Principles related to the training cycle including: determining training needs; designing, implementing and evaluating training interventions. Management development interventions. Introduction to Organisation Development including: nature of change facing organisations in the 21st century; and implementing Organization Development interventions.",
+      "Assessment": "2 tests and/or assignments (33%), 3hr examination (67%)",
+      "DP Requirement": "NONE"
+    },
+    {
+      "Module name": "End User Computing",
+      "Module Code": "ISTN100",
+      "Prerequisite Requirement": "None",
+      "Aim": "To emphasise the use of computers as integrated productivity tools and introduce end-user computing definitions and concepts.",
+      "Content": "Basic end-user computing concepts. Computer hardware (input, processing, output and storage). Theory and application of systems software (operating systems) and applications software (word processing, spreadsheets, presentation graphics, database, internet and email). Information networks and data communications. Databases and database management systems.",
+      "Practicals": "Computer-based exercises on the above topics.",
+      "Assessment": "2 h exam (50%), tests/assignments (50%). Students must obtain at least 40% in the examination paper.",
+      "DP Requirement": "Students must obtain a class mark of at least 40%."
+    },
+    {
+      "Module name": "IS & T for Business",
+      "Module Code": "ISTN101",
+      "Prerequisite Requirement": "None",
+      "Aim": "This module focuses on the business processes and related decisions that require support from information systems and technology. The aim of this module is therefore to provide an understanding of organisational systems, planning, and decision processes, and how information and systems are used in organizations.",
+      "Content": "Organisational systems and systems theory. Role of information systems in organisations. Systems - development lifecycle and security including e-business. Nature and characteristics of commonly used business information systems. Computer systems hardware and software. Practical application of general business software including spreadsheets and databases.",
+      "Practicals": "Computer-based exercises on the above topics.",
+      "Assessment": "2 h exam (50%), tests/assignments (50%). Students must obtain at least 40% in the examination paper.",
+      "DP Requirement": "None"
+    },
+    {
+      "Module name": "Development and Applications Fundamentals",
+      "Module Code": "ISTN103",
+      "Prerequisite Requirement": "None",
+      "Aim": "To provide an introduction to Systems Analysis and Design, Programming, Web Page Design and Business Applications. Content Systems Analysis and Design; Business Applications; Information Systems Auditing; Logical Problem Solving Skills; Basic Programming Concepts; Web page design; and IS Management.",
+      "Practicals": "Computer-based exercises on the above topics.",
+      "Assessment": "2 hour examination (50%), tests/assignments (50%). Students must obtain at least 40% in the examination paper.",
+      "DP Requirement": "None"
+    }
+  ,
+    {
+      "Module name": "Networking and Database Management",
+      "Module Code": "ISTN3ND",
+      "Prerequisite Requirement": "ISTN211 and ISTN212, and (ISTN2IP or COMP200)",
+      "Aim": "To provide students with knowledge of the technical background of information systems in a web and enterprise environment. To enable students to design and manage databases in a business context. This module in part builds on ISTN212 and prepares students for advanced database and network management issues as well as further preparing them for their Major Project.",
+      "Content": "Part A – Topics include Internet, Web and Server Technologies, Fundamental Concepts of Data Communication, Design of Network Infrastructure, Infrastructure for Application Services, and Internet Security Solutions. Part B – Topics include Database Design, Transaction Management and Concurrency Control, Distributed Database Management Systems, Data Warehouses, Databases and the Internet, and Database Administration.",
+      "Practicals": "Exercises on the above topics.",
+      "Assessment": "3 hour examination (60%), tests/assignments (40%). Students must obtain at least 40% for the examination.",
+      "DP Requirement": "None"
+    },
+    {
+      "Module name": "Mobile Technology and Cloud Computing",
+      "Module Code": "ISTN3MT",
+      "Prerequisite Requirement": "ISTN211 and ISTN212, and (ISTN2IP or COMP200)",
+      "Corequisite": "ISTN3SA and ISTN3AS",
+      "Aim": "To expose students to current developments in mobile technologies and cloud computing platforms and their impact on future social, education and business directions.",
+      "Content": "Topics include some of the following: Cloud Computing Concepts, Virtualisation, Benefits and Risks of Cloud Computing, Cloud Delivery Models, Cloud Deployment Models, Mobile Communication Principles, Web-based Mobile Applications, Mobile Platforms, Context & Location Awareness, Mobile Business Apps.",
+      "Practicals": "Exercises on the above topics, cloud-based mobile development.",
+      "Assessment": "3 hour examination (60%), tests/assignments (40%). Students must obtain at least 40% for the examination.",
+      "DP Requirement": "None"
+    },
+    {
+      "Module name": "E-Commerce and e-Deployment",
+      "Module Code": "ISTN3EC",
+      "Prerequisite Requirement": "ISTN211 and ISTN212, and (ISTN2IP or COMP200)",
+      "Corequisite": "ISTN3SA and ISTN3AS",
+      "Aim": "To provide students with an understanding of the functioning of an E-Commerce business. It also develops the necessary knowledge and skills to deploy E-Commerce business solutions. This module lays the theoretical foundation of E-Commerce that will be implemented in E-Commerce deployment and the Capstone major project module Advanced systems implementation 1 and 2.",
+      "Content": "Topics include Server Platforms; Design, Testing and Implementation; Software Agents; Multimedia and Webcasting; Packaged Solutions; Evolving Trends, and integrated with E-Commerce applications, including E-Marketplaces, Internet Consumer Retailing, Business to Business E-Commerce, Mobile Commerce, E-Auctions, E-Commerce Security, and Electronic Payment Systems.",
+      "Practicals": "Exercises on the above topics.",
+      "Assessment": "3 hour examination (60%), tests/assignments (40%). Students must obtain at least 40% for the examination.",
+      "DP Requirement": "None"
+    }
+  ,
+    {
+      "Module name": "Information Systems and Technology Security",
+      "Module Code": "ISTN3IS",
+      "Prerequisite Requirement": "ISTN211 and ISTN212, and (ISTN2IP or COMP200))",
+      "Corequisite": "ISTN3SI and ISTN3ND",
+      "Aim": "To enable students to manage the high-level information protection function in an enterprise by ensuring that suitable security controls are implemented throughout the organization.",
+      "Content": "Information Security Governance, Information Risk Management and Compliance, Security Risk Analysis, Disaster Recovery and Business Continuity Planning, Information Security Systems Design and Architecture, Cryptography, History of Encryption, Network Security, Desktop Security.",
+      "Practicals": "Exercises on the above topics.",
+      "Assessment": "3-hour examination (55%), Tests/assignments/projects (45%). Students must obtain at least 40% for the examination.",
+      "DP Requirement": "None"
+    },
+    {
+      "Module name": "Information Systems & Technology Professional Skills",
+      "Module Code": "ISTN3PS",
+      "Prerequisite Requirement": "ISTN211 and ISTN212, and (ISTN2IP or COMP200))",
+      "Corequisite": "ISTN3SI and ISTN3ND",
+      "Aim": "To expose students to the necessary communications, consulting skills in an IS and IT context; to examine and critique the impact and value of improvement philosophies and package solutions on existing processes and to enable students to engage with current industry issues and challenges.",
+      "Content": "Topics include, Information Systems and Technology Strategy, Information Systems and Technology Consulting Information Systems and Technology Communication Skills, and Business Process Management.",
+      "Practicals": "Exercises on the above topics.",
+      "Assessment": "3-hour examination (60%), tests/assignments/presentation (40%).",
+      "DP Requirement": "Students must obtain at least 40% for the examination."
+    },
+    {
+      "Module name": "LAWS2CA",
+      "Module Code": "LAWS2CA",
+      "Prerequisite Requirement": "A minimum final mark of 40% in LAWS1IC",
+      "Content": "Partnerships; Companies; Close Corporations and Insolvency.",
+      "Assessment": "Class Mark: 30% and Examination: 70%",
+      "DP Requirement": "In order to obtain a duly performed certificate a student must achieve at least 40% in one of the written tests."
+    },
+    {
+      "Module name": "Special Topics in Business Law",
+      "Module Code": "LAWS2CB",
+      "Prerequisite Requirement": "A minimum final mark of 40% in LAWS1IC",
+      "Content": "Labour Law; Negotiable Instruments; Intellectual Property; E-Commerce and Trusts.",
+      "Assessment": "Class Mark: 30% and Examination: 70%",
+      "DP Requirement": "In order to obtain a duly performed certificate a student must write all tests and obtain a class mark of at least 40%."
+    },
+    {
+      "Module name": "Criminal Law",
+      "Module Code": "LAWS2CR",
+      "Prerequisite Requirement": "None specified",
+      "Content": "Basic concepts of criminal liability; legality; conduct in criminal law; causation; unlawfulness, including justification grounds of defence, private defence, necessity, consent, negotiorum gestio, impossibility, official capacity, disciplinary chastisement, superior orders; other defences: entrapment, de minimis non curat lex; criminal capacity, including mental illness, age, provocation, emotional stress, intoxication; specific forms of mens rea: intention, negligence; exceptions to the mens rea requirement: versari in re illicita; strict liability; vicarious liability; inchoate offences: attempt, conspiracy, incitement;"
+    },
+    {
+      "Module name": "Introduction to Marketing",
+      "Module Code": "MARK2IM",
+      "Prerequisite Requirement": "MGNT102 or EDUN103 or FINA103",
+      "Aim": "The main purpose of this module is to introduce learners to the theoretical foundation and practical applications that encompass marketing. It provides learners with a sound introduction to the principles and strategies related to marketing management.",
+      "Content": "It includes an introduction to the marketing environment, the identification of target markets, the development of the marketing mix programmes, the introduction to marketing research and information systems, consumer behaviour and marketing management.",
+      "Assessment": "Test (13%); Group assignment (20%); 3 hour Exam (67%)",
+      "DP Requirement": "Students must obtain a class mark of at least 40%"
+    },
+    {
+      "Module name": "Consumer Behaviour",
+      "Module Code": "MARK301",
+      "Prerequisite Requirement": "MARK2IM",
+      "Aim": "The module is designed to introduce the students to the essential elements of Consumer Behaviour within the realm of Marketing. The module is essential in exploring various internal and external influences that affect consumption behaviour. This knowledge is vital to marketers as understanding and interpreting consumers and their purchasing behaviour enables marketers to design effective marketing strategies.",
+      "Content": "Students learn how to critically examine the most important elements of the marketing environment namely, consumer markets and consumer buying behaviour. The course examines the models of consumer behaviour; the various factors that affect consumer behaviour; types of buying-decision behaviour; the buying-decision process and buying decision relative to new products and services, including consumer behaviour across international borders; consumers and the diffusion of innovation, marketing ethics and social responsibility and consumers in their social and cultural setting.",
+      "Assessment": "Test (13%), Assignment (20%), Exam (67%)",
+      "DP Requirement": "NONE"
+    },
+    {
+      "Module name": "Marketing Communications",
+      "Module Code": "MARK302",
+      "Prerequisite Requirement": "MARK2IM",
+      "Aim": "This module aims to develop students’ understanding of the theoretical foundations, strategies and decision- making processes that underlie marketing communications, an important function of marketing.",
+      "Content": "The course outlines the various promotional mix tools and the steps in developing marketing communications, as well as the promotional-budgeting process used to enhance integrated marketing communications in an organization. In examining the changing communications environment, students learn about the strategies used in marketing to promote socially responsible marketing as well as techniques used to coordinate the promotion elements in order to deliver a clear, consistent and compelling message about the organization and its products.",
+      "Assessment": "Test (13%); group assignment (20%), 3hr Exam (67%)",
+      "DP Requirement": "NONE"
+    },
+    {
+      "Module name": "Marketing Research",
+      "Module Code": "MARK303",
+      "Prerequisite Requirement": "MARK2IM",
+      "Content": "Students examine the marketing research process and tools used by marketers to identify and manage marketing information effectively. Students learn to apply the principles of marketing research, which include the systematic design, collection, analysis and reporting of relevant information specific to various marketing situations faced by an organization. Special emphasis is made of how marketing research can help marketers to assess market potential and share; understand customer satisfaction and purchasing behaviour and measure the effectiveness of pricing, products, distribution and promotional activities.",
+      "Assessment": "Tests and/or Assignments, Essays and Seminars (33%), 3 hour Exam (67%)",
+      "DP Requirement": "NONE"
+    },
+    {
+      "Module name": "Special Topics in Marketing",
+      "Module Code": "MARK305",
+      "Prerequisite Requirement": "MARK2IM",
+      "Aim": "The aim of this module is to introduce learners to specialist areas and contemporary issues in Marketing.",
+      "Content": "This module may include 1 or more of the following, but is not restricted to, specialist areas in marketing such as services marketing, business-to-business marketing, marketing in non-profit organisations, and social marketing as well specialist concepts, theories and principles of e-commerce and e-marketing; customer-relationship marketing and marketing ethics.",
+      "Assessment": "Term mark 33% (group assignment and tests); Exam 67%",
+      "DP Requirement": "NONE"
+    },
+    {
+      "Module name": "Responsible & Sustainable Mgnt Principles",
+      "Module Code": "MGNT2SM",
+      "Prerequisite Requirement": "MGNT102 or EDUN103 or FINA103",
+      "Aim": "This module aims to provide an overview of the nature and fundamentals of responsible and sustainable management and leadership; the role, dynamics, and impact of corporations in the creation of sustainable social, environmental and economic value, critical issues relating to global and national social responsibility, governance and sustainability.",
+      "Content": "Interrogating WHAT sustainability is about, and WHY it is important to think about and to understand sustainability principles and practices. Exploring HOW business enterprises can honour sustainable management principles, through sustainable management practices.",
+      "Assessment": "Tests, Assignments and/or Projects (33%), 3hr Examination (67%).",
+      "DP Requirement": "Students must obtain a class mark of at least 40%."
+    },
+    {
+      "Module name": "Corporate Strategy",
+      "Module Code": "MGNT307",
+      "Prerequisite Requirement": "ENTR2IE and MGNT2SM",
+      "Aim": "The module aims to enable candidates to understand and apply the strategic management process. The module focuses on the nature of strategic management and strategic direction; analyzing the business environment; the different levels of strategy; the organizational alignment and how a strategy can be implemented, managed and controlled. Strategy will also be explored from entrepreneurial and responsible perspectives.",
+      "Content": "The strategic management process is specifically explored as it establishes company direction: vision, objectives, strategies; industry and competitive analyses; evaluating resource and competitive capabilities; strategy and competitive advantage; tailoring strategy to fit specific situations; strategy in diversified companies; building resource strengths and core competencies; managing the internal organization; and related issues are explored.",
+      "Assessment": "Tests, Assignments and/or Projects (33%), 3hr Examination (67%).",
+      "DP Requirement": "NONE"
+    },
+    {
+      "Module name": "Business Ethics",
+      "Module Code": "MGNT310",
+      "Prerequisite Requirement": "ENTR2IE and MGNT2SM",
+      "Aim": "This applied ethics module aims to expose students to the important moral issues that arise in various business contexts. While theoretical ethics (philosophy) concerns itself with the nature and validity of the moral dimension of human life, applied ethics seeks to develop philosophical theories that have specific implications for specific moral issues. The context in which we seek to find a moral compass is business. We examine the behavior of organizations, with the objective of determining appropriate behavior for specific circumstances and contexts.",
+      "Content": "An introduction to the nature of business ethics, seeking to define business ethics and interpret the concept of corporate citizenship. Classical and contemporary theories of ethics and the rationale of ethical business decision making. Corporate governance principles and practice and the environment of ethical performance reporting.",
+      "Assessment": "Tests, Assignments and/or Projects (33%), Final examination (67%).",
+      "DP Requirement": "NONE"
+    },
+    {
+      "Module name": "Technology Management",
+      "Module Code": "MGNT314",
+      "Prerequisite Requirement": "ENTR2IE and MGNT2SM",
+      "Aim": "To provide an understanding of the specific context of the strategic management of technology in a contemporary business environment, allowing students to gain an understanding of the dynamics of technology-intensive business and to develop a knowledge and understanding of the formulation and implementation of business strategy for competitive advantage in technology-competitive environments.",
+      "Content": "Technological innovation strategy. The management of uncertainty, and different ways to go about selecting innovation projects, ensuring that value is captured from innovation. Intellectual property protection and the importance of technical standards and collaboration in high tech industries. Creation and maintenance of competitive advantage in high technology industries, product development and the management of new product development teams.",
+      "Assessment": "Tests, Assignments and/or Projects (33%), 3hrs examination (67%).",
+      "DP Requirement": "NONE"
+    },
+    {
+      "Module name": "International Business",
+      "Module Code": "MGNT315",
+      "Prerequisite Requirement": "ENTR2IE and MGNT2SM",
+      "Aim": "The purpose of this module is to provide students with a greater understanding of the global environment by exposing them to the theory of international business, and to develop their cultural intelligence (CQ), by focusing on global and multicultural competencies. Students are exposed to the environmental forces affecting International trade and the issues firms take into account when contemplating their product development and international market entry. National differences are explored to gain a deeper understanding of how these differences impact on international trade. In addition, students will be exposed to managerial challenges in a globalised business environment to develop their creative and critical thinking skills in an effort to generate practical suggestions to overcome these challenges or to minimize the negative impact of these challenges on organizations.",
+      "Content": "The module explores globalisation; the political-, economical- and legal systems; cultural differences; differences in economic development; Government Policy and international trade; political intervention to regulate trade and preclude national disadvantage; Foreign Direct Investment; strategy and structure in international business and international business functions.",
+      "Assessment": "Tests, Assignments and/or Projects (33%), 3hr examination (67%).",
+      "DP Requirement": "NONE"
+    },
+    {
+      "Module name": "Introduction to Local Government",
+      "Module Code": "PADM2A0",
+      "Prerequisite Requirement": "PADM1CO or MGNT102",
+      "Aim": "Local government is a sphere of government in South Africa. It is imperative that students have a sound knowledge and understanding of the main theoretical foundations governing local government management and development.",
+      "Content": "This module provides a broad overview of local government management and development in South Africa, with particular reference to the restructuring and transformation process, expose undergraduate students to the theory and practice of local governance, with emphasis on recent trends and development, review the African experience in local government focusing on democratization, decentralization and development.",
+      "Assessment": "Tests, assignments, presentations, reaction papers, group project (50%), Exam (50%)",
+      "DP Requirement": "Students must obtain a class mark of at least 40%."
+    },
+    {
+      "Module name": "Introduction to Public Sector Financial Management",
+      "Module Code": "PADM2C0",
+      "Prerequisite Requirement": "PADM1CO or MGNT102",
+      "Aim": "The main aim of this module is to introduce students to the theory and practice of public financial management, enable students to describe, explain and evaluate the fundamental aspects of public sector finance, and to expose students to the practical aspects pertaining to budgeting and auditing in various institutional settings.",
+      "Content": "The content is summarised as follows: Theory and practice of public financial management, the ideological basis of public finance, the financial functions of government, the financial infrastructure and role-players, statutory framework governing public finance, budgeting and budgeting systems, fiscal performance management, linking planning to spending, intergovernmental financial relations, control and accountability in managing public monies, auditing and audit committees, ethical conduct, professionalism, and the impact of globalization and economic trends (national, regional and global perspectives).",
+      "Assessment": "Tests, assignments, presentations, reaction papers, problem-based group project (50%), Exam (50%)",
+      "DP Requirement": "Students must obtain a class mark of at least 40%."
+    },
+    {
+      "Module name": "Introduction to Public Sector HR Management",
+      "Module Code": "PADM2B0",
+      "Prerequisite Requirement": "PADM1CO or MGNT102",
+      "Aim": "The aim of the module is to introduce students to basic relevant theoretical concepts and processes of HRM; introduce students to the significance of the role and influence of HRM; to introduce students to the activities of HRM; and to identify critical issues in HRM that impact the effectiveness of public managers to meet the challenges of efficient service delivery.",
+      "Content": "This module provides a conceptual framework of HRM, introduce concepts of HRM, develop an understanding of the activities of HRM, understand the legal framework of HRM, examine the various approaches to leadership and motivation, understand personnel ethics, understand performance management and introduce the challenges that impact on HRM.",
+      "Assessment": "Tests, assignments, presentations, reaction papers, group project (50%), Exam (50%)",
+      "DP Requirement": "Students must obtain a class mark of at least 40%."
+    }
+  ,
+    {
+      "Module name": "Introduction to Public Policy Management",
+      "Module Code": "PADM2EO",
+      "Prerequisite Requirement": "PADM1CO or MGNT102",
+      "Aim": "The module presents an overall foundation for the understanding of second and third year level modules in Public Administration and relates to the Introduction of the theory and practice of Public Policy Management.",
+      "Content": "The nature and role of public policy, environment of public policy, stakeholders in public policy-making, overview of theories and models for the public policy process, policy agenda setting, design, implementation, monitoring, evaluation and policy analysis.",
+      "Assessment": "Tests, assignments, presentations, reaction papers, group project (50%), Exam (50%)",
+      "DP Requirement": "Students must obtain a class mark of at least 40%"
+    },
+    {
+      "Module name": "Development Policy and Project Management",
+      "Module Code": "PADM3A0",
+      "Prerequisite Requirement": "Any two from (PADM2A0, PADM2C0, PADM2B0, PADM2EO)",
+      "Aim": "The main objectives of the module is to help students understand the need for development planning and project management in the contemporary South Africa; legal, administrative and institutional framework for development planning; and underpinning knowledge of management principles applied to project management.",
+      "Content": "The history and necessity of development planning, international development agencies, institutional and legal framework for development planning, participatory systems, development issues to be considered in development planning and social development research. Management of change, theory and application, the rationale for project management, project management processes and techniques, skills, the role of project managers and case study applications.",
+      "Assessment": "Continuous assessment module. There will be multiple assessments throughout the semester including research papers, oral presentations, e-learning and tests. There is no final examination. Students will be assessed through submission of continuous assessments throughout the semester, including completion of a Portfolio of Evidence.",
+      "DP Requirement": "None"
+    },
+    {
+      "Module name": "Organisational Change and Leadership",
+      "Module Code": "PADM3EO",
+      "Prerequisite Requirement": "Any two from (PADM2A0, PADM2C0, PADM2B0, PADM2EO)",
+      "Aim": "The module presents to students the contemporary theoretical knowledge of the management skills on change in an organization, preparing student for managerial knowledge and competency in order to lead and manage change effectively.",
+      "Content": "This module focuses on organizational theory, principles and processes. Emphasis is also placed on organizational culture, behaviour and politics. The role of leadership in promoting organizational change is also highlighted.",
+      "Assessment": "Continuous assessment module. There will be multiple assessments throughout the semester including research papers, oral presentations, e-learning and tests. There is no final examination. Students will be assessed through submission of continuous assessments throughout the semester, including completion of a Portfolio of Evidence.",
+      "DP Requirement": "None"
+    },
+    {
+      "Module name": "Contemporary issues in Public Service Delivery",
+      "Module Code": "PADM3CI",
+      "Prerequisite Requirement": "Any two from (PADM2A0, PADM2C0, PADM2B0, PADM2EO)",
+      "Aim": "The main aim of this module is to enable learners to describe, explain and evaluate the principles, approaches and processes underpinning public service delivery within the context of public administration in South Africa. The module examines the theoretical and practical constructs of service delivery in the public sector.",
+      "Content": "Principles of public service delivery and the Batho Pele Principles; critique of the statutory measures and mandate governing public service delivery; different approaches to public service delivery such as public-private partnerships; enabling public administration concepts that facilitate public service delivery such as strategy, policy, organisation and monitoring and evaluation; trends in national and international arenas relating to public service delivery; and examination of the scope of service delivery at national, provincial and local spheres of government.",
+      "Assessment": "Tests, scholarly research paper, group project, case studies (50%), Exam (50%)",
+      "DP Requirement": "None"
+    }
+  ,
+    {
+      "Module name": "Global and Regional Trends in Public Administration",
+      "Module Code": "PADM3D0",
+      "Prerequisite Requirement": "Any two from (PADM2A0, PADM2C0, PADM2B0, PADM2EO)",
+      "Aim": "The main aim of this module is to enable learners to discover global and regional trends in public governance; to facilitate comprehension of how geographical scales and governance spheres are interdependent and interrelated in an era of globalisation and regionalisation; identification and resolution of public governance problems related to the local expression of global and regional trends; critical thinking that generates innovative strategies and pragmatic solutions that fit public governance problems and issue areas across various geographical scales and spheres of government; to verbally articulate and use the rebuttal form of debate to affirm or oppose governance theories, issues, and/or policies; analytically read peer-reviewed journal articles; write well-researched workplace memoranda and policy briefs relative to multi-level governance trends across multiple continents; research and write persuasive arguments that affirm and/or oppose governance trends and policies.",
+      "Content": "Across the globe, public governance is evolving and redesigning itself in the face of 21st Century influences of globalisation and regionalisation. This module traces old governmental approaches yet captures new global, regional, and local governance strategies. Through problem-based learning students discover, design and simulate application of public governance trends, building critical thinking skills and ability to manage real-life governance issues.",
+      "Assessment": "Continuous assessment module. There will be multiple assessments including research papers and tests. There is no final examination. Students will be assessed through all assessments and presentations which include memoranda, policy briefs, research papers, and debate performances.",
+      "DP Requirement": "None"
+    },
+    {
+      "Module name": "Research Dissertation - Subseq Yr",
+      "Module Code": "PADM8SY",
+      "Prerequisite Requirement": "Registration required for PADM8O0 either in W1 or W2.",
+      "Aim": "The aim of the dissertation is to afford students an opportunity to conceptualise and contextualise the theory and practice of public governance within both public and selected non-governmental sectors. It provides an avenue for critical thinking, reflection, analysis and synthesis by introducing the students to academic research into various subfields of public governance. Structure and content instils thinking analytically when designing and conducting research. Through the research endeavour, students become more knowledgeable of the broader issues impacting on the public and non-governmental sectors within the broader national and international environments.",
+      "Content": "The students will be able to carry out research on an institutional-based problem. Demonstrate knowledge of research processes and scientific writing skills. Integrate and apply research techniques to institutional-based research issues. First registration for this content may commence in either the first or second semester.",
+      "Assessment": "Examination of dissertation (100%)"
+    }
+  ,
+    {
+      "Module name": "Introduction to Operations Management",
+      "Module Code": "SCMA2OM",
+      "Prerequisite Requirement": "MGNT102 or EDUN103 or FINA103",
+      "Aim": "The aim of this module is to enable learners to understand the theoretical base and practical principles and concepts underlying operations management. It provides learners with a sound introduction to the principles and strategies related to operations management in organisations.",
+      "Content": "This module aims to teach the principles of operations. It includes an introduction to the concepts of operations management, quality management, Total Quality Management, design of products and services, process technology, location and layout, procurement, physical distribution and transportation, planning and control, inventory, MRP, JIT and project management.",
+      "Assessment": "Term mark 33% (one group assignment and two tests); Exam 67%",
+      "DP Requirement": "Students must obtain a class mark of at least 40%."
+    },
+    {
+      "Module name": "Operations and Supply Chain Management",
+      "Module Code": "SCMA301",
+      "Prerequisite Requirement": "SCMA2OM",
+      "Aim": "The aim of this module is to enable learners to understand the theoretical base and practical principles and concepts underlying operations management. It provides learners with a sound perspective and insight into the principles and strategies related to operations management in organisations and its supply chain partners. Particular emphasis is placed on the South African context.",
+      "Content": "This module aims to teach the principles and strategies of operations management. It includes an introduction to the concepts of operations management, the importance of designing products, services and processes, global operations, capacity planning, managing quality, location and lean decision making tools, statistical operations models and simulation.",
+      "Assessment": "Tests/assignments (33%), Examination (67%)",
+      "DP Requirement": "NONE"
+    },
+    {
+      "Module name": "Purchasing Management and Contemporary Issues",
+      "Module Code": "SCMA305",
+      "Prerequisite Requirement": "SCMA2OM",
+      "Aim": "The aim of this module is to enable learners to understand the theoretical base and practical principles and concepts underlying purchasing management. It provides learners with a sound perspective and insight into the principles and strategies related to purchasing management in organisations and its supply chain partners. Particular emphasis is placed on the South African context.",
+      "Content": "This module aims to teach the principles and strategies of purchasing. It includes an introduction to the concepts of purchasing management, the importance of purchasing and the role of purchasing and supply chain management, purchasing leverage and objectives, purchasing and process, structure and organisation, supplier selection, determination of price, contracts, Total Cost of Ownership, make vs buy, Value Analysis, Value Engineering and Standardisation, purchasing of capital equipment, purchasing of commodities, international Sourcing, ethics in the purchasing context, and proactive purchasing programmes.",
+      "Assessment": "Test/Assignment (33%); Examination (67%)",
+      "DP Requirement": "NONE"
+    }
+  ,
+    {
+      "Module name": "Logistics and Physical Distribution",
+      "Module Code": "SCMA306",
+      "Prerequisite Requirement": "SCMA2OM",
+      "Aim": "The aim of this module is to enable learners to understand the theoretical base and practical principles and concepts underlying logistics and physical distribution. It provides learners with a sound perspective and insight into the principles and strategies related to logistics and physical distribution in organisations and its supply chain partners. Particular emphasis on the South African context.",
+      "Content": "This module aims to teach the principles and strategies of logistics and physical distribution. It includes an overview of supply chain management (outbound logistics), the role of logistics in the economy and organisation, materials flow, physical distribution/transportation, customer relationship management, integrated operations planning, warehousing, materials handling and packing, investment recovery, reverse logistics, and risk and sustainability.",
+      "Assessment": "Test/Assignment (33%); Examination (67%)",
+      "DP Requirement": "NONE"
+    },
+    {
+      "Module name": "Special Topics in Supply Chain Management",
+      "Module Code": "SCMA311",
+      "Prerequisite Requirement": "SCMA2OM",
+      "Aim": "The aim of this module is to enable learners to understand the theoretical base and practical principles and concepts underlying supply chain management. It provides learners with a sound perspective and insight into various selected topics related to supply chain management, purchasing, logistics and operations with particular emphasis to South Africa and SADC.",
+      "Content": "It includes selected topics in supply chain management, purchasing, logistics and operations management.",
+      "Assessment": "Test/group assignment (33%), Examination ( 67%)",
+      "DP Requirement": "NONE"
+    }
+  ,
+    {
+      "Module name": "Introduction to Computer Science",
+      "Module Code": "COMP100",
+      "Prerequisite Requirement": "Either Matric Maths HGD or SGA or NSC Maths at Level 5.",
+      "Aim": "To introduce students to the basics of computer science.",
+      "Content": "Overview of computer science. Basic computer literacy. Problem solving and algorithm design. Numbers and their representation. Logic design (switching algebra, gates, synthesis of circuits). Simple machine architecture. Simple programming in a high-level programming language. Program debugging and testing.",
+      "Assessment": "Class mark 50% (at least 2 theory tests (25%), at least 1 practical test (10%), practicals/assignments/tests (15%)), 3 h exam (50%), with a sub-minimum of 40% on both.",
+      "DP Requirement": "Class mark 40%, attendance at 80% of the practicals.",
+      "Credit Restriction": "Credit may not be obtained for both COMP100 and any of COMP106, ISTN100 or ISTN101."
+    },
+    {
+      "Module name": "Computer Programming",
+      "Module Code": "COMP102",
+      "Prerequisite Modules": "COMP100",
+      "Aim": "To introduce students to programming in a high-level language.",
+      "Content": "Procedural programming in a high-level programming language. Structured data types. Sorting. Searching. Recursion. Program testing. Program documentation. Introduction to object-oriented programming.",
+      "Assessment": "Class mark 50% (at least 2 theory tests (25%), at least 1 practical test (10%), practicals/assignments/tests (15%)), 3 h exam (50%), with a sub-minimum of 40% on both.",
+      "DP Requirement": "Class mark 40%, attendance at 80% of the practicals."
+    },
+    {
+      "Module name": "Object-Oriented Programming",
+      "Module Code": "COMP200",
+      "Prerequisite Modules": "COMP102, MATH130",
+      "Aim": "To introduce students to the fundamentals of object-oriented programming.",
+      "Content": "Object-oriented programming with Java: classes, inheritance and polymorphism. Object-oriented design methodology and notation. Introduction to abstract data types. Container classes and iterators. Advanced programming constructs. Object-oriented GUI.",
+      "Assessment": "Class mark 50% (at least 2 theory tests (25%), at least 1 practical test (20%), at least 1 assignment/quiz (5%)), 3 h exam (50%), with a sub-minimum of 40% on both.",
+      "DP Requirement": "At least 40% for continuous assessment, attendance at 80% of the practicals."
+    }
+  ,
+    {
+      "Module name": "Data Structures",
+      "Module Code": "COMP201",
+      "Prerequisite Requirement": "At least 40% in COMP200.",
+      "Prerequisite Modules": ["MATH140"],
+      "Aim": "To introduce students to the fundamentals of data structures.",
+      "Content": "Data abstraction and encapsulation. Specification and implementation of data structures. Linear structures. Order and iterators. Trees, sets and dictionaries. Graphs. Canned data structures. Introduction to algorithms and complexity.",
+      "Assessment": "Class mark 50% (at least 2 theory tests (25%), at least 1 practical test (20%), at least 1 assignment/quiz (5%)), 3 h exam (50%), with a sub-minimum of 40% on both.",
+      "DP Requirement": "Class mark 40%, attendance at 80% of the practicals."
+    },
+    {
+      "Module name": "Introduction to Calculus",
+      "Module Code": "MATH130",
+      "Prerequisite Requirement": "Higher Grade D or Standard Grade A for Matric Mathematics, or NSC Level 5 Maths, or 60% for MATH199.",
+      "Aim": "To introduce and develop the Differential Calculus as well as the fundamentals of proof technique and rudimentary logic.",
+      "Content": "Fundamental Concepts - elementary logic, proof techniques. Differential Calculus - Functions, graphs and inverse functions, limits and continuity, the derivative, techniques of differentiation, applications of derivatives, antiderivatives.",
+      "Assessment": "Class tests and/or assignments (33%); 3 h exam (67%).",
+      "DP Requirement": "35% Class mark, 80% attendance at lectures & tutorials."
+    },
+    {
+      "Module name": "Quantitative Methods 1",
+      "Module Code": "MATH134",
+      "Prerequisite Requirement": "Higher Grade E or Standard Grade B for Matric Mathematics or NSC Level 4 Maths.",
+      "Aim": "To introduce mathematical techniques for business mathematics and to develop problem-solving skills.",
+      "Content": "Matrices and matrix models. Solution of systems of linear equations and simple linear programming problems. Elements of the mathematics of finance. Differential calculus in one and several variables, applications, partial differentiation, maxima and minima. Exponential and logarithmic functions. Integral calculus with applications. Elementary differential equations.",
+      "Assessment": "Class tests and/or assignments (33%); 3 h exam (67%).",
+      "DP Requirement": "35% Class mark, 80% attendance at lectures & tutorials."
+    },
+    {
+      "Module name": "Calculus and Linear Algebra",
+      "Module Code": "MATH140",
+      "Prerequisite Requirement": "40% in MATH130.",
+      "Aim": "To develop the Integral Calculus and to introduce elementary Linear Algebra.",
+      "Content": "Integral Calculus - the definite integral, techniques of integration, applications of integrals, Taylor series, polar coordinates, complex numbers. Introduction to Linear Algebra - vectors, lines and planes in space, matrices, systems of linear equations, determinants.",
+      "Assessment": "Class tests and/or assignments (33%); 3 h exam (67%).",
+      "DP Requirement": "35% Class mark, 80% attendance at lectures & tutorials."
+    },
+    {
+      "Module name": "Foundation Mathematics for Commerce",
+      "Module Code": "MATH194",
+      "Aim": "To provide a foundation for the basic mathematics underpinning mathematical techniques for commerce, and to develop elementary problem-solving skills.",
+      "Practicals": "Real numbers and the real line, the Cartesian plane, straight lines, inequalities, number patterns and sequences, applications to commerce. Exponents and radicals, algebraic expressions, algebraic fractions. Simultaneous equations, systems of linear equations, introduction to simple linear programming, simple problem formulation. Logarithms, elementary mathematics of finance. Introduction to differential calculus with applications to commerce.",
+      "Assessment": "Class mark (Assignments, Class tests, 3 h June test, and tutorial tests) (50%); 3 h exam (50%).",
+      "DP Requirement": "40% class mark, 80% attendance at all lectures and tutorials. For students in the BCom4 (Access initiative) only."
+    },
+    {
+      "Module name": "Advanced Calculus & Linear Algebra",
+      "Module Code": "MATH212",
+      "Prerequisite Modules": ["MATH130", "MATH140"],
+      "Aim": "To give a coherent treatment of basic theories & problem-solving techniques from Advanced Calculus and Linear Algebra and their applications.",
+      "Content": "Advanced Calculus: Functions of several variables. Partial derivatives, differentiability, chain rules, implicit differentiation. Extrema and Lagrange multipliers. Multiple integrals, change of variables. Linear algebra: axioms for vector spaces. Linear independence, bases and dimension. Matrices and linear transformations. Change of basis. Eigenvectors and eigenvalues, diagonalization and its applications (including linear differential equations). Orthogonality, Gram-Schmidt process.",
+      "Assessment": "Class tests and/or assignments (33%); 3 h exam (67%).",
+      "DP Requirement": "Class record 35%. 80% attendance at lectures and tutorials."
+    }
+  ,
+    {
+      "Module name": "Introduction to Statistics",
+      "Module Code": "STAT130",
+      "Prerequisite Requirement": "Higher Grade D or Standard Grade A for Matric Mathematics or NSC Level 4 Maths.",
+      "Aim": "To introduce a wide range of statistical techniques required for the analysis of quantitative data.",
+      "Content": "Descriptive statistical methods. Measures of central tendency and dispersion. Permutations and Combinations. Basic probability concepts. Discrete random variables and their properties: Bernoulli, Binomial, Poisson, Hypergeometric. Normal distributions. Point and interval estimation. Correlation and simple linear regression. Hypothesis tests for proportions, means, and variances. Reporting on the output of appropriate statistical computing packages.",
+      "Practicals": "Excel-based exercises and practicals on the above topics",
+      "Assessment": "Two tests and/or practical assignments (35%); 3 h exam (65%).",
+      "DP Requirement": "35% Class mark, 80% attendance at tutorials and practicals. Credit may not be obtained for both STAT130 and STAT370."
+    },
+    {
+      "Module name": "Statistical Methods",
+      "Module Code": "STAT140",
+      "Prerequisite Requirement": "At least 40% in MATH130 or 195. Prerequisite Modules: STAT130. Corequisite: MATH140 or 196.",
+      "Aim": "Probability concepts. Test of independence and homogeneity. Experimental design. Anova and regression. Nonparametric methods.",
+      "Practicals": "SAS-based practices and exercises on the above topics",
+      "Assessment": "Two tests and/or practical assignments (35%); 3 h exam (65%).",
+      "DP Requirement": "35% Class mark, 80% attendance at practicals and tutorials."
+    },
+    {
+      "Module name": "Probability Distributions",
+      "Module Code": "STAT230",
+      "Prerequisite Modules": "MATH140 or 196; STAT140. Corequisite: MATH212.",
+      "Aim": "To introduce the student to univariate and bivariate distributions.",
+      "Content": "Discrete probability distributions. Hypergeometric, Binomial, Poisson, Negative Binomial, Continuous probability distributions. Normal, Gamma family, Beta, t-distribution, F-distribution. Transformation of random variables. Moments and generating functions: probability-, moment- and factorial generating functions. Bivariate distributions: marginal and conditional distributions, moments and correlation. Bivariate Normal distribution.",
+      "Practicals": "SAS and/or R-based exercises on the above topics",
+      "Assessment": "Two tests and/or practical assignments (35%); 3 h exam (65%).",
+      "DP Requirement": "35% Class mark, 80% attendance."
+    },
+    {
+      "Module name": "Statistical Inference",
+      "Module Code": "STAT240",
+      "Prerequisite Requirement": "40% in MATH212. Prerequisite Modules: STAT230. Corequisite: MATH251.",
+      "Aim": "To introduce the student to statistical inference.",
+      "Content": "Sampling distributions. Point estimation: maximum likelihood, method of moments, ordinary least squares. Properties of estimators. Interval estimation: Hypothesis testing: likelihood ratio test, best critical regions, uniformly most powerful tests. Least squares estimation and inference for the simple linear regression model. Principles of Bayesian estimation.",
+      "Practicals": "SAS and/or R-based exercises on the above topics",
+      "Assessment": "Two tests and/or practical assignments (35%); 3 h exam (65%).",
+      "DP Requirement": "35% Class mark, 80% attendance."
+    },
+    {
+      "Module name": "Data Mining using Machine Learning",
+      "Module Code": "STAT243",
+      "Prerequisite Modules": "STAT140.",
+      "Aim": "To introduce machine learning and data mining techniques that will be needed to discover structure inside unstructured data, extract meaning from noisy data, discover patterns, correlations, and ultimately predict customer/market behaviour and industrial as well as natural processes.",
+      "Content": "Processes of data mining which include data selection, cleaning and coding, using statistical pattern recognition and machine learning techniques, and reporting and visualizing the generated structures. Prepare and explore data for analytical model development. Create and select features for predictive modelling. Develop a series of supervised learning models based on different techniques such as decision tree, ensemble of trees (forest and gradient boosting), neural networks, and support vector machines. Build segments for business applications.",
+      "Practicals": "Computer-based exercises and practicals",
+      "Assessment": "Tests and computer-based practical assignments (35%) and one 3-hour exam (65%).",
+      "DP Requirement": "35% class marks and 80% attendance."
+    },
+    {
+      "Module name": "Linear Models",
+      "Module Code": "STAT301",
+      "Prerequisite Modules": "MATH212 and 251, (STAT240 or BMET314).",
+      "Aim": "To introduce the student to the theory and application of the general linear model.",
+      "Content": "Topics from linear algebra. The Gauss-Markov Theorem. The general linear model of full rank and less than full rank. Regression analysis. Analysis of variance and covariance.",
+      "Assessment": "Two tests and/or computer-based practical assignments (65%); 3 h exam (65%).",
+      "DP Requirement": "35% Class mark, 80% attendance at tutorials."
+    }
+  ,
+    {
+      "Module name": "Basic IsiZulu Language Studies A",
+      "Module Code": "ZULN101",
+      "Prerequisite Requirement": "Open to students who have not written an Nguni mother tongue Grade 12 examination.",
+      "Aim": "To achieve elementary fluency in both the oral and the written language.",
+      "Content": "This module introduces basic grammar, history and culture of the amaZulu. Lectures combine an academic study of IsiZulu with the use of a communicative method of language learning.",
+      "Assessment": "Class work: 40% Examination: 60%",
+      "DP Requirement": "Students must submit all written work on time and must comply with the attendance requirements for the School of IsiZulu Studies.",
+      "Core module for the major in IsiZulu Studies": true
+    },
+    {
+      "Module name": "Academic Literacy in English",
+      "Module Code": "ACLE101",
+      "Aim": "To introduce students to the different ways of thinking, reading and writing expected of them at university.",
+      "Content": "This module will help you build a greater understanding of the language of learning and teaching used at University, which is quite different from what you may have been exposed to at secondary school. You will learn and practice the following: Effective reading strategies for assignments; Critical thinking and listening skills; Writing effective, well-constructed paragraphs and short writing assignments; Students will work in smaller tutorial groups in the development of these skills.",
+      "Assessment": "Class Mark: 50%; Examination 50%",
+      "DP Requirement": "70% Attendance and submission of all set class-work"
+    }
+  ,
+    {
+      "Module name": "MATH251",
+      "Module Code": "MATH251",
+      "Prerequisite Requirement": "MATH212",
+      "Aim": "To provide a foundation for advanced study in mathematics and applied mathematics.",
+      "Content": "Review of multiple integrals. Vector functions and vector fields, including curl and divergence. Curves, line integrals, path independence, Fundamental Theorem of Line Integrals. Green’s Theorem. Surfaces, surface integrals, divergence and Stokes’ Theorems. The Completeness Axiom. Sequences and series of real numbers, tests for convergence of series. Linear ordinary differential equations, solution of first and second order equations. Laplace transforms.",
+      "Assessment": "Class tests (33%); 3 h exam (67%).",
+      "DP Requirement": "35% Class mark; 80% attendance at both lectures and tutorials."
+    },
+    {
+      "Module name": "Biostatistics Methods",
+      "Module Code": "STAT305",
+      "Prerequisite Requirement": "STAT230 and (STAT301 or BMET314)",
+      "Aim": "To provide the student with a thorough understanding of biostatistics and to expose the student to a range of practical problems in that area.",
+      "Content": "Introduction to epidemiology. Sample size and power of test. Standardization of mortality rates, morbidity studies and clustering of diseases. Clinical trials. Cohort studies. Inference of r x c contingency tables, Logistic regression. Survival analysis.",
+      "Practicals": "Computer-based exercises and practicals.",
+      "Assessment": "Two tests (20%), computer-based practical assignments (15%); 3 h exam (65%).",
+      "DP Requirement": "30% Class mark, 80% attendance at practicals."
+    },
+    {
+      "Module name": "Random Processes",
+      "Module Code": "STAT350",
+      "Prerequisite Requirement": "STAT395",
+      "Aim": "To introduce the student to the theory and applications of stochastic models.",
+      "Content": "Broad classification of stochastic processes. Markov chains. Birth and death processes. Queueing theory. The Poisson process. Conditional expectations and martingales. Branching processes. Renewal theory. Time series. Loss distributions and risk models.",
+      "Practicals": "Computer-based exercises on the above topics and practicals.",
+      "Assessment": "Two tests (35%); 3 h exam (65%).",
+      "DP Requirement": "35% Class mark, 80% attendance at tutorials."
+    },
+    {
+      "Module name": "Applied Probability Models",
+      "Module Code": "STAT395",
+      "Prerequisite Requirement": "STAT240",
+      "Aim": "To introduce the student to basic Bayesian statistics and probability sampling techniques as commonly used by government departments, industry and commerce.",
+      "Content": "Bayesian statistics concepts; Probability Sampling techniques for estimating means, totals and proportions, including the following sampling procedures: Simple random sampling, stratified sampling, cluster sampling, systematic sampling, PPS sampling. Re-sampling techniques: bootstrap, jackknife. Nonparametric methods.",
+      "Practicals": "Computer-based exercises on the above topics and practicals.",
+      "Assessment": "Two tests and/or computer-based practical assignments (35%); 3 h exam (65%).",
+      "DP Requirement": "35% class mark, 80% attendance at both tutorial and practical sessions."
+    },
+    {
+      "Module name": "Service - Learning",
+      "Module Code": "MGNT1SL",
+      "Corequisite": "Business Language Development A and B, Elementary Microeconomics, Elementary Macroeconomics, Foundation Mathematics",
+      "Aim": "Service-Learning is a process where students are engaged in reflexive learning practices in the commercial world. The aim of the module is to expose students to experiential learning in the working world. To develop understanding and appropriate skills which enable students to apply a range of strategies to facilitate the learning about commerce in the real world, as well as the development of skills related to Service-Learning.",
+      "Content": "Introduction to the commercial world, Service-Learning and related issues: Developing a meaning for the commercial world and Service-Learning. Exploring journals and readings in Service-Learning, Economics, Accounting Management, Governance and Finance. The commercial process and the Service-Learning process: Steps of the commercial process; models and research. Models of Service-Learning and reflections. Research into selected topic: Formal student conducted research into selected topics. Preparation and presentation of research project.",
+      "Practicals": "Visit retail outlet. Report/present on the focus project.",
+      "Assessment": "Course work: 50% (3 assignments and 1 project), examination: 50%",
+      "DP Requirement": "At least 40% course work component; 80% attendance"
+    }
+  ]
+  
