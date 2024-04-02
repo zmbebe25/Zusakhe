@@ -169,7 +169,7 @@
             {"subjectid": 20, "minmark": 50, "required": true},
             {"subjectid": 103, "minmark": 40, "required": true}
         ],
-        "APS": 32
+        "APS": 27
     },
     {
         "QualificationID": 2055,
@@ -362,7 +362,7 @@
                 {"subjectid": 21, "minmark": 50, "required": true}
                 ]
             ],
-            "APS": null
+            "APS": 27
         },
         {
             "QualificationID": 2064,
@@ -422,17 +422,20 @@
                 {"subjectid": 2, "minmark": 50, "required": true},
                 {"subjectid": 4, "minmark": 50, "required": true}
             ],
-            "APS": 30
+            "APS": 27
         },
         {
             "QualificationID": 597,
             "QualificationName": "Accountancy",
             "Entrance": [
                 "AND",
-                {"subjectid": 2, "minmark": 40, "required": true},
-                {"subjectid": 21, "minmark": 50, "required": true},
                 {"subjectid": 42, "minmark": 60, "required": true},
-                {"subjectid": 103, "minmark": 50, "required": true}
+                {"subjectid": 103, "minmark": 50, "required": true},
+                ["OR",
+                {"subjectid": 2, "minmark": 40, "required": true},
+                {"subjectid": 21, "minmark": 50, "required": true}
+                ]
+                
             ],
             "APS": 30
         },
@@ -441,10 +444,13 @@
             "QualificationName": "Internal Auditing",
             "Entrance": [
                 "AND",
-                {"subjectid": 2, "minmark": 40, "required": true},
-                {"subjectid": 21, "minmark": 60, "required": true},
                 {"subjectid": 42, "minmark": 70, "required": true},
-                {"subjectid": 103, "minmark": 50, "required": true}
+                {"subjectid": 103, "minmark": 50, "required": true},
+                ["OR",
+                {"subjectid": 2, "minmark": 40, "required": true},
+                {"subjectid": 21, "minmark": 60, "required": true}
+                ]
+                
             ],
             "APS": 30
         },
