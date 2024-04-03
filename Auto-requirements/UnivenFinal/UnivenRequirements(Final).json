@@ -234,9 +234,9 @@
             {"subjectid": 22, "minmark": 75, "required": true}
             ],
             ["OR",
-            {"subjectid": 7, "minmark": 75, "required": true},
-            {"subjectid": 26, "minmark": 75, "required": true},
-            {"subjectid": 27, "minmark": 75, "required": true}
+            {"subjectid": 7, "minmark": 50, "required": true},
+            {"subjectid": 26, "minmark": 50, "required": true},
+            {"subjectid": 27, "minmark": 50, "required": true}
             ]
         ],
         "Duration": "3 Years"
@@ -869,7 +869,7 @@
         "Duration": "4 Years"
     },
     {
-        "Qualification": "Bachelor of Science in42(Agricultural Economics)",
+        "Qualification": "Bachelor of Science in (Agricultural Economics)",
         "Qualification Code": "AGBAAE",
         "ID": 964,
         "APS": 26,
@@ -885,7 +885,7 @@
         "Duration": "4 years"
     },
     {
-        "Qualification": "Bachelor of Science in42(Agribusiness Management)",
+        "Qualification": "Bachelor of Science in (Agribusiness Management)",
         "Qualification Code": "AGBAAM",
         "ID": 602235096,
         "APS": 26,
@@ -898,7 +898,7 @@
         "Duration": "4 years"
     },
     {
-        "Qualification": "Bachelor of Science in42(Animal Science)",
+        "Qualification": "Bachelor of Science in (Animal Science)",
         "Qualification Code": "AGBAAS",
         "ID": 966,
         "APS": 26,
@@ -911,7 +911,7 @@
         "Duration": "4 years"
     },
     {
-        "Qualification": "Bachelor of Science in42(Horticultural Sciences)",
+        "Qualification": "Bachelor of Science in (Horticultural Sciences)",
         "Qualification Code": "AGBAHS",
         "ID": 968,
         "APS": 26,
@@ -925,7 +925,7 @@
     },
 
     {
-        "Qualification": "Bachelor of Science in42(Plant Production)",
+        "Qualification": "Bachelor of Science in (Plant Production)",
         "Qualification Code": "AGBAPP",
         "ID": 969,
         "APS": 26,
@@ -972,8 +972,11 @@
             {"subjectid": 103, "minmark": 50, "required": true},
             {"subjectid": 2, "minmark": 50, "required": true},
             {"subjectid": 20, "minmark": 50, "required": true},
+            "OR",
+            [
             {"subjectid": 19, "minmark": 50, "required": true},
             {"subjectid": 42, "minmark": 50, "required": true}
+            ]
         ],
         "Duration": "4 years"
     },
@@ -986,8 +989,66 @@
             {"subjectid": 103, "minmark": 50, "required": true},
             {"subjectid": 2, "minmark": 50, "required": true},
             {"subjectid": 20, "minmark": 50, "required": true},
+            "OR",
+            [
             {"subjectid": 19, "minmark": 50, "required": true},
             {"subjectid": 42, "minmark": 50, "required": true}
+            ]
+        ],
+        "Duration": "4 years"
+    },
+    {
+        "Qualification": "Bachelor of Education in Senior Phase and Further Education and Training",
+        "Qualification Code": "SEBESP",
+        "ID": 993,
+        "APS": 0,
+        "Entrance": ["AND",
+            {"subjectid": 103, "minmark": 50, "required": true},
+            {"subjectid": 2, "minmark": 50, "required": true},
+            {"subjectid": 20, "minmark": 50, "required": true},
+            {"subjectid": 19, "minmark": 50, "required": true}
+        ],
+        "Duration": "4 years"
+    },
+    {
+        "Qualification": "Bachelor of Education in Senior Phase and Further Education and Training",
+        "Qualification Code": "SEBECP",
+        "ID": 955403604,
+        "APS": 0,
+        "Entrance": ["AND",
+            {"subjectid": 103, "minmark": 50, "required": true},
+            {"subjectid": 7, "minmark": 50, "required": true},
+            {"subjectid": 26, "minmark": 50, "required": true},
+            {"subjectid": 27, "minmark": 50, "required": true}
+        ],
+        "Duration": "4 years"
+    },
+    {
+        "Qualification": "Bachelor of Education in Senior Phase and Further Education and Training",
+        "Qualification Code": "SEBELP",
+        "ID": 200311514,
+        "APS": 0,
+        "Entrance": ["AND",
+            {"subjectid": 103, "minmark": 50, "required": true},
+            {"subjectid": 24, "minmark": 50, "required": true},
+            {"subjectid": 8, "minmark": 50, "required": true},
+            {"subjectid": 47, "minmark": 50, "required": true},
+            {"subjectid": 51, "minmark": 50, "required": true},
+            {"subjectid": 52, "minmark": 50, "required": true},
+            {"subjectid": 44, "minmark": 50, "required": true}
+
+
+
+        ],
+        "Duration": "4 years"
+    },
+    {
+        "Qualification": "Bachelor of Education in Foundation Phase Teaching",
+        "Qualification Code": "SEBEFP",
+        "ID": 992,
+        "APS": 36,
+        "Entrance": ["AND",
+            {"subjectid": 103, "minmark": 50, "required": true}
         ],
         "Duration": "4 years"
     }
