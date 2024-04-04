@@ -73,13 +73,6 @@
         "Duration": "4 years"
     },
     {
-        "QualificationID": 580265534,
-        "QualificationName": "Bachelor of Religious Studies",
-        "Entrance": [],
-        "APS": 30,
-        "Duration": "3 years"
-    },
-    {
         "QualificationID": 996,
         "QualificationName": "Higher Certificate in Music",
         "Entrance": ["AND",
@@ -361,10 +354,9 @@
         "Duration": "3 Years"
     },
     {
-        "QualificationID": 1009,
         "QualificationName": "Bachelor of Commerce in Tourism Management",
         "QualificationCode": "MSBCTM",
-        "ID": 1009,
+        "QualificationID": 1009,
         "APS": 32,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 50, "required": true},
@@ -461,9 +453,9 @@
         "Duration": "4 Years"
     },
     {
-        "Qualification": "Extended BSc in FINANCIAL MATHEMATICS AND APPLIED MATHEMATICS",
-        "Qualification Code": "MNEBSG",
-        "ID": 538309799,
+        "QualificationName": "Extended BSc in FINANCIAL MATHEMATICS AND APPLIED MATHEMATICS",
+        "QualificationCode": "MNEBSG",
+        "QualificationID": 538309799,
         "APS": 24,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 30, "required": true},
@@ -475,9 +467,9 @@
         "Duration": "4 Years"
     },
     {
-        "Qualification": "Extended BSc in MATHEMATICS AND PHYSICS",
-        "Qualification Code": "MNEBSH",
-        "ID": 752949244,
+        "QualificationName": "Extended BSc in MATHEMATICS AND PHYSICS",
+        "QualificationCode": "MNEBSH",
+        "QualificationID": 752949244,
         "APS": 24,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 30, "required": true},
@@ -489,9 +481,9 @@
         "Duration": "4 Years"
     },
     {
-        "Qualification": "Extended BSc in MATHEMATICS AND STATISTICS",
-        "Qualification Code": "MNEBSI",
-        "ID": 926915996,
+        "QualificationName": "Extended BSc in MATHEMATICS AND STATISTICS",
+        "QualificationCode": "MNEBSI",
+        "QualificationID": 926915996,
         "APS": 24,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 30, "required": true},
@@ -503,9 +495,9 @@
         "Duration": "4 Years"
     },
     {
-        "Qualification": "Extended BSc in PHYSICS AND CHEMISTRY",
-        "Qualification Code": "MNEBSJ",
-        "ID": 913172548,
+        "QualificationName": "Extended BSc in PHYSICS AND CHEMISTRY",
+        "QualificationCode": "MNEBSJ",
+        "QualificationID": 913172548,
         "APS": 24,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 30, "required": true},
@@ -517,9 +509,9 @@
         "Duration": "4 Years"
     },
     {
-        "Qualification": "Extended BSc in CHEMISTRY AND MATHEMATICS",
-        "Qualification Code": "MNEBSK",
-        "ID": 472542335,
+        "QualificationName": "Extended BSc in CHEMISTRY AND MATHEMATICS",
+        "QualificationCode": "MNEBSK",
+        "QualificationID": 472542335,
         "APS": 24,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 30, "required": true},
@@ -531,9 +523,9 @@
         "Duration": "4 Years"
     },
     {
-        "Qualification": "Extended BSc in CHEMISTRY AND BIOCHEMISTRY",
-        "Qualification Code": "MNEBSL",
-        "ID": 647558081,
+        "QualificationName": "Extended BSc in CHEMISTRY AND BIOCHEMISTRY",
+        "QualificationCode": "MNEBSL",
+        "QualificationID": 647558081,
         "APS": 24,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 30, "required": true},
@@ -545,9 +537,9 @@
         "Duration": "4 Years"
     },
     {
-        "Qualification": "Extended BSc in CHEMISTRY",
-        "Qualification Code": "MNEBSN",
-        "ID": 855039330,
+        "QualificationName": "Extended BSc in CHEMISTRY",
+        "QualificationCode": "MNEBSN",
+        "QualificationID": 855039330,
         "APS": 26,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 40, "required": true},
@@ -557,9 +549,9 @@
         "Duration": "4 Years"
     },
     {
-        "Qualification": "Extended BSc in BOTANY AND ZOOLOGY",
-        "Qualification Code": "MNEBSO",
-        "ID": 972373757,
+        "QualificationName": "Extended BSc in BOTANY AND ZOOLOGY",
+        "QualificationCode": "MNEBSO",
+        "QualificationID": 972373757,
         "APS": 26,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 40, "required": true},
@@ -569,9 +561,9 @@
         "Duration": "4 Years"
     },
     {
-        "Qualification": "Extended BSc in COMPUTER SCIENCE",
-        "Qualification Code": "MNEBSP",
-        "ID": 836937092,
+        "QualificationName": "Extended BSc in COMPUTER SCIENCE",
+        "QualificationCode": "MNEBSP",
+        "QualificationID": 836937092,
         "APS": 26,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 40, "required": true},
@@ -581,9 +573,9 @@
         "Duration": "4 Years"
     },
     {
-        "Qualification": "Extended BSc in COMPUTER SCIENCE AND MATHEMATICS",
-        "Qualification Code": "MNEBSQ",
-        "ID": 631837553,
+        "QualificationName": "Extended BSc in COMPUTER SCIENCE AND MATHEMATICS",
+        "QualificationCode": "MNEBSQ",
+        "QualificationID": 631837553,
         "APS": 26,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 40, "required": true},
@@ -593,9 +585,9 @@
         "Duration": "4 Years"
     },
     {
-        "Qualification": "Bachelor of Science degree",
-        "Qualification Code": "BSc",
-        "ID": 631837553,
+        "QualificationName": "Bachelor of Science degree",
+        "QualificationCode": "BSc",
+        "QualificationID": 631837553,
         "APS": 26,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 50, "required": true},
@@ -606,9 +598,9 @@
         "Duration": null
     },
     {
-        "Qualification": "BSc in BIOCHEMISTRY AND MICROBIOLOGY",
-        "Qualification Code": "MNBBSA",
-        "ID": 5263,
+        "QualificationName": "BSc in BIOCHEMISTRY AND MICROBIOLOGY",
+        "QualificationCode": "MNBBSA",
+        "QualificationID": 5263,
         "APS": 26,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 50, "required": true},
@@ -619,9 +611,9 @@
         "Duration": "3 years"
     },
     {
-        "Qualification": "BSc in BIOCHEMISTRY AND BIOLOGY",
-        "Qualification Code": "MNBBSD",
-        "ID": 5264,
+        "QualificationName": "BSc in BIOCHEMISTRY AND BIOLOGY",
+        "QualificationCode": "MNBBSD",
+        "QualificationID": 5264,
         "APS": 26,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 50, "required": true},
@@ -632,9 +624,9 @@
         "Duration": "3 years"
     },
     {
-        "Qualification": "BSc in MICROBIOLOGY AND BOTANY",
-        "Qualification Code": "MNBBSE",
-        "ID": 195872585,
+        "QualificationName": "BSc in MICROBIOLOGY AND BOTANY",
+        "QualificationCode": "MNBBSE",
+        "QualificationID": 195872585,
         "APS": 26,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 50, "required": true},
@@ -645,9 +637,9 @@
         "Duration": "3 years"
     },
     {
-        "Qualification": "BSc in MATHEMATICS AND APPLIED MATHEMATICS",
-        "Qualification Code": "MNBBSF",
-        "ID": 981,
+        "QualificationName": "BSc in MATHEMATICS AND APPLIED MATHEMATICS",
+        "QualificationCode": "MNBBSF",
+        "QualificationID": 981,
         "APS": 26,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 50, "required": true},
@@ -658,9 +650,9 @@
         "Duration": "3 years"
     },
     {
-        "Qualification": "BSc in FINANCIAL MATHEMATICS AND APPLIED MATHEMATICS",
-        "Qualification Code": "MNBBSG",
-        "ID": 975350076,
+        "QualificationName": "BSc in FINANCIAL MATHEMATICS AND APPLIED MATHEMATICS",
+        "QualificationCode": "MNBBSG",
+        "QualificationID": 975350076,
         "APS": 26,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 50, "required": true},
@@ -671,9 +663,9 @@
         "Duration": "3 years"
     },
     {
-        "Qualification": "BSc in MATHEMATICS AND PHYSICS",
-        "Qualification Code": "MNBBSH",
-        "ID": 134841428,
+        "QualificationName": "BSc in MATHEMATICS AND PHYSICS",
+        "QualificationCode": "MNBBSH",
+        "QualificationID": 134841428,
         "APS": 26,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 50, "required": true},
@@ -684,9 +676,9 @@
         "Duration": "3 years"
     },
     {
-        "Qualification": "BSc in MATHEMATICS AND STATISTICS",
-        "Qualification Code": "MNBBSI",
-        "ID": 757170141,
+        "QualificationName": "BSc in MATHEMATICS AND STATISTICS",
+        "QualificationCode": "MNBBSI",
+        "QualificationID": 757170141,
         "APS": 26,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 50, "required": true},
@@ -697,9 +689,9 @@
         "Duration": "3 years"
     },
     {
-        "Qualification": "BSc in PHYSICS AND CHEMISTRY",
-        "Qualification Code": "MNBBSJ",
-        "ID": 998997925,
+        "QualificationName": "BSc in PHYSICS AND CHEMISTRY",
+        "QualificationCode": "MNBBSJ",
+        "QualificationID": 998997925,
         "APS": 26,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 50, "required": true},
@@ -710,9 +702,9 @@
         "Duration": "3 years"
     },
     {
-        "Qualification": "BSc in CHEMISTRY AND MATHEMATICS",
-        "Qualification Code": "MNBBSK",
-        "ID": 162431644,
+        "QualificationName": "BSc in CHEMISTRY AND MATHEMATICS",
+        "QualificationCode": "MNBBSK",
+        "QualificationID": 162431644,
         "APS": 26,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 50, "required": true},
@@ -723,9 +715,9 @@
         "Duration": "3 years"
     },
     {
-        "Qualification": "BSc in CHEMISTRY AND BIOCHEMISTRY",
-        "Qualification Code": "MNBBSL",
-        "ID": 221396332,
+        "QualificationName": "BSc in CHEMISTRY AND BIOCHEMISTRY",
+        "QualificationCode": "MNBBSL",
+        "QualificationID": 221396332,
         "APS": 26,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 50, "required": true},
@@ -736,9 +728,9 @@
         "Duration": "3 years"
     },
     {
-        "Qualification": "BSc in CHEMISTRY",
-        "Qualification Code": "MNBBSN",
-        "ID": 979,
+        "QualificationName": "BSc in CHEMISTRY",
+        "QualificationCode": "MNBBSN",
+        "QualificationID": 979,
         "APS": 26,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 50, "required": true},
@@ -749,9 +741,9 @@
         "Duration": "3 years"
     },
     {
-        "Qualification": "BSc in BOTANY AND ZOOLOGY",
-        "Qualification Code": "MNBBSO",
-        "ID": 978,
+        "QualificationName": "BSc in BOTANY AND ZOOLOGY",
+        "QualificationCode": "MNBBSO",
+        "QualificationID": 978,
         "APS": 26,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 50, "required": true},
@@ -762,9 +754,9 @@
         "Duration": "3 years"
     },
     {
-        "Qualification": "BSc in COMPUTER SCIENCE",
-        "Qualification Code": "MNBBSP",
-        "ID": 450531653,
+        "QualificationName": "BSc in COMPUTER SCIENCE",
+        "QualificationCode": "MNBBSP",
+        "QualificationID": 450531653,
         "APS": 26,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 50, "required": true},
@@ -775,9 +767,9 @@
         "Duration": "3 years"
     },
     {
-        "Qualification": "BSc in COMPUTER SCIENCE AND MATHEMATICS",
-        "Qualification Code": "MNBBSQ",
-        "ID": 980,
+        "QualificationName": "BSc in COMPUTER SCIENCE AND MATHEMATICS",
+        "QualificationCode": "MNBBSQ",
+        "QualificationID": 980,
         "APS": 26,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 50, "required": true},
@@ -788,9 +780,9 @@
         "Duration": "3 years"
     },
     {
-        "Qualification": "Bachelor of Environmental Sciences",
-        "Qualification Code": "ESBBES",
-        "ID": 988,
+        "QualificationName": "Bachelor of Environmental Sciences",
+        "QualificationCode": "ESBBES",
+        "QualificationID": 988,
         "APS": 32,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 50, "required": true},
@@ -803,9 +795,9 @@
         "Duration": "3 years"
     },
     {
-        "Qualification": "Bachelor of Earth Sciences in Mining and Environmental Geology",
-        "Qualification Code": "ESBMEG",
-        "ID": 990,
+        "QualificationName": "Bachelor of Earth Sciences in Mining and Environmental Geology",
+        "QualificationCode": "ESBMEG",
+        "QualificationID": 990,
         "APS": 35,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 50, "required": true},
@@ -820,9 +812,9 @@
         "Duration": "4 years"
     },
     {
-        "Qualification": "Bachelor of Earth Sciences in Hydrology and Water Resources",
-        "Qualification Code": "ESBHWR",
-        "ID": 977,
+        "QualificationName": "Bachelor of Earth Sciences in Hydrology and Water Resources",
+        "QualificationCode": "ESBHWR",
+        "QualificationID": 977,
         "APS": 35,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 60, "required": true},
@@ -837,9 +829,9 @@
         "Duration": "4 years"
     },
     {
-        "Qualification": "Bachelor of Urban and Regional Planning",
-        "Qualification Code": "ESBURP",
-        "ID": 989,
+        "QualificationName": "Bachelor of Urban and Regional Planning",
+        "QualificationCode": "ESBURP",
+        "QualificationID": 989,
         "APS": 35,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 50, "required": true},
@@ -854,9 +846,9 @@
         "Duration": "4 years"
     },
     {
-        "Qualification": "Bachelor of Environmental Sciences in Disaster Risk Reduction",
-        "Qualification Code": "ESBDRR",
-        "ID": 980,
+        "QualificationName": "Bachelor of Environmental Sciences in Disaster Risk Reduction",
+        "QualificationCode": "ESBDRR",
+        "QualificationID": 980,
         "APS": 35,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 50, "required": true},
@@ -869,9 +861,9 @@
         "Duration": "4 Years"
     },
     {
-        "Qualification": "Bachelor of Science in (Agricultural Economics)",
-        "Qualification Code": "AGBAAE",
-        "ID": 964,
+        "QualificationName": "Bachelor of Science in (Agricultural Economics)",
+        "QualificationCode": "AGBAAE",
+        "QualificationID": 964,
         "APS": 26,
         "Entrance": ["AND",
             {"subjectid": 2, "minmark": 50, "required": true},
@@ -885,9 +877,9 @@
         "Duration": "4 years"
     },
     {
-        "Qualification": "Bachelor of Science in (Agribusiness Management)",
-        "Qualification Code": "AGBAAM",
-        "ID": 602235096,
+        "QualificationName": "Bachelor of Science in (Agribusiness Management)",
+        "QualificationCode": "AGBAAM",
+        "QualificationID": 602235096,
         "APS": 26,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 50, "required": true},
@@ -898,9 +890,9 @@
         "Duration": "4 years"
     },
     {
-        "Qualification": "Bachelor of Science in (Animal Science)",
-        "Qualification Code": "AGBAAS",
-        "ID": 966,
+        "QualificationName": "Bachelor of Science in (Animal Science)",
+        "QualificationCode": "AGBAAS",
+        "QualificationID": 966,
         "APS": 26,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 50, "required": true},
@@ -911,9 +903,9 @@
         "Duration": "4 years"
     },
     {
-        "Qualification": "Bachelor of Science in (Horticultural Sciences)",
-        "Qualification Code": "AGBAHS",
-        "ID": 968,
+        "QualificationName": "Bachelor of Science in (Horticultural Sciences)",
+        "QualificationCode": "AGBAHS",
+        "QualificationID": 968,
         "APS": 26,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 50, "required": true},
@@ -925,9 +917,9 @@
     },
 
     {
-        "Qualification": "Bachelor of Science in (Plant Production)",
-        "Qualification Code": "AGBAPP",
-        "ID": 969,
+        "QualificationName": "Bachelor of Science in (Plant Production)",
+        "QualificationCode": "AGBAPP",
+        "QualificationID": 969,
         "APS": 26,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 50, "required": true},
@@ -938,9 +930,9 @@
         "Duration": "4 years"
     },
     {
-        "Qualification": "Bachelor of Science in Soil Science",
-        "Qualification Code": "AGBASS",
-        "ID": 970,
+        "QualificationName": "Bachelor of Science in Soil Science",
+        "QualificationCode": "AGBASS",
+        "QualificationID": 970,
         "APS": 26,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 50, "required": true},
@@ -951,9 +943,9 @@
         "Duration": "4 years"
     },
     {
-        "Qualification": "Bachelor of Science in Forestry",
-        "Qualification Code": "AGBFOR",
-        "ID": 963,
+        "QualificationName": "Bachelor of Science in Forestry",
+        "QualificationCode": "AGBFOR",
+        "QualificationID": 963,
         "APS": 26,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 50, "required": true},
@@ -964,9 +956,9 @@
         "Duration": "4 years"
     },
     {
-        "Qualification": "Bachelor of Science in Food Science and Technology",
-        "Qualification Code": "AGBFST",
-        "ID": 962,
+        "QualificationName": "Bachelor of Science in Food Science and Technology",
+        "QualificationCode": "AGBFST",
+        "QualificationID": 962,
         "APS": 26,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 50, "required": true},
@@ -981,9 +973,9 @@
         "Duration": "4 years"
     },
     {
-        "Qualification": "Bachelor of Science in Agricultural and Biosystems Engineering",
-        "Qualification Code": "AGBABE",
-        "ID": 965,
+        "QualificationName": "Bachelor of Science in Agricultural and Biosystems Engineering",
+        "QualificationCode": "AGBABE",
+        "QualificationID": 965,
         "APS": 26,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 50, "required": true},
@@ -998,9 +990,9 @@
         "Duration": "4 years"
     },
     {
-        "Qualification": "Bachelor of Education in Senior Phase and Further Education and Training",
-        "Qualification Code": "SEBESP",
-        "ID": 993,
+        "QualificationName": "Bachelor of Education in Senior Phase and Further Education and Training",
+        "QualificationCode": "SEBESP",
+        "QualificationID": 993,
         "APS": 0,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 50, "required": true},
@@ -1011,9 +1003,9 @@
         "Duration": "4 years"
     },
     {
-        "Qualification": "Bachelor of Education in Senior Phase and Further Education and Training",
-        "Qualification Code": "SEBECP",
-        "ID": 955403604,
+        "QualificationName": "Bachelor of Education in Senior Phase and Further Education and Training",
+        "QualificationCode": "SEBECP",
+        "QualificationID": 955403604,
         "APS": 0,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 50, "required": true},
@@ -1024,9 +1016,9 @@
         "Duration": "4 years"
     },
     {
-        "Qualification": "Bachelor of Education in Senior Phase and Further Education and Training",
-        "Qualification Code": "SEBELP",
-        "ID": 200311514,
+        "QualificationName": "Bachelor of Education in Senior Phase and Further Education and Training",
+        "QualificationCode": "SEBELP",
+        "QualificationID": 200311514,
         "APS": 0,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 50, "required": true},
@@ -1043,9 +1035,9 @@
         "Duration": "4 years"
     },
     {
-        "Qualification": "Bachelor of Education in Foundation Phase Teaching",
-        "Qualification Code": "SEBEFP",
-        "ID": 992,
+        "QualificationName": "Bachelor of Education in Foundation Phase Teaching",
+        "QualificationCode": "SEBEFP",
+        "QualificationID": 992,
         "APS": 36,
         "Entrance": ["AND",
             {"subjectid": 103, "minmark": 50, "required": true}

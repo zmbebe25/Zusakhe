@@ -1,0 +1,391 @@
+[{
+    "Qualification": "Diploma in Adult and Community Education and Training",
+    "ID": 833890437,
+    "Qualification Code": "W62001",
+    "APS": 21,
+    "Description": "To prepare students to become reflective and competent lecturers in Community Colleges. It articulates vertically to teacher education programmes pitching at NQF level 7.",
+    "Entrance": [
+        "AND",
+        {
+            "subjectid": "English",
+            "minmark": 40,
+            "required": true
+        },
+        {
+            "subjectid": "IsiXhosa",
+            "minmark": 40,
+            "required": true
+        },
+        [
+            "OR",
+            {
+                "subjectid": "Mathematics",
+                "minmark": 30,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematical Literacy",
+                "minmark": 30,
+                "required": true
+            }
+        ]
+    ]
+},
+{
+    "Qualification": "Bachelor of Education in Foundation Phase Teaching",
+    "ID": 469634872,
+    "Qualification Code": "W62006",
+    "APS": 26,
+    "Description": "This is an initial professional teacher qualification with specialization linked to Grades R – 3. It provides specific depth and specialised knowledge, practical skills through research and workplace experience to enable successful students to enter teaching well grounded.",
+    "Subject": [
+        "AND",
+        {
+            "subjectid": "English",
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": "IsiXhosa",
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": "Life Orientation",
+            "minmark": 60,
+            "required": true
+        },
+        [
+            "OR",
+            {
+                "subjectid": "Mathematics",
+                "minmark": 30,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematical Literacy",
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    ]
+},
+{
+    "Qualification": "Bachelor of Education in Senior Phase and Further Education and Training Teaching (Economic & Management Sciences)",
+    "ID": 1574,
+    "Qualification Code": "W62009",
+    "APS": 26,
+    "Description": "The primary purpose of the Bachelor of Education in Senior Phase and Further Education and Training Teaching (SP & FET) is to provide a well-rounded education that equips graduates with the required subject content knowledge base, educational theory, and methodology that will enable them to demonstrate competence and responsibility as academically and professionally qualified beginner teachers.",
+    "Subject": [
+        "AND",
+        {
+            "subjectid": "English",
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": "IsiXhosa or IsiZulu or Afrikaans or SeSotho",
+            "minmark": 50,
+            "required": true
+        },
+        [
+            "ANY2",
+            {
+                "subjectid": "Accounting",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Business Studies",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Economics",
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        [
+            "OR",
+            {
+                "subjectid": "Mathematics",
+                "minmark": 30,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematical Literacy",
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    ]
+},
+{
+    "Qualification": "Bachelor of Education in Senior Phase and Further Education and Training Teaching (Consumer and Management Sciences)",
+    "ID": 5420,
+    "Qualification Code": "W62008",
+    "APS": 23,
+    "Description": "The primary purpose of the Bachelor of Education in Senior Phase and Further Education and Training Teaching (SP & FET) is to provide a well-rounded education that equips graduates with the required subject content knowledge base, educational theory, and methodology that will enable them to demonstrate competence and responsibility as academically and professionally qualified beginner teachers.",
+    "Subject": [
+        "AND",
+        {
+            "subjectid": "English",
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": "Consumer Studies",
+            "minmark": 50,
+            "required": true
+        },
+        [
+            "OR",
+            {
+                "subjectid": "Hospitality Studies",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Tourism",
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        {
+            "subjectid": "IsiXhosa, IsiZulu, Afrikaans, or Sotho",
+            "minmark": 50,
+            "required": true
+        }
+    ]
+},
+{
+    "Qualification": "Bachelor of Education in Senior Phase and Further Education and Training (Creative Arts)",
+    "ID": 5422,
+    "Qualification Code": "W62007",
+    "APS": 26,
+    "Description": "The primary purpose of the Bachelor of Education in Senior Phase and Further Education and Training Teaching (SP & FET) is to provide a well-rounded education that equips graduates with the required subject content knowledge base, educational theory, and methodology that will enable them to demonstrate competence and responsibility as academically and professionally qualified beginner teachers.",
+    "Subject": [
+        "AND",
+        {
+            "subjectid": "English",
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": "Music",
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": "IsiXhosa or IsiZulu or Afrikaans or Sotho",
+            "minmark": 50,
+            "required": true
+        },
+        [
+            "ANY2",
+            {
+                "subjectid": "Dramatic Arts",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Visual Arts",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Dance Studies",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "History",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Life Orientation",
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    ]
+},
+{
+    "Qualification": "Bachelor of Education in Senior Phase and Further Education and Training Teaching (Humanities)",
+    "ID": 5418,
+    "Qualification Code": "W62010",
+    "APS": 26,
+    "Description": "The primary purpose of the Bachelor of Education in Senior Phase and Further Education and Training Teaching (SP & FET) is to provide a well-rounded education that equips graduates with the required subject content knowledge base, educational theory, and methodology that will enable them to demonstrate competence and responsibility as academically and professionally qualified beginner teachers.",
+    "Subject": [
+        "AND",
+        {
+            "subjectid": "English",
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": "IsiXhosa or IsiZulu or Afrikaans or Sotho",
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": "History",
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": "Geography",
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": "Life Orientation",
+            "minmark": 50,
+            "required": true
+        }
+    ]
+},
+{
+    "Qualification": "Bachelor of Education in Senior Phase and Further Education and Training Teaching (Languages)",
+    "ID": 601184927,
+    "Qualification Code": "W62011",
+    "APS": 26,
+    "Description": "The primary purpose of the Bachelor of Education in Senior Phase and Further Education and Training Teaching (SP & FET) is to provide a well-rounded education that equips graduates with the required subject content knowledge base, educational theory, and methodology that will enable them to demonstrate competence and responsibility as academically and professionally qualified beginner teachers.",
+    "Subject": [
+        "AND",
+        {
+            "subjectid": "English",
+            "minmark": 60,
+            "required": true
+        },
+        {
+            "subjectid": "IsiXhosa or IsiZulu or Afrikaans or SeSotho",
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": "Life Orientation",
+            "minmark": 50,
+            "required": true
+        }
+    ]
+},
+{
+    "Qualification": "Bachelor of Education in Senior Phase and Further Education and Training Teaching (Mathematics, Science & Technology)",
+    "ID": 5421,
+    "Qualification Code": "W62012",
+    "APS": 26,
+    "Description": "The primary purpose of the Bachelor of Education in Senior Phase and Further Education and Training Teaching (SP & FET) is to provide a well-rounded education that equips graduates with the required subject content knowledge base, educational theory, and methodology that will enable them to demonstrate competence and responsibility as academically and professionally qualified beginner teachers.",
+    "Subject": [
+        "AND",
+        {
+            "subjectid": "English",
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": "IsiXhosa or IsiZulu or Afrikaans or Sotho",
+            "minmark": 50,
+            "required": true
+        },
+        [
+            "ANY2",
+            {
+                "subjectid": "Life Sciences",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematics",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Physical Sciences",
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    ]
+},
+{
+    "Qualification": "Bachelor of Education in Senior Phase and Further Education and Training Teaching (Technical and Vocational)",
+    "ID": 62018,
+    "Qualification Code": "W62018",
+    "APS": "Not Specified",
+    "Description": "The degree is a 480-credit qualification, offered over a period of 4 years, full-time. Students need to study 3 modules/courses as Majors: Major A (the main FET Major with content and teaching up to Level III), Major B (the second FET Major with content and teaching up to Level II), and Major C (the third Senior Phase Major with content and teaching up to Level II). Options include combinations like Civil Technology and Engineering Graphics & Design; Electrical Technology, Engineering Graphics & Design, and Technology; Mechanical Technology, Engineering Graphics & Design, and Technology; and others with Technology (SP) as a compulsory subject studied up to Level II.",
+    "Career Opportunities": [
+        "Professionally qualified technical and vocational teachers for the Senior, and Further Education phases",
+        "Specialists in fields of technological education, curriculum studies, inclusive education, support teaching, and technological education policy",
+        "Experts in technological education-related careers such as instructors, trainers, workshop managers in technology-related industries, education policy analysts, lecturers in the higher education sector, and scholars"
+    ],
+    "Subject": [
+        "AND",
+        {
+            "subjectid": "English",
+            "minmark": 4,
+            "required": true
+        },
+        [
+            "OR",
+            {
+                "subjectid": "Technical Mathematics",
+                "minmark": 3,
+                "required": false
+            },
+            {
+                "subjectid": "Mathematics",
+                "minmark": 3,
+                "required": false
+            },
+            {
+                "subjectid": "Technical Sciences",
+                "minmark": 3,
+                "required": false
+            },
+            {
+                "subjectid": "Physical Sciences",
+                "minmark": 3,
+                "required": false
+            },
+            {
+                "subjectid": "Engineering Graphics and Design",
+                "minmark": 3,
+                "required": false
+            },
+            {
+                "subjectid": "Civil Technology (Various Specializations)",
+                "minmark": 3,
+                "required": false
+            },
+            {
+                "subjectid": "Electrical Technology (Various Specializations)",
+                "minmark": 3,
+                "required": false
+            },
+            {
+                "subjectid": "Mechanical Technology (Various Specializations)",
+                "minmark": 3,
+                "required": false
+            }
+        ],
+        {
+            "subjectid": "IsiXhosa or IsiZulu or Afrikaans or Sotho",
+            "minmark": 4,
+            "required": true
+        }
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+]
