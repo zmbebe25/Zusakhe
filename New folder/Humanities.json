@@ -1,0 +1,118 @@
+[
+    {
+        "Qualification": "Diploma in Fine Art",
+        "ID": 1588,
+        "Qualification Code": "WS7120",
+        "APS": 20,
+        "Description": "The programme equips students with practical skills and techniques in drawing, painting, sculpture, ceramics, and printmaking. It fosters critical thinking about their own work, society, and relevant industries, introducing students to the art market, exhibitions, and portfolio presentation for job interviews. The diploma encourages entrepreneurial spirit among students.",
+        "Subject": [
+            "AND",
+            {
+                "subjectid": "English as a Home Language or First Additional Language",
+                "minmark": 3,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "Diploma in Fashion",
+        "ID": 1589,
+        "Qualification Code": "WS722",
+        "APS": 21,
+        "Description": "The diploma cultivates practical and theoretical proficiencies in core technical skills essential to fashion design, including pattern making, sewing, garment construction, and textiles. It also covers the use of industry-relevant software, understanding of the fashion business, basics of fashion marketing, and facilitates exposure to internship opportunities. The program aims to prepare students with a comprehensive skill set for various roles in the fashion industry.",
+        "Subject": [
+            "AND",
+            {
+                "subjectid": "English as a Home Language or First Additional Language",
+                "minmark": 50,
+                "required": true
+            },
+            [
+                "OR",
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 30,
+                    "required": true
+                },
+                {
+                    "subjectid": "Mathematics Literacy",
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": "Accountancy",
+                    "minmark": 30,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "Bachelor of Social Science",
+        "ID": 6697,
+        "Qualification Code": "WS5403",
+        "APS": 27,
+        "Description": "This qualification promotes academic competence, community engagement, research competence, and professionalism in social and human development knowledge and practice, using a multidisciplinary approach. It prepares candidates for work in various human development areas within government and non-government sectors.",
+        "Subject": [
+            "AND",
+            {
+                "subjectid": "English",
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "Bachelor of Social Science(ECP)",
+        "ID": 934010014,
+        "Qualification Code": "WS5403",
+        "APS": 26,
+        "Description": "This qualification promotes academic competence, community engagement, research competence, and professionalism in social and human development knowledge and practice, using a multidisciplinary approach. It prepares candidates for work in various human development areas within government and non-government sectors.",
+        "Subject": [
+            "AND",
+            {
+                "subjectid": "English",
+                "minmark": 40,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "Bachelor of Laws",
+        "ID": "WS5440",
+        "Qualification Code": "WS5440",
+        "APS": 28,
+        "Description": "This 4-year degree focuses on criminal codes, summarising information and cases, and learning legal principles. It fosters an appreciation of critical legal imperatives, concepts, paradigms, principles, and processes. The program promotes an understanding of constitutional values and the fundamentals of the South African legal system, along with regional comparative aspects. It aims to prepare students for a range of legal professions by providing them with a solid foundation in law.",
+        "Subject": [
+            "AND",
+            {
+                "subjectid": "English and IsiXhosa",
+                "minmark": "Pass with symbol D (SG) or E (HG)",
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "Bachelor of Social Work",
+        "ID": 244344606,
+        "Qualification Code": "WS5418",
+        "APS": 28,
+        "Description": "The Bachelor of Social Work is a professional 4-year degree focused on human well-being, social maladies, development, and justice. It covers various models to enhance quality of life and skills to address social inequality and poverty. The program aims to produce globally competitive graduates responsive to the psycho-socio-economic needs of marginalized, indigenous, and diverse communities in an ethical and sustainable manner.",
+        "Subject": [
+            "AND",
+            {
+                "subjectid": "English Home Language or First Additional Language",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "IsiXhosa or any other additional Language",
+                "minmark": 60,
+                "required": true
+            }
+        ]
+    }
+    
+    
+        
+]

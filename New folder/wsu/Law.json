@@ -1,0 +1,30 @@
+[
+{
+    "Qualification": "Bachelor of Laws",
+    "ID": 1562,
+    "Qualification Code": "W66021",
+    "APS": 34,
+    "Description": "The purpose of the qualification is to: promote an appreciation of constitutional values and the fundamentals of the South African legal system as well as regional comparative aspects; foster an appreciation of the critical imperatives, concepts, paradigms, principles, and processes upon which the legal discipline is anchored; develop the capability for the application of critical approaches and methods that are perfectly suited to scholarly and professional responsibilities and performances; provide enablement for accountable and responsible leadership in ethical, professional, academic, and social environments; promote access to legal education to impoverished and marginalized learners from rural communities, responding to socio-economically challenged students by providing a cost-efficient, quality legal education; infuse technology in its curriculum, in the computer literacy, research activities, delivery of teaching and learning in the Wise up Moodle, online academic and institutional administration, with delivery of learning and teaching following the blended mode.",
+    "Subject": [
+        "AND",
+        {
+            "subjectid": "English",
+            "minmark": 50,
+            "required": true
+        },
+        [
+            "OR",
+            {
+                "subjectid": "Mathematics",
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematical Literacy",
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    ]
+}
+]

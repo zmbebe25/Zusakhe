@@ -1,0 +1,235 @@
+[
+    {
+        "Qualification": "Diploma in Accountancy",
+        "ID": 532864310,
+        "Qualification Code": "W63001",
+        "APS": 21,
+        "Description": "This qualification aims to provide graduates with the essential skills required for financial, taxation, auditing, and management accounting responsibilities within a finance team or independently. It serves as a foundation for further studies in accounting disciplines, preparing graduates for various accounting functions and career advancement in the accounting field.",
+        "Subject": [
+            "AND",
+            {
+                "subjectid": "English as a Home Language or First Additional Language",
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematics",
+                "minmark": 40,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "Diploma in Financial Information Systems",
+        "ID": 1565,
+        "Qualification Code": "W63002",
+        "APS": 21,
+        "Description": "The primary objective of this qualification is to equip graduates with the necessary competencies to engage in financial and information system activities, encompassing areas such as accounting, taxation, auditing, and management accounting. Graduates will possess the skills to work effectively in a finance team and independently, serving as a foundation for pursuing advanced studies in various accounting professions.",
+        "Subject": [
+            "AND",
+            {
+                "subjectid": "English as a Home Language or First Additional Language",
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematics",
+                "minmark": 40,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "Diploma in Internal Auditing",
+        "ID": 1746,
+        "Qualification Code": "W63004",
+        "APS": 21,
+        "Description": "This program equips graduates with the skills to perform financial and operational audit functions either within a team or independently. It serves as a foundational qualification for further studies in accounting and internal auditing. Graduates will have the expertise to assess financial records, contribute to organisational integrity, and pursue specialised certifications and career opportunities in the field.",
+        "Subject": [
+            "AND",
+            {
+                "subjectid": "English as a Home Language or First Additional Language",
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematics",
+                "minmark": 40,
+                "required": true,
+                "stream": "Mainstream"
+            }
+        ]
+    },
+    {
+        "Qualification": "Diploma in Internal Auditing",
+        "ID": 603681053,
+        "Qualification Code": "W63005",
+        "APS": 20,
+        "Description": "This program equips graduates with the skills to perform financial and operational audit functions either within a team or independently. It serves as a foundational qualification for further studies in accounting and internal auditing. Graduates will have the expertise to assess financial records, contribute to organisational integrity, and pursue specialised certifications and career opportunities in the field.",
+        "Subject": [
+            "AND",
+            {
+                "subjectid": "English as a Home Language or First Additional Language",
+                "minmark": 40,
+                "required": true
+            },
+            [
+                "OR",
+                
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 30,
+                    "required": true
+                },
+                [
+                    "AND",
+                {
+                    "subjectid": "Accounting",
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": "Mathematical Literacy",
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+            ]
+        ]
+    },
+    {
+        "Qualification": "Bachelor of Accounting",
+        "ID": 1557,
+        "Qualification Code": "W63008",
+        "APS": 25,
+        "Description": "The primary objective of this qualification is to prepare and equip students with essential financial, analytical, and managerial skills for success in commerce and industry. Completing this program provides a strong foundation in key areas, enabling graduates to excel in professional settings. It aims to cultivate competencies necessary for making informed financial decisions, analysing data, and managing resources effectively in the dynamic landscape of commerce and industry.",
+        "Subject": [
+            "AND",
+            {
+                "subjectid": "English as a Home Language or First Additional Language",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematics",
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "Bachelor of Accounting Sciences",
+        "ID": 1558,
+        "Qualification Code": "W63009",
+        "APS": 27,
+        "Description": "The primary purpose of this qualification is to provide students with a comprehensive undergraduate education that serves as a solid foundation for pursuing further studies in the field of accounting, specifically the Chartered Accountant (CA) route. Graduates will be well-prepared to enter a CTA (Certificate in the Theory of Accounting) program, a necessary step towards achieving the designation of Chartered Accountant CA (SA). This qualification also prepares students to practice as Registered General Accountants, positioning them within the second tier of the proposed four-tier accounting structure in Southern Africa.",
+        "Subject": [
+            "AND",
+            {
+                "subjectid": "English as a Home Language or First Additional Language",
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Mathematics",
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "Bachelor of Commerce",
+        "ID": 1559,
+        "Qualification Code": "W63010",
+        "APS": 25,
+        "Description": "The objective of this program is to impart knowledge, insight, and understanding of the fundamental principles and practices in commerce-related subjects. It aims to equip candidates with the necessary competencies to make valuable contributions to the business world, developing and nurturing individuals who possess the skills and abilities to effectively fulfill the roles and responsibilities of business practitioners.",
+        "Subject": [
+            "AND",
+            {
+                "subjectid": "English as a Home Language or First Additional Language",
+                "minmark": 50,
+                "required": true
+            },
+            [
+                "OR",
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": "Mathematics Literacy",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "Bachelor of Commerce in Business Management",
+        "ID": 1563,
+        "Qualification Code": "W63011",
+        "APS": 25,
+        "Description": "The purpose of this program is to empower students with the ability to think logically and critically, enabling them to make well-informed business decisions. It focuses on developing advanced problem-solving skills and the capacity to tackle complex challenges. The program emphasizes the acquisition, organization, analysis, evaluation, and presentation of information, particularly highlighting the importance of electronic-based activities in the modern business landscape.",
+        "Subject": [
+            "AND",
+            {
+                "subjectid": "English as a Home Language or First Additional Language",
+                "minmark": 50,
+                "required": true
+            },
+            [
+                "OR",
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": "Mathematics Literacy",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "Bachelor of Commerce in Economics",
+        "ID": 1560,
+        "Qualification Code": "W63012",
+        "APS": 25,
+        "Description": "The aim of this program is to impart knowledge, insight, and understanding of the principles and practices of micro- and macro-economic procedures within the field of economics. It seeks to foster independent thinking and enhance critical evaluation skills to empower students to address the socioeconomic challenges of the 21st century in innovative and impactful ways.",
+        "Subject": [
+            "AND",
+            {
+                "subjectid": "English as a Home Language or First Additional Language",
+                "minmark": 50,
+                "required": true
+            },
+            [
+                "OR",
+                {
+                    "subjectid": "Mathematics",
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": "Mathematics Literacy",
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    }
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+]

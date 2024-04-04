@@ -332,42 +332,42 @@
             {
                 "subjectid": "Technical Mathematics",
                 "minmark": 3,
-                "required": false
+                "required": true
             },
             {
                 "subjectid": "Mathematics",
                 "minmark": 3,
-                "required": false
+                "required": true
             },
             {
                 "subjectid": "Technical Sciences",
                 "minmark": 3,
-                "required": false
+                "required": true
             },
             {
                 "subjectid": "Physical Sciences",
                 "minmark": 3,
-                "required": false
+                "required": true
             },
             {
                 "subjectid": "Engineering Graphics and Design",
                 "minmark": 3,
-                "required": false
+                "required": true
             },
             {
                 "subjectid": "Civil Technology (Various Specializations)",
                 "minmark": 3,
-                "required": false
+                "required": true
             },
             {
                 "subjectid": "Electrical Technology (Various Specializations)",
                 "minmark": 3,
-                "required": false
+                "required": true
             },
             {
                 "subjectid": "Mechanical Technology (Various Specializations)",
                 "minmark": 3,
-                "required": false
+                "required": true 
             }
         ],
         {
