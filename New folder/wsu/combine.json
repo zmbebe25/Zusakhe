@@ -1,0 +1,740 @@
+[
+    {
+        "Qualification": "Diploma in Accountancy",
+        "ID": 532864310,
+        "Qualification Code": "W63001",
+        "APS": 21,
+        "Description": "This qualification aims to provide graduates with the essential skills required for financial, taxation, auditing, and management accounting responsibilities within a finance team or independently. It serves as a foundation for further studies in accounting disciplines, preparing graduates for various accounting functions and career advancement in the accounting field.",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 103,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 2,
+                "minmark": 40,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "Diploma in Financial Information Systems",
+        "ID": 1565,
+        "Qualification Code": "W63002",
+        "APS": 21,
+        "Description": "The primary objective of this qualification is to equip graduates with the necessary competencies to engage in financial and information system activities, encompassing areas such as accounting, taxation, auditing, and management accounting. Graduates will possess the skills to work effectively in a finance team and independently, serving as a foundation for pursuing advanced studies in various accounting professions.",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 103,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 2,
+                "minmark": 40,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "Diploma in Internal Auditing",
+        "ID": 1746,
+        "Qualification Code": "W63004",
+        "APS": 21,
+        "Description": "This program equips graduates with the skills to perform financial and operational audit functions either within a team or independently. It serves as a foundational qualification for further studies in accounting and internal auditing. Graduates will have the expertise to assess financial records, contribute to organisational integrity, and pursue specialised certifications and career opportunities in the field.",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 103,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 2,
+                "minmark": 40,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "Diploma in Internal Auditing",
+        "ID": 603681053,
+        "Qualification Code": "W63005",
+        "APS": 20,
+        "Description": "This program equips graduates with the skills to perform financial and operational audit functions either within a team or independently. It serves as a foundational qualification for further studies in accounting and internal auditing. Graduates will have the expertise to assess financial records, contribute to organisational integrity, and pursue specialised certifications and career opportunities in the field.",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 103,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 7,
+                "minmark": 40,
+                "required": true
+            },
+            ["OR",
+            {
+                "subjectid": 2,
+                "minmark": 30,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 50,
+                "required": true
+            }
+            ]
+        ]
+    },
+    {
+        "Qualification": "Bachelor of Accounting",
+        "ID": 1557,
+        "Qualification Code": "W63008",
+        "APS": 25,
+        "Description": "The primary objective of this qualification is to prepare and equip students with essential financial, analytical, and managerial skills for success in commerce and industry. Completing this program provides a strong foundation in key areas, enabling graduates to excel in professional settings. It aims to cultivate competencies necessary for making informed financial decisions, analysing data, and managing resources effectively in the dynamic landscape of commerce and industry.",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 103,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 2,
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "Bachelor of Accounting Sciences",
+        "ID": 1558,
+        "Qualification Code": "W63009",
+        "APS": 27,
+        "Description": "The primary purpose of this qualification is to provide students with a comprehensive undergraduate education that serves as a solid foundation for pursuing further studies in the field of accounting, specifically the Chartered Accountant (CA) route. Graduates will be well-prepared to enter a CTA (Certificate in the Theory of Accounting) program, a necessary step towards achieving the designation of Chartered Accountant CA (SA). This qualification also prepares students to practice as Registered General Accountants, positioning them within the second tier of the proposed four-tier accounting structure in Southern Africa.",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 103,
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": 2,
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "Bachelor of Commerce",
+        "ID": 1559,
+        "Qualification Code": "W63010",
+        "APS": 25,
+        "Description": "The objective of this program is to impart knowledge, insight, and understanding of the fundamental principles and practices in commerce-related subjects. It aims to equip candidates with the necessary competencies to make valuable contributions to the business world, developing and nurturing individuals who possess the skills and abilities to effectively fulfill the roles and responsibilities of business practitioners.",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 103,
+                "minmark": 50,
+                "required": true
+            },
+            [
+                "OR",
+                {
+                    "subjectid": 2,
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": 21,
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "Bachelor of Commerce in Business Management",
+        "ID": 1563,
+        "Qualification Code": "W63011",
+        "APS": 25,
+        "Description": "The purpose of this program is to empower students with the ability to think logically and critically, enabling them to make well-informed business decisions. It focuses on developing advanced problem-solving skills and the capacity to tackle complex challenges. The program emphasizes the acquisition, organization, analysis, evaluation, and presentation of information, particularly highlighting the importance of electronic-based activities in the modern business landscape.",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 103,
+                "minmark": 50,
+                "required": true
+            },
+            [
+                "OR",
+                {
+                    "subjectid": 2,
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": 21,
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "Bachelor of Commerce in Economics",
+        "ID": 1560,
+        "Qualification Code": "W63012",
+        "APS": 25,
+        "Description": "The aim of this program is to impart knowledge, insight, and understanding of the principles and practices of micro- and macro-economic procedures within the field of economics. It seeks to foster independent thinking and enhance critical evaluation skills to empower students to address the socioeconomic challenges of the 21st century in innovative and impactful ways.",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 103,
+                "minmark": 50,
+                "required": true
+            },
+            [
+                "OR",
+                {
+                    "subjectid": 2,
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": 21,
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        ]
+    },  
+    {
+        "Qualification": "Diploma in Adult and Community Education and Training",
+        "ID": 833890437,
+        "Qualification Code": "W62001",
+        "APS": 21,
+        "Description": "To prepare students to become reflective and competent lecturers in Community Colleges. It articulates vertically to teacher education programmes pitching at NQF level 7.",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 103,
+                "minmark": 40,
+                "required": true
+            },
+            ["OR",
+            {"subjectid": 56, "minmark": 40, "required": true},
+            {"subjectid": 45, "minmark": 40, "required": true}
+            ],
+            [
+                "OR",
+                {
+                    "subjectid": 2,
+                    "minmark": 30,
+                    "required": true
+                },
+                {
+                    "subjectid": 21,
+                    "minmark": 30,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "Bachelor of Education in Foundation Phase Teaching",
+        "ID": 469634872,
+        "Qualification Code": "W62006",
+        "APS": 26,
+        "Description": "This is an initial professional teacher qualification with specialization linked to Grades R – 3. It provides specific depth and specialised knowledge, practical skills through research and workplace experience to enable successful students to enter teaching well grounded.",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 103,
+                "minmark": 50,
+                "required": true
+            },
+            ["OR",
+            {"subjectid": 56, "minmark": 50, "required": true},
+            {"subjectid": 45, "minmark": 50, "required": true}
+            ],
+            {
+                "subjectid": 4,
+                "minmark": 60,
+                "required": true
+            },
+            [
+                "OR",
+                {
+                    "subjectid": 2,
+                    "minmark": 30,
+                    "required": true
+                },
+                {
+                    "subjectid": 21,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "Bachelor of Education in Senior Phase and Further Education and Training Teaching (Economic & Management Sciences)",
+        "ID": 1574,
+        "Qualification Code": "W62009",
+        "APS": 26,
+        "Description": "The primary purpose of the Bachelor of Education in Senior Phase and Further Education and Training Teaching (SP & FET) is to provide a well-rounded education that equips graduates with the required subject content knowledge base, educational theory, and methodology that will enable them to demonstrate competence and responsibility as academically and professionally qualified beginner teachers.",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 103,
+                "minmark": 50,
+                "required": true
+            },
+            ["OR",
+            {"subjectid": 56, "minmark": 40, "required": true},
+            {"subjectid": 45, "minmark": 40, "required": true}
+            ],
+            [
+                "ANY2",
+                {
+                    "subjectid": 7,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 26,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 27,
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            [
+                "OR",
+                {
+                    "subjectid": 2,
+                    "minmark": 30,
+                    "required": true
+                },
+                {
+                    "subjectid": 21,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "Bachelor of Education in Senior Phase and Further Education and Training Teaching (Consumer and Management Sciences)",
+        "ID": 5420,
+        "Qualification Code": "W62008",
+        "APS": 23,
+        "Description": "The primary purpose of the Bachelor of Education in Senior Phase and Further Education and Training Teaching (SP & FET) is to provide a well-rounded education that equips graduates with the required subject content knowledge base, educational theory, and methodology that will enable them to demonstrate competence and responsibility as academically and professionally qualified beginner teachers.",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 103,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 28,
+                "minmark": 50,
+                "required": true
+            },
+            [
+                "OR",
+                {
+                    "subjectid": 29,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 30,
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            ["OR",
+            {"subjectid": 97, "minmark": 50, "required": true},
+            {"subjectid": 96, "minmark": 50, "required": true}
+            ]
+        ]
+    },
+    {
+        "Qualification": "Bachelor of Education in Senior Phase and Further Education and Training (Creative Arts)",
+        "ID": 5422,
+        "Qualification Code": "W62007",
+        "APS": 26,
+        "Description": "The primary purpose of the Bachelor of Education in Senior Phase and Further Education and Training Teaching (SP & FET) is to provide a well-rounded education that equips graduates with the required subject content knowledge base, educational theory, and methodology that will enable them to demonstrate competence and responsibility as academically and professionally qualified beginner teachers.",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 103,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 34,
+                "minmark": 50,
+                "required": true
+            },
+            ["OR",
+            {"subjectid": 97, "minmark": 50, "required": true},
+            {"subjectid": 96, "minmark": 50, "required": true}
+            ],
+            [
+                "ANY2",
+                {
+                    "subjectid": 33,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 35,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 31,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 24,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 4,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "Bachelor of Education in Senior Phase and Further Education and Training Teaching (Humanities)",
+        "ID": 5418,
+        "Qualification Code": "W62010",
+        "APS": 26,
+        "Description": "The primary purpose of the Bachelor of Education in Senior Phase and Further Education and Training Teaching (SP & FET) is to provide a well-rounded education that equips graduates with the required subject content knowledge base, educational theory, and methodology that will enable them to demonstrate competence and responsibility as academically and professionally qualified beginner teachers.",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 103,
+                "minmark": 50,
+                "required": true
+            },
+            ["OR",
+            {"subjectid": 97, "minmark": 50, "required": true},
+            {"subjectid": 96, "minmark": 50, "required": true}
+            ],
+            {
+                "subjectid": 24,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 8,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 4,
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "Bachelor of Education in Senior Phase and Further Education and Training Teaching (Languages)",
+        "ID": 601184927,
+        "Qualification Code": "W62011",
+        "APS": 26,
+        "Description": "The primary purpose of the Bachelor of Education in Senior Phase and Further Education and Training Teaching (SP & FET) is to provide a well-rounded education that equips graduates with the required subject content knowledge base, educational theory, and methodology that will enable them to demonstrate competence and responsibility as academically and professionally qualified beginner teachers.",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 103,
+                "minmark": 60,
+                "required": true
+            },
+            ["OR",
+            {"subjectid": 97, "minmark": 50, "required": true},
+            {"subjectid": 96, "minmark": 50, "required": true}
+            ],
+            {
+                "subjectid": 4,
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "Bachelor of Education in Senior Phase and Further Education and Training Teaching (Mathematics, Science & Technology)",
+        "ID": 5421,
+        "Qualification Code": "W62012",
+        "APS": 26,
+        "Description": "The primary purpose of the Bachelor of Education in Senior Phase and Further Education and Training Teaching (SP & FET) is to provide a well-rounded education that equips graduates with the required subject content knowledge base, educational theory, and methodology that will enable them to demonstrate competence and responsibility as academically and professionally qualified beginner teachers.",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 103,
+                "minmark": 50,
+                "required": true
+            },
+            ["OR",
+            {"subjectid": 97, "minmark": 50, "required": true},
+            {"subjectid": 96, "minmark": 50, "required": true}
+            ],
+            [
+                "ANY2",
+                {
+                    "subjectid": 19,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "Bachelor of Education in Senior Phase and Further Education and Training Teaching (Technical and Vocational)",
+        "ID": 62018,
+        "Qualification Code": "W62018",
+        "APS": 0,
+        "Description": "The degree is a 480-credit qualification, offered over a period of 4 years, full-time. Students need to study 3 modules/courses as Majors: Major A (the main FET Major with content and teaching up to Level III), Major B (the second FET Major with content and teaching up to Level II), and Major C (the third Senior Phase Major with content and teaching up to Level II). Options include combinations like Civil Technology and Engineering Graphics & Design; Electrical Technology, Engineering Graphics & Design, and Technology; Mechanical Technology, Engineering Graphics & Design, and Technology; and others with Technology (SP) as a compulsory subject studied up to Level II.",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 103,
+                "minmark": 50,
+                "required": true
+            },
+            [
+                "ANY2",
+                {
+                    "subjectid": 115,
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": 114,
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": 20,
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": 38,
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": 36,
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": 37,
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": 39,
+                    "minmark": 40,
+                    "required": true 
+                }
+            ],
+            ["OR",
+            {"subjectid": 97, "minmark": 50, "required": true},
+            {"subjectid": 96, "minmark": 50, "required": true}
+            ]
+        ]
+    },
+    {
+            "Qualification": "Bachelor of Laws",
+            "ID": 1562,
+            "Qualification Code": "W66021",
+            "APS": 34,
+            "Description": "The purpose of the qualification is to: promote an appreciation of constitutional values and the fundamentals of the South African legal system as well as regional comparative aspects; foster an appreciation of the critical imperatives, concepts, paradigms, principles, and processes upon which the legal discipline is anchored; develop the capability for the application of critical approaches and methods that are perfectly suited to scholarly and professional responsibilities and performances; provide enablement for accountable and responsible leadership in ethical, professional, academic, and social environments; promote access to legal education to impoverished and marginalized learners from rural communities, responding to socio-economically challenged students by providing a cost-efficient, quality legal education; infuse technology in its curriculum, in the computer literacy, research activities, delivery of teaching and learning in the Wise up Moodle, online academic and institutional administration, with delivery of learning and teaching following the blended mode.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 40,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ]
+            ]
+        },
+        {
+            "Qualification": "Diploma in Fine Art",
+            "ID": 1588,
+            "Qualification Code": "WS7120",
+            "APS": 20,
+            "Description": "The programme equips students with practical skills and techniques in drawing, painting, sculpture, ceramics, and printmaking. It fosters critical thinking about their own work, society, and relevant industries, introducing students to the art market, exhibitions, and portfolio presentation for job interviews. The diploma encourages entrepreneurial spirit among students.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 40,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "Diploma in Fashion",
+            "ID": 1589,
+            "Qualification Code": "WS722",
+            "APS": 21,
+            "Description": "The diploma cultivates practical and theoretical proficiencies in core technical skills essential to fashion design, including pattern making, sewing, garment construction, and textiles. It also covers the use of industry-relevant software, understanding of the fashion business, basics of fashion marketing, and facilitates exposure to internship opportunities. The program aims to prepare students with a comprehensive skill set for various roles in the fashion industry.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 30,
+                    "required": true
+                },
+                {
+                    "subjectid": 21,
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": 7,
+                    "minmark": 30,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "Bachelor of Social Science",
+            "ID": 6697,
+            "Qualification Code": "WS5403",
+            "APS": 27,
+            "Description": "This qualification promotes academic competence, community engagement, research competence, and professionalism in social and human development knowledge and practice, using a multidisciplinary approach. It prepares candidates for work in various human development areas within government and non-government sectors.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "Bachelor of Social Science(ECP)",
+            "ID": 934010014,
+            "Qualification Code": "WS5403",
+            "APS": 26,
+            "Description": "This qualification promotes academic competence, community engagement, research competence, and professionalism in social and human development knowledge and practice, using a multidisciplinary approach. It prepares candidates for work in various human development areas within government and non-government sectors.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 40,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "Bachelor of Arts",
+            "ID": 6696,
+            "Qualification Code": "WS5407",
+            "APS": 27,
+            "Description": "This is a general degree that allows students to take 3 subjects at first year and 2 majors at second and third year. The majors must be traceable to level 1. The degree equips students with the necessary undergraduate level knowledge, in preparation for specialisation at Honours level where there is specialisation and knowledge is deepened.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                }
+            ]
+        },
+        {
+            "Qualification": "Bachelor of Social Work",
+            "ID": 244344606,
+            "Qualification Code": "WS5418",
+            "APS": 28,
+            "Description": "The Bachelor of Social Work is a professional 4-year degree focused on human well-being, social maladies, development, and justice. It covers various models to enhance quality of life and skills to address social inequality and poverty. The program aims to produce globally competitive graduates responsive to the psycho-socio-economic needs of marginalized, indigenous, and diverse communities in an ethical and sustainable manner.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                ["OR",
+                {"subjectid": 96, "minmark": 60, "required": true},
+                {"subjectid": 97, "minmark": 60, "required": true}
+                ]
+            ]
+        },
+        {
+            "Qualification": "Bachelor of Psychology",
+            "ID": "WS5412",
+            "Qualification Code": "WS5412",
+            "APS": 28,
+            "Description": "This 4-year degree trains students on various aspects of cognition, human development, and behaviour. It aims to provide a comprehensive understanding of psychological principles and their applications. The program prepares students for a wide range of careers by offering in-depth knowledge in psychology and its practical implications in real-world scenarios.",
+            "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 50,
+                    "required": true
+                },
+                ["OR",
+                {"subjectid": 96, "minmark": 50, "required": true},
+                {"subjectid": 97, "minmark": 50, "required": true}
+                ]
+            ]
+        }
+        
+]

@@ -4,7 +4,7 @@
     "Qualification": "Diploma in Analytical Chemistry",
     "ID": 1011,
     "APS": 24,
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 103,
@@ -32,7 +32,7 @@
     "Qualification": "Diploma in Biotechnology",
     "ID": 1022,
     "APS": 26,
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 103,
@@ -76,8 +76,8 @@
                     "APS": 25
                     
                 }	
-    ],
-    "Subject": [
+            ],
+    "Entrance": [
         "AND",
         {
             "subjectid": 103,
@@ -103,7 +103,7 @@
     "Qualification": "Bachelor of Health Science: Medical Laboratory Sciences",
     "ID": 6351,
     "APS": 30,
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 103,
@@ -138,26 +138,22 @@
     "APS": 26,
     "ComplexAPS": 
     [
-        "AND",
         {
             "subjectid": 21,
             "APS": 26
             
         },
-        [
-            "OR",
-            {
-                "subjectid": 2,
-                "APS": 24
-            },
-            {
-                "subjectid": 115,
-                "APS": 24
-                
-            } 
-        ]
+        {
+            "subjectid": 2,
+            "APS": 24
+        },
+        {
+            "subjectid": 115,
+            "APS": 24
+            
+        }
     ],
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 103,
@@ -188,7 +184,7 @@
     "Qualification": "Diploma in Environmental Science",
     "ID": 100517554,
     "APS": 24,
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 103,
@@ -216,7 +212,7 @@
     "Qualification": "Diploma in Non-Destructive Testing",
     "ID": 1012,
     "APS": 23,
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 103,
@@ -254,26 +250,23 @@
     "APS": 22,
     "ComplexAPS": 
     [
-        "AND",
         {
             "subjectid": 2,
             "APS": 21
         },
-        [
-            "OR",
-            {
-                "subjectid": 115,
-                "APS": 22
-                
-            },
-            {
-                "subjectid": 21,
-                "APS": 22
-                
-            }
-        ]
+        {
+            "subjectid": 115,
+            "APS": 22
+            
+        },
+        {
+            "subjectid": 21,
+            "APS": 22
+            
+        }
+        
     ],
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 103,
@@ -306,26 +299,22 @@
     "APS": 22,
     "ComplexAPS": 
     [
-        "AND",
         {
             "subjectid": 2,
             "APS": 21
         },
-        [
-            "OR",
-            {
-                "subjectid": 115,
-                "APS": 22
-                
-            },
-            {
-                "subjectid": 21,
-                "APS": 22
-                
-            }
-        ]
+        {
+            "subjectid": 115,
+            "APS": 22
+            
+        },
+        {
+            "subjectid": 21,
+            "APS": 22
+            
+        }
     ],
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 103,
@@ -368,7 +357,7 @@
             
         }		
     ],
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 50,
@@ -411,7 +400,7 @@
             
         }	
     ],
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 50,
@@ -444,26 +433,22 @@
     "APS": 21,
     "ComplexAPS": 
     [
-        "AND",
         {
             "subjectid": 2,
             "APS": 20
         },
-        [
-            "OR",
-            {
-                "subjectid": 115,
-                "APS": 21
-                
-            },
-            {
-                "subjectid": 21,
-                "APS": 21
-                
-            }
-        ]
+        {
+            "subjectid": 115,
+            "APS": 21
+            
+        },
+        {
+            "subjectid": 21,
+            "APS": 21
+            
+        } 
     ],  
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 103,
@@ -522,7 +507,7 @@
     "Qualification": "Diploma in Tourism Management",
     "ID": 1021,
     "APS": "Not Specified",
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 103,
@@ -549,11 +534,20 @@
         ],
         [
             "OR",
-            {
-                "subjectid": "Other Language, 30, 26, and 7",
-                "minmark": 50,
-                "required": true
-            },
+            [
+                "OR",
+                {
+                    "subjectid": 96,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 97,
+                    "minmark": 50,
+                    "required": true
+                }
+                
+            ],
             {
                 "subjectid": 30,
                 "minmark": 50,
@@ -599,7 +593,7 @@
     "Qualification": "Diploma in Public Relations",
     "ID": 1020,
     "APS": "Not Specified",
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 103,
@@ -626,11 +620,20 @@
         ],
         [
             "OR",
-            {
-                "subjectid": "Other Language, 30, 26, and 7",
-                "minmark": 50,
-                "required": true
-            },
+            [
+                "OR",
+                {
+                    "subjectid": 96,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 97,
+                    "minmark": 50,
+                    "required": true
+                }
+                
+            ],
             {
                 "subjectid": 30,
                 "minmark": 50,
@@ -676,7 +679,7 @@
     "Qualification": "Diploma in Ecotourism Management",
     "ID": 1024,
     "APS": "Not Specified",
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 103,
@@ -729,38 +732,42 @@
     "APS": 24,
     "ComplexAPS": 
     [
-        "AND",
         {
             "subjectid": 2,
             "APS": 23
         },
-        [
-            "OR",
+        {
+            "subjectid": 115,
+            "APS": 24
             
-            {
-                "subjectid": 115,
-                "APS": 24
-                
-            },
-            {
-                "subjectid": 21,
-                "APS": 24
-                
-            }
-        ]
+        },
+        {
+            "subjectid": 21,
+            "APS": 24
+            
+        }
     ],
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 103,
             "minmark": 60,
             "required": true
         },
-        {
-            "subjectid": "Other Language",
-            "minmark": 40,
-            "required": true
-        },
+        [
+            "OR",
+            {
+                "subjectid": 96,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 40,
+                "required": true
+            }
+            
+        ],
         [
             "OR",
             {
@@ -787,38 +794,42 @@
     "APS": 24,
     "ComplexAPS": 
     [
-        "AND",
         {
             "subjectid": 2,
             "APS": 23
         },
-        [
-            "OR",
+        {
+            "subjectid": 115,
+            "APS": 24
             
-            {
-                "subjectid": 115,
-                "APS": 24
-                
-            },
-            {
-                "subjectid": 21,
-                "APS": 24
-                
-            }
-        ]
+        },
+        {
+            "subjectid": 21,
+            "APS": 24
+            
+        }
     ],
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 103,
             "minmark": 60,
             "required": true
         },
-        {
-            "subjectid": "Other Language",
-            "minmark": 40,
-            "required": true
-        },
+        [
+            "OR",
+            {
+                "subjectid": 96,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 40,
+                "required": true
+            }
+            
+        ],
         [
             "OR",
             {
@@ -845,27 +856,22 @@
     "APS": 21,
     "ComplexAPS": 
     [
-        "AND",
         {
             "subjectid": 2,
             "APS": 20
         },
-        [
-            "OR",
+        {
+            "subjectid": 115,
+            "APS": 21
             
-            {
-                "subjectid": 115,
-                "APS": 21
-                
-            },
-            {
-                "subjectid": 21,
-                "APS": 21
-                
-            }
-        ]
+        },
+        {
+            "subjectid": 21,
+            "APS": 21
+            
+        }
     ],
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 103,
@@ -898,38 +904,42 @@
     "APS": 21,
     "ComplexAPS": 
         [
-            "AND",
             {
                 "subjectid": 2,
                 "APS": 20
             },
-            [
-                "OR",
+            {
+                "subjectid": 115,
+                "APS": 21
                 
-                {
-                    "subjectid": 115,
-                    "APS": 21
-                    
-                },
-                {
-                    "subjectid": 21,
-                    "APS": 21
-                    
-                }
-            ]
-    ],
-    "Subject": [
+            },
+            {
+                "subjectid": 21,
+                "APS": 21
+                
+            }
+        ],
+    "Entrance": [
         "AND",
         {
             "subjectid": 103,
             "minmark": 50,
             "required": true
         },
-        {
-            "subjectid": "Other Language",
-            "minmark": 40,
-            "required": true
-        },
+        [
+            "OR",
+            {
+                "subjectid": 96,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 40,
+                "required": true
+            }
+            
+        ],
         [
             "OR",
             {
@@ -956,19 +966,17 @@
     "APS": 24,
     "ComplexAPS": 
         [
-            "OR",
+            {
+                "subjectid": 2,
+                "APS": 22
+            },
+            {
+                "subjectid": 21,
+                "APS": 24
                 
-                {
-                    "subjectid": 2,
-                    "APS": 22
-                },
-                {
-                    "subjectid": 21,
-                    "APS": 24
-                    
-                }
+            }  
         ],
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": "Language of Teaching & Learning",
@@ -1014,19 +1022,17 @@
     "APS": "Not Specified",
     "ComplexAPS": 
         [
-            "OR",
+            {
+                "subjectid": 2,
+                "APS": 24
+            },
+            {
+                "subjectid": 21,
+                "APS": 25
                 
-                {
-                    "subjectid": 2,
-                    "APS": 24
-                },
-                {
-                    "subjectid": 21,
-                    "APS": 25
-                    
-                }
+            }      
         ],
-    "Subject": [
+    "Entrance": [
         "AND",
         [
             "OR",
@@ -1036,8 +1042,8 @@
                 "required": true
             },
             {
-                "subjectid": "Additional Language",
-                "minmark": 50,
+                "subjectid": 97,
+                "minmark": 40,
                 "required": true
             }
         ],
@@ -1066,28 +1072,23 @@
     "ID": 1033,
     "ComplexAPS": 
     [
-        "AND",
         {
             "subjectid": 2,
             "APS": 20
         },
-        [
-            "OR",
+        {
+            "subjectid": 115,
+            "APS": 22
             
-            {
-                "subjectid": 115,
-                "APS": 22
-                
-            },
-            {
-                "subjectid": 21,
-                "APS": 22
-                
-            }
-        ]
+        },
+        {
+            "subjectid": 21,
+            "APS": 22
+            
+        }
     ],
     "APS": 22,
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 7,
@@ -1125,27 +1126,22 @@
     "APS": 22,
     "ComplexAPS": 
     [
-        "AND",
         {
             "subjectid": 2,
             "APS": 20
         },
-        [
-            "OR",
+        {
+            "subjectid": 115,
+            "APS": 22
             
-            {
-                "subjectid": 115,
-                "APS": 22
-                
-            },
-            {
-                "subjectid": 21,
-                "APS": 22
-                
-            }
-        ]
+        },
+        {
+            "subjectid": 21,
+            "APS": 22
+            
+        }
     ],
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 7,
@@ -1183,27 +1179,22 @@
     "APS": 23,
     "ComplexAPS": 
     [
-        "AND",
         {
             "subjectid": 2,
             "APS": 20
         },
-        [
-            "OR",
+        {
+            "subjectid": 115,
+            "APS": 23
             
-            {
-                "subjectid": 115,
-                "APS": 23
-                
-            },
-            {
-                "subjectid": 21,
-                "APS": 23
-                
-            }
-        ]
+        },
+        {
+            "subjectid": 21,
+            "APS": 23
+            
+        }
     ],
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 7,
@@ -1241,27 +1232,22 @@
     "APS": 21,
     "ComplexAPS": 
         [
-            "AND",
             {
                 "subjectid": 2,
                 "APS": 20
             },
-            [
-                "OR",
+            {
+                "subjectid": 115,
+                "APS": 21
                 
-                {
-                    "subjectid": 115,
-                    "APS": 21
-                    
-                },
-                {
-                    "subjectid": 21,
-                    "APS": 21
-                    
-                }
-            ]
+            },
+            {
+                "subjectid": 21,
+                "APS": 21
+                
+            } 
         ],
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 103,
@@ -1294,27 +1280,22 @@
     "APS": 21,
     "ComplexAPS": 
         [
-            "AND",
             {
                 "subjectid": 2,
                 "APS": 20
             },
-            [
-                "OR",
+            {
+                "subjectid": 115,
+                "APS": 21
                 
-                {
-                    "subjectid": 115,
-                    "APS": 21
-                    
-                },
-                {
-                    "subjectid": 21,
-                    "APS": 21
-                    
-                }
-            ]
+            },
+            {
+                "subjectid": 21,
+                "APS": 21
+                
+            }
         ],
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 103,
@@ -1347,27 +1328,22 @@
     "APS": 21,
     "ComplexAPS": 
         [
-            "AND",
             {
                 "subjectid": 2,
                 "APS": 20
             },
-            [
-                "OR",
+            {
+                "subjectid": 115,
+                "APS": 21
                 
-                {
-                    "subjectid": 115,
-                    "APS": 21
-                    
-                },
-                {
-                    "subjectid": 21,
-                    "APS": 21
-                    
-                }
-            ]
+            },
+            {
+                "subjectid": 21,
+                "APS": 21
+                
+            }
         ],
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 103,
@@ -1400,27 +1376,22 @@
     "APS": 21,
     "ComplexAPS": 
         [
-            "AND",
             {
                 "subjectid": 2,
                 "APS": 20
             },
-            [
-                "OR",
+            {
+                "subjectid": 115,
+                "APS": 21
                 
-                {
-                    "subjectid": 115,
-                    "APS": 21
-                    
-                },
-                {
-                    "subjectid": 21,
-                    "APS": 21
-                    
-                }
-            ]
+            },
+            {
+                "subjectid": 21,
+                "APS": 21
+                
+            }
         ],
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 103,
@@ -1453,27 +1424,22 @@
     "APS": 21,
     "ComplexAPS": 
         [
-            "AND",
             {
                 "subjectid": 2,
                 "APS": 20
             },
-            [
-                "OR",
+            {
+                "subjectid": 115,
+                "APS": 21
                 
-                {
-                    "subjectid": 115,
-                    "APS": 21
-                    
-                },
-                {
-                    "subjectid": 21,
-                    "APS": 21
-                    
-                }
-            ]
+            },
+            {
+                "subjectid": 21,
+                "APS": 21
+                
+            } 
         ],
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 103,
@@ -1504,7 +1470,7 @@
     "Qualification": "Diploma in Chemical Engineering",
     "ID": 1040,
     "APS": 24,
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 2,
@@ -1527,7 +1493,7 @@
     "Qualification": "Diploma in Civil Engineering",
     "ID": 1041,
     "APS": 24,
-     "Subject": [
+     "Entrance": [
         "AND",
         {
             "subjectid": 2,
@@ -1550,7 +1516,7 @@
     "Qualification": "Diploma in Electronic Engineering",
     "ID": 1039,
     "APS": 24,
-     "Subject": [
+     "Entrance": [
         "AND",
         {
             "subjectid": 2,
@@ -1573,7 +1539,7 @@
     "Qualification": "Diploma in Power Engineering",
     "ID": 6077,
     "APS": 24,
-     "Subject": [
+     "Entrance": [
         "AND",
         {
             "subjectid": 2,
@@ -1596,7 +1562,7 @@
     "Qualification": "Diploma in Process Control Engineering",
     "ID": 1037,
     "APS": 24,
-     "Subject": [
+     "Entrance": [
         "AND",
         {
             "subjectid": 2,
@@ -1619,7 +1585,7 @@
     "Qualification": "Diploma in Computer Systems Engineering",
     "ID": 1036,
     "APS": 24,
-     "Subject": [
+     "Entrance": [
         "AND",
         {
             "subjectid": 2,
@@ -1642,7 +1608,7 @@
     "Qualification": "Diploma in Industrial Engineering",
     "ID": 1042,
     "APS": 24,
-     "Subject": [
+     "Entrance": [
         "AND",
         {
             "subjectid": 2,
@@ -1665,7 +1631,7 @@
     "Qualification": "Diploma in Mechanical Engineering",
     "ID": 1043,
     "APS": 24,
-     "Subject": [
+     "Entrance": [
         "AND",
         {
             "subjectid": 2,
@@ -1688,7 +1654,7 @@
     "Qualification": "Diploma in Metallurgical Engineering",
     "ID": 1044,
     "APS": 24,
-     "Subject": [
+     "Entrance": [
         "AND",
         {
             "subjectid": 2,
@@ -1711,7 +1677,7 @@
     "Qualification": "Diploma in Operations Management",
     "ID": 6352,
     "APS": 23,
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 2,
@@ -1732,9 +1698,9 @@
 },
 {
     "Qualification": "Diploma in Chemical Engineering(ECP)",
-    "ID": 6078,
+    "ID": 577282333,
     "APS": 22,
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 2,
@@ -1755,9 +1721,9 @@
 },
 {
     "Qualification": "Diploma in Civil Engineering(ECP)",
-    "ID": 577282333,
+    "ID": 6078,
     "APS": 22,
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 2,
@@ -1779,7 +1745,7 @@
     "Qualification": "Diploma in Electronic Engineering(ECP)",
     "ID": 917317190,
     "APS": 22,
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 2,
@@ -1801,7 +1767,7 @@
     "Qualification": "Diploma in Power Engineering(ECP)",
     "ID": 6076,
     "APS": 22,
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 2,
@@ -1823,7 +1789,7 @@
     "Qualification": "Diploma in Process Control Engineering(ECP)",
     "ID": 6074,
     "APS": 22,
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 2,
@@ -1845,7 +1811,7 @@
     "Qualification": "Diploma in Computer Systems Engineering(ECP)",
     "ID": 6073,
     "APS": 22,
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 2,
@@ -1867,7 +1833,7 @@
     "Qualification": "Diploma in Industrial Engineering(ECP)",
     "ID": 6079,
     "APS": 22,
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 2,
@@ -1889,7 +1855,7 @@
     "Qualification": "Diploma in Mechanical Engineering(ECP)",
     "ID": 6080,
     "APS": 22,
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 2,
@@ -1911,7 +1877,7 @@
     "Qualification": "Diploma in Metallurgical Engineering(ECP)",
     "ID": 6075,
     "APS": 22,
-    "Subject": [
+    "Entrance": [
         "AND",
         {
             "subjectid": 2,
