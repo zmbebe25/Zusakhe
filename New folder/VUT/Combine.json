@@ -23,7 +23,7 @@
         },
         {
             "subjectid": 4,
-            "minmark": 3,
+            "minmark": 40,
             "required": true
         }
     ]
