@@ -511,7 +511,24 @@
 {
     "Qualification": "Diploma in Tourism Management",
     "ID": 1021,
-    "APS": "Not Specified",
+    "APS": 21,
+    "ComplexAPS": 
+    [
+        {
+            "subjectid": 2,
+            "APS": 20
+        },
+        {
+            "subjectid": 115,
+            "APS": 21
+            
+        },
+        {
+            "subjectid": 21,
+            "APS": 21
+            
+        } 
+    ], 
     "Entrance": 
     [
         "AND",
@@ -576,7 +593,24 @@
 {
     "Qualification": "Diploma in Public Relations",
     "ID": 1020,
-    "APS": "Not Specified",
+    "APS": 21,
+    "ComplexAPS": 
+    [
+        {
+            "subjectid": 2,
+            "APS": 20
+        },
+        {
+            "subjectid": 115,
+            "APS": 21
+            
+        },
+        {
+            "subjectid": 21,
+            "APS": 21
+            
+        } 
+    ], 
     "Entrance": 
     [
         "AND",
@@ -641,7 +675,24 @@
 {
     "Qualification": "Diploma in Ecotourism Management",
     "ID": 1024,
-    "APS": "Not Specified",
+    "APS": 21,
+    "ComplexAPS": 
+    [
+        {
+            "subjectid": 2,
+            "APS": 20
+        },
+        {
+            "subjectid": 115,
+            "APS": 21
+            
+        },
+        {
+            "subjectid": 21,
+            "APS": 21
+            
+        } 
+    ],
     "Entrance": [
         "AND",
         {
@@ -955,7 +1006,7 @@
 {
     "Qualification": "Bachelor of Communication Studies",
     "ID": 414916404,
-    "APS": "Not Specified",
+    "APS": 25,
     "ComplexAPS": 
         [
             {
