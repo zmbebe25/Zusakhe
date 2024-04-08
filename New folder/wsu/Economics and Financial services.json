@@ -8,12 +8,12 @@
         "Subject": [
             "AND",
             {
-                "subjectid": "English as a Home Language or First Additional Language",
+                "subjectid": 103,
                 "minmark": 40,
                 "required": true
             },
             {
-                "subjectid": "Mathematics",
+                "subjectid": 2,
                 "minmark": 40,
                 "required": true
             }
@@ -28,12 +28,12 @@
         "Subject": [
             "AND",
             {
-                "subjectid": "English as a Home Language or First Additional Language",
+                "subjectid": 103,
                 "minmark": 40,
                 "required": true
             },
             {
-                "subjectid": "Mathematics",
+                "subjectid": 2,
                 "minmark": 40,
                 "required": true
             }
@@ -48,15 +48,14 @@
         "Subject": [
             "AND",
             {
-                "subjectid": "English as a Home Language or First Additional Language",
+                "subjectid": 103,
                 "minmark": 40,
                 "required": true
             },
             {
-                "subjectid": "Mathematics",
+                "subjectid": 2,
                 "minmark": 40,
-                "required": true,
-                "stream": "Mainstream"
+                "required": true
             }
         ]
     },
@@ -69,31 +68,26 @@
         "Subject": [
             "AND",
             {
-                "subjectid": "English as a Home Language or First Additional Language",
+                "subjectid": 103,
                 "minmark": 40,
                 "required": true
             },
-            [
-                "OR",
-                
-                {
-                    "subjectid": "Mathematics",
-                    "minmark": 30,
-                    "required": true
-                },
-                [
-                    "AND",
-                {
-                    "subjectid": "Accounting",
-                    "minmark": 40,
-                    "required": true
-                },
-                {
-                    "subjectid": "Mathematical Literacy",
-                    "minmark": 50,
-                    "required": true
-                }
-            ]
+            {
+                "subjectid": 7,
+                "minmark": 40,
+                "required": true
+            },
+            ["OR",
+            {
+                "subjectid": 2,
+                "minmark": 30,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 50,
+                "required": true
+            }
             ]
         ]
     },
@@ -106,12 +100,12 @@
         "Subject": [
             "AND",
             {
-                "subjectid": "English as a Home Language or First Additional Language",
+                "subjectid": 103,
                 "minmark": 50,
                 "required": true
             },
             {
-                "subjectid": "Mathematics",
+                "subjectid": 2,
                 "minmark": 50,
                 "required": true
             }
@@ -126,12 +120,12 @@
         "Subject": [
             "AND",
             {
-                "subjectid": "English as a Home Language or First Additional Language",
+                "subjectid": 103,
                 "minmark": 60,
                 "required": true
             },
             {
-                "subjectid": "Mathematics",
+                "subjectid": 2,
                 "minmark": 50,
                 "required": true
             }
@@ -146,19 +140,19 @@
         "Subject": [
             "AND",
             {
-                "subjectid": "English as a Home Language or First Additional Language",
+                "subjectid": 103,
                 "minmark": 50,
                 "required": true
             },
             [
                 "OR",
                 {
-                    "subjectid": "Mathematics",
+                    "subjectid": 2,
                     "minmark": 40,
                     "required": true
                 },
                 {
-                    "subjectid": "Mathematics Literacy",
+                    "subjectid": 21,
                     "minmark": 60,
                     "required": true
                 }
@@ -174,19 +168,19 @@
         "Subject": [
             "AND",
             {
-                "subjectid": "English as a Home Language or First Additional Language",
+                "subjectid": 103,
                 "minmark": 50,
                 "required": true
             },
             [
                 "OR",
                 {
-                    "subjectid": "Mathematics",
+                    "subjectid": 2,
                     "minmark": 40,
                     "required": true
                 },
                 {
-                    "subjectid": "Mathematics Literacy",
+                    "subjectid": 21,
                     "minmark": 60,
                     "required": true
                 }
@@ -202,19 +196,19 @@
         "Subject": [
             "AND",
             {
-                "subjectid": "English as a Home Language or First Additional Language",
+                "subjectid": 103,
                 "minmark": 50,
                 "required": true
             },
             [
                 "OR",
                 {
-                    "subjectid": "Mathematics",
+                    "subjectid": 2,
                     "minmark": 40,
                     "required": true
                 },
                 {
-                    "subjectid": "Mathematics Literacy",
+                    "subjectid": 21,
                     "minmark": 60,
                     "required": true
                 }

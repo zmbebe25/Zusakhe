@@ -1,0 +1,1953 @@
+[
+
+{
+    "Qualification": "Diploma in Analytical Chemistry",
+    "ID": 1011,
+    "APS": 24,
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 103,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 2,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 20,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 4,
+            "minmark": 3,
+            "required": true
+        }
+    ]
+},
+{
+    "Qualification": "Diploma in Biotechnology",
+    "ID": 1022,
+    "APS": 26,
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 103,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 2,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 20,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 19,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 4,
+            "minmark": 40,
+            "required": true
+        }
+    ]
+},
+{
+    "Qualification": "Diploma in Agricultural Management",
+    "ID": 326065838,
+    "APS": 26,
+    "ComplexAPS": 
+            [
+                {
+                    "subjectid": 2,
+                    "APS": 24
+                },
+                {
+                    "subjectid": 21,
+                    "APS": 25
+                    
+                }	
+    ],
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 103,
+            "minmark": 50,
+            "required": true
+        },
+        [
+            "OR",
+            {
+                "subjectid": 2,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    ]
+},
+{
+    "Qualification": "Bachelor of Health Science: Medical Laboratory Sciences",
+    "ID": 6351,
+    "APS": 30,
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 103,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 2,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 20,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 19,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 4,
+            "minmark": 40,
+            "required": true
+        }
+    ]
+},
+{
+    "Qualification": "Diploma in Information Technology",
+    "ID": 1014,
+    "APS": 26,
+    "ComplexAPS": 
+    [
+        "AND",
+        {
+            "subjectid": 21,
+            "APS": 26
+            
+        },
+        [
+            "OR",
+            {
+                "subjectid": 2,
+                "APS": 24
+            },
+            {
+                "subjectid": 115,
+                "APS": 24
+                
+            } 
+        ]
+    ],
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 103,
+            "minmark": 50,
+            "required": true
+        },
+        [
+            "OR",
+            {
+                "subjectid": 2,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 115,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 70,
+                "required": true
+            }
+        ]
+    ]
+},
+{
+    "Qualification": "Diploma in Environmental Science",
+    "ID": 100517554,
+    "APS": 24,
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 103,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 2,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 20,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 4,
+            "minmark": 40,
+            "required": true
+        }
+    ]
+},
+{
+    "Qualification": "Diploma in Non-Destructive Testing",
+    "ID": 1012,
+    "APS": 23,
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 103,
+            "minmark": 40,
+            "required": true
+        },
+        [
+            "OR",
+            {
+                "subjectid": 2,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 115,
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        {
+            "subjectid": 20,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 4,
+            "minmark": 40,
+            "required": true
+        }
+    ]
+},
+{
+    "Qualification": "Diploma in Fashion",
+    "ID": 1015,
+    "APS": 22,
+    "ComplexAPS": 
+    [
+        "AND",
+        {
+            "subjectid": 2,
+            "APS": 21
+        },
+        [
+            "OR",
+            {
+                "subjectid": 115,
+                "APS": 22
+                
+            },
+            {
+                "subjectid": 21,
+                "APS": 22
+                
+            }
+        ]
+    ],
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 103,
+            "minmark": 50,
+            "required": true
+        },
+        [
+            "OR",
+            {
+                "subjectid": 2,
+                "minmark": 30,
+                "required": true
+            },
+            {
+                "subjectid": 31,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 115,
+                "minmark": 40,
+                "required": true
+            }
+        ]
+    ]
+},
+{
+    "Qualification": "Diploma in Photography",
+    "ID": 1016,
+    "APS": 22,
+    "ComplexAPS": 
+    [
+        "AND",
+        {
+            "subjectid": 2,
+            "APS": 21
+        },
+        [
+            "OR",
+            {
+                "subjectid": 115,
+                "APS": 22
+                
+            },
+            {
+                "subjectid": 21,
+                "APS": 22
+                
+            }
+        ]
+    ],
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 103,
+            "minmark": 50,
+            "required": true
+        },
+        [
+            "OR",
+            {
+                "subjectid": 2,
+                "minmark": 30,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 115,
+                "minmark": 40,
+                "required": true
+            }
+        ]
+    ]
+},
+{
+    "Qualification": "Diploma in Graphic Design",
+    "ID": 1017,
+    "APS": 22,
+    "ComplexAPS": 
+    [
+        {
+            "subjectid": 2,
+            "APS": 21
+        },
+        {
+            "subjectid": 21,
+            "APS": 22
+            
+        }		
+    ],
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 50,
+            "minmark": 50,
+            "required": true
+        },
+        [
+            "OR",
+            {
+                "subjectid": 2,
+                "minmark": 30,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 115,
+                "minmark": 40,
+                "required": true
+            }
+        ]
+    ]
+},
+{
+    "Qualification": "Diploma in Fine Art",
+    "ID": 1018,
+    "APS": 22,
+    "ComplexAPS": 
+    [
+        {
+            "subjectid": 2,
+            "APS": 21
+        },
+        {
+            "subjectid": 21,
+            "APS": 22
+            
+        }	
+    ],
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 50,
+            "minmark": 50,
+            "required": true
+        },
+        [
+            "OR",
+            {
+                "subjectid": 2,
+                "minmark": 30,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 115,
+                "minmark": 40,
+                "required": true
+            }
+        ]
+    ]
+},
+{
+    "Qualification": "Diploma in Food Service Management",
+    "ID": 1023,
+    "APS": 21,
+    "ComplexAPS": 
+    [
+        "AND",
+        {
+            "subjectid": 2,
+            "APS": 20
+        },
+        [
+            "OR",
+            {
+                "subjectid": 115,
+                "APS": 21
+                
+            },
+            {
+                "subjectid": 21,
+                "APS": 21
+                
+            }
+        ]
+    ],  
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 103,
+            "minmark": 50,
+            "required": true
+        },
+        [
+            "ANY1",
+            {
+                "subjectid": 29,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 30,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 7,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 26,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 28,
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        [
+            "OR",
+            {
+                "subjectid": 2,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 115,
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    ]
+},
+{
+    "Qualification": "Diploma in Tourism Management",
+    "ID": 1021,
+    "APS": "Not Specified",
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 103,
+            "minmark": 50,
+            "required": true
+        },
+        [
+            "OR",
+            {
+                "subjectid": 2,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 115,
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        [
+            "OR",
+            {
+                "subjectid": "Other Language, 30, 26, and 7",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 30,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 26,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 7,
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        [
+            "ANY1",
+            {
+                "subjectid": 30,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 8,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 26,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 24,
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    ]
+},
+{
+    "Qualification": "Diploma in Public Relations",
+    "ID": 1020,
+    "APS": "Not Specified",
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 103,
+            "minmark": 50,
+            "required": true
+        },
+        [
+            "OR",
+            {
+                "subjectid": 2,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 115,
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        [
+            "OR",
+            {
+                "subjectid": "Other Language, 30, 26, and 7",
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 30,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 26,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 7,
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        [
+            "ANY1",
+            {
+                "subjectid": 30,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 8,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 26,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 24,
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    ]
+},
+{
+    "Qualification": "Diploma in Ecotourism Management",
+    "ID": 1024,
+    "APS": "Not Specified",
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 103,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 19,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 8,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 40,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 30,
+            "minmark": 50,
+            "required": true
+        },
+        [
+            "OR",
+            {
+                "subjectid": 2,
+                "minmark": 49,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 115,
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    ]
+},
+{
+    "Qualification": "Diploma in Legal Assistance",
+    "ID": 1026,
+    "APS": 24,
+    "ComplexAPS": 
+    [
+        "AND",
+        {
+            "subjectid": 2,
+            "APS": 23
+        },
+        [
+            "OR",
+            
+            {
+                "subjectid": 115,
+                "APS": 24
+                
+            },
+            {
+                "subjectid": 21,
+                "APS": 24
+                
+            }
+        ]
+    ],
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 103,
+            "minmark": 60,
+            "required": true
+        },
+        {
+            "subjectid": "Other Language",
+            "minmark": 40,
+            "required": true
+        },
+        [
+            "OR",
+            {
+                "subjectid": 2,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 115,
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    ]
+},
+{
+    "Qualification": "Diploma in Labour Law",
+    "ID": 1027,
+    "APS": 24,
+    "ComplexAPS": 
+    [
+        "AND",
+        {
+            "subjectid": 2,
+            "APS": 23
+        },
+        [
+            "OR",
+            
+            {
+                "subjectid": 115,
+                "APS": 24
+                
+            },
+            {
+                "subjectid": 21,
+                "APS": 24
+                
+            }
+        ]
+    ],
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 103,
+            "minmark": 60,
+            "required": true
+        },
+        {
+            "subjectid": "Other Language",
+            "minmark": 40,
+            "required": true
+        },
+        [
+            "OR",
+            {
+                "subjectid": 2,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 115,
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    ]
+},
+{
+    "Qualification": "Diploma in Safety Management",
+    "ID": 6353,
+    "APS": 21,
+    "ComplexAPS": 
+    [
+        "AND",
+        {
+            "subjectid": 2,
+            "APS": 20
+        },
+        [
+            "OR",
+            
+            {
+                "subjectid": 115,
+                "APS": 21
+                
+            },
+            {
+                "subjectid": 21,
+                "APS": 21
+                
+            }
+        ]
+    ],
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 103,
+            "minmark": 50,
+            "required": true
+        },
+        [
+            "OR",
+            {
+                "subjectid": 2,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 115,
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    ]
+},
+{
+    "Qualification": "Diploma in Policing",
+    "ID": 6354,
+    "APS": 21,
+    "ComplexAPS": 
+        [
+            "AND",
+            {
+                "subjectid": 2,
+                "APS": 20
+            },
+            [
+                "OR",
+                
+                {
+                    "subjectid": 115,
+                    "APS": 21
+                    
+                },
+                {
+                    "subjectid": 21,
+                    "APS": 21
+                    
+                }
+            ]
+    ],
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 103,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": "Other Language",
+            "minmark": 40,
+            "required": true
+        },
+        [
+            "OR",
+            {
+                "subjectid": 2,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 115,
+                "minmark": 50,
+                "required": true
+            }
+        ]
+    ]
+},
+{
+    "Qualification": "B Ed (Senior Phase & FET Teaching)",
+    "ID": 2188,
+    "APS": 24,
+    "ComplexAPS": 
+        [
+            "OR",
+                
+                {
+                    "subjectid": 2,
+                    "APS": 22
+                },
+                {
+                    "subjectid": 21,
+                    "APS": 24
+                    
+                }
+        ],
+    "Subject": [
+        "AND",
+        {
+            "subjectid": "Language of Teaching & Learning",
+            "minmark": 50,
+            "required": true
+        },
+        [
+            "OR",
+            {
+                "subjectid": 2,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 115,
+                "minmark": 70,
+                "required": true
+            }
+        ],
+        [
+            "OR",
+            {
+                "subjectid": 20,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 114,
+                "minmark": 40,
+                "required": true
+            }
+        ]
+    ]
+},
+{
+    "Qualification": "Bachelor of Communication Studies",
+    "ID": 414916404,
+    "APS": "Not Specified",
+    "ComplexAPS": 
+        [
+            "OR",
+                
+                {
+                    "subjectid": 2,
+                    "APS": 24
+                },
+                {
+                    "subjectid": 21,
+                    "APS": 25
+                    
+                }
+        ],
+    "Subject": [
+        "AND",
+        [
+            "OR",
+            {
+                "subjectid": 103,
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": "Additional Language",
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        [
+            "OR",
+            {
+                "subjectid": 21,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 2,
+                "minmark": 40,
+                "required": true
+            }
+        ],
+        {
+            "subjectid": 4,
+            "minmark": 50,
+            "required": true
+        }
+    ]
+},
+{
+    "Qualification": "Diploma in Financial Information Systems",
+    "ID": 1033,
+    "ComplexAPS": 
+    [
+        "AND",
+        {
+            "subjectid": 2,
+            "APS": 20
+        },
+        [
+            "OR",
+            
+            {
+                "subjectid": 115,
+                "APS": 22
+                
+            },
+            {
+                "subjectid": 21,
+                "APS": 22
+                
+            }
+        ]
+    ],
+    "APS": 22,
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 7,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 103,
+            "minmark": 50,
+            "required": true
+        },
+        [
+            "OR",
+            {
+                "subjectid": 2,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": 115,
+                "minmark": 40,
+                "required": true
+            }
+        ]
+    ]
+},
+{
+    "Qualification": "Diploma in Cost and Management Accounting",
+    "ID": 6355,
+    "APS": 22,
+    "ComplexAPS": 
+    [
+        "AND",
+        {
+            "subjectid": 2,
+            "APS": 20
+        },
+        [
+            "OR",
+            
+            {
+                "subjectid": 115,
+                "APS": 22
+                
+            },
+            {
+                "subjectid": 21,
+                "APS": 22
+                
+            }
+        ]
+    ],
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 7,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 103,
+            "minmark": 50,
+            "required": true
+        },
+        [
+            "OR",
+            {
+                "subjectid": 2,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": 115,
+                "minmark": 40,
+                "required": true
+            }
+        ]
+    ]
+},
+{
+    "Qualification": "Diploma in Internal Auditing",
+    "ID": 1035,
+    "APS": 23,
+    "ComplexAPS": 
+    [
+        "AND",
+        {
+            "subjectid": 2,
+            "APS": 20
+        },
+        [
+            "OR",
+            
+            {
+                "subjectid": 115,
+                "APS": 23
+                
+            },
+            {
+                "subjectid": 21,
+                "APS": 23
+                
+            }
+        ]
+    ],
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 7,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 103,
+            "minmark": 50,
+            "required": true
+        },
+        [
+            "OR",
+            {
+                "subjectid": 2,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 70,
+                "required": true
+            },
+            {
+                "subjectid": 115,
+                "minmark": 40,
+                "required": true
+            }
+        ]
+    ]
+},
+{
+    "Qualification": "Diploma in Human Resources Management",
+    "ID": 1028,
+    "APS": 21,
+    "ComplexAPS": 
+        [
+            "AND",
+            {
+                "subjectid": 2,
+                "APS": 20
+            },
+            [
+                "OR",
+                
+                {
+                    "subjectid": 115,
+                    "APS": 21
+                    
+                },
+                {
+                    "subjectid": 21,
+                    "APS": 21
+                    
+                }
+            ]
+        ],
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 103,
+            "minmark": 50,
+            "required": true
+        },
+        [
+            "OR",
+            {
+                "subjectid": 2,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 115,
+                "minmark": 40,
+                "required": true
+            }
+        ]
+    ]
+},
+{
+    "Qualification": "Diploma in Logistics and Supply Chain Management",
+    "ID": 1032,
+    "APS": 21,
+    "ComplexAPS": 
+        [
+            "AND",
+            {
+                "subjectid": 2,
+                "APS": 20
+            },
+            [
+                "OR",
+                
+                {
+                    "subjectid": 115,
+                    "APS": 21
+                    
+                },
+                {
+                    "subjectid": 21,
+                    "APS": 21
+                    
+                }
+            ]
+        ],
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 103,
+            "minmark": 50,
+            "required": true
+        },
+        [
+            "OR",
+            {
+                "subjectid": 2,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 115,
+                "minmark": 40,
+                "required": true
+            }
+        ]
+    ]
+},
+{
+    "Qualification": "Diploma in Marketing",
+    "ID": 1029,
+    "APS": 21,
+    "ComplexAPS": 
+        [
+            "AND",
+            {
+                "subjectid": 2,
+                "APS": 20
+            },
+            [
+                "OR",
+                
+                {
+                    "subjectid": 115,
+                    "APS": 21
+                    
+                },
+                {
+                    "subjectid": 21,
+                    "APS": 21
+                    
+                }
+            ]
+        ],
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 103,
+            "minmark": 50,
+            "required": true
+        },
+        [
+            "OR",
+            {
+                "subjectid": 2,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 115,
+                "minmark": 40,
+                "required": true
+            }
+        ]
+    ]
+},
+{
+    "Qualification": "Diploma in Retail Business Management",
+    "ID": 1030,
+    "APS": 21,
+    "ComplexAPS": 
+        [
+            "AND",
+            {
+                "subjectid": 2,
+                "APS": 20
+            },
+            [
+                "OR",
+                
+                {
+                    "subjectid": 115,
+                    "APS": 21
+                    
+                },
+                {
+                    "subjectid": 21,
+                    "APS": 21
+                    
+                }
+            ]
+        ],
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 103,
+            "minmark": 50,
+            "required": true
+        },
+        [
+            "OR",
+            {
+                "subjectid": 2,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 115,
+                "minmark": 40,
+                "required": true
+            }
+        ]
+    ]
+},
+{
+    "Qualification": "Diploma in Sport Management",
+    "ID": 1031,
+    "APS": 21,
+    "ComplexAPS": 
+        [
+            "AND",
+            {
+                "subjectid": 2,
+                "APS": 20
+            },
+            [
+                "OR",
+                
+                {
+                    "subjectid": 115,
+                    "APS": 21
+                    
+                },
+                {
+                    "subjectid": 21,
+                    "APS": 21
+                    
+                }
+            ]
+        ],
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 103,
+            "minmark": 44,
+            "required": true
+        },
+        [
+            "OR",
+            {
+                "subjectid": 2,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 115,
+                "minmark": 40,
+                "required": true
+            }
+        ]
+    ]
+},
+{
+    "Qualification": "Diploma in Chemical Engineering",
+    "ID": 1040,
+    "APS": 24,
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 2,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 20,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 103,
+            "minmark": 50,
+            "required": true
+        }
+    ]
+},
+{
+    "Qualification": "Diploma in Civil Engineering",
+    "ID": 1041,
+    "APS": 24,
+     "Subject": [
+        "AND",
+        {
+            "subjectid": 2,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 20,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 103,
+            "minmark": 50,
+            "required": true
+        }
+    ]
+},
+{
+    "Qualification": "Diploma in Electronic Engineering",
+    "ID": 1039,
+    "APS": 24,
+     "Subject": [
+        "AND",
+        {
+            "subjectid": 2,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 20,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 103,
+            "minmark": 50,
+            "required": true
+        }
+    ]
+},
+{
+    "Qualification": "Diploma in Power Engineering",
+    "ID": 6077,
+    "APS": 24,
+     "Subject": [
+        "AND",
+        {
+            "subjectid": 2,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 20,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 103,
+            "minmark": 50,
+            "required": true
+        }
+    ]
+},
+{
+    "Qualification": "Diploma in Process Control Engineering",
+    "ID": 1037,
+    "APS": 24,
+     "Subject": [
+        "AND",
+        {
+            "subjectid": 2,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 20,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 103,
+            "minmark": 50,
+            "required": true
+        }
+    ]
+},
+{
+    "Qualification": "Diploma in Computer Systems Engineering",
+    "ID": 1036,
+    "APS": 24,
+     "Subject": [
+        "AND",
+        {
+            "subjectid": 2,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 20,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 103,
+            "minmark": 50,
+            "required": true
+        }
+    ]
+},
+{
+    "Qualification": "Diploma in Industrial Engineering",
+    "ID": 1042,
+    "APS": 24,
+     "Subject": [
+        "AND",
+        {
+            "subjectid": 2,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 20,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 103,
+            "minmark": 50,
+            "required": true
+        }
+    ]
+},
+{
+    "Qualification": "Diploma in Mechanical Engineering",
+    "ID": 1043,
+    "APS": 24,
+     "Subject": [
+        "AND",
+        {
+            "subjectid": 2,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 20,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 103,
+            "minmark": 50,
+            "required": true
+        }
+    ]
+},
+{
+    "Qualification": "Diploma in Metallurgical Engineering",
+    "ID": 1044,
+    "APS": 24,
+     "Subject": [
+        "AND",
+        {
+            "subjectid": 2,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 20,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 103,
+            "minmark": 50,
+            "required": true
+        }
+    ]
+},
+{
+    "Qualification": "Diploma in Operations Management",
+    "ID": 6352,
+    "APS": 23,
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 2,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 20,
+            "minmark": 40,
+            "required": true
+        },
+        {
+            "subjectid": 103,
+            "minmark": 50,
+            "required": true
+        }
+    ]
+},
+{
+    "Qualification": "Diploma in Chemical Engineering(ECP)",
+    "ID": 6078,
+    "APS": 22,
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 2,
+            "minmark": 40,
+            "required": true
+        },
+        {
+            "subjectid": 20,
+            "minmark": 40,
+            "required": true
+        },
+        {
+            "subjectid": 103,
+            "minmark": 40,
+            "required": true
+        }
+    ]
+},
+{
+    "Qualification": "Diploma in Civil Engineering(ECP)",
+    "ID": 577282333,
+    "APS": 22,
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 2,
+            "minmark": 40,
+            "required": true
+        },
+        {
+            "subjectid": 20,
+            "minmark": 40,
+            "required": true
+        },
+        {
+            "subjectid": 103,
+            "minmark": 40,
+            "required": true
+        }
+    ]    },
+{
+    "Qualification": "Diploma in Electronic Engineering(ECP)",
+    "ID": 917317190,
+    "APS": 22,
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 2,
+            "minmark": 40,
+            "required": true
+        },
+        {
+            "subjectid": 20,
+            "minmark": 40,
+            "required": true
+        },
+        {
+            "subjectid": 103,
+            "minmark": 40,
+            "required": true
+        }
+    ]    },
+{
+    "Qualification": "Diploma in Power Engineering(ECP)",
+    "ID": 6076,
+    "APS": 22,
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 2,
+            "minmark": 40,
+            "required": true
+        },
+        {
+            "subjectid": 20,
+            "minmark": 40,
+            "required": true
+        },
+        {
+            "subjectid": 103,
+            "minmark": 40,
+            "required": true
+        }
+    ]    },
+{
+    "Qualification": "Diploma in Process Control Engineering(ECP)",
+    "ID": 6074,
+    "APS": 22,
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 2,
+            "minmark": 40,
+            "required": true
+        },
+        {
+            "subjectid": 20,
+            "minmark": 40,
+            "required": true
+        },
+        {
+            "subjectid": 103,
+            "minmark": 40,
+            "required": true
+        }
+    ]    },
+{
+    "Qualification": "Diploma in Computer Systems Engineering(ECP)",
+    "ID": 6073,
+    "APS": 22,
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 2,
+            "minmark": 40,
+            "required": true
+        },
+        {
+            "subjectid": 20,
+            "minmark": 40,
+            "required": true
+        },
+        {
+            "subjectid": 103,
+            "minmark": 40,
+            "required": true
+        }
+    ]    },
+{
+    "Qualification": "Diploma in Industrial Engineering(ECP)",
+    "ID": 6079,
+    "APS": 22,
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 2,
+            "minmark": 40,
+            "required": true
+        },
+        {
+            "subjectid": 20,
+            "minmark": 40,
+            "required": true
+        },
+        {
+            "subjectid": 103,
+            "minmark": 40,
+            "required": true
+        }
+    ]    },
+{
+    "Qualification": "Diploma in Mechanical Engineering(ECP)",
+    "ID": 6080,
+    "APS": 22,
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 2,
+            "minmark": 40,
+            "required": true
+        },
+        {
+            "subjectid": 20,
+            "minmark": 40,
+            "required": true
+        },
+        {
+            "subjectid": 103,
+            "minmark": 40,
+            "required": true
+        }
+    ]    },
+{
+    "Qualification": "Diploma in Metallurgical Engineering(ECP)",
+    "ID": 6075,
+    "APS": 22,
+    "Subject": [
+        "AND",
+        {
+            "subjectid": 2,
+            "minmark": 40,
+            "required": true
+        },
+        {
+            "subjectid": 20,
+            "minmark": 40,
+            "required": true
+        },
+        {
+            "subjectid": 103,
+            "minmark": 40,
+            "required": true
+        }
+    ]    }
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
+

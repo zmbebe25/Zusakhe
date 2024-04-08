@@ -8,19 +8,19 @@
     "Subject": [
         "AND",
         {
-            "subjectid": "English",
+            "subjectid": 103,
             "minmark": 50,
             "required": true
         },
         [
             "OR",
             {
-                "subjectid": "Mathematics",
+                "subjectid": 2,
                 "minmark": 40,
                 "required": true
             },
             {
-                "subjectid": "Mathematical Literacy",
+                "subjectid": 21,
                 "minmark": 50,
                 "required": true
             }

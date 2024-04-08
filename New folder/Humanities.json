@@ -8,8 +8,8 @@
         "Subject": [
             "AND",
             {
-                "subjectid": "English as a Home Language or First Additional Language",
-                "minmark": 3,
+                "subjectid": 103,
+                "minmark": 40,
                 "required": true
             }
         ]
@@ -23,28 +23,25 @@
         "Subject": [
             "AND",
             {
-                "subjectid": "English as a Home Language or First Additional Language",
+                "subjectid": 103,
                 "minmark": 50,
                 "required": true
             },
-            [
-                "OR",
-                {
-                    "subjectid": "Mathematics",
-                    "minmark": 30,
-                    "required": true
-                },
-                {
-                    "subjectid": "Mathematics Literacy",
-                    "minmark": 40,
-                    "required": true
-                },
-                {
-                    "subjectid": "Accountancy",
-                    "minmark": 30,
-                    "required": true
-                }
-            ]
+            {
+                "subjectid": 2,
+                "minmark": 30,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 7,
+                "minmark": 30,
+                "required": true
+            }
         ]
     },
     {
@@ -56,7 +53,7 @@
         "Subject": [
             "AND",
             {
-                "subjectid": "English",
+                "subjectid": 103,
                 "minmark": 50,
                 "required": true
             }
@@ -71,23 +68,23 @@
         "Subject": [
             "AND",
             {
-                "subjectid": "English",
+                "subjectid": 103,
                 "minmark": 40,
                 "required": true
             }
         ]
     },
     {
-        "Qualification": "Bachelor of Laws",
-        "ID": "WS5440",
-        "Qualification Code": "WS5440",
-        "APS": 28,
-        "Description": "This 4-year degree focuses on criminal codes, summarising information and cases, and learning legal principles. It fosters an appreciation of critical legal imperatives, concepts, paradigms, principles, and processes. The program promotes an understanding of constitutional values and the fundamentals of the South African legal system, along with regional comparative aspects. It aims to prepare students for a range of legal professions by providing them with a solid foundation in law.",
+        "Qualification": "Bachelor of Arts",
+        "ID": 6696,
+        "Qualification Code": "WS5407",
+        "APS": 27,
+        "Description": "This is a general degree that allows students to take 3 subjects at first year and 2 majors at second and third year. The majors must be traceable to level 1. The degree equips students with the necessary undergraduate level knowledge, in preparation for specialisation at Honours level where there is specialisation and knowledge is deepened.",
         "Subject": [
             "AND",
             {
-                "subjectid": "English and IsiXhosa",
-                "minmark": "Pass with symbol D (SG) or E (HG)",
+                "subjectid": 103,
+                "minmark": 60,
                 "required": true
             }
         ]
@@ -101,17 +98,36 @@
         "Subject": [
             "AND",
             {
-                "subjectid": "English Home Language or First Additional Language",
+                "subjectid": 103,
                 "minmark": 60,
                 "required": true
             },
+            ["OR",
+            {"subjectid": 96, "minmark": 60, "required": true},
+            {"subjectid": 97, "minmark": 60, "required": true}
+            ]
+        ]
+    },
+    {
+        "Qualification": "Bachelor of Psychology",
+        "ID": "WS5412",
+        "Qualification Code": "WS5412",
+        "APS": 28,
+        "Description": "This 4-year degree trains students on various aspects of cognition, human development, and behaviour. It aims to provide a comprehensive understanding of psychological principles and their applications. The program prepares students for a wide range of careers by offering in-depth knowledge in psychology and its practical implications in real-world scenarios.",
+        "Subject": [
+            "AND",
             {
-                "subjectid": "IsiXhosa or any other additional Language",
-                "minmark": 60,
+                "subjectid": 103,
+                "minmark": 50,
                 "required": true
-            }
+            },
+            ["OR",
+            {"subjectid": 96, "minmark": 50, "required": true},
+            {"subjectid": 97, "minmark": 50, "required": true}
+            ]
         ]
     }
+    
     
     
         

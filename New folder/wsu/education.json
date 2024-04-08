@@ -7,24 +7,23 @@
     "Entrance": [
         "AND",
         {
-            "subjectid": "English",
+            "subjectid": 103,
             "minmark": 40,
             "required": true
         },
-        {
-            "subjectid": "IsiXhosa",
-            "minmark": 40,
-            "required": true
-        },
+        ["OR",
+        {"subjectid": 56, "minmark": 40, "required": true},
+        {"subjectid": 45, "minmark": 40, "required": true}
+        ],
         [
             "OR",
             {
-                "subjectid": "Mathematics",
+                "subjectid": 2,
                 "minmark": 30,
                 "required": true
             },
             {
-                "subjectid": "Mathematical Literacy",
+                "subjectid": 21,
                 "minmark": 30,
                 "required": true
             }
@@ -40,29 +39,28 @@
     "Subject": [
         "AND",
         {
-            "subjectid": "English",
+            "subjectid": 103,
             "minmark": 50,
             "required": true
         },
+        ["OR",
+        {"subjectid": 56, "minmark": 50, "required": true},
+        {"subjectid": 45, "minmark": 50, "required": true}
+        ],
         {
-            "subjectid": "IsiXhosa",
-            "minmark": 50,
-            "required": true
-        },
-        {
-            "subjectid": "Life Orientation",
+            "subjectid": 4,
             "minmark": 60,
             "required": true
         },
         [
             "OR",
             {
-                "subjectid": "Mathematics",
+                "subjectid": 2,
                 "minmark": 30,
                 "required": true
             },
             {
-                "subjectid": "Mathematical Literacy",
+                "subjectid": 21,
                 "minmark": 50,
                 "required": true
             }
@@ -78,29 +76,28 @@
     "Subject": [
         "AND",
         {
-            "subjectid": "English",
+            "subjectid": 103,
             "minmark": 50,
             "required": true
         },
-        {
-            "subjectid": "IsiXhosa or IsiZulu or Afrikaans or SeSotho",
-            "minmark": 50,
-            "required": true
-        },
+        ["OR",
+        {"subjectid": 56, "minmark": 40, "required": true},
+        {"subjectid": 45, "minmark": 40, "required": true}
+        ],
         [
             "ANY2",
             {
-                "subjectid": "Accounting",
+                "subjectid": 7,
                 "minmark": 50,
                 "required": true
             },
             {
-                "subjectid": "Business Studies",
+                "subjectid": 26,
                 "minmark": 50,
                 "required": true
             },
             {
-                "subjectid": "Economics",
+                "subjectid": 27,
                 "minmark": 50,
                 "required": true
             }
@@ -108,12 +105,12 @@
         [
             "OR",
             {
-                "subjectid": "Mathematics",
+                "subjectid": 2,
                 "minmark": 30,
                 "required": true
             },
             {
-                "subjectid": "Mathematical Literacy",
+                "subjectid": 21,
                 "minmark": 50,
                 "required": true
             }
@@ -129,33 +126,32 @@
     "Subject": [
         "AND",
         {
-            "subjectid": "English",
+            "subjectid": 103,
             "minmark": 50,
             "required": true
         },
         {
-            "subjectid": "Consumer Studies",
+            "subjectid": 28,
             "minmark": 50,
             "required": true
         },
         [
             "OR",
             {
-                "subjectid": "Hospitality Studies",
+                "subjectid": 29,
                 "minmark": 50,
                 "required": true
             },
             {
-                "subjectid": "Tourism",
+                "subjectid": 30,
                 "minmark": 50,
                 "required": true
             }
         ],
-        {
-            "subjectid": "IsiXhosa, IsiZulu, Afrikaans, or Sotho",
-            "minmark": 50,
-            "required": true
-        }
+        ["OR",
+        {"subjectid": 97, "minmark": 50, "required": true},
+        {"subjectid": 96, "minmark": 50, "required": true}
+        ]
     ]
 },
 {
@@ -167,44 +163,43 @@
     "Subject": [
         "AND",
         {
-            "subjectid": "English",
+            "subjectid": 103,
             "minmark": 50,
             "required": true
         },
         {
-            "subjectid": "Music",
+            "subjectid": 34,
             "minmark": 50,
             "required": true
         },
-        {
-            "subjectid": "IsiXhosa or IsiZulu or Afrikaans or Sotho",
-            "minmark": 50,
-            "required": true
-        },
+        ["OR",
+        {"subjectid": 97, "minmark": 50, "required": true},
+        {"subjectid": 96, "minmark": 50, "required": true}
+        ],
         [
             "ANY2",
             {
-                "subjectid": "Dramatic Arts",
+                "subjectid": 33,
                 "minmark": 50,
                 "required": true
             },
             {
-                "subjectid": "Visual Arts",
+                "subjectid": 35,
                 "minmark": 50,
                 "required": true
             },
             {
-                "subjectid": "Dance Studies",
+                "subjectid": 31,
                 "minmark": 50,
                 "required": true
             },
             {
-                "subjectid": "History",
+                "subjectid": 24,
                 "minmark": 50,
                 "required": true
             },
             {
-                "subjectid": "Life Orientation",
+                "subjectid": 4,
                 "minmark": 50,
                 "required": true
             }
@@ -220,27 +215,26 @@
     "Subject": [
         "AND",
         {
-            "subjectid": "English",
+            "subjectid": 103,
+            "minmark": 50,
+            "required": true
+        },
+        ["OR",
+        {"subjectid": 97, "minmark": 50, "required": true},
+        {"subjectid": 96, "minmark": 50, "required": true}
+        ],
+        {
+            "subjectid": 24,
             "minmark": 50,
             "required": true
         },
         {
-            "subjectid": "IsiXhosa or IsiZulu or Afrikaans or Sotho",
+            "subjectid": 8,
             "minmark": 50,
             "required": true
         },
         {
-            "subjectid": "History",
-            "minmark": 50,
-            "required": true
-        },
-        {
-            "subjectid": "Geography",
-            "minmark": 50,
-            "required": true
-        },
-        {
-            "subjectid": "Life Orientation",
+            "subjectid": 4,
             "minmark": 50,
             "required": true
         }
@@ -255,17 +249,16 @@
     "Subject": [
         "AND",
         {
-            "subjectid": "English",
+            "subjectid": 103,
             "minmark": 60,
             "required": true
         },
+        ["OR",
+        {"subjectid": 97, "minmark": 50, "required": true},
+        {"subjectid": 96, "minmark": 50, "required": true}
+        ],
         {
-            "subjectid": "IsiXhosa or IsiZulu or Afrikaans or SeSotho",
-            "minmark": 50,
-            "required": true
-        },
-        {
-            "subjectid": "Life Orientation",
+            "subjectid": 4,
             "minmark": 50,
             "required": true
         }
@@ -280,29 +273,28 @@
     "Subject": [
         "AND",
         {
-            "subjectid": "English",
+            "subjectid": 103,
             "minmark": 50,
             "required": true
         },
-        {
-            "subjectid": "IsiXhosa or IsiZulu or Afrikaans or Sotho",
-            "minmark": 50,
-            "required": true
-        },
+        ["OR",
+        {"subjectid": 97, "minmark": 50, "required": true},
+        {"subjectid": 96, "minmark": 50, "required": true}
+        ],
         [
             "ANY2",
             {
-                "subjectid": "Life Sciences",
+                "subjectid": 19,
                 "minmark": 50,
                 "required": true
             },
             {
-                "subjectid": "Mathematics",
+                "subjectid": 2,
                 "minmark": 50,
                 "required": true
             },
             {
-                "subjectid": "Physical Sciences",
+                "subjectid": 20,
                 "minmark": 50,
                 "required": true
             }
@@ -313,68 +305,62 @@
     "Qualification": "Bachelor of Education in Senior Phase and Further Education and Training Teaching (Technical and Vocational)",
     "ID": 62018,
     "Qualification Code": "W62018",
-    "APS": "Not Specified",
+    "APS": 0,
     "Description": "The degree is a 480-credit qualification, offered over a period of 4 years, full-time. Students need to study 3 modules/courses as Majors: Major A (the main FET Major with content and teaching up to Level III), Major B (the second FET Major with content and teaching up to Level II), and Major C (the third Senior Phase Major with content and teaching up to Level II). Options include combinations like Civil Technology and Engineering Graphics & Design; Electrical Technology, Engineering Graphics & Design, and Technology; Mechanical Technology, Engineering Graphics & Design, and Technology; and others with Technology (SP) as a compulsory subject studied up to Level II.",
-    "Career Opportunities": [
-        "Professionally qualified technical and vocational teachers for the Senior, and Further Education phases",
-        "Specialists in fields of technological education, curriculum studies, inclusive education, support teaching, and technological education policy",
-        "Experts in technological education-related careers such as instructors, trainers, workshop managers in technology-related industries, education policy analysts, lecturers in the higher education sector, and scholars"
-    ],
     "Subject": [
         "AND",
         {
-            "subjectid": "English",
-            "minmark": 4,
+            "subjectid": 103,
+            "minmark": 50,
             "required": true
         },
         [
-            "OR",
+            "ANY2",
             {
-                "subjectid": "Technical Mathematics",
-                "minmark": 3,
+                "subjectid": 115,
+                "minmark": 40,
                 "required": true
             },
             {
-                "subjectid": "Mathematics",
-                "minmark": 3,
+                "subjectid": 2,
+                "minmark": 40,
                 "required": true
             },
             {
-                "subjectid": "Technical Sciences",
-                "minmark": 3,
+                "subjectid": 114,
+                "minmark": 40,
                 "required": true
             },
             {
-                "subjectid": "Physical Sciences",
-                "minmark": 3,
+                "subjectid": 20,
+                "minmark": 40,
                 "required": true
             },
             {
-                "subjectid": "Engineering Graphics and Design",
-                "minmark": 3,
+                "subjectid": 38,
+                "minmark": 40,
                 "required": true
             },
             {
-                "subjectid": "Civil Technology (Various Specializations)",
-                "minmark": 3,
+                "subjectid": 36,
+                "minmark": 40,
                 "required": true
             },
             {
-                "subjectid": "Electrical Technology (Various Specializations)",
-                "minmark": 3,
+                "subjectid": 37,
+                "minmark": 40,
                 "required": true
             },
             {
-                "subjectid": "Mechanical Technology (Various Specializations)",
-                "minmark": 3,
+                "subjectid": 39,
+                "minmark": 40,
                 "required": true 
             }
         ],
-        {
-            "subjectid": "IsiXhosa or IsiZulu or Afrikaans or Sotho",
-            "minmark": 4,
-            "required": true
-        }
+        ["OR",
+        {"subjectid": 97, "minmark": 50, "required": true},
+        {"subjectid": 96, "minmark": 50, "required": true}
+        ]
     ]
 }
 
