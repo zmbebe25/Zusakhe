@@ -84,6 +84,11 @@
             "minmark": 50,
             "required": true
         },
+        {
+            "subjectid": 4,
+            "minmark": 40,
+            "required": true
+        },
         [
             "OR",
             {
@@ -360,7 +365,7 @@
     "Entrance": [
         "AND",
         {
-            "subjectid": 50,
+            "subjectid": 103,
             "minmark": 50,
             "required": true
         },
@@ -403,7 +408,7 @@
     "Entrance": [
         "AND",
         {
-            "subjectid": 50,
+            "subjectid":103,
             "minmark": 50,
             "required": true
         },
@@ -456,7 +461,7 @@
             "required": true
         },
         [
-            "ANY1",
+            "OR",
             {
                 "subjectid": 29,
                 "minmark": 50,
@@ -507,10 +512,16 @@
     "Qualification": "Diploma in Tourism Management",
     "ID": 1021,
     "APS": "Not Specified",
-    "Entrance": [
+    "Entrance": 
+    [
         "AND",
         {
             "subjectid": 103,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 97,
             "minmark": 50,
             "required": true
         },
@@ -534,20 +545,6 @@
         ],
         [
             "OR",
-            [
-                "OR",
-                {
-                    "subjectid": 96,
-                    "minmark": 50,
-                    "required": true
-                },
-                {
-                    "subjectid": 97,
-                    "minmark": 50,
-                    "required": true
-                }
-                
-            ],
             {
                 "subjectid": 30,
                 "minmark": 50,
@@ -562,22 +559,9 @@
                 "subjectid": 7,
                 "minmark": 50,
                 "required": true
-            }
-        ],
-        [
-            "ANY1",
-            {
-                "subjectid": 30,
-                "minmark": 50,
-                "required": true
             },
             {
                 "subjectid": 8,
-                "minmark": 50,
-                "required": true
-            },
-            {
-                "subjectid": 26,
                 "minmark": 50,
                 "required": true
             },
@@ -593,10 +577,16 @@
     "Qualification": "Diploma in Public Relations",
     "ID": 1020,
     "APS": "Not Specified",
-    "Entrance": [
+    "Entrance": 
+    [
         "AND",
         {
             "subjectid": 103,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 97,
             "minmark": 50,
             "required": true
         },
@@ -620,20 +610,6 @@
         ],
         [
             "OR",
-            [
-                "OR",
-                {
-                    "subjectid": 96,
-                    "minmark": 50,
-                    "required": true
-                },
-                {
-                    "subjectid": 97,
-                    "minmark": 50,
-                    "required": true
-                }
-                
-            ],
             {
                 "subjectid": 30,
                 "minmark": 50,
@@ -648,22 +624,9 @@
                 "subjectid": 7,
                 "minmark": 50,
                 "required": true
-            }
-        ],
-        [
-            "ANY1",
-            {
-                "subjectid": 30,
-                "minmark": 50,
-                "required": true
             },
             {
                 "subjectid": 8,
-                "minmark": 50,
-                "required": true
-            },
-            {
-                "subjectid": 26,
                 "minmark": 50,
                 "required": true
             },
@@ -754,20 +717,11 @@
             "minmark": 60,
             "required": true
         },
-        [
-            "OR",
-            {
-                "subjectid": 96,
-                "minmark": 40,
-                "required": true
-            },
-            {
-                "subjectid": 97,
-                "minmark": 40,
-                "required": true
-            }
-            
-        ],
+        {
+            "subjectid": 97,
+            "minmark": 40,
+            "required": true
+        },
         [
             "OR",
             {
@@ -816,20 +770,11 @@
             "minmark": 60,
             "required": true
         },
-        [
-            "OR",
-            {
-                "subjectid": 96,
-                "minmark": 40,
-                "required": true
-            },
-            {
-                "subjectid": 97,
-                "minmark": 40,
-                "required": true
-            }
-            
-        ],
+        {
+            "subjectid": 97,
+            "minmark": 40,
+            "required": true
+        },
         [
             "OR",
             {
@@ -926,20 +871,11 @@
             "minmark": 50,
             "required": true
         },
-        [
-            "OR",
-            {
-                "subjectid": 96,
-                "minmark": 40,
-                "required": true
-            },
-            {
-                "subjectid": 97,
-                "minmark": 40,
-                "required": true
-            }
-            
-        ],
+        {
+            "subjectid": 97,
+            "minmark": 40,
+            "required": true
+        },
         [
             "OR",
             {
@@ -979,7 +915,7 @@
     "Entrance": [
         "AND",
         {
-            "subjectid": "Language of Teaching & Learning",
+            "subjectid": 103,
             "minmark": 50,
             "required": true
         },
@@ -1034,19 +970,21 @@
         ],
     "Entrance": [
         "AND",
-        [
-            "OR",
-            {
-                "subjectid": 103,
-                "minmark": 60,
-                "required": true
-            },
-            {
-                "subjectid": 97,
-                "minmark": 40,
-                "required": true
-            }
-        ],
+        {
+            "subjectid": 103,
+            "minmark": 60,
+            "required": true
+        },
+        {
+            "subjectid": 97,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 4,
+            "minmark": 50,
+            "required": true
+        },
         [
             "OR",
             {
@@ -1059,12 +997,7 @@
                 "minmark": 40,
                 "required": true
             }
-        ],
-        {
-            "subjectid": 4,
-            "minmark": 50,
-            "required": true
-        }
+        ]
     ]
 },
 {
@@ -1443,7 +1376,7 @@
         "AND",
         {
             "subjectid": 103,
-            "minmark": 44,
+            "minmark": 50,
             "required": true
         },
         [
