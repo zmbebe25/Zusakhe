@@ -1,0 +1,490 @@
+[
+
+    {
+        "Qualification": "HC: Versatile Broadcasting",
+        "ID": 518633528,
+        "Qualification Code": "WS7042",
+        "APS": "",
+        "Description": "Versatile Broadcasting is a mass communication media from a single source to a radio. This programme is important in that it allows the platform to inform the population and it reaches more people quickly.",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid":103 ,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid":97 ,
+                "minmark": 40,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "Diploma in Journalism",
+        "ID": 436986701,
+        "Qualification Code": "WS7043",
+        "APS": "",
+        "Description": "Journalism focuses on gathering, assessing and presenting of news and information through print, electronic and social media platforms. It offers students an opportunity to learn advanced industry-specific methods using state-of- the-art equipment (photographic and video cameras, the latest computer programmes and computer laboratories).",
+        "Entrance": 
+        [
+            "ANY2",
+            {
+                "subjectid": 103,
+                "minmark": 50,
+                "required": true
+            },
+            ["OR",
+
+            {
+                "subjectid": 9,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 53,
+                "minmark": 50,
+                "required": true
+            }
+            ],
+            ["OR",
+
+            {
+                "subjectid": 45,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 56,
+                "minmark": 50,
+                "required": true
+            }
+            ]
+
+        ]
+    },
+    {
+        "Qualification": "Diploma in Public Relations",
+        "ID": 781934560,
+        "Qualification Code": "WS7047",
+        "APS": "",
+        "Description": "Public Relations is a strategic process that builds mutual beneficial relationship between the organisations and its public. Specific focus is on corporate image and reputation, crisis communication internal and external communication. It includes how to handle media requests and being able to undertake Corporate Social Investment programmes.",
+        "Entrance": 
+        [
+            "ANY2",
+            {
+                "subjectid": 103,
+                "minmark": 50,
+                "required": true
+            },
+            ["OR",
+
+            {
+                "subjectid": 9,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 53,
+                "minmark": 50,
+                "required": true
+            }
+            ],
+            ["OR",
+
+            {
+                "subjectid": 45,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 56,
+                "minmark": 50,
+                "required": true
+            }
+            ]
+
+        ]
+    },
+    {
+        "Qualification": "Diploma in Local Government Finance (ECP)",
+        "ID": 642124602,
+        "Qualification Code": "WS7054",
+        "APS": "",
+        "Description": "Graduates must perform municipal finance functions and operational audit functions as part of an audit team or independently. It serves as a foundation for further studies in finance fields.",
+        "Entrance": 
+        [
+            "AND",
+            {
+                "subjectid": 103,
+                "minmark": 40,
+                "required": true
+            },
+            ["OR",
+
+            {
+                "subjectid": 7,
+                "minmark": 30,
+                "required": true
+            },
+            {
+                "subjectid": 2,
+                "minmark": 30,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 50,
+                "required": true
+            }
+            ]
+        ]
+    },
+    {
+        "Qualification": "Diploma in Management (ECP)",
+        "ID": 846155969,
+        "Qualification Code": "WS7055",
+        "APS": "",
+        "Description": "",
+        "Entrance": 
+        [
+            "AND",
+            {
+                "subjectid": 103,
+                "minmark": 40,
+                "required": true
+            },
+            ["OR",
+
+            {
+                "subjectid": 7,
+                "minmark": 30,
+                "required": true
+            },
+            {
+                "subjectid": 2,
+                "minmark": 30,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 50,
+                "required": true
+            }
+            ]
+        ]
+    },
+    {
+        "Qualification": "Diploma Administrative Management",
+        "ID": 652534377,
+        "Qualification Code": "WS7022",
+        "APS": "",
+        "Description": "Graduates must identify and solve problems, make responsible and ethical decisions within their own limit of authority, and work effectively with others as a member of a team.",
+        "Entrance": 
+        [
+            "AND",
+            {
+                "subjectid": 103,
+                "minmark": 50,
+                "required": true
+            },
+            ["OR",
+
+            {
+                "subjectid": 2,
+                "minmark": 30,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 50,
+                "required": true
+            }
+            ]
+        ]
+    },
+    {
+        "Qualification": "Diploma in Public Relations (ECP)",
+        "ID":397375233,
+        "Qualification Code": "WS7048",
+        "APS": "",
+        "Description": "Public Relations is a strategic process that builds mutual beneficial relationship between the organisations and its public. Specific focus is on corporate image and reputation, crisis communication internal and external communication. It includes how to handle media requests and being able to undertake Corporate Social Investment programmes.",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 103,
+                "minmark": 40,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "Diploma in Marketing Management",
+        "ID": 1745,
+        "Qualification Code": "WS7044",
+        "APS": "",
+        "Description": "",
+        "Entrance": 
+        [
+            "AND",
+            {
+                "subjectid": 103,
+                "minmark": 40,
+                "required": true
+            },
+            ["OR",
+
+            {
+                "subjectid": 7,
+                "minmark": 30,
+                "required": true
+            },
+            {
+                "subjectid": 2,
+                "minmark": 30,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 26,
+                "minmark": 30,
+                "required": true
+            }
+            ]
+        ]
+    },
+    {
+        "Qualification": "Diploma in Public Management",
+        "ID": 5416,
+        "Qualification Code": "WS7031",
+        "APS": "",
+        "Description": "Graduates must work with public officials and senior management to provide support for strategic leadership and management needed to transform all spheres of government. The need for well-qualified, efficient, client-oriented public officials is therefore identified as a priority in all the three spheres of government.",
+        "Entrance": []
+    },
+    {
+        "Qualification": "WS7035",
+        "ID": 845188783,
+        "Qualification Code": "Diploma in Policing",
+        "APS": "",
+        "Description": "The qualification prepares graduates in the law enforcement environment and to uplift the professional standards of policing. It will regulate and improve relationships between the community and law enforcement agencies.",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 103,
+                "minmark": 40,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "Diploma in Local Government Finance",
+        "ID": 143054506,
+        "Qualification Code": "WS7032",
+        "APS": "",
+        "Description": "Graduates must perform municipal finance functions and operational audit functions as part of an audit team or independently. It serves as a foundation for further studies in finance fields.",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 103,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 7,
+                "minmark": 40,
+                "required": true
+            },
+            ["OR",
+
+            {
+                "subjectid": 2,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 50,
+                "required": true
+            }
+
+            ]
+        ]
+    },
+    {
+        "Qualification": "Diploma in Management",
+        "ID": 885631700,
+        "Qualification Code": "WS7033",
+        "APS": "",
+        "Description": "",
+        "Entrance": 
+        [
+            "AND",
+            {
+                "subjectid": 103,
+                "minmark": 40,
+                "required": true
+            },
+            ["OR",
+            
+                {
+                    "subjectid": 7,
+                    "minmark": 30,
+                    "required": true
+                },
+                {
+                    "subjectid": 21,
+                    "minmark": 30,
+                    "required": true
+                },
+                {
+                    "subjectid": 21,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "Diploma in Small Business Management",
+        "ID": 638375877,
+        "Qualification Code": "WS7036",
+        "APS": "",
+        "Description": "",
+        "Entrance": 
+        [
+            "AND",
+            {
+                "subjectid": 103,
+                "minmark": 40,
+                "required": true
+            },
+            ["OR",
+            
+                {
+                    "subjectid": 2,
+                    "minmark": 30,
+                    "required": true
+                },
+                {
+                    "subjectid": 21,
+                    "minmark": 40,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "Diploma in Office Management and Technology",
+        "ID": 415947911,
+        "Qualification Code": "WS7025",
+        "APS": "",
+        "Description": "It provides the business world with multi- skilled knowledge graduates who manage information efficiently; are equipped with a comprehensive range of skills including managerial, administrative, Financial Management, Human Resource Management, Legal Practice, technological, communication skills; to act ethically and utilise the knowledge to meet expectations of the African communities they are to serve.",
+        "Entrance": 
+        [
+            "AND",
+            {
+                "subjectid": 103,
+                "minmark": 50,
+                "required": true
+            },
+            ["OR",
+            
+                {
+                    "subjectid": 2,
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": 21,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "Diploma in Human Resources Management",
+        "ID":313623654,
+        "Qualification Code": "WS7023",
+        "APS":"" ,
+        "Description": "The qualification is to produce HR practitioners who are critical thinkers can practise locally, and globally in improving relations between management, employees, and unions. In addition, manage employee performance and career planning and ensure compliance with legislation and other regulatory bodies.",
+        "Entrance": 
+        [
+            "AND",
+            {
+                "subjectid": 103,
+                "minmark": 40,
+                "required": true
+            },
+            ["OR",
+                {
+                    "subjectid": 7,
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": 2,
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": 21,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        ]
+    },
+    {
+        "Qualification": "Diploma in Tourism Management",
+        "ID": 1735,
+        "Qualification Code": "WS7051",
+        "APS": "",
+        "Description": "The purpose of this programme is to equip students with thorough knowledge in the Tourism and leisure industry. The qualifying learner will have the competence to independently manage and integrate specialist activities within the Tourism value chain.",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 103,
+                "minmark": 40,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "Diploma in Hospitality Management",
+        "ID": 722276258,
+        "Qualification Code": "WS7053",
+        "APS": "",
+        "Description": "This diploma intends to provide learners with the knowledge, skills and attitudes necessary to pursue a successful career in the field of hotels, lodges, bed and breakfast facilities, motels, restaurants, fine dining establishments, both public and private health food service institutions.",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 103,
+                "minmark": 40,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "Diploma in Sport Management",
+        "ID": 6348,
+        "Qualification Code": "WSU7051",
+        "APS": 22,
+        "Description": "This qualification aims to provide qualifying learners with applied competence in the analysis, interpretation and application of management principles in the fitness and health, coaching, teaching and retailing sectors of the sports industry.",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 103,
+                "minmark": 40,
+                "required": true
+            }
+        ]
+    }
+    
+
+
+]
