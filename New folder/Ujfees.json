@@ -1,0 +1,58 @@
+{
+    "ART, DESIGN & ARCHITECTURE": 
+    {
+      "Minimum": "R48650",
+      "Maximum": "R69340"
+    },
+    "COLLEGE OF BUSINESS & ECONOMICS": 
+    {
+      "Advanced Diplomas": 
+        {
+         "Minimum": "R35810", 
+         "Maximum": "R79270"
+        },
+      "Diplomas": 
+      {
+        "Minimum": 35222,
+        "Maximum": 72120
+        },
+      "Diploma (360) – Extended": {"Minimum": 35260, "Maximum": 45230},
+      "Degrees": {"Minimum": 49318, "Maximum": 74860},
+      "Degrees - Extended": {"Minimum": 35400, "Maximum": 53210}
+    },
+    "EDUCATION": 
+    {
+      "Minimum": 46240,
+      "Maximum": 61720
+    },
+    "ENGINEERING & THE BUILT ENVIRONMENT": 
+    {
+      "Minimum": 54040,
+      "Maximum": 66810
+    },
+    "HEALTH SCIENCES": 
+    {
+      "Non-Laboratory Modules": {"Minimum": 56730, "Maximum": 58070},
+      "Laboratory Modules": {"Minimum": 54040, "Maximum": 95840},
+      "Diploma": {"Minimum": 33708, "Maximum": 47651},
+      "Degrees (NQF 8)": {"Minimum": 40484, "Maximum": 55961}
+    },
+    "HUMANITIES": 
+    {
+      "Minimum": 45710,
+      "Maximum": 56470
+    },
+    "Specialised Practical Training": {
+      "Minimum": 59560,
+      "Maximum": 76500
+    },
+    "LAW": {
+      "Minimum": 46240,
+      "Maximum": 53100
+    },
+    "SCIENCE": {
+      "Non-Laboratory Modules": {"Minimum": 47860, "Maximum": 56860},
+      "Laboratory Modules": {"Minimum": 71790, "Maximum": 79860}
+    }
+  }
+  
