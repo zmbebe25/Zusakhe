@@ -1,406 +1,626 @@
-[
+["AND",
     {
-        "QualificationID": "",
+        "QualificationID": 347756108,
         "QualificationName": "Bachelor of Commerce in Accounting (general)",
-        "Entrance": [
-            {"subjectid": "Mathematics", "minmark": 40, "required": true},
-            {"subjectid": "English", "minmark": 50, "required": true}
+        "Entrance": ["AND",
+            {"subjectid": 2, "minmark": 40, "required": true},
+            {"subjectid": 103, "minmark": 50, "required": true}
         ],
         "Duration": "3 years",
         "APS": 24
     },
     {
-        "QualificationID": "",
+        "QualificationID": 1512,
         "QualificationName": "Bachelor of Commerce in Chartered Accountancy (CA)",
-        "Entrance": [
+        "Entrance": ["AND",
+            ["OR",
+            ["AND",
+            {"subjectid": 2, "minmark": 60, "required": true},
+            {"subjectid": 7, "minmark": 50, "required": true}
+            ],
+            {"subjectid": 2, "minmark": 70, "required": true}
+            ],
+            ["OR",
             {
-                "subjectid": "Mathematics",
-                "minmark": 5,
-                "required": true,
-                "withAccounting": true
+                "subjectid": 103,
+                "minmark": 50,
+                "required": true
+            },
+            ["OR",
+            {
+                "subjectid": 9,
+                "minmark": 50,
+                "required": true
             },
             {
-                "subjectid": "Mathematics",
-                "minmark": 6,
-                "required": true,
-                "withoutAccounting": true
-            },
-            {
-                "subjectid": "English/Afrikaans",
-                "minmark": 4,
-                "required": true,
-                "languageOfInstruction": true
-            }
+                "subjectid": 53,
+                "minmark": 50,
+                "required": true
+            }]
+            ]
         ],
         "Duration": "3 years",
         "APS": 32
     },
     {
-        "QualificationID": "",
+        "QualificationID": 6248,
         "QualificationName": "Extended Bachelor of Commerce in Chartered Accountancy (CA)",
-        "Entrance": [
-            {"subjectid": "Mathematics", "minmark": 3, "required": true},
-            {"subjectid": "English", "minmark": 4, "required": true}
+        "Entrance": ["AND",
+            {"subjectid": 2, "minmark": 40, "required": true},
+            {"subjectid": 103, "minmark": 50, "required": true}
         ],
         "Duration": "4 years",
         "APS": 28
     },
     {
-        "QualificationID": "",
+        "QualificationID": 1511,
         "QualificationName": "Bachelor of Commerce in Financial Accountancy (SAIPA)",
-        "Entrance": [
-            {"subjectid": "Mathematics", "minmark": 4, "required": true},
-            {"subjectid": "English", "minmark": 4, "required": true, "languageOfStudy": true}
+        "Entrance": ["AND",
+            {"subjectid": 2, "minmark": 50, "required": true},
+            {"subjectid": 103, "minmark": 50, "required": true, "languageOfStudy": true}
         ],
         "Duration": "3 years",
         "APS": 28
     },
     {
-        "QualificationID": "",
+        "QualificationID": 6247,
         "QualificationName": "Extended Bachelor of Commerce in Financial Accountancy (SAIPA)",
-        "Entrance": [
-            {"subjectid": "Mathematics", "minmark": 3, "required": true},
-            {"subjectid": "Mathematical Literacy", "minmark": 7, "required": true},
-            {"subjectid": "English", "minmark": 4, "required": true}
+        "Entrance": ["AND",
+            ["OR",
+            {"subjectid": 2, "minmark": 40, "required": true},
+            {"subjectid": 21, "minmark": 80, "required": true}
+            ],
+            {"subjectid": 103, "minmark": 50, "required": true}
         ],
         "Duration": "4 years",
         "APS": 24
     },
     {
-        "QualificationID": "",
+        "QualificationID": 547696628,
         "QualificationName": "Bachelor of Commerce in Forensic Accountancy",
-        "Entrance": [
-            {"subjectid": "Mathematics", "minmark": 5, "required": true, "withAccounting": true},
-            {"subjectid": "Mathematics", "minmark": 6, "required": true, "withoutAccounting": true},
-            {"subjectid": "Language of study", "minmark": 5, "required": true}
+        "Entrance": ["OR",
+            ["AND",
+            {"subjectid": 2, "minmark": 60, "required": true},
+            {"subjectid": 7, "minmark": 50, "required": true},
+            ["OR",
+            {
+                "subjectid": 96,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 50,
+                "required": true
+            }]
+            ],
+            ["AND",
+            {"subjectid": 2, "minmark": 70, "required": true},
+            ["OR",
+            {
+                "subjectid": 96,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 50,
+                "required": true
+            }]
+            ]
         ],
         "Duration": "3 years",
         "APS": 36
     },
     {
-        "QualificationID": "",
+        "QualificationID": 124094917,
         "QualificationName": "Bachelor of Commerce in Management Accountancy (CIMA)",
-        "Entrance": [
-            {"subjectid": "Mathematics", "minmark": 5, "required": true},
-            {"subjectid": "English", "minmark": 4, "required": true, "languageOfStudy": true}
+        "Entrance": ["AND",
+            {"subjectid": 2, "minmark": 60, "required": true},
+            {"subjectid": 103, "minmark": 50, "required": true}
         ],
         "Duration": "3 years",
         "APS": 30
     },
     {
-        "QualificationID": "",
+        "QualificationID": 1504,
         "QualificationName": "Bachelor of Commerce in Operations Research",
-        "Entrance": [
-            {"subjectid": "Mathematics", "minmark": 4, "required": true},
-            {"subjectid": "English", "minmark": 4, "required": true}
+        "Entrance": ["AND",
+            {"subjectid": 2, "minmark": 50, "required": true},
+            {"subjectid": 103, "minmark": 50, "required": true}
         ],
         "Duration": "3 years",
         "APS": 24
     },
     {
-        "QualificationID": "",
+        "QualificationID": 1503,
         "QualificationName": "Bachelor of Commerce in Statistics",
-        "Entrance": [
-            {"subjectid": "Mathematics", "minmark": 4, "required": true},
-            {"subjectid": "English", "minmark": 4, "required": true}
+        "Entrance": ["AND",
+            {"subjectid": 2, "minmark": 50, "required": true},
+            {"subjectid": 103, "minmark": 50, "required": true}
         ],
         "Duration": "3 years",
         "APS": 24
     },
     {
-        "QualificationID": "",
+        "QualificationID": 6241,
         "QualificationName": "Extended Bachelor of Commerce in Statistics",
-        "Entrance": [
-            {"subjectid": "Mathematics", "minmark": 3, "required": true},
-            {"subjectid": "Mathematical Literacy", "minmark": 4, "required": true},
-            {"subjectid": "English", "minmark": 3, "required": true}
+        "Entrance": ["AND",
+            ["OR",
+            {"subjectid": 2, "minmark": 40, "required": true},
+            {"subjectid": 21, "minmark": 50, "required": true}
+            ],
+            {"subjectid": 103, "minmark": 40, "required": true}
         ],
         "Duration": "4 years",
         "APS": 20
     },
     {
-        "QualificationID": "",
+        "QualificationID": 196900609,
         "QualificationName": "Bachelor of Commerce in Business Operations with Logistics Management",
-        "Entrance": [
-            {"subjectid": "Mathematics", "minmark": 3, "required": true},
-            {"subjectid": "English", "minmark": 4, "required": true}
+        "Entrance": ["AND",
+            {"subjectid": 2, "minmark": 40, "required": true},
+            {"subjectid": 103, "minmark": 50, "required": true}
         ],
         "Duration": "3 years",
         "APS": 24
     },
     {
-        "QualificationID": "",
+        "QualificationID": 824359351,
         "QualificationName": "Extended Bachelor of Commerce in Business Operations with Logistics Management",
-        "Entrance": [
-            {"subjectid": "Mathematics", "minmark": 3, "required": true},
-            {"subjectid": "Mathematical Literacy", "minmark": 4, "required": true},
-            {"subjectid": "English", "minmark": 3, "required": true}
+        "Entrance": ["AND",
+            ["OR",
+            {"subjectid": 2, "minmark": 40, "required": true},
+            {"subjectid": 21, "minmark": 50, "required": true}
+            ],
+            {"subjectid": 103, "minmark": 40, "required": true}
         ],
         "Duration": "4 years",
         "APS": 20
     },
     {
-        "QualificationID": "",
+        "QualificationID": 1508,
         "QualificationName": "Bachelor of Commerce in Business Operations with Transport Economics",
-        "Entrance": [
-            {"subjectid": "Mathematics", "minmark": 3, "required": true},
-            {"subjectid": "English", "minmark": 4, "required": true}
+        "Entrance": ["AND",
+            {"subjectid": 2, "minmark": 40, "required": true},
+            {"subjectid": 103, "minmark": 50, "required": true}
         ],
         "Duration": "3 years",
         "APS": 24
     },
     {
-        "QualificationID": "",
+        "QualificationID": 6244,
         "QualificationName": "Extended Bachelor of Commerce in Business Operations with Transport Economics",
-        "Entrance": [
-            {"subjectid": "Mathematics", "minmark": 3, "required": true},
-            {"subjectid": "Mathematical Literacy", "minmark": 4, "required": true},
-            {"subjectid": "English", "minmark": 3, "required": true}
+        "Entrance": ["AND",
+            ["OR",
+            {"subjectid": 2, "minmark": 40, "required": true},
+            {"subjectid": 21, "minmark": 50, "required": true}
+            ],
+            {"subjectid": 103, "minmark": 40, "required": true}
         ],
         "Duration": "4 years",
         "APS": 20
     },
     {
-        "QualificationID": "",
+        "QualificationID": 879412879,
         "QualificationName": "Bachelor of Commerce in Economic Sciences with Agricultural Economics and Risk Management",
-        "Entrance": [
-            {"subjectid": "Mathematics", "minmark": 4, "required": true},
-            {"subjectid": "Language of instruction", "minmark": 4, "required": true}
+        "Entrance": ["AND",
+            {"subjectid": 2, "minmark": 50, "required": true},
+            ["OR",
+            {
+                "subjectid": 96,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 50,
+                "required": true
+            }]
         ],
         "Duration": "3 years",
         "APS": 26
     },
     {
-        "QualificationID": "",
+        "QualificationID": 246468621,
         "QualificationName": "Bachelor of Commerce in Economic Sciences with Econometrics",
-        "Entrance": [
-            {"subjectid": "Mathematics", "minmark": 3, "required": true},
-            {"subjectid": "English", "minmark": 4, "required": true}
+        "Entrance": ["AND",
+            {"subjectid": 2, "minmark": 40, "required": true},
+            {"subjectid": 103, "minmark": 50, "required": true}
         ],
         "Duration": "3 years",
         "APS": 26
     },
     {
-        "QualificationID": "",
+        "QualificationID": 839256599,
         "QualificationName": "Extended Bachelor of Commerce in Economic Sciences with Econometrics",
-        "Entrance": [
-            {"subjectid": "Mathematics", "minmark": 3, "required": true},
-            {"subjectid": "Mathematical Literacy", "minmark": 4, "required": true},
-            {"subjectid": "English", "minmark": 3, "required": true}
+        "Entrance": ["AND",
+            ["OR",
+            {"subjectid": 2, "minmark": 40, "required": true},
+            {"subjectid": 21, "minmark": 50, "required": true}
+            ],
+            {"subjectid": 103, "minmark": 40, "required": true}
         ],
         "Duration": "4 years",
         "APS": 20
     },
     {
-        "QualificationID": "",
+        "QualificationID": 730955290,
         "QualificationName": "Bachelor of Commerce in Economic Sciences with International Trade",
-        "Entrance": [
-            {"subjectid": "Mathematics", "minmark": 4, "required": true},
-            {"subjectid": "Afrikaans", "minmark": 4, "required": true},
-            {"subjectid": "English", "minmark": 4, "required": true}
+        "Entrance": ["AND",
+            {"subjectid": 2, "minmark": 50, "required": true},
+            ["OR",
+            ["OR",
+            {
+                "subjectid": 9,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 53,
+                "minmark": 50,
+                "required": true
+            }],
+            {"subjectid": 103, "minmark": 50, "required": true}
+            ]
         ],
         "Duration": "3 years",
         "APS": 26
     },
     {
-        "QualificationID": "",
+        "QualificationID": 728009604,
         "QualificationName": "Extended Bachelor of Commerce in Economic Sciences with International Trade",
-        "Entrance": [
-            {"subjectid": "Mathematics", "minmark": 3, "required": true},
-            {"subjectid": "Mathematical Literacy", "minmark": 6, "required": true},
-            {"subjectid": "English", "minmark": 3, "required": true}
+        "Entrance": ["AND",
+            ["OR",
+            {"subjectid": 2, "minmark": 40, "required": true},
+            {"subjectid": 21, "minmark": 70, "required": true}
+            ],
+            {"subjectid": 103, "minmark": 40, "required": true}
         ],
         "Duration": "4 years",
         "APS": 24
     },
     {
-        "QualificationID": "",
+        "QualificationID": 103126839,
         "QualificationName": "Bachelor of Commerce in Economic Sciences with Economics and Informatics",
-        "Entrance": [
-            {"subjectid": "Mathematics", "minmark": 4, "required": true},
-            {"subjectid": "Afrikaans", "minmark": 4, "required": true},
-            {"subjectid": "English", "minmark": 4, "required": true}
+        "Entrance": ["AND",
+            {"subjectid": 2, "minmark": 50, "required": true},
+            ["OR",
+             ["OR",
+            {
+                "subjectid": 9,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 53,
+                "minmark": 50,
+                "required": true
+            }],
+            {"subjectid": 103, "minmark": 50, "required": true}
+            ]
         ],
         "Duration": "3 years",
         "APS": 26
     },
     {
-        "QualificationID": "",
+        "QualificationID": 667380208,
         "QualificationName": "Bachelor of Commerce in Economic Sciences with Economics and Risk Management",
-        "Entrance": [
-            {"subjectid": "Mathematics", "minmark": 4, "required": true},
-            {"subjectid": "Afrikaans", "minmark": 4, "required": true},
-            {"subjectid": "English", "minmark": 4, "required": true}
+        "Entrance": ["AND",
+            {"subjectid": 2, "minmark": 50, "required": true},
+            ["OR",
+             ["OR",
+            {
+                "subjectid": 9,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 53,
+                "minmark": 50,
+                "required": true
+            }],
+            {"subjectid": 103, "minmark": 50, "required": true}
+            ]
         ],
         "Duration": "3 years",
         "APS": 26
     },
     {
-        "QualificationID": "",
+        "QualificationID": 175302428,
         "QualificationName": "Extended Bachelor of Commerce in Economic Sciences with Economics and Risk Management",
-        "Entrance": [
-            {"subjectid": "Mathematics", "minmark": 3, "required": true},
-            {"subjectid": "Mathematical Literacy", "minmark": 6, "required": true},
-            {"subjectid": "English", "minmark": 4, "required": true}
+        "Entrance": ["AND",
+            ["OR",
+            {"subjectid": 2, "minmark": 40, "required": true},
+            {"subjectid": 21, "minmark": 70, "required": true}
+            ],
+            {"subjectid": 103, "minmark": 50, "required": true}
         ],
         "Duration": "4 years",
         "APS": 24
     },
     {
-        "QualificationID": "",
+        "QualificationID": 1500,
         "QualificationName": "Bachelor of Administration in Human Resources",
-        "Entrance": [
-            {"subjectid": "English", "minmark": 4, "required": true}
+        "Entrance": ["AND",
+            {"subjectid": 103, "minmark": 50, "required": true}
         ],
         "Duration": "3 years",
         "APS": 23
     },
     {
-        "QualificationID": "",
+        "QualificationID": 1505,
         "QualificationName": "Extended Bachelor of Administration in Human Resources",
-        "Entrance": [
-            {"subjectid": "English", "minmark": 4, "required": true}
+        "Entrance": ["AND",
+            {"subjectid": 103, "minmark": 50, "required": true}
         ],
         "Duration": "4 years",
         "APS": 21
     },
     {
-        "QualificationID": "",
+        "QualificationID": 1501,
         "QualificationName": "Bachelor of Administration in Industrial and Organisational Psychology",
-        "Entrance": [
-            {"subjectid": "English", "minmark": 4, "required": true}
+        "Entrance": ["AND",
+            {"subjectid": 103, "minmark": 50, "required": true}
         ],
         "Duration": "3 years",
         "APS": 23
     },
     {
-        "QualificationID": "",
+        "QualificationID": 803383437,
         "QualificationName": "Extended Bachelor of Administration in Industrial and Organisational Psychology",
-        "Entrance": [
-            {"subjectid": "English", "minmark": 4, "required": true}
+        "Entrance": ["AND",
+            {"subjectid": 103, "minmark": 50, "required": true}
         ],
         "Duration": "4 years",
         "APS": 21
     },
     {
-        "QualificationID": "",
+        "QualificationID": 339637504,
         "QualificationName": "Bachelor of Arts with Industrial and Organisational Psychology and Labour Relations Management",
-        "Entrance": [
-            {"subjectid": "Afrikaans", "minmark": 4, "required": true},
-            {"subjectid": "English", "minmark": 4, "required": true},
-            {"subjectid": "Mathematics", "minmark": 4, "required": true},
-            {"subjectid": "Mathematical Literacy", "minmark": 5, "required": true}
+        "Entrance": ["AND",
+            ["OR",
+             ["OR",
+            {
+                "subjectid": 9,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 53,
+                "minmark": 50,
+                "required": true
+            }],
+            {"subjectid": 103, "minmark": 50, "required": true}
+            ],
+            ["OR",
+            {"subjectid": 2, "minmark": 50, "required": true},
+            {"subjectid": 21, "minmark": 60, "required": true}
+            ]
         ],
         "Duration": "3 years",
         "APS": 26
     },
     {
-        "QualificationID": "",
+        "QualificationID": 179972056,
         "QualificationName": "Bachelor of Arts with Tourism Management",
-        "Entrance": [
-            {"subjectid": "Afrikaans", "minmark": 4, "required": true},
-            {"subjectid": "English", "minmark": 4, "required": true}
+        "Entrance": ["OR",
+             ["OR",
+            {
+                "subjectid": 9,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 53,
+                "minmark": 50,
+                "required": true
+            }],
+            {"subjectid": 103, "minmark": 50, "required": true}
         ],
         "Duration": "3 years",
         "APS": 22
     },
     {
-        "QualificationID": "",
+        "QualificationID": 594450787,
         "QualificationName": "Bachelor of Commerce in Management Sciences with Marketing and Tourism Management",
-        "Entrance": [
-            {"subjectid": "Mathematics", "minmark": 3, "required": true},
-            {"subjectid": "Mathematical Literacy", "minmark": 6, "required": true},
-            {"subjectid": "Afrikaans", "minmark": 4, "required": true},
-            {"subjectid": "English", "minmark": 4, "required": true}
+        "Entrance": ["AND",
+            ["OR",
+            {"subjectid": 2, "minmark": 40, "required": true},
+            {"subjectid": 21, "minmark": 70, "required": true}
+            ],
+            ["OR",
+             ["OR",
+            {
+                "subjectid": 9,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 53,
+                "minmark": 50,
+                "required": true
+            }],
+            {"subjectid": 103, "minmark": 50, "required": true}
+            ]
         ],
         "Duration": "3 years",
         "APS": 24
     },
     {
-        "QualificationID": "",
+        "QualificationID": 693606252,
         "QualificationName": "Bachelor of Commerce in Management Sciences with Tourism Management",
-        "Entrance": [
-            {"subjectid": "Mathematics", "minmark": 3, "required": true},
-            {"subjectid": "Language of instruction", "minmark": 4, "required": true}
+        "Entrance": ["AND",
+            {"subjectid": 2, "minmark": 40, "required": true},
+            ["OR",
+            {
+                "subjectid": 96,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 50,
+                "required": true
+            }]
         ],
         "Duration": "3 years",
         "APS": 24
     },
     {
-        "QualificationID": "",
+        "QualificationID": 786287209,
         "QualificationName": "Bachelor of Commerce in Management Sciences with Tourism and Recreation Skills",
-        "Entrance": [
-            {"subjectid": "Mathematics", "minmark": 3, "required": true},
-            {"subjectid": "Mathematical Literacy", "minmark": 6, "required": true},
-            {"subjectid": "Afrikaans", "minmark": 4, "required": true},
-            {"subjectid": "English", "minmark": 4, "required": true}
-        ],
+        "Entrance": ["AND",
+            ["OR",
+            {"subjectid": 2, "minmark": 40, "required": true},
+            {"subjectid": 21, "minmark": 70, "required": true}
+            ],
+            ["OR",
+             ["OR",
+            {
+                "subjectid": 9,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 53,
+                "minmark": 50,
+                "required": true
+            }],
+            {"subjectid": 103, "minmark": 50, "required": true}
+            ]
+        ]
+        ,
         "Duration": "3 years",
         "APS": 24
     },
     {
-        "QualificationID": "",
+        "QualificationID": 953432871,
         "QualificationName": "Bachelor of Commerce in Human Resource Management with Labour Relations Management",
-        "Entrance": [
-            {"subjectid": "Afrikaans", "minmark": 4, "required": true},
-            {"subjectid": "English", "minmark": 4, "required": true},
-            {"subjectid": "Mathematics", "minmark": 4, "required": true}
+        "Entrance": ["AND",
+            ["OR",
+             ["OR",
+            {
+                "subjectid": 9,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 53,
+                "minmark": 50,
+                "required": true
+            }],
+            {"subjectid": 103, "minmark": 50, "required": true}
+            ],
+            {"subjectid": 2, "minmark": 50, "required": true}
         ],
         "Duration": "3 years",
         "APS": 30
     },
     {
-        "QualificationID": "",
+        "QualificationID": 339637504,
         "QualificationName": "Bachelor of Commerce in Industrial and Organisational Psychology with Labour Relations Management",
-        "Entrance": [
-            {"subjectid": "Afrikaans", "minmark": 4, "required": true},
-            {"subjectid": "English", "minmark": 4, "required": true},
-            {"subjectid": "Mathematics", "minmark": 4, "required": true}
+        "Entrance": ["AND",
+            ["OR",
+             ["OR",
+            {
+                "subjectid": 9,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 53,
+                "minmark": 50,
+                "required": true
+            }],
+            {"subjectid": 103, "minmark": 50, "required": true}
+            ],
+            {"subjectid": 2, "minmark": 50, "required": true}
         ],
         "Duration": "3 years",
         "APS": 30
     },
     {
-        "QualificationID": "",
+        "QualificationID": 753071810,
         "QualificationName": "Bachelor of Commerce in Management Sciences with Business Management",
-        "Entrance": [
-            {"subjectid": "Mathematics", "minmark": 3, "required": true},
-            {"subjectid": "Afrikaans", "minmark": 4, "required": true},
-            {"subjectid": "English", "minmark": 4, "required": true}
+        "Entrance": ["AND",
+            {"subjectid": 2, "minmark": 40, "required": true},
+            ["OR",
+             ["OR",
+            {
+                "subjectid": 9,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 53,
+                "minmark": 50,
+                "required": true
+            }],
+            {"subjectid": 103, "minmark": 50, "required": true}
+            ]
         ],
         "Duration": "3 years",
         "APS": 24
     },
     {
-        "QualificationID": "",
+        "QualificationID": 291714418,
         "QualificationName": "Extended Bachelor of Commerce in Management Sciences with Business Management",
-        "Entrance": [
-            {"subjectid": "Mathematics", "minmark": 3, "required": true},
-            {"subjectid": "Mathematical Literacy", "minmark": 4, "required": true},
-            {"subjectid": "English", "minmark": 3, "required": true}
+        "Entrance": ["AND",
+            ["OR",
+            {"subjectid": 2, "minmark": 40, "required": true},
+            {"subjectid": 21, "minmark": 50, "required": true}
+            ],
+            {"subjectid": 103, "minmark": 40, "required": true}
         ],
         "Duration": "4 years",
         "APS": 20
     },
     {
-        "QualificationID": "",
+        "QualificationID": 890494770,
         "QualificationName": "Bachelor of Commerce in Management Sciences with Communication Management",
-        "Entrance": [
-            {"subjectid": "Mathematics", "minmark": 3, "required": true},
-            {"subjectid": "Mathematical Literacy", "minmark": 6, "required": true},
-            {"subjectid": "Afrikaans", "minmark": 4, "required": true},
-            {"subjectid": "English", "minmark": 4, "required": true}
+        "Entrance": ["AND",
+            ["OR",
+            {"subjectid": 2, "minmark": 40, "required": true},
+            {"subjectid": 21, "minmark": 70, "required": true}
+            ],
+            ["OR",
+             ["OR",
+            {
+                "subjectid": 9,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 53,
+                "minmark": 50,
+                "required": true
+            }],
+            {"subjectid": 103, "minmark": 50, "required": true}
+            ]
         ],
         "Duration": "3 years",
         "APS": 24
     },
     {
-        "QualificationID": "",
+        "QualificationID": 1510,
         "QualificationName": "Bachelor of Commerce in Management Sciences with Marketing Management",
-        "Entrance": [
-            {"subjectid": "Mathematics", "minmark": 3, "required": true},
-            {"subjectid": "Afrikaans", "minmark": 4, "required": true},
-            {"subjectid": "English", "minmark": 4, "required": true}
+        "Entrance": ["AND",
+            {"subjectid": 2, "minmark": 40, "required": true},
+            ["OR",
+             ["OR",
+            {
+                "subjectid": 9,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 53,
+                "minmark": 50,
+                "required": true
+            }],
+            {"subjectid": 103, "minmark": 50, "required": true}
+            ]
         ],
         "Duration": "3 years",
         "APS": 24
@@ -408,55 +628,87 @@
     {
         "QualificationID": "",
         "QualificationName": "Extended Bachelor of Commerce in Management Sciences with Marketing Management",
-        "Entrance": [
-            {"subjectid": "Mathematics", "minmark": 3, "required": true},
-            {"subjectid": "Mathematical Literacy", "minmark": 4, "required": true},
-            {"subjectid": "English", "minmark": 3, "required": true}
+        "Entrance": ["AND",
+            ["OR",
+            {"subjectid": 2, "minmark": 40, "required": true},
+            {"subjectid": 21, "minmark": 50, "required": true}
+            ],
+            {"subjectid": 103, "minmark": 40, "required": true}
         ],
         "Duration": "4 years",
         "APS": 20
     },
     {
-        "QualificationID": "",
+        "QualificationID": 552996623,
         "QualificationName": "Bachelor of Commerce in Management Sciences with Sport and Business Management",
-        "Entrance": [
-            {"subjectid": "Mathematics", "minmark": 3, "required": true},
-            {"subjectid": "Mathematical Literacy", "minmark": 6, "required": true},
-            {"subjectid": "Afrikaans", "minmark": 4, "required": true},
-            {"subjectid": "English", "minmark": 4, "required": true}
+        "Entrance": ["AND",
+            ["OR",
+            {"subjectid": 2, "minmark": 40, "required": true},
+            {"subjectid": 21, "minmark": 70, "required": true}
+            ],
+            ["OR",
+             ["OR",
+            {
+                "subjectid": 9,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 53,
+                "minmark": 50,
+                "required": true
+            }],
+            {"subjectid": 103, "minmark": 50, "required": true}
+            ]
         ],
         "Duration": "3 years",
         "APS": 24
     },
     {
-        "QualificationID": "",
+        "QualificationID": 974712846,
         "QualificationName": "Bachelor of Commerce in Management Sciences with Safety Management",
-        "Entrance": [
-            {"subjectid": "Mathematics", "minmark": 3, "required": true},
-            {"subjectid": "Mathematical Literacy", "minmark": 6, "required": true},
-            {"subjectid": "Afrikaans", "minmark": 4, "required": true},
-            {"subjectid": "English", "minmark": 4, "required": true}
+        "Entrance": ["AND",
+            ["OR",
+            {"subjectid": 2, "minmark": 40, "required": true},
+            {"subjectid": 21, "minmark": 70, "required": true}
+            ],
+            ["OR",
+             ["OR",
+            {
+                "subjectid": 9,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 53,
+                "minmark": 50,
+                "required": true
+            }],
+            {"subjectid": 103, "minmark": 50, "required": true}
+            ]
         ],
         "Duration": "3 years",
         "APS": 24
     },
     {
-        "QualificationID": "",
+        "QualificationID": 1502,
         "QualificationName": "Bachelor of Commerce in Information Systems",
-        "Entrance": [
-            {"subjectid": "Mathematics", "minmark": 4, "required": true},
-            {"subjectid": "English", "minmark": 4, "required": true}
+        "Entrance": ["AND",
+            {"subjectid": 2, "minmark": 50, "required": true},
+            {"subjectid": 103, "minmark": 50, "required": true}
         ],
         "Duration": "3 years",
         "APS": 26
     },
     {
-        "QualificationID": "",
+        "QualificationID": 6240,
         "QualificationName": "Extended Bachelor of Commerce in Information Systems",
-        "Entrance": [
-            {"subjectid": "Mathematics", "minmark": 3, "required": true},
-            {"subjectid": "Mathematical Literacy", "minmark": 4, "required": true},
-            {"subjectid": "English", "minmark": 3, "required": true}
+        "Entrance": ["AND",
+            ["OR",
+            {"subjectid": 2, "minmark": 40, "required": true},
+            {"subjectid": 21, "minmark": 50, "required": true}
+            ],
+            {"subjectid": 103, "minmark": 40, "required": true}
         ],
         "Duration": "4 years",
         "APS": 20

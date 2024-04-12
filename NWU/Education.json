@@ -1,0 +1,609 @@
+[
+    {
+        "QualificationID": 1,
+        "QualificationName": "BEd Early Childhood Care and Education (ECCE) (birth to four years)",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 96,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 60,
+                "required": true
+            }
+        ],
+        "Duration": "4 years",
+        "APS": 26
+    },
+    {
+        "QualificationID": 2,
+        "QualificationName": "Bachelor of Education (BEd) in Foundation Phase Grade R – 3",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 96,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        "Duration": "4 years",
+        "APS": 26
+    },
+    {
+        "QualificationID": 3,
+        "QualificationName": "Bachelor of Education (BEd) in Intermediate Phase Grade 4 – 6: with Mathematics, Science and Technology",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 96,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        "Duration": "4 years",
+        "APS": 26
+    },
+    {
+        "QualificationID": 4,
+        "QualificationName": "Bachelor of Education (BEd) in Intermediate Phase Grade 4 – 6: with Life Skills and Social Sciences",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 96,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        "Duration": "4 years",
+        "APS": 26
+    },
+    {
+        "QualificationID": 5,
+        "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Economics",
+        "Entrance": [
+            "OR",
+            {
+                "subjectid": 96,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        "Duration": "4 years",
+        "APS": 26
+    },
+    {
+        "QualificationID": 6,
+        "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with History",
+        "Entrance": [
+            "OR",
+            {
+                "subjectid": 96,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        "Duration": "4 years",
+        "APS": 26
+    },
+    {
+        "QualificationID": 7,
+        "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Business studies",
+        "Entrance": [
+            "OR",
+            {
+                "subjectid": 96,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        "Duration": "4 years",
+        "APS": 26
+    },
+    {
+        "QualificationID": 8,
+        "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with English",
+        "Entrance": [
+            "AND",
+            ["OR",
+            {
+                "subjectid": 43,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 60,
+                "required": true
+            }
+            ],
+            ["OR",
+            {
+                "subjectid": 97,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 96,
+                "minmark": 50,
+                "required": true
+            }
+            ]
+        ],
+        "Duration": "4 years",
+        "APS": 26
+    },
+    {
+        "QualificationID": 9,
+        "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Physical Science",
+        "Entrance": [
+            "AND",
+            ["OR",
+            {
+                "subjectid": 96,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 50,
+                "required": true
+            }
+            ],
+            {
+                "subjectid": 20,
+                "minmark": 50,
+                "required": true
+            },
+            ["OR",
+            {
+                "subjectid": 2,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 115,
+                "minmark": 60,
+                "required": true
+            }
+            ]
+        ],
+        "Duration": "4 years",
+        "APS": 26
+    },
+    {
+        "QualificationID": 10,
+        "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Accounting",
+        "Entrance": [
+            "AND",
+            ["OR",
+            {
+                "subjectid": 96,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 50,
+                "required": true
+            }
+            ],
+            {
+                "subjectid": 7,
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        "Duration": "4 years",
+        "APS": 26
+    },
+    {
+        "QualificationID": 11,
+        "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Mathematics",
+        "Entrance": [
+            "AND",
+            ["OR",
+            {
+                "subjectid": 96,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 50,
+                "required": true
+            }
+            ],
+            {
+                "subjectid": 2,
+                "minmark": 60,
+                "required": true
+            }
+        ],
+        "Duration": "4 years",
+        "APS": 26
+    },
+    {
+        "QualificationID": 12,
+        "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Afrikaans",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 9,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        "Duration": "4 years",
+        "APS": 26
+    },
+    {
+        "QualificationID": 13,
+        "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Life Sciences",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 96,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 19,
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        "Duration": "4 years",
+        "APS": 26
+    },
+    {
+        "QualificationID": 14,
+        "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Life Orientation",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 96,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 4,
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        "Duration": "4 years",
+        "APS": 26
+    },
+    {
+        "QualificationID": 15,
+        "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Engineering Graphics and Design",
+        "Entrance": [
+            "OR",
+            {
+                "subjectid": 96,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        "Duration": "4 years",
+        "APS": 26
+    },
+    {
+        "QualificationID": 16,
+        "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Computer Application Technology",
+        "Entrance": [
+            "OR",
+            {
+                "subjectid": 96,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        "Duration": "4 years",
+        "APS": 26
+    },
+    {
+        "QualificationID": 17,
+        "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Sesotho",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 48,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        "Duration": "4 years",
+        "APS": 26
+    },
+    {
+        "QualificationID": 18,
+        "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Mechanical technology",
+        "Entrance": 
+        [
+            "AND",
+            [
+                "AND",
+                {
+                    "subjectid": 96,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 97,
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            ["OR",
+            {
+                "subjectid": 2,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 115,
+                "minmark": 50,
+                "required": true
+            }
+        ]
+        ],
+        "Duration": "4 years",
+        "APS": 26
+    },
+    {
+        "QualificationID": 19,
+        "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Civil Technology",
+        "Entrance": 
+        [
+            "AND",
+            [
+                "AND",
+                {
+                    "subjectid": 96,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 97,
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            ["OR",
+            {
+                "subjectid": 2,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 115,
+                "minmark": 50,
+                "required": true
+            }
+        ]
+        ],
+        "Duration": "4 years",
+        "APS": 26
+    },
+    {
+        "QualificationID": 20,
+        "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Electrical technology",
+        "Entrance":
+        [
+            "AND",
+            [
+                "AND",
+                {
+                    "subjectid": 96,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 97,
+                    "minmark": 50,
+                    "required": true
+                }
+            ],
+            ["OR",
+            {
+                "subjectid": 2,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 115,
+                "minmark": 50,
+                "required": true
+            }
+        ]
+        ],
+        "Duration": "4 years",
+        "APS": 26
+    },
+    {
+        "QualificationID": 21,
+        "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Setswana",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 49,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        "Duration": "4 years",
+        "APS": 26
+    },
+    {
+        "QualificationID": 22,
+        "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Information Technology",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 96,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        "Duration": "4 years",
+        "APS": 26
+    },
+    {
+        "QualificationID": 23,
+        "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Art",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 96,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        "Duration": "4 years",
+        "APS": 26
+    },
+    {
+        "QualificationID": 24,
+        "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Mathematical Literacy",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 96,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 50,
+                "required": true
+            },
+            ["OR",
+            {
+                "subjectid": 2,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 60,
+                "required": true
+            }
+        ]
+        ],
+        "Duration": "4 years",
+        "APS": 26
+    },
+    {
+        "QualificationID": 25,
+        "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Geography",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 96,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        "Duration": "4 years",
+        "APS": 26
+    }
+]
