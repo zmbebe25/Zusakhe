@@ -1,0 +1,647 @@
+[
+    {
+        "QualificationID": 6405,
+        "QualificationName": "Diploma in Coaching Science: Sport Coaching",
+        "Entrance": ["OR",
+        {
+            "subjectid": 96,
+            "minmark": 60,
+            "required": true
+        },
+        {
+            "subjectid": 97,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        "Duration": "2 years",
+        "APS": 18
+    },
+    {
+        "QualificationID": 6406,
+        "QualificationName": "Bachelor of Health Sciences with Physiology and Biochemistry",
+        "Entrance": ["AND",
+            {
+                "subjectid": 2,
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": 20,
+                "minmark": 50,
+                "required": true
+            },
+            ["OR",
+                {
+                    "subjectid": 96,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 97,
+                    "minmark": 60,
+                    "required": true
+                }
+                ]
+        ],
+        "Duration": "3 years",
+        "APS": 26
+    },
+    {
+        "QualificationID":1969,
+        "QualificationName": "Bachelor of Health Sciences with Physiology and Psychology",
+        "Entrance": ["AND",
+            {
+                "subjectid": 2,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 20,
+                "minmark": 50,
+                "required": true
+            },
+            ["OR",
+                {
+                    "subjectid": 96,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 97,
+                    "minmark": 60,
+                    "required": true
+                }
+                ]
+        ],
+        "Duration": "3 years",
+        "APS": 26
+    },
+    {
+        "QualificationID": 1957,
+        "QualificationName": "Bachelor of Health Sciences with Sport Coaching and Human Movement Sciences",
+        "Entrance": ["OR",
+                        {
+                            "subjectid": 96,
+                            "minmark": 50,
+                            "required": true
+                        },
+                        {
+                            "subjectid": 97,
+                            "minmark": 50,
+                            "required": true
+                        }
+            ],
+        "Duration": "3 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 620430358,
+        "QualificationName": "Bachelor of Health Sciences with Recreation Science and Psychology",
+        "Entrance": ["OR",
+                        {
+                            "subjectid": 96,
+                            "minmark": 50,
+                            "required": true
+                        },
+                        {
+                            "subjectid": 97,
+                            "minmark": 50,
+                            "required": true
+                        }
+            ],
+        "Duration": "3 years",
+        "APS": 26
+    },
+    {
+        "QualificationID": 1960,
+        "QualificationName": "Bachelor of Health Sciences with Recreation Science and Tourism Management",
+        "Entrance": ["OR",
+                        {
+                            "subjectid": 96,
+                            "minmark": 50,
+                            "required": true
+                        },
+                        {
+                            "subjectid": 97,
+                            "minmark": 50,
+                            "required": true
+                        }
+            ],
+        "Duration": "3 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 682742917,
+        "QualificationName": "Bachelor of Health Sciences with Sport and Recreation Administration",
+        "Entrance": ["OR",
+                        {
+                            "subjectid": 96,
+                            "minmark": 50,
+                            "required": true
+                        },
+                        {
+                            "subjectid": 97,
+                            "minmark": 50,
+                            "required": true
+                        }
+            ],
+        "Duration": "3 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 1962,
+        "QualificationName": "Bachelor of Arts in Behavioural Sciences with Psychology and Labour Relations Management",
+        "Entrance": ["AND",
+            {
+                "subjectid": 2,
+                "minmark": 40,
+                "required": true
+            },
+            ["OR",
+                {
+                    "subjectid": 96,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 97,
+                    "minmark": 60,
+                    "required": true
+                }
+        ]
+        ],
+        "Duration": "3 years",
+        "APS": 26
+    },
+    {
+        "QualificationID": 1964,
+        "QualificationName": "Bachelor of Arts with Psychology and Geography and Environmental Management",
+        "Entrance": 
+        ["AND",
+            ["OR",
+                {
+                    "subjectid": 2,
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": 21,
+                    "minmark": 60,
+                    "required": true
+                }
+            ],
+            ["OR",
+                {
+                    "subjectid": 96,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 97,
+                    "minmark": 50,
+                    "required": true
+                }
+        ]
+        ],
+        "Duration": "3 years",
+        "APS": 26
+    },
+    {
+        "QualificationID": 1967,
+        "QualificationName": "Bachelor of Arts with Psychology and Tourism Management",
+        "Entrance": 
+        ["AND",
+            ["OR",
+                {
+                    "subjectid": 2,
+                    "minmark": 40,
+                    "required": true
+                },
+                {
+                    "subjectid": 21,
+                    "minmark": 60,
+                    "required": true
+                }
+            ],
+            ["OR",
+                {
+                    "subjectid": 96,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 97,
+                    "minmark": 50,
+                    "required": true
+                }
+        ]
+        ],
+        "Duration": "3 years",
+        "APS": 26
+    },
+    {
+        "QualificationID": 6416,
+        "QualificationName": "Bachelor of Social Sciences with Psychology",
+        "Entrance": ["OR",
+                        {
+                            "subjectid": 96,
+                            "minmark": 50,
+                            "required": true
+                        },
+                        {
+                            "subjectid": 97,
+                            "minmark": 50,
+                            "required": true
+                        }
+            ],
+        "Duration": "3 years",
+        "APS": 26
+    },
+    {
+        "QualificationID": 6409,
+        "QualificationName": "Bachelor of Consumer Studies",
+        "Entrance": 
+        ["AND",
+                ["OR",
+                            {
+                                "subjectid": 2,
+                                "minmark": 70,
+                                "required": true
+                            },
+                            {
+                                "subjectid": 20,
+                                "minmark": 70,
+                                "required": true
+                            },
+                            {
+                                "subjectid": 40,
+                                "minmark": 70,
+                                "required": true
+                            },
+                            {
+                                "subjectid": 19,
+                                "minmark": 70,
+                                "required": true
+                            }
+                ],
+                {
+                    "subjectid": 21,
+                    "minmark": 70,
+                    "required": true
+                }
+
+        ],
+        "Duration": "3 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 6410,
+        "QualificationName": "Bachelor of Consumer Sciences in Food Product Management with Food Communication",
+        "Entrance": 
+        ["AND",
+        ["OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 70,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 20,
+                        "minmark": 70,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 40,
+                        "minmark": 70,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 19,
+                        "minmark": 70,
+                        "required": true
+                    }
+        ],
+        {
+            "subjectid": 21,
+            "minmark": 70,
+            "required": true
+        },
+        ["OR",
+                        {
+                            "subjectid": 96,
+                            "minmark": 50,
+                            "required": true
+                        },
+                        {
+                            "subjectid": 97,
+                            "minmark": 50,
+                            "required": true
+                        }
+        ]
+
+        ],
+        "Duration": "3 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 6411,
+        "QualificationName": "Bachelor of Consumer Sciences in Food Product Management with Food Supply",
+        "Entrance": 
+        ["AND",
+        {
+            "subjectid": 2,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 20,
+            "minmark": 50,
+            "required": true
+        },
+        ["OR",
+        {
+            "subjectid":96,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 97,
+            "minmark": 50,
+            "required": true
+        }
+        ]
+
+        ],
+        "Duration": "3 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 6412,
+        "QualificationName": "Bachelor of Consumer Sciences in Fashion Retail Management with Fashion Communication",
+        "Entrance": 
+        ["AND",
+        ["OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 70,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 20,
+                        "minmark": 70,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 40,
+                        "minmark": 70,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 19,
+                        "minmark": 70,
+                        "required": true
+                    }
+        ],
+        {
+            "subjectid": 21,
+            "minmark": 70,
+            "required": true
+        },
+        ["OR",
+                        {
+                            "subjectid": 96,
+                            "minmark": 50,
+                            "required": true
+                        },
+                        {
+                            "subjectid": 97,
+                            "minmark": 50,
+                            "required": true
+                        }
+        ]
+
+        ],
+        "Duration": "3 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 336611466,
+        "QualificationName": "Bachelor of Consumer Sciences in Fashion Retail Management with Fashion Supply",
+        "Entrance": 
+        ["AND",
+        ["OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 50,
+                        "required": true
+                    }
+        ],
+        ["OR",
+                        {
+                            "subjectid": 96,
+                            "minmark": 50,
+                            "required": true
+                        },
+                        {
+                            "subjectid": 97,
+                            "minmark": 50,
+                            "required": true
+                        }
+        ]
+
+        ],
+        "Duration": "3 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 1973,
+        "QualificationName": "Bachelor of Social Work",
+        "Entrance": ["OR",
+                        {
+                            "subjectid": 96,
+                            "minmark": 50,
+                            "required": true
+                        },
+                        {
+                            "subjectid": 97,
+                            "minmark": 50,
+                            "required": true
+                        }
+            ],
+        "Duration": "3 years",
+        "APS": 18
+    },
+    {
+        "QualificationID": 1975,
+        "QualificationName": "Bachelor of Pharmacy",
+        "Entrance": 
+        ["AND",
+            {
+                "subjectid": 2,
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": 20,
+                "minmark": 60,
+                "required": true
+            },
+            ["OR",
+        {
+            "subjectid": 96,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 97,
+            "minmark": 50,
+            "required": true
+        }
+        ]
+        ],
+        "Duration": "4 years",
+        "APS": 32
+    },
+    {
+        "QualificationID": 6419,
+        "QualificationName": "Bachelor of Science in Dietetics",
+        "Entrance": ["AND",
+            {
+                "subjectid": 2,
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": 20,
+                "minmark": 60,
+                "required": true
+            },
+            ["OR",
+        {
+            "subjectid": 96,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 97,
+            "minmark": 50,
+            "required": true
+        }
+        ]
+        ],
+        "Duration": "4 years",
+        "APS": 18
+    },
+    {
+        "QualificationID": 6420,
+        "QualificationName": "Bachelor of Health Sciences in Occupational Hygiene",
+        "Entrance": ["AND",
+            {
+                "subjectid": 2,
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": 20,
+                "minmark": 60,
+                "required": true
+            },
+            ["OR",
+        {
+            "subjectid": 96,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 97,
+            "minmark": 50,
+            "required": true
+        }
+        ]
+        ],
+        "Duration": "4 years",
+        "APS": 27
+    },
+    {
+        "QualificationID": 6421,
+        "QualificationName": "Bachelor of Health Sciences in Biokinetics",
+        "Entrance": ["AND",
+            ["OR",
+            {
+                "subjectid": 2,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 50,
+                "required": true
+            }
+            ],
+            ["OR",
+            {
+                "subjectid": 20,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 19,
+                "minmark": 50,
+                "required": true
+            }
+            ],
+            ["OR",
+        {
+            "subjectid": 96,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 97,
+            "minmark": 50,
+            "required": true
+        }
+        ]
+        ],
+        "Duration": "4 years",
+        "APS": 32
+    },
+    {
+        "QualificationID": 6425,
+        "QualificationName": "Bachelor of Nursing",
+        "Entrance": ["AND",
+            ["OR",
+            {
+                "subjectid": 20,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 2,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 19,
+                "minmark": 50,
+                "required": true
+            }
+            ],
+            ["OR",
+            {
+                "subjectid": 96,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 50,
+                "required": true
+            }
+            ]
+        ],
+        "Duration": "4 years",
+        "APS": 18
+    }
+]
