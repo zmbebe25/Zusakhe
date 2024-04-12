@@ -19,7 +19,7 @@
         "APS": 26
     },
     {
-        "QualificationID": 2,
+        "QualificationID": 1497,
         "QualificationName": "Bachelor of Education (BEd) in Foundation Phase Grade R – 3",
         "Entrance": [
             "AND",
@@ -38,7 +38,7 @@
         "APS": 26
     },
     {
-        "QualificationID": 3,
+        "QualificationID":6699,
         "QualificationName": "Bachelor of Education (BEd) in Intermediate Phase Grade 4 – 6: with Mathematics, Science and Technology",
         "Entrance": [
             "AND",
@@ -57,7 +57,7 @@
         "APS": 26
     },
     {
-        "QualificationID": 4,
+        "QualificationID": 726551846,
         "QualificationName": "Bachelor of Education (BEd) in Intermediate Phase Grade 4 – 6: with Life Skills and Social Sciences",
         "Entrance": [
             "AND",
@@ -76,7 +76,7 @@
         "APS": 26
     },
     {
-        "QualificationID": 5,
+        "QualificationID": 1766,
         "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Economics",
         "Entrance": [
             "OR",
@@ -95,7 +95,7 @@
         "APS": 26
     },
     {
-        "QualificationID": 6,
+        "QualificationID": 106547679,
         "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with History",
         "Entrance": [
             "OR",
@@ -114,7 +114,7 @@
         "APS": 26
     },
     {
-        "QualificationID": 7,
+        "QualificationID": 380110829,
         "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Business studies",
         "Entrance": [
             "OR",
@@ -133,7 +133,7 @@
         "APS": 26
     },
     {
-        "QualificationID": 8,
+        "QualificationID": 778481092,
         "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with English",
         "Entrance": [
             "AND",
@@ -166,7 +166,7 @@
         "APS": 26
     },
     {
-        "QualificationID": 9,
+        "QualificationID": 532451332,
         "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Physical Science",
         "Entrance": [
             "AND",
@@ -204,7 +204,7 @@
         "APS": 26
     },
     {
-        "QualificationID": 10,
+        "QualificationID": 565679721,
         "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Accounting",
         "Entrance": [
             "AND",
@@ -230,7 +230,7 @@
         "APS": 26
     },
     {
-        "QualificationID": 11,
+        "QualificationID": 671411477,
         "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Mathematics",
         "Entrance": [
             "AND",
@@ -256,7 +256,7 @@
         "APS": 26
     },
     {
-        "QualificationID": 12,
+        "QualificationID": 900561305,
         "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Afrikaans",
         "Entrance": [
             "AND",
@@ -275,7 +275,7 @@
         "APS": 26
     },
     {
-        "QualificationID": 13,
+        "QualificationID": 412508728,
         "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Life Sciences",
         "Entrance": [
             "AND",
@@ -299,7 +299,7 @@
         "APS": 26
     },
     {
-        "QualificationID": 14,
+        "QualificationID": 255442811,
         "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Life Orientation",
         "Entrance": [
             "AND",
@@ -323,7 +323,7 @@
         "APS": 26
     },
     {
-        "QualificationID": 15,
+        "QualificationID": 980855913,
         "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Engineering Graphics and Design",
         "Entrance": [
             "OR",
@@ -342,7 +342,7 @@
         "APS": 26
     },
     {
-        "QualificationID": 16,
+        "QualificationID": 657400880,
         "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Computer Application Technology",
         "Entrance": [
             "OR",
@@ -361,7 +361,7 @@
         "APS": 26
     },
     {
-        "QualificationID": 17,
+        "QualificationID": 749713287,
         "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Sesotho",
         "Entrance": [
             "AND",
@@ -380,7 +380,7 @@
         "APS": 26
     },
     {
-        "QualificationID": 18,
+        "QualificationID": 104575298,
         "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Mechanical technology",
         "Entrance": 
         [
@@ -420,7 +420,7 @@
         "APS": 26
     },
     {
-        "QualificationID": 19,
+        "QualificationID": 660396453,
         "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Civil Technology",
         "Entrance": 
         [
@@ -460,7 +460,7 @@
         "APS": 26
     },
     {
-        "QualificationID": 20,
+        "QualificationID": 994385154,
         "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Electrical technology",
         "Entrance":
         [
@@ -500,7 +500,7 @@
         "APS": 26
     },
     {
-        "QualificationID": 21,
+        "QualificationID": 171897682,
         "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Setswana",
         "Entrance": [
             "AND",
@@ -519,7 +519,7 @@
         "APS": 26
     },
     {
-        "QualificationID": 22,
+        "QualificationID": 488779154,
         "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Information Technology",
         "Entrance": [
             "AND",
@@ -538,7 +538,7 @@
         "APS": 26
     },
     {
-        "QualificationID": 23,
+        "QualificationID": 173607963,
         "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Art",
         "Entrance": [
             "AND",
@@ -557,7 +557,7 @@
         "APS": 26
     },
     {
-        "QualificationID": 24,
+        "QualificationID": 431696827,
         "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Mathematical Literacy",
         "Entrance": [
             "AND",
@@ -588,7 +588,7 @@
         "APS": 26
     },
     {
-        "QualificationID": 25,
+        "QualificationID": 767618004,
         "QualificationName": "Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7 – 12: with Geography",
         "Entrance": [
             "AND",

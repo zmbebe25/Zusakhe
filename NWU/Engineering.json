@@ -1,0 +1,219 @@
+[
+    {
+        "QualificationID": 6698,
+        "QualificationName": "Bachelor of Engineering (BEng) in Chemical Engineering",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 2,
+                "minmark": 70,
+                "required": true
+            },
+            {
+                "subjectid": 20,
+                "minmark": 70,
+                "required": true
+            },
+            ["OR",
+            {
+                "subjectid": 96,
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 60,
+                "required": true
+            }
+            ]
+        ],
+        "Duration": "4 years",
+        "APS": 34
+    },
+    {
+        "QualificationID": 1951,
+        "QualificationName": "Bachelor of Engineering (BEng) in Electrical and Electronic Engineering",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 2,
+                "minmark": 70,
+                "required": true
+            },
+            {
+                "subjectid": 20,
+                "minmark": 70,
+                "required": true
+            },
+            ["OR",
+            {
+                "subjectid": 96,
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 60,
+                "required": true
+            }
+            ]
+        ],
+        "Duration": "4 years",
+        "APS": 34
+    },
+    {
+        "QualificationID": 1952,
+        "QualificationName": "Bachelor of Engineering (BEng) in Computer and Electronic Engineering",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 2,
+                "minmark": 70,
+                "required": true
+            },
+            {
+                "subjectid": 20,
+                "minmark": 70,
+                "required": true
+            },
+            ["OR",
+            {
+                "subjectid": 96,
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 60,
+                "required": true
+            }
+            ]
+        ],
+        "Duration": "4 years",
+        "APS": 34
+    },
+    {
+        "QualificationID": 1954,
+        "QualificationName": "Bachelor of Engineering (BEng) in Electromechanical Engineering",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 2,
+                "minmark": 70,
+                "required": true
+            },
+            {
+                "subjectid": 20,
+                "minmark": 70,
+                "required": true
+            },
+            ["OR",
+            {
+                "subjectid": 96,
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 60,
+                "required": true
+            }
+            ]
+        ],
+        "Duration": "4 years",
+        "APS": 34
+    },
+    {
+        "QualificationID": 1955,
+        "QualificationName": "Bachelor of Engineering (BEng) in Mechanical Engineering",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 2,
+                "minmark": 70,
+                "required": true
+            },
+            {
+                "subjectid": 20,
+                "minmark": 70,
+                "required": true
+            },
+            ["OR",
+            {
+                "subjectid": 96,
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 60,
+                "required": true
+            }
+            ]
+        ],
+        "Duration": "4 years",
+        "APS": 34
+    },
+    {
+        "QualificationID": 1953,
+        "QualificationName": "Bachelor of Engineering (BEng) in Industrial Engineering",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 2,
+                "minmark": 70,
+                "required": true
+            },
+            {
+                "subjectid": 20,
+                "minmark": 70,
+                "required": true
+            },
+            ["OR",
+            {
+                "subjectid": 96,
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 60,
+                "required": true
+            }
+            ]
+        ],
+        "Duration": "4 years",
+        "APS": 34
+    },
+    {
+        "QualificationID": 139098651,
+        "QualificationName": "Bachelor of Engineering (BEng) in Mechatronic Engineering",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 2,
+                "minmark": 70,
+                "required": true
+            },
+            {
+                "subjectid": 20,
+                "minmark": 70,
+                "required": true
+            },
+            ["OR",
+            {
+                "subjectid": 96,
+                "minmark": 60,
+                "required": true
+            },
+            {
+                "subjectid": 97,
+                "minmark": 60,
+                "required": true
+            }
+            ]
+        ],
+        "Duration": "4 years",
+        "APS": 34
+    }
+]
