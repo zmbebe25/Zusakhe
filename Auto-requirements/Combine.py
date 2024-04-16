@@ -17,14 +17,14 @@ def combine_files(file1, file2, file3, file4, file5, file6, file7, file8):
     return combined_code
 
 # Names of the files to be combined
-file1 = 'C:/Users/Zusakhe Mbebe/course-data/Zusakhe/Auto-requirements/Uj.py'
-file2 = 'C:/Users/Zusakhe Mbebe/course-data/Zusakhe/Auto-requirements/DeleteJson.py'
-file3 = 'C:/Users/Zusakhe Mbebe/course-data/Zusakhe/Auto-requirements/Keys.py'
-file4 = 'C:/Users/Zusakhe Mbebe/course-data/Zusakhe/Auto-requirements/Marks.py'
-file5 = 'C:/Users/Zusakhe Mbebe/course-data/Zusakhe/Auto-requirements/APS.py'
-file6 = 'C:/Users/Zusakhe Mbebe/course-data/Zusakhe/Auto-requirements/subject.py'
-file7 = 'C:/Users/Zusakhe Mbebe/course-data/Zusakhe/Auto-requirements/reverseWords.py'
-file8 = 'C:/Users/Zusakhe Mbebe/course-data/Zusakhe/Auto-requirements/ReverseDescription.py'
+file1 = 'C:/Users/Zusakhe Mbebe/Downloads/Zusakhe/NWU/Education.json'
+file2 = 'C:/Users/Zusakhe Mbebe/Downloads/Zusakhe/NWU/EMS.json'
+file3 = 'C:/Users/Zusakhe Mbebe/Downloads/Zusakhe/NWU/Engineering.json'
+file4 = 'C:/Users/Zusakhe Mbebe/Downloads/Zusakhe/NWU/Health Sciences.json'
+file5 = 'C:/Users/Zusakhe Mbebe/Downloads/Zusakhe/NWU/Humanities.json'
+file6 = 'C:/Users/Zusakhe Mbebe/Downloads/Zusakhe/NWU/Law.json'
+file7 = 'C:/Users/Zusakhe Mbebe/Downloads/Zusakhe/NWU/Natural Sciences.json'
+file8 = 'C:/Users/Zusakhe Mbebe/Downloads/Zusakhe/NWU/Theology.json'
 
 
 # Name of the file to save the combined code
