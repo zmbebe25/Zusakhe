@@ -1,0 +1,80 @@
+[
+    {
+        "QualificationID": 6436,
+        "QualificationName": "BA in Ancient Languages",
+        "Entrance": ["AND",
+            {
+                "subjectid": 103,
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        "Duration": "3 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 766961694,
+        "QualificationName": "BA in Pastoral Psychology",
+        "Entrance": ["AND",
+            {
+                "subjectid": 103,
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        "Duration": "3 years",
+        "APS": 26
+    },
+    {
+        "QualificationID": 6438,
+        "QualificationName": "Bachelor of Divinity (BDiv)",
+        "Entrance": ["AND",
+            {
+                "subjectid": 103,
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        "Duration": "4 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 976577703,
+        "QualificationName": "BTh with Bible Languages and Bible Translation",
+        "Entrance": ["AND",
+            {
+                "subjectid": 103,
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        "Duration": "3 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 6437,
+        "QualificationName": "BA in Pastoral Psychology",
+        "Entrance": ["AND",
+            {
+                "subjectid": 103,
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        "Duration": "4 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 6442,
+        "QualificationName": "BTh in Christian Ministry",
+        "Entrance": ["AND",
+            {
+                "subjectid": 103,
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        "Duration": "3 years",
+        "APS": 24
+    }
+]

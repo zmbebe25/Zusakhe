@@ -1,0 +1,74 @@
+[
+    {
+        "QualificationID": 6435,
+        "QualificationName": "Bachelor of Arts in Law (BA in Law) with Psychology",
+        "Entrance": ["AND",
+            ["OR",
+            {"subjectid": 97, "minmark": 60, "required": true},
+            {"subjectid": 96, "minmark": 60, "required": true}
+            ]
+        ],
+        "Duration": "3 years",
+        "APS": 28
+    },
+    {
+        "QualificationID": 6435,
+        "QualificationName": "Bachelor of Arts in Law (BA in Law) with Politics",
+        "Entrance": ["AND",
+            ["OR",
+            {"subjectid": 97, "minmark": 60, "required": true},
+            {"subjectid": 96, "minmark": 60, "required": true}
+            ]
+        ],
+        "Duration": "3 years",
+        "APS": 28
+    },
+    {
+        "QualificationID": 6435,
+        "QualificationName": "Bachelor of Arts in Law (BA in Law) with Industrial Psychology",
+        "Entrance": ["AND",
+            ["OR",
+            {"subjectid": 97, "minmark": 60, "required": true},
+            {"subjectid": 96, "minmark": 60, "required": true}
+            ]
+        ],
+        "Duration": "3 years",
+        "APS": 28
+    },
+    {
+        "QualificationID": 1767,
+        "QualificationName": "Bachelor of Commerce in Law (BCom in Law)",
+        "Entrance": ["AND",
+            ["OR",
+            {"subjectid": 97, "minmark": 60, "required": true},
+            {"subjectid": 96, "minmark": 60, "required": true}
+            ]
+        ],
+        "Duration": "3 years",
+        "APS": 30
+    },
+    {
+        "QualificationID": 1351,
+        "QualificationName": "Bachelors of Laws (LLB)",
+        "Entrance": ["AND",
+            ["OR",
+            {"subjectid": 97, "minmark": 60, "required": true},
+            {"subjectid": 96, "minmark": 60, "required": true}
+            ]
+        ],
+        "Duration": "4 years",
+        "APS": 30
+    },
+    {
+        "QualificationID": 6209,
+        "QualificationName": "Extended Bachelor of Laws (LLB)",
+        "Entrance": ["AND",
+            ["OR",
+            {"subjectid": 97, "minmark": 60, "required": true},
+            {"subjectid": 96, "minmark": 60, "required": true}
+            ]
+        ],
+        "Duration": "5 years",
+        "APS": 28
+    }
+]

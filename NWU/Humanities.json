@@ -1,0 +1,2094 @@
+[
+    {
+        "QualificationID": 6427,
+        "QualificationName": "Bachelor of Arts (BA) in Public Governance:with Public Administration",
+        "Entrance": [],
+        "Duration": "3 years",
+        "APS": 25
+    },
+    {
+        "QualificationID": 6427,
+        "QualificationName": "Bachelor of Arts (BA) in Public Governance:with Politics and Public Administration",
+        "Entrance": [],
+        "Duration": "3 years",
+        "APS": 25
+    },
+    {
+        "QualificationID": 6427,
+        "QualificationName": "Bachelor of Arts (BA) in Public Governance:with Public Administration and Social Studies",
+        "Entrance": [],
+        "Duration": "3 years",
+        "APS": 25
+    },
+    {
+        "QualificationID": 6427,
+        "QualificationName": "Bachelor of Arts (BA) in Public Governance:with Public Administration and Geography",
+        "Entrance": [],
+        "Duration": "3 years",
+        "APS": 25
+    },
+    {
+        "QualificationID": 6427,
+        "QualificationName": "Bachelor of Arts (BA) in Public Governance:with Public Administration and Labour Relations Management",
+        "Entrance": [],
+        "Duration": "3 years",
+        "APS": 25
+    },
+    {
+        "QualificationID": 6427,
+        "QualificationName": "Bachelor of Arts (BA) in Public Governance with Municipal Management and Leadership",
+        "Entrance":[],
+        "Duration": "3 years",
+        "APS": 25
+    },
+    {
+        "QualificationID": 6427,
+        "QualificationName": "Bachelor of Arts (BA) in Public Governance with Policing Practice",
+        "Entrance": ["AND",
+            {
+                "subjectid": 103,
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        "Duration": "3 years",
+        "APS": 25
+    },
+    {
+        "QualificationID": 218245705,
+        "QualificationName": "Bachelor of Social Sciences (BSocSc) with Political Studies and International Relations",
+        "Entrance":[],
+        "Duration": "3 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 1363,
+        "QualificationName": "Bachelor of Administration in Development and Management with Local Government Management",
+        "Entrance": ["AND",
+
+            {
+                "subjectid": 103,
+                "minmark": 50,
+                "required": true
+            },
+            ["OR",
+            {
+                "subjectid": 2,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 50,
+                "required": true
+            }
+            ]
+        ],
+        "Duration": "3 years",
+        "APS": 21
+    },
+    {
+        "QualificationID": 1363,
+        "QualificationName": "Extended Bachelor of Administration in Development and Management: with Local Government Management",
+        "Entrance": ["AND",
+
+            {
+                "subjectid": 103,
+                "minmark": 50,
+                "required": true
+            },
+            ["OR",
+            {
+                "subjectid": 2,
+                "minmark": 40,
+                "required": true
+            },
+            {
+                "subjectid": 21,
+                "minmark": 50,
+                "required": true
+            }
+            ]
+        ],
+        "Duration": "3 years",
+        "APS": 20
+    },
+    {
+        "QualificationID": 5283,
+        "QualificationName": "Bachelor of Arts (BA) in Communication",
+        "Entrance": ["AND",
+        {
+            "subjectid": 103,
+            "minmark": 60,
+            "required": true
+        }
+    ],
+        "Duration": "3 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 2012,
+        "QualificationName": "Bachelor of Arts (BA) in Graphic Design",
+        "Entrance": ["AND",
+            {
+                "subjectid": 103,
+                "minmark": 60,
+                "required": true
+            }
+    ],
+        "Duration": "4 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 2012,
+        "QualificationName": "Bachelor of Arts (BA) in Graphic Design with Communication",
+        "Entrance": ["AND",
+        {
+            "subjectid": 103,
+            "minmark": 60,
+            "required": true
+        }
+    ],
+        "Duration": "4 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 5280,
+        "QualificationName": "Bachelor of Arts (BA) in Language and Literary Studies",
+        "Entrance": ["AND",
+        {
+            "subjectid": 43,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 54,
+            "minmark": 60,
+            "required": true
+        }
+    ],
+        "Duration": "3 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 5280,
+        "QualificationName": "Bachelor of Arts (BA) in Language and Literary Studies with Languages",
+        "Entrance": 
+        ["OR",
+            ["OR",
+            {
+                "subjectid": 9,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 53,
+                "minmark": 60,
+                "required": true
+            }
+            ],
+            ["OR",
+            {
+                "subjectid": 43,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 54,
+                "minmark": 60,
+                "required": true
+            }
+            ],
+            ["OR",
+            {
+                "subjectid": 48,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 59,
+                "minmark": 60,
+                "required": true
+            }
+            ]
+            
+        ],
+    "Duration": "3 years",
+    "APS": 24
+    },
+    {
+        "QualificationID": 5280,
+        "QualificationName": "Bachelor of Arts (BA) in Language and Literary Studies with Language Practice ",
+        "Entrance": 
+        ["OR",
+        ["OR",
+        {
+            "subjectid": 9,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 53,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 43,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 54,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 48,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 59,
+            "minmark": 60,
+            "required": true
+        }
+        ]
+        
+    ],
+    "Duration": "3 years",
+    "APS": 24
+    },
+    {
+        "QualificationID": 5280,
+        "QualificationName": "Bachelor of Arts (BA) in Language and Literary Studies with Language Practice and Communication",
+        "Entrance": 
+        ["OR",
+        ["OR",
+        {
+            "subjectid": 9,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 53,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 43,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 54,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 48,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 59,
+            "minmark": 60,
+            "required": true
+        }
+        ]
+        
+    ],
+    "Duration": "3 years",
+    "APS": 24
+    },
+    {
+        "QualificationID": 5280,
+        "QualificationName": "Bachelor of Arts (BA) in Language and Literary Studies",
+        "Entrance": 
+        ["OR",
+        ["OR",
+        {
+            "subjectid": 9,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 53,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 43,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 54,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 47,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 58,
+            "minmark": 50,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 49,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 60,
+            "minmark": 50,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 48,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 59,
+            "minmark": 50,
+            "required": true
+        }
+        ]
+        
+    ],
+        "Duration": "3 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 2013,
+        "QualificationName": "Bachelor of Arts (BA) in Language Technology",
+        "Entrance":
+         ["AND",
+        {
+            "subjectid": 2,
+            "minmark": 60,
+            "required": true
+        },
+        ["OR",
+        ["OR",
+        {
+            "subjectid": 9,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 53,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 43,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 54,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 47,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 58,
+            "minmark": 50,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 49,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 60,
+            "minmark": 50,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 48,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 59,
+            "minmark": 50,
+            "required": true
+        }
+        ]
+    ]
+        
+    ],
+        "Duration": "3 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 2014,
+        "QualificationName": "Diploma in Music (DM)",
+        "Entrance": [
+            {
+                "subjectid": 103,
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        "Duration": "3 years",
+        "APS": 18
+    },
+    {
+        "QualificationID": 6428,
+        "QualificationName": "Bachelor of Arts (BA) in Music and Society",
+        "Entrance": [
+            {
+                "subjectid": 103,
+                "minmark": 50,
+                "required": true
+            }
+        ],
+        "Duration": "3 years",
+        "APS": 21
+    },
+    {
+        "QualificationID": 70,
+        "QualificationName": "Baccalaureus Musicae (BMus)",
+        "Entrance": [],
+        "Duration": "4 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 6432,
+        "QualificationName": "Bachelor of Philosophy (BPhil) with Philosophy, Politics and Economics",
+        "Entrance": [],
+        "Duration": "3 years",
+        "APS": 26
+    },
+    {
+        "QualificationID": 1360,
+        "QualificationName": "Bachelor of Arts (BA) Humanities with Afrikaans and Dutch",
+        "Entrance": ["OR",
+        {
+            "subjectid": 9,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 53,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        "Duration": "3 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 1362,
+        "QualificationName": "Bachelor of Arts (BA) Humanities with English",
+        "Entrance": ["OR",
+        {
+            "subjectid": 43,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 54,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        "Duration": "3 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 2007,
+        "QualificationName": "Bachelor of Arts (BA) Humanities with Setswana",
+        "Entrance":["OR",
+            {
+                "subjectid": 49,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 60,
+                "minmark": 60,
+                "required": true
+            }
+        ],
+        "Duration": "3 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 159792579,
+        "QualificationName": "Bachelor of Arts (BA) Humanities with Sesotho",
+        "Entrance": ["OR",
+        {
+            "subjectid": 48,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 59,
+            "minmark": 60,
+            "required": true
+        }
+    ],
+        "Duration": "3 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 2000,
+        "QualificationName": "Bachelor of Arts (BA) Humanities with Social Sciences",
+        "Entrance": 
+        ["AND",
+        ["OR",
+        ["OR",
+        {
+            "subjectid": 9,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 53,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 43,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 54,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 49,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 60,
+            "minmark": 50,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 48,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 59,
+            "minmark": 50,
+            "required": true
+        }
+        ]
+    ]
+        
+    ],
+        "Duration": "3 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 76,
+        "QualificationName": "Bachelor of Arts (BA) Humanities with Social Sciences",
+        "Entrance": 
+        ["AND",
+        ["OR",
+        ["OR",
+        {
+            "subjectid": 9,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 53,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 43,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 54,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 49,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 60,
+            "minmark": 50,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 48,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 59,
+            "minmark": 50,
+            "required": true
+        }
+        ]
+    ]
+        
+    ],
+        "Duration": "3 years"
+    },
+    {
+        "QualificationID": 1359,
+        "QualificationName": "Bachelor of Arts (BA) Humanities with Psychology",
+        "Entrance": 
+        ["AND",
+        ["OR",
+        ["OR",
+        {
+            "subjectid": 9,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 53,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 43,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 54,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 49,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 60,
+            "minmark": 50,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 48,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 59,
+            "minmark": 50,
+            "required": true
+        }
+        ]
+    ]
+        
+    ],
+        "Duration": "3 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 1352,
+        "QualificationName": "Bachelor of Arts (BA) Humanities with History",
+        "Entrance": 
+        ["AND",
+        ["OR",
+        ["OR",
+        {
+            "subjectid": 9,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 53,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 43,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 54,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 49,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 60,
+            "minmark": 50,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 48,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 59,
+            "minmark": 50,
+            "required": true
+        }
+        ]
+    ]
+        
+    ],
+        "Duration": "3 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 76,
+        "QualificationName": "Bachelor of Arts (BA) Humanities with Geography",
+        "Entrance": 
+        ["AND",
+        ["OR",
+        ["OR",
+        {
+            "subjectid": 9,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 53,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 43,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 54,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 49,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 60,
+            "minmark": 50,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 48,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 59,
+            "minmark": 50,
+            "required": true
+        }
+        ]
+    ]
+        
+    ],
+        "Duration": "3 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 1355,
+        "QualificationName": "Bachelor of Arts (BA) Humanities with French",
+        "Entrance": 
+        ["AND",
+        ["OR",
+        ["OR",
+        {
+            "subjectid": 9,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 53,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 43,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 54,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 49,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 60,
+            "minmark": 50,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 48,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 59,
+            "minmark": 50,
+            "required": true
+        }
+        ]
+    ]
+        
+    ],
+        "Duration": "3 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 2006,
+        "QualificationName": "Bachelor of Arts (BA) Humanities with German",
+        "Entrance": 
+        ["AND",
+        ["OR",
+        ["OR",
+        {
+            "subjectid": 9,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 53,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 43,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 54,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 49,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 60,
+            "minmark": 50,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 48,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 59,
+            "minmark": 50,
+            "required": true
+        }
+        ]
+    ]
+        
+    ],
+        "Duration": "3 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 1353,
+        "QualificationName": "Bachelor of Arts (BA) Humanities with History of Art",
+        "Entrance": 
+        ["AND",
+        ["OR",
+        ["OR",
+        {
+            "subjectid": 9,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 53,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 43,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 54,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 49,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 60,
+            "minmark": 50,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 48,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 59,
+            "minmark": 50,
+            "required": true
+        }
+        ]
+    ]
+        
+    ],
+        "Duration": "3 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 1998,
+        "QualificationName": "Bachelor of Arts (BA) Humanities with Latin",
+        "Entrance": 
+        ["AND",
+        ["OR",
+        ["OR",
+        {
+            "subjectid": 9,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 53,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 43,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 54,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 49,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 60,
+            "minmark": 50,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 48,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 59,
+            "minmark": 50,
+            "required": true
+        }
+        ]
+    ]
+        
+    ],
+        "Duration": "3 years",
+        "APS": 24
+    },{
+        "QualificationID": 1356,
+        "QualificationName": "Bachelor of Arts (BA) Humanities with Politics",
+        "Entrance": 
+        ["AND",
+        ["OR",
+        ["OR",
+        {
+            "subjectid": 9,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 53,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 43,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 54,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 49,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 60,
+            "minmark": 50,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 48,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 59,
+            "minmark": 50,
+            "required": true
+        }
+        ]
+    ]
+        
+    ],
+        "Duration": "3 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 76,
+        "QualificationName": "Bachelor of Arts (BA) Humanities with Social Anthropology",
+        "Entrance": 
+        ["AND",
+        ["OR",
+        ["OR",
+        {
+            "subjectid": 9,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 53,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 43,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 54,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 49,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 60,
+            "minmark": 50,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 48,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 59,
+            "minmark": 50,
+            "required": true
+        }
+        ]
+    ]
+        
+    ],
+        "Duration": "3 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 76,
+        "QualificationName": "Bachelor of Arts (BA) Humanities with Sociology",
+        "Entrance": 
+        ["AND",
+        ["OR",
+        ["OR",
+        {
+            "subjectid": 9,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 53,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 43,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 54,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 49,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 60,
+            "minmark": 50,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 48,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 59,
+            "minmark": 50,
+            "required": true
+        }
+        ]
+    ]
+        
+    ],
+        "Duration": "3 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 76,
+        "QualificationName": "Bachelor of Arts (BA) Humanities with Philosophy",
+        "Entrance": 
+        ["AND",
+        ["OR",
+        ["OR",
+        {
+            "subjectid": 9,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 53,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 43,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 54,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 49,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 60,
+            "minmark": 50,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 48,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 59,
+            "minmark": 50,
+            "required": true
+        }
+        ]
+    ]
+        
+    ],
+        "Duration": "3 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 76,
+        "QualificationName": "Bachelor of Arts (BA) Humanities with History and Society",
+        "Entrance": 
+        ["AND",
+        ["OR",
+        ["OR",
+        {
+            "subjectid": 9,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 53,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 43,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 54,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 49,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 60,
+            "minmark": 50,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 48,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 59,
+            "minmark": 50,
+            "required": true
+        }
+        ]
+    ]
+        
+    ],
+        "Duration": "3 years"
+    },
+    {
+        "QualificationID": 1357,
+        "QualificationName": "Bachelor of Arts (BA) Humanities with Psychology and Society",
+        "Entrance": 
+        ["AND",
+        ["OR",
+        ["OR",
+        {
+            "subjectid": 9,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 53,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 43,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 54,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 49,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 60,
+            "minmark": 50,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 48,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 59,
+            "minmark": 50,
+            "required": true
+        }
+        ]
+    ]
+        
+    ],
+        "Duration": "3 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 76,
+        "QualificationName": "Bachelor of Arts (BA) Humanities with Geography and Society",
+        "Entrance": 
+        ["AND",
+        ["OR",
+        ["OR",
+        {
+            "subjectid": 9,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 53,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 43,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 54,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 49,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 60,
+            "minmark": 50,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 48,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 59,
+            "minmark": 50,
+            "required": true
+        }
+        ]
+    ]
+        
+    ],
+        "Duration": "3 years"
+    },
+    {
+        "QualificationID": 76,
+        "QualificationName": "Bachelor of Arts (BA) Humanities with Politics and Society",
+        "Entrance": 
+        ["AND",
+        ["OR",
+        ["OR",
+        {
+            "subjectid": 9,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 53,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 43,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 54,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 49,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 60,
+            "minmark": 50,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 48,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 59,
+            "minmark": 50,
+            "required": true
+        }
+        ]
+    ]
+        
+    ],
+        "Duration": "3 years",
+        "APS": 24
+    },
+    {
+        "QualificationID": 77,
+        "QualificationName": "Bachelor of Social Sciences (BSocSc) with Development Studies",
+        "Entrance": 
+        ["AND",
+        ["OR",
+        ["OR",
+        {
+            "subjectid": 9,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 53,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 43,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 54,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 49,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 60,
+            "minmark": 50,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 48,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 59,
+            "minmark": 50,
+            "required": true
+        }
+        ]
+    ]
+        
+    ],
+        "Duration": "3 years",
+        "APS": 22
+    },
+    {
+        "QualificationID": 236451212,
+        "QualificationName": "Bachelor of Social Sciences (BSocSc) with Geography",
+        "Entrance": 
+        ["AND",
+        ["OR",
+        ["OR",
+        {
+            "subjectid": 9,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 53,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 43,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 54,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 49,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 60,
+            "minmark": 50,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 48,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 59,
+            "minmark": 50,
+            "required": true
+        }
+        ]
+    ]
+        
+    ],
+        "Duration": "3 years",
+        "APS": 22
+    },
+    {
+        "QualificationID": 716014716,
+        "QualificationName": "Bachelor of Social Sciences (BSocSc) with History",
+        "Entrance": 
+        ["AND",
+        ["OR",
+        ["OR",
+        {
+            "subjectid": 9,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 53,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 43,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 54,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 49,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 60,
+            "minmark": 50,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 48,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 59,
+            "minmark": 50,
+            "required": true
+        }
+        ]
+    ]
+        
+    ],
+        "Duration": "3 years",
+        "APS": 22
+    },
+    {
+        "QualificationID": 761988089,
+        "QualificationName": "Bachelor of Social Sciences (BSocSc) with Population Studies",
+        "Entrance": 
+        ["AND",
+        ["OR",
+        ["OR",
+        {
+            "subjectid": 9,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 53,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 43,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 54,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 49,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 60,
+            "minmark": 50,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 48,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 59,
+            "minmark": 50,
+            "required": true
+        }
+        ]
+    ]
+        
+    ],
+        "Duration": "3 years"
+    },
+    {
+        "QualificationID": 490239118,
+        "QualificationName": "Bachelor of Social Sciences (BSocSc) with Psychology and Social Sciences",
+        "Entrance": 
+        ["AND",
+        ["OR",
+        ["OR",
+        {
+            "subjectid": 9,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 53,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 43,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 54,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 49,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 60,
+            "minmark": 50,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 48,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 59,
+            "minmark": 50,
+            "required": true
+        }
+        ]
+    ]
+        
+    ],
+        "Duration": "3 years",
+        "APS": 22
+    },
+    {
+        "QualificationID": 433269802,
+        "QualificationName": "Bachelor of Social Sciences (BSocSc) with Social Anthropology",
+        "Entrance": 
+        ["AND",
+        ["OR",
+        ["OR",
+        {
+            "subjectid": 9,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 53,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 43,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 54,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 49,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 60,
+            "minmark": 50,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 48,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 59,
+            "minmark": 50,
+            "required": true
+        }
+        ]
+    ]
+        
+    ],
+        "Duration": "3 years"
+    },
+    {
+        "QualificationID": 138199055,
+        "QualificationName": "Bachelor of Social Sciences (BSocSc) with Sociology",
+        "Entrance": 
+        ["AND",
+        ["OR",
+        ["OR",
+        {
+            "subjectid": 9,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 53,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 43,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 54,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 49,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 60,
+            "minmark": 50,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 48,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 59,
+            "minmark": 50,
+            "required": true
+        }
+        ]
+    ]
+        
+    ],
+        "Duration": "3 years",
+        "APS": 22
+    },
+    {
+        "QualificationID": 754676411,
+        "QualificationName": "Bachelor of Social Sciences (BSocSc) with Economics",
+        "Entrance":   ["AND",
+        {
+            "subjectid": 2,
+            "minmark": 60,
+            "required": true
+        },
+        ["OR",
+        ["OR",
+        {
+            "subjectid": 9,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 53,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 43,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 54,
+            "minmark": 60,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 47,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 58,
+            "minmark": 50,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 49,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 60,
+            "minmark": 50,
+            "required": true
+        }
+        ],
+        ["OR",
+        {
+            "subjectid": 48,
+            "minmark": 50,
+            "required": true
+        },
+        {
+            "subjectid": 59,
+            "minmark": 50,
+            "required": true
+        }
+        ]
+    ]
+        
+    ],
+        "Duration": "3 years",
+        "APS": 22
+    },
+    {
+        "QualificationID": 2005,
+        "QualificationName": "Bachelor of Arts (BA) with Sociology and Geography",
+        "Entrance":   [],        
+        "Duration": "3 years",
+        "APS": 22
+    },
+    {
+        "QualificationID": 6429,
+        "QualificationName": "Bachelor of Arts (BA) with Sociology and Labour Relations Management",
+        "Entrance":   [],        
+        "Duration": "3 years",
+        "APS": 22
+    }
+]
