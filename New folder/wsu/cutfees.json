@@ -1,0 +1,302 @@
+[
+     {
+        "InstitutionID": 10,
+        "QualificationID": 594,
+        "QualificationName": "DIPLOMA IN LANGUAGE PRAC & MEDIA STUDIES",
+        "Fees": "R64,310"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 595,
+        "QualificationName": "DIPLOMA IN LANGUAGE PRAC & MEDIA STUDIES",
+        "Fees": "R64,310"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 596,
+        "QualificationName": "DIPLOMA IN DESIGN AND STUDIO",
+        "Fees": "R15,820"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 303666028,
+        "QualificationName": "BACHELOR OF EDUC IN FOUND",
+        "Fees": "R51,100"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 2059,
+        "QualificationName": "BED (SP& FET) COMPUTER",
+        "Fees": "R59,810"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 2057,
+        "QualificationName": "BED (SP&FET) ECO & MANAGEMENT",
+        "Fees": "R54,630"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 2058,
+        "QualificationName": "BED: (SP & FET) LANGUAGE EDUCATION",
+        "Fees": "R84,640"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 2062,
+        "QualificationName": "BED (SP & FET) MATHEMATICS",
+        "Fees": "R54,160"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 2060,
+        "QualificationName": "BED (SP&FET) NATURAL SCIENCES",
+        "Fees": "R54,570"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 2061,
+        "QualificationName": "BED (SP & FET) TECHNOLOGY",
+        "Fees": "R57,730"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 2058,
+        "QualificationName": "B ED: (FET): SPECIALISATION: LANGUAGES",
+        "Fees": "R56,530"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 2046,
+        "QualificationName": "HIGHER CERTIFICATE IN CONSTRUCTION",
+        "Fees": "R38,660"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 578,
+        "QualificationName": "HIGHER CERTIFICATE IN RENEWABLE ENERGY",
+        "Fees": "R38,990"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 807934862,
+        "QualificationName": "HIGHER CERTIFICATE IN MATHEMATICS FOR ENGINEERING TECHNOLOGY",
+        "Fees": "R42,840"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 422050008,
+        "QualificationName": "HIGHER CERTIFICATE IN INFORMATION TECHNOLOGY",
+        "Fees": "R29,799"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 6464,
+        "QualificationName": "DIPLOMA IN COMPUTER NETWORKING",
+        "Fees": "R31,729"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 770359311,
+        "QualificationName": "EXT DIPLOMA IN COMPUTER NETWORKING",
+        "Fees": "R24,400"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 577,
+        "QualificationName": "DIPLOMA IN ENG TECH IN CIVIL ENGINEERING",
+        "Fees": "R45,950"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 582,
+        "QualificationName": "DIPLOMA IN ENGINEERING TECH ELECTRICAL ENGINEERING",
+        "Fees": "R35,240"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 583,
+        "QualificationName": "DIPLOMA IN INFORMATION TECHNOLOGY",
+        "Fees": "R31,409"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 422050008,
+        "QualificationName": "EXT DIPLOMA IN INFORMATION TECHNOLOGY",
+        "Fees": "R26,820"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 584,
+        "QualificationName": "DIPLOMA IN ENG TECH IN MECHANICAL ENGINEERING",
+        "Fees": "R46,950"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 828447305,
+        "QualificationName": "B OF CONSTRUCTION IN HEALTH AND SAFETY",
+        "Fees": "R47,090"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 2047,
+        "QualificationName": "B OF CONSTR IN CONSTRUCTION MANAGEMENT",
+        "Fees": "R58,090"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 5912,
+        "QualificationName": "B OF CONSTRUCTION IN QUANTITY SURVEYING",
+        "Fees": "R60,640"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID":2050 ,
+        "QualificationName": "BACHELOR OF ENG TECH IN CIVIL ENGINEERIN",
+        "Fees": "R50,500"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 581,
+        "QualificationName": "BACHELOR OF ENGINEER TECH IN ELEC ENGINE",
+        "Fees": "R52,510"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID":2053 ,
+        "QualificationName": "BACHELOR ENG TECH IN MECHANICAL ENGINEERING",
+        "Fees": "R42,990"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 2051,
+        "QualificationName": "BSC HYDRO & WATER MANAGEMENT",
+        "Fees": "R32,780"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 2064,
+        "QualificationName": "HC COMMUNITY DEVELOPMENT WORK",
+        "Fees": "R29,630"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 6447,
+        "QualificationName": "DIPLOMA IN HUMAN RESOURCES MANAGEMENT",
+        "Fees": "R37,990"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 604,
+        "QualificationName": "DIPLOMA IN HOSPITALITY MANAGEMENT",
+        "Fees": "R64,400"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 6443,
+        "QualificationName": "EXT ECP DIPLOMA IN HOSPITALITY MANAGEMENT",
+        "Fees": "R26,340"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 6449,
+        "QualificationName": "DIPLOMA IN MARKETING MANAGEMENT",
+        "Fees": "R29,990"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 6431,
+        "QualificationName": "DIPLOMA IN OFFICE MANAGEMENT & TECHNOLOGY",
+        "Fees": "R48,570"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 603,
+        "QualificationName": "DIPLOMA PUBLIC MANAGEMENT",
+        "Fees": "R41,690"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 605,
+        "QualificationName": "DIPLOMA IN TOURISM MANAGEMENT",
+        "Fees": "R60,480"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 597,
+        "QualificationName": "BACHELOR OF MANAGEMENT SCIENCES IN ACCOUNTANCY",
+        "Fees": "R39,310"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 499355175,
+        "QualificationName": "BACHELOR OF MANAGEMENT SCIENCES IN ACCOUNTANCY ECP",
+        "Fees": "R15,820"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 601,
+        "QualificationName": "BACHELOR OF MANAGEMENT SCIENCES INTERNAL AUDITING",
+        "Fees": "R40,310"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 2055,
+        "QualificationName": "HIGHER CERTIFICATE IN DENTAL ASSISTING",
+        "Fees": "R50,810"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 585,
+        "QualificationName": "DIPLOMA IN AGRICULTURAL MANAGEMENT",
+        "Fees": "R49,570"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID":591 ,
+        "QualificationName": "DIPLOMA IN SOMATOLOGY",
+        "Fees": "R57,020"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": "",
+        "QualificationName": "EXT DIPLOMA IN SOMATOLOGY",
+        "Fees": "R32,220"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 6478,
+        "QualificationName": "BACHELOR OF HEALTH SCIE IN CLINICAL TECH",
+        "Fees": "R46,630"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": "",
+        "QualificationName": "EXT BACHELOR OF HEALTH SC IN CLINICAL TECH",
+        "Fees": "R36,100"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 592,
+        "QualificationName": "BACHELOR OF SCIENCE IN ENVIRON HEALTH",
+        "Fees": "R63,080"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID":156566208 ,
+        "QualificationName": "BHSc IN MEDICAL LABORATORY SCIENCES",
+        "Fees": "R53,070"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 420081751,
+        "QualificationName": "BHSc IN MEDICAL LABORATORY SCIENCES ECP",
+        "Fees": "R51,610"
+      },
+      {
+        "InstitutionID": 10,
+        "QualificationID": 588,
+        "QualificationName": "BACHELOR OF RADIOGRAPHY IN DIAGNOSTICS",
+        "Fees": "R40,820"
+      }
+]
