@@ -505,9 +505,8 @@
         "YCS121",
         "YSP111",
         "YSP121",
-        "ZUL119"
-    ],
-    "do_not_exist_in_json_data2": [
+        "ZUL119",
         "GNK684"
-    ]
+    ],
+    "do_not_exist_in_json_data2": []
 }

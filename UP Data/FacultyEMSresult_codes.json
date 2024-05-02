@@ -266,12 +266,13 @@
         "WTW381",
         "WTW382",
         "WTW383",
-        "WTW389"
-    ],
-    "do_not_exist_in_json_data2": [
+        "WTW389",
         "INF113",
         "OBR220",
         "STK162",
         "WTW364"
-    ]
+
+
+    ],
+    "do_not_exist_in_json_data2": []
 }

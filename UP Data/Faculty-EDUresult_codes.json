@@ -466,10 +466,10 @@
         "ZUL210",
         "ZUL211",
         "ZUL220",
-        "ZUL310"
-    ],
-    "do_not_exist_in_json_data2": [
+        "ZUL310",
         "JGL221",
         "JVK300"
-    ]
+
+    ],
+    "do_not_exist_in_json_data2": []
 }

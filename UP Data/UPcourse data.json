@@ -4611,45 +4611,49 @@
       "Institution": "University Of Pretoria"
     },
     {
-      "Name": "STK162",
-      "Code": "Statistics 162 ",
+      "Name": "Statistics 162",
+      "Code": "STK162",
       "Credit": 7,
       "NQF": 5,
       "Prerequisite": {
-        "$and": [
+        "$or": [
           {
-            "$or": [
-              {
-                "Code": "STK110"
-              },
+             "Code": "STK110"
+          }, 
+          {
+            "$and": [
               {
                 "Code": "STK113"
-              }
-            ]
-          },
-          {
-            "$or": [
+              },
               {
                 "Code": "STK123"
-              },
-              {
-                "Code": "STK133"
               }
             ]
           },
           {
-            "$or": [
+            "$and": [
               {
-                "Code": "STK143"
+                "Code": "STK133"
               },
               {
+                "Code": "STK143"
+              }
+            ]
+          },
+          {
+            "$and": [
+              {
                 "Code": "WST133"
+              },
+              {
+                "Code": "WST143"
               }
             ]
           }
         ]
       },
-      "Duration": "Quarter 1 and Quarter 4",
+      "Duration": "Quarter",
+      "Period":[1,4],
       "Description": "Statistical problem solving. Causality, experimental and observational data. Probability theory. Multivariate\nrandom variables. Discrete and continuous probability distributions. Stochastic representations. Measures of\nassociation. Expected values and conditional expectation. Simulation techniques. Supporting mathematical\nconcepts. Statistical concepts are demonstrated and interpreted through practical coding and simulation within\na data science framework.",
       "Institution": "University Of Pretoria"
     },
@@ -6490,8 +6494,8 @@
       "Institution": "University Of Pretoria"
     },
     {
-      "Name": "Biochemical engineering 310 ",
-      "Code": "CBI 310",
+      "Name": "Biochemical engineering 310",
+      "Code": "CBI310",
       "Credit": 16,
       "NQF": 7,
       "Prerequisite": {
@@ -6506,7 +6510,7 @@
             "Code": "WTW256"
           },
           {
-            "Code": " MPR213"
+            "Code": "MPR213"
           }
         ]
       },
@@ -7348,17 +7352,36 @@
       "Institution": "University Of Pretoria"
     },
     {
-      "Name": "Design project 421  ",
-      "Code": "CPJ 421",
+      "Name": "Design project 421",
+      "Code": "CPJ421",
       "Credit": 24,
       "NQF": 8,
       "Prerequisite": {
-        "$or": [
+        "$and": [
+          {
+            "Code": "CPB410"
+          },
+          {
+            "Code": "CRO410"
+          },
           {
             "Code": "CIO320"
           },
           {
-            "Code": "CPR420"
+            "Code": "CPS420#"
+          },
+          {
+            "Code": "CPR420#"
+          },
+          {
+            "$or": [
+              {
+                "Code": "BIE310"
+              },
+              {
+                "Code": "BSS310"
+              }
+            ]
           }
         ]
       },
@@ -10972,7 +10995,7 @@
       "Credit": 16,
       "NQF": 8,
       "Prerequisite": {
-        "Comment": "MVR320"
+        "Code": "MVR320"
       },
       "Duration": "Semester",
       "Period": [
@@ -11913,17 +11936,17 @@
       "Institution": "University Of Pretoria"
     },
     {
-      "Name": "Metals processing 411 ",
-      "Code": "NMM320",
+      "Name": "Metals processing 411",
+      "Code": "NPW411",
       "Credit": 16,
       "NQF": 8,
       "Prerequisite": {
         "$and": [
           {
-            "Code": "NMM320"
+            "Code": "NMC313"
           },
           {
-            "Code": "NMC313"
+            "Code": "NMM320"
           }
         ]
       },
@@ -15747,6 +15770,21 @@
       ],
       "Description": "Go neela baithuti kitso ya go dirisa Setswana Puo ya Gae go ruta dikgono, boitshwaro, le mesola ya go godisa\ntshimologo ya puiso le go kwala ya bana (litheresi). Lenaane thuto leno le dirisa mokgwa wa tsweleletso\nkakaretso, e le karolo ya Setswana Puo ya Gae go tsweleletsa kgolo ya bana ba mengwaga 0 9.\n",
       "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Katiso ya litheresi: Setswana 221",
+        "Code": "JGL221",
+        "Credit": 12,
+        "NQF": 6,
+        "Prerequisite": {
+          "Code": "JGL121"
+        },
+        "Duration": "Semester",
+        "Period": [
+          1
+        ],
+        "Description": "Mmojulo o o kaya dikgopolo tsa dipolelwana le diratswana go gatelela boleng jwa tsona mo go ithuteng Setswana Puo ya Gae. Mekgatlho e e farologaneng, e e leng ka ga thuta puo e rotloetsa bokwadi ba dibukana tsa baithuti. Mmojulo o o ikaeletse go fa baithuti kitso e e tlhokegang ya Setswana Puo ya Gae le Seesimane e le tsweleletso ya ntlha ya mmojulo wa JGL 110. Maikaelelo a mmojulo ke go rotloetsa baithuti go ipela le go nna dibui tsa maleba tsa Setswana.",
+        "Institution": "University of Pretoria"
     },
     {
       "Name": "Tsebo ya Literacy: Sepedi 122 ",
@@ -27662,9 +27700,24 @@
       ]
     },
     {
+        "Institution": "University Of Pretoria",
+        "Name": "Church and community 311",
+        "Code": "SHT311",
+        "NQF": 7,
+        "Credit": 10,
+        "Prerequisite": {
+          "Comment": "No prerequisites."
+        },
+        "Duration": "Semester",
+        "Period": [
+          1
+        ],
+        "Description":"Reflections on what it means to be church in the current context."
+      },
+    {
       "Institution": "University Of Pretoria",
       "Name": "Church and community 312",
-      "Code": "SHT311",
+      "Code": "SHT312",
       "NQF": 7,
       "Credit": 10,
       "Prerequisite": {
@@ -27673,7 +27726,8 @@
       "Duration": "Semester",
       "Period": [
         1
-      ]
+      ],
+      "Description":"Reflections on what it means to be church in the current context."
     },
     {
       "Institution": "University Of Pretoria",
@@ -28549,7 +28603,7 @@
       "Period": [
         1
       ],
-      "Description": "",
+      "Description": "TO BE UPDATED",
       "Institution": "University of Pretoria"
     },
     {
@@ -28564,7 +28618,7 @@
       "Period": [
         1
       ],
-      "Description": "",
+      "Description": "TO BE UPDATED",
       "Institution": "University of Pretoria"
     },
     {
@@ -28579,7 +28633,7 @@
       "Period": [
         1
       ],
-      "Description": "",
+      "Description": "TO BE UPDATED",
       "Institution": "University of Pretoria"
     },
     {
@@ -28594,7 +28648,7 @@
       "Period": [
         1
       ],
-      "Description": "",
+      "Description": "TO BE UPDATED",
       "Institution": "University of Pretoria"
     },
     {
@@ -29166,7 +29220,7 @@
       "Period": [
         1
       ],
-      "Description": "",
+      "Description": "TO BE UPDATED",
       "Institution": "University of Pretoria"
     },
     {
@@ -34070,7 +34124,7 @@
       "Period": [
         2
       ],
-      "Description": "",
+      "Description": "TO BE UPDATED",
       "Institution": "University of Pretoria"
     },
     {
@@ -34127,7 +34181,7 @@
       "Period": [
         2
       ],
-      "Description": "",
+      "Description": "TO BE UPDATED",
       "Institution": "University of Pretoria"
     },
     {
@@ -34225,7 +34279,7 @@
         ]
       },
       "Duration": "Year",
-      "Description": "",
+      "Description": "TO BE UPDATED",
       "Institution": "University of Pretoria"
     },
     {
@@ -34780,7 +34834,7 @@
       "Period": [
         2
       ],
-      "Description": "",
+      "Description": "TO BE UPDATED",
       "Institution": "University of Pretoria"
     },
     {
@@ -35585,7 +35639,7 @@
     },
     {
       "Name": "Internal medicine related sub-disciplines 684",
-      "Code": "GNK 684",
+      "Code": "GNK684",
       "Credit": 20,
       "NQF": 8,
       "Prerequisite": {
@@ -35613,11 +35667,11 @@
           }
         ]
       },
-      "Duration": "Semester and Semester",
+      "Duration": "Semester",
       "Period": [
-        1
+        1,2
       ],
-      "Description": "",
+      "Description": "TO BE UPDATED",
       "Institution": "University of Pretoria"
     },
     {
@@ -35983,7 +36037,7 @@
       "Period": [
         2
       ],
-      "Description": "",
+      "Description": "TO BE UPDATED",
       "Institution": "University of Pretoria"
     },
     {
@@ -36055,7 +36109,7 @@
       "Period": [
         1
       ],
-      "Description": "",
+      "Description": "TO BE UPDATED",
       "Institution": "University of Pretoria"
     },
     {
@@ -36758,7 +36812,7 @@
       "Period": [
         2
       ],
-      "Description": "",
+      "Description": "TO BE UPDATED",
       "Institution": "University of Pretoria"
     },
     {
@@ -40926,7 +40980,7 @@
         ]
       },
       "Duration": "Year",
-      "Description": "",
+      "Description": "TO BE UPDATED",
       "Institution": "University of Pretoria"
     },
     {
@@ -41054,7 +41108,7 @@
         ]
       },
       "Duration": "Year",
-      "Description": "",
+      "Description": "TO BE UPDATED",
       "Institution": "University of Pretoria"
     },
     {
@@ -41657,7 +41711,7 @@
       "Period": [
         1
       ],
-      "Description": "",
+      "Description": "TO BE UPDATED",
       "Institution": "University of Pretoria"
     },
     {
@@ -42133,7 +42187,7 @@
       "Period": [
         2
       ],
-      "Description": "",
+      "Description": "TO BE UPDATED",
       "Institution": "University of Pretoria"
     },
     {
@@ -42148,7 +42202,7 @@
       "Period": [
         2
       ],
-      "Description": "",
+      "Description": "TO BE UPDATED",
       "Institution": "University of Pretoria"
     },
     {
@@ -42194,7 +42248,7 @@
       "Period": [
         1
       ],
-      "Description": "",
+      "Description": "TO BE UPDATED",
       "Institution": "University of Pretoria"
     },
     {
@@ -42240,7 +42294,7 @@
       "Period": [
         2
       ],
-      "Description": "",
+      "Description": "TO BE UPDATED",
       "Institution": "University of Pretoria"
     },
     {
@@ -42255,7 +42309,7 @@
       "Period": [
         1
       ],
-      "Description": "",
+      "Description": "TO BE UPDATED",
       "Institution": "University of Pretoria"
     },
     {
@@ -42270,7 +42324,7 @@
       "Period": [
         1
       ],
-      "Description": "",
+      "Description": "TO BE UPDATED",
       "Institution": "University of Pretoria"
     },
     {
@@ -42285,7 +42339,7 @@
       "Period": [
         1
       ],
-      "Description": "",
+      "Description": "TO BE UPDATED",
       "Institution": "University of Pretoria"
     },
     {
@@ -42300,7 +42354,7 @@
       "Period": [
         2
       ],
-      "Description": "",
+      "Description": "TO BE UPDATED",
       "Institution": "University of Pretoria"
     },
     {
@@ -42315,7 +42369,7 @@
       "Period": [
         1
       ],
-      "Description": "",
+      "Description": "TO BE UPDATED",
       "Institution": "University of Pretoria"
     },
     {
@@ -42330,7 +42384,7 @@
       "Period": [
         1
       ],
-      "Description": "",
+      "Description": "TO BE UPDATED",
       "Institution": "University of Pretoria"
     },
     {
@@ -42927,7 +42981,7 @@
         ]
       },
       "Duration": "Year",
-      "Description": "",
+      "Description": "TO BE UPDATED",
       "Institution": "University of Pretoria"
     },
     {
@@ -42936,7 +42990,7 @@
       "Credit": 0,
       "NQF": 0,
       "Duration": "Year",
-      "Description": "",
+      "Description": "TO BE UPDATED",
       "Institution": "University of Pretoria"
     },
     {
@@ -43511,7 +43565,7 @@
       "Period": [
         2
       ],
-      "Description": "",
+      "Description": "TO BE UPDATED",
       "Institution": "University of Pretoria"
     },
     {
@@ -44573,6 +44627,1293 @@
       },
       "Duration": "Year",
       "Description": "No description",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "Information systems 113",
+      "Code": "INF113",
+      "Credit": 10,
+      "NQF": 5,
+      "Prerequisite": {
+        "Comment": "A candidate must have passed Mathematics with at least 5 (60-69%) in the Grade 12 examination. Only available to BCom (Informatics) Information Systems (07130173) or BIT(IS) (12133300) students."
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "Introduction to quantitative methods for Information systems to students.",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "Public management 220",
+      "Code": "OBR220",
+      "Credit": 12,
+      "NQF": 5,
+      "Prerequisite": {
+        "Comment": "No prerequisites."
+      },
+      "Duration": "Semester",
+      "Period": [
+        2
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "Financial engineering 364",
+      "Code": "WTW364",
+      "Credit": 18,
+      "NQF": 7,
+      "Prerequisite": {
+        "$and": [
+          {
+            "Code": "WST211"
+          },
+          {
+            "Code": "WTW124"
+          },
+          {
+            "Code": "WTW218"
+          },
+          {
+          "$or": [
+            {
+                "Code": "WTW286"
+            },
+            {
+                "Code": "WTW264"
+            }
+            ]
+          }
+
+          
+        ]
+      },
+      "Duration": "Semester",
+      "Period": [
+        2
+      ], 
+      "Description": "Discrete time financial models: Arbitrage and hedging; the binomial model. Continuous time financial models: The Black-Scholes formula; pricing of options and the other derivatives; interest rate models; numerical procedures.",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "Introduction to Spirituality 110",
+      "Code": "SRY110",
+      "Credit": 10,
+      "NQF": 5,
+      "Prerequisite": {
+        "Comment": "No prerequisites"
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "A general introduction to the forms of spirituality and the methods for studying and teaching spirituality.",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "Academic orientation 105",
+      "Code": "UPO 105",
+      "Credit": 0,
+      "NQF": 0,
+      "Duration": "Year",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "Teaching and learning of coding and robotics in the Foundation Phase 300",
+      "Code": "JVK300",
+      "Credit": 12,
+      "NQF": 7,
+      "Prerequisite": {
+        "Comment": "JST 320 (Natural Science and Technology in FP) and students must have completed and passed all mathematics and literacy practice modules in their 1st and 2nd years (including JGS 121, 211 and JGS 212, JGL 113, 213, 313, or JGL 110, 200, 311)."
+      },
+      "Duration": "Semester",
+      "Period": [
+        2
+      ], 
+      "Description": "● Demystifying coding and robotics for early childhood education pre-service teachers through an integrative approach, whereby teaching and learning is integrated to support pre-service teachers in their immediate contexts and provide them with the necessary background knowledge, skills and values related to Coding and Robotics in order to teach and transfer their knowledge to learners in the classroom. ● The teaching and learning approach is based on allowing accessibility to all students, through a transdisciplinary approach, whilst developing 21st century skills ● Introduce the history of Coding and Robotics in early childhood education and establish the place of Coding and Robotics in the curriculum, whilst highlighting the importance of the module, especially in early childhood education. ● Apply knowledge, skills and values of Coding and Robotics in early childhood education through a play-based, activity-based approach, whilst accentuating the relevance and importance of perceptual development ● Activate critical and creative thinking through collaborative thinking and reasoning, and highlight the importance of dynamic problem solving",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "Industrial logistics 320",
+      "Code": "BLK320",
+      "Credit": 16,
+      "NQF": 7,
+      "Prerequisite": {
+        "Comment": "(BOB 310) and admission into relevant programme"
+      },
+      "Duration": "Semester",
+      "Period": [
+        2
+      ], 
+      "Description": "Role of logistics in the economy and organisation. Customer service. Forecasting. Logistics information systems and electronic information flow. Inventory management. Managing materials flow. Distribution channels. Transportation. Warehousing. Packaging. Strategic purchasing. Global logistics. Organising and controlling logistics. Supply chain management. Supply chain finance and performance measurement. SCOR reference models. Implementing logistics strategy.",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "Operational research 410",
+      "Code": "BON410",
+      "Credit": 16,
+      "NQF": 8,
+      "Prerequisite": {
+        "Comment": "(BES 220), (BOZ 312), admission to relevant programme"
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "Review of basic probability, Markov chain models, Markov decision models. Queuing systems: M/M/1 queues (both finite and infinite capacity), etc.; deterministic and stochastic inventory models. Competitive games: pure and mixed strategies, optimum strategy, two-person zero-sum games, graphical methods and applications, LP methods for games. Forecasting: time series problems, different methods of forecasting.",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "Simulation modelling 321",
+      "Code": "BUY321",
+      "Credit": 16,
+      "NQF": 7,
+      "Prerequisite": {
+        "Comment": "(BAN 313), admission to relevant programme"
+      },
+      "Duration": "Semester",
+      "Period": [
+        2
+      ], 
+      "Description": "Introduction to simulation as technique. Simulation methodology. Formulation of problem situations by means of simulation models with the emphasis on discrete models. Input and output analysis. Introduction to simulation software.",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "Particle technology 410",
+      "Code": "CPA410",
+      "Credit": 16,
+      "NQF": 8,
+      "Prerequisite": {
+        "Comment": "(COP 311) and admission into relevant programme."
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "Humidification and dehumidification of air. Water cooling, drying, crystallisation, ion exchange, particle technology, particle movement in a fluid, sedimentation. Hydrocyclones, flotation, filtration. Centrifuges. Fluidised bed technology. Mixing. Comminution. Pneumatic transport.",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "Thermodynamics 223",
+      "Code": "CTD223",
+      "Credit": 16,
+      "NQF": 6,
+      "Prerequisite": {
+        "Comment": "CIR 211, (MPR 213), (WTW 258), admission to relevant programme"
+      },
+      "Duration": "Semester",
+      "Period": [
+        2
+      ], 
+      "Description": "Simple applications of the first and second laws of thermodynamics. The concepts of work, heat, enthalpy and entropy. The calculation of internal energy, enthalpy and entropy using the equations of state. Simple heat engine cycles. Refrigeration and gas liquefaction. Process efficiency by means of energy. Introduction to nonideality in VLE and mixing behaviour.",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "Introduction to sustainable engineering I",
+      "Code": "JSU110",
+      "Credit": 8,
+      "NQF": 5,
+      "Prerequisite": {
+        "Comment": "No prerequisites."
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "Introduction to fundamentals of engineering, professional development of engineers and sustainability practices. This module is intended to introduce students engineering, sustainability, design, technical communication and academic writing, as well as other engineering professional practices and skill sets necessary for your future employability. Technical communication in most cases can be broken down into writing, technical argument, and explanation, data visualisation as well as presentations. Specific components will include (but are not limited to) the following: an introduction to your chosen engineering discipline, ethics and sustainability, industry standards and professional conduct, teamworking, leadership, project management, career preparation and employability.",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "Introduction to sustainable engineering II 120",
+      "Code": "JSU120",
+      "Credit": 8,
+      "NQF": 5,
+      "Prerequisite": {
+        "Comment": "No prerequisites."
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "Introduction to fundamentals of engineering, professional development of engineers and sustainability practices. This module is intended to further expose students to engineering, sustainability (social, economic and environmental) implications on design as well as appropriate technical communication practices. Specific components will include (but are not limited to) the following: an introduction to your chosen engineering discipline, the design process, critical, creative and entrepreneurial thinking, decisionmaking, problem solving, ethics and sustainability, industry standards and professional conduct, teamworking, leadership, project management, career preparation and employability.",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "Engineering activity and group work 320",
+      "Code": "MIA320",
+      "Credit": 8,
+      "NQF": 7,
+      "Prerequisite": {
+        "$or": [
+            {
+              "Code": "CJJ310"
+            },
+            {
+              "Code": "EJJ210"
+            },
+            {
+              "Code": "BJJ210"
+            },
+            {
+              "Code": "MJJ210"
+            },
+            {
+              "Code": "NJJ210"
+            },
+            {
+              "Code": "PJJ210"
+            }
+  
+            
+          ]
+      },
+      "Duration": "Semester",
+      "Period": [
+        2
+      ], 
+      "Description": "Two exit-level Graduate Attributes (GAs) of ECSA are addressed and each must be passed in the same semester. GA7: Demonstrate critical awareness of the impact of engineering activity on the social, industrial and physical environment. The history of engineering globally and in South Africa. Most important engineering projects globally and in South Africa. The impact of technology on society. Occupational and public health and safety. Occupational Health and Safety Act. Impacts on the physical environment. The personal, social, cultural values and requirements of those affected by engineering activity. The combination of social, workplace (industrial) and physical environmental factors are appropriate to the discipline of the qualification. GA8: Demonstrate competence to work effectively on a small project as an individual, in teams and in multidisciplinary environments. Identifies and focuses on objectives. Works strategically. Executes tasks effectively. Delivers completed work on time. Effective teamwork: Makes individual contribution to team activity; performs critical functions; enhances work of fellow team members; benefits from support of team members; communicates effectively with team members; delivers completed work on time. Multidisciplinary work by the following: Acquires a working knowledge of co-worker’s discipline; uses a systems-engineering approach; communicates across disciplinary boundaries. Report and presentation on team project. Tasks require co-operation across at least one disciplinary boundary. Students acquire a working knowledge of co-worker’s discipline. Students communicate between disciplinary boundaries.",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "Machine design 312",
+      "Code": "MOW312",
+      "Credit": 16,
+      "NQF": 7,
+      "Prerequisite": {
+        "$and": [
+            {
+                "Code": "MOW217"
+            },
+            {
+            "Code": "MOW227"
+            }
+        ]
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "Within the framework of system engineering the following themes are integrated into the design process: Ergonomics, pressure vessels, structural design, welding and bonding, heat treatment, non-destructive testing, gears, contact stresses and lubrication. Energy systems, safety factors and load factors are considered throughout all themes. Assignments involve open-ended subsystem designs involving pressure vessels and gear systems.",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "Simulation-based design 323",
+      "Code": "MOW323",
+      "Credit": 16,
+      "NQF": 7,
+      "Prerequisite": {
+        "$and": [
+            {
+                "Code": "MSD210"
+            },
+            {
+                "Code": "MOW227"
+            }
+        ]
+      },
+      "Duration": "Semester",
+      "Period": [
+        2
+      ], 
+      "Description": "Design of static and dynamic mechanical systems. Computational models for mechanical design. Model fidelity and additional modelling considerations. Systems engineering and functional analysis. Open-ended multidisciplinary design and design improvement of products and systems using engineering software.",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "Structural mechanics 310",
+      "Code": "MSY310",
+      "Credit": 16,
+      "NQF": 7,
+      "Prerequisite": {
+        "$and": [
+            {
+                "Code": "MOW227"
+            },
+            {
+                "Code": "WTW256"
+            }
+        ]
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "Introduction of stress tensor. 3D stress and strain transformation. Eigenvalue/vector analysis for principal stresses and strains. Experimental strain measurements. Stress-strain relations. Strain energy. Thin-walled cylinders. Statically indeterminate stress systems. Bending stress, slope and deflection of beams, shear center, non-symmetric beams, composite beams, Castigliano’s theorem. Statically indeterminate beams. Buckling instability. Yield criteria. Elementary plasticity. Structural streel design SANS code. Fracture mechanics. Fatigue.",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "Thermal and fluid machines 420",
+      "Code": "MTV420",
+      "Credit": 16,
+      "NQF": 8,
+      "Prerequisite": {
+        "$and": [
+            {
+                "Code": "MTV310"
+            },
+            {
+                "Code": "MTX311"
+            }
+        ]
+      },
+      "Duration": "Semester",
+      "Period": [
+        2
+      ], 
+      "Description": "Rotary Turbomachines: Fundamental principles of fluid dynamics and thermodynamics applicable to the rotating turbomachinery components i.e. gas and steam turbines, compressors, hydraulic turbines, and pumps. Classifications and basic components in turbomachines. Euler equations for turbines, compressors, and pumps. Estimations of work and power, and thermal energy losses and efficiencies in turbomachinery components. Basic theory for wind turbine power and Betz's method. Power Cycles: Fundamental principles of fluid dynamics and thermodynamics applicable to the steam and gas turbine power cycles, internal combustion engine cycles, and reciprocating compressor cycles. Basic components in steam and gas turbine power plants. Power estimations in conventional power cycles, combined cycles, binary cycles, cogeneration plants, and organic Rankine cycles. Thermal energy losses and efficiencies in power cycles. Air-flow duct network and fan selection curves for duct system",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "Vibration and noise 320",
+      "Code": "MVR320",
+      "Credit": 16,
+      "NQF": 7,
+      "Prerequisite": {
+        "Code": "MSD210"
+      },
+      "Duration": "Semester",
+      "Period": [
+        2
+      ], 
+      "Description": "Introduction to vibration: basic concepts, classification, modelling elements. Single degree of freedom systems: undamped and damped free vibration, undamped and damped harmonic motion, non-periodic excitation, numerical integration. Multidegree of freedom systems: discretisation, eigenproblem, co-ordinate coupling. Vibration control: balancing, isolation, absorbers. Vibration and sound measurement: signal analysis, modal testing, vibration monitoring. Continuum systems: string, bar, rod. Sound and noise: metrics, measurement, legislation.",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "Hydrometallurgy 412",
+      "Code": "NHM412",
+      "Credit": 16,
+      "NQF": 8,
+      "Prerequisite": {
+        "Code": "NHM322"
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "Extraction routes and the extractive metallurgy of metals such as gold, copper, zinc, manganese, nickel, cobalt, uranium and the platinum group elements, from ores and secondary sources. Application of thermodynamics and reaction kinetics (including laboratory kinetic data) in understanding and optimisation of extraction routes, and sizing of reactors. Environmental impact of processing routes.",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "Materials science 313",
+      "Code": "NMC313",
+      "Credit": 16,
+      "NQF": 7,
+      "Prerequisite": {
+        "Code": "NMC223"
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "Binary and ternary phase diagrams. Diffusion in alloys (steady-state and nonsteady-state, solid solutions, grain boundaries, homogenisation). Solidification (pure metals and alloys; ingots, castings and welds; segregation, porosity and eutectic solidification). Metallographic and analytical techniques (diffraction, electron microscopy). Precipitation and solid-solution strengthening (principles, and applications to aluminium, magnesium, copper and nickel-base alloys).",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "Process design 421",
+      "Code": "NOP421",
+      "Credit": 32,
+      "NQF": 8,
+      "Prerequisite": {
+        "Code": "NMP411"
+      },
+      "Duration": "Semester",
+      "Period": [
+        2
+      ], 
+      "Description": "Philosophy of design and the design process; phases of plant design and their interrelationships. Principles of project planning and management. Unit and process design, simulation, economic evaluation and optimising as applicable to the metallurgical industry. Execution of a process design project, submission of a report, oral presentations and construction of a scale model.",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "Research project 400",
+      "Code": "NSC400",
+      "Credit": 40,
+      "NQF": 8,
+      "Prerequisite": {
+        "$or": [
+            {
+                "Code": "NHM322"
+            },
+            {
+                "Code": "NMM320"
+            },
+            {
+                "Code": "NPM321"
+            },
+            {
+                "Code": "NVM321"
+            }
+        ]
+      },
+      "Duration": "Year", 
+      "Description": "Literature search (using electronic databases of publications, formulating search strategies). Hypothesis formulation and preliminary experimental planning (identifying research question and stating hypothesis, proposing critical experiments, evaluating feasibility of possible experimental approaches). Literature survey (critical evaluation of published information, synthesising available information into a coherent argument, written and oral reporting). Final experimental planning (formulation of experiments with attention to calibration, uncertainty, reliability and safety). Execution of a research project: experimentation (with attention to safety, reliability, calibration and reproducibility); analysis of results to yield data (with statistical analysis of uncertainty); interpretation of data (to test the stated hypothesis); written reporting of results (with updated literature survey, description of experimental approach, data obtained, conclusions, and scientific and industrial implications); oral and poster presentations.",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "Civil engineering measurement techniques 321",
+      "Code": "SBZ321",
+      "Credit": 8,
+      "NQF": 7,
+      "Prerequisite": {
+        "Code": "SWK210"
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "Measurement instruments and measurement techniques used in engineering applications. Theory of the Wheatstone bridge and the application of strain gauges to measurement instruments. Accuracy, precision, resolution, hysteresis and linearity. Mechanical, hydraulic and electrical measurement instruments including load cells, pressure sensors, displacement transducers, vibration sensors, stress cells and inclinometers. Use of Arduino micro controller to read, log and plot sensor data. Elementary site survey and levelling. Coordinate systems and global positioning systems. Civil engineering monitoring programmes including planning, execution, data interpretation and reporting.",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "Civil engineering construction management 420",
+      "Code": "SBZ420",
+      "Credit": 16,
+      "NQF": 8,
+      "Prerequisite": {
+        "Code": "SVC412"
+      },
+      "Duration": "Semester",
+      "Period": [
+        2
+      ], 
+      "Description": "Planning, needs assessment and performance indicators for contracts. Civil Engineering Project: client, consultant and contractors expectations and responsibilities. Tender process, construction process, application of OHS Act and Mine, Health and Safety Act, conditions of contract and claims, insurances, engineering economics, programming, costing, 1509001: quality management systems, life cycle concepts, maintenance cycle, maintenance management.",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "Geotechnical engineering 323",
+      "Code": "SGM323",
+      "Credit": 16,
+      "NQF": 7,
+      "Prerequisite": {
+        "Code": "SGM311"
+      },
+      "Duration": "Semester",
+      "Period": [
+        2
+      ], 
+      "Description": "Application of consolidation theory. Bearing capacity of soil and foundation design, Terzaghi and general methods. Horizontal stresses in soil and design of retaining structures, Rankine and Couloumb’s methods. Slope stability including Bishop’s method of slices. Introduction to site investigation.",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "Hydraulics 321",
+      "Code": "SHC321",
+      "Credit": 16,
+      "NQF": 7,
+      "Prerequisite": {
+        "Code": "SHC310"
+      },
+      "Duration": "Semester",
+      "Period": [
+        2
+      ], 
+      "Description": "Pipe network analyses and municipal services. Components of water distribution networks. Pump selection and water hammer analyses. Free surface flows and model analyses.",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "Hydraulics 410",
+      "Code": "SHC410",
+      "Credit": 16,
+      "NQF": 8,
+      "Prerequisite": {
+        "Comment": "(SHC 310), SHC 321 GS, admission to relevant programme"
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "Sediment transportation, hydraulic structures, bridges and culvert hydraulics, stormwater handling. Hydrology, flood hydrology, creation of runoff records and the simulation of surface water resources, creation of stochastic sequences and the reliability analysis of surface water resources and dam safety.",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "Reinforced concrete design 324",
+      "Code": "SIN324",
+      "Credit": 8,
+      "NQF": 7,
+      "Prerequisite": {
+        "Code": "SIN311"
+      },
+      "Duration": "Semester",
+      "Period": [
+        2
+      ], 
+      "Description": "Properties of reinforced concrete. Principles of limit states design. Analysis and design of sections in flexure and in compression combined with flexure. Design for shear and torsion. Bond and anchorage. Serviceability requirements: Detailing and span-effective depth ratios. Design of footings and short columns. Simple footings and stairs.",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "Steel design 411",
+      "Code": "SIN411",
+      "Credit": 8,
+      "NQF": 8,
+      "Prerequisite": {
+        "Code": "SIN323"
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "Analysis and design composite steel beam and concrete slab construction, Moment connections, Elastic and plastic design of portal, industrial and building structures.",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "Reinforced concrete design 413",
+      "Code": "SIN413",
+      "Credit": 8,
+      "NQF": 8,
+      "Prerequisite": {
+        "Code": "SIN324"
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "Behaviour and design of beams, slabs (solid, ribbed and waffle slabs, flat plates and flat slabs), columns (slender columns and biaxial bending), footings (simple and combined footings) and stairs. Introduction to the design of prestressed concrete flexural members.",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "Industry-based learning 400",
+      "Code": "SIT400",
+      "Credit": 52,
+      "NQF": 8,
+      "Prerequisite": {
+        "Comment": "No prerequisites."
+      },
+      "Duration": "Semester",
+      "Period": [
+        2
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "Research project 412",
+      "Code": "SSC412",
+      "Credit": 30,
+      "NQF": 8,
+      "Prerequisite": {
+       "$and":[
+        {
+            "Code": "SHC321"
+        },
+        {
+            "Code": "SIN323"
+        },
+        {
+            "Code": "SIN324"
+        },
+        {
+            "Code": "SGM323"
+        },
+        {
+            "Code": "SBM321"
+        },
+        {
+            "Code": "SVC323"
+        }
+       ]
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "In the first semester, two full days of the week must be used by final-year students for the execution of an analytical and/or experimental research project.",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "Academic orientation 112",
+      "Code": "UPO112",
+      "Credit": 0,
+      "NQF": 0,
+      "Duration": "Year",
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
+      "Institution": "University of Pretoria"
+    },
+    {
+      "Name": "",
+      "Code": "",
+      "Credit": ,
+      "NQF": ,
+      "Prerequisite": {
+        "Comment": ""
+      },
+      "Duration": "Semester",
+      "Period": [
+        1
+      ], 
+      "Description": "TO BE UPDATED",
       "Institution": "University of Pretoria"
     }
   ]

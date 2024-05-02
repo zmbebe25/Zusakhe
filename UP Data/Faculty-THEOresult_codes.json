@@ -151,11 +151,10 @@
         "SRY210",
         "SRY220",
         "SRY310",
-        "SRY320"
-    ],
-    "do_not_exist_in_json_data2": [
+        "SRY320",
         "SHT312",
         "SRY110",
         "UPO105"
-    ]
+    ],
+    "do_not_exist_in_json_data2": []
 }
