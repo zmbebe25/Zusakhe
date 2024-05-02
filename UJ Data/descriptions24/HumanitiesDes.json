@@ -1,0 +1,5847 @@
+[
+  {
+    "Course": "African Insights",
+    "Code": "AFINSA1",
+    "NQF": 5,
+    "Credits": 15,
+    "Description": "The purpose of the module is to develop an appreciation of Africa\u2019s many and rich inheritances and to familiarise students with Africa\u2019s \u201cgreat\u201d ideas and issues. An appreciation will be developed for Africa and its place in the world by providing the theoretical underpinning and a platform for students to read and respond to a number of key African texts with a focus on concerns with contemporary significance."
+    ,
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Comment": "Online"
+      }
+    ]
+  },
+  {
+    "Course": "Northern Sotho 1A",
+    "Code": "NOS1AA1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "Northern Sotho 1A introduces the student to the fundamentals of the Northern Sotho language by engaging in three aspects of the language: a) the sociolinguistic environment of the language with the purpose of demonstrating its position and standing within the Bantu languages of South Africa; b) the grammar of the language with the view to equip the student with scientific knowledge of the language structure so as to enable the student to do analyses of selected language data; c) practical exercises to internalise the structure of the language; oral discourse to ena ble the student to express basic notions.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 50,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Northern Sotho 1B",
+    "Code": "NOS1BB1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "Northern Sotho 1B continues to introduce the student to the fundamentals of the Northern Sotho language by engaging in the following aspects of the language: a) the grammar of the language with the view to equip the student with scientific knowledge of the language structure so as to enable the student to do analyses of selected language data; b) practical exercises to internalise the structure of the language; c) reading of entry level texts so as to inculcate reading competency; d) oral discourse to enabl e the student to express basic notions.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 50,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester"
+  },
+  {
+    "Course": "Zulu 1A",
+    "Code": "ZUL1AA1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "Zulu 1A introduces the student to the fundamentals of the Zulu language by engaging in three aspects of the language: a) the sociolinguistic environment of the language with the purpose of demonstrating its position and stan ding within the Bantu languages of South Africa; b) the grammar of the language with the view to equip the student with scientific knowledge of the language structure so as to enable the student to do analyses of selected language data; c) practical exerci ses to internalise the structure of the language; d) oral discourse to enable the student to express basic notions.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Zulu 1B",
+    "Code": "ZUL1BB1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "Zulu 1B continues to introduce the student to the fundamentals of the Zulu language by engaging in the following aspects of the language: a) the grammar of the language with the view to equip the student with scientific knowledge of the language structure so as to enable the student to do analyses of selected language data; b) practical exercises to internalise the structure of the language; c) reading of entry level texts so as to inculcate reading competency; d) oral discourse to enable the student to express basic notions.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "Sepedi 1A",
+    "Code": "SEP1AA1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "To introduce students to a systematic grammar of the language so as to inculcate analysis and attain the level of the entry intermediate academic language course.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Sepedi 1B",
+    "Code": "SEP1BB1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "The purpose of this module is to investigate and introduce students to Sepedi Traditional oral Literature, a form of literature formally preserved orally, but now available in book form, dissertations, magazines and on tape: a literature that is sadly neglected or even despised: a great literature, which we hope the students will enjoy and then fight for its surv ival in all possible ways. The emphasis on this module is on the use and functions of all folklore genres.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "Sepedi 2A",
+    "Code": "SEP2AA2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "By exposing students to a higher sophistication of systematic grammar the purpose is to inculcate a higher level of analysis and to attain the level of the intermediate academic language course.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 50,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Course": "Sepedi 1A"
+      }
+    ]
+  },
+  {
+    "Course": "Sepedi 2B",
+    "Code": "SEP2BB2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "By exposing students to a higher sophistication of systematic literature the purpose is to inculcate a higher level of analysis and evaluation and to attain to the level of the intermediate academic language course.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Course": "Sepedi 1B"
+      }
+    ]
+  },
+  {
+    "Course": "Sepedi 3A",
+    "Code": "SEP3AA3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "By exposing students to a high sophistication of systematic grammar the purpose is to inculcate a higher level of analysis and to attain the level of the senior intermediate academic langu age course.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 50,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Course": "Sepedi 2A"
+      }
+    ]
+  },
+  {
+    "Course": "Sepedi 3B",
+    "Code": "SEP3BB3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "By exposing students to a high sophistication of systematic literature the purpose is to inculcate a higher level of analysis and evaluation and to attain to the level of the senior intermediate academic language course",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 50,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Course": "Sepedi 2B"
+      }
+    ]
+  },
+  {
+    "Course": "IsiZulu 1A",
+    "Code": "IZU1AA1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "The purpose of this module is to sensitise first-year students to the language situation and the languages spoken in South Africa and to introduce them to the scientific analysis and study of some salient features of Zulu grammar.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 50,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "IsiZulu 1B",
+    "Code": "IZU1BB1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "To introduce students to a systematic treatment of the literature of the language so as to inculcate analysis and attain the level of the entry intermediate academic language course.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 50,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "IsiZulu 2A",
+    "Code": "IZU2AA2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "The purpose of this module is to acquaint students with the absolute tenses, moods, pronouns and possessives of Zulu.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 50,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Course": "isiZulu 1A"
+      }
+    ]
+  },
+  {
+    "Course": "IsiZulu 2B",
+    "Code": "IZU2BB2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "To introduce students to a systematic treatment of a further aspect of the literature of the language as well as a theoretical component so as to inculcate analysis and attain the level of the intermediate academic language co urse.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 50,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "IsiZulu 3A",
+    "Code": "IZU3AA3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "The purpose of this module is to enable students to do syntactical analyses of Zulu sentences. Students are introduced to two approaches to syntax, namely structural syntax and TGG syntax.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 50,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Course": "isiZulu 2A"
+      }
+    ]
+  },
+  {
+    "Course": "IsiZulu 3B",
+    "Code": "IZU3BB3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "To introduce students to a systematic treatment of a further aspect of the literature of the language as well as a theoretical component so as to inculcate analysis and attain the level of the senior intermediate academic language course.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 50,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Course": "isiZulu 2B"
+      }
+    ]
+  },
+  {
+    "Course": "Northern Sotho for Senior and FET Phase  1A",
+    "Code": "NSS1AA1",
+    "NQF": 5,
+    "Credits": 4,
+    "Description": "The purpose of the module is to introduce the student to the fundamentals of the Northern Sotho language with emphasis on communicative skills in three aspects of the language: a) Pronunciation with the view to acquiring basic proficiency. b) Language usage with the purpose of acquiring the basics of the language. c) Culture with the purpose of understanding cultural values and using the knowledge to communicate more acceptably.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Northern Sotho for Senior and FET Phase 1B",
+    "Code": "NSS1BB1",
+    "NQF": 5,
+    "Credits": 4,
+    "Description": "The module completes the fundamentals of the Northern Sotho language with emphasis on communicative skills in four aspects of the language: a) pronunciation with the purpose of consolidating basic proficiency; b) language usage with the purpose of acquirin g basic proficiency in the remaining aspects of the language; c) culture with the purpose of understanding cultural values and using the knowledge to communicate more acceptably; d) reading texts with the purpose of equipping the student to read elementary Northern Sotho.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "$or": [
+          {
+            "Course": "NSP1AA1"
+          },
+          {
+            "Course": "NSS1AA1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Course": "Zulu for Senior and FET Phase 1A",
+    "Code": "ZUS1AA1",
+    "NQF": 5,
+    "Credits": 4,
+    "Description": "The module introduces the student to the fundamentals of the Zulu language with emphasis on communicative skills in three aspects of the language: a) pronunciation with the view to acquiring basic proficiency; b) language usage with the purpose of acquiring the basics of the language; c) culture with the purpose of understanding cultural values and using the knowledge to communicate more acceptably.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Zulu for Senior and FET Phase 1B",
+    "Code": "ZUS1BB1",
+    "NQF": 5,
+    "Credits": 4,
+    "Description": "The module completes the fundamentals of the Zulu language with emphasis on communicative skills in four aspects of the language: a) pronunciation with the purpose of 68 consolidating basic proficiency; b) language usage with the purpose of acquiring basic proficiency in the remaining aspects the language; c) culture with the purpose of understanding cultural values and using the knowledge to communicate more ac ceptably; d) reading texts with the purpose of equipping the student to read elementary Northern Sotho.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "Methodology and Practicum: FET and Senior  Phase Sepedi 3A",
+    "Code": "MFSPSA3",
+    "NQF": 6,
+    "Credits": 8,
+    "Description": "The purpose of this module is to guide students in developing their content knowledge and skill in designing and presenting Sepedi lessons and learning programmes.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Course": "Sepedi 3A"
+      }
+    ]
+  },
+  {
+    "Course": "Methodology and Practicum: FET and Senior Phase Sepedi 3B",
+    "Code": "MFSPSB3",
+    "NQF": 7,
+    "Credits": 8,
+    "Description": "The purpose of this module is to guide students in mapping their pedagogical content knowledge to enable critical reflective engagement with regard to the subject",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Course": "Sepedi 3B"
+      }
+    ]
+  },
+  {
+    "Course": "Methodology and Practicum: FET and Senior  Phase isiZulu 3A",
+    "Code": "MFSPZA3",
+    "NQF": 6,
+    "Credits": 8,
+    "Description": "The purpose of this module is to guide students in deve loping their content knowledge and skill in designing and presenting isiZulu lessons and learning programmes. 70",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Course": "Isizulu 3A"
+      }
+    ]
+  },
+  {
+    "Course": "Methodology and Practicum: FET and Senior Phase isiZulu 3B",
+    "Code": "MFSPZB3",
+    "NQF": 7,
+    "Credits": 8,
+    "Description": "The purpose of this module is to guide students in mapping their ped agogical content knowledge to enable critical reflective engagement with regard to the subject",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Course": "Isizulu 3B"
+      }
+    ]
+  },
+  {
+    "Course": "Methodology and Practicum: Sepedi 4",
+    "Code": "MFSPSY4",
+    "NQF": 7,
+    "Credits": 36,
+    "Description": "The purpose of this module is to support students in honing their teaching and professional competence as well as developing them as critical, reflective and competent Sepedi language educators. Students learn to compare and contrast various learning and teaching 71 approac hes.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year",
+    "Prerequisite": [
+      {
+        "Course": "Sepedi 4"
+      }
+    ]
+  },
+  {
+    "Course": "Methodology and Practicum: isiZulu 4",
+    "Code": "MFSPZY4",
+    "NQF": 7,
+    "Credits": 36,
+    "Description": "The purpose of this module is to support students in honing their teaching and professional competence as well as developing them as critical, reflective and competent isiZulu language educators. Students learn to compare and contrast various learning and teaching approaches.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year",
+    "Prerequisite": [
+      {
+        "Course": "Isizulu 4"
+      }
+    ]
+  },
+  {
+    "Course": "Teaching Methodology and Practicum: FET Sepedi",
+    "Code": "MPFSEY1",
+    "NQF": 7,
+    "Credits": 36,
+    "Description": "The purpose of this module is to assist students in developing their pedagogic content knowledge as Sepedi competent subject educators, in order to enable them to function as competent learning programme designers and mediators, and to teach the language i n a critical and reflective manner.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Semester"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum: FET isiZulu",
+    "Code": "MPFZUY1",
+    "NQF": 7,
+    "Credits": 36,
+    "Description": "The purpose of this module is to assist students in developing their pedagogic content knowledge as isiZulu competent subject educators, in order to enable them to function as competent learning programme designers and mediators, and to teach the language in a critical and reflective manner.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Afrikaans A",
+    "Code": "AFR0AA1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "Die doel van die module is om: \uf0b7 'n basiese vaardigheid in Afrikaans te ontwikkel; \uf0b7 luister -, praat -, lees - en skryfvaardighede in Afrikaans te ontwikkel; \uf0b7 basiese taalkennis te verbeter en om akkurate taalgebruik te bevorder.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Comment": "APS 4"
+      }
+    ]
+  },
+  {
+    "Course": "Afrikaans  B",
+    "Code": "AFR0BB1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "Die doel van die module is om: \u2022 vaardigheid in Afrikaans verder te ontwikkel; \u2022 luister -, praat -, lees - en skryfvaardighede in Afrikaans verder te ontwikkel; \u2022 basiese taalkennis verder te verbeter en om akkurate taalgebruik verder te bevorder.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Comment": "APS 4"
+      }
+    ]
+  },
+  {
+    "Course": "Afrikaans 1A",
+    "Code": "AFR1AA1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "Die doel van die module is om studente se begrip van die Afrikaanse taal- en letterkunde aan die hand van insette oor taalori\u00ebntasie, fonetiek en spelling, kortverhale en po\u00ebsie te verbeter en te verryk.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Comment": "APS 4"
+      }
+    ]
+  },
+  {
+    "Course": "Afrikaans 1B",
+    "Code": "AFR1BB1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "Die doel van die module is om studente se begrip van die Afrikaanse taal - en letterkunde aan die hand van insette oor sinstruktuur, semantiek en prosa (romans) te verbeter en te verryk. 75",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Comment": "APS 4"
+      }
+    ]
+  },
+  {
+    "Course": "Afrikaans 2A",
+    "Code": "AFR2AA2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "Die doel van die module is om studente se bestaande bemeestering van die Afrikaanse taal- en letterkunde aan die hand van insette oor woordbou, semantiek, po\u00ebsie en romankuns te verbeter en te verryk.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "Afrikaans 1A"
+          },
+          {
+            "Course": "Afrikaans 1B"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Course": "Afrikaans 2B",
+    "Code": "AFR2BB2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "Die doel van die module is om studente se bestaande bemeestering van die Afrikaanse taal- en letterkunde aan die hand van insette oor sintaksis, tekslinguistiek, drama en po\u00ebsie te verbeter en te verryk.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "Afrikaans 1A"
+          },
+          {
+            "Course": "Afrikaans 1B"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Course": "Afrikaans 3A",
+    "Code": "AFR3AA3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "Die doel van die module is om studente se bestaande bemeestering van die Afrikaanse taal- en letterkunde aan die hand van gevorderde insette oor taalgeskiedenis, semantiek, romankuns en drama te verbeter en te verryk.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "Afrikaans 1A"
+          },
+          {
+            "Course": "Afrikaans 1B"
+          },
+          {
+            "Course": "Afrikaans 2A"
+          },
+          {
+            "Course": "Afrikaans 2B"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Course": "Afrikaans 3B",
+    "Code": "AFR3BB3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "Die doel van die module is om studente se bestaande bemeestering van die Afrikaanse taal- en letterkunde aan die hand van gevorderde insette oor sinstruktuur, taalvariasie, po\u00ebsie en romankuns te verbeter en te verryk. 78",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "Afrikaans 1A"
+          },
+          {
+            "Course": "Afrikaans 1B"
+          },
+          {
+            "Course": "Afrikaans 2A"
+          },
+          {
+            "Course": "Afrikaans 2B"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Course": "Anthropology 1A",
+    "Code": "ATL1AA1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "This module is an introduction to Anthropology with a focus on human biological and cultural evolution.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Anthropology 1B",
+    "Code": "ATL1BB1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "This module is an introduction to Anthropology with a focus on the anthropology of human social and cultural variation .",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Anthropology 2A",
+    "Code": "ATL2AA2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "This module is an introduction to human origins and cognitive anthropology.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Anthropology 2B",
+    "Code": "ATL2BB2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "This module is an introduction to ethnography; and the histories and theories of anthropology.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Anthropology 3A",
+    "Code": "ATL3AA3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "This module is an introduction to the anthropology of religion and ritual; and nature -society relations.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "Anthropology 2A"
+          },
+          {
+            "Course": "Anthropology 2B"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Course": "Anthropology 3B",
+    "Code": "ATL3BB3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "This module is an introduction to the anthropology of space and place; and to medical anthropology.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "Anthropology 2A"
+          },
+          {
+            "Course": "Anthropology 2B"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Course": "Business Communication",
+    "Code": "CBS1BB1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "To know the communication process, and be able to communicate effectively with other people in different social context s and to organise information fundamental to the process of growing language capability across language applications and fields of study.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 50,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "Classical Culture and Mythologies 1A",
+    "Code": "CLC1AA1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "To introduce the study of Classical Culture in the form of ancient Greek myth and examples of influential ancient literature.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Classical Culture and Mythologies 1B",
+    "Code": "CLC1BB1",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": "To introduce the study of Classical Culture in the form of great Western hero myths and the stories of the Trojan War and the adventures of Odysseus in the Homeric Epics",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Classical Culture and Mythologies 2A",
+    "Code": "CLC2AA2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "To introduce students to the cultural phenomenon of Greek Tragedy, its social and cultural context and its relevance to students of the humanities today. To introduce students to the techniques and methods of academic research and to the techniques of literar y criticism.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Classical Culture and Mythologies 2B",
+    "Code": "CLC2BB2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "To further the introductory knowledge of Greek Tragedy gained in 2A, and to further the ability to do academic research and to understand the techniques of literary criticism.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Classical Culture and Mythologies 3A",
+    "Code": "CLC3AA3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "To introduce students to Roman myth and literature and the impact of Classical Culture in the post-renaissance to the modern world. To further the students\u2019 ability to do critical literary research.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Classical Culture and Mythologies 3B",
+    "Code": "CLC3BB3",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "To introduce students to the genre of the ancient novel and how Classical literature, myth and thought have infused contemporary art, literature and film by studying a number of examples of modern art, literature and film.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Communication and Media 1A: Introduction to Communication",
+    "Code": "CAM1AA1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "The purpose of this module is to introduce students to the main approaches and concepts that are used in the study of communication in a culturally diverse society. It also introduces students to the principles of journalism and writing for news media.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Communication and Media 1B: Approaches to Communication and Media",
+    "Code": "CAM1BB1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "The purpose of t his module is to introduce students to the main approaches, concepts and methodologies that are used in the study and analysis of communication and media. It also introduces students to the principles of digital media practice and production",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Communication and Media 2A: Data and Society",
+    "Code": "CAM2AA2",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "The purpose of the module is to introduce students to the main concepts and theoretical debates relating to data and society, how data processes work and their impacts on communication and media practices, as well as the governance, ownership, control and societal effects of data. It will also introduce them to digital multimedia practice. The module is also aimed at equipping students to produce digital media and engage in visual storytelling and production workflows.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Communication and Media 2B: Research Methodology",
+    "Code": "CAM2BB2",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "The purpose of this module is to contextualise the historical development and fundamental aspects of the communication research process; to provide students with an overview of the elements of the communication research process, types of research and methodological aspects of research, as well as an introduction to ethical issues in communication research. Th e knowledge is practicably applicable in an academic or industry context.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Communication and Media 3I: Communication, Media and Society: Communication and Global Culture",
+    "Code": "CAM3IA3",
+    "NQF": 6,
+    "Credits": 22,
+    "Description": "The purpose of this module is to foster a critical understanding of the impact of globalisation on global communication and media industries and cultures.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Communication and Med ia 3J: Communication, Media and Society: Communication and Media in Africa",
+    "Code": "CAM3JB3",
+    "NQF": 6,
+    "Credits": 22,
+    "Description": "The purpose of this module is to investigate communication, media and society in Africa critically.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Communication and Media 3K: Global Journalism",
+    "Code": "CAM3KA3",
+    "NQF": 6,
+    "Credits": 22,
+    "Description": ". This module aims to equip students with the principles and pra ctices of global news production in the contemporary news production ecosystem. Students will focus on both the theory of global journalism, global multiplatform content creation and storytelling 89 practices at a global level.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Communication and Media 3L: Journalism Practice",
+    "Code": "CAM3LB3",
+    "NQF": 6,
+    "Credits": 22,
+    "Description": "The purpose of the module is to prepare students with the practical kn owledge of writing and production for a digital environment. This would include: media digital platforms and social media platforms.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester"
+  },
+  {
+    "Course": "Communication and Media 3M: Screen Studies: History and Theory",
+    "Code": "CAM3MA3",
+    "NQF": 6,
+    "Credits": 22,
+    "Description": "The module aims to introduce students to the history and theory of screen media across the African continent. It also offers an opportunity to acquire technical skills for screen media production.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Community Development and Leadership1A",
+    "Code": "CDL1AA1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "The purpose of this module is to introduce students to theories of empowerment \u2212 to become personally as well as professionally empowered as community practitioners.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Community Development and Leadership 1B",
+    "Code": "CDL1BB1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "The purpose of this module is to introduce students to theories of participatory community practice; to study the principles, features and ethics relevant for participatory community practice. This wi ll be done within the context of poverty, underdevelopment and inequality.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "Community Development and Leadership 2A",
+    "Code": "CDL2AA2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "The purpose of this module is to introduce students to the facilitation of knowledge, skills and values of the processes and phases in community development with emphasis on the strengths -based approach.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Community Development and Leadership 2B",
+    "Code": "CDL2BB2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "The purpose of this module is to introduce students to different theories and skills appropriate for effective community development practice.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "Community Development and Leadership 3A",
+    "Code": "CDL3AA3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "The purpose of this module is to introduce students firstly to the approaches, methods and skills of participatory development research; and secondly to the management and leadership models relevant to community practice.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "CDL1AA1"
+          },
+          {
+            "Course": "CDL1BB1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Course": "Community Development and Leadership 3B",
+    "Code": "CDL3BB3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "The purpose of this module is to introduce the students firstly to the establishment and strengthening of community -based organisations, and secondly the role of the community practitioner in the development of the economy of communities.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "CDL1AA1"
+          },
+          {
+            "Course": "CDL1BB1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Course": "Community Development and Leadership Internship 3",
+    "Code": "CDL3003",
+    "NQF": 7,
+    "Credits": 44,
+    "Description": "The purpose of this module is to introduce students to an organi sation practising community development.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Development Studies 1A",
+    "Code": "DEV1AA1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "95 To introduce the student to the development field and investigate the nature and dimensions of development problems that poor states/communities experience.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Development Studies 1B",
+    "Code": "DEV1BB1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "The module introduces policy and practice of development.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "Development Studies 2A",
+    "Code": "DEV2AA2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "The module introduces rural -urban linkages and development management.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Development Studies 2B",
+    "Code": "DEV2BB2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "This module introduces urban development and the methodology of development research",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "Development Studies 3A",
+    "Code": "DEV3AA3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "This module introduces theories and policies of development in their historical and spatial contexts",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "Development Studies 2B"
+          },
+          {
+            "Course": "Development Studies 2A "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Course": "Development Studies 3B",
+    "Code": "DEV3BB3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "This module focuses on development governance processes, issues and actors, from global to local levels.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "Development Studies  2B"
+          },
+          {
+            "Course": "Development Studies 2A "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Course": "English 1A",
+    "Code": "ENG1AA1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "To introduce students to the field of English literary studies, to the distinguishing characteristics and techniques associated with fiction, and to the fundamental critical thinking and essay writing skills required in literary analysis.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "English 1B",
+    "Code": "ENG1BB1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "To introduce students to the field of English literary studies, to the distinguishing characteristics and techniques associated with poetry and drama, and to the fundamental critical thinking and essay writing skills required in literary analysis.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "English 1C",
+    "Code": "ENG0CA1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "To introduce students to the conventions and disciplines of academic writing, and to develop their reading, writing and thinking skills.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Comment": "Credits cannot be obtained for English 1A"
+      }
+    ]
+  },
+  {
+    "Course": "English 1D",
+    "Code": "ENG0DB1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "To introduce students to the conventions of academic argument, text -based research, the analysis of source material and to support the further development and stren gthening of their critical reading, writing and thinking skills.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Comment": "and 1B as well as English 1C and 1D"
+      }
+    ]
+  },
+  {
+    "Course": "English 2A",
+    "Code": "ENG2AA2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "To introduce students to the distinguishing characteristics of, and dominant concerns reflected in, South African English literature; to develop their skills in the analysis and discussion of modern drama in English. Training in essay writing skil ls is a feature of all modules offered by the English department",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "English 1A"
+          },
+          {
+            "Course": "English  1B "
+          },
+          {
+            "Course": " English 1C "
+          },
+          {
+            "Course": "English  1D"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Course": "English 2B",
+    "Code": "ENG2BB2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "To introduce students to the distinguishing characteristics of, and dominant concerns reflected in Romantic and Victorian poetry, and in nineteenth -century fiction. Training in essay writing skills is a feature of all modules offered by the English department",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "English 3A",
+    "Code": "ENG3AA3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "To introduce students to the distinguishing characteristics of, and dominant concerns reflected in, medieval and Renaissance literature, as well as the Modern novel. Training in 102 close reading and essay writing skills is a feature of all modules offered by the English department",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "English 2B"
+          },
+          {
+            "Course": "English 2A "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Course": "English 3B",
+    "Code": "ENG3BB3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "To introduce students to the distinguishing characteristics of, and dominant concerns reflected in, modern poetry and contemporary fiction. Training in essay writing skills is a feature of all modules offered by the English department",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "French 1A (Currently not offered)",
+    "Code": "FRS1AA1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "Introduction to the French language and culture via the teaching of the four basic language skills: reading, writing, listening and speaking.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "French 1B (Currently not offered)",
+    "Code": "FRS1BB1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "Further introduction to the French language and culture via the teaching of the four basic language skills: reading, writing, listening and speaking.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "French 2A",
+    "Code": "FRS2AA2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "Study of the French language, literature and civilisation at an intermediate level",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "French 2B",
+    "Code": "FRS2BB2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "Further study of t he French language, literature and civilisation at an intermediate level.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "French 3A",
+    "Code": "FRS3AA3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "Study of the French language, literature and civilisation on an advanced level.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "French 3B",
+    "Code": "FRS3BB3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "Further study of the French language, literature and civilisation on an advanced level .",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "Greek 1A",
+    "Code": "GRK1AA1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "To familiarise the student with the Greek alphabet, and the basic linguistic aspects of phonology, morphology, syntax and semantics in order to read and translate simplified Greek sentences and texts.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Greek 1B",
+    "Code": "GRK1BB1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "To continue familiarising the student with the basic linguistic aspects of phonology, morphology, syntax and semantics of Ancient Greek in order to read and translate uncomplicated, original Attic and Hellen istic Greek texts. The student should develop a basic understanding of the geography, history and culture of Ancient Greece.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Course": "Greek 1A"
+      }
+    ]
+  },
+  {
+    "Course": "Greek 2A",
+    "Code": "GRK2AA1",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "To explore and revise the complete grammar and syntax of Ancient Greek, read intermediate texts from the Attic (e.g. Plato and Euripides) or Hellenistic (e.g. New Testament and Church Fathers) period. To receive an overview of the history and culture of the Classical or Hellenistic period, focusing, inter alia , on the codes regulating the position of women and justice).",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Greek 2B",
+    "Code": "GRK2BB2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "To continue exploring and revising the complete grammar and syntax of Ancient Greek, read intermediate texts from the Classical (e.g. Herodotus and Homer) or Hellenistic (e.g. New Testament and Church Fathers) period. To continu e with an overview of the history and culture of the Classical or Hellenistic period, focusing, inter alia , on the heroic code).",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "Greek 3A",
+    "Code": "GRK3AA3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "To enable the student to apply Greek grammatical, syntactic, semantic, literary, cultural and historical knowled ge to selected texts, especially through unseen translations; to translate and interpret selected texts from, for example, Paul, Aeschylus, Sophocles, Thucydides, Aristophanes, Menander, and Plutarch and develop an understanding of the history and main genres of Greek literature.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Course": "Greek 2B"
+      }
+    ]
+  },
+  {
+    "Course": "Greek 3B",
+    "Code": "GRK3BB3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "To enable the student to apply Greek grammatical, syntactic, semantic, literary, cultural and historical knowledge to compose Greek prose, and to translate and interpret selected texts from, for example, Paul, Aeschylus, Sophocles, Thucydides, Ar istophanes, Menander, and Plutarch.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "History 1A",
+    "Code": "HIS1AA1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "This module provides a broad overview of developments in world history from the prehistorical period until the early modern era. Through the study of selected themes in both socio -cultural and political -economic history, this module aims to provide an understanding of how various societies, polities and empires originated, developed and interacted with one another across the world in the pre -modern era. Through tutorials and assignments students are introduced 109 to the basic s kills of historical research.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "History 1B",
+    "Code": "HIS1BB1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "This module provides a broad overview of developments in world history from the early modern era until the near present, and as such builds on the work of the first semester. Through the study of selected themes in both socio -cultural and political -economic history, this module aims to provide an understanding of how various societies, polities and empires originated, developed and interacted with each other across the world in the modern era. Through tutorials and assignments the basic skills of historical research that students acquired in the first semester are further consolidated.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "History 2A",
+    "Code": "HIS2AA2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "The purpose of the module is to provide the students with a broad overview of developments in the African continent from the prehistorical period until the rise of European colonialism. Through the study of selected themes in both socio -cultural and political -economic history, this module aims to provide an understanding of how pre -colonial societies and polities originated and developed in Africa. Through tutorials and assignments students are introduced to the key skills of h istorical research.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "History 2B",
+    "Code": "HIS2BB2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "The purpose of this module is to introduce students to the complex histories of Asian societies and their interaction with the Western world from the sixteenth century to the present. Through the study of selected themes in both socio -cultural and political -economic history, this module aims to provide an understanding of the regional development of these societies, their interaction with Western colonial powers, the processes of coloni sation and decolonisation as well as their rise to key role players in the global world. The key skills of historical research are developed further through tutorials and assignments. This module introduces students to the complex histories of African societies and polities and their interaction with the Western world from the early nineteenth century to the present. Through the study of selected themes in both socio -cultural and political -economic history, this module aims to provide an understanding of the regional development of these societies and polities, their interaction with Western colonial powers, the processes of colonisation and decolonisation as well as their rise to significant role players in the global world. The key skills of historical research are developed further through tutorials and assignments.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "History 3A",
+    "Code": "HIS3AA3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "This module serves to expose students to the broad range of topics and approaches, which historians have developed for the study of the past. Through the study of selected themes including (i) crime and society; (ii) material culture and consumption; (iii) science, medicine and the environment; and (iv) urban history, students are exposed to the techniques of studying the interaction betw een individual agency and larger structures and processes in the past. Students are trained in advanced skills of historical research and interpretation through tutorials and longer assignments.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "History 1A"
+          },
+          {
+            "Course": "History 1B"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Course": "History 3B",
+    "Code": "HIS3BB3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "This module serves to train students further in the broad range of topics and approaches that historians have developed for the study of the past. Through the study of selected themes such as (i) gender and family history; (ii) memory, public history and heritage; (iii) the social history of knowledge, and (iv) the rise and fall of empires, students are further grounded in the study of the interaction between individual agency and larger structures and processes in the past. Students are trained in advanced skills of historical research and interpretation through tutorials and longer assignments.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "History 1A"
+          },
+          {
+            "Course": "History 1B"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Course": "Language Practice 1A",
+    "Code": "LPR1AA1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "The purpose of this module is tw ofold: To introduce students to the interface between explicit knowledge about language and conscious perception and sensitivity regarding language use in specific communication - sensitive professional contexts such as translation, interpreting and text ed iting, as well as the world of multimedia communication. To introduce students to the skills needed to recognise, understand and produce texts of selected genres.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Language Practice 1B",
+    "Code": "LPR1BB1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "The purpose of the module is to familiarise students with the interface between language and culture and the effects of cultural and social structures and processes on communication across cultures and to equip them with the necessary skills to deal with s uch communication needs .",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Course": "Language Practice 1A"
+      }
+    ]
+  },
+  {
+    "Course": "Language Practice 2A",
+    "Code": "LPR2AA2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "To prepare students for the professional workplace in dealing with specialised translation, interpreting, text editing and terminology and the use of applicable tools and technology.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Course": "Language Practice 1B"
+      }
+    ]
+  },
+  {
+    "Course": "Language Practice 2B",
+    "Code": "LPR2BB2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "To prepare students for the professional workplace in dealing with specialised translation, interpreting, text editing and terminology and the use of applicable tools and technology.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Course": "Language Practice 2A"
+      }
+    ]
+  },
+  {
+    "Course": "Language Practice 3A",
+    "Code": "LPR3AA3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "To assist students in achieving a semi -professional level of expertise through authentic experience To prepare students for the professional workplace in dealing with specialised translation, interpreting, text editing and terminology and document management and information technology",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Course": "Language Practice 2B"
+      }
+    ]
+  },
+  {
+    "Course": "Language Practice 3B",
+    "Code": "LPR3BB3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "To assist students in achieving a semi -professional level of expertise through authentic experience To prepare students for the professional workplace in dealing with specialised translation, interpreting, text editing and terminology and document management and information technology",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Course": "Language Practice 3A"
+      }
+    ]
+  },
+  {
+    "Course": "Latin  1A",
+    "Code": "LAT1AA1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "To familiarise the student with the Latin sound system, and the basic linguistic aspects of phonology, morphology, syntax and semantics in order to read and translate simplified Latin sentences and texts; to raise the student\u2019s awareness of the relationship between Lati n and English vocabulary; and to introduce the student to the culture and history of Rome.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 50,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Latin 1B",
+    "Code": "LAT1BB1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "To familiarise the student with the more advanced linguistic aspects of the Latin phonology, morphology, syntax and semantics in order to read and translate original Latin sentences and texts; to raise the student\u2019s awareness of the relationship between Latin and English vocabulary; and to introduce the student to the culture and history of Rome.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 50,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Course": "Latin 1A"
+      }
+    ]
+  },
+  {
+    "Course": "Latin 2A",
+    "Code": "LAT2AA2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "To explore and revise the complete grammar and syntax of Latin, read selected intermediate texts based on the grammar and syntax covered; to receive an overview of the history and culture (including religion) of the late Republic and the Principate.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 50,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Course": "Latin 1B"
+      }
+    ]
+  },
+  {
+    "Course": "Latin 2B",
+    "Code": "LAT2BB2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "To continue exploring and revising the complete grammar and syntax of Latin, read selected advanced texts based on the grammar and syntax covered; to receive an overview of the history and culture (including religion) of the expansion of th e empire into Africa from the 119 Punic Wars to the advent of Christianity.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 50,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Course": "Latin 2A"
+      }
+    ]
+  },
+  {
+    "Course": "Latin 3A",
+    "Code": "LAT3AA3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "To familiarise the student with the main genres and writers in the history of Latin literature and to read at least one prose (e.g. Cicero) and one poetry (e.g. Horace) author. To explore the grammar, syntax and semantics of the Latin language by way of unseen translati ons. To provide a basic review of the history and culture of the Late Republic and Early Empire.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 50,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Course": "Latin 2B"
+      }
+    ]
+  },
+  {
+    "Course": "Latin 3B",
+    "Code": "LAT3BB3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "To familiarise the student with the main genres and writers in the history of Latin literature and to read at least one prose (e.g. Petronius) and one poetry (e.g. Vergil) author. To explore the grammar, syntax and semantics of the Latin language by way of unseen translations. To provide a basic review of the history and culture of the Early Roman Empire.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 50,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Course": "Latin 3A"
+      }
+    ]
+  },
+  {
+    "Course": "Linguistics 1A",
+    "Code": "LIN1AA1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "The purpose of this module is to introduce students to the core domains of linguistics, i.e. phonetics, phonology, morphology, semantics, syntax and pragmatics.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Linguistics 1B",
+    "Code": "LIN1BB1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "The purpose of this module is twofold: \uf0b7 To continue the introduction to the core domains of linguistics, namely phonetics, phonology, morphology, semantics, syntax and pragmatics \uf020 \uf0b7 To introduce students to selected linguistic perspectives, i.e. psycholinguistics and sociolinguistics \uf020",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "Linguistics 2A",
+    "Code": "LIN2AA2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "To introduce students to the study of language -related issues in society and the interface between language, psycholinguistic processes, text, culture and society in the disciplines of linguistics.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Linguistics 2B",
+    "Code": "LIN2BB2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "To introduce students to the interface between language, psycholinguistic processes, text, culture and society in the disciplines of linguistics 122",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Course": "Linguistics 2A"
+      }
+    ]
+  },
+  {
+    "Course": "Linguistics 3A",
+    "Code": "LIN3AA3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "The purpose of this module is twofold: \uf0b7 To introduce students to the theory and practice of translation. \uf020 \uf0b7 To introduce students to information technology for translation. \uf020",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Course": "Linguistics 2B"
+      }
+    ]
+  },
+  {
+    "Course": "Linguistics 3B",
+    "Code": "LIN3BB3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "The purpose of this module is: \uf0b7 To introduce students to the theory and practice of text editing.\uf020 \uf0b7 To introduce students to the interface between text linguistics and text editing.\uf020 \uf0b7 To introduce students to the basic principles of terminology work\uf020 \uf0b7 To familiarise students with various aspects of translation and text editing as a profession \uf020",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Course": "Linguistics 3A"
+      }
+    ]
+  },
+  {
+    "Course": "Modern Greek 1A",
+    "Code": "MDG1AA1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "To introduce the student to the basic phonetics, morphology, syntax and semantics of Modern Greek.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Modern Greek 1B  (Currently not offered)",
+    "Code": "MDG1BB1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "To introduce the student to the further basic phonetics, morphology, syntax and semantics of Modern Greek. To introduce the student to elements of 20th century Greek literature and culture.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "Modern Greek 2A",
+    "Code": "MDG2AA2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "To skill the student in an intermediate level of phonetics, morpholog y, syntax and semantics of Modern Greek. To introduce the student to selections of Greek literature after 1821, and the interpretation thereof. To introduce the student to an overview of Greek history from the End of Byzantium to the Beginning of the Moder n Greek State.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Course": "Modern Greek 1B"
+      }
+    ]
+  },
+  {
+    "Course": "Modern Greek  2B",
+    "Code": "MDG2BB2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "To further skill the student in an intermediate level of phonetics, morphol ogy, syntax and semantics of Modern Greek. To continue introducing the student to selections of Greek literature after 1821, and the interpretation thereof. To introduce the student to aspects of Greek History of the nineteenth century.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Course": "Modern Greek 2A"
+      }
+    ]
+  },
+  {
+    "Course": "Modern Greek 3 A",
+    "Code": "MDG3AA3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "To skill the student in an advanced level of phonetics, morphology, syntax and semantics of Modern Greek. Detailed study of selective contemporary authors of prose and poetry. Introduction to Byzantine literature, culture and history.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Course": "Modern Greek 2B"
+      }
+    ]
+  },
+  {
+    "Course": "Modern Greek 3B",
+    "Code": "MDG3BB3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "The application of Modern Greek linguistic skills, which have been acquired already. A continued detailed study of selective contemporary authors of prose and poetry. Further study of Byzantine literature, culture and history.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 50,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Course": "Modern Greek 3A"
+      }
+    ]
+  },
+  {
+    "Course": "Philosophy 1A",
+    "Code": "PHL1AA1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "The purpose of the module is to (1) help you master critical thinking skills; (2) introduce you to the natu re, style and methods of philosophy; (3) teach you basic writing skills in philosophy; and (4) familiarise you with some central debates in philosophy.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Philosophy 1B",
+    "Code": "PHL1BB1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "The purpose of the module is [1] to develop students\u2019 understanding of philosophy in its historical development further, [2] to develop students\u2019 reading and writing skills in philosophy further, [3] to introduce students to some elementary formal and informal logic.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "Philosophy 2A",
+    "Code": "PHL2AA2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "To teach students (1) classic philosophical texts or influential theories dealing with value theory and (2) classic or contemporary philosophical theories engaging politics, and/or (3) classic or contemporary texts or influential theories/thinkers in the African Philosophical tradition; as well as (4) to help students deepen their philosophical thinking skil ls and (5) to develop students\u2019 reading and writing skills in philosophy further.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Course": "Philosophy 1A or 1B"
+      }
+    ]
+  },
+  {
+    "Course": "Philosophy 2B",
+    "Code": "PHL2BB2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "To teach students about (1) philosophers from the modern period and their views and (2) contemporary philosophical theories about metaphysics and epist emology, as well as (3) to help students deepen their philosophical thinking skills and (4) to further develop students\u2019 reading and writing skills in philosophy.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "Philosophy 1B"
+          },
+          {
+            "Course": "Philosophy 1A "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Course": "Philosophy 3A",
+    "Code": "PHL3AA3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "To teach students about (1) philosophers from the 19th and 20th centuries and their views, (2) the main issues, arguments and theories of interpretation, as well as (3) to help students deepen their philosophical thinking skills and (4) to deve lop students\u2019 reading and writing skills in philosophy further.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Philosophy 3B",
+    "Code": "PHL3BB3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "To teach students (1) contemporary distinctions, positions and arguments with regard to the philosophies of mind, language and science, as well as environmental and animal ethics, (2) to help students deepen their philosophical thinking skills and (3) to develop students\u2019 reading and writing skills in philosophy further.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "Philosophy 1A"
+          },
+          {
+            "Course": "Philosophy 1B"
+          },
+          {
+            "Course": "Philosophy 2A"
+          },
+          {
+            "Course": "Philosophy 2B"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Course": "Politics 1A",
+    "Code": "POL1AA1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "This module forms part and parcel of the overall programme in Politics, which consists of the following: \u2022 To empower students to contribute towards the maintenance and improvement of the conditions of life of South African society; all students of Politics living in South Africa must be introduced to those debates and events impacting on the country\u2019s political future. \u2022 To teach students the art and skills of governance, with a strong focus on: o respect for human rights; o open and accountable government; o defensible security and economic policies; 127 o the normative limits in the exercise of power and authority in political orders. \u2022 To educate students to become competent critics and users of social science knowledge claims. \u2022 To teach students how to use the intellectual tools of social science research in acquiring, assessing and applying knowledge in the discipline of Politics. \u2022 To offer knowledge of various theories relating to South African politics. \u2022 To offer insight into how to link theoretical influences with implementation by examining a number of national case studies. \u2022 To offer an understanding of the indicators that can be used to analyse a key event in South African politics. \u2022 To aid students in acquiring cognitive skills in assessing and applying knowledge claims containe d inter alia in editorials, research reports, journal articles, literary sources, and government / official documents. \u2022 To help students acquire skills in information retrieval in libraries and high technology information systems. \u2022 To educate students the ar t of governance (international, national and local) including o how to rule; o how to regulate; o showing restraint in the exercise of power. The programme takes the form of lectures, tutorials, class exercises , online assessments and written tasks, which challenge the student to learn by doing.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Politics 1A",
+    "Code": "PIR1AA1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "This module forms part and parcel of the overall programme in Politics, which consists of the following: \u2022 To empower students to contribute towards the maintenance and improvement of the conditions of life of South African society; all students of Politics living in South Africa must be introduced to those debates and events impacting on the country\u2019s political future. \u2022 To teach students the art and skills of governance, with a strong focus on: o respect for human rights; o open and accountable government; o defensible security and economic policies; 127 o the normative limits in the exercise of power and authority in political orders. \u2022 To educate students to become competent critics and users of social science knowledge claims. \u2022 To teach students how to use the intellectual tools of social science research in acquiring, assessing and applying knowledge in the discipline of Politics. \u2022 To offer knowledge of various theories relating to South African politics. \u2022 To offer insight into how to link theoretical influences with implementation by examining a number of national case studies. \u2022 To offer an understanding of the indicators that can be used to analyse a key event in South African politics. \u2022 To aid students in acquiring cognitive skills in assessing and applying knowledge claims containe d inter alia in editorials, research reports, journal articles, literary sources, and government / official documents. \u2022 To help students acquire skills in information retrieval in libraries and high technology information systems. \u2022 To educate students the ar t of governance (international, national and local) including o how to rule; o how to regulate; o showing restraint in the exercise of power. The programme takes the form of lectures, tutorials, class exercises , online assessments and written tasks, which challenge the student to learn by doing.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Politics 1B",
+    "Code": "POL1BB1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "This module provides a necessary grounding in the conceptual understanding of the core terms of international relations and international political economy. The module aims at achieving the following objectives : \uf0b7 In-depth knowledge of the historical roots of international relations theory and international political economy theory.\uf020 \uf0b7 To offer students the intellectual tools to be able to apply the essential qualitative research skills associated with international relations and international political economy. \uf020 \uf0b7 To offer a supporting platform upon which students can build their appreciation of the subject material. \uf020",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "Politics 2A",
+    "Code": "POL2AA2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "This module provides a critical introduction to key ideas and concepts in the history of political thought, understood in their historical context and as applicable to our current context in South Africa, Africa and beyond and offers knowledge of a range of arguments and debates in modern political thought and philosophy across a range of thinkers including Constant, Weber, Fanon, Rawls and Mandela. Deep political thinking will provide the grounding for the second half of the module, where students will develop a set of general conceptual skills for tackling policy problems and providing solutions.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Politics 2A",
+    "Code": "PIR2AA2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "This module provides a critical introduction to key ideas and concepts in the history of political thought, understood in their historical context and as applicable to our current context in South Africa, Africa and beyond and offers knowledge of a range of arguments and debates in modern political thought and philosophy across a range of thinkers including Constant, Weber, Fanon, Rawls and Mandela. Deep political thinking will provide the grounding for the second half of the module, where students will develop a set of general conceptual skills for tackling policy problems and providing solutions.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Comment": "BA with specialisation in PET"
+      }
+    ]
+  },
+  {
+    "Course": "Politics 2B",
+    "Code": "POL2BB2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "This module provides an in -depth study of the major theories of International Relat ions (IR) and introduces students to Peace and Security Studies as a sub -field of IR. The module aims at achieving the following objectives: \u2022 To ground students in classical and critical theories of IR. \u2022 To expose students to a variety of conceptual, theoretical and analytical approaches and perspectives in the study of global peace and security issues. 130 \u2022 To provide an overview and critique of African and global peace and security institutions.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "Politics 2B",
+    "Code": "PIR2BB2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "This module provides an in -depth study of the major theories of International Relat ions (IR) and introduces students to Peace and Security Studies as a sub -field of IR. The module aims at achieving the following objectives: \u2022 To ground students in classical and critical theories of IR. \u2022 To expose students to a variety of conceptual, theoretical and analytical approaches and perspectives in the study of global peace and security issues. 130 \u2022 To provide an overview and critique of African and global peace and security institutions.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "Politics 2C",
+    "Code": "POL2CA2",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "The module examines dominant themes in African politics and traces their historical origin and rationale. The idea is to link the study of politics to history in order to locate contemporary challenges within their proper historical context. The module aims to achieve the following objectives: \u2022 Provide a broad and historical understanding of current themes in African politics. \u2022 Show interconnectedness of the continent and commonality of the challenges each country faces. \u2022 Provide a refined conceptual grasp and analytical tools to explain dominant issues that define contemporary politics.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Politics 2D",
+    "Code": "POL2DB2",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "This module provides an important introduction to general issues involved in efforts to manage and stop the global arms race, as well as attempts to restrain the proliferation of nuclear, chemical, biological and conventional weapons. The module aims at achieving the following objectives: \u2022 To create awareness and critical thinking about the global arms race and its impact on global peace and security. \u2022 To introduce the conceptual and historical context required for understanding developments in international arms control and disarmament. \u2022 To introduce key internatio nal arms control agreements. \u2022 To introduce the unique challenges of global disarmament.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "Politics 3A",
+    "Code": "POL3AA3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "This module provides a critical introduction to key ideas and concepts in the methods used in the academic study of the field of Politics and International Relations. This knowledge is essential in both the understanding of politics and in understanding its dynamic interaction with society. This knowledge is an important grounding not only for postgraduate work but also for the workplace where the formulation, adoption, implementation and evaluation of public policy in the policymaking process. The comparative politics part of th e module examines the interaction of national and external dynamics on the politics of a given system, country, state, or region and applies various comparative methods to examine variations of government structures and behaviour across four different regi ons of the world: Africa, the Americas, Asia, and the Middle East. Practicals are related directly to the subject matter investigated in this module and offer a necessary platform in which students can experience practical application of the theory. The module aims at achieving the following objectives: \u25cf In-depth knowledge of the historical context of the Positivist and Post-positivist methods 132 used in Politics and International Relations. \u25cf To offer an understanding of the relationship of Politics to cognate disciplines. \u25cf To offer the analytical tools for students to apply qualitative and quantitative methods to real-world examples.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Politics 3A",
+    "Code": "PIR3AA3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "This module provides a critical introduction to key ideas and concepts in the methods used in the academic study of the field of Politics and International Relations. This knowledge is essential in both the understanding of politics and in understanding its dynamic interaction with society. This knowledge is an important grounding not only for postgraduate work but also for the workplace where the formulation, adoption, implementation and evaluation of public policy in the policymaking process. The comparative politics part of th e module examines the interaction of national and external dynamics on the politics of a given system, country, state, or region and applies various comparative methods to examine variations of government structures and behaviour across four different regi ons of the world: Africa, the Americas, Asia, and the Middle East. Practicals are related directly to the subject matter investigated in this module and offer a necessary platform in which students can experience practical application of the theory. The module aims at achieving the following objectives: \u25cf In-depth knowledge of the historical context of the Positivist and Post-positivist methods 132 used in Politics and International Relations. \u25cf To offer an understanding of the relationship of Politics to cognate disciplines. \u25cf To offer the analytical tools for students to apply qualitative and quantitative methods to real-world examples.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Politics 3B",
+    "Code": "POL3BB3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "This module provides an important examination of the theory and practice of foreign poli cy in the African context. The module aims at achieving the following objectives: \u2022 To offer knowledge of various theories of foreign policy -making as well as the instruments and actors that influence the choices made by foreign policy practitioners. \u2022 To offer and develop the critical analysis needed to identify and explain the courses of action taken by states in international relations. \u2022 To offer insight into how to link theoretical influences with implementation by examining 133 a number of case studies and the practice of diplomacy in general. \u2022 To offer an understanding of the major foreign policy agendas of respective African governments.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "Politics 3B",
+    "Code": "PIR3BB3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "This module provides an important examination of the theory and practice of foreign poli cy in the African context. The module aims at achieving the following objectives: \u2022 To offer knowledge of various theories of foreign policy -making as well as the instruments and actors that influence the choices made by foreign policy practitioners. \u2022 To offer and develop the critical analysis needed to identify and explain the courses of action taken by states in international relations. \u2022 To offer insight into how to link theoretical influences with implementation by examining 133 a number of case studies and the practice of diplomacy in general. \u2022 To offer an understanding of the major foreign policy agendas of respective African governments.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "Politics 3C",
+    "Code": "POL3CA3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "To offer knowledge of a range of arguments and debates in the fields of militarisation and migration and to offer and develop critical reasoning skills through the analysis of these debates.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Politics 3D",
+    "Code": "POL3DB3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "This module provides an important examination of the field of international political economy. These themes reflect contemporary events in the study of International Relations. The second half of the module examines international law as a factor in shaping the relations between a range of international actors, both s tate and non-state. The module aims at achieving the following objectives: \u2022 To offer the conceptual grounding and analytical tools of international political economy that are necessary to be able to understand the context of human activity today and in particular the grey area where the state meets the market. \u2022 To offer an understanding of the underlying principles of public international law. \u2022 To offer an overview of the legal themes most prevalent within international relations, particularly with regard to human rights, international crime and the environment. \u2022 To encourage debate on the issue of sovereignty versus intervention under international law. \u2022 To offer the conceptual grounding and analytical tools of international law that are necessary to be able to understand the context of human activity today.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "Psychology 1A",
+    "Code": "PSY1AA1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "Psychology 1A introduces students to the fundamentals of psychology. The module is aimed 135 at providing students with a broad theoretical foundation for further studies in psychology. To this end students encounter topics that encompass three interrelated explanatory approaches, namely biological, e.g. the role of the brain in human behaviour; psychological, e.g. cognition, motivation, and emotion; and environmental explanations, e.g. socio -cultural influences.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Psychology 1B",
+    "Code": "PSY1BB1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "Psychology 1B introduces students to major fields in psychology. The module is aimed at providing students with an introduction to four defin ing fields in contemporary psychology, namely developmental psychology, personality psychology and social psychology. Familiarity with the major concepts and issues related to each of these fields should enable students to engage with these fields at an ad vanced level in further studies.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Comment": "All programmes. PSY1A"
+      }
+    ]
+  },
+  {
+    "Course": "Psychology 2A (Developmental Psychology)",
+    "Code": "PSY2AA2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "Developmental Psychology is an important module in Psy chology. It introduces the basic principles of human development, which helps the psychology student to conceptualise and understand the ever-changing human being from conception to death. This conceptualisation and understanding is useful in everyday life (enhances understanding of e.g. family members, friends and work colleagues of different ages) and imperative for the psychologist -to-be.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Comment": "All programmes. PSY1A, 1B"
+      }
+    ]
+  },
+  {
+    "Course": "Psychology 2C (Social Psychology)",
+    "Code": "PSY2CA2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "The purpose of this module is to: provide an intermediate to advanced understanding of the scope and aims of Social Psychology, as well as its position within the larger discipline of scientific psychology; \uf020 \uf0b7 provide an intermediate to advanced understanding and comprehension of key Social Psychological topic areas, as well as the empirical basis that underlies them;\uf020 \uf0b7 provide an intermediate to advanced ability to distinguish between Social Psychological research areas and contrast its methods of research to those used in other subdisciplines in Psychology; \uf020137 \uf0b7 provide an introduction to the application of selected empirical methods to answer current scientific questions within the discipline of Social Psychology; \uf020 \uf0b7 provide an introduction to the application of Social Psychological research to real -world social interactions, and current psychosocial problems in South Africa.\uf020",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Comment": "All programmes. PSY1A, 1B"
+      }
+    ]
+  },
+  {
+    "Course": "Psychology 2D (Positive Psychology)",
+    "Code": "PSY2DB2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "The purpose of this module is to provide students with know ledge on the basic theory and concepts of the emerging field of Positive Psychology. Some of these concepts include: positive emotions, happiness, signature strengths, flow and creativity, psychological well - being, optimism, hope, wisdom, forgiveness, alt ruism, spirituality, meaning and purpose in life.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Comment": "All programmes. PSY2A or 2C"
+      }
+    ]
+  },
+  {
+    "Course": "Psychology 2F (Contemporary Psychology)",
+    "Code": "PSY2FB2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "The purpose of the Contemporary Psychology 2F module is to introduce students to current and relevant topic areas within modern scientific psychology that are not covered in detail by other modules within the BA Psychology qualification. Contemporary scientific psychology is a fast -developing, highly dynamic discipline that often contains a myriad of different sub - disciplines and topic areas. To ensure that students are familiarised with some of the key topic areas that are currently shaping the discipline of psychology as a whole, Contemporary Psychology 2F will offer a selected overview of one t o two key topic areas, depending on current developments within psychology, and moderated by departmental teaching resources.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 50,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Comment": "All programmes. PSY2A or 2C"
+      }
+    ]
+  },
+  {
+    "Course": "Psychology 2H (Personality Psychology)",
+    "Code": "PSY2HB2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "Students will be required to complete a number of continuous formative assessments, which will contribute to their semester mark. Students will al so be allowed to complete up to three formative assessments (but no fewer than two) and their two best marks will be considered when calculating the final semester mark.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Comment": "All programmes. PSY2A or 2C"
+      }
+    ]
+  },
+  {
+    "Course": "Psychology 3A (Research Psychology)",
+    "Code": "PSY3AA3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "\uf0b7 To introduce students to advanced research design in the behavioural sciences. \uf020 \uf0b7 To develop an understanding of the practical applications of specific re search design.\uf020 \uf0b7 To familiarise students with the description and manipulation of data using data analysis software. \uf020 \uf0b7 To develop students\u2019 skills in interpreting and analysing both descriptive and inferential statistics. \uf020",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 50,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Psychology 3D  (Psychopathology)",
+    "Code": "PSY3DB3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "The purpose of Psychology 3B (Psychopathology) is to expose students to a multidimensiona l approach to understanding psychopathology. This model is aimed at exposing students to the historical context of understanding psychopathology as well as current approaches, including assessment and diagnostic criteria. Students will be introduced to a s cope of categories of psychological disorder, with an emphasis on conceptualisations of multiple causality.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "Psychology  3E (Community  Psychology)",
+    "Code": "PSY3EA3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "The purpose of this module is to provide students w ith a broad understanding of what community psychology entails and the importance of context in working within South African communities. Focus on the different theories in community psychology. On completion of this module, students will have knowledge about the theories and contextual issues in community psychology and be able to apply this knowledge in the broad discipline of psychology.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Psychology 3F (Psychotherapeutic  Models)",
+    "Code": "PSY3FB3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "The purpose of Psychology 3F (Psychotherapy: Theories and Models) is to expose students to a comparative analys is of various psychotherapy systems by introducing students to a number of the older and newer models of psychotherapy within the contexts of the psychological theories that inform them. Students will encounter concepts pertaining to the basic change proce sses that underlie contemporary systems of psychotherapy, as well as a means to compare and evaluate their relative efficacies in offering treatments to specific clients/patients with specific presenting problems. The module aims to equip the student with the ability to discuss a transtheoretical analysis of various psychotherapy systems.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "Psychology 3G",
+    "Code": "PSY3GA3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "The purpose of Cognitive Psychology 3A is to expose students to one of the most important and influential subdisciplines within Scientific Psychology, Cognitive Psychology, and to train them in the most important methodological approaches in investigating cognitive processes in human and non -human an imals. Topics that will be discussed and studied include: Attentional and Perceptual Processes, Memory Systems, Representation and Organisation of Knowledge and Information, Language, Reasoning and Problem Solving, Cognitive Neuroscience and Artificial Int elligence.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Religion 1A (Currently not offered)",
+    "Code": "REL1AA1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "The purpose of this module is to: \uf0b7 introduce students to various ideas (theories) of what religion is and the scholarly ways of studying it;\uf020 \uf0b7 provide a brief overview of Christianity\u2019s founders, history, texts, teachings, rituals, spirituality and the role it played in shaping society.\uf020",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Religion  1B (Currently  not offered)",
+    "Code": "REL1BB1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "The purpose of this module is to provide a brief overview of the founders, texts, teachings, rituals, spirituality and history of Judaism and Islam and their role in shaping society.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "Religion 2A",
+    "Code": "REL2AA2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "The purpose of this module is to provide a brief overview of the founders, texts, teachings, rituals, spirituality and history of African Traditional Religion and the Eastern Religions and their role in shaping society.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Religion 2B",
+    "Code": "REL2BB2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "The purpose of this module is to provide insight into: \uf0b7 The role that diverse religions have had in shaping the political and economic landscape of societies. \uf020 \uf0b7 The relationship between religion, conflict and reconciliation. \uf020 \uf0b7 The tensions between religion and secular society.\uf020",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "Religion 3A",
+    "Code": "REL3AA3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "The purpose of this module is to introduce students to some of the major religions and their views and attitudes towards sex, sexuality and gender. These religions include African Traditional Religion, Eastern Religions, Judaism, Christianity and Islam.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Religion 3B",
+    "Code": "REL3BB3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "The purpose of this module is to: \uf0b7 introduce the contributions of diverse religions to environmental justice;\uf020 \uf0b7 raise various religions\u2019 participation within premodern, modern, and postmodern worldviews and demonstrate how their views influence the religion versus science debate. \uf020",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "Social Work 1A",
+    "Code": "SCW1AA1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "Section 1: To develop an understanding of what a social problem is and how it manifests in society. Section 2: To enhance the student's ability to grasp the essence and spirit of social work and social welfare from a social development perspective. Contemporary social welfare issues will be linked to the realities that social workers address every day.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Social Work 1B",
+    "Code": "SCW1BB1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "Section1: To introduce students to generalist social work practice through an exploration of the history, philosophical foundation, theoretical perspectives, professional roles and the skills repertoire of the profession of social work. This module will also lay the foundation for generalist social work practice, to be covered in mo re detail in the next term. Section 2: 147 To lay the knowledge foundation for generalist social work practice.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Social Work 2A",
+    "Code": "SCW2AA2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "Section 1: To equip students with essential knowledge about the theories and processes of social work practice with individuals. Section 2: To introduce the student to the foundational knowledge, skills and values of generalist social work practice with groups.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Comment": "Internship 1"
+      }
+    ]
+  },
+  {
+    "Course": "Social Work 2D",
+    "Code": "SCW2DB2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "Section 1: To introduce the student to the foundational knowledge, skills and values of generalist social work practice with diverse client populations, who are also population groups that are at risk. The section will also facilitate the development of self -awareness in relation to issues of human diversity. Section 2: To develop intellectual competencies and practical skills in the analysis, interpretation and application of the planned change process of community work.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Comment": "Internship 1"
+      }
+    ]
+  },
+  {
+    "Course": "Social Work 3A",
+    "Code": "SCW3AA3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "Section 1: Guided by participatory, people -centred theories students should be able to demonstrate an understanding of the facilitation of community development processes and principles in terms of various practice models and approaches to community development to address poverty, inequality and underdeve lopment towards sustainable development. Section 2: To enhance the acquisition of knowledge and skills regarding the levels of service rendering to families and children in a South African context. A specific focus is placed on the statutory processes and the role and function of social workers in service rendering organisations.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Comment": "Internship 2"
+      }
+    ]
+  },
+  {
+    "Course": "Social Work 3E",
+    "Code": "SCW3EA3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "Section 1 To develop and enhance student knowledge and skills on social work assessment and intervention practices. Section 2 150 To equip students with the knowledge and skills to assess and intervene with children and families within the South African context.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Comment": "Internship 2"
+      }
+    ]
+  },
+  {
+    "Course": "Social Work 3H",
+    "Code": "SCW3HB3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "Section 1: To develop in students advanced social work skills and knowledge on group processes and practices. Section 2: To highlight various paradigms and approaches to ethics and values in social work and focus on ethical dilemmas in social work practice.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Comment": "Internship 2"
+      }
+    ]
+  },
+  {
+    "Course": "Social Work 3J",
+    "Code": "SCW3JB3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "Section 1: To equip the generalist social worker with the competencies to promote health and mitigate the psychosocial effects of illness. Section 2 : To enhance student knowledge and skills on social development issues in the contemporary South African society, with emphasis on key themes that serve as a basis for the social development approach.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Comment": "Internship 2"
+      }
+    ]
+  },
+  {
+    "Course": "Social Work 4A",
+    "Code": "SCW4AA4",
+    "NQF": 8,
+    "Credits": 12,
+    "Description": "To highlight theoretical perspectives, approaches and models that facilitate assessment and intervention in general and those specifically relating to violence and trauma; substance abuse; and well -being.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Social Work 4C",
+    "Code": "SCW4CA4",
+    "NQF": 8,
+    "Credits": 12,
+    "Description": "To demonstrate understanding of theories, principles and skills on management and leadership within the context of community development.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Social Work 4D",
+    "Code": "SCW4DB4",
+    "NQF": 8,
+    "Credits": 12,
+    "Description": "To develop the student\u2019s knowledge and skills of macro social work practice from a social development perspective. The module will develop the student\u2019s understanding of the relationship between social, economic and political factors and its implications f or developmental welfare services. Skills in policy formulation, analysis and evaluation will be learnt including advocacy for social change at societal levels and in social service organisations.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Social Work 4H",
+    "Code": "SCW4HB4",
+    "NQF": 8,
+    "Credits": 12,
+    "Description": "To acquire introductory knowledge, skills and values regarding the management of human service organisations.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Social Work 4J",
+    "Code": "SCW4J04",
+    "NQF": 8,
+    "Credits": 24,
+    "Description": "To equip social work students with basic research knowledge and skills.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year",
+    "Prerequisite": [
+      {
+        "Course": "Internship 3"
+      }
+    ]
+  },
+  {
+    "Course": "Social Work 4L",
+    "Code": "SCW4LB4",
+    "NQF": 8,
+    "Credits": 12,
+    "Description": "To develop an appropriate theoretical knowledge base of supervision in social work and develop competence to operate in a social development perspective.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Social Work Internship 1",
+    "Code": "INT1001",
+    "NQF": 6,
+    "Credits": 32,
+    "Description": "The purpose of this module is for students to develop a stronger sense of personal and professional self.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year",
+    "Prerequisite": [
+      {
+        "Course": "Compulsory module for Social Work"
+      }
+    ]
+  },
+  {
+    "Course": "Social Work Internship 2",
+    "Code": "INT2002",
+    "NQF": 7,
+    "Credits": 32,
+    "Description": "The purpose of this module is for students to develop a beginning competence in working directly with individuals and groups.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year",
+    "Prerequisite": [
+      {
+        "Comment": "Internship 1"
+      }
+    ]
+  },
+  {
+    "Course": "Social Work Internship 3",
+    "Code": "INT3003",
+    "NQF": 7,
+    "Credits": 32,
+    "Description": "The purpose of this module is to develop intermediate competence in working directly with individuals and groups. In addition, students will develop a conscious ability to enter a community, and dialogue with, dream about and co -create li fe-giving opportunities with community members.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year",
+    "Prerequisite": [
+      {
+        "Comment": "Internship 2"
+      }
+    ]
+  },
+  {
+    "Course": "Social Work Internship 4",
+    "Code": "INT4004",
+    "NQF": 8,
+    "Credits": 32,
+    "Description": "To apply the generalist practice model at the micro, meso - and macro levels. To complete a minimum of 512 hours (three full days per week as designated b y the University) of field practice learning within a service learning environment and/or at a recognised social work agency setting, and simultaneously demonstrating his/her acquired social work skills, knowledge, values and principles.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year",
+    "Prerequisite": [
+      {
+        "Comment": "Internship 3"
+      }
+    ]
+  },
+  {
+    "Course": "Sociology 1A: The Individual and Society",
+    "Code": "SOC1AA1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "To provide an introduction to sociological concepts and develop an understanding of basic theoretical frameworks that shape the relationship between the individual and society.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Sociology 1B: The Dynamics of Social Divisions",
+    "Code": "SOC1BB1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "To introduce the student to key concepts related to social divisions and develop a substantive understanding of their theoretical underpinnings.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Sociology 2A: Social Relations",
+    "Code": "SOC2AA2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "160 This module explores the dynamics between individuals and how group situations may result in social conflicts at a broad level.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Sociology 2B: Clinical Sociology",
+    "Code": "SOC2BB2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "The first part of the module entails a critical review of the conceptual frameworks, models, theories and methods of intervention. The second part of the module focuses on an introduction to demography and two specific areas of application/intervention \u2013 HIV/AIDS and migration.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Sociology 3A: Sociology at Work",
+    "Code": "SOC3AA3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "To provide an in -depth exploration of the nature of the workplace and workplace issues; practically apply understanding of social concepts to research investigation; provide students with practical skills with regard to the conduct of qualitative research.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "Sociology 1A"
+          },
+          {
+            "Course": "Sociology 1B"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Course": "Sociology 3B: Sociological Theory",
+    "Code": "SOC3BB3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "To explore classical and contemporary sociological perspectives and arguments on globalisation; finalisation of research report.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "Sociology 1A"
+          },
+          {
+            "Course": "Sociology 1B"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Course": "Strategic Communication 1A: Strategic Communication as a  discipline",
+    "Code": "SCO1AA1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "The purpose of this module is to introduce the discipline of strategic communication and its underlying assumptions.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Strategic Communication 1B: Communities of Strategic Communication Practice",
+    "Code": "SCO1BB1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "The purpose of this module is to introduce students to the African media landscape and to identify the social -political challenges to strategic communication practice within the context of the Fourth Industrial Revolution.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Strategic Communication 2A: Stakeholder engagement",
+    "Code": "SCO2AA2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "The purpose of this module is to introduce students to the concept of stakeholders and to increase students\u2019 knowledge of the most recent shifts in stakeholder theorising that is conducive to effective stakeholder communication.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Strategic Communication 2B: Employee engagement",
+    "Code": "SCO2BB2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "The purpose of this module is to expose the student to contemporary approaches to the use of internal communication for strategic employee engagement. The module will provide insights into the complex nature of employer -employee relationships.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Strategic Communication 2C: Brand communication",
+    "Code": "SC02CA2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "This module introduces students to brand concepts with the purpose of managing them and their reputations.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Strategic Communication 2D: Digital communication",
+    "Code": "SC02DB2",
+    "NQF": 7,
+    "Credits": 16,
+    "Description": "To provide a sound understanding of digital communication, and its relationship to Strategic Communication.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "Strategic Communication 3A: Strategic insights",
+    "Code": "SCO3AA3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "The purpose of this module is to build on students\u2019 knowledge of strategic communication by introducing them to the most recent concepts from a mu lti-paradigmatic perspective.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Strategic Communication 3B: Sustainabilityleadership",
+    "Code": "SCO3BB3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "The purpose of this module is to enhance the students\u2019 knowledge and understanding of a purpose -led organisation, and how it is communicatively constituted through processes of sense giving and sense making to transform social realities and drive social change.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Strategic Communication 3C: Campaign Development",
+    "Code": "SCO3CA3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "To develop and consolidate contextual strategic communication skills for the execution and implementation of a communication strategy.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Strategic Communication 3D: Content creation and storytelling",
+    "Code": "SCO3DB3",
+    "NQF": 7,
+    "Credits": 22,
+    "Description": "To analyse strategic brand narrative and the social codes that influence th e creation and co-creation of content that support the strategic brand narrative.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Media 1A",
+    "Code": "MED1AA1",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": "To equip the student to analyse the use of traditional and digital media in public relations critically.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Media 1B",
+    "Code": "MED1BB1",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": "To equip students to write and produce media content for traditional and digital media platforms.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 50,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Media 2A",
+    "Code": "MED2AA2",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": "To equip the student to produce media and manage media relations \uf020",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Media 2B",
+    "Code": "MED2BB2",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": "To equip the student with the media knowledge to select appropriate Marketing PR platforms.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Media 3A",
+    "Code": "MED3AA3",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "To provide the student with an understanding of the regulatory context and its impact on media governance.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Professional Practice 1",
+    "Code": "PPR1001",
+    "NQF": 5,
+    "Credits": 32,
+    "Description": "To develop the student as a credible professional public relations practitioner.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Professional Practice 2",
+    "Code": "PPR2002",
+    "NQF": 5,
+    "Credits": 32,
+    "Description": "To equip the student to engage in dialogue with stakeholder communities in the execution of Public Relations activities or programmes.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Professional Practice 3",
+    "Code": "PPR3003",
+    "NQF": 6,
+    "Credits": 40,
+    "Description": "To equip the student to demonstrate professional competence in business contexts.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Public Relations 1A",
+    "Code": "PRL1AA1",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": "To introduce the student to the principles and practice of Public Relations.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Public Relations 1B",
+    "Code": "PRL1BB1",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": "To provide the student with an understanding of the environmental contexts in which Public Relations is practised. \uf020",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "Public Relations 2A",
+    "Code": "PRL2AA2",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": "To equip the student to plan and execute a Public Relations strategy.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Public Relations 2B",
+    "Code": "PRL2BB2",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": "To provide the student with an understanding of the process and importance of Corporate Branding.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "Public Relations 3A",
+    "Code": "PRL3AA3",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "To provide the student with an understanding of what constitutes sustainable Public Relations in developing contexts.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Public Relations  3B",
+    "Code": "PRL3BA3",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "To introduce the student to professional communication practice in global contexts.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Communication Management 1A",
+    "Code": "COM1AA1",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": "To introduce the student to the concept of what an organisation is, and how it functions.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Communication Management 1B",
+    "Code": "COM1BB1",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": "To introduce the student to the levels and scope of communication processes in 174 organisations.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "Communication Management 2A",
+    "Code": "COM2AA2",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": "To introduce the student to principles of communication management.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Communication  Management  2B",
+    "Code": "COM2BB2",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": "To provide the student with an understanding of the implications of various organisational communication approaches for managing communication.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Communication  Management  3A",
+    "Code": "COM3AA3",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "To provide the student with an understanding of various leadership and communication styles for managing people and organisational change.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Communication  Management  3B",
+    "Code": "COM3BA3",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "To develop students\u2019 ability to manage Public Relations in various professional business contexts.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Business Communication  B",
+    "Code": "CBSEXB1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "Prepare students for the world of work where interpersonal relationships form the foundation of the business environment. Give them the nece ssary skills and knowledge of interviews",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "A Development  Studies 1A  DEVEXA1",
+    "Code": "DEV1AA1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "To introduce the student to the development field and investigate the nature and dimensions of development problems that poor states/communities experience.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "A Development  Studies 1B  DEVEXB1",
+    "Code": "DEV1BB1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "The module introduces policy and practice of development.",
+    "Assessment": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Year"
+  },
+  {
+    "Course": "English 1C",
+    "Code": "ENGEXC1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "To introduce students to the con ventions and disciplines of academic writing, and to develop their reading, writing and thinking skills.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Comment": "BA extended"
+      }
+    ]
+  },
+  {
+    "Course": "English 1D",
+    "Code": "ENGEXD1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "To introduce studen ts to the conventions of academic argument, text -based research, the analysis of source material and to support the further development and strengthening of their critical reading, writing and thinking skills.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 40,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Comment": "BA extended"
+      }
+    ]
+  },
+  {
+    "Course": "Linguistics 1A  LINEXA1",
+    "Code": "LIN1AA1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "The purpose of this module is to: 180 introduce students to the core domains of linguistics, i.e. phonetics, phonology, morphology, semantics, syntax and pragmatics.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Linguistics 1B  LINEXB1",
+    "Code": "LIN1BB1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "The purpose of this module is twofold: \uf0b7 To continue the introduction to the core domains of linguistics, namely phonetics, phonology, morphology, semantics, syntax and pragmatics \uf020 \uf0b7 To introduce students to selected linguistic perspectives, i.e. psycholinguistics and sociolinguis tics\uf020",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester"
+  },
+  {
+    "Course": "Maps in the  Humanities",
+    "Code": "MHUEX01",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "This module equips students to develop a comprehensive perspective of higher education. It prepares students to become lifelong learners, recognise diversity, personal financial managers, active citizens and self -directed learners.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Philosophy  1A ",
+    "Code": "PHL1AA1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "The purpose of the module is to (1) help you master critical thinking skills; (2) introduce you to the nature, style and methods of philosophy; (3) teach you basic writing skills in philosophy; (4) familiarise you with some central debates in philosophy.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Strategic Communication  1A ",
+    "Code": "SCO1AA1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "The purpose of this module is to introduce the discipline of strategic communication and its underlying assumptions.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Strategic Communication  1B",
+    "Code": "SCOEXB1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "The purpose of this m odule is to introduce students to the African media landscape and to identify the social -political challenges to strategic communication practice within the context of the Fourth Industrial Revolution.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Comment": "BA Extended. B7EX5Q."
+      }
+    ]
+  },
+  {
+    "Course": "Strategic Communication  1B",
+    "Code": "SCO1BB1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "The purpose of this m odule is to introduce students to the African media landscape and to identify the social -political challenges to strategic communication practice within the context of the Fourth Industrial Revolution.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Active Citizenship 1A",
+    "Code": "ACS1AA1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "The purpose of this module is to make students aware of the importance of citizenship, spec ifically active citizenship in a democracy, and its impact on their own lives and on the lives of others. The keyword here is AWARENESS. While Humanities has departments and modules that already touch on aspects of citizenship relative to their module cont ent, for example, Politics, Public Governance, Communications, Philosophy, Sociology, etc., there is no module currently that is dedicated wholly to active citizenship. A module in active citizenship would aim to help the students to understand both their own identity and the nature of society and, most importantly, \u201chow to manage the complex relationship of rights and responsibilities that exist between the two\u201d (Ross, 2008: 492).",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester",
+    "Prerequisite": [
+      {
+        "Comment": "Service module for CBE, FEBE"
+      }
+    ]
+  },
+  {
+    "Course": "Communication Skills 1 (Year module)",
+    "Code": "COM1001",
+    "NQF": 5,
+    "Credits": 12,
+    "Description": "To equip students with the necessary skills to be able to communicate effectively within the context of the dynamic, modern social and work environment.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "English: Communication Studies 1A",
+    "Code": "CSA1AA1",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": "To equip students with the necessary writing and social skills required in the work environment.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester"
+  },
+  {
+    "Course": "English: Communication Studies 1B",
+    "Code": "CSA1BB1",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": "To equip students with the necessary techniques required for business and academic writing.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester"
+  },
+  {
+    "Course": "English: Communication Skills  (Module 1)",
+    "Code": "COS1AA1",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": "The purpose this module is to develop the ability of students to select and apply communication skills in ways that are appropriate to the particular workplace context, audience and situation of the discipline of analytical chemistry.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester"
+  },
+  {
+    "Course": "English: Communication Skills (Module 2)",
+    "Code": "COS1BB1",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": "The purpose of a module is to develop the ability of students to select and apply communication skills in ways that are appropriate to the particular workplace context, audience and situation of the discipline of analytical chemistry.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 50,
+        "Dynamic": true
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester"
+  },
+  {
+    "Course": "Engineering  Communication Skills 1A",
+    "Code": "ECS1AA1",
+    "NQF": 5,
+    "Credits": 7,
+    "Description": "To equip students with the necessary skills to be able to communicate effectively within the context of the dynamic, modern social and work environment.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester"
+  },
+  {
+    "Course": "Engineering Communication Skills 1B",
+    "Code": "ECS1BB1",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": "To equip students with the necessary writing and social skills required skills in the work environment.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester"
+  },
+  {
+    "Course": "Business Communication 1A",
+    "Code": "ATK1AA1",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": "To acquire reading and writing skills related to different contexts; to apply reading and writing skills appropriately in different contexts.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Communication 1B",
+    "Code": "ATK1BB1",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": " Know the communication process, and be able to communicate effectively with other people in different social contexts. \uf020 \uf0b7 Reflect and apply interpersonal communication skills.\uf020 \uf0b7 Demonstrate effective public speaking skills through oral presentation. \uf020 \uf0b7 Reflect on the importance of sensitivity in multicultural contexts and consciously use that knowledge in interpersonal communication. \uf020 \uf0b7 Gain knowledge of meeting procedures, types of meetings and documents associated with meetings. \uf020",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester"
+  },
+  {
+    "Course": "Business and  Administrative Communication : English 1",
+    "Code": "BBA1AA1",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": "To acquire reading and writing skills related to different contexts; to apply reading and writing skills appropriately in different contexts.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester"
+  },
+  {
+    "Course": "Business and  Administrative Communication : English 1",
+    "Code": "BBA1BB1",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": " Know the communication process, and be able to communicate effectively with other people in different social contexts. \uf020 \uf0b7 Reflect and apply interpersonal communication skills.\uf020 \uf0b7 Demonstrate effective public speaking skills through oral presentation. \uf020 \uf0b7 Reflect on the importance of sensitivity in multicultural contexts and consciously use that knowledge in interpersonal communicati on.\uf020193 \uf0b7 Gain knowledge of meeting procedures, types of meetings and documents associated with meetings. \uf020",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester"
+  },
+  {
+    "Course": "English 1A",
+    "Code": "PME1AA1",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": "To acquire reading and writing skills related to different contexts; to apply re ading and writing skills appropriately in different contexts.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester"
+  },
+  {
+    "Course": "English 1B",
+    "Code": "PME1BB1",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": " Know the communication process, and be able to communicate effectively with other people in different social contexts. \uf020 \uf0b7 Reflect and apply interpersonal communication skills.\uf020 \uf0b7 Demonstrate effective public speaking skills through oral presentation. \uf020 \uf0b7 Reflect on the importance of sensitivity in multicultural contexts and consciously use that knowledge in interpersonal communication. \uf020 \uf0b7 Gain knowledge of meeting procedures, types of meetings and documents associated with meetings. \uf020",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester"
+  },
+  {
+    "Course": "Hospitality Communication 1 / Business Literacy 1",
+    "Code": "BLC1001",
+    "NQF": 5,
+    "Credits": 8,
+    "Description": "To be capable in applying various modes of industry -specific information technology to access and communicate information effectively in order to promote the Hospitality Industry in a changing business environment. (Foundational and practical competence)",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Hospitality Communication 2 / Business Literacy 2",
+    "Code": "BLC2002",
+    "NQF": 5,
+    "Credits": 8,
+    "Description": "To be able to communicate effectively in written, vocal and intercultural exchanges to enhance effectiveness in the Hospitality Industry context. (Foundational and practical competence.)",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "English (Marketing  Module A)",
+    "Code": "RMM1AA1",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": " Collect, analyse, organise and critically evaluate information, fundamental to the process of growing language capability across language applications and fields of study.\uf020 \uf0b7 Identify and solve problems: using context to decode and make meaning individually and in groups in oral, reading and written activities. \uf020 \uf0b7 Differentiate and apply language usage in business and academic contexts. \uf020 \uf0b7 To apply reading and writing skills appropriately to different contexts. \uf020",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester"
+  },
+  {
+    "Course": "English (Marketing  Module B)",
+    "Code": "RMM1BB1",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": "\uf0b7 Collect, analyse, organise and critically evaluate information, fundamental to the process of growing language capability across language applications and fields of study.\uf020 \uf0b7 Identify and solve problems: using context to decode and make meaning individually and in groups in oral, reading and written activities. \uf020 \uf0b7 Differentiate and apply language usage in business and academic contexts. \uf020 \uf0b7 To apply reading and writing skills appropriately to diff erent contexts. \uf020",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester"
+  },
+  {
+    "Course": "English (Marketing Module B)",
+    "Code": "RMM1BB1",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": "\uf0b7 Collect, analyse, organise and critically evaluate information, fundamental to the process of growing language capability across language applications and fields of study.\uf020 \uf0b7 Identify and solve problems: using context to decode and make meaning individually and in groups in oral, reading and written activities. \uf020 \uf0b7 Know the communication process, and be able to communicate effectively with other people in different social contexts. \uf020 \uf0b7 Differentiate and apply language usage in business and academic contexts. \uf020 \uf0b7 Reflect and apply interpersonal communication skills.\uf020 \uf0b7 Reflect on the importance of sensitivity in multicultural contexts and consciously use that knowledge in interpersonal communication. \uf020",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester"
+  },
+  {
+    "Course": "English (Marketing Module B)",
+    "Code": "RMM11B2",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": "\uf0b7 Collect, analyse, organise and critically evaluate information, fundamental to the process of growing language capability across language applications and fields of study.\uf020 \uf0b7 Identify and solve problems: using context to decode and make meaning individually and in groups in oral, read ing and written activities. \uf020 \uf0b7 Know the communication process, and be able to communicate effectively with other people in different social contexts. \uf020 \uf0b7 Differentiate and apply language usage in business and academic contexts. \uf020 \uf0b7 Reflect and apply interpersonal com munication skills.\uf020 \uf0b7 Reflect on the importance of sensitivity in multicultural contexts and consciously use that knowledge in interpersonal communication. \uf020",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester"
+  },
+  {
+    "Course": "Writing for public relations 1A",
+    "Code": "WPR1AA1",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": "Organise information, fundamental to the process of growing language capability across language applications and fields of study.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester"
+  },
+  {
+    "Course": "Writing for public relations 1B",
+    "Code": "WPR1BB1",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": "Organise information fundamental to the process of growing language capability across language applications and fields of study",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester"
+  },
+  {
+    "Course": "Writing for public relations 2A",
+    "Code": "WPR2AA2",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": "\uf0b7 Distinguish between subjective and objective writing \u2013 with an emphasis on understanding the techniques used in subjective writing.\uf020 \uf0b7 Demonstrate the ability to manipulate language in a variety of contexts. \uf020 \uf0b7 Collect, analyse, organise and critically evaluate information, fundamental to the process of growing language capability across language applications and fields of study.\uf020 \uf0b7 Identify and solve problems: using context to decode and make meaning individually and in groups in oral, reading and written activities. \uf020",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester"
+  },
+  {
+    "Course": "Writing for public relations 2B",
+    "Code": "WPR2BB2",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": " Distinguish between subjective and objective writing \u2013 with an emphasis on understanding the techniques used in subjective writing.\uf020 \uf0b7 Demonstrate the ability to manipulate language in a variety of contexts. \uf020 \uf0b7 Collect, analyse, organise and critically evaluate information, fundamental to the process of growing language capability across language applications and fields of study.\uf020 \uf0b7 Identify and solve problems: using context to decode and make meaning individually and in groups in oral, reading and written activities. \uf020",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester"
+  },
+  {
+    "Course": "Writing for sport  public relations 2A",
+    "Code": "WSP2AA2",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": "Distinguish between subjective and objective writing \u2013 with an emphasis on understanding the techniques used in subjective writing.\uf020 \uf0b7 Demonstrate the ability to manipulate language in a variety of contexts. \uf020 \uf0b7 Collect, analyse, organise and critically evaluate information, fundamental to the process of growing language capability across language applications and fields of study\uf020 \uf0b7 Identify and solve problems: using context to deco de and make meaning individually and in groups in oral, reading and written activities. \uf020",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+  },
+  {
+    "Course": "Writing for sport public relations  2B",
+    "Code": "WSP2BB2",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": "Distinguish between subjective and objective writing \u2013 with an emphasis on understanding the techniques used in subjective writing.\uf020 \uf0b7 Demonstrate the ability to manipulate language in a variety of contexts. \uf020 \uf0b7 Collect, analyse, organise and critically evaluate information, fundamental to the process of growing language capability across language applications and fields of study.\uf020 \uf0b7 Identify and solve problems: using context to decode and make meaning individually and in groups in oral, reading and written activities. \uf020",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester"
+  },
+  {
+    "Course": "Business Communication",
+    "Code": "CBS1BB1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "Prepare students for the world of work where interpersonal relationships form the foundation of the business environment. Give them the necessary skills and knowledge of interviews.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester"
+  },
+  {
+    "Course": "Business Communication",
+    "Code": "CBSEXB1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "Prepare students for the world of work where interpersonal relationships form the foundation of the business environment. Give them the necessary skills and knowledge of interviews.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester "
+  },
+  {
+    "Course": "Business  Communication 1",
+    "Code": "COS1AA1",
+    "NQF": 6,
+    "Credits": 16,
+    "Description": "Prepare students for the social and business relationships in the world of work.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester"
+  },
+  {
+    "Course": "Professional Writing Skills 1A",
+    "Code": "PWS1AA1",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": "Organise information, fundamental to the process of growing language capability across language applications and fields of study.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester"
+  },
+  {
+    "Course": "Professional Writing Skills 1B",
+    "Code": "PWS1BB1",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": "Organise information fundamental to the process of growing language capability across language applications and fields of study .",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester"
+  },
+  {
+    "Course": "Applied Business Communication 1A",
+    "Code": "ABC1AA1",
+    "NQF": 5,
+    "Credits": 16,
+    "Description": "Tourism and Hospitality Communication is committed to equip students with the skills to communicate effectively in the Tourism and Hospitality industry. Further, implicit in this outcome is the need to equip students with the necessary English skills for successful study in their discipline.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      1
+    ],
+    "Duration": "Semester"
+  },
+  {
+    "Course": "Communication 1B",
+    "Code": "ABC1BB1",
+    "NQF": 5,
+    "Credits": 12,
+    "Description": "Tourism and Hospitality Communication is committed to equip students with the skills to communicate effectively in the Tourism and Hospitality industry. Further, implicit in this outcome is the need to equip students with the necessa ry English skills for successful study in their discipline.",
+    "Assessment": [
+      {
+        "Name": "Full Period Mark",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg",
+    "Period": [
+      2
+    ],
+    "Duration": "Semester"
+  }
+]

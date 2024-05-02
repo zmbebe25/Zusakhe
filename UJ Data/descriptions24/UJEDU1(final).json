@@ -1,0 +1,6304 @@
+[
+  {
+    "Course": "Education Studies 1A",
+    "Code": "EDS10A1",
+    "NQF": "5",
+    "Credits": "16",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing a broad understanding of the organizing principle and theoretical framework underpinning childhood development in the programme.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Education Studies 1B",
+    "Code": "EDS20B1",
+    "NQF": "6",
+    "Credits": "16",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing an understanding of childhood physical development and sensory development to enable them to support learners  development in the foundation phase classroom.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Studies 1A",
+    "Code": "TST10A1",
+    "NQF": "5",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing a conceptually coherent viewpoint of the interplay of the various roles which underlie a teacher s professional practice, with special reference the teacher s community and citizen role.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Studies 1A",
+    "Code": "TST10A1",
+    "NQF": "5",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to provide students with an overview of the teaching profession in order for them to develop a conceptually coherent view of the interplay of the various roles which underlie teaching as professional practice.Teaching as professionA personal teaching philosophy Teacher as mediator of learning Teacher as reflective practitionerCurriculum designClassroom management",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Studies 1B",
+    "Code": "TST20B1",
+    "NQF": "6",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+
+    "Description": "The purpose of this module is to guide students in developing educational information technological skills in order to enhance the use of ICT in teaching and learning in the foundation phase",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Studies 1B",
+    "Code": "TST20B1",
+    "NQF": "6",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to introduce students to community engagement and service learning in order to help them understand teaching as the practice of citizenshipIntroduction to community engagement and service learning Teaching as practice of citizenship Teaching for social justice Teaching for CARE (Community,",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Mathematics for the Foundation Phase 1A",
+    "Code": "MFP10A1",
+    "NQF": "5",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing an understanding of number and number systems to enable them to support children's acquisition of the concepts associated with numbers and number systems.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Mathematics for the Foundation Phase 1B",
+    "Code": "MFP20B1",
+    "NQF": "6",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of the module is to guide students in developing an understanding of algebra and fractions to enable them to support children s acquisition of the number concepts and operations associated with algebra and fractions.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "English for the Primary School 1A",
+    "Code": "EPS10A1",
+    "NQF": "5",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing academic literacy as well as the requisite subject knowledge in English to enable them to support English language learning in the foundation phase classroom.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "English for the Primary School 1B",
+    "Code": "EFP20B1",
+    "NQF": "6",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing their own English language competence and the requisite subject knowledge in English to enable them to support English language learning in the foundation phase classroom.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Introduction to seSotho for the Foundation Phase 1A",
+    "Code": "SOF1AA1",
+    "NQF": "5",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guidestudents in developing language competence in seSotho to enable basic communication.",
+    "Assessment": [
+      {
+        "Name": "Summative Assessment 1",
+        "Type": "Assessment",
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Summative Assessment 2"
+          }
+        ]
+      },
+      {
+        "Name": "Formative Assessment 1 (Practical Component)",
+        "Type": "Assessment"
+      },
+      {
+        "Name": "Final Summative Assessment",
+        "Type": "Assessment"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "isiZulu  for the Foundation Phase 1B",
+    "Code": "ZUF1BB1",
+    "NQF": "6",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing language competence in isiZulu to enable basic communication.",
+    "Assessment": [
+      {
+        "Name": "Summative Assessment 1",
+        "Type": "Assessment",
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Summative Assessment 2"
+          }
+        ]
+      },
+      {
+        "Name": "Formative Assessment 1 (Practical Component)",
+        "Type": "Assessment"
+      },
+      {
+        "Name": "Final Summative Assessment",
+        "Type": "Assessment"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Introduction to isiZulu for the Foundation Phase 1A",
+    "Code": "ZUF1AA1",
+    "NQF": "5",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guidestudents in developing language competence in isiZulu to enable basic communication.",
+    "Assessment": [
+      {
+        "Name": "Summative Assessment 1",
+        "Type": "Assessment",
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Summative Assessment 2"
+          }
+        ]
+      },
+      {
+        "Name": "Formative Assessment 1 (Practical Component)",
+        "Type": "Assessment"
+      },
+      {
+        "Name": "Final Summative Assessment",
+        "Type": "Assessment"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "SeSotho for the Foundation Phase 1B",
+    "Code": "SOF1BB1",
+    "NQF": "6",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing language competence in seSotho to enable basic communication.",
+    "Assessment": [
+      {
+        "Name": "Summative Assessment 1",
+        "Type": "Assessment",
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Summative Assessment 2"
+          }
+        ]
+      },
+      {
+        "Name": "Formative Assessment 1 (Practical Component)",
+        "Type": "Assessment"
+      },
+      {
+        "Name": "Final Summative Assessment",
+        "Type": "Assessment"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Culture and the Natural Environment for the Foundation Phase 1B",
+    "Code": "CNE20B1",
+    "NQF": "6",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in acquiring the requisite physical education content knowledge and skills to enable them to teach physical education as part of Life Skills and to partake in and supervise/administer sport activities at school.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum 1A",
+    "Code": "MPR1A01",
+    "NQF": "5",
+    "Credits": "12",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Description": "The purpose of this module is to guide students in developing an understanding of the methodology for teaching Grade R and to provide them with practise opportunities to developteaching skills for the Grade R-classroom.",
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum 1B",
+    "Code": "MFP20B1",
+    "NQF": "6",
+    "Credits": "12",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to enable students to develop an understanding of the essential linguistic components that are important in teaching children how to read and to provide them with practise opportunities to develop teaching skills for teaching children to read.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Education Studies 2A",
+    "Code": "EDS10A2",
+    "NQF": "6",
+    "Credits": "16",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing an understanding of childhood cognitive development, specifically pertaining to children from birth to 12 years, in order to enable them to support children s learning in the foundation phase classroom",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Education Studies 2B",
+    "Code": "EDS20B2",
+    "NQF": "6",
+    "Credits": "16",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": " The purpose of this module is to guide students in developing an understanding of childhood social and emotional development from birth to middle childhood, to enable them to support learners  socio  emotional development in the foundation phase classroom",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "English for the Primary School 2A",
+    "Code": "EPS10A2",
+    "NQF": "6",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing academic literacy and the requisite subject knowledge in English to enable them to support English language learning in the foundation phase classroom.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "English for the Primary School 2B",
+    "Code": "EPS20B2",
+    "NQF": "6",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing their own English language competence and the requisite subject knowledge in English to enable them to support English language learning in the foundation phase classroom.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "IsiZulu for the Foundation Phase 2A",
+    "Code": "ZFP2AA2",
+    "NQF": "6",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing language competence in isiZulu to enable basic communication",
+    "Assessment": [
+      {
+        "Name": "Summative Assessment 1",
+        "Type": "Assessment",
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Summative Assessment 2"
+          }
+        ]
+      },
+      {
+        "Name": "Formative Assessment 1 (Practical Component)",
+        "Type": "Assessment"
+      },
+      {
+        "Name": "Final Summative Assessment",
+        "Type": "Assessment"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Sesotho for the Foundation Phase 2A",
+    "Code": "SOF2AA2",
+    "NQF": "6",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing language competence in seSotho to enable basic communication",
+    "Assessment": [
+      {
+        "Name": "Summative Assessment 1",
+        "Type": "Assessment",
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Summative Assessment 2"
+          }
+        ]
+      },
+      {
+        "Name": "Formative Assessment 1 (Practical Component)",
+        "Type": "Assessment"
+      },
+      {
+        "Name": "Final Summative Assessment",
+        "Type": "Assessment"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Mathematics for the Foundation Phase 2A",
+    "Code": "MFP10A2",
+    "NQF": "6",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of the module is to guide students in developing an understanding of space and shapes to enable them to support children s acquisition of the concepts associated with space and shape.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Mathematics for the Foundation Phase 2B",
+    "Code": "MFP20B2",
+    "NQF": "6",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of the module is to guide students in developing an understanding of measurement to enable them to support children s acquisition of the concepts associates with mass and weight.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Culture and the Natural Environment for the Foundation Phase 2A",
+    "Code": "CNE10A2",
+    "NQF": "6",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing the requisite contentknowledge and skills to enable them to teach music, drama, arts and craft as part of Life Skills.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Culture and the Natural Environment for the Foundation Phase 2B",
+    "Code": "CNE20B2",
+    "NQF": "6",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing the requisite content knowledge and skills to enable them to teach thesocial science and personal well-being components of Life Skills.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Studies 2B",
+    "Code": "TSD20B2",
+    "NQF": "6",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of the module is to guide students in developing educational leadership, management and administrative skills in order to enable them to effectively lead, manage and communicate both in the classroom and between the school and home.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum 2A",
+    "Code": "SZF2AA2",
+    "NQF": "6",
+    "Credits": "12",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of the module is to guide students in developing an understanding of the essential linguistic components that are important in teaching children how to read and to provide them with practise opportunities to develop teaching skills for teaching children to read. Methodology for literacy (seSotho): Development of phonetic knowledge in grade 1Development of semantic knowledge in grade 1Development of morphemic knowledge in grade 1Practicum  learning in and from practice",
+    "Assessment": [
+      {
+        "Name": "Summative Assessment 1",
+        "Type": "Assessment",
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Summative Assessment 2"
+          }
+        ]
+      },
+      {
+        "Name": "Formative Assessment 1 (Practical Component)",
+        "Type": "Assessment"
+      },
+      {
+        "Name": "Final Summative Assessment",
+        "Type": "Assessment"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum 2A",
+    "Code": "ZSF2AA2",
+    "NQF": "6",
+    "Credits": "12",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of the module is to guide students in developing an understanding of the essential linguistic components that are important in teaching children how to read and to provide them with practise opportunities to develop teaching skills for teaching children to read.Methodology for literacy (isiZulu): Development of phonetic knowledge in grade 1Development of semantic knowledge in grade 1Development of morphemic knowledge in grade 1Practicum  learning in and from practice",
+    "Assessment": [
+      {
+        "Name": "Summative Assessment 1",
+        "Type": "Assessment",
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Summative Assessment 2"
+          }
+        ]
+      },
+      {
+        "Name": "Formative Assessment 1 (Practical Component)",
+        "Type": "Assessment"
+      },
+      {
+        "Name": "Final Summative Assessment",
+        "Type": "Assessment"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum 2B",
+    "Code": "MPR20B2",
+    "NQF": "6",
+    "Credits": "12",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of the module is to guide students in developing an understanding of teaching methods relevant for teaching literacy and initial writing and to provide them with practise opportunities to develop teaching skills for literacy and initial writing teaching.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Education Studies 3A",
+    "Code": "EDS10A3",
+    "NQF": "7",
+    "Credits": "16",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing an understanding of language and literacy development in children from birth to middle childhood, to enable them to support children in their language and literacy development in the foundation phase classroom. ",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Education Studies 3B",
+    "Code": "EDS20B3",
+    "NQF": "7",
+    "Credits": "16",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing an understanding of barriers to learning and development in the foundation phase classroom to enable them to identify a specific barrier and to give optimal support",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "English for the Foundation Phase 3A (Pipeline students only in 2019)",
+    "Code": "EFP1A03",
+    "NQF": "6",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is guide students in developing their own English language competence and the requisite subject knowledge in English to enable them to support English language learning in the foundation phase classroom",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "English for the Foundation Phase 3B",
+    "Code": "EFP20B3",
+    "NQF": "7",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developingacademic literacy and the requisite subject knowledge in English to enable them to support English language learning in the foundation phase classroom. ",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "English for the Primary School 3A",
+    "Code": "EPS10A3",
+    "NQF": "7",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is guide students in developing their own English language competence and the requisite subject knowledge in English to enable them to support English language learning in the foundation phase classroom",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "English for the Primary School 3B",
+    "Code": "EPS20B3",
+    "NQF": "7",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing academic literacy and the requisite subject knowledge in English to enable them to support English language learning in the foundation phase classroom. ",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "IsiZulu for the Foundation Phase 3A",
+    "Code": "ZFP3AA3",
+    "NQF": "6",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing language competence in isiZulu to enable basic communication",
+    "Assessment": [
+      {
+        "Name": "Summative Assessment 1",
+        "Type": "Assessment",
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Summative Assessment 2"
+          }
+        ]
+      },
+      {
+        "Name": "Formative Assessment 1 (Practical Component)",
+        "Type": "Assessment"
+      },
+      {
+        "Name": "Final Summative Assessment",
+        "Type": "Assessment"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Sesotho for the Foundation Phase 3A",
+    "Code": "SFP3AA3",
+    "NQF": "6",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing language competence in seSotho to enable basic communication",
+    "Assessment": [
+      {
+        "Name": "Summative Assessment 1",
+        "Type": "Assessment",
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Summative Assessment 2"
+          }
+        ]
+      },
+      {
+        "Name": "Formative Assessment 1 (Practical Component)",
+        "Type": "Assessment"
+      },
+      {
+        "Name": "Final Summative Assessment",
+        "Type": "Assessment"
+      }
+    ],
+    "Prerequisite": [
+      {
+        "Comment": "Grade 12 Zulu/ Sotho 1st Language is a prerequisite"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "IsiZulu for the Foundation Phase 3A",
+    "Code": "ZUF3AA3",
+    "NQF": "6",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing language competence in isiZulu to enable basic communication",
+    "Assessment": [
+      {
+        "Name": "Summative Assessment 1",
+        "Type": "Assessment",
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Summative Assessment 2"
+          }
+        ]
+      },
+      {
+        "Name": "Formative Assessment 1 (Practical Component)",
+        "Type": "Assessment"
+      },
+      {
+        "Name": "Final Summative Assessment",
+        "Type": "Assessment"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Sesotho for the Foundation Phase 3A",
+    "Code": "SOF3AA3",
+    "NQF": "6",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing language competence in seSotho to enable basic communication",
+    "Assessment": [
+      {
+        "Name": "Summative Assessment 1",
+        "Type": "Assessment",
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Summative Assessment 2"
+          }
+        ]
+      },
+      {
+        "Name": "Formative Assessment 1 (Practical Component)",
+        "Type": "Assessment"
+      },
+      {
+        "Name": "Final Summative Assessment",
+        "Type": "Assessment"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "isiZulu for the Foundation Phase 3B",
+    "Code": "ZFP3BB3",
+    "NQF": "7",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing language competence in isiZulu to enable basic communication",
+    "Assessment": [
+      {
+        "Name": "Summative Assessment 1",
+        "Type": "Assessment",
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Summative Assessment 2"
+          }
+        ]
+      },
+      {
+        "Name": "Formative Assessment 1 (Practical Component)",
+        "Type": "Assessment"
+      },
+      {
+        "Name": "Final Summative Assessment",
+        "Type": "Assessment"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "seSotho for the Foundation Phase 3B",
+    "Code": "SFP3BB3",
+    "NQF": "7",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing language competence in seSotho to enable basic communication",
+    "Assessment": [
+      {
+        "Name": "Summative Assessment 1",
+        "Type": "Assessment",
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Summative Assessment 2"
+          }
+        ]
+      },
+      {
+        "Name": "Formative Assessment 1 (Practical Component)",
+        "Type": "Assessment"
+      },
+      {
+        "Name": "Final Summative Assessment",
+        "Type": "Assessment"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "isiZulu for the Foundation Phase 3B",
+    "Code": "ZUF3BB3",
+    "NQF": "7",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing language competence in isiZulu to enable basic communication",
+    "Assessment": [
+      {
+        "Name": "Summative Assessment 1",
+        "Type": "Assessment",
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Summative Assessment 2"
+          }
+        ]
+      },
+      {
+        "Name": "Formative Assessment 1 (Practical Component)",
+        "Type": "Assessment"
+      },
+      {
+        "Name": "Final Summative Assessment",
+        "Type": "Assessment"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "seSotho for the Foundation Phase 3B",
+    "Code": "SOF3BB3",
+    "NQF": "7",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing language competence in seSotho to enable basic communication",
+    "Assessment": [
+      {
+        "Name": "Summative Assessment 1",
+        "Type": "Assessment",
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Summative Assessment 2"
+          }
+        ]
+      },
+      {
+        "Name": "Formative Assessment 1 (Practical Component)",
+        "Type": "Assessment"
+      },
+      {
+        "Name": "Final Summative Assessment",
+        "Type": "Assessment"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Mathematics for the Foundation Phase 3A",
+    "Code": "MFP10A3",
+    "NQF": "6",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of the module is to guide students in developing an understanding of measurements of different shapes and different scales and units of measure to enable them to support children s acquisition of the conceptsassociated with measurements of different shapes and different scales and units of measure.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Mathematics for the Foundation Phase 3B",
+    "Code": "MFP20B3",
+    "NQF": "7",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of the module is to guide students in developing an understanding of data handling to enable them to support children s acquisition of the concepts associated with data handling.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Culture and the Natural Environment for the Foundation Phase 3A",
+    "Code": "CNE10A3",
+    "NQF": "7",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in acquiring the requisite content knowledge and skills to enable them to teach the natural science, space science and earth and environmental science components of Life Skills.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Studies 3B",
+    "Code": "TSD20B3",
+    "NQF": "7",
+    "Credits": "8",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of the module is to guide students in developing an understanding of how to create a positive and motivating learning environment in the foundation phase classroom.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum 3A",
+    "Code": "MPR1A03",
+    "NQF": "6",
+    "Credits": "12",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "This module has a two pronged purpose:To guide students in developing an understanding of the methodology for teaching numeracy and to provide them with practise opportunities to develop teaching skills for supporting mathematics learning. To guide students in developing an understanding of the pedagogy for teaching literacy and language in grades two and three andto provide them with practise opportunities to develop teaching skills for supporting language and literacy learning.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum 3B",
+    "Code": "MPR20B3",
+    "NQF": "7",
+    "Credits": "12",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "This module has a two pronged purpose:To guide students in developing an understanding of the methodology for teaching numeracy and to provide them with practise opportunities to develop teaching skills for supporting mathematics learningTo guide students in developing an understanding of thepedagogy for teaching literacy and language across the content areas of social sciences and natural sciences in grades two and three and to provide them with practise opportunities to develop teaching skills for supporting language and literacy learning.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Studies, Methodology and Practicum",
+    "Code": "TMP00Y4",
+    "NQF": "7",
+    "Credits": "120",
+    "Duration": "Year",
+    "Description": "The purpose of this module is to support students to hone their teaching and professional competence and todevelop as critically  reflective practitioners.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Education Studies 1A",
+    "Code": "EDUSTA1",
+    "Credits": "16",
+    "NQF": "5",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guidestudents in developing an understanding of the organizational principles and theoretical framework underpinning the study of childhood development in the programme.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Education Studies 1B",
+    "Code": "EDUSTB2",
+    "Credits": "16",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing an understanding of childhood physical development and sensory development to enable them to support learners  development in the intermediate phase classroom.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Studies 1A",
+    "Code": "TEASTA1",
+    "Credits": "12",
+    "NQF": "5",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing a personal teaching philosophy to enable consistent professional conduct as a teacher and reflective teaching.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Studies 1B",
+    "Code": "TEASTB1",
+    "Credits": "12",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to introducestudents to community engagement and service learning in order to help them understand teaching as the practice of citizenship",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Introduction to Science and Technology for the Intermediate Phase 1A",
+    "Code": "SATINA1",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing a basic understanding of science and technology as subject area in the intermediate phase.Introduction to application of science (Technology)Living things -Organisms, behaviour and healthMaterials - Chemical and material behaviourEnergy and physical processesThe environment, the earth and the universe Grades 4 to 7 Natural Science and Technology content",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Introduction to Mathematics for the Intermediate Phase 1A",
+    "Code": "MATINA1",
+    "Credits": "8",
+    "NQF": "5",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing a basic understanding of number and number systems to enable them to support children s acquisition of the concepts associated with numbers and number systems.Number and number systemsThe origins of the number systemsDifferent number systemsSet theoryBasesNumber patternsIntroduction to space and shapes.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Introduction to Mathematics for the Intermediate Phase 1B",
+    "Code": "MATINB1",
+    "Credits": "8",
+    "NQF": "5",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of the module is to guide students in developing an understanding of number systems to enable them to support children s acquisition of concepts associated with patterns numbers and algebra.Patterns, numbers and algebra Number systemsFractions: - addition, subtraction, division and multiplication of fractions, different types of fractions (addition, subtraction, division and multiplication of decimal fractions) complex fractions, percentages; place value, expanded notationsStandard forms, significant figuresSpace and shape continued: Dealing with shapes, calculations of perimeter, area and volume of different shapes",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Introduction to Culture and the Natural Environment for the Intermediate Phase 1B",
+    "Code": "CNEINB1",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing a basic understanding of the Arts and Crafts, Culture and Physical Education as subject areas for Grades 4 to 7.Introductory Creative Arts knowledge and teaching content for Grades 4 to 7 teaching.Introductory Arts and Culture knowledge and teaching content for Grades 4 to 7 teaching.Introductory Music and Dance knowledge and teaching content for Grades 4 to 7 teaching.Introductory Drama and the Performing Arts knowledge and teaching content for Grades 4 to 7 teaching. Fundamental movement and body management skills and stages for Grades 4 to 7 teaching",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Introduction to Culture and the Natural Environment for the Intermediate Phase 1B",
+    "Code": "CNEINB1",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing a basic understanding of the Arts and Crafts, Culture and Physical Education as subject areas for Grades 4 to 7.Introductory Creative Arts knowledge and teaching content for Grades 4 to 7 teaching.Introductory Arts and Culture knowledge and teaching content for Grades 4 to 7 teaching.Introductory Music and Dance knowledge and teaching content for Grades 4 to 7 teaching.Introductory Drama and the Performing Arts knowledge and teaching content for ",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "English for the primary school 1A",
+    "Code": "EPS10A1",
+    "Credits": "8",
+    "NQF": "5",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing academic literacy as well as subject knowledge in English to enable them to support English language learning in the classroom.Academic literacy: The structure of academic textsVisual literacyLanguage through games and playSocial networks and the internet for language learning",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "English for the primary school 1B",
+    "Code": "EPS20B1",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing their own English language competence and subject knowledge in English to enable them to support English language learning in the classroom. Diagnostic testingEnglish grammar and spellingYouth and children s literatureLanguage through games and playSocial networks and the internet for language learning.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "English for the primary school 1B",
+    "Code": "EPS20B1",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing their own English language competence and subject knowledge in English to enable them to support English language learning in the classroom. Diagnostic testingEnglish grammar and spellingYouth and children s literatureLanguage through games and playSocial networks and the internet for language learning.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Introduction to Social Sciences for the Intermediate Phase 1A",
+    "Code": "SOSINA1",
+    "Credits": "8",
+    "NQF": "5",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of the module is to guide students in developing a basic understanding of the social sciences as subject area in the intermediate phase so as to enable them to support children s understanding of the interrelationships among Earth, its people and its systems through space and time.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Introduction to isiZulu for the Intermediate Phase 1A",
+    "Code": "ZLU1AA1",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to sensitize students to the language situation and language diversity in South Africa and to enable them to conduct a basic one-to-one conversation in isiZulu/seSotho. The students are furthermore equipped to communicate with a group representing agroup themselves. The focus is then on the use of the appropriate subject marker for conjoined subjects involving 1st and 2ndperson singular and plural. ",
+    "Assessment": [
+      {
+        "Name": "Formative Assessment",
+        "Type": "Assessment",
+        "Weight": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Summative Assessment"
+          },
+          {
+            "Name": "Final Summative Assessment"
+          }
+        ]
+      },
+      {
+        "Name": "Oral Competency",
+        "Type": "Oral"
+      }
+    ],
+    "Prerequisite": [
+      {
+        "Comment": ": Grade 12 Zulu 1st Language is a prerequisite"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Introduction to seSotho for the Intermediate Phase 1A",
+    "Code": "SOI1AA1",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to sensitize students to the language situation and language diversity in South Africa and to enable them to conduct a basic one-to-one conversation in isiZulu/seSotho. The students are furthermore equipped to communicate with a group representing agroup themselves. The focus is then on the use of the appropriate subject marker for conjoined subjects involving 1st and 2ndperson singular and plural. ",
+    "Assessment": [
+      {
+        "Name": "Formative Assessment",
+        "Type": "Assessment",
+        "Weight": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Summative Assessment"
+          },
+          {
+            "Name": "Final Summative Assessment"
+          }
+        ]
+      },
+      {
+        "Name": "Oral Competency",
+        "Type": "Oral"
+      }
+    ],
+    "Prerequisite": [
+      {
+        "Comment": "Grade 12 Sesotho 1st Language is a prerequisite"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Introduction to isiZulu for the Intermediate Phase 1B",
+    "Code": "ZUI1BB1",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to sensitize students to the language situation and language diversity in South Africa and to enable them to conduct a basic one-to-one conversation in isiZulu/ seSotho. The students are furthermore equipped to communicate with a group representing a group themselves. The focus is then on the use of the appropriate subject marker for conjoined subjects involving 1st and 2ndperson singular and plural. ",
+    "Assessment": [
+      {
+        "Name": "Formative Assessment",
+        "Type": "Assessment",
+        "Weight": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Summative Assessment"
+          },
+          {
+            "Name": "Final Summative Assessment"
+          }
+        ]
+      },
+      {
+        "Name": "Oral Competency",
+        "Type": "Oral"
+      }
+    ],
+    "Prerequisite": [
+      {
+        "Comment": ": Grade 12 Zulu 1st Language is a prerequisite"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Introduction to seSotho for the Intermediate Phase 1B",
+    "Code": "SOI1BB1",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to sensitize students to the language situation and language diversity in South Africa and to enable them to conduct a basic one-to-one conversation in isiZulu/ seSotho. The students are furthermore equipped to communicate with a group representing a group themselves. The focus is then on the use of the appropriate subject marker for conjoined subjects involving 1st and 2ndperson singular and plural. ",
+    "Assessment": [
+      {
+        "Name": "Final Summative Assessment",
+        "Type": "Assessment",
+        "Weight": false,
+        "Dynamic": true
+      },
+      {
+        "Name": "Oral Competency",
+        "Type": "Oral"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Education Studies 2A",
+    "Code": "EDUSTA2",
+    "Credits": "16",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing an understanding of childhood cognitive development, pertaining to middle childhood to enable them to support children s learning in the intermediate phase classroom.Cognitive development in middle childhood to early pubertyAttentionMemoryDevelopment of reading and writingBarriers to cognitive development",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Education Studies 2B",
+    "Code": "EDUSTB2",
+    "Credits": "16",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developinga broad understanding of language and literacy and mathematics concept development in middle childhood toenable them to support children s learning in the intermediate phase classroom.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Studies 2A",
+    "Code": "TEASTA2",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of the module is to guide students in developing an understanding of the complexity of the teaching profession, classroom leadership, as well as management and administration to enable professional conduct.Teaching as a professionEducation policy and legislation in SA related to classroom teachingClassroom management and administration",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Studies 2B",
+    "Code": "TEASTB2",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing an understanding of the pedagogy principles of assessment in order to help them understand teaching as the practice of evaluation.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum 2A",
+    "Code": "MPIPA2",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing pedagogic content knowledge and skill in designing and presenting lessons and learning programmes",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum 2B",
+    "Code": "MPLSKB2",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing pedagogic content knowledge and skill in designing and presenting lessons and learning programmes.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum 2B",
+    "Code": "MPSCTB2",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing pedagogic content knowledge and skill in designing and presenting lessons and learning programmes.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum 2B",
+    "Code": "MPMATB2",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing pedagogic content knowledge and skill in designing and presenting lessons and learning programmes.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum 2B",
+    "Code": "MPSOSB2",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing pedagogic content knowledge and skill in designing and presenting lessons and learning programmes.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum 2B",
+    "Code": "MPSTOB2",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing pedagogic content knowledge and skill in designing and presenting lessons and learning programmes.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum 2B",
+    "Code": "AMI2BB2",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing pedagogic content knowledge and skill in designing and presenting lessons and learning programmes.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum 2B",
+    "Code": "SZI2BB2",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing pedagogic content knowledge and skill in designing and presenting lessons and learning programmes.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum 2A",
+    "Code": "MPIENA2",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing pedagogic content knowledge and skill in designing and presenting lessons and learning programmes.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum 2A",
+    "Code": "MPMSTA2",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing pedagogic content knowledge and skill in designing and presenting lessons and learning programmes.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum 2B",
+    "Code": "MPIENB2",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing pedagogic content knowledge and skill in designing and presenting lessons and learning programmes.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum 2B",
+    "Code": "MPLCSB2",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing pedagogic content knowledge and skill in designing and presenting lessons and learning programmes.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "English for primary school 2A",
+    "Code": "EPS10A2",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing academic literacy as well as the requisite subject knowledge in English to enable them to support English language learning in the intermediate phase classroom.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "English for primary school 2B",
+    "Code": "EPS20B2",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing their own English language competence and the requisite subject knowledge in English to enable them to support English language learning in the intermediate phase classroom. ",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "English for the Intermediate Phase 2B",
+    "Code": "ENGIPB2",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing academic literacy as well as the requisite subject knowledge in English to enable them to support English language learning in the intermediate phase classroom.Academic literacy: Cohesion and coherenceVisual literacyLiterary theoryBook club: reading and writing",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "isiZulu for the Intermediate Phase 2A",
+    "Code": "ZUI2AA2",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to equip students to be able to ask and reply to simple questions, ask questions using particular question words, conveying polite requests and using the reflexive forms.Students are also coached to pronounce isiZulu/ seSotho words and sounds correctly.",
+    "Assessment": [
+      {
+        "Comment": "Department of African Languages to be contacted for Assessment"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "seSotho for the Intermediate Phase 2A",
+    "Code": "SOI2AA2",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to equip students to be able to ask and reply to simple questions, ask questions using particular question words, conveying polite requests and using the reflexive forms.Students are also coached to pronounce isiZulu/ seSotho words and sounds correctly.",
+    "Assessment": [
+      {
+        "Comment": "Department of African Languages to be contacted for Assessment"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "isiZulu for the Intermediate Phase 2B",
+    "Code": "ZUI2BB2",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing their isiZulu/seSotho language competence to enable them to gain an understanding of the noun class system and to use any noun as subject or object of a sentence with its appropriate agreement form.",
+    "Assessment": [
+      {
+        "Comment": "Department of African Languages to be contacted for Assessment"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "seSotho for the Intermediate Phase 2B",
+    "Code": "SOIBB2",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing their isiZulu/seSotho language competence to enable them to gain an understanding of the noun class system and to use any noun as subject or object of a sentence with its appropriate agreement form.",
+    "Assessment": [
+      {
+        "Comment": "Department of African Languages to be contacted for Assessment"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Mathematics for the Intermediate Phase 2A",
+    "Code": "MATINA2",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing an understanding of space and shape to enable them to support children s acquisition of concepts associated with space and shape",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Mathematics for the Intermediate Phase 2B",
+    "Code": "MATINB2",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of the module is to guide students in developing an understanding of measurement of different shapes to enable them to support children s acquisition of the concepts associated with measurement and shapes ",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Science and Technology for the Intermediate Phase 2A",
+    "Code": "SATINA2",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing the requisite subject knowledge to enable them to teach theprinciples of technology, as part of the science and technology subject in the intermediate phase.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Science and Technology for the Intermediate Phase 2B",
+    "Code": "SATINB2",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing the requisite subject knowledge to enable them to teach life and living as part of the science and technology subject in the intermediate phase.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "History for the Intermediate Phase 2A",
+    "Code": "SOSHIA2",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of the module is to guide students acquiring the requisite subject knowledge to enable them to teach this aspect of social sciences in the intermediate phase.Objectivity and bias in historyWorking with history sources Planning and managing fieldwork, sites and museum visits Transport through time Communication through timeMedicine through timeGreat leaders in the South African and world history.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Geography for the Intermediate Phase 2B",
+    "Code": "SOSGEB2",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in acquiring the requisite geography subject knowledge to enable them to teach this aspect of social sciences in the intermediate phase.Global population growth and distribution Settlements Climate and vegetation regions of the worldPlate tectonicsNatural disastersEnvironmental issuesDevelopment and sustainabilityMap work skills (Focus: World)",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Culture and the Natural Environment for the Intermediate Phase 2A",
+    "Code": "CNEINA2",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in acquiring the requisite physical education knowledge to enable them to teach physical education and sport as components of Life Skills and to partake in supervise/administer sport activities as school.Physical education and sportMovement and body managementFundamental movement skills and stagesSport participation and physical fitness: concepts, principles and strategies.Respectful and responsible behaviour.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Social Sciences for the Intermediate Phase 2B",
+    "Code": "SOSIPB2",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in acquiring the requisite geography subject knowledge to enable them to teach this aspect of social sciences in the intermediate phase.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Culture and the Natural Environment for the Intermediate Phase 2B",
+    "Code": "CNEINB2",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developingthe requisite subject knowledge to enable them to teach music and dance as part of Life Skills The purpose of this module is to guide students in acquiring the requisite physical education knowledge to enable them to teach physical education and sport as components of Life Skills and to partake in supervise/administer sport activities as school.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Afrikaans for the Intermediate Phase 2A",
+    "Code": "AFIAA2",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing their Afrikaans language competence to enable them to support Afrikaans language learning in the Intermediate Phase Grade 4.Listening, speaking, reading, writing and argumentative skills in AfrikaansLanguage structure and useVocabulary andgrammarShort literacy texts",
+    "Assessment": [
+      {
+        "Name": "Summative Assessment",
+        "Type": "Assessment",
+        "Dynamic": true
+      },
+      {
+        "Name": "Orals",
+        "Type": "Oral",
+        "Dynamic": true
+      },
+      {
+        "Name": "Written Tests",
+        "Type": "Test",
+        "Dynamic": true
+      },
+      {
+        "Name": "Final Examination",
+        "Type": "Examination",
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Afrikaans for the Intermediate Phase 2B",
+    "Code": "AFIBB2",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing their Afrikaans language competence to enable them to support Afrikaans language learning in the Intermediate Phase Grade 5.",
+    "Assessment": [
+      {
+        "Name": "Summative Assessment",
+        "Type": "Assessment",
+        "Dynamic": true
+      },
+      {
+        "Name": "Orals",
+        "Type": "Oral",
+        "Dynamic": true
+      },
+      {
+        "Name": "Written Tests",
+        "Type": "Test",
+        "Dynamic": true
+      },
+      {
+        "Name": "Final Examination",
+        "Type": "Examination",
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Education Studies 3A",
+    "Code": "EDUSTA3",
+    "Credits": "16",
+    "NQF": "7",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing an understanding of childhood emotional, moral and sexual development in middle childhood to enable them to support learner development in the intermediate phase classroom.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Education Studies 3B",
+    "Code": "EDUSTB3",
+    "Credits": "16",
+    "NQF": "7",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing an understanding of the child within the family, community and society to enable them to support learners and their families in the intermediate phase.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Studies 3A",
+    "Code": "TEASTA3",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing educational information technological skills in order to enhance the use of ICT in teaching and learning in the intermediate phase",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Studies 3A",
+    "Code": "TEASTA3",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing educational information technological skills in order to enhance the use of ICT in teaching and learning in the intermediate phase",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Studies 3A",
+    "Code": "TEASTA3",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing educational information technological skills in order to enhance the use of ICT in teaching and learning in the intermediate phase",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum 3A",
+    "Code": "MPBIPA3",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing pedagogic content knowledge and skill in designing and presenting lessons and learning programmes.Students do a teaching methodology linked to each teaching subject. The teaching methodology modules are designed to align with the content taught in the subjects. Main focus of the teaching methodology modules: the developing of pedagogic content knowledgeThemes that will be addressed in all teaching methodologies, but specified for the subject:Design and delivery of teaching plans and lessonsTeaching methodsThe school curriculum Assessment of learningAddressing barriers to learningLearning from and in practice",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum 3B",
+    "Code": "AMI3BB3",
+    "Credits": "8",
+    "NQF": "7",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in mapping their pedagogical content knowledge to enable critical-reflective engagement with regard to the subjectThe school curriculumQuestioning techniques to identify and map big ideas in the subjectIdentifying difficulties and limitations in connection with teaching the big ideas.Assessing understanding of big ideas",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum 3B",
+    "Code": "MPENGB3",
+    "Credits": "8",
+    "NQF": "7",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in mapping their pedagogical content knowledge to enable critical-reflective engagement with regard to the subjectThe school curriculumQuestioning techniques to identify and map big ideas in the subjectIdentifying difficulties and limitations in connection with teaching the big ideas.Assessing understanding of big ideas",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum 3B",
+    "Code": "MPLSKB3",
+    "Credits": "8",
+    "NQF": "7",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in mapping their pedagogical content knowledge to enable critical-reflective engagement with regard to the subjectThe school curriculumQuestioning techniques to identify and map big ideas in the subjectIdentifying difficulties and limitations in connection with teaching the big ideas.Assessing understanding of big ideas",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum 3B",
+    "Code": "MPMATB3",
+    "Credits": "8",
+    "NQF": "7",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in mapping their pedagogical content knowledge to enable critical-reflective engagement with regard to the subjectThe school curriculumQuestioning techniques to identify and map big ideas in the subjectIdentifying difficulties and limitations in connection with teaching the big ideas.Assessing understanding of big ideas",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum 3B",
+    "Code": "MPSCTB3",
+    "Credits": "8",
+    "NQF": "7",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in mapping their pedagogical content knowledge to enable critical-reflective engagement with regard to the subjectThe school curriculumQuestioning techniques to identify and map big ideas in the subjectIdentifying difficulties and limitations in connection with teaching the big ideas.Assessing understanding of big ideas",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum 3B",
+    "Code": "MPSOSB3",
+    "Credits": "8",
+    "NQF": "7",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in mapping their pedagogical content knowledge to enable critical-reflective engagement with regard to the subjectThe school curriculumQuestioning techniques to identify and map big ideas in the subjectIdentifying difficulties and limitations in connection with teaching the big ideas.Assessing understanding of big ideas",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum 3B",
+    "Code": "MPSTOB3",
+    "Credits": "8",
+    "NQF": "7",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in mapping their pedagogical content knowledge to enable critical-reflective engagement with regard to the subjectThe school curriculumQuestioning techniques to identify and map big ideas in the subjectIdentifying difficulties and limitations in connection with teaching the big ideas.Assessing understanding of big ideas",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum 3B",
+    "Code": "SZI3BB3",
+    "Credits": "8",
+    "NQF": "7",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in mapping their pedagogical content knowledge to enable critical-reflective engagement with regard to the subjectThe school curriculumQuestioning techniques to identify and map big ideas in the subjectIdentifying difficulties and limitations in connection with teaching the big ideas.Assessing understanding of big ideas",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Studies 3B",
+    "Code": "TEASTB3",
+    "Credits": "8",
+    "NQF": "7",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing an understanding of how to create a positive motivating learning environment in the intermediate phase classroom",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Studies 3B",
+    "Code": "TEASTB3",
+    "Credits": "16",
+    "NQF": "7",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing an understanding of how to create a positive motivating learning environment in the intermediate phase classroom",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum 3A",
+    "Code": "MPIENA3",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing pedagogic content knowledge and skill in designing and presenting lessons and learning programmes.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum 3A",
+    "Code": "MPLMSA3",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing pedagogic content knowledge and skill in designing and presenting lessons and learning programmes.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum 3B",
+    "Code": "MPIENB3",
+    "Credits": "8",
+    "NQF": "7",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in mapping their pedagogical content knowledge to enable critical-reflective engagement with regard to the subject",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum 3B",
+    "Code": "MPLMSB3",
+    "Credits": "8",
+    "NQF": "7",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in mapping their pedagogical content knowledge to enable critical-reflective engagement with regard to the subject",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Economics and Management Science for the Intermediate Phase 3A",
+    "Code": "EMSIPA3",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of the module is to guide students in developing a basic understanding of economic and management sciences to enable them to take up teaching in this field, if so required",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "English for the Intermediate Phase 3A",
+    "Code": "ENGIPA3",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing their own English language competence and the requisite subject knowledge in English to enable them to support English language learning in the intermediate phase classroom.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "English for the Intermediate Phase 3B",
+    "Code": "ENGIP3B",
+    "Credits": "8",
+    "NQF": "7",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing academic literacy as well as the requisite subject knowledge in English to enable them to support English language learning in the intermediate phase classroom.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "isiZulu for the Intermediate Phase 3B",
+    "Code": "ZLU3BB3",
+    "Credits": "8",
+    "NQF": "7",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing their isiZulu/ seSotho language competence to enable them to support Sotho/Zulu language learning in the intermediate phase.",
+    "Assessment": [
+      {
+        "Name": "Formative Assessment",
+        "Type": "Assessment",
+        "Dynamic": true
+      },
+      {
+        "Name": "Summative Assessments",
+        "Type": "Assessment",
+        "Dynamic": true
+      },
+      {
+        "Name": "Final Summative Assessment",
+        "Type": "Assessment",
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "seSotho for the Intermediate Phase 3B",
+    "Code": "SOI3BB3",
+    "Credits": "8",
+    "NQF": "7",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing their isiZulu/ seSotho language competence to enable them to support Sotho/Zulu language learning in the intermediate phase",
+    "Assessment": [
+      {
+        "Name": "Formative Assessment",
+        "Type": "Assessment",
+        "Dynamic": true
+      },
+      {
+        "Name": "Summative Assessments",
+        "Type": "Assessment",
+        "Dynamic": true
+      },
+      {
+        "Name": "Final Summative Assessment",
+        "Type": "Assessment",
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "English for primary school 3A",
+    "Code": "EPS10A3",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing their own English language competence and the requisite subject knowledge in English to enable them to support English language learning in the intermediate phase classroom.Diagnostic testingEnglish grammarDiscourse and genreYouth and children s literatureLanguage through games and playBlogs and social networks ",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "English for primary school 3A",
+    "Code": "EPS10A3",
+    "Credits": "8",
+    "NQF": "7",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing their own English language competence and the requisite subject knowledge in English to enable them to support English language learning in the intermediate phase classroom.Diagnostic testingEnglish grammarDiscourse and genreYouth and children s literatureLanguage through games and playBlogs and social networks for language learning",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "English for primary school Phase 3B",
+    "Code": "EPS20B3",
+    "Credits": "8",
+    "NQF": "7",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing academic literacy as well as the requisite subject knowledge in English to enable them to support English language learning in the intermediate phase classroom. Academic literacy:Writing an academic essayVisual literacyLiterary theoryBook club: reading and writing",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "isiZulu for the Intermediate Phase 3A",
+    "Code": "ZUI3AA3",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to enable students to use a isiZulu/ seSotho verb in any of the absolute tenses in both the positive and negative form.",
+    "Assessment": [
+      {
+        "Name": "Formative Sssessment",
+        "Type": "Assessment",
+        "Dynamic": true
+      },
+      {
+        "Name": "Summative Assessment",
+        "Type": "Assessment",
+        "Dynamic": true
+      },
+      {
+        "Name": "Final Summative Assessment",
+        "Type": "Assessment",
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "seSotho for the Intermediate Phase 3A",
+    "Code": "SOI3AA3",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to enable students to use a isiZulu/ seSotho verb in any of the absolute tenses in both the positive and negative form.",
+    "Assessment": [
+      {
+        "Name": "Formative Sssessment",
+        "Type": "Assessment",
+        "Dynamic": true
+      },
+      {
+        "Name": "Summative Assessment",
+        "Type": "Assessment",
+        "Dynamic": true
+      },
+      {
+        "Name": "Final Summative Assessment",
+        "Type": "Assessment",
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "seSotho for the Intermediate Phase 3A",
+    "Code": "SOI3AA3",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to enable students to use a isiZulu/ seSotho verb in any of the absolute tenses in both the positive and negative form.",
+    "Assessment": [
+      {
+        "Name": "Formative Sssessment",
+        "Type": "Assessment",
+        "Dynamic": true
+      },
+      {
+        "Name": "Summative Assessment",
+        "Type": "Assessment",
+        "Dynamic": true
+      },
+      {
+        "Name": "Final Summative Assessment",
+        "Type": "Assessment",
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "isiZulu for the Intermediate Phase 3B",
+    "Code": "ZUI3BB3",
+    "Credits": "8",
+    "NQF": "7",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing their isiZulu/ seSotho language competence to enable them to support isiZulu/ seSotho language learning in the intermediate phase.Emphatic pronounsDemonstrative pronounsSentence types (Moods)Indicative moodImperative moodInfinitive mood Youth literature",
+    "Assessment": [
+      {
+        "Name": "Formative Sssessment",
+        "Type": "Assessment",
+        "Dynamic": true
+      },
+      {
+        "Name": "Summative Assessment",
+        "Type": "Assessment",
+        "Dynamic": true
+      },
+      {
+        "Name": "Final Summative Assessment",
+        "Type": "Assessment",
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "seSotho for the Intermediate Phase 3B",
+    "Code": "SOI3BB3",
+    "Credits": "8",
+    "NQF": "7",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing their isiZulu/ seSotho language competence to enable them to support isiZulu/ seSotho language learning in the intermediate phase.Emphatic pronounsDemonstrative pronounsSentence types (Moods)Indicative moodImperative moodInfinitive mood Youth literature",
+    "Assessment": [
+      {
+        "Name": "Formative Sssessment",
+        "Type": "Assessment",
+        "Dynamic": true
+      },
+      {
+        "Name": "Summative Assessment",
+        "Type": "Assessment",
+        "Dynamic": true
+      },
+      {
+        "Name": "Final Summative Assessment",
+        "Type": "Assessment",
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Mathematics for the Intermediate Phase 3A",
+    "Code": "MATINA3",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of the module is to guide students in developing an understanding of data handling to enable them to support children s acquisition of the concepts associated with data handling. The purpose of the module is to guide students in developing an understanding of measurement of shapes to enable them to support children s acquisition of the concepts associated with the measurement of different shapes.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Mathematics for the Intermediate Phase 3A",
+    "Code": "MATINA3",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of the module is to guide students in developing an understanding of measurement of shapes to enable them to support children s acquisition of the concepts associated with the measurement of different shapes.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Mathematics for the Intermediate Phase 3B",
+    "Code": "MATINB3",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of the module is to guide students in developing an understanding of data handling to enable them to support children s acquisition of the concepts associated with data handling. Data handling:Defining data, different types of data (population, rainfall media, crime, election results, sports results, expenditure and income); collecting, sorting and organizing dataRepresenting (Bar graphs, histograms, pictographs pie charts, line graphs) extracting and interpreting data.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Science and Technology for the Intermediate Phase 3A",
+    "Code": "SATINA3",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in acquiring the requisite subject content to enable them to teach science and technology in the intermediate phase classroom.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Science and Technology for the Intermediate Phase 3B",
+    "Code": "SATINB3",
+    "Credits": "8",
+    "NQF": "7",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in acquiring the requisite subject knowledge to enable them to teach science and technology in the intermediate phase classroom.Matter and materialsEnergy and changeMechanical and electrical systems and controlRelated technology structures:Foundation chemistry such as matter (properties, behaviour and changes) and the periodic tableFoundation physics such as general and thermal physics, waves, electricity and magnetismTechnology application (operations, concepts, design and creativity, communication, research and information fluency) in chemistry and physics Intermediate phase physical science concepts Grades 4 to 7 Physical Science content",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "History for the Intermediate Phase 3A",
+    "Code": "SOSHIA3",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of the module is to guide students in acquiring the requisite subject knowledge to enable them to teach this aspect of social sciences in the intermediate phase. Early African history: Egypt and Southern AfricaRecent South African history: milestonesSocial justice and controversial issues in historyDemocracy and citizenship",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Geography for the Intermediate Phase 3B",
+    "Code": "SOSGEB3",
+    "Credits": "8",
+    "NQF": "7",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing the requisite subject knowledge to enable them to teach this aspect of social sciences in the intermediate phase classroom.Physical features of South AfricaWeather, climate and vegetation of South AfricaPrimary economic activities in South AfricaResources in South Africa Map projectionsMap work skills (Focus: South Africa)",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Social Sciences for the Intermediate Phase 3A",
+    "Code": "SOIPA3",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of the module is to guide students in acquiring the requisite subject knowledge to enable them to teach this aspect of social sciences in the intermediate phase.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Culture and Natural Environment for the Intermediate Phase 3A",
+    "Code": "CNEINA3",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing the requisite subject knowledge to enable them to teach drama as components of Life Skills in the intermediate phaseForms and elements of drama Drama making and performance and dramatic contextsArt and craftsGrade 4 to 7 Drama content Communication and social skills Coping and self  management skillsVocational skills Cultural and democratic skillsEnvironmental care and managementGrades 4 to 7 Life Skills/ Life Orientation content and methodology",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Culture and Natural Environment for the Intermediate Phase 3B",
+    "Code": "CNEINB3",
+    "Credits": "8",
+    "NQF": "7",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing the requisite content knowledge to enable them to teach social sciences and personal well-being as components of Life Skills in the intermediate phaseCommunication and social skills Coping and self  management skillsVocational skills Cultural and democratic skillsEnvironmental care and managementGrades 4 to 7 Life Skills/ Life Orientation content and methodology",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Culture and Natural Environment for the Intermediate Phase 3A",
+    "Code": "CNEINA3",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing the requisite subject knowledge to enable them to teach drama as components of Life Skills in the intermediate phaseForms and elements of drama Drama making and performance and dramatic contextsArt and craftsGrade 4 to 7 Drama content Communication and social skills Coping and self  management skillsVocational skills Cultural and democratic skillsEnvironmental care and managementGrades 4 to 7 Life Skills/ Life Orientation content and methodology",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Afrikaans for the Intermediate Phase 3A",
+    "Code": "AFIAA3",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing their Afrikaans language competence to enable them to support Afrikaans language learning in the intermediate phase, Grade 6.Listening, speaking, reading, writing and argumentative skills in Afrikaans.Language structure and useVocabulary and grammarShort literary texts",
+    "Assessment": [
+      {
+        "Name": "Summative Assessment",
+        "Type": "Assessment",
+        "Dynamic": true
+      },
+      {
+        "Name": "Orals",
+        "Type": "Oral",
+        "Dynamic": true
+      },
+      {
+        "Name": "Written Tests",
+        "Type": "Test",
+        "Dynamic": true
+      },
+      {
+        "Name": "Examinations",
+        "Type": "Examination",
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Afrikaans for the Intermediate Phase 3B",
+    "Code": "AFIBB3",
+    "Credits": "8",
+    "NQF": "7",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing their Afrikaans language competence to enable them to support Afrikaans language learning in the intermediate phase, Grade 6 as well as grade 7.Listening, speaking, reading, writing and argumentative skills in Afrikaans. Language structure and useVocabulary and grammarShort literary texts",
+    "Assessment": [
+      {
+        "Name": "Summative Assessment",
+        "Type": "Assessment",
+        "Dynamic": true
+      },
+      {
+        "Name": "Orals",
+        "Type": "Oral",
+        "Dynamic": true
+      },
+      {
+        "Name": "Written Tests",
+        "Type": "Test",
+        "Dynamic": true
+      },
+      {
+        "Name": "Examinations",
+        "Type": "Examination",
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Studies 1A",
+    "Code": "TST10A1",
+    "Credits": "8",
+    "NQF": "5",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "<p>The purpose of this module is to guide students in developing a conceptually coherent viewpoint of the interplay of the various roles which underlie a teacher’s professional practice, with special reference the teacher’s community and citizen role.</p>",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Studies 1B",
+    "Code": "TST20B1",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "<p>The purpose of this module is to guide students in developing educational information technological skills in order to enhance the use of ICT in teaching and learning in the foundation phase</p>",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Addressing Neurodevelopmental Learning Needs 1A",
+    "Code": "NDL10A1",
+    "Credits": "16",
+    "NQF": "5",
+    "Duration": "Year",
+    "Description": "The purpose of this module is to assist the teacher in developing knowledge about neurodevelopment in adolescenceAn introduction to neurodevelop  ment. Brain anatomy and functionAdolescent development and the brainCognitive development, learning, memory and attentionPrimary and Multiple Language acquisition Emotional development Social developmentCyber world and adolescent neurodevelopment .Poverty, diversity and brain development",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Prerequisite": [
+      {
+        "Comment": "No matriculation prerequisite subjects required- no prior knowledge required"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Addressing Neurodevelopmental Learning Needs 1B",
+    "Code": "NDL20B1",
+    "Credits": "16",
+    "NQF": "5",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to develop the role of the teacher as a support specialist of Addressing neurodevelopmental learning needsBio-ecological theory of human development of BronfenbrennerPhilosophy of Inclusive EducationDiscourses in Inclusive EducationRoles of the support specialist Basic counselling skills for teachersFunctioning of school based support teamsSupporting adolescents with neuro  developmental barriers to learningDeveloping family  school partnerships Collaboration with stakeholders",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "School ICT Support Specialist 1A",
+    "Code": "ITS10A1",
+    "Credits": "16",
+    "NQF": "5",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to assist students in developing sufficient knowledge and skills to enable them to fulfil the role of ICT Support Specialist in an FET school. For this module, the ICT Support Specialist role focuses on the development of an appropriate ICT implementation strategy for a schoolICT implementations Computer concepts and skillsICT in EducationWhite paper on e  EducationDeveloping an ICT vision and implementation planTeacher development for ICT integration",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Prerequisite": [
+      {
+        "Comment": "No matriculation prerequisite subjects required- no prior knowledge required"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "School ICT Support Specialist 1B",
+    "Code": "ITS20B1",
+    "Credits": "16",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to assist students in developing sufficient knowledge and skills to enable them to fulfil the role of ICT support specialist in an FET school. For this module, the ICT support specialist role focuses on the development on Innovative attitudes and practicesICT pedagogy ICT and learningPedagogical approaches for ICT integrationICT and assessmentAssessing ICT resources",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "School Guidance and Support 1A",
+    "Code": "SGS10A1",
+    "Credits": "16",
+    "NQF": "5",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to develop the role of teacher as a support specialist in secondary schools in order to manage the well-being of the secondary school learnersPhilosophy of Inclusive EducationRoles of the support specialist in secondary schools Communication skills for adolescents, families and teachersFunctioning of school based support teamsSupporting adolescentsDeveloping parent  school partnerships Addressing social difficulties in adolescents",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "School Guidance and Support 1B",
+    "Code": "SGS20B1",
+    "Credits": "16",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to develop the role of teacher as a support specialist in secondary schools in order to manage the well-being of thesecondary school learner",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Physical Education 1A",
+    "Code": "HMSEA01",
+    "Credits": "16",
+    "NQF": "5",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to develop the role of the teacher as a support specialist in secondary schools in order to address movement programmes in the holistic development of the secondary school learnerMotor developmentAnatomy and applied physiologyOutdoor educationAdapted physical activity and recreation",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Prerequisite": [
+      {
+        "Comment": "No matriculation prerequisite subjects required- no prior knowledge required"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Physical Education 1B",
+    "Code": "HMSEB01",
+    "Credits": "16",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to develop the role of the teacher as a support specialist in secondary schools in order to address movement programmes in the holistic development of the secondary school learnerMotor developmentAnatomy and applied physiologyOutdoor educationAdapted physical activity and recreation",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "School Library and Information Centre Support 1A",
+    "Code": "SLI11A1",
+    "Credits": "16",
+    "NQF": "5",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to assist students in developing sufficient knowledge and skills to enable them to fulfil the role of Information Management (IM) Support Specialist in a secondary school.For this module, the IM Support Specialist roleocuses on the development of an understanding of the role and function of the school library and information centre.",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Semester Tests",
+            "Type": "Test"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Prerequisite": [
+      {
+        "Comment": "No matriculation prerequisite subjects required- no prior knowledge required"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "School Library and Information Centre Support 1B",
+    "Code": "SLI21B1",
+    "Credits": "16",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to assist students in developing sufficient knowledge and skills to enable them to fulfil the role of Information Management (IM) Support Specialist in a secondary school.For this module, the IM Support Specialist role focuses on the development of an understanding of the administration and management of a school library and information centre.Identify and compare the different technical services in a school library.Library and information technologies.Information sources and tools for reference work.Clarification of key concepts.",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Semester Tests",
+            "Type": "Test"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Engineering Graphics and Technology Education 1A",
+    "Code": "EGD10A1",
+    "Credits": "16",
+    "NQF": "5",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of the module is to introduce students to the fundamentals of technology and graphic communication in order to develop an ability to apply technological knowledge and basic drawing techniques.",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Prerequisite": [
+      {
+        "Comment": "NSC Engineering Graphics and Design level 4"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Engineering Graphics and Technology Education 1B",
+    "Code": "EGD20B1",
+    "Credits": "16",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of the module is to guide students in developing an understanding of geometrical and orthographic conceptsin order to enable multi view drawing.",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Prerequisite": [
+      {
+        "Course": "EGD10A1"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Civil Technology 1A",
+    "Code": "CTE10A1",
+    "Credits": "16",
+    "NQF": "5",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of the module is to introduce students to the fundamentals of the construction industry in order to develop skills and knowledge regarding simulation, experimentation and workshop practice skills.Stakeholders in the South African construction industry and their functions. Construction legislation and regulations. Planning and organising construction activities. Safety. Materials. Tools and equipment. Site preparation",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Prerequisite": [
+      {
+        "Comment": "NSC Engineering Graphics and Design level 4"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Civil Technology 1B",
+    "Code": "CTE20B1",
+    "Credits": "16",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of the module is to guide students in developing an understanding of construction methods in the built environment in order to develop skills and knowledge regarding simulation, experimentation and workshop practice skills.Substructure. Superstructure. Roof construction. Reinforced concrete construction.",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Prerequisite": [
+      {
+        "Course": "CTE10A1"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Education Studies 2A",
+    "Code": "EST10A2",
+    "Credits": "16",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "To study diverse abilities and needs of adolescents in order to engage in educational actions that are developmentally appropriateDiverse abillities and needs of adolescents: Theories of diversityDevelopmental characterisitcs of adolescents Language developmentDevelopment theoryPsychological perspectives on discipline",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Education Studies 2B",
+    "Code": "EST20B2",
+    "Credits": "16",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "To study theories of adolescent learning in order to be able to promote meaningful and equitable learning.Learning equityPurpose of educationLearning in context  notions of cognitive justice and emancipatory learningCognitive and affective/motivational theories of learning The role of language in learningInquiry methods into issues of learning",
+    "Assessment": [
+      {
+        "Name": "Module Mark",
+        "Type": "Coursework",
+        "Weight": 50,
+        "Dynamic": true
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Studies 2A",
+    "Code": "TST10A2",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of the module is to equip beginner teachers with educational leadership, education policy and legislation and classroom competencies in order to become professional teachersEducation policy and legislation in SA Classroom management and administrationSupportive classroom disciplineTeaching for motivation and engagementDeveloping an orderly and purposeful learning environment Repairing and restoring behaviour",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Studies 2B",
+    "Code": "TST20B2",
+    "Credits": "8",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of the module is for beginner teachers to develop assessment skills in order to effectively and methodically assess learners for progression and promotion purposesCurriculum developmentProgramme developmentText selectionLearning materialsAssessment as core component in pedagogyPrinciples of assessment criteria and feedbackFormative assessment Evaluation and summative assessment",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum 2A",
+    "Code": "FSM10A2",
+    "Credits": "4",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is twofold, namely to guide students in developing an understanding of the nature of the subject discipline; and acquiring pedagogic content knowledge and skill in designing and presenting lessons and learning programmes.An introduction to the school curriculum The nature of the subject PCKLesson planning and lesson presentationAn introduction to assessment Addressing barriers to learning",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Prerequisite": [
+      {
+        "Comment": "Both academic majors must have been passed in the first year to continue in the second year"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Methodology and Practicum 2B",
+    "Code": "FSM20B2",
+    "Credits": "4",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing an understanding of assessment and inclusive practices The school curriculumLesson planning and presentation with a focus on assessmentFormative and summative assessmentDeveloping assessment processes tasks and toolsAnalysing student performance.Addressing learning barriers",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Prerequisite": [
+      {
+        "Comment": "Both academic majors must have been passed in the first year to continue in the second year"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "isiZulu for Senior- and FET Phase 2A",
+    "Code": "ZUS2AA2",
+    "Credits": "4",
+    "NQF": "5",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing language competence in isiZulu/ Sepedi to enable basic communication.Languages of South Africa and language studyThe use of first person singular as subject in simple sentencesThe use of first and second person singular as subject in simple positive and negative statements and questions .The use of the salutation and the use of the question words and supplying answers to these questionsThe use of the 1st and 2nd person plural and greeting a ",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Sepedi for Senior- and FET Phase 2A",
+    "Code": "NSS2AA2",
+    "Credits": "4",
+    "NQF": "5",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide students in developing language competence in isiZulu/ Sepedi to enable basic communication.Languages of South Africa and language studyThe use of first person singular as subject in simple sentencesThe use of first and second person singular as subject in simple positive and negative statements and questions .The use of the salutation and the use of the question words and supplying answers to these questionsThe use of the 1st and 2nd person plural and greeting a ",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Sepedi for Senior- and FET Phase 2B",
+    "Code": "NSS2BB2",
+    "Credits": "4",
+    "NQF": "5",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing language competence in isiZulu/Sepedi to enable basic communicationYes/No answer questions, the reflexives morpheme and polite requestsFormulating question words: when, with what/by means of what, how and supplying appropriate answers to these questions in isiZulu/SothoFormulating questions using the forms where and where and using locative derived nouns and their pronouns to indicate placeThe speech sounds of Zulu/Sepedi ",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "isiZulu for Senior- and FET Phase 2B",
+    "Code": "ZUS2BB2",
+    "Credits": "4",
+    "NQF": "5",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing language competence in isiZulu/Sepedi to enable basic communicationYes/No answer questions, the reflexives morpheme and polite requestsFormulating question words: when, with what/by means of what, how and supplying appropriate answers to these questions in isiZulu/SothoFormulating questions using the forms where and where and using locative derived nouns and their pronouns to indicate placeThe speech sounds of Zulu/Sepedi ",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Engineering Graphics and Technology Education 2A",
+    "Code": "EGD10A2",
+    "Credits": "16",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of the module is to guide students in developing knowledge and skills enabling them to apply computer aided drawing software to present and communicate mechanical artefacts.Mechanical systems and control; materials for mechanical systems, e.g. metals and plastics; mechanical drawings; isometric drawings",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "EGD10A1"
+          },
+          {
+            "Course": "EGD10A1"
+          }
+        ]
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Engineering Graphics and Technology Education; 2B",
+    "Code": "EGD20B2",
+    "Credits": "16",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of the module is to guide students in developing knowledge and skills enabling them to apply computer aided drawing software to present and communicate civil artefacts.Structures; materials for structures, e.g. steel, timber and concrete; construction methods; civil drawings; perspective drawings",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Prerequisite": [
+      {
+        "Course": "EGD10A2"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Civil Technology 2A",
+    "Code": "CTE10A2",
+    "Credits": "16",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of the module is to guide students in developing an understanding of civil services and finishing concepts used in simple house construction enabling them to design and simulate the installation and maintenance of service systems and finishing conceptsCold water supply, plumbing for a house, materials, hot water systems, solar systems Alternate freshwater suppliesSewerage layout for a buildingSewage disposal systems and regulationsDisposal of storm - water and regulations Electrical symbols and layout for a houseFloor and wall finishes, windows, doors, ceilings, roof coverings, glass and paints",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "CTE10A1"
+          },
+          {
+            "Course": "CTE20B1"
+          }
+        ]
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Civil Technology 2B",
+    "Code": "CTE20B2",
+    "Credits": "16",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of the module is to guide students in developing an understanding of quantity surveying andapplied mechanics enabling them to conduct detailed measurements and descriptions of a simple house and solve problems in the mechanics and technology fields.Introduction to measurements, principles of measurements, foundations, superstructure, finishes, doors, windows, roof and roof coveringGraphic determination of the nature and magnitude for the different members in force diagrams of roof frames and structuresBeams: Reactions and calculations at the supports.",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Prerequisite": [
+      {
+        "Course": "CTE10A2"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "School Guidance and Support 2A",
+    "Code": "SGS10A2",
+    "Credits": "16",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to develop the role of teacher as a support specialist in secondary schools in order to manage thecareer development of the secondary school learner",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "School Guidance and Support 2B",
+    "Code": "SGS20B2",
+    "Credits": "16",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to develop the role of teacher as a support specialist in secondary schools in order to manage the career development of the secondary school learnerLife skills in career developmentLife skills development:Decision making Problem solvingTime managementStudy skillsProfessional development:Writing a CVApplications for university and bursariesApplications for workEntrepreneurship",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "School ICT Support 2A",
+    "Code": "ITS10A2",
+    "Credits": "16",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to assist students in developing sufficient knowledge and skills to enable them to fulfil the role of ICT support specialist in an FET school. For this module, the ICT support specialist role focuses on the development on Innovative attitudes and practicesSchool innovation and ICTInnovation frameworksInnovative use of ICTDeveloping integrating learning systems using innovative tools",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "School ICT Support 2B",
+    "Code": "ITS20B2",
+    "Credits": "16",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to assist students in developing sufficient knowledge and skills to enable them to fulfil the role of ICT support specialist in an FET school. For this module, the ICT support specialist role focuses on the development of an appropriate ICT administrative strategy",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Physical Education 2A",
+    "Code": "HMSEA02",
+    "Credits": "16",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to assist students in developing the necessary pedagogic content knowledge to support physical education and sport. Sports coaching forVolleyball and Cricket:Rules and umpiringCoaching principles Learn to swim:Water safety Swimming strokes and techniquesLifesaving, health and safety",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Physical Education 2B",
+    "Code": "HMSEB02",
+    "Credits": "15",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to assist students in developing the necessary organisational and administrative skills to organise sports events Organisation (Macro and micro level): 6 step module.Conducting formal meetingsTournaments: round robin and knockout",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "School Library and Information Centre Support 2A",
+    "Code": "SLI12A2",
+    "Credits": "16",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to assist students in developing sufficient knowledge and skills to enable them to fulfil the role of Information Management (IM) Support Specialist in a secondary school.For this module, the IM Support Specialist role focuses on the development of information collections.Developing and managing information collections.Information organization and retrieval.Information classification theory.Clarification of key concepts.",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Semester Tests",
+            "Type": "Test"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "School Library and Information Centre Support 2B",
+    "Code": "SLI22B2",
+    "Credits": "16",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to assist students in developing sufficient knowledge and skills to enable them to fulfil the role of Information Management (IM) Support Specialist in a secondary school.For this module, the IM Support Specialist role focuses on online information searching and retrieval.",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Semester Test",
+            "Type": "Test"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Education Studies 3A",
+    "Code": "EST10A3",
+    "Credits": "16",
+    "NQF": "7",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "To study the nature of education and to understand the philosophical theories underlying educational practices in order to be able to make informed educational decisions/actions.Being a thoughtful educator in diverse settings:Aims and purposes of educationDevelopment of a theory of educationLinking theories and practicesThe nature of educational knowledgeEthics in educationThe nature of learning",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "EST10A1"
+          },
+          {
+            "Course": "EST20B1"
+          }
+        ]
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Education Studies 3B",
+    "Code": "EST20B3",
+    "Credits": "16",
+    "NQF": "7",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "To study perspectives defining educational knowledge and the content organisation of the curriculum in order to facilitate meaningful curriculum delivery practicesUnderstanding knowledge and the organisation of learning:Approaches to and principles of curriculum design and deliveryCurriculum, society and powerLanguage in the curriculumSubject epistemologies and their educational implications Diversity in the curriculum implementation",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "EST10A1"
+          },
+          {
+            "Course": "EST20B1"
+          }
+        ]
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Studies 3A",
+    "Code": "TST10A3",
+    "Credits": "12",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of this module is to guide future teachers in the processes of effective communication to enable them to mediate classroom learning; lead, manage and administer and communicate with education stakeholders",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "TST10A1"
+          },
+          {
+            "Course": "TST20B1"
+          }
+        ]
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Studies 3B",
+    "Code": "TST20B3",
+    "Credits": "12",
+    "NQF": "7",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to provide students with an overview of the innovative use of technologies within the broad educational context as well as the theoretical foundations of technologies for teaching and learning in order to prepare them for their role as an activist and agent of collaborative change in the classroom",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "TST10A1"
+          },
+          {
+            "Course": "TST20B1"
+          }
+        ]
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Engineering Graphics and Technology Education 3A",
+    "Code": "EGD10A3",
+    "Credits": "16",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "The purpose of the module is to guide students in developing knowledge and skills enabling them to apply computer aided drawing software to present and communicate electrical artefacts.Electrical systems: Electron theory, Ohm s law, resistance (parallel and series), components, diodes, transistors as switches and amplifiers. Basic integrated circuits. Drawing and planning electric and electronic circuits. Interpenetrations. Developments. Loc",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "EGD10A2"
+          },
+          {
+            "Course": "EGD20B2"
+          }
+        ]
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Engineering Graphics and Technology Education 3B",
+    "Code": "EGD20B3",
+    "Credits": "16",
+    "NQF": "7",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of this module is to guide students in developing knowledge and skills enabling them to apply the principles taught to identify and solve complex and diverse design problems.Application of the technological process: design principles, investigative techniques, data processing techniques, calculations and communication techniques within the contexts of civil and mechanical technologies.",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Prerequisite": [
+      {
+        "Course": "EGD10A3"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Teaching Studies",
+    "Code": "TST00Y4",
+    "Credits": "40",
+    "NQF": "7",
+    "Duration": "Year",
+    "Description": "The purpose of this module is to support students in honing their teaching and professional competence and to develop as critically  reflective practitionersThemes to be addressed:Curriculum and assessment policy statementsPedagogical content knowledge (PCK) focussing on Content Representation (CoRes) and Pedagogical and Professional  experience Repertoires ( PaP-eRs)Design and delivery oflessons and teaching plansAssessment for and of learningThe teaching profession and the context of schoolsDeveloping a teaching philosophy- here students will be required to invoke disciplinary, practical, situational and pedagogical learning dealt with during their first three years of study.",
+    "Assessment": [
+      {
+        "Name": "Lesson Evaluation",
+        "Type": "Evaluation",
+        "Weight": 10
+      },
+      {
+        "Name": "Professional Development Portfolio",
+        "Type": "Portfolio",
+        "Weight": 25
+      },
+      {
+        "Name": "Research Project",
+        "Type": "Project"
+      },
+      {
+        "Name": "Test",
+        "Type": "Test",
+        "Weight": 10
+      },
+      {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 15
+      },
+      {
+        "Name": "Plan",
+        "Type": "Plan",
+        "Weight": 20
+      }
+    ],
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "TST10A3"
+          },
+          {
+            "Course": "TST20B2"
+          },
+          {
+            "Course": "TST10A1"
+          },
+          {
+            "Course": "TST20B1"
+          },
+          {
+            "Course": "TST10A2"
+          },
+          {
+            "Course": "TST20B2"
+          }
+        ]
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Accounting 4",
+    "Code": "MOFPAY4",
+    "Credits": "40",
+    "NQF": "7",
+    "Duration": "Year",
+    "Period": [],
+    "Description": "The purpose of this module is to support students in honing their teaching andprofessional competence and to develop as critically  reflective practitioners",
+    "Assessment": [
+      {
+        "Name": "Lesson Evaluation",
+        "Type": "Evaluation",
+        "Weight": 10
+      },
+      {
+        "Name": "Professional Development Portfolio",
+        "Type": "Portfolio",
+        "Weight": 25
+      },
+      {
+        "Name": "Research Project",
+        "Type": "Project"
+      },
+      {
+        "Name": "Test",
+        "Type": "Test",
+        "Weight": 10
+      },
+      {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 15
+      },
+      {
+        "Name": "Plan",
+        "Type": "Plan",
+        "Weight": 20
+      }
+    ],
+    "Prerequisite": [
+      {
+        "$or": [
+          {
+            "Course": "ACC3AB0",
+            "Comment": "(First Major)"
+          },
+          {
+            "$and": [
+              {
+                "Course": "ACC02A2"
+              },
+              {
+                "Course": "ACC02B2",
+                "Comment": "(Second Major)"
+              },
+              {
+                "Course": "MOFAA3"
+              },
+              {
+                "Course": "MOFAB3"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Afrikaans",
+    "Code": "MFSPAY4",
+    "Credits": "40",
+    "NQF": "7",
+    "Duration": "Year",
+    "Description": "The purpose of this module is to support students in honing their teaching andprofessional competence and to develop as critically  reflective practitioners",
+    "Assessment": [
+      {
+        "Name": "Lesson Evaluation",
+        "Type": "Evaluation",
+        "Weight": 10
+      },
+      {
+        "Name": "Professional Development Portfolio",
+        "Type": "Portfolio",
+        "Weight": 25
+      },
+      {
+        "Name": "Research Project",
+        "Type": "Project",
+        "Dynamic": true
+      },
+      {
+        "Name": "Test",
+        "Type": "Test",
+        "Weight": 10
+      },
+      {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 15
+      },
+      {
+        "Name": "Plan",
+        "Type": "Plan",
+        "Weight": 20
+      }
+    ],
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "AFR3AA3"
+          },
+          {
+            "Course": "AFR3BB3"
+          },
+          {
+            "Course": "MFSPAA3"
+          },
+          {
+            "Course": "MFSPAB3"
+          }
+        ]
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Business Studies 4",
+    "Code": "MOFPBY4",
+    "Credits": "40",
+    "NQF": "7",
+    "Duration": "Year",
+    "Period": [],
+    "Description": "The purpose of this module is to support students in honing their teaching andprofessional competence and to develop as critically  reflective practitioners",
+    "Assessment": [
+      {
+        "Name": "Lesson Evaluation",
+        "Type": "Evaluation",
+        "Weight": 10
+      },
+      {
+        "Name": "Professional Development Portfolio",
+        "Type": "Portfolio",
+        "Weight": 25
+      },
+      {
+        "Name": "Research Project",
+        "Type": "Project",
+        "Dynamic": true
+      },
+      {
+        "Name": "Test",
+        "Type": "Test",
+        "Weight": 10
+      },
+      {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 15
+      },
+      {
+        "Name": "Plan",
+        "Type": "Plan",
+        "Weight": 20
+      }
+    ],
+    "Prerequisite": [
+      {
+        "$or": [
+          {
+            "$and": [
+              {
+                "Course": "BMA13A3"
+              },
+              {
+                "Course": "BMA23B3",
+                "Comment": "(First Major)"
+              }
+            ]
+          },
+          {
+            "$and": [
+              {
+                "Course": "BMA12A2"
+              },
+              {
+                "Course": "BMA22B2",
+                "Comment": "(Second Major)"
+              },
+              {
+                "Course": "MOFBA3"
+              },
+              {
+                "Course": "MOFPBB3"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Civil Technology 4",
+    "Code": "MOFPCY4",
+    "Credits": "40",
+    "NQF": "7",
+    "Duration": "Year",
+    "Description": "The purpose of this module is to support students in honing their teaching andprofessional competence and to develop as critically  reflective practitioners",
+    "Assessment": [
+      {
+        "Name": "Lesson Evaluation",
+        "Type": "Evaluation",
+        "Weight": 10
+      },
+      {
+        "Name": "Professional Development Portfolio",
+        "Type": "Portfolio",
+        "Weight": 25
+      },
+      {
+        "Name": "Research Project",
+        "Type": "Project",
+        "Dynamic": true
+      },
+      {
+        "Name": "Test",
+        "Type": "Test",
+        "Weight": 10
+      },
+      {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 15
+      },
+      {
+        "Name": "Plan",
+        "Type": "Plan",
+        "Weight": 20
+      }
+    ],
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "CTE10A2"
+          },
+          {
+            "Course": "LYCTE2OB2"
+          },
+          {
+            "Course": "MOFPCA3"
+          },
+          {
+            "Course": "MOFOCB3"
+          }
+        ]
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Economics 4",
+    "Code": "MOFPEY4",
+    "Credits": "40",
+    "NQF": "7",
+    "Duration": "Year",
+    "Description": "The purpose of this module is to support students in honing their teaching andprofessional competence and to develop as critically  reflective practitioners",
+    "Assessment": [
+      {
+        "Name": "Lesson Evaluation",
+        "Type": "Evaluation",
+        "Weight": 10
+      },
+      {
+        "Name": "Professional Development Portfolio",
+        "Type": "Portfolio",
+        "Weight": 25
+      },
+      {
+        "Name": "Research Project",
+        "Type": "Project",
+        "Dynamic": true
+      },
+      {
+        "Name": "Test",
+        "Type": "Test",
+        "Weight": 10
+      },
+      {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 15
+      },
+      {
+        "Name": "Plan",
+        "Type": "Plan",
+        "Weight": 20
+      }
+    ],
+    "Prerequisite": [
+      {
+        "$or": [
+          {
+            "$and": [
+              {
+                "Course": "ECO3AA3"
+              },
+              {
+                "Course": "ECO3BB3",
+                "Comment": "(First Major)"
+              }
+            ]
+          },
+          {
+            "$and": [
+              {
+                "Course": "ECO2AA2"
+              },
+              {
+                "Course": "ECO2BB2",
+                "Comment": "(Second Major)"
+              },
+              {
+                "Course": "MOFPEA3"
+              },
+              {
+                "Course": "MOFPEB3"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Engineering Graphics and Design 4",
+    "Code": "MFSPTY4",
+    "Credits": "40",
+    "NQF": "7",
+    "Duration": "Year",
+    "Description": "The purpose of this module is to support students in honing their teaching andprofessional competence and to develop as critically  reflective practitioners",
+    "Assessment": [
+      {
+        "Name": "Lesson Evaluation",
+        "Type": "Evaluation",
+        "Weight": 10
+      },
+      {
+        "Name": "Professional Development Portfolio",
+        "Type": "Portfolio",
+        "Weight": 25
+      },
+      {
+        "Name": "Research Project",
+        "Type": "Project",
+        "Dynamic": true
+      },
+      {
+        "Name": "Test",
+        "Type": "Test",
+        "Weight": 10
+      },
+      {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 15
+      },
+      {
+        "Name": "Plan",
+        "Type": "Plan",
+        "Weight": 20
+      }
+    ],
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "EGD10A3"
+          },
+          {
+            "Course": "EGD20B3"
+          },
+          {
+            "Course": "MFSPTA3"
+          },
+          {
+            "Course": "MFSPTB3"
+          }
+        ]
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "English 4",
+    "Code": "MFSPEY4",
+    "Credits": "40",
+    "NQF": "7",
+    "Duration": "Year",
+    "Description": "The purpose of this module is to support students in honing their teaching andprofessional competence and to develop as critically  reflective practitioners",
+    "Assessment": [
+      {
+        "Name": "Lesson Evaluation",
+        "Type": "Evaluation",
+        "Weight": 10
+      },
+      {
+        "Name": "Professional Development Portfolio",
+        "Type": "Portfolio",
+        "Weight": 25
+      },
+      {
+        "Name": "Research Project",
+        "Type": "Project",
+        "Dynamic": true
+      },
+      {
+        "Name": "Test",
+        "Type": "Test",
+        "Weight": 10
+      },
+      {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 15
+      },
+      {
+        "Name": "Plan",
+        "Type": "Plan",
+        "Weight": 20
+      }
+    ],
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "ENG3AA3"
+          },
+          {
+            "Course": "ENG3BB3"
+          },
+          {
+            "Course": "MSPEA3"
+          },
+          {
+            "Course": "MFSPEB3"
+          }
+        ]
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Geography 4",
+    "Code": "MOFPGY4",
+    "Credits": "40",
+    "NQF": "7",
+    "Duration": "Year",
+    "Description": "The purpose of this module is to support students in honing their teaching andprofessional competence and to develop as critically  reflective practitioners",
+    "Assessment": [
+      {
+        "Name": "Lesson Evaluation",
+        "Type": "Evaluation",
+        "Weight": 10
+      },
+      {
+        "Name": "Professional Development Portfolio",
+        "Type": "Portfolio",
+        "Weight": 25
+      },
+      {
+        "Name": "Research Project",
+        "Type": "Project",
+        "Dynamic": true
+      },
+      {
+        "Name": "Test",
+        "Type": "Test",
+        "Weight": 10
+      },
+      {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 15
+      },
+      {
+        "Name": "Plan",
+        "Type": "Plan",
+        "Weight": 20
+      }
+    ],
+    "Prerequisite": [
+      {
+        "$or": [
+          {
+            "$and": [
+              {
+                "Course": "GR3AFET"
+              },
+              {
+                "Course": "GR3BFET",
+                "Comment": "(First Major)"
+              }
+            ]
+          },
+          {
+            "$and": [
+              {
+                "Course": "GR2AFET"
+              },
+              {
+                "Course": "GR2BFET",
+                "Comment": "(Second Major)"
+              },
+              {
+                "Course": "MOFPGA3"
+              },
+              {
+                "Course": "MOFPGB3"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "History 4",
+    "Code": "MOFPOY4",
+    "Credits": "40",
+    "NQF": "7",
+    "Duration": "Year",
+    "Description": "The purpose of this module is to support students in honing their teaching andprofessional competence and to develop as critically  reflective practitioners",
+    "Assessment": [
+      {
+        "Name": "Lesson Evaluation",
+        "Type": "Evaluation",
+        "Weight": 10
+      },
+      {
+        "Name": "Professional Development Portfolio",
+        "Type": "Portfolio",
+        "Weight": 25
+      },
+      {
+        "Name": "Research Project",
+        "Type": "Project",
+        "Dynamic": true
+      },
+      {
+        "Name": "Test",
+        "Type": "Test",
+        "Weight": 10
+      },
+      {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 15
+      },
+      {
+        "Name": "Plan",
+        "Type": "Plan",
+        "Weight": 20
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Hospitality Studies 4",
+    "Code": "MOFPHY4",
+    "Credits": "40",
+    "NQF": "7",
+    "Duration": "Year",
+    "Description": "The purpose of this module is to support students in honing their teaching andprofessional competence and to develop as critically  reflective practitioners",
+    "Assessment": [
+      {
+        "Name": "Lesson Evaluation",
+        "Type": "Evaluation",
+        "Weight": 10
+      },
+      {
+        "Name": "Professional Development Portfolio",
+        "Type": "Portfolio",
+        "Weight": 25
+      },
+      {
+        "Name": "Research Project",
+        "Type": "Project",
+        "Dynamic": true
+      },
+      {
+        "Name": "Test",
+        "Type": "Test",
+        "Weight": 10
+      },
+      {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 15
+      },
+      {
+        "Name": "Plan",
+        "Type": "Plan",
+        "Weight": 20
+      }
+    ],
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "HOS12A2"
+          },
+          {
+            "Course": "HOS22B2"
+          },
+          {
+            "Course": "MOFPHA3"
+          },
+          {
+            "Course": "MOFPHB3"
+          }
+        ]
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Izizulu 4",
+    "Code": "MFSPZY4",
+    "Credits": "40",
+    "NQF": "7",
+    "Duration": "Year",
+    "Period": [],
+    "Description": "The purpose of this module is to support students in honing their teaching andprofessional competence and to develop as critically  reflective practitioners",
+    "Assessment": [
+      {
+        "Name": "Lesson Evaluation",
+        "Type": "Evaluation",
+        "Weight": 10
+      },
+      {
+        "Name": "Professional Development Portfolio",
+        "Type": "Portfolio",
+        "Weight": 25
+      },
+      {
+        "Name": "Research Project",
+        "Type": "Project",
+        "Dynamic": true
+      },
+      {
+        "Name": "Test",
+        "Type": "Test",
+        "Weight": 10
+      },
+      {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 15
+      },
+      {
+        "Name": "Plan",
+        "Type": "Plan",
+        "Weight": 20
+      }
+    ],
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "IZU3AA3"
+          },
+          {
+            "Course": "IZU3BB3"
+          },
+          {
+            "Course": "MFSPZA3"
+          },
+          {
+            "Course": "MFSPZB3"
+          }
+        ]
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Life Orientation 4",
+    "Code": "MFSPLY4",
+    "Credits": "40",
+    "NQF": "7",
+    "Duration": "Year",
+    "Description": "The purpose of this module is to support students in honing their teaching andprofessional competence and to develop as critically  reflective practitioners",
+    "Assessment": [
+      {
+        "Name": "Lesson Evaluation",
+        "Type": "Evaluation",
+        "Weight": 10
+      },
+      {
+        "Name": "Professional Development Portfolio",
+        "Type": "Portfolio",
+        "Weight": 25
+      },
+      {
+        "Name": "Research Project",
+        "Type": "Project",
+        "Dynamic": true
+      },
+      {
+        "Name": "Test",
+        "Type": "Test",
+        "Weight": 10
+      },
+      {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 15
+      },
+      {
+        "Name": "Plan",
+        "Type": "Plan",
+        "Weight": 20
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Life Sciences 4",
+    "Code": "MOFPLY4",
+    "Credits": "40",
+    "NQF": "7",
+    "Duration": "Year",
+    "Period": [],
+    "Description": "The purpose of this module is to support students in honing their teaching andprofessional competence and to develop as critically  reflective practitioners",
+    "Assessment": [
+      {
+        "Name": "Lesson Evaluation",
+        "Type": "Evaluation",
+        "Weight": 10
+      },
+      {
+        "Name": "Professional Development Portfolio",
+        "Type": "Portfolio",
+        "Weight": 25
+      },
+      {
+        "Name": "Research Project",
+        "Type": "Project",
+        "Dynamic": true
+      },
+      {
+        "Name": "Test",
+        "Type": "Test",
+        "Weight": 10
+      },
+      {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 15
+      },
+      {
+        "Name": "Plan",
+        "Type": "Plan",
+        "Weight": 20
+      }
+    ],
+    "Prerequisite": [
+      {
+        "$or": [
+          {
+            "$and": [
+              {
+                "Course": "LST0A3"
+              },
+              {
+                "Course": "LFST0B3",
+                "Comment": "(First Major)"
+              }
+            ]
+          },
+          {
+            "$and": [
+              {
+                "Course": "LSF0A2"
+              },
+              {
+                "Course": "LSFT0B2",
+                "Comment": "(Second Major)"
+              },
+              {
+                "Course": "MOPLA3"
+              },
+              {
+                "Course": "MOFPLB3"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Mathematics 4",
+    "Code": "MFSPMY4",
+    "Credits": "40",
+    "NQF": "7",
+    "Duration": "Year",
+    "Description": "The purpose of this module is to support students in honing their teaching andprofessional competence and to develop as critically  reflective practitioners",
+    "Assessment": [
+      {
+        "Name": "Lesson Evaluation",
+        "Type": "Evaluation",
+        "Weight": 10
+      },
+      {
+        "Name": "Professional Development Portfolio",
+        "Type": "Portfolio",
+        "Weight": 25
+      },
+      {
+        "Name": "Research Project",
+        "Type": "Project",
+        "Dynamic": true
+      },
+      {
+        "Name": "Test",
+        "Type": "Test",
+        "Weight": 10
+      },
+      {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 15
+      },
+      {
+        "Name": "Plan",
+        "Type": "Plan",
+        "Weight": 20
+      }
+    ],
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "MA3AFET"
+          },
+          {
+            "$or": [
+              {
+                "Course": "MA3BFET"
+              },
+              {
+                "Course": "MAFT0A3"
+              }
+            ]
+          },
+          {
+            "Course": "MAFTOB3"
+          },
+          {
+            "Course": "MFSPMA3"
+          },
+          {
+            "Course": "MFSPMB3"
+          }
+        ]
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Physical Sciences 4",
+    "Code": "MOFPPY4",
+    "Credits": "40",
+    "NQF": "7",
+    "Duration": "Year",
+    "Description": "The purpose of this module is to support students in honing their teaching andprofessional competence and to develop as critically  reflective practitioners",
+    "Assessment": [
+      {
+        "Name": "Lesson Evaluation",
+        "Type": "Evaluation",
+        "Weight": 10
+      },
+      {
+        "Name": "Professional Development Portfolio",
+        "Type": "Portfolio",
+        "Weight": 25
+      },
+      {
+        "Name": "Research Project",
+        "Type": "Project",
+        "Dynamic": true
+      },
+      {
+        "Name": "Test",
+        "Type": "Test",
+        "Weight": 10
+      },
+      {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 15
+      },
+      {
+        "Name": "Plan",
+        "Type": "Plan",
+        "Weight": 20
+      }
+    ],
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "PSFT0A3S"
+          },
+          {
+            "Course": "PSFTOB3"
+          },
+          {
+            "Course": "MOFPPA3"
+          },
+          {
+            "Course": "MOFPPB3"
+          }
+        ]
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Sepedi 4",
+    "Code": "MFSPSY4",
+    "Credits": "40",
+    "NQF": "7",
+    "Duration": "Year",
+    "Description": "The purpose of this module is to support students in honing their teaching andprofessional competence and to develop as critically  reflective practitioners",
+    "Assessment": [
+      {
+        "Name": "Lesson Evaluation",
+        "Type": "Evaluation",
+        "Weight": 10
+      },
+      {
+        "Name": "Professional Development Portfolio",
+        "Type": "Portfolio",
+        "Weight": 25
+      },
+      {
+        "Name": "Research Project",
+        "Type": "Project",
+        "Dynamic": true
+      },
+      {
+        "Name": "Test",
+        "Type": "Test",
+        "Weight": 10
+      },
+      {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 15
+      },
+      {
+        "Name": "Plan",
+        "Type": "Plan",
+        "Weight": 20
+      }
+    ],
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "SEP3AA3"
+          },
+          {
+            "Course": "SEP3BB3"
+          },
+          {
+            "Course": "MFSPSA3"
+          },
+          {
+            "Course": "MFSPSB3"
+          }
+        ]
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Tourism 4",
+    "Code": "MOFPTY4",
+    "Credits": "40",
+    "NQF": "7",
+    "Duration": "Year",
+    "Description": "The purpose of this module is to support students in honing their teaching andprofessional competence and to develop as critically  reflective practitioners",
+    "Assessment": [
+      {
+        "Name": "Lesson Evaluation",
+        "Type": "Evaluation",
+        "Weight": 10
+      },
+      {
+        "Name": "Professional Development Portfolio",
+        "Type": "Portfolio",
+        "Weight": 25
+      },
+      {
+        "Name": "Research Project",
+        "Type": "Project",
+        "Dynamic": true
+      },
+      {
+        "Name": "Test",
+        "Type": "Test",
+        "Weight": 10
+      },
+      {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 15
+      },
+      {
+        "Name": "Plan",
+        "Type": "Plan",
+        "Weight": 20
+      }
+    ],
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "TOU12A2"
+          },
+          {
+            "Course": "TOU22B2"
+          },
+          {
+            "Course": "MOFPTA3"
+          },
+          {
+            "Course": "MOFPTB3"
+          }
+        ]
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Visual Arts 4",
+    "Code": "MOFPVY4",
+    "Credits": "40",
+    "NQF": "7",
+    "Duration": "Year",
+    "Description": "The purpose of this module is to support students in honing their teaching andprofessional competence and to develop as critically  reflective practitioners",
+    "Assessment": [
+      {
+        "Name": "Lesson Evaluation",
+        "Type": "Evaluation",
+        "Weight": 10
+      },
+      {
+        "Name": "Professional Development Portfolio",
+        "Type": "Portfolio",
+        "Weight": 25
+      },
+      {
+        "Name": "Research Project",
+        "Type": "Project",
+        "Dynamic": true
+      },
+      {
+        "Name": "Test",
+        "Type": "Test",
+        "Weight": 10
+      },
+      {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 15
+      },
+      {
+        "Name": "Plan",
+        "Type": "Plan",
+        "Weight": 20
+      }
+    ],
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "ADSB5A3"
+          },
+          {
+            "Course": "ADSB5B3"
+          },
+          {
+            "Course": "MOFPVA3"
+          },
+          {
+            "Course": "MOFPVB3"
+          }
+        ]
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Physical Education",
+    "Code": "MOFPXY4",
+    "Credits": "40",
+    "NQF": "7",
+    "Duration": "Year",
+    "Description": "The purpose of this module is to support students in honing their teaching and professional competence and to develop as critically  reflective practitioners",
+    "Assessment": [
+      {
+        "Name": "Lesson Evaluation",
+        "Type": "Evaluation",
+        "Weight": 10
+      },
+      {
+        "Name": "Professional Development Portfolio",
+        "Type": "Portfolio",
+        "Weight": 25
+      },
+      {
+        "Name": "Research Project",
+        "Type": "Project",
+        "Dynamic": true
+      },
+      {
+        "Name": "Test",
+        "Type": "Test",
+        "Weight": 10
+      },
+      {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 15
+      },
+      {
+        "Name": "Plan",
+        "Type": "Plan",
+        "Weight": 20
+      }
+    ],
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "HSMEA02"
+          },
+          {
+            "Course": "HMSEB02"
+          },
+          {
+            "Course": "MOFPXA3"
+          },
+          {
+            "Course": "MOFPXB3"
+          }
+        ]
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "School Guidance and Support",
+    "Code": "MOFPSY4",
+    "Credits": "40",
+    "NQF": "7",
+    "Duration": "Year",
+    "Description": "The purpose of this module is to support students in honing their teaching and professional competence and to develop as critically  reflective practitioners",
+    "Assessment": [
+      {
+        "Name": "Lesson Evaluation",
+        "Type": "Evaluation",
+        "Weight": 10
+      },
+      {
+        "Name": "Professional Development Portfolio",
+        "Type": "Portfolio",
+        "Weight": 25
+      },
+      {
+        "Name": "Research Project",
+        "Type": "Project",
+        "Dynamic": true
+      },
+      {
+        "Name": "Test",
+        "Type": "Test",
+        "Weight": 10
+      },
+      {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 15
+      },
+      {
+        "Name": "Plan",
+        "Type": "Plan",
+        "Weight": 20
+      }
+    ],
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "SGS10A2"
+          },
+          {
+            "Course": "SGS20B2"
+          },
+          {
+            "Course": "MOFPSA3"
+          },
+          {
+            "Course": "MOFPSB3"
+          }
+        ]
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "School ICT Support",
+    "Code": "MOFPIY4",
+    "Credits": "40",
+    "NQF": "7",
+    "Duration": "Year",
+    "Period": [],
+    "Description": "The purpose of this module is to support students in honing their teaching and professional competence and to develop as critically  reflective practitioners",
+    "Assessment": [
+      {
+        "Name": "Lesson Evaluation",
+        "Type": "Evaluation",
+        "Weight": 10
+      },
+      {
+        "Name": "Professional Development Portfolio",
+        "Type": "Portfolio",
+        "Weight": 25
+      },
+      {
+        "Name": "Research Project",
+        "Type": "Project",
+        "Dynamic": true
+      },
+      {
+        "Name": "Test",
+        "Type": "Test",
+        "Weight": 10
+      },
+      {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 15
+      },
+      {
+        "Name": "Plan",
+        "Type": "Plan",
+        "Weight": 20
+      }
+    ],
+    "Prerequisite": [
+      {
+        "$and": [
+          {
+            "Course": "ITS10A2"
+          },
+          {
+            "Course": "ITS10B2"
+          },
+          {
+            "Course": "MOFPIA3"
+          },
+          {
+            "Course": "MOFPIB3"
+          }
+        ]
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "English as language of teaching and learning 1B",
+    "Code": "EFT20B1",
+    "Credits": "8",
+    "NQF": "5",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "The purpose of the module is to improve students  English language and communication skills to prepare them for clarity of communication in the school environment.The reading of policy and curriculum documentsWritten communication in the school environment",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Prerequisite": [
+      {
+        "Comment": "No matriculation prerequisite subjects required- no prior knowledge required"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Academic Literacy for Education",
+    "Code": "ALE00Y1",
+    "Credits": "8",
+    "NQF": "5",
+    "Duration": "Year",
+    "Description": "The purpose of this module is to introduce students to academic reading and writing and exposes students to the various aspects of academic literacy at university in order to develop critical thinking, broader language awareness, as well as a heightened ability to communicate in various modes.",
+    "Assessment": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Dynamic": true
+      }
+    ],
+    "Prerequisite": [
+      {
+        "Comment": "No matriculation prerequisite subjects required- no prior knowledge required"
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Education Studies 1A",
+    "Code": "EST10A1",
+    "Credits": "16",
+    "NQF": "5",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "To guide students to analyse experiences of school education from personal and historical perspectives in order to understand how education is shaped historically.The journey of education:Personal educational historyComparing histories of educationHow education is shaped historicallyLinking personal history with the national history of education",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Course": "Education Studies 1B",
+    "Code": "EST20B1",
+    "Credits": "16",
+    "NQF": "6",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "To guide students in studying current educational challenges from perspectives of socio-cultural theories of education in order understand how education is shaped socially and politicallyCurrent issues in education:Social context, culture, diversity, and multicultural educationLanguage diversityHow education systems evolve Race, class, genderInclusive Education",
+    "Assessment": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 50,
+        "Equal": false,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Group Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Examination",
+        "Weight": 50
+      }
+    ],
+    "Institution": "University of Johannesburg"
+  }
+]

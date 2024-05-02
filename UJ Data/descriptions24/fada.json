@@ -1,0 +1,3181 @@
+[
+  {
+      "Code": "DACA1A1",
+      "Credits": 8,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+        "Description":"The purpose of this module is to introduce student s to communication in \narchitectural practice and in the academic environment.",
+      "Course": "COMMUNICATION IN ARCHITECTURE 1A",
+      "Institution": "University of Johannesburg",
+       "Duration":"Semester",
+      "Period": [1]
+  },
+
+  {
+      "Code": "DAAD1Y1",
+      "NQF": 5,
+       "Credits": 20,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to introduce student s to the design process and principles, and to develop student spresentation and communication skills u  ",
+      "Course": "ARCHITECTURAL DESIGN 1",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "DAAP1B1",
+      "Credits": 8,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to introduce student s to basic office practice and management.   ",
+      "Course": "ARCHITECTURAL PRACTICE 1B",
+      "Institution": "University of Johannesburg",
+      "Duration": "Semester",
+      "Period": [
+          2
+      ]
+  },
+  {
+      "Code": "DAAC1A1",
+      "Credits": 12,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to introduce student s to a range of software used in architectural practice.          ",
+      "Course": "COMPUTERS IN ARCHITECTURE 1",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "DAHA1Y1",
+      "Credits": 12,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "PURPOSE Mesopotamia, Greece, Rome and traditional African societies, Renaissance Period, Industrialisation Period, Modernist, Post-modernist and contemporary South Africa.   ",
+      "Course": "HISTORY AND THEORY OF ARCHITECTURE 1s",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "DAID1Y1",
+      "Credits": 16,
+      "NQF": 5,
+      "Description": "The purpose of this module is to introduce student s to the broad field of visual and design culture and the multiple modes of representation.    ",
+      "Course": "INTERDISCIPLINARY DESIGN AND PRESENTATION 1",
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "DATD1Y1",
+      "Credits": 44,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to introduce student s to construction methods, materials, services, structures, detailing and working drawings relating to simple structures.   ",
+      "Course": "ARCHITECTURAL TECHNOLOGY AND DETAILING 1",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "DAAD1Y2",
+      "Credits": 20,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enable student s to develop architectural design processes and principles for the creative resolution of design and construction problems for elementary buildings. ",
+      "Course": "ARCHITECTURAL DESIGN 2",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "DACA1A2",
+      "Credits": 8,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to develop in the use professional standard computer programmes and to solve problems pertaining to the production of standard documentation for elementary buildings  ",
+      "Course": "COMPUTERS IN ARCHITECTURE 2A",
+      "Institution": "University of Johannesburg",
+      "Duration": "Semester",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "DAHA1Y2",
+      "Credits": 12,
+      "NQF": 5,
+      "Description": "The purpose of this module is to enable student s to critically analyse historic building methods and materials in the ancient civilisations of Egypt, Greece, Rome, Islamic, Far Eastern and in traditional African societies.  ",
+      "Course": "HISTORY AND THEORY OF ARCHITECTURE 2",
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "DAID1A2",
+      "Credits": 8,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to develop student sability to collaborate in the process of design and assembly of items with related discipline of interior Design and industrial design.     ",
+      "Course": "INTERDISCIPLINARY DESIGN AND PRESENTATION 2A",
+      "Institution": "University of Johannesburg",
+      "Duration": "Semester",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "DAIL1Y2",
+      "Credits": 32,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to introduce student s to architectural practice environment under the guidance of an approved mentor.   At the end of this module the student  should be able to:   \u00e2\u20ac\u00a2 Identify and discuss policies and procedures adopted by architectural  practices. ",
+      "Course": "WORK INTEGRATED LEARNING 2 (ARCHITECTURE)",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "DASD1B2",
+      "Credits": 8,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to introduce student s to fundamental concepts of sustainable building construction.  ",
+      "Course": "SUSTAINABLE DESIGN 2B",
+      "Institution": "University of Johannesburg",
+      "Duration": "Semester",
+      "Period": [
+          2
+      ]
+  },
+  {
+      "Code": "DATD1Y2",
+      "Credits": 32,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enable student s to evaluate and select appropriate structural systems, construction methods, materials, building services and systems for elementary buildings in consultation with relevant other professions    ",
+      "Course": "ARCHITECTURAL TECHNOLOGY AND DETAILING 2",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "DAAD1Y3",
+      "Credits": 24,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enable student s to apply  an integrated approach to technological design that takes cognisance  of contextual, environmental and historical precedents. ",
+      "Course": "ARCHITECTURAL DESIGN 3",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "DAAP1B3",
+      "Credits": 8,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module for student s to acquire and apply professional architectural office management practices and procedures within the framework of standard professional documents, guidelines, legal and ethical prescriptions  ",
+      "Course": "ARCHITECTURAL PRACTICE 3B",
+      "Institution": "University of Johannesburg",
+      "Duration": "Semester",
+      "Period": [
+          2
+      ]
+  },
+  {
+      "Code": "DACA1A3",
+      "Credits": 8,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enable student s demonstrate skills in the use professional standard computer programmes and solve problems pertaining to the production of standard contract documentation for buildings.  ",
+      "Course": "COMPUTERS IN ARCHITECTURE 3A",
+      "Institution": "University of Johannesburg",
+      "Duration": "Semester",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "DAHA1Y3",
+      "Credits": 12,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enable student  to critically analyse historic building methods and materials from Industrialisation period to contemporary South Africa.  ",
+      "Course": "HISTORY AND THEORY OF ARCHITECTURE 3",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "DAID1A3",
+      "Credits": 8,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to develop student sability to collaborate in process of assembly with related discipline of jewellery, multimedia and graphic design. ",
+      "Course": "INTERDISCIPLINARY DESIGN AND PRESENTATION 3A",
+      "Institution": "University of Johannesburg",
+      "Duration": "Semester",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "DAIL1Y3",
+      "Credits": 32,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enable student s apply professional architectural office management practices and procedures within the architectural practice environment under the guidance of an approved mentor.  ",
+      "Course": "WORK INTEGRATED LEARNING 3 (ARCHITECTURE)",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "DATD1Y3",
+      "Credits": 28,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enable students to design appropriate \nconstruction methods and produce contract documentation for elementary \nbuildings. ",
+      "Course": "ARCHITECTURAL TECHNOLOGY AND DETAILING 3",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "BAAD3A1",
+      "Credits": 24,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to introduce student s to the design principles and processes and to develop student sexplorative, presentation, communication and critical thinking skills used in the design process.     ",
+      "Course": "ARCHITECTURAL DESIGN 1A",
+      "Institution": "University of Johannesburg",
+      "Duration": "Semester",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "BAAD3B1",
+      "Credits": 24,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to introduce student s to the design principles and processes and to develop student sexplorative, presentation, communication and critical thinking skills used in the design process in context.     ",
+      "Course": "ARCHITECTURAL DESIGN 1B",
+      "Institution": "University of Johannesburg",
+      "Duration": "Semester",
+      "Period": [
+          2
+      ]
+  },
+  {
+      "Code": "BADS3B1",
+      "Credits": 8,
+      "NQF Level":5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+        "Description":"The purpose of this module is to introduce student s to fundamentals of art and \ndesign theory and how these relate to architectural design.",
+      "Course": "DESIGN STUDIES IN ARCHITECTURE 1B",
+      "Institution": "University of Johannesburg",
+       "Duration":"Semester",
+      "Period": [2]
+  },
+
+  {
+      "Code": "BACD3A1",
+      "Credits": 8,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to introduce student s to fundamentals of art and design theory and how these relate to architectural design",
+      "Course": "COMMUNICATION IN ARCHITECTURE 1A",
+      "Institution": "University of Johannesburg",
+      "Duration": "Semester",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "BAHA3A1",
+      "Credits": 8,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to introduce student s to evolution of the built environment spanning from ancient city-states of Egypt, Mesopotamia, Greece, Rome, Islamic and traditional African societies.          ",
+      "Course": "HISTORY AND THEORY OF ARCHITECTURE 1A",
+      "Institution": "University of Johannesburg",
+      "Duration": "Semester",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "BAID3Y1",
+      "Credits": 12,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of collaboration with  this module is to disciplines related  introduce student s to to architecture. These   processes disciplines  of interior design, visual art, jewellery and communication design. The module aims to develop student sexplorative, presentation, communication and thinking skills as used in the design process. ",
+      "Course": "INTERDISCIPLINARY DESIGN AND PRESENTATION 1",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "BASD3B1",
+      "Credits": 8,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to introduce student s to fundamental concepts of sustainability and environmentally responsive design.         At the end of this module the student  should be able to: \u00e2\u20ac\u00a2 Demonstrate understanding of basic concepts of    ecology  and of  human settlements        \u00e2\u20ac\u00a2 Discuss climatic implications on macro and micro climates ",
+      "Course": "SUSTAINABLE DESIGN 1B",
+      "Institution": "University of Johannesburg",
+      "Duration": "Semester",
+      "Period": [
+          2
+      ]
+  },
+  {
+      "Code": "BATD3Y1",
+      "Credits": 28,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to introduce student s to fundamental construction methods, materials, services, structures, detailing and working  drawings relating to simple domestic structure.",
+      "Institution": "University of Johannesburg",
+      "Course": "ARCHITECTURAL TECHNOLOGY AND DETAILING 1",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "BAAD3Y2",
+      "Prerequisite": [
+      {
+        "$and": [
+          {"Course": "BAAD3B1"},
+          {"Course": "BATD3Y1"},
+          {"Course": "BAHA3A1"},
+          {"Course": "BAAD3A1"}
+        ]
+      }
+    ],
+      "Credits": 48,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to develop student sdesign thinking skills, application of the design process, creativity and appreciation of the context.             ",
+      "Course": "ARCHITECTURAL DESIGN 2",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "BACA3A2",
+      "Credits": 8,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to introduce student s to professional standard computer programmes for the production of standard design drawings and documentation.        ",
+      "Course": "COMPUTERS IN ARCHITECTURE 2A",
+      "Institution": "University of Johannesburg",
+      "Duration": "Semester",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "BADS3B2",
+      "Credits": 8,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enable student scritical reflection on the influence of art and design theory in the global society.        ",
+      "Course": "DESIGN STUDIES IN ARCHITECTURE 2B",
+      "Institution": "University of Johannesburg",
+      "Duration": "Semester",
+      "Period": [
+          2
+      ]
+  },
+  {
+      "Code": "BAHA3A2",
+      "Credits": 8,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enhance student sappreciation of the evolution of architecture from the Middle Ages to the Renaissance period.          .",
+      "Course": "HISTORY AND THEORY OF ARCHITECTURE 2A",
+      "Institution": "University of Johannesburg",
+      "Duration": "Semester",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "BAID3Y2",
+      "Credits": 12,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to introduce student s to collaborative design processes with multimedia and industrial disciplines in relation to architecture.  ",
+      "Course": "INTERDISCIPLINARY DESIGN 2",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "BASD3B2",
+      "Credits": 8,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to critically reflect on the application of concepts of sustainability and environmentally responsive to design in the local context.       \u00e2\u20ac\u00a2 Translate implications of sustainability into innovative architectural       designs.      \u00e2\u20ac\u00a2 Analyse the design from sustainability context      .",
+      "Course": "SUSTAINABLE DESIGN 2B",
+      "Institution": "University of Johannesburg",
+      "Duration": "Semester",
+      "Period": [
+          2
+      ]
+  },
+  {
+      "Code": "BATD3Y2",
+      "Credits": 28,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to develop student understanding of construction methods, materials, services, structures, detailing and working drawings relating to simple domestic structure. ",
+      "Course": "ARCHITECTURAL TECHNOLOGY AND DETAILING 2",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ],
+       "Prerequisite": [
+      {
+        "$and": [
+          {"Course": "BATD3Y1"},
+          {"Course": "BAAD3B1"}
+        ]
+      }
+    ]
+  },
+  {
+      "Code": "BAAD3Y3",
+      "Credits": 48,
+      "NQF": 7,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enable student s to develop and resolve design alternatives using historical information, theoretical positions and precedents to demonstrate appropriate environmental design.             ",
+      "Course": "ARCHITECTURAL DESIGN 3",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ],
+       "Prerequisite": [
+      {
+        "$and": [
+          {"Course": "BAAD3Y2"},
+          {"Course": "BATD3Y2"},
+          {"Course": "BAHA3A2"}
+        ]
+      }
+    ]
+  },
+  {
+      "Code": "BAAP3B3",
+      "Credits": 8,
+      "NQF": 7,
+      "Description": "The purpose of this module is to enable student s to apply architectural office management practices and procedures, using standard professional documents, guidelines, legal and ethical prescriptions.            ",
+      "Course": "ARCHITECTURAL PRACTICE 3B",
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Institution": "University of Johannesburg",
+      "Duration": "Semester",
+      "Period": [
+          2
+      ]
+  },
+  {
+      "Code": "BACA3A3",
+      "Credits": 8,
+      "NQF": 7,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enable student s to use professional standard computer programmes to solve problems pertaining to the production of standard design drawings and documentation          ",
+      "Course": "COMPUTERS IN ARCHITECTURE 3A",
+      "Institution": "University of Johannesburg",
+      "Duration": "Semester",
+      "Period": [
+          1
+      ],
+       "Prerequisite": [
+      {
+        "$and": [
+          {"Course": "BACA3A2"},
+          {"Course": "BATD3Y2"}
+        ]
+      }
+    ]
+  },
+  {
+      "Code": "BADS3B3",
+      "Credits": 8,
+      "NQF": 7,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enable student s to reflect critically on art and design theory in the South African context.         ",
+      "Course": "DESIGN STUDIES IN ARCHITECTURE 3B",
+      "Institution": "University of Johannesburg",
+      "Duration": "Semester",
+      "Period": [
+          2
+      ]
+  },
+  {
+      "Code": "BAHA3A3",
+      "Credits": 8,
+      "NQF": 7,
+      "Description": "The purpose of this module is to enhancestudent sappreciation of the evolution of the built environment from the Industrialisation Period, Modernist, Post-modernist and contemporary South African period. ",
+      "Course": "HISTORY AND THEORY OF ARCHITECTURE 3A",
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Institution": "University of Johannesburg",
+      "Duration": "Semester",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "BAID3Y3",
+      "Credits": 12,
+      "NQF": 7,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to introduce student s to processes of collaboration with planning, urban design, housing and landscape architecture.         ",
+      "Course": "INTERDISCIPLINARY DESIGN 3",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "BATD3Y3",
+      "Credits": 180,
+      "NQF": 9,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "PURPOSE Candidate Architect registration category. Having obtained this qualification,  student s will be able to demonstrate competence in the specified exit level      ",
+      "Course": "ARCHITECTURAL TECHNOLOGY AND DETAILING 3",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ],
+      "Prerequisite": [
+      {
+        "$and": [
+          {"Course": "BATD3Y2"},
+          {"Course": "BAAD3Y2"}
+        ]
+      }
+    ]
+  },
+  {
+      "Code": "ADA7XA1",
+      "Credits":20 ,
+      "NQF": 7,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+        "Description":"The purpose of this module is to equip student s to relate and deepen their \nmethods, techniques, knowledge and research investigation into a range of \ncontemporary design theories and practices that impact on resolving problems\nwithin a South African context.",
+      "Course": "Art, Design and Architecture Design Theory and Practice 4",
+      "Institution": "University of Johannesburg",
+       "Duration":"Semester ",
+      "Period": [1]
+  },
+  {
+      "Code": "MAD7XA1",
+      "Credits": 20,
+      "NQF": 7,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to expose student s to various methods of \nresearch in art, design and architecture, to enable student s to integrate \nknowledge, research methods and creative thinking in the identification, \ndevelopment and presentation of a design solution.\n",
+      "Course": "Methods of Art, Design and Architecture Research 4",
+      "Institution": "University of Johannesburg",
+      "Duration": "Semester ",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "AAP7XA1",
+      "Credits": 20,
+      "NQF": 7,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+        "Description":"The purpose of this module is to enable the student  to explore generic \ninterdisciplinary design practices of various design disciplines. \nto enable student s to apply creative and alternative design solutions, in \ninterdisciplinary group work, to identified problems.",
+      "Course": "Art, Design and Architecture Practice 4",
+      "Institution": "University of Johannesburg",
+       "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "ARP7XB2",
+      "Credits":60,
+      "NQF Level":7 ,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+        "Description":"The purpose of the module is two-fold, firstly (Component A), to enable \nstudent s to write a reflective research essay on an identified technical, \neconomic, social, technique, material or environmental identified design \nproblem.\nSecondly (Component B), to afford the student  the opportunity to integrate \nknowledge, research findings and creative thinking in the identification, \ndevelopment and presentation of a design project that is of an appropriate \nscope, scale and complexity",
+      "Course": "Architecture project 4",
+      "Institution": "University of Johannesburg",
+       "Duration":"Year",
+      "Period": [1]
+  },
+
+
+  {
+      "Code": "FPBM1Y1",
+      "Credits": 20,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to identify and explain the basic concepts of financial planning, market research, product development, branding, marketing, merchandising and distribution in the context of entrepreneurship within the fashion industry. ",
+      "Course": "FASHION BUSINESS MANAGEMENT 1",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "FPPD1Y1",
+      "Credits": 20,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to demonstrate the ability to apply manual  skills and, in specific, computer-aided-design (CAD) programmes       in  order to develop and communicate a variety of basic fashion products  (for manufacture) using the appropriate technology.       ",
+      "Course": "TECHNICAL PRODUCT DEVELOPMENT 1",
+      "Institution": "University of Johannesburg",
+      "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "FPQO1Y1",
+      "Credits": 24,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to identify a variety of production operating systems in relation to fashion manufacturing. ",
+      "Course": "APPLIED QUALITY AND OPERATIONS 1",
+      "Institution": "University of Johannesburg",
+      "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "FPTT1Y1",
+      "Credits": 40,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to demonstrate the ability to apply textile technology, in order to technically design and manufacture a variety of basic garments using appropriate textile applications, industrial  machinery and accepted manufacturing methods.        ",
+      "Course": "FASHION AND TEXTILE TECHNOLOGY 1",
+      "Institution": "University of Johannesburg",
+       "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "MDCS1Y1",
+      "Credits": 16,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "PURPOSE  The purpose of this module is to introduce student s to the broad field of visual and design culture. This will enable design student s to gain an       awareness of academic practices, theoretical tendencies and discourses       to ensure critical and relevant practice. In this regard, basic understanding refers to practices of representation, perception and the       construction of meaning. ",
+      "Course": "CONTEXTUAL STUDIES 1",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "FPBM1Y2",
+      "Credits": 20,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to demonstrate the ability to apply basic principles of planning in order to set up a small business within the fashion industry.       ",
+      "Course": "FASHION BUSINESS MANAGEMENT 2",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ],
+       "Prerequisite": [
+      {
+        "Course": "FPBM1Y1"
+      }
+    ]
+  },
+  {
+      "Code": "FPFT1Y2",
+
+      "Credits": 20,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to identify and explain the theoretical concepts of fashion as part of an integrated global system, demonstrating the basic application of research principles, academic writing and ethical considerations.       ",
+      "Course": "FASHION THEORY 2",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "FPPD1Y2",
+      "Credits": 20,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to demonstrate the ability to develop variety of fashion products (for manufacture) that are relevant to current fashion trends and market demands and enhance communication using the appropriate technology.        ",
+      "Course": "TECHNICAL PRODUCT DEVELOPMENT 2",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "FPQO1Y2",
+      "Credits": 20,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to demonstrate the ability to enhance efficiency in material management, sourcing, development and manufacture of fashion as an integral part of the supply chain. ",
+      "Course": "APPLIED QUALITY AND OPERATIONS 2",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "FPTT1Y2",
+      "Credits": 40,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to demonstrate the ability to develop a variety of garments that reflect current fashion trends using accepted industry manufacturing methods.        ",
+      "Course": "FASHION AND TEXTILE TECHNOLOGY 2",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "FPFT1Y3",
+      "Credits": 20,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to identify and explain indicators of fashion  change that are applicable to fashion as a global system and interpret         retail principles and theories for a diverse range of fashion products by  demonstrating basic research methodology  within a selected theme   relating to fashion design. ",
+      "Course": "FASHION THEORY 3",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "FPQO1Y3",
+      "Credits": 60,
+      "NQF": 7,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to apply a variety of production operating systems in relation to fashion manufacturing as well as the importance of productivity improvement, enhanced efficiency within an economy, and  to conduct basic research and recommend effective    change within a  selected specialised area of fashion production.        ",
+      "Course": "APPLIED QUALITY AND OPERATIONS 3",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "FPTT1Y3",
+      "Credits": 40,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to demonstrate the ability to apply textile \ntechnology, in order to technically design and manufacture a variety of \nbasic garments that reflect core market needs, using appropriate textile \napplications, industrial machinery and accepted manufacturing methods \nthat meet the minimum quality specifications as stipulated by the fashion \nretail sector",
+      "Course": "FASHION AND TEXTILE TECHNOLOGY 3",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "BADS0Y1",
+      "Credits": 24,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enable student s to demonstrate knowledge of key concepts in design history and theory, and to enable student s to conduct basic design research.       ",
+      "Course": "DESIGN STUDIES 1",
+      "Institution": "University of Johannesburg",
+       "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BAPP0Y1",
+      "Credits": 12,
+      "NQF Level":5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to introduce student s to the professional practice of design. ",
+      "Course": "PROFFESIONAL DESIGN PRACTICE 1",
+      "Institution": "University of Johannesburg",
+       "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BAFD5A1",
+      "Credits": 36,
+      "NQF Level":5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to understand, review, interpret and explore the fundamental concepts of design and conversion processes ",
+      "Course": "FASHION DESIGN AND TECHNOLOGY 1A",
+      "Institution": "University of Johannesburg",
+      "Duration":"Semester",
+      "Period": [1]
+  },
+  {
+      "Code": "BAFD5B1",
+      "Credits": 36,
+      "NQF Level":5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to understand, investigate, experiment, apply and evaluate knowledge gained in Fashion Design and Technology 1A and develop fashion design practice to design innovative design solutions ",
+      "Course": "FASHION DESIGN AND TECHNOLOGY 1B",
+      "Institution": "University of Johannesburg",
+       "Duration":"Semester",
+      "Period": [1]
+  },
+  {
+      "Code": "BAFT5Y1",
+      "Credits": 12,
+      "NQF Level":5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to understand, demonstrate conceptual knowledge of, and conduct basic research of fashion design history and theory ",
+      "Course": "FASHION DESIGN THEORY 1",
+      "Institution": "University of Johannesburg",
+       "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BAPP0Y2",
+      "Credits": 20,
+      "Description": "The purpose of this module is to broaden students’ knowledge of the \nprofessional practice of design.\n",
+      "Course": "PROFFESSIONAL DESIGN PRACTICE 2",
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Institution": "University of Johannesburg",
+       "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BAFD5Y2",
+      "Credits": 60,
+      "NQF Level":6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to identify, explore, design, experiment and evaluate a variety of problem situations and apply appropriate design methods within the context of fashion that require design solutions and processes to solve design problems in response to end- user requirements ",
+      "Course": "FASHION DESIGN AND TECHNOLOGY 2",
+      "Institution": "University of Johannesburg",
+       "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BAFT5Y2",
+      "Credits": 20,
+      "NQF Level":6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description":"The purpose of this module is to interpret and research key concepts of \nfashion design history and theory",
+      "Course": "FASHION DESIGN THEORY 2",
+      "Institution": "University of Johannesburg",
+       "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BAFE5Y2",
+      "Credits": 20,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to introduce student s to the entrepreneurial fashion industry and to facilitate an opportunity for student s to apply and test problem solving, design and product development skills to an actual/virtual client.       ",
+      "Course": "FASHION ENTREPRENEURSHIP 2",
+      "Institution": "University of Johannesburg",
+       "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BAFD5Y3",
+      "Credits": 68,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "PURPOSE respond to solving open-complex  design problems within a social, economic and environmental context ",
+      "Course": "FASHION DESIGN AND TECHNOLOGY 3",
+      "Institution": "University of Johannesburg",
+       "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BAFT5Y3",
+      "Credits": 24,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enable student s to demonstrate detailed knowledge of an advanced fashion design history and theory and to conduct in-depth design research and design criticism  ",
+      "Course": "FASHION DESIGN THEORY 3",
+      "Institution": "University of Johannesburg",
+        "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BAFE5Y3",
+      "Credits": 28,
+      "NQF Level":7,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to award student s an opportunity to apply and test complex problem solving, design and product development skills to a determined client and to conduct meaningful research, using appropriate research methods.  ",
+      "Course": "FASHION ENTREPRENEURSHIP 3",
+      "Institution": "University of Johannesburg"
+  },
+  {
+      "Code": "BACD1Y1",
+      "Credits": 24,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enable student s to create innovative graphics and letterforms and to enable student s to create innovative two and three-dimensional communication designs.   ",
+      "Course": "COMMUNICATION DESIGN 1",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "BADS0Y1",
+      "Credits": 24,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enable student s to demonstrate knowledge of key concepts in design history and theory, and to enable student s to conduct basic design research.  ",
+      "Course": "DESIGN STUDIES 1",
+      "Institution": "University of Johannesburg"
+  },
+  {
+      "Code": "BADT1Y1",
+      "Credits": 30,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enable student s to use digital design technology competently to produce basic communication designs for print.      ",
+      "Course": "COMMUNICATION DESIGN TECHNOLOGY 1",
+      "Institution": "University of Johannesburg"
+  },
+  {
+      "Code": "BAPP0Y1",
+      "Credits": 18,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to introduce student s to the professional practice of design. ",
+      "Course": "PROFFESIONAL DESIGN PRACTICE 1",
+      "Institution": "University of Johannesburg"
+  },
+  {
+      "Code": "BAVS1Y1",
+      "NQF": 5,
+      "Credits": 24,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enable student s to create images, using a  variety of fundamental techniques and media.   ",
+      "Course": "VISUALISATION 1",
+      "Institution": "University of Johannesburg"
+  },
+  {
+      "Code": "BACD1Y2",
+      "Credits": 40,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enable student s to apply detailed knowledge of design to innovatively solve intermediate communication design problems and to use a range of design methods, processes and techniques competently to create professional communication designs.        ",
+      "Course": "COMMUNICATION DESIGN 2",
+      "Institution": "University of Johannesburg"
+  },
+  {
+      "Code": "BADS0Y2",
+      "Credits": 30,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enable student s to knowledge of design history and theory, and to enable conduct design research and criticism.    demonstrate student s to ",
+      "Course": "DESIGN STUDIES 2",
+      "Institution": "University of Johannesburg"
+  },
+  {
+      "Code": "BAPP0Y2",
+      "Credits": 30,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enable student s to create conceptual images for application in communication design projects using a variety of advanced techniques and mediums   ",
+      "Course": "PROFFESSIONAL DESIGN PRACTICE 2",
+      "Institution": "University of Johannesburg"
+  },
+  {
+      "Code": "BACD1Y3",
+      "Credits": 70,
+      "NQF": 7,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enable student s to apply integrated knowledge to innovatively solve complex communication design problems and to use a broad range of design methods, processes and techniques competently to create professional communication designs      ",
+      "Course": "COMMUNICATION DESIGN 3",
+      "Institution": "University of Johannesburg",
+        "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "",
+      "Credits":30 ,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+        "Description":"The purpose of this module is to enable student s to create conceptual images \nfor application in communication design projects using a variety of advanced \ntechniques and mediums",
+      "Course": "VISUALISATION 2",
+      "Institution": "University of Johannesburg",
+       "Duration":"Year",
+      "Period": [1]
+  },
+
+  {
+      "Code": "BADS0A3",
+      "Credits": 25,
+      "NQF": 7,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enable student s to demonstrate detailed knowledge of design and communication design history and theory.    ",
+      "Course": "DESIGN STUDIES 3A",
+      "Institution": "University of Johannesburg",
+       "Duration":"Semester",
+      "Period": []
+  },
+  {
+      "Code": "BADS0B3",
+      "Credits": 25,
+      "NQF": 7,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "PURPOSE  The purpose of this module is to enable student s to conduct in depth design  research and criticism ",
+      "Course": "DESIGN STUDIES 3B",
+      "Institution": "University of Johannesburg",
+        "Duration":"Second semester",
+      "Period": [2]
+  },
+  {
+      "Code": "BACD1Y1",
+      "Credits": 24,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enable student s to create innovative graphics and letterforms and to enable student s to create innovative two and three-dimensional communication designs.                 ",
+      "Course": "COMMUNICATION DESIGN 1",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "BADS0Y1",
+      "Credits": 24,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enable student s to demonstrate knowledge of key concepts in design history and theory, and to enable student s to conduct basic design research.                ",
+      "Course": "DESIGN STUDIES 1",
+      "Institution": "University of Johannesburg",
+        "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BADT1Y1",
+      "Credits": 30,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enable student s to use digital design technology competently to produce basic communication designs for a variety of media platforms.        ",
+      "Course": "COMMUNICATION DESIGN TECHNOLOGY 1",
+      "Institution": "University of Johannesburg",
+        "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BAPP0Y1",
+      "Credits": 18,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to introduce student s to the professional practice of design.         ",
+      "Course": "PROFFESIONAL DESIGN PRACTICE 1",
+      "Institution": "University of Johannesburg",
+        "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BAVS1Y1",
+      "NQF": 5,
+      "Credits": 24,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enable student s to create images, using a  variety of fundamental techniques and media.            ",
+      "Course": "VISUALISATION 1",
+      "Institution": "University of Johannesburg",
+        "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BACD1Y2",
+      "Credits": 40,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enable student s to apply detailed knowledge of design to innovatively solve intermediate communication design problems and to use a range of design methods, processes and techniques competently to create resolved communication designs.       ",
+      "Course": "COMMUNICATION DESIGN 2",
+      "Institution": "University of Johannesburg",
+        "Duration":"Semester",
+      "Period": [1]
+  },
+  {
+      "Code": "BADS0Y2",
+      "Credits": 30,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enable student s to knowledge of design history and theory, and to enable conduct design research and criticism.      ",
+      "Course": "DESIGN STUDIES 2",
+      "Institution": "University of Johannesburg",
+        "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BAPP0Y2",
+      "Credits": 30,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enable student s to create conceptual images for application in communication design projects using a variety of intermediate techniques and mediums     ",
+      "Course": "PROFFESSIONAL DESIGN PRACTICE 2",
+      "Institution": "University of Johannesburg",
+        "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "VISUALISATION 2",
+      "Credits": 30,
+      "NQF Level":6 ,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+        "Description":"The purpose of this module is to enable student s to create conceptual images \nfor application in communication design projects using a variety of \nintermediate techniques and mediums",
+      "Course": "VISUALISATION 2",
+      "Institution": "University of Johannesburg",
+       "Duration":"Year",
+      "Period": [1]
+  },
+
+  {
+      "Code": "BACD1Y3",
+      "Credits": 70,
+      "NQF": 7,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enable student s to apply integrated knowledge to innovatively solve complex communication design problems and to use a broad range of design methods, processes and techniques competently to create professional communication designs    ",
+      "Course": "COMMUNICATION DESIGN 3",
+      "Institution": "University of Johannesburg",
+       "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BADS0Y3",
+      "Credits": 12,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "Theory and skills required to communicate design intentions to external  parties within the industrial design context through digital and      presentation media.      ",
+      "Course": "DESIGN STUDIES 3",
+      "Institution": "University of Johannesburg",
+       "Duration":"Year",
+      "Period": [1]
+
+  },
+  {
+      "Code": "BADP2Y2",
+      "Credits": 24,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "hinking coupled with critical analysis within the confines of standard manufacturing processes in order to provide an innovative range of manufacturable, functional and aesthetic solutions to practical design  problems. ",
+      "Course": "INDUSTRIAL DESIGN PRACTICE 2",
+      "Institution": "University of Johannesburg",
+       "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BADS0Y2",
+      "Credits": 30,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enable student s to knowledge of design history and theory, and to enable conduct design research and criticism.      demonstrate student s to   ",
+      "Course": "DESIGN STUDIES 2",
+      "Institution": "University of Johannesburg",
+       "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BAPP0Y2",
+      "Credits": 18,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to broaden student sknowledge of the professional practice of design.    ",
+      "Course": "PROFFESSIONAL DESIGN PRACTICE 2",
+      "Institution": "University of Johannesburg",
+       "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BAPPOY1",
+      "Credits": 18,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+        "Description":"The purpose of this module is to introduce student s to the professional \npractice of design.",
+      "Course": "PROFESSIONAL DESIGN PRACTICE 1",
+      "Institution": "University of Johannesburg",
+       "Duration":"Year",
+      "Period": [1]
+  },
+
+  {
+      "Code": "BADP2Y1",
+      "Credits":24 ,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+        "Description":"The purpose of this module is to introduce Industrial Design student s to\nprototyping strategies and to further develop good working practices in \ndesign, by understanding the basic design process whilst fostering\ncreative capabilities.\n",
+      "Course": "INDUSTRIAL DESIGN PRACTICE 1",
+      "Institution": "University of Johannesburg",
+       "Duration":"Year",
+      "Period": [1]
+  },
+
+  {
+      "Code": "BADT2Y1",
+      "Credits":12 ,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+        "Description":"The purpose of this module is for the student  to develop an insight into \nthe relationships between design and traditional manufacturing \ndisciplines. It is an introduction to the most prevalent manufacturing \nprocesses relevant to the design of commercial products",
+      "Course": "NDUSTRIAL DESIGN TECHNOLOGY 1",
+      "Institution": "University of Johannesburg",
+       "Duration":"Year",
+      "Period": [1]
+  },
+
+  {
+      "Code": "BADD2Y1",
+      "Credits":18 ,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+        "Description":"",
+      "Course": "INDUSTRIAL DESIGN DRAWING 1",
+      "Institution": "University of Johannesburg",
+       "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "",
+      "Credits": 18,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+        "Description":"The purpose of this module is for the student  to develop an insight into \nthe relationships between design and traditional manufacturing \ndisciplines. It is an introduction to the most prevalent manufacturing \nprocesses relevant to the design of commercial products.",
+      "Course": "NDUSTRIAL DESIGN DRAWING 1",
+      "Institution": "University of Johannesburg",
+       "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BAMT2Y2",
+      "Credits": 12,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to develop an intermediate level of skills for freehand drawing and rendering for product design development, design communication and design selling. ",
+      "Course": "INDUSTRIAL DESIGN TECHNOLOGY 2",
+      "Institution": "University of Johannesburg",
+       "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BADP2Y3",
+      "Credits": 50,
+      "NQF": 7,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to integrate and apply knowledge, skills  and values to a diverse and complex range of industrial design      problems. Student s will be required to use a broad range of design      methods, processes and techniques competently to create professional  industrial designs and to develop critical thinking and understanding      around industrial design to exit level proficiency.       ",
+      "Course": "INDUSTRIAL DESIGN PRACTICE 3",
+      "Institution": "University of Johannesburg",
+      "Duration":"Year",
+      "Period": [1],
+       "Prerequisite": [
+      {
+        "$and": [
+          {"Course": "BADP2Y2"},
+          {"Course": "BADDAY1"}
+        ]
+      }
+    ]
+  },
+  {
+      "Code": "BADS2Y3",
+      "Credits": 20,
+      "NQF": 8,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to equip student s with the knowledge and skills to be both a successful employer and employee. The module is designed to provide an insight and understanding into the world of business and work.                     ",
+      "Course": "INDUSTRIAL DESIGN STUDIES 3",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+   {
+      "Code": "PPH8XY4",
+      "Credits": 20,
+      "NQF": 8,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+       "Description":"The purpose of this module is to equip student s with the knowledge and \nskills to be both a successful employer and employee. The module is\ndesigned to provide an insight and understanding into the world of \nbusiness and work.",
+      "Course": "NDUSTRIAL DESIGN PROFESSIONAL PRACTICE 4",
+      "Institution": "University of Johannesburg",
+      "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BAID6Y1",
+      "Credits": 28,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to introduce student s to the process of design and design thinking and to develop their ability to create solutions for a range of small scale interior design problems.           ",
+      "Course": "INTERIOR DESIGN 1",
+      "Institution": "University of Johannesburg",
+      "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BACD6Y1",
+      "Credits": 20,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The module will introduce student s to basic technical drawing conventions, drawing skills and construction techniques pertaining to the interior design industry.              ",
+      "Course": "INTERIOR DESIGN CONSTRUCTION AND DETAILING 1",
+      "Institution": "University of Johannesburg",
+      "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BACT6Y1",
+      "Credits": 20,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of the module is to introduce student s to a variety of presentation and drawing skills which include hand-drawn and computer generated techniques.                  ",
+      "Course": "INTERIOR DESIGN COMMUNICATION TECHNOLOGY 1",
+      "Institution": "University of Johannesburg",
+      "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BAHT6Y1",
+      "Credits": 16,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The module will introduce the student  to building services and the derivation of materials and finishes, availability, properties and correct application. This knowledge should enable student s to incorporate building services and specify these materials and finishes appropriately.                      ",
+      "Course": "HISTORY OF THEORY OF INTERIOR DESIGN 1",
+      "Institution": "University of Johannesburg",
+      "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BABS6Y1",
+      "Credits": 16,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "purpose": "The module will introduce the student  to building services and the\nderivation of materials and finishes, availability, properties and correct \napplication. This knowledge should enable student s to incorporate \nbuilding services and specify these materials and finishes appropriately.",
+      "Course": "BUILDING SERVICES AND MATERIALS 1\n",
+      "Institution": "University of Johannesburg",
+       "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BAEN6A1",
+      "Credits": 16,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "o equip student s with a thorough introduction to entrepreneurship  theories, and the entrepreneurial mind-set, in order to prepare them to    successfully plan, launch and manage their own venture in  various   occupational contexts. To equip student s to think conceptually about     business start-up strategies and legal issues, as well as how to protect         their interests, ideas and concepts.         \u00e2\u20ac\u00a2 Identify The Legal Challenges in Entrepreneurship Ventures        \u00e2\u20ac\u00a2 Understand The Legislative Requirements That May Affect Business         such as: Know The Impact of Debt Agreements \u00e2\u20ac\u201c Security, Surety            ",
+      "Course": "ENTREPRENEURSHIP 1",
+      "Institution": "University of Johannesburg",
+       "Duration":"First semester",
+      "Period": [1]
+  },
+  {
+      "Code": "BASD6B1",
+      "Credits": 8,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to introduce concepts of sustainable building construction. ",
+      "Institution": "University of Johannesburg",
+      "Duration":"Second semester",
+      "Period": [2],
+      "Course": "SUSTAINABLE DESIGN 1"
+  },
+  {
+      "Code": "BAID6Y2",
+      "Credits": 28,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "o develop and refine interior design skills at an intermediate level. The module will enable student s to gain experience in resolving a variety of design problems, ranging from basic product design to domestic and commercial interior design.",
+      "Course": "INTERIOR DESIGN 2",
+      "Institution": "University of Johannesburg",
+      "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BACD6Y2",
+      "Credits": 20,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "o provide student s with a working knowledge pertaining to the construction, detailing and specification of elementary double-storey buildings, shop-fittings and basic joinery. This knowledge will enable student s to produce suitable working drawings which in turn, can be used in the execution of design projects.              ",
+      "Course": "INTERIOR DESIGN CONSTRUCTION AND DETAILING 2",
+      "Institution": "University of Johannesburg",
+      "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BACT6Y2",
+      "Credits": 20,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is for student s to develop their skills and knowledge in the use of computer presentation technology and obtain competency in the use of appropriate computer programmes, the production of design presentations and execution of construction drawings.                       ",
+      "Institution": "University of Johannesburg",
+      "Duration":"Year",
+      "Period": [1],
+      "Course": "INTERIOR DESIGN COMMUNICATION TECHNOLOGY 2"
+  },
+  {
+      "Code": "BAHT6Y2",
+      "Credits": 16,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to knowledge of design history, theory environment and conduct research focus areas.    enable student s to develop their and case studies within the built and critical reflection of identified           ",
+      "Course": "HISTORY OF THEORY OF INTERIOR DESIGN 2",
+      "Institution": "University of Johannesburg",
+      "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BABS6Y2",
+      "Credits": 16,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "o incorporate building services, materials and finishes knowledge  appropriately in the specification of working drawings, at an intermediate       level.         ",
+      "Course": "BUILDING SERVICES AND MATERIALS 2",
+      "Institution": "University of Johannesburg",
+      "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BAEN6A2",
+      "Credits": 16,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "PURPOSETo identify opportunities through the use of creativity and innovation for a  new or existing venture and be able to analyse the feasibility of different          ideas, and turn  it into a business plan.  To understand the  business   environment as  well as the successful management of a business   venture. This includes the productive management of limited resources          to obtain a profitable result.          \u00e2\u20ac\u00a2 Understand the importance of integrity to small businesses.         \u00e2\u20ac\u00a2 Discuss the broad-based strategy options and focus strategies for a          new venture         \u00e2\u20ac\u00a2 Demonstrate an understanding of pros and cons of franchising and                ",
+      "Course": "ENTREPRENEURSHIP 2",
+      "Institution": "University of Johannesburg",
+       "Duration":"First semester",
+      "Period": [1]
+  },
+  {
+      "Code": "BASD6B2",
+      "Credits": 8,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to refine the student sknowledge of sustainable design through focusing on interior design principles, requirements and application within the built environment.                     ",
+      "Course": "SUSTAINABLE DESIGN 2",
+      "Institution": "University of Johannesburg",
+      "Duration":"Second semester",
+      "Period": [2]
+  },
+  {
+      "Code": "BAID6Y3",
+      "Credits": 48,
+      "NQF": 7,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "o develop and refine complex interior design solutions by analysing and evaluating a range of specified problems pertaining to design projects and presenting creative solutions that display advanced conceptual thinking and research skills in an integrated manner.              ",
+      "Course": "INTERIOR DESIGN 3",
+      "Institution": "University of Johannesburg",
+      "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BACD6Y3",
+      "Credits": 36,
+      "NQF": 7,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "o enable student s to execute a range of interior design projects and demonstrate the ability to develop and present comprehensive sets of construction and detailing documentation that include materials, finishes and systems appropriate to the requirements of the design project.         ",
+      "Course": "NTERIOR DESIGN CONSTRUCTION AND DETAILING 3",
+      "Institution": "University of Johannesburg",
+      "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BAHT6Y3",
+      "Credits": 24,
+      "NQF": 7,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enable student s to demonstrate detailed knowledge at an advanced level of interior design history, theory and case studies within the built environment and conduct in-depth design research and design criticism.                  ",
+      "Course": "HISTORY OF THEORY OF INTERIOR DESIGN 3",
+      "Institution": "University of Johannesburg",    "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BAPP6A3",
+      "Credits": 10,
+      "NQF": 8,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of the module is to equip student s with professional practice research skills and to apply such skills to an identified interior design scenario.   \u00e2\u20ac\u00a2 Include interior design principles and decision in the execution of the   design problem  \u00e2\u20ac\u00a2 Adhere to professional standards of conduct appropriate to the built   environment and interior design context.   ",
+      "Course": "PROFESSIONAL INTERIOR DESIGN PRACTICE 3",
+      "Institution": "University of Johannesburg",
+       "Duration":"First semester",
+      "Period": [1]
+  },
+  {
+
+  },
+  {
+      "Code": "JDDM1Y1",
+      "Credits": 12,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "o develop fundamental knowledge of the role of design and manufacture in an economic system.     ",
+      "Course": "Design Management 1",
+      "Institution": "University of Johannesburg",
+          "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "JDDR1Y1",
+      "Credits": 24,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "o develop fundamental techniques to use drawing as a design tool.   ",
+      "Course": "Jewellery Drawing 1",
+      "Institution": "University of Johannesburg",
+          "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "JDJD1Y1",
+      "Credits": 24,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "o develop fundamental techniques to design basic jewellery.  ",
+      "Course": "Jewellery Design 1",
+      "Institution": "University of Johannesburg",
+          "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "JDJT1Y1",
+      "Credits": 12,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "o develop fundamental knowledge of materials, techniques and equipment required to make custom jewellery. , ",
+      "Course": "JEWELLERY TECHNOLOGY 1",
+      "Institution": "University of Johannesburg",
+          "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "JTJT1Y1",
+      "Credits": 36,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "o develop fundamental techniques and skills to make basic jewellery. o  ",
+      "Course": "JEWELLERY TECHNIQUES 1",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "MDCS1Y1",
+      "Credits": 12,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The primary purpose of this module is to introduce student s to the broad field  of visual and design culture. It will enables art and design student s to gain an    awareness of academic practices, theoretical tendencies and discourses to    ensure that their practice is critical  and relevant. In this regard, basic  understanding refers to practices of  representation, perception and the  construction of meaning.   ",
+      "Course": "CONTEXTUAL STUDIES 1",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "JDDM1Y2",
+      "Credits": 12,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "o develop intermediate knowledge of a retail manufacturing environment.  ",
+      "Course": "DESIGN MANAGEMENT 2",
+      "Institution": "University of Johannesburg",
+          "Duration":"Year",
+      "Period": [1],
+      "Prerequisite": [
+      {
+        "Course": "JDDM1Y1"
+      }
+          ]
+  },
+  {
+      "Code": "JDGM1Y2",
+      "Credits": 12,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "o develop intermediate knowledge of the properties of gemstones and the equipment used to identify, classify and distinguish these.   ",
+      "Course": "GEMMOLOGY 2",
+      "Institution": "University of Johannesburg",
+          "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "JDJP1Y2",
+       "Prerequisite": [
+      {
+        "$and": [
+          {"Course": "JDJD1Y1"},
+          {"Course": "JTJT1Y1"},
+          {"Course": "JDDR1Y1"}
+        ]
+      }
+    ],
+      "Credits": 84,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "o design and make custom jewellery with intermediate level technologies, techniques and materials.    ",
+      "Course": "JEWELLERY PRACTICE 2",
+      "Institution": "University of Johannesburg",
+          "Duration":"Year",
+      "Period": [1],
+      "Prerequisite": [
+      {
+        "$and": [
+          {"Course": "JDJD1Y1"},
+          {"Course": "JTJT1Y1"},
+          {"Course": "JDDR1Y1"}
+        ]
+      }
+    ]
+  },
+  {
+      "Code": "MDCS1Y2",
+      "Credits": 12,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The primary purpose of this module is to extend and build on the understanding of the broad field of visual and design culture provided in the first year of study. Practices and discourses of representation, perception and the construction of meaning sited within particular historical periods and linked to specific creative disciplines are emphasised.   \u00e2\u20ac\u00a2 Write confident, well-researched academic essays  \u00e2\u20ac\u00a2 Identify and understand critical concepts in prescribed readings  \u00e2\u20ac\u00a2 Have a confident understanding of recent historical developments   affecting design and visual culture  \u00e2\u20ac\u00a2 Identify own appropriate additional readings ",
+      "Course": "CONTEXTUAL STUDIES 2",
+      "Institution": "University of Johannesburg",
+          "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "JDDM1Y3",
+      "Credits": 12,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "o develop advanced knowledge of design management.    ",
+      "Course": "DESIGN MANAGEMENT 3",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "JDGM1Y3",
+      "Credits": 12,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "o develop advanced knowledge and applied techniques in identifying gemstones.   ",
+      "Course": "GEMMOLOGY 3",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "JDJP1Y3",
+      "Credits": 84,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "o design and make complex custom jewellery, using advanced technologies, techniques and materials.   ",
+      "Course": "JEWELLERY PRACTICE 3",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "MDCS1Y3",
+      "Credits": 60,
+      "NQF": 7,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "PURPOSE Secondly (Component  B), to afford the student  the opportunity   to  integrate knowledge, research    findings and creative  thinking  in the  identification, development and presentation of a design project that is of              an appropriate scope, scale and complexity.              Component A:              \u00e2\u20ac\u00a2 Identify a design problem.             \u00e2\u20ac\u00a2 Identify relevant literature  to provide context  to the design    problem.             \u00e2\u20ac\u00a2 Be able to develop and argument             \u00e2\u20ac\u00a2 By making use of a   practice-led  research design   methodology     explore the identified design problem.             \u00e2\u20ac\u00a2 Compile a reflective essay. ",
+      "Course": "CONTEXTUAL STUDIES 3",
+      "Institution": "University of Johannesburg",
+      "Duration": "Year",
+      "Period": [
+          1
+      ]
+  },
+  {
+      "Code": "BADS0Y1",
+      "Credits": 24,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enable student s to demonstrate knowledge of key concepts in design history and theory, and to enable student s to conduct basic design research.     ",
+      "Course": "DESIGN STUDIES 1",
+      "Institution": "University of Johannesburg",
+          "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BADM4Y1",
+      "Credits": 24,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to introduce the required knowledge, skills and techniques to develop and create visual content for screen-based media.        \u00e2\u20ac\u00a2 Demonstrate an understanding of the use of symbolic imagery to        develop the communication of concepts in visual design.       \u00e2\u20ac\u00a2 Demonstrate an understanding of the basic principles of design as        applied to screen based visual design.      ",
+      "Course": "DIGITAL MEDIA DESIGN 1",
+      "Institution": "University of Johannesburg",
+          "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BADT4Y1",
+      "Credits": 30,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to introduce student s to technologies and techniques relevant to the development processing of visual content for screen-based media.     digital and   \u00e2\u20ac\u00a2 Produce visual content, using a vector drawing software application        as the principle tool of production.       \u00e2\u20ac\u00a2 Produce digital photographic content according to a brief       \u00e2\u20ac\u00a2 Produce visual content, using a pixel- based image editing software        application as the principle tool of production.          ",
+      "Course": "DIGITAL MEDIA TECHNOLOGY 1",
+      "Institution": "University of Johannesburg",
+          "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BAPP0Y1",
+      "Credits": 18,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to introduce student s to the professional practice of design.  ",
+      "Course": "PROFFESIONAL DESIGN PRACTICE 1",
+      "Institution": "University of Johannesburg",
+          "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BADV1Y1",
+      "NQF": 5,
+      "Credits": 24,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": "The purpose of this module is to enable student s to create visual content, using a variety of fundamental techniques and media.   \u00e2\u20ac\u00a2 Create drawings in response to visual stimuli by using a variety of   fundamental techniques and mediums.  \u00e2\u20ac\u00a2 Visualise ideas and objects by using a variety of fundamental  ",
+      "Course": "DIGITAL MEDIA VISUALISATION 1",
+      "Institution": "University of Johannesburg",
+          "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BADM4Y2",
+      "Credits": 40,
+      "NQF": 6,
+     "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": " The purpose of this module is to enable student s to solve intermediate digital design problems innovatively by applying detailed knowledge of design thinking.         ",
+      "Course": "DIGITAL MEDIA DESIGN 2",
+      "Institution": "University of Johannesburg",
+          "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BADS0Y2",
+      "Credits": 30,
+      "NQF": 6,
+    "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": " The purpose of this module is to enable student s to knowledge of design history and theory, and to enable conduct design research and criticism.      demonstrate student s to   ",
+      "Course": "DESIGN STUDIES 2",
+      "Institution": "University of Johannesburg",
+          "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BAPP0Y2",
+      "Credits": 20,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": " The purpose of this module is to broaden student sknowledge of the professional practice of design.          \u00e2\u20ac\u00a2 Demonstrate knowledge of communication,  marketing  and    branding theories.         ",
+      "Course": "PROFFESSIONAL DESIGN PRACTICE 2",
+      "Institution": "University of Johannesburg",
+          "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BADV2Y2",
+      "Credits": 30,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": " The purpose of this module is to enable student s to create visual content as part of digital media design processes, using a variety of advanced techniques and media.    \u00e2\u20ac\u00a2 Create representational, usable and conceptual content for   application in design projects using a variety of advanced  techniques and mediums.  ",
+      "Course": "DIGITAL MEDIA VISUALISATION 2",
+      "Institution": "University of Johannesburg",
+          "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BADM4Y3",
+      "Credits": 70,
+      "NQF": 7,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": " The purpose of this module is to re-inforce competence in the conceptualisation, visualisation and presentation of specialised multimedia assignments, by emphasising creative exit level problem- solving abilities and content creation equivalent to industry requirements.    \u00e2\u20ac\u00a2 Demonstrate a cognitive understanding of design as a field of   practice orientated towards problem solving.   \u00e2\u20ac\u00a2 Develop appropriate research findings in reference to the presented  ",
+      "Course": "DIGITAL MEDIA DESIGN 3",
+      "Institution": "University of Johannesburg",
+          "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BAMS4Y3",
+      "Credits": 50,
+      "NQF": 7,
+    "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": " The purpose of this module is to enable student s to demonstrate detailed knowledge of Digital Media Design theory and to enable student s to conduct in-depth design research and criticism.       ",
+      "Course": "DIGITAL MEDIA STUDIES 3",
+      "Institution": "University of Johannesburg",
+          "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BADR7Y1",
+      "Credits": 48,
+      "NQF": 5,
+    "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": " To equip student s with basic and fundamental skills in both accurate and expressive renderings of diverse subjects in a range of media, materials and modalities. ",
+      "Course": "DRAWING 1",
+      "Institution": "University of Johannesburg",
+          "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BASP7Y1",
+      "Credits": 48,
+      "NQF": 5,
+     "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": " Particular focus is placed on an acquisition of technical, expressive, critical thinking and problem solving skills related to an introduction to meaning- making in painting, printmaking and sculpture. To equip student s with technical skills, methods and techniques as well as knowledge on how to present these works coherently and appropriately.     \u00e2\u20ac\u00a2 Articulate verbal and visual associations and metaphors of a variety     of concepts in an innovative and tangible way.    \u00e2\u20ac\u00a2 Demonstrate an awareness of how the associative and connotative     quality of materials, concepts and ideas are understood with specific     cultural and social contexts in the development of the student \u00e2\u20ac\u2122s     portfolio of artwork. \u00e2\u20ac\u00a2 To critically observe a range of stimuli and interpret form as well as  use technical skills and approaches to solve visual problems within  two and three dimensional frameworks. ",
+      "Course": "STUDIO PRACTICE 1",
+      "Institution": "University of Johannesburg",
+          "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BAAH7A1",
+      "Credits": 16,
+      "NQF": 5,
+    "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": " examples, including film and contemporary media works, to enable the student  to identify stylistic characteristics, to extract meaning from visual imagery, and to discuss these examples in writing. To introduce student s to the terminology and its application congruent with the foundations of research and the practice of visual art. ",
+      "Course": "ART HISTORY AND THEORY 1 A",
+      "Institution": "University of Johannesburg",
+       "Duration":"First semester",
+      "Period": [1]
+  },
+  {
+      "Code": "BAAH7B1",
+      "Credits": 16,
+      "NQF": 5,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": " Art History and Theory1A, enabling   student s to analyse and discuss examples in writing. Student s will progress through a number     of set projects that relate to research methodology, academic writing strategies, art, politics and protest art, citizenship and art for social change. ",
+      "Course": "ART HISTORY AND THEORY 1 B",
+      "Institution": "University of Johannesburg",
+        "Duration":"Second semester",
+      "Period": [2]
+  },
+  {
+      "Code": "BAMS7A1",
+      "Credits": 16,
+      "NQF": 5,
+    "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": " introduction to the development of divergent, lateral and alternative thinking to solve specific visual problems through the acquisition and implementation of diverse visual literacies. ",
+      "Course": "NEW MEDIA STUDIES 1A",
+      "Institution": "University of Johannesburg",
+       "Duration":"First semester",
+      "Period": [1]
+  },
+  {
+      "Code": "BAMS7B1",
+      "Credits": 16,
+      "NQF": 5,
+     "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": " media. Develop professional practice and conceptual art-making skills to  solve specific visual problems. Develop a digital portfolio and catalogue   that demonstrates a basic understanding of professional practice. ",
+      "Course": "NEW MEDIA STUDIES 1B",
+      "Institution": "University of Johannesburg",
+        "Duration":"Second semester",
+      "Period": [2]
+  },
+  {
+      "Code": "BADR7Y2",
+      "Credits": 20,
+      "NQF": 6,
+    "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": " through both set and open project briefs through which observation, expressive mark making and own experience are important. ",
+      "Course": "DRAWING 2",
+      "Institution": "University of Johannesburg",
+          "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BASP7Y2",
+      "Credits": 48,
+      "NQF": 6,
+    "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": " To develop and apply intermediate concepts and technical skills in a range of approaches to studio practice. Opportunities for the specialized conceptual and technical enquiry in at least two of printmaking, painting and sculpture, are expected.  \u00e2\u20ac\u00a2 Demonstrate independence in researching, manipulating and altering of resource materials in order to construct personal and new imagery. ",
+      "Course": "STUDIO PRACTICE 2",
+      "Institution": "University of Johannesburg",
+          "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BAAH7A2",
+      "Credits": 16,
+      "NQF": 6,
+      "Assessment": [
+          "Continuous assessment (100)"
+      ],
+      "Description": " Modernity and post-modernity in Africa with reference to a global context: Student s will be introduced to critical use of theory in relation to modernism and post-modernism. Developments in style will be contextualized in relation to different social and political situations. Academic writing conventions and visual vocabulary will also be emphasised in order to develop upon the basic knowledge of the previous level regarding concepts of research in visual art and the practice of contemporary visual art.  ",
+      "Course": "ART HISTORY AND THEORY 2A",
+      "Institution": "University of Johannesburg",
+       "Duration":"First semester",
+      "Period": [1]
+  },
+  {
+      "Code": "BAAH7B2",
+      "Credits": 16,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": " Feminism, Gender and Identity studies: To introduce student s to the history and theory of Feminism and its application to both historical art and contemporary examples (including both art and media manifestations). This will include the problematic reception of Feminism in South Africa and the discourse surrounding the representation of the black body. A development from feminist discourse is introduced by way of the study of gender and identity including the implications of racial identity in art. Student s will be taught to critically analyse images of people in historical and contemporary images to show how they respond to the context in which they were made. Presentation projects will form part of the assessment for this module, thus developing speaking and presentation skills as well as writing skills. Student s will progress through a number of projects that relate to research methodology and art and social justice. ",
+      "Course": "ART HISTORY AND THEORY 2B",
+      "Institution": "University of Johannesburg",
+        "Duration":"Second semester",
+      "Period": [2]
+  },
+  {
+      "Code": "BAMS7A2",
+       "Prerequisite": [
+      {
+        "Course": "BAMS7B1"
+      }
+    ],
+      "Credits": 16,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": " To extend and build on an understanding of the broad field of digital media and Visual Art practice provided in the first year of study. A critical, intermediate engagement in elements of photo-media such as digital photography, video art making, editing and the appropriate use of sound media is expected in relation to the professional practice requirements of the visual art industry. Intermediate enquiry into experimental approaches to image making using new media. The presentation of a structured exhibition catalogue, which demonstrates a critical understanding of the context and conceptual relevance of the student \u00e2\u20ac\u2122s art practice, is expected.       ",
+      "Course": "NEW MEDIA STUDIES 2A",
+      "Institution": "University of Johannesburg",
+      "Duration":"First semester",
+      "Period": [1]
+  },
+  {
+      "Code": "BAMS7B2",
+      "Credits": 16,
+      "NQF": 6,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": " structured exhibition catalogue, which  demonstrates  a critical understanding of the context and conceptual relevance of the student \u00e2\u20ac\u2122s art practice, is expected. \u00e2\u20ac\u00a2 Demonstrate enhanced, intermediate conceptual  and technical proficiencies in selected computer-graphic applications. \u00e2\u20ac\u00a2 Demonstrate enhanced intermediate knowledge in visual research skills using appropriate digital technologies. \u00e2\u20ac\u00a2 Demonstrate enhanced intermediate  knowledge of digital ",
+      "Course": "NEW MEDIA STUDIES 2B",
+      "Institution": "University of Johannesburg",
+      "Duration":"Second semester",
+      "Period": [2]
+  },
+  {
+      "Code": "BADR7Y3",
+       "Prerequisite": [
+      {
+        "Course": "BADR7Y2"
+      }
+    ],
+      "Credits": 32,
+      "NQF": 7,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": " To develop the full technical and conceptual potential of selected subjects and themes by means of a range of primarily independent drawings at an advanced level. \u00e2\u20ac\u00a2 Produce and exhibit a professional body of drawings of      high standard comprising an appropriate number of works as stipulated in the learning guide. \u00e2\u20ac\u00a2 Demonstrated knowledge, through drawn as well as critical verbal and written forms, of how the body of drawing relates to national, ",
+      "Course": "DRAWING 3",
+      "Institution": "University of Johannesburg",
+        "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BASP7Y3",
+      "Prerequisite": [
+      {
+        "Course": "BASP7Y2"
+      }
+    ],
+      "Credits": 60,
+      "NQF": 7,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }
+      ],
+      "Description": " and exhibit a professional body of work of high standard comprising an appropriate number of works as stipulated in the learning guide. Advanced application of professional practice  through the design and production of an exhibition catalogue. ",
+      "Course": "STUDIO PRACTICE 3",
+      "Institution": "University of Johannesburg",
+      "Duration":"Year",
+      "Period": [1]
+  },
+  {
+      "Code": "BAAH7A3",
+      "Prerequisite": [
+      {
+        "Course": "BAAH7A2"
+      }
+    ],
+      "Credits": 24,
+      "NQF": 8,
+      "Assessment": [
+          {
+              "Name": "Continuous Assessment (CA)",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Dynamic": true
+          }],
+      "Description": "  management, publically- engaged placements amongst others.  \u00e2\u20ac\u00a2 Advanced professional practice related to visual art practice.         \u00e2\u20ac\u00a2 A professional art catalogue of the student \u00e2\u20ac\u2122s visual art practice.         \u00e2\u20ac\u00a2 A professionally-written artist\u00e2\u20ac\u2122s statement, as well as the relevant          exhibition publicity material to accompany the student \u00e2\u20ac\u2122s exhibition.         Student s are expected to learn practical workplace skills, to conduct their          work professionally and to complete all tasks they are given in a timeous          manner. They must also provide a report on the duties they will carry out          in their workplace.          Student s must demonstrate,  through sustained  engagement   and  commitment, a readiness to  take up a place in, and contribute   meaningfully to the world of visual culture.          Student s must:          \u00e2\u20ac\u00a2 Demonstrate the ability to complete a set of tasks independently in          the workplace,         \u00e2\u20ac\u00a2 Acquire the necessary confidence and skills to manage a work    ",
+      "Course": "ART HISTORY AND THEORY 3A",
+      "Institution": "University of Johannesburg",
+      "Duration":"First semester",
+      "Period": [1]
+  }
+]
