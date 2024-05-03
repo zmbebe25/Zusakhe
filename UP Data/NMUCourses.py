@@ -18,7 +18,7 @@ def getDriver():
     
     # Provide the path to your Chrome driver executable
     chrome_driver_path = "C:/Users/Zusakhe Mbebe/Downloads/chromedriver-win64 (2)/chromedriver-win64/chromedriver.exe"
-    service = Service(chrome_driver_path)
+    service = Service(ChromeDriverManager().install())
 
 
     # Define any additional options if needed
