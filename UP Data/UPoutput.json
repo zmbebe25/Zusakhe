@@ -1,0 +1,712 @@
+[
+    {
+        "Name": "Field crops 361",
+        "Code": "AGR361",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Vegetable crops 410",
+        "Code": "AGR410",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Crop physiology 461",
+        "Code": "APS461",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Agricultural and rural development principles 485",
+        "Code": "ARD485",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Macromolecules of life: structure-function and bioinformatics 356",
+        "Code": "BCM356",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Biocatalysis and integration of metabolism 357",
+        "Code": "BCM357",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Cell structure and function 367",
+        "Code": "BCM367",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Molecular basis of disease 368",
+        "Code": "BCM368",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Statistics for biological sciences 410",
+        "Code": "BME410",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Plant ecology 358",
+        "Code": "BOT358",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Introductory physics 152",
+        "Code": "CGS152",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Introductory physics 162",
+        "Code": "CGS162",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Spatial databases 487",
+        "Code": "COS487",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Aesthetics 121",
+        "Code": "EST121",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Aesthetics: Product, consumer and environment 320",
+        "Code": "EST320",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Introduction to food, nutrition and health 121",
+        "Code": "FNH121",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "International nutrition 321",
+        "Code": "FNH321",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Research project 400",
+        "Code": "FNH400",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Advanced food, nutrition and health 420",
+        "Code": "FNH420",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Chemical and microbiological aspects of food 451",
+        "Code": "FPP451",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Introduction to food science and technology 250",
+        "Code": "FST250",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Principles of food processing and preservation 260",
+        "Code": "FST260",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Integrated food science 350",
+        "Code": "FST350",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Food chemistry 351",
+        "Code": "FST351",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Food chemistry (2) 352",
+        "Code": "FST352",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Food engineering 353",
+        "Code": "FST353",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Chemistry of food macro- and micronutrients 355",
+        "Code": "FST355",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Principles of the science and technology of plant food 360",
+        "Code": "FST360",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Animal food science 361",
+        "Code": "FST361",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Advanced animal and plant foods microbiology 362",
+        "Code": "FST362",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Research methodology and seminar 400",
+        "Code": "FST400",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Animal food technology 401",
+        "Code": "FST401",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Advanced plant food science and technology 402",
+        "Code": "FST402",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Sensory evaluation 412",
+        "Code": "FST412",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Product development and quality management 413",
+        "Code": "FST413",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Advanced food science 420",
+        "Code": "FST420",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Research project 463",
+        "Code": "FST463",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Geoinformatics 311",
+        "Code": "GIS311",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Soil chemistry 320",
+        "Code": "GKD320",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Soil formation and classification 350",
+        "Code": "GKD350",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Soil fertility, soil microbiology and plant nutrition 420",
+        "Code": "GKD420",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Sedimentology 253",
+        "Code": "GLY253",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Fundamental and applied mineralogy 255",
+        "Code": "GLY255",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Igneous and metamorphic petrology 263",
+        "Code": "GLY263",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Geological field mapping 266",
+        "Code": "GLY266",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Structural geology 365",
+        "Code": "GLY365",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Groundwater 366",
+        "Code": "GLY366",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Economic geology 367",
+        "Code": "GLY367",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Advanced Geological field mapping 368",
+        "Code": "GLY368",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Engineering geology and rock mechanics 369",
+        "Code": "GLY369",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Remote sensing 320",
+        "Code": "GMA320",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Geometrical and space geodesy 310",
+        "Code": "GMC310",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Geoinformatics project 320",
+        "Code": "GMT320",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Eukaryotic gene control and development 351",
+        "Code": "GTS351",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Genetics in human health 368",
+        "Code": "GTS368",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Principles and practices 351",
+        "Code": "HSC351",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Fruit tree crops 420",
+        "Code": "HSC420",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Ornamental horticulture 490",
+        "Code": "HSC490",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Actuarial and Financial Mathematics in practice 111",
+        "Code": "IAS111",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Actuarial and Financial Mathematics in practice 121",
+        "Code": "IAS121",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Contingencies 221",
+        "Code": "IAS221",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Contingencies 353",
+        "Code": "IAS353",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Insurance and actuarial applications 361",
+        "Code": "IAS361",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Interior merchandise 121",
+        "Code": "ITW121",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Costume and fashion history 210",
+        "Code": "KLD210",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Fashion forecasting 222",
+        "Code": "KLD222",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Social and cultural aspects of clothing 311",
+        "Code": "KLD311",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Clothing retail management 410",
+        "Code": "KLD410",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Clothing merchandising 420",
+        "Code": "KLD420",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Clothing production: sewing techniques 110",
+        "Code": "KLR110",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Clothing production: processes 120",
+        "Code": "KLR120",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Flat pattern design 212",
+        "Code": "KLR212",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Pattern use and good fit 221",
+        "Code": "KLR221",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Clothing production 321",
+        "Code": "KLR321",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Product development 411",
+        "Code": "KLR411",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Experiential training in industry 403",
+        "Code": "KTP403",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Agricultural economics 415",
+        "Code": "LEK415",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Introduction to resource economics 424",
+        "Code": "LEK424",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Agricultural market and price analysis 431",
+        "Code": "LEK431",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Agricultural economics 432",
+        "Code": "LEK432",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Research project: Agricultural economics 433",
+        "Code": "LEK433",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Agricultural marketing 464",
+        "Code": "LEK464",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "International agricultural trade and policy 465",
+        "Code": "LEK465",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Environmental biophysics 450",
+        "Code": "LKM450",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Food microbiology 262",
+        "Code": "MBY262",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Virology 351",
+        "Code": "MBY351",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Bacterial genetics 355",
+        "Code": "MBY355",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Genetic manipulation of microbes 364",
+        "Code": "MBY364",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Microbe interactions 365",
+        "Code": "MBY365",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Nutritional assessment 314",
+        "Code": "NTA314",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Design principles 111",
+        "Code": "OBG111",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Weed science 413",
+        "Code": "OKW413",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Experiential training in industry 400",
+        "Code": "OPI400",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Experiential training in industry 480",
+        "Code": "OPI480",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Soil-water relationship and irrigation 350",
+        "Code": "PGW350",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Seminar 400",
+        "Code": "PGW400",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Astronomy for physicists 210",
+        "Code": "PHY210",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Observational astronomy 300",
+        "Code": "PHY300",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Particle and astroparticle physics 310",
+        "Code": "PHY310",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Physics project 353",
+        "Code": "PHY353",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Physics project 363",
+        "Code": "PHY363",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Introduction to crop protection 251",
+        "Code": "PLG251",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Principles of plant pathology 262",
+        "Code": "PLG262",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "General plant pathology 351",
+        "Code": "PLG351",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Plant disease control 363",
+        "Code": "PLG363",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Research project 462",
+        "Code": "PLG462",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Plant disease epidemiology 463",
+        "Code": "PLG463",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Advanced plant disease control 483",
+        "Code": "PLG483",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Molecular plant pathology and plant biosecurity 490",
+        "Code": "PLG490",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Geotechnical engineering 323",
+        "Code": "SGM323",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Surveying 210",
+        "Code": "SUR210",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Textiles: Structures and finishes 222",
+        "Code": "TKS222",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Textiles: new and sustainable developments 411",
+        "Code": "TKS411",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Textiles: Quality assurance and consumer aspects 422",
+        "Code": "TKS422",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Consumer facilitation 222",
+        "Code": "VBF222",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Research project 400",
+        "Code": "VBR400",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Food service management 420",
+        "Code": "VDB420",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Nutrition 250",
+        "Code": "VDG250",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Nutrition (Capita Selecta from HNT 210) 310",
+        "Code": "VDG310",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Nutrition (Capita Selecta from HNT 220) 320",
+        "Code": "VDG320",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Consumer food research 310",
+        "Code": "VDS310",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Food safety and hygiene 354",
+        "Code": "VDS354",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Recipe development and standardisation 413",
+        "Code": "VDS413",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Culinary art 414",
+        "Code": "VDS414",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Consumer aspects of food 417",
+        "Code": "VDS417",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Culinary art 424",
+        "Code": "VDS424",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Food retailing and visual merchandising of food 427",
+        "Code": "VDS427",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Hospitality management 310",
+        "Code": "VHM310",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Food composition and applied nutritional programmes 364",
+        "Code": "VVW364",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Atmospheric structure and processes 155",
+        "Code": "WKD155",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Programming in meteorology 254",
+        "Code": "WKD254",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Physical meteorology 261",
+        "Code": "WKD261",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Introduction to dynamic meteorology 263",
+        "Code": "WKD263",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Satellite meteorology 265",
+        "Code": "WKD265",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Mid-latitude and polar meteorology 315",
+        "Code": "WKD315",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Tropical meteorology 316",
+        "Code": "WKD316",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Synoptic-scale circulation dynamics and vorticity in mid-latitudes 352",
+        "Code": "WKD352",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Quasi-geostrophic analysis 361",
+        "Code": "WKD361",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Mathematics 154",
+        "Code": "WTW154",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Mathematical modelling 155",
+        "Code": "WTW155",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Financial engineering 364",
+        "Code": "WTW364",
+        "Institution": "University of Pretoria"
+    },
+    {
+        "Name": "Continuum mechanics 387",
+        "Code": "WTW387",
+        "Institution": "University of Pretoria"
+    }
+]

@@ -1,13 +1,14 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
+from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
 import time
 import json  # Import JSON module for JSON output
 
 # Specify the path to the chromedriver executable
 chrome_driver_path = "C:/Users/Zusakhe Mbebe/Downloads/chromedriver-win64 (2)/chromedriver-win64/chromedriver.exe"
-service = Service(chrome_driver_path)
+service = Service(ChromeDriverManager().install())
 driver = webdriver.Chrome(service=service)
 
 # Open the target page

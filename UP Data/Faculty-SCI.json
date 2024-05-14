@@ -1,0 +1,1914 @@
+[
+    {
+        "Name": "Labour relations 320",
+        "Code": "ABV320"
+    },
+    {
+        "Name": "Field crops 361",
+        "Code": "AGR361"
+    },
+    {
+        "Name": "Vegetable crops 410",
+        "Code": "AGR410"
+    },
+    {
+        "Name": "Academic information management 111",
+        "Code": "AIM111"
+    },
+    {
+        "Name": "Academic information management 121",
+        "Code": "AIM121"
+    },
+    {
+        "Name": "Introduction: Human anatomy and embryology 121",
+        "Code": "ANA121"
+    },
+    {
+        "Name": "Human osteology 122",
+        "Code": "ANA122"
+    },
+    {
+        "Name": "Basic human histology 126",
+        "Code": "ANA126"
+    },
+    {
+        "Name": "Human cell and developmental biology 214",
+        "Code": "ANA214"
+    },
+    {
+        "Name": "Paleoanthropology 215",
+        "Code": "ANA215"
+    },
+    {
+        "Name": "Human histology 226",
+        "Code": "ANA226"
+    },
+    {
+        "Name": "Human anatomy Part 1 247",
+        "Code": "ANA247"
+    },
+    {
+        "Name": "Forensic anthropology 315",
+        "Code": "ANA315"
+    },
+    {
+        "Name": "Cell and tissue techniques 316",
+        "Code": "ANA316"
+    },
+    {
+        "Name": "Human cell and developmental biology 324",
+        "Code": "ANA324"
+    },
+    {
+        "Name": "Comparative anatomy 327",
+        "Code": "ANA327"
+    },
+    {
+        "Name": "Applied research techniques 328",
+        "Code": "ANA328"
+    },
+    {
+        "Name": "Human anatomy Part 2 347",
+        "Code": "ANA347"
+    },
+    {
+        "Name": "Introduction to social anthropology 110",
+        "Code": "APL110"
+    },
+    {
+        "Name": "Advanced introduction to social anthropology 120",
+        "Code": "APL120"
+    },
+    {
+        "Name": "Sex, culture and society 210",
+        "Code": "APL210"
+    },
+    {
+        "Name": "Anthropology 220",
+        "Code": "APL220"
+    },
+    {
+        "Name": "Decoloniality, Anthropology and Africa 310",
+        "Code": "APL310"
+    },
+    {
+        "Name": "Anthropology 320",
+        "Code": "APL320"
+    },
+    {
+        "Name": "Crop physiology 461",
+        "Code": "APS461"
+    },
+    {
+        "Name": "Agricultural and rural development principles 485",
+        "Code": "ARD485"
+    },
+    {
+        "Name": "Business accounting 200",
+        "Code": "BAC200"
+    },
+    {
+        "Name": "Business accounting 300",
+        "Code": "BAC300"
+    },
+    {
+        "Name": "Basic business mathematics 133",
+        "Code": "BAM133"
+    },
+    {
+        "Name": "Introduction to proteins and enzymes 251",
+        "Code": "BCM251"
+    },
+    {
+        "Name": "Carbohydrate metabolism 252",
+        "Code": "BCM252"
+    },
+    {
+        "Name": "Introductory biochemistry 257",
+        "Code": "BCM257"
+    },
+    {
+        "Name": "Lipid and nitrogen metabolism 261",
+        "Code": "BCM261"
+    },
+    {
+        "Name": "Macromolecules of life: structure-function and bioinformatics 356",
+        "Code": "BCM356"
+    },
+    {
+        "Name": "Biocatalysis and integration of metabolism 357",
+        "Code": "BCM357"
+    },
+    {
+        "Name": "Cell structure and function 367",
+        "Code": "BCM367"
+    },
+    {
+        "Name": "Molecular basis of disease 368",
+        "Code": "BCM368"
+    },
+    {
+        "Name": "Industrial and organisational psychology 181",
+        "Code": "BDO181"
+    },
+    {
+        "Name": "Marketing management 120",
+        "Code": "BEM120"
+    },
+    {
+        "Name": "Consumer behaviour 212",
+        "Code": "BEM212"
+    },
+    {
+        "Name": "Integrated marketing communications 224",
+        "Code": "BEM224"
+    },
+    {
+        "Name": "Marketing research 314",
+        "Code": "BEM314"
+    },
+    {
+        "Name": "Marketing management 321",
+        "Code": "BEM321"
+    },
+    {
+        "Name": "Business law 210",
+        "Code": "BER210"
+    },
+    {
+        "Name": "Business law 220",
+        "Code": "BER220"
+    },
+    {
+        "Name": "Biometry 120",
+        "Code": "BME120"
+    },
+    {
+        "Name": "Biometry 210",
+        "Code": "BME210"
+    },
+    {
+        "Name": "Statistics for biological sciences 410",
+        "Code": "BME410"
+    },
+    {
+        "Name": "Beef management and nutrition 420",
+        "Code": "BMN420"
+    },
+    {
+        "Name": "Plants and society 161",
+        "Code": "BOT161"
+    },
+    {
+        "Name": "South African flora and vegetation 251",
+        "Code": "BOT251"
+    },
+    {
+        "Name": "Plant physiology and biotechnology 261",
+        "Code": "BOT261"
+    },
+    {
+        "Name": "Plant ecophysiology 356",
+        "Code": "BOT356"
+    },
+    {
+        "Name": "Plant ecology 358",
+        "Code": "BOT358"
+    },
+    {
+        "Name": "Phytomedicine 365",
+        "Code": "BOT365"
+    },
+    {
+        "Name": "Plant diversity 366",
+        "Code": "BOT366"
+    },
+    {
+        "Name": "Plant genetics and crop biotechnology 361",
+        "Code": "BTC361"
+    },
+    {
+        "Name": "Introductory physics 152",
+        "Code": "CGS152"
+    },
+    {
+        "Name": "Introductory physics 162",
+        "Code": "CGS162"
+    },
+    {
+        "Name": "General chemistry 171",
+        "Code": "CHM171"
+    },
+    {
+        "Name": "General chemistry 172",
+        "Code": "CHM172"
+    },
+    {
+        "Name": "General chemistry 181",
+        "Code": "CHM181"
+    },
+    {
+        "Name": "Chemistry 215",
+        "Code": "CHM215"
+    },
+    {
+        "Name": "Chemistry 226",
+        "Code": "CHM226"
+    },
+    {
+        "Name": "General chemistry 117",
+        "Code": "CMY117"
+    },
+    {
+        "Name": "General chemistry 127",
+        "Code": "CMY127"
+    },
+    {
+        "Name": "Chemistry 133",
+        "Code": "CMY133"
+    },
+    {
+        "Name": "Chemistry 143",
+        "Code": "CMY143"
+    },
+    {
+        "Name": "Chemistry 151",
+        "Code": "CMY151"
+    },
+    {
+        "Name": "Chemistry 154",
+        "Code": "CMY154"
+    },
+    {
+        "Name": "Physical chemistry 282",
+        "Code": "CMY282"
+    },
+    {
+        "Name": "Analytical chemistry 283",
+        "Code": "CMY283"
+    },
+    {
+        "Name": "Organic chemistry 284",
+        "Code": "CMY284"
+    },
+    {
+        "Name": "Inorganic chemistry 285",
+        "Code": "CMY285"
+    },
+    {
+        "Name": "Physical chemistry 382",
+        "Code": "CMY382"
+    },
+    {
+        "Name": "Analytical chemistry 383",
+        "Code": "CMY383"
+    },
+    {
+        "Name": "Organic chemistry 384",
+        "Code": "CMY384"
+    },
+    {
+        "Name": "Inorganic chemistry 385",
+        "Code": "CMY385"
+    },
+    {
+        "Name": "Community nutrition 321",
+        "Code": "CNT321"
+    },
+    {
+        "Name": "Community nutrition 411",
+        "Code": "CNT411"
+    },
+    {
+        "Name": "Program design: Introduction 110",
+        "Code": "COS110"
+    },
+    {
+        "Name": "Operating systems 122",
+        "Code": "COS122"
+    },
+    {
+        "Name": "Imperative programming 132",
+        "Code": "COS132"
+    },
+    {
+        "Name": "Introduction to computer science 151",
+        "Code": "COS151"
+    },
+    {
+        "Name": "Theoretical computer science 210",
+        "Code": "COS210"
+    },
+    {
+        "Name": "Data structures and algorithms 212",
+        "Code": "COS212"
+    },
+    {
+        "Name": "Software modelling 214",
+        "Code": "COS214"
+    },
+    {
+        "Name": "Netcentric computer systems 216",
+        "Code": "COS216"
+    },
+    {
+        "Name": "Introduction to database systems 221",
+        "Code": "COS221"
+    },
+    {
+        "Name": "Concurrent systems 226",
+        "Code": "COS226"
+    },
+    {
+        "Name": "Computer organisation and architecture 284",
+        "Code": "COS284"
+    },
+    {
+        "Name": "Software engineering 301",
+        "Code": "COS301"
+    },
+    {
+        "Name": "Artificial intelligence 314",
+        "Code": "COS314"
+    },
+    {
+        "Name": "Database systems 326",
+        "Code": "COS326"
+    },
+    {
+        "Name": "Computer security and ethics 330",
+        "Code": "COS330"
+    },
+    {
+        "Name": "Computer networks 332",
+        "Code": "COS332"
+    },
+    {
+        "Name": "Programming languages 333",
+        "Code": "COS333"
+    },
+    {
+        "Name": "Compiler construction 341",
+        "Code": "COS341"
+    },
+    {
+        "Name": "Computer graphics 344",
+        "Code": "COS344"
+    },
+    {
+        "Name": "Spatial databases 487",
+        "Code": "COS487"
+    },
+    {
+        "Name": "Animal anatomy and physiology 200",
+        "Code": "DAF200"
+    },
+    {
+        "Name": "Animal physiology 311",
+        "Code": "DFS311"
+    },
+    {
+        "Name": "Growth physiology 320",
+        "Code": "DFS320"
+    },
+    {
+        "Name": "Dairy management and nutrition 410",
+        "Code": "DMN410"
+    },
+    {
+        "Name": "Dietetic application of communication principles 222",
+        "Code": "DTT222"
+    },
+    {
+        "Name": "Introduction to tourism 110",
+        "Code": "EFK110"
+    },
+    {
+        "Name": "Heritage tourism management 120",
+        "Code": "EFK120"
+    },
+    {
+        "Name": "Tourism and representation 210",
+        "Code": "EFK210"
+    },
+    {
+        "Name": "Community-based tourism 220",
+        "Code": "EFK220"
+    },
+    {
+        "Name": "The South African tourism product 310",
+        "Code": "EFK310"
+    },
+    {
+        "Name": "Current discourses in tourism 320",
+        "Code": "EFK320"
+    },
+    {
+        "Name": "Economics 110",
+        "Code": "EKN110"
+    },
+    {
+        "Name": "Economics 113",
+        "Code": "EKN113"
+    },
+    {
+        "Name": "Economics 120",
+        "Code": "EKN120"
+    },
+    {
+        "Name": "Economics 123",
+        "Code": "EKN123"
+    },
+    {
+        "Name": "Economics 214",
+        "Code": "EKN214"
+    },
+    {
+        "Name": "Economics 224",
+        "Code": "EKN224"
+    },
+    {
+        "Name": "Economics 234",
+        "Code": "EKN234"
+    },
+    {
+        "Name": "Economics 244",
+        "Code": "EKN244"
+    },
+    {
+        "Name": "Economics 310",
+        "Code": "EKN310"
+    },
+    {
+        "Name": "Development economics 315",
+        "Code": "EKN315"
+    },
+    {
+        "Name": "Economics 320",
+        "Code": "EKN320"
+    },
+    {
+        "Name": "Introduction to environmental sciences 101",
+        "Code": "ENV101"
+    },
+    {
+        "Name": "Environmental sciences 201",
+        "Code": "ENV201"
+    },
+    {
+        "Name": "Human environmental interactions 301",
+        "Code": "ENV301"
+    },
+    {
+        "Name": "Aesthetics 121",
+        "Code": "EST121"
+    },
+    {
+        "Name": "Aesthetics: Product, consumer and environment 320",
+        "Code": "EST320"
+    },
+    {
+        "Name": "Pharmacology 381",
+        "Code": "FAR381"
+    },
+    {
+        "Name": "Pharmacology 382",
+        "Code": "FAR382"
+    },
+    {
+        "Name": "Financial management 110",
+        "Code": "FBS110"
+    },
+    {
+        "Name": "Financial management 112",
+        "Code": "FBS112"
+    },
+    {
+        "Name": "Financial management 122",
+        "Code": "FBS122"
+    },
+    {
+        "Name": "Introduction to the philosophy of medicine 155",
+        "Code": "FIL155"
+    },
+    {
+        "Name": "Introduction to moral and political philosophy 252",
+        "Code": "FIL252"
+    },
+    {
+        "Name": "Introductory and neurophysiology 211",
+        "Code": "FLG211"
+    },
+    {
+        "Name": "Circulatory physiology 212",
+        "Code": "FLG212"
+    },
+    {
+        "Name": "Lung and renal physiology, acid-base balance and temperature 221",
+        "Code": "FLG221"
+    },
+    {
+        "Name": "Digestion, endocrinology and reproductive systems 222",
+        "Code": "FLG222"
+    },
+    {
+        "Name": "Industrial physiology 322",
+        "Code": "FLG322"
+    },
+    {
+        "Name": "Higher neurological functions 327",
+        "Code": "FLG327"
+    },
+    {
+        "Name": "Cellular and developmental physiology 330",
+        "Code": "FLG330"
+    },
+    {
+        "Name": "Exercise and nutrition science 331",
+        "Code": "FLG331"
+    },
+    {
+        "Name": "Applied and pathophysiology 332",
+        "Code": "FLG332"
+    },
+    {
+        "Name": "Introduction to food, nutrition and health 121",
+        "Code": "FNH121"
+    },
+    {
+        "Name": "International nutrition 321",
+        "Code": "FNH321"
+    },
+    {
+        "Name": "Research project 400",
+        "Code": "FNH400"
+    },
+    {
+        "Name": "Advanced food, nutrition and health 420",
+        "Code": "FNH420"
+    },
+    {
+        "Name": "Chemical and microbiological aspects of food 451",
+        "Code": "FPP451"
+    },
+    {
+        "Name": "Financial accounting 111",
+        "Code": "FRK111"
+    },
+    {
+        "Name": "Financial accounting 121",
+        "Code": "FRK121"
+    },
+    {
+        "Name": "Financial accounting 122",
+        "Code": "FRK122"
+    },
+    {
+        "Name": "Financial accounting 133",
+        "Code": "FRK133"
+    },
+    {
+        "Name": "Financial accounting 143",
+        "Code": "FRK143"
+    },
+    {
+        "Name": "Physiology 110",
+        "Code": "FSG110"
+    },
+    {
+        "Name": "Physiology 120",
+        "Code": "FSG120"
+    },
+    {
+        "Name": "Physics 116",
+        "Code": "FSK116"
+    },
+    {
+        "Name": "Physics 176",
+        "Code": "FSK176"
+    },
+    {
+        "Name": "Introduction to food science and technology 250",
+        "Code": "FST250"
+    },
+    {
+        "Name": "Principles of food processing and preservation 260",
+        "Code": "FST260"
+    },
+    {
+        "Name": "Integrated food science 350",
+        "Code": "FST350"
+    },
+    {
+        "Name": "Food chemistry 351",
+        "Code": "FST351"
+    },
+    {
+        "Name": "Food chemistry (2) 352",
+        "Code": "FST352"
+    },
+    {
+        "Name": "Food engineering 353",
+        "Code": "FST353"
+    },
+    {
+        "Name": "Chemistry of food macro- and micronutrients 355",
+        "Code": "FST355"
+    },
+    {
+        "Name": "Principles of the science and technology of plant food 360",
+        "Code": "FST360"
+    },
+    {
+        "Name": "Animal food science 361",
+        "Code": "FST361"
+    },
+    {
+        "Name": "Advanced animal and plant foods microbiology 362",
+        "Code": "FST362"
+    },
+    {
+        "Name": "Research methodology and seminar 400",
+        "Code": "FST400"
+    },
+    {
+        "Name": "Animal food technology 401",
+        "Code": "FST401"
+    },
+    {
+        "Name": "Advanced plant food science and technology 402",
+        "Code": "FST402"
+    },
+    {
+        "Name": "Sensory evaluation 412",
+        "Code": "FST412"
+    },
+    {
+        "Name": "Product development and quality management 413",
+        "Code": "FST413"
+    },
+    {
+        "Name": "Advanced food science 420",
+        "Code": "FST420"
+    },
+    {
+        "Name": "Research project 463",
+        "Code": "FST463"
+    },
+    {
+        "Name": "Aspects of human geography 156",
+        "Code": "GGY156"
+    },
+    {
+        "Name": "Southern African geomorphology 166",
+        "Code": "GGY166"
+    },
+    {
+        "Name": "Introduction to physical geography 168",
+        "Code": "GGY168"
+    },
+    {
+        "Name": "City, structure, environment and society 201",
+        "Code": "GGY201"
+    },
+    {
+        "Name": "Process geomorphology 252",
+        "Code": "GGY252"
+    },
+    {
+        "Name": "Geomorphology of the built environment 265",
+        "Code": "GGY265"
+    },
+    {
+        "Name": "Introductory geographic information systems 283",
+        "Code": "GGY283"
+    },
+    {
+        "Name": "Theories and applications of human geography 301",
+        "Code": "GGY301"
+    },
+    {
+        "Name": "Environmental geomorphology 361",
+        "Code": "GGY361"
+    },
+    {
+        "Name": "Applied geomorphology 363",
+        "Code": "GGY363"
+    },
+    {
+        "Name": "Human geography project 383",
+        "Code": "GGY383"
+    },
+    {
+        "Name": "Geographic data analysis 220",
+        "Code": "GIS220"
+    },
+    {
+        "Name": "Geographic information systems introduction 221",
+        "Code": "GIS221"
+    },
+    {
+        "Name": "Geographic information systems 310",
+        "Code": "GIS310"
+    },
+    {
+        "Name": "Geoinformatics 311",
+        "Code": "GIS311"
+    },
+    {
+        "Name": "Spatial analysis 320",
+        "Code": "GIS320"
+    },
+    {
+        "Name": "Introductory soil science 250",
+        "Code": "GKD250"
+    },
+    {
+        "Name": "Soil chemistry 320",
+        "Code": "GKD320"
+    },
+    {
+        "Name": "Soil formation and classification 350",
+        "Code": "GKD350"
+    },
+    {
+        "Name": "Soil fertility, soil microbiology and plant nutrition 420",
+        "Code": "GKD420"
+    },
+    {
+        "Name": "Introduction to geology 155",
+        "Code": "GLY155"
+    },
+    {
+        "Name": "Earth history 163",
+        "Code": "GLY163"
+    },
+    {
+        "Name": "Sedimentology 253",
+        "Code": "GLY253"
+    },
+    {
+        "Name": "Fundamental and applied mineralogy 255",
+        "Code": "GLY255"
+    },
+    {
+        "Name": "Geology for engineering 256",
+        "Code": "GLY256"
+    },
+    {
+        "Name": "Igneous and metamorphic petrology 263",
+        "Code": "GLY263"
+    },
+    {
+        "Name": "Geological field mapping 266",
+        "Code": "GLY266"
+    },
+    {
+        "Name": "Geodynamics and ore formation 352",
+        "Code": "GLY352"
+    },
+    {
+        "Name": "Structural geology 365",
+        "Code": "GLY365"
+    },
+    {
+        "Name": "Groundwater 366",
+        "Code": "GLY366"
+    },
+    {
+        "Name": "Economic geology 367",
+        "Code": "GLY367"
+    },
+    {
+        "Name": "Advanced Geological field mapping 368",
+        "Code": "GLY368"
+    },
+    {
+        "Name": "Engineering geology and rock mechanics 369",
+        "Code": "GLY369"
+    },
+    {
+        "Name": "Remote sensing 220",
+        "Code": "GMA220"
+    },
+    {
+        "Name": "Remote sensing 320",
+        "Code": "GMA320"
+    },
+    {
+        "Name": "Cartography 110",
+        "Code": "GMC110"
+    },
+    {
+        "Name": "Geometrical and space geodesy 310",
+        "Code": "GMC310"
+    },
+    {
+        "Name": "Geoinformatics project 320",
+        "Code": "GMT320"
+    },
+    {
+        "Name": "Introductory genetics 161",
+        "Code": "GTS161"
+    },
+    {
+        "Name": "Molecular genetics 251",
+        "Code": "GTS251"
+    },
+    {
+        "Name": "Genetic diversity and evolution 261",
+        "Code": "GTS261"
+    },
+    {
+        "Name": "Eukaryotic gene control and development 351",
+        "Code": "GTS351"
+    },
+    {
+        "Name": "Genome evolution and phylogenetics 354",
+        "Code": "GTS354"
+    },
+    {
+        "Name": "Population and evolutionary genetics 367",
+        "Code": "GTS367"
+    },
+    {
+        "Name": "Genetics in human health 368",
+        "Code": "GTS368"
+    },
+    {
+        "Name": "Human nutrition 210",
+        "Code": "HNT210"
+    },
+    {
+        "Name": "Human nutrition 220",
+        "Code": "HNT220"
+    },
+    {
+        "Name": "Advanced human nutrition 411",
+        "Code": "HNT411"
+    },
+    {
+        "Name": "Principles and practices 351",
+        "Code": "HSC351"
+    },
+    {
+        "Name": "Fruit tree crops 420",
+        "Code": "HSC420"
+    },
+    {
+        "Name": "Ornamental horticulture 490",
+        "Code": "HSC490"
+    },
+    {
+        "Name": "Actuarial and Financial Mathematics in practice 111",
+        "Code": "IAS111"
+    },
+    {
+        "Name": "Actuarial and Financial Mathematics in practice 121",
+        "Code": "IAS121"
+    },
+    {
+        "Name": "Financial mathematics 211",
+        "Code": "IAS211"
+    },
+    {
+        "Name": "Contingencies 221",
+        "Code": "IAS221"
+    },
+    {
+        "Name": "Financial mathematics 282",
+        "Code": "IAS282"
+    },
+    {
+        "Name": "Contingencies 353",
+        "Code": "IAS353"
+    },
+    {
+        "Name": "Insurance and actuarial applications 361",
+        "Code": "IAS361"
+    },
+    {
+        "Name": "Survival models 382",
+        "Code": "IAS382"
+    },
+    {
+        "Name": "Informatics 112",
+        "Code": "INF112"
+    },
+    {
+        "Name": "Informatics 154",
+        "Code": "INF154"
+    },
+    {
+        "Name": "Informatics 164",
+        "Code": "INF164"
+    },
+    {
+        "Name": "Informatics 171",
+        "Code": "INF171"
+    },
+    {
+        "Name": "Informatics 183",
+        "Code": "INF183"
+    },
+    {
+        "Name": "Informatics 214",
+        "Code": "INF214"
+    },
+    {
+        "Name": "Informatics 225",
+        "Code": "INF225"
+    },
+    {
+        "Name": "Informatics 261",
+        "Code": "INF261"
+    },
+    {
+        "Name": "Informatics 272",
+        "Code": "INF272"
+    },
+    {
+        "Name": "Interior merchandise 121",
+        "Code": "ITW121"
+    },
+    {
+        "Name": "Costume and fashion history 210",
+        "Code": "KLD210"
+    },
+    {
+        "Name": "Fashion forecasting 222",
+        "Code": "KLD222"
+    },
+    {
+        "Name": "Social and cultural aspects of clothing 311",
+        "Code": "KLD311"
+    },
+    {
+        "Name": "Clothing retail management 410",
+        "Code": "KLD410"
+    },
+    {
+        "Name": "Clothing merchandising 420",
+        "Code": "KLD420"
+    },
+    {
+        "Name": "Clothing production: sewing techniques 110",
+        "Code": "KLR110"
+    },
+    {
+        "Name": "Clothing production: processes 120",
+        "Code": "KLR120"
+    },
+    {
+        "Name": "Flat pattern design 212",
+        "Code": "KLR212"
+    },
+    {
+        "Name": "Pattern use and good fit 221",
+        "Code": "KLR221"
+    },
+    {
+        "Name": "Clothing production 321",
+        "Code": "KLR321"
+    },
+    {
+        "Name": "Product development 411",
+        "Code": "KLR411"
+    },
+    {
+        "Name": "Experiential training in industry 403",
+        "Code": "KTP403"
+    },
+    {
+        "Name": "Small stock nutrition and production 420",
+        "Code": "KVK420"
+    },
+    {
+        "Name": "Introduction to agricultural economics 210",
+        "Code": "LEK210"
+    },
+    {
+        "Name": "Agricultural economics 220",
+        "Code": "LEK220"
+    },
+    {
+        "Name": "Agricultural economics 310",
+        "Code": "LEK310"
+    },
+    {
+        "Name": "Agricultural economics 315",
+        "Code": "LEK315"
+    },
+    {
+        "Name": "Agricultural economics 320",
+        "Code": "LEK320"
+    },
+    {
+        "Name": "Introduction to resource economics 324",
+        "Code": "LEK324"
+    },
+    {
+        "Name": "Agricultural market and price analysis 331",
+        "Code": "LEK331"
+    },
+    {
+        "Name": "Agricultural economics 332",
+        "Code": "LEK332"
+    },
+    {
+        "Name": "Agricultural economics 415",
+        "Code": "LEK415"
+    },
+    {
+        "Name": "Introduction to resource economics 424",
+        "Code": "LEK424"
+    },
+    {
+        "Name": "Agricultural market and price analysis 431",
+        "Code": "LEK431"
+    },
+    {
+        "Name": "Agricultural economics 432",
+        "Code": "LEK432"
+    },
+    {
+        "Name": "Research project: Agricultural economics 433",
+        "Code": "LEK433"
+    },
+    {
+        "Name": "Agricultural marketing 464",
+        "Code": "LEK464"
+    },
+    {
+        "Name": "International agricultural trade and policy 465",
+        "Code": "LEK465"
+    },
+    {
+        "Name": "Livestock feed technology 420",
+        "Code": "LFT420"
+    },
+    {
+        "Name": "Environmental biophysics 450",
+        "Code": "LKM450"
+    },
+    {
+        "Name": "Language and study skills 110",
+        "Code": "LST110"
+    },
+    {
+        "Name": "Language, life and study skills 133",
+        "Code": "LST133"
+    },
+    {
+        "Name": "Language, life and study skills 143",
+        "Code": "LST143"
+    },
+    {
+        "Name": "Introduction to microbiology 161",
+        "Code": "MBY161"
+    },
+    {
+        "Name": "Bacteriology 251",
+        "Code": "MBY251"
+    },
+    {
+        "Name": "Mycology 261",
+        "Code": "MBY261"
+    },
+    {
+        "Name": "Food microbiology 262",
+        "Code": "MBY262"
+    },
+    {
+        "Name": "Virology 351",
+        "Code": "MBY351"
+    },
+    {
+        "Name": "Bacterial genetics 355",
+        "Code": "MBY355"
+    },
+    {
+        "Name": "Genetic manipulation of microbes 364",
+        "Code": "MBY364"
+    },
+    {
+        "Name": "Microbe interactions 365",
+        "Code": "MBY365"
+    },
+    {
+        "Name": "People and their environment 112",
+        "Code": "MGW112"
+    },
+    {
+        "Name": "Molecular and cell biology 111",
+        "Code": "MLB111"
+    },
+    {
+        "Name": "Molecular and cell biology 133",
+        "Code": "MLB133"
+    },
+    {
+        "Name": "Molecular and cell biology 143",
+        "Code": "MLB143"
+    },
+    {
+        "Name": "Molecular and cell biology 153",
+        "Code": "MLB153"
+    },
+    {
+        "Name": "Medical terminology 180",
+        "Code": "MTL180"
+    },
+    {
+        "Name": "Nutritional assessment 313",
+        "Code": "NTA313"
+    },
+    {
+        "Name": "Nutritional assessment 314",
+        "Code": "NTA314"
+    },
+    {
+        "Name": "Design principles 111",
+        "Code": "OBG111"
+    },
+    {
+        "Name": "Business management 114",
+        "Code": "OBS114"
+    },
+    {
+        "Name": "Business management 124",
+        "Code": "OBS124"
+    },
+    {
+        "Name": "Business management 210",
+        "Code": "OBS210"
+    },
+    {
+        "Name": "Business management 220",
+        "Code": "OBS220"
+    },
+    {
+        "Name": "Weed science 413",
+        "Code": "OKW413"
+    },
+    {
+        "Name": "Experiential training in industry 400",
+        "Code": "OPI400"
+    },
+    {
+        "Name": "Experiential training in industry 480",
+        "Code": "OPI480"
+    },
+    {
+        "Name": "Soil-water relationship and irrigation 350",
+        "Code": "PGW350"
+    },
+    {
+        "Name": "Seminar 400",
+        "Code": "PGW400"
+    },
+    {
+        "Name": "First course in physics 114",
+        "Code": "PHY114"
+    },
+    {
+        "Name": "First course in physics 124",
+        "Code": "PHY124"
+    },
+    {
+        "Name": "Physics for biology students 131",
+        "Code": "PHY131"
+    },
+    {
+        "Name": "Physics 133",
+        "Code": "PHY133"
+    },
+    {
+        "Name": "General physics 141",
+        "Code": "PHY141"
+    },
+    {
+        "Name": "Physics 143",
+        "Code": "PHY143"
+    },
+    {
+        "Name": "Physics 144",
+        "Code": "PHY144"
+    },
+    {
+        "Name": "Physics 153",
+        "Code": "PHY153"
+    },
+    {
+        "Name": "Physics 154",
+        "Code": "PHY154"
+    },
+    {
+        "Name": "Astronomy for physicists 210",
+        "Code": "PHY210"
+    },
+    {
+        "Name": "Waves, thermodynamics and modern physics 255",
+        "Code": "PHY255"
+    },
+    {
+        "Name": "General physics 263",
+        "Code": "PHY263"
+    },
+    {
+        "Name": "Observational astronomy 300",
+        "Code": "PHY300"
+    },
+    {
+        "Name": "Particle and astroparticle physics 310",
+        "Code": "PHY310"
+    },
+    {
+        "Name": "Physics project 353",
+        "Code": "PHY353"
+    },
+    {
+        "Name": "Electronics, electromagnetism and quantum mechanics 356",
+        "Code": "PHY356"
+    },
+    {
+        "Name": "Physics project 363",
+        "Code": "PHY363"
+    },
+    {
+        "Name": "Statistical mechanics, solid state physics and modelling 364",
+        "Code": "PHY364"
+    },
+    {
+        "Name": "Introduction to crop protection 251",
+        "Code": "PLG251"
+    },
+    {
+        "Name": "Principles of plant pathology 262",
+        "Code": "PLG262"
+    },
+    {
+        "Name": "General plant pathology 351",
+        "Code": "PLG351"
+    },
+    {
+        "Name": "Plant disease control 363",
+        "Code": "PLG363"
+    },
+    {
+        "Name": "Research project 462",
+        "Code": "PLG462"
+    },
+    {
+        "Name": "Plant disease epidemiology 463",
+        "Code": "PLG463"
+    },
+    {
+        "Name": "Advanced plant disease control 483",
+        "Code": "PLG483"
+    },
+    {
+        "Name": "Molecular plant pathology and plant biosecurity 490",
+        "Code": "PLG490"
+    },
+    {
+        "Name": "Sustainable crop production and agroclimatology 251",
+        "Code": "PPK251"
+    },
+    {
+        "Name": "Poultry nutrition and production 420",
+        "Code": "PVK420"
+    },
+    {
+        "Name": "Research project 310",
+        "Code": "RCH310"
+    },
+    {
+        "Name": "Research project 320",
+        "Code": "RCH320"
+    },
+    {
+        "Name": "Social research: Methodological thinking 320",
+        "Code": "RES320"
+    },
+    {
+        "Name": "Reproduction science 310",
+        "Code": "RPL310"
+    },
+    {
+        "Name": "Reproduction science 320",
+        "Code": "RPL320"
+    },
+    {
+        "Name": "Exploring the universe 154",
+        "Code": "SCI154"
+    },
+    {
+        "Name": "Soil mechanics 311",
+        "Code": "SGM311"
+    },
+    {
+        "Name": "Geotechnical engineering 323",
+        "Code": "SGM323"
+    },
+    {
+        "Name": "Psychology 110",
+        "Code": "SLK110"
+    },
+    {
+        "Name": "Psychology 120",
+        "Code": "SLK120"
+    },
+    {
+        "Name": "Psychology 210",
+        "Code": "SLK210"
+    },
+    {
+        "Name": "Psychology 220",
+        "Code": "SLK220"
+    },
+    {
+        "Name": "Psychology 310",
+        "Code": "SLK310"
+    },
+    {
+        "Name": "Psychology 320",
+        "Code": "SLK320"
+    },
+    {
+        "Name": "Statistics 122",
+        "Code": "STC122"
+    },
+    {
+        "Name": "Statistics 110",
+        "Code": "STK110"
+    },
+    {
+        "Name": "Statistics 120",
+        "Code": "STK120"
+    },
+    {
+        "Name": "Statistics 121",
+        "Code": "STK121"
+    },
+    {
+        "Name": "Statistics 210",
+        "Code": "STK210"
+    },
+    {
+        "Name": "Statistics 220",
+        "Code": "STK220"
+    },
+    {
+        "Name": "Statistics 310",
+        "Code": "STK310"
+    },
+    {
+        "Name": "Statistics 320",
+        "Code": "STK320"
+    },
+    {
+        "Name": "The science of data analytics 353",
+        "Code": "STK353"
+    },
+    {
+        "Name": "Surveying 210",
+        "Code": "SUR210"
+    },
+    {
+        "Name": "Surveying 220",
+        "Code": "SUR220"
+    },
+    {
+        "Name": "Statics 122",
+        "Code": "SWK122"
+    },
+    {
+        "Name": "Strength of materials 210",
+        "Code": "SWK210"
+    },
+    {
+        "Name": "Textiles: Utilities, fibres and yarns 212",
+        "Code": "TKS212"
+    },
+    {
+        "Name": "Textiles: Structures and finishes 222",
+        "Code": "TKS222"
+    },
+    {
+        "Name": "Textiles: new and sustainable developments 411",
+        "Code": "TKS411"
+    },
+    {
+        "Name": "Textiles: Quality assurance and consumer aspects 422",
+        "Code": "TKS422"
+    },
+    {
+        "Name": "Animal breeding 320",
+        "Code": "TLR320"
+    },
+    {
+        "Name": "Animal breeding 411",
+        "Code": "TLR411"
+    },
+    {
+        "Name": "Site surveying 213",
+        "Code": "TRN213"
+    },
+    {
+        "Name": "Academic orientation 102",
+        "Code": "UPO102"
+    },
+    {
+        "Name": "Academic orientation 120",
+        "Code": "UPO120"
+    },
+    {
+        "Name": "Consumer facilitation 222",
+        "Code": "VBF222"
+    },
+    {
+        "Name": "Research project 400",
+        "Code": "VBR400"
+    },
+    {
+        "Name": "Food service management 321",
+        "Code": "VDB321"
+    },
+    {
+        "Name": "Food service management 420",
+        "Code": "VDB420"
+    },
+    {
+        "Name": "Nutrition 250",
+        "Code": "VDG250"
+    },
+    {
+        "Name": "Nutrition (Capita Selecta from HNT 210) 310",
+        "Code": "VDG310"
+    },
+    {
+        "Name": "Nutrition (Capita Selecta from HNT 220) 320",
+        "Code": "VDG320"
+    },
+    {
+        "Name": "Basic food preparation 111",
+        "Code": "VDS111"
+    },
+    {
+        "Name": "Basic food preparation 121",
+        "Code": "VDS121"
+    },
+    {
+        "Name": "Food commodities and preparation 210",
+        "Code": "VDS210"
+    },
+    {
+        "Name": "Food commodities and preparation 221",
+        "Code": "VDS221"
+    },
+    {
+        "Name": "Basic food preparation and food preparation techniques 231",
+        "Code": "VDS231"
+    },
+    {
+        "Name": "Food commodities and preparation 232",
+        "Code": "VDS232"
+    },
+    {
+        "Name": "Consumer food research 310",
+        "Code": "VDS310"
+    },
+    {
+        "Name": "Large-scale food production and restaurant management 322",
+        "Code": "VDS322"
+    },
+    {
+        "Name": "Large-scale food production 323",
+        "Code": "VDS323"
+    },
+    {
+        "Name": "Food safety and hygiene 354",
+        "Code": "VDS354"
+    },
+    {
+        "Name": "Recipe development and standardisation 413",
+        "Code": "VDS413"
+    },
+    {
+        "Name": "Culinary art 414",
+        "Code": "VDS414"
+    },
+    {
+        "Name": "Consumer aspects of food 417",
+        "Code": "VDS417"
+    },
+    {
+        "Name": "Culinary art 424",
+        "Code": "VDS424"
+    },
+    {
+        "Name": "Food retailing and visual merchandising of food 427",
+        "Code": "VDS427"
+    },
+    {
+        "Name": "Veterinary ethology 202",
+        "Code": "VET202"
+    },
+    {
+        "Name": "Nutrition science 310",
+        "Code": "VGE310"
+    },
+    {
+        "Name": "Nutrition science 320",
+        "Code": "VGE320"
+    },
+    {
+        "Name": "Monogastric nutrition and production 411",
+        "Code": "VGE411"
+    },
+    {
+        "Name": "Hospitality management 310",
+        "Code": "VHM310"
+    },
+    {
+        "Name": "Principles of animal nutrition 224",
+        "Code": "VKU224"
+    },
+    {
+        "Name": "Animal science 250",
+        "Code": "VKU250"
+    },
+    {
+        "Name": "Animal science 260",
+        "Code": "VKU260"
+    },
+    {
+        "Name": "Research methodology 400",
+        "Code": "VKU400"
+    },
+    {
+        "Name": "Food composition and applied nutritional programmes 364",
+        "Code": "VVW364"
+    },
+    {
+        "Name": "Pasture science 213",
+        "Code": "WDE213"
+    },
+    {
+        "Name": "Principles of veld management 310",
+        "Code": "WDE310"
+    },
+    {
+        "Name": "Planted pastures and fodder crops 320",
+        "Code": "WDE320"
+    },
+    {
+        "Name": "Advanced pasture science 450",
+        "Code": "WDE450"
+    },
+    {
+        "Name": "Atmospheric structure and processes 155",
+        "Code": "WKD155"
+    },
+    {
+        "Name": "Programming in meteorology 254",
+        "Code": "WKD254"
+    },
+    {
+        "Name": "Physical meteorology 261",
+        "Code": "WKD261"
+    },
+    {
+        "Name": "Introduction to dynamic meteorology 263",
+        "Code": "WKD263"
+    },
+    {
+        "Name": "Satellite meteorology 265",
+        "Code": "WKD265"
+    },
+    {
+        "Name": "Mid-latitude and polar meteorology 315",
+        "Code": "WKD315"
+    },
+    {
+        "Name": "Tropical meteorology 316",
+        "Code": "WKD316"
+    },
+    {
+        "Name": "Synoptic-scale circulation dynamics and vorticity in mid-latitudes 352",
+        "Code": "WKD352"
+    },
+    {
+        "Name": "Quasi-geostrophic analysis 361",
+        "Code": "WKD361"
+    },
+    {
+        "Name": "Mathematical statistics 111",
+        "Code": "WST111"
+    },
+    {
+        "Name": "Mathematical statistics 121",
+        "Code": "WST121"
+    },
+    {
+        "Name": "Mathematical statistics 133",
+        "Code": "WST133"
+    },
+    {
+        "Name": "Mathematical statistics 143",
+        "Code": "WST143"
+    },
+    {
+        "Name": "Mathematical statistics 153",
+        "Code": "WST153"
+    },
+    {
+        "Name": "Mathematical statistics 211",
+        "Code": "WST211"
+    },
+    {
+        "Name": "Applications in data science 212",
+        "Code": "WST212"
+    },
+    {
+        "Name": "Mathematical statistics 221",
+        "Code": "WST221"
+    },
+    {
+        "Name": "Multivariate analysis 311",
+        "Code": "WST311"
+    },
+    {
+        "Name": "Stochastic processes 312",
+        "Code": "WST312"
+    },
+    {
+        "Name": "Time-series analysis 321",
+        "Code": "WST321"
+    },
+    {
+        "Name": "Actuarial statistics 322",
+        "Code": "WST322"
+    },
+    {
+        "Name": "Calculus 114",
+        "Code": "WTW114"
+    },
+    {
+        "Name": "Discrete structures 115",
+        "Code": "WTW115"
+    },
+    {
+        "Name": "Numerical analysis 123",
+        "Code": "WTW123"
+    },
+    {
+        "Name": "Mathematics 124",
+        "Code": "WTW124"
+    },
+    {
+        "Name": "Precalculus 133",
+        "Code": "WTW133"
+    },
+    {
+        "Name": "Mathematics 134",
+        "Code": "WTW134"
+    },
+    {
+        "Name": "Precalculus 135",
+        "Code": "WTW135"
+    },
+    {
+        "Name": "Calculus 143",
+        "Code": "WTW143"
+    },
+    {
+        "Name": "Mathematics 144",
+        "Code": "WTW144"
+    },
+    {
+        "Name": "Linear algebra 146",
+        "Code": "WTW146"
+    },
+    {
+        "Name": "Calculus 148",
+        "Code": "WTW148"
+    },
+    {
+        "Name": "Mathematical modelling 152",
+        "Code": "WTW152"
+    },
+    {
+        "Name": "Calculus 153",
+        "Code": "WTW153"
+    },
+    {
+        "Name": "Mathematics 154",
+        "Code": "WTW154"
+    },
+    {
+        "Name": "Mathematical modelling 155",
+        "Code": "WTW155"
+    },
+    {
+        "Name": "Calculus 158",
+        "Code": "WTW158"
+    },
+    {
+        "Name": "Dynamical processes 162",
+        "Code": "WTW162"
+    },
+    {
+        "Name": "Mathematics 164",
+        "Code": "WTW164"
+    },
+    {
+        "Name": "Mathematics 165",
+        "Code": "WTW165"
+    },
+    {
+        "Name": "Linear algebra 211",
+        "Code": "WTW211"
+    },
+    {
+        "Name": "Calculus 218",
+        "Code": "WTW218"
+    },
+    {
+        "Name": "Analysis 220",
+        "Code": "WTW220"
+    },
+    {
+        "Name": "Linear algebra 221",
+        "Code": "WTW221"
+    },
+    {
+        "Name": "Techniques of analysis 224",
+        "Code": "WTW224"
+    },
+    {
+        "Name": "Mathematics 238",
+        "Code": "WTW238"
+    },
+    {
+        "Name": "Vector analysis 248",
+        "Code": "WTW248"
+    },
+    {
+        "Name": "Differential equations 256",
+        "Code": "WTW256"
+    },
+    {
+        "Name": "Calculus 258",
+        "Code": "WTW258"
+    },
+    {
+        "Name": "Numerical methods 263",
+        "Code": "WTW263"
+    },
+    {
+        "Name": "Differential equations 264",
+        "Code": "WTW264"
+    },
+    {
+        "Name": "Discrete structures 285",
+        "Code": "WTW285"
+    },
+    {
+        "Name": "Differential equations 286",
+        "Code": "WTW286"
+    },
+    {
+        "Name": "Analysis 310",
+        "Code": "WTW310"
+    },
+    {
+        "Name": "Complex analysis 320",
+        "Code": "WTW320"
+    },
+    {
+        "Name": "Financial engineering 354",
+        "Code": "WTW354"
+    },
+    {
+        "Name": "Financial engineering 364",
+        "Code": "WTW364"
+    },
+    {
+        "Name": "Algebra 381",
+        "Code": "WTW381"
+    },
+    {
+        "Name": "Dynamical systems 382",
+        "Code": "WTW382"
+    },
+    {
+        "Name": "Numerical analysis 383",
+        "Code": "WTW383"
+    },
+    {
+        "Name": "Partial differential equations 386",
+        "Code": "WTW386"
+    },
+    {
+        "Name": "Continuum mechanics 387",
+        "Code": "WTW387"
+    },
+    {
+        "Name": "Geometry 389",
+        "Code": "WTW389"
+    },
+    {
+        "Name": "Animal diversity 161",
+        "Code": "ZEN161"
+    },
+    {
+        "Name": "Invertebrate biology 251",
+        "Code": "ZEN251"
+    },
+    {
+        "Name": "African vertebrates 261",
+        "Code": "ZEN261"
+    },
+    {
+        "Name": "Population ecology 351",
+        "Code": "ZEN351"
+    },
+    {
+        "Name": "Mammalogy 352",
+        "Code": "ZEN352"
+    },
+    {
+        "Name": "Community ecology 353",
+        "Code": "ZEN353"
+    },
+    {
+        "Name": "Evolutionary physiology 354",
+        "Code": "ZEN354"
+    },
+    {
+        "Name": "Insect diversity 355",
+        "Code": "ZEN355"
+    },
+    {
+        "Name": "Physiological processes 361",
+        "Code": "ZEN361"
+    },
+    {
+        "Name": "Evolution and phylogeny 362",
+        "Code": "ZEN362"
+    },
+    {
+        "Name": "Behavioural ecology 363",
+        "Code": "ZEN363"
+    },
+    {
+        "Name": "Conservation ecology 364",
+        "Code": "ZEN364"
+    },
+    {
+        "Name": "Applied entomology 365",
+        "Code": "ZEN365"
+    }
+]

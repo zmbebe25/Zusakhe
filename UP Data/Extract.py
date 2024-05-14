@@ -1,7 +1,7 @@
 import pdfplumber
 
-pdf_path = "C:/Users/Zusakhe Mbebe/Downloads/Faculty-SCI.pdf"
-output_path = 'C:/Users/Zusakhe Mbebe/Downloads/Zusakhe/UP Data/Faculty-SCI.txt'
+pdf_path = "C:/Users/Zusakhe Mbebe/Downloads/Bachelor of Education (Intermediate Phase Teaching).pdf"
+output_path = 'UP Data/Bachelor of Education (Intermediate Phase Teaching).txt'
 
 def extract_text_from_pdf(pdf_path, output_path):
     with pdfplumber.open(pdf_path) as pdf:

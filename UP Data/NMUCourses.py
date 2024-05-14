@@ -21,6 +21,7 @@ def getDriver():
     service = Service(ChromeDriverManager().install())
 
 
+
     # Define any additional options if needed
     options = Options()
     options.add_argument("window-size=1920,1080")
@@ -37,7 +38,7 @@ def getDriver():
     return driver
 
 Final_List = []
-buttons = ["A", "B", "C","D", "E", "F","G", "H", "I","J", "K", "L","M", "N", "O","P", "Q", "R","S", "T", "U","V", "W", "X","Y", "Z", "A"]
+#buttons = ["A", "B", "C","D", "E", "F","G", "H", "I","J", "K", "L","M", "N", "O","P", "Q", "R","S", "T", "U","V", "W", "X","Y", "Z", "A"]
 
 def scrape_module_data(driver):
     modules = driver.find_element(By.ID, 'modulelist')

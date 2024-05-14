@@ -1,0 +1,582 @@
+[
+    {
+        "Name": "Academic information management 111",
+        "Code": "AIM111"
+    },
+    {
+        "Name": "Academic information management 121",
+        "Code": "AIM121"
+    },
+    {
+        "Name": "Literacies in education 110",
+        "Code": "JLZ110"
+    },
+    {
+        "Name": "Literacies in education 111",
+        "Code": "JLZ111"
+    },
+    {
+        "Name": "Literacies in education 120",
+        "Code": "JLZ120"
+    },
+    {
+        "Name": "Literacies in education 121",
+        "Code": "JLZ121"
+    },
+    {
+        "Name": "Academic orientation 109",
+        "Code": "UPO109"
+    },
+    {
+        "Name": "Conversational Competence: Sepedi 100",
+        "Code": "CCI100"
+    },
+    {
+        "Name": "Conversational Competence: Setswana 100",
+        "Code": "CCW100"
+    },
+    {
+        "Name": "Conversational Competence: IsiZulu 100",
+        "Code": "CCZ100"
+    },
+    {
+        "Name": "Basic economic and management sciences 181",
+        "Code": "JLE181"
+    },
+    {
+        "Name": "Professional studies 121",
+        "Code": "JPS121"
+    },
+    {
+        "Name": "Fundamental mathematical concepts 181",
+        "Code": "JWI181"
+    },
+    {
+        "Name": "Education 112",
+        "Code": "OPV112"
+    },
+    {
+        "Name": "Afrikaans 110",
+        "Code": "AFR110"
+    },
+    {
+        "Name": "Afrikaans 120",
+        "Code": "AFR120"
+    },
+    {
+        "Name": "African languages literature: Capita selecta 121",
+        "Code": "AFT121"
+    },
+    {
+        "Name": "English 110",
+        "Code": "ENG110"
+    },
+    {
+        "Name": "English 120",
+        "Code": "ENG120"
+    },
+    {
+        "Name": "Introduction to environmental sciences 101",
+        "Code": "ENV101"
+    },
+    {
+        "Name": "History 110",
+        "Code": "GES110"
+    },
+    {
+        "Name": "History 120",
+        "Code": "GES120"
+    },
+    {
+        "Name": "Aspects of human geography 156",
+        "Code": "GGY156"
+    },
+    {
+        "Name": "Southern African geomorphology 166",
+        "Code": "GGY166"
+    },
+    {
+        "Name": "Introduction to physical geography 168",
+        "Code": "GGY168"
+    },
+    {
+        "Name": "Art education 100",
+        "Code": "JKG100"
+    },
+    {
+        "Name": "University of Pretoria Yearbook 2024 | www.up.ac.za | 15:43:03 15/04/2024 | Page 17 of 68Art education 101",
+        "Code": "JKU101"
+    },
+    {
+        "Name": "Life orientation 110",
+        "Code": "JLO110"
+    },
+    {
+        "Name": "Life orientation 120",
+        "Code": "JLO120"
+    },
+    {
+        "Name": "Human movement studies and sport management 112",
+        "Code": "JMB112"
+    },
+    {
+        "Name": "Human movement studies and sport management 113",
+        "Code": "JMB113"
+    },
+    {
+        "Name": "Human movement studies and sport management 122",
+        "Code": "JMB122"
+    },
+    {
+        "Name": "Human movement studies and sport management 123",
+        "Code": "JMB123"
+    },
+    {
+        "Name": "Music education 181",
+        "Code": "JMO181"
+    },
+    {
+        "Name": "Music education 182",
+        "Code": "JMO182"
+    },
+    {
+        "Name": "Natural science 115",
+        "Code": "JWT115"
+    },
+    {
+        "Name": "Natural science 125",
+        "Code": "JWT125"
+    },
+    {
+        "Name": "Introduction to isiNdebele Grammar \u00e2\u20ac\u201c Capita selecta 110",
+        "Code": "NDE110"
+    },
+    {
+        "Name": "Introduction to Sepedi grammar - Capita selecta 111",
+        "Code": "SEP111"
+    },
+    {
+        "Name": "Introduction to Setswana grammar \u00e2\u20ac\u201c Capita selecta 111",
+        "Code": "STW111"
+    },
+    {
+        "Name": "Precalculus 133",
+        "Code": "WTW133"
+    },
+    {
+        "Name": "Mathematics 144",
+        "Code": "WTW144"
+    },
+    {
+        "Name": "Learning support 221",
+        "Code": "JLD221"
+    },
+    {
+        "Name": "Methodology of English first additional language 210",
+        "Code": "JME210"
+    },
+    {
+        "Name": "Education 212",
+        "Code": "OPV212"
+    },
+    {
+        "Name": "Education 222",
+        "Code": "OPV222"
+    },
+    {
+        "Name": "Teaching practice 280",
+        "Code": "PRO280"
+    },
+    {
+        "Name": "Afrikaans 214",
+        "Code": "AFR214"
+    },
+    {
+        "Name": "Afrikaans 220",
+        "Code": "AFR220"
+    },
+    {
+        "Name": "African languages literature: Capita selecta 220",
+        "Code": "AFT220"
+    },
+    {
+        "Name": "Modern English literature and English studies 210",
+        "Code": "ENG210"
+    },
+    {
+        "Name": "English 220",
+        "Code": "ENG220"
+    },
+    {
+        "Name": "University of Pretoria Yearbook 2024 | www.up.ac.za | 15:43:03 15/04/2024 | Page 29 of 68Environmental sciences 201",
+        "Code": "ENV201"
+    },
+    {
+        "Name": "Aspects of African history 210",
+        "Code": "GES210"
+    },
+    {
+        "Name": "The shaping of a modern South Africa 220",
+        "Code": "GES220"
+    },
+    {
+        "Name": "City, structure, environment and society 201",
+        "Code": "GGY201"
+    },
+    {
+        "Name": "Geographic information systems introduction 221",
+        "Code": "GIS221"
+    },
+    {
+        "Name": "Statistics for teachers 220",
+        "Code": "JGI220"
+    },
+    {
+        "Name": "Geometry for teachers 210",
+        "Code": "JGT210"
+    },
+    {
+        "Name": "Art education 200",
+        "Code": "JKG200"
+    },
+    {
+        "Name": "Art education 201",
+        "Code": "JKU201"
+    },
+    {
+        "Name": "Life orientation 210",
+        "Code": "JLO210"
+    },
+    {
+        "Name": "Life orientation 220",
+        "Code": "JLO220"
+    },
+    {
+        "Name": "Methodology of Afrikaans 200",
+        "Code": "JMA200"
+    },
+    {
+        "Name": "Human movement studies and sport management 212",
+        "Code": "JMB212"
+    },
+    {
+        "Name": "Human movement studies and sport management 213",
+        "Code": "JMB213"
+    },
+    {
+        "Name": "Human movement studies and sport management 222",
+        "Code": "JMB222"
+    },
+    {
+        "Name": "Human movement studies and sport management 223",
+        "Code": "JMB223"
+    },
+    {
+        "Name": "Methodology of English 200",
+        "Code": "JME200"
+    },
+    {
+        "Name": "Methodology of Geography 200",
+        "Code": "JMG200"
+    },
+    {
+        "Name": "Methodology of History 200",
+        "Code": "JMH200"
+    },
+    {
+        "Name": "Methodology of Art education 201",
+        "Code": "JMK201"
+    },
+    {
+        "Name": "Methodology of Life Orientation and Physical Education 201",
+        "Code": "JML201"
+    },
+    {
+        "Name": "Methodology of Music education 200",
+        "Code": "JMM200"
+    },
+    {
+        "Name": "Methodology of Sciences 203",
+        "Code": "JMN203"
+    },
+    {
+        "Name": "Music education 201",
+        "Code": "JMO201"
+    },
+    {
+        "Name": "Music education 202",
+        "Code": "JMO202"
+    },
+    {
+        "Name": "Music education 203",
+        "Code": "JMO203"
+    },
+    {
+        "Name": "Music education 204",
+        "Code": "JMO204"
+    },
+    {
+        "Name": "Methodology of Mathematics 204",
+        "Code": "JMW204"
+    },
+    {
+        "Name": "Methodology of IsiNdebele 200",
+        "Code": "JND200"
+    },
+    {
+        "Name": "Design and technology 240",
+        "Code": "JOT240"
+    },
+    {
+        "Name": "Methodology of Sepedi 200",
+        "Code": "JSP200"
+    },
+    {
+        "Name": "Methodology of Setswana 200",
+        "Code": "JSW200"
+    },
+    {
+        "Name": "Natural science 230",
+        "Code": "JWT230"
+    },
+    {
+        "Name": "Methodology of isiZulu 200",
+        "Code": "JZL200"
+    },
+    {
+        "Name": "isiNdebele 210",
+        "Code": "NDE210"
+    },
+    {
+        "Name": "Sepedi grammar \u00e2\u20ac\u201c Capita selecta 211",
+        "Code": "SEP211"
+    },
+    {
+        "Name": "Setswana grammar \u00e2\u20ac\u201c Capita selecta 211",
+        "Code": "STW211"
+    },
+    {
+        "Name": "IsiZulu grammar \u00e2\u20ac\u201c Capita selecta 211",
+        "Code": "ZUL211"
+    },
+    {
+        "Name": "Learning support 320",
+        "Code": "JLD320"
+    },
+    {
+        "Name": "Methodology of E-learning 330",
+        "Code": "JLT330"
+    },
+    {
+        "Name": "Classroom literacies 300",
+        "Code": "JLZ300"
+    },
+    {
+        "Name": "Education 312",
+        "Code": "OPV312"
+    },
+    {
+        "Name": "Education 322",
+        "Code": "OPV322"
+    },
+    {
+        "Name": "Teaching practice 380",
+        "Code": "PRO380"
+    },
+    {
+        "Name": "Afrikaans education 361",
+        "Code": "JAF361"
+    },
+    {
+        "Name": "English education 361",
+        "Code": "JEN361"
+    },
+    {
+        "Name": "Methodology of Afrikaans 300",
+        "Code": "JMA300"
+    },
+    {
+        "Name": "University of Pretoria Yearbook 2024 | www.up.ac.za | 15:43:03 15/04/2024 | Page 48 of 68Methodology of English 300",
+        "Code": "JME300"
+    },
+    {
+        "Name": "Methodology of Geography 300",
+        "Code": "JMG300"
+    },
+    {
+        "Name": "Methodology of History 300",
+        "Code": "JMH300"
+    },
+    {
+        "Name": "Methodology of Art education 301",
+        "Code": "JMK301"
+    },
+    {
+        "Name": "Methodology of Life Orientation and Physical Education 301",
+        "Code": "JML301"
+    },
+    {
+        "Name": "University of Pretoria Yearbook 2024 | www.up.ac.za | 15:43:03 15/04/2024 | Page 50 of 68Methodology of Music education 300",
+        "Code": "JMM300"
+    },
+    {
+        "Name": "Methodology of Natural science 304",
+        "Code": "JMN304"
+    },
+    {
+        "Name": "Methodology of Intermediate Mathematics 303",
+        "Code": "JMW303"
+    },
+    {
+        "Name": "Methodology of IsiNdebele 300",
+        "Code": "JND300"
+    },
+    {
+        "Name": "Methodology of Sepedi 300",
+        "Code": "JSP300"
+    },
+    {
+        "Name": "Methodology of Setswana 300",
+        "Code": "JSW300"
+    },
+    {
+        "Name": "Intermediate mathematics 311",
+        "Code": "JWI311"
+    },
+    {
+        "Name": "Intermediate Mathematics 321",
+        "Code": "JWI321"
+    },
+    {
+        "Name": "Natural science 315",
+        "Code": "JWT315"
+    },
+    {
+        "Name": "Natural science 325",
+        "Code": "JWT325"
+    },
+    {
+        "Name": "Methodology of isiZulu 300",
+        "Code": "JZL300"
+    },
+    {
+        "Name": "Professional practice 471",
+        "Code": "JFP471"
+    },
+    {
+        "Name": "Research project 461",
+        "Code": "JNM461"
+    },
+    {
+        "Name": "Research project 464",
+        "Code": "JNM464"
+    },
+    {
+        "Name": "Teaching practice 452",
+        "Code": "PRO452"
+    },
+    {
+        "Name": "Teaching practice 453",
+        "Code": "PRO453"
+    },
+    {
+        "Name": "Methodology of Afrikaans 451",
+        "Code": "JMA451"
+    },
+    {
+        "Name": "Methodology of Afrikaans 454",
+        "Code": "JMA454"
+    },
+    {
+        "Name": "University of Pretoria Yearbook 2024 | www.up.ac.za | 15:43:03 15/04/2024 | Page 57 of 68Methodology of English 451",
+        "Code": "JME451"
+    },
+    {
+        "Name": "Methodology of English 454",
+        "Code": "JME454"
+    },
+    {
+        "Name": "Methodology of Geography 451",
+        "Code": "JMG451"
+    },
+    {
+        "Name": "Methodology of Geography 454",
+        "Code": "JMG454"
+    },
+    {
+        "Name": "Methodology of History 451",
+        "Code": "JMH451"
+    },
+    {
+        "Name": "Methodology of Art education 451",
+        "Code": "JMK451"
+    },
+    {
+        "Name": "Methodology of Art education 454",
+        "Code": "JMK454"
+    },
+    {
+        "Name": "Methodology of Life Orientation and Physical Education 461",
+        "Code": "JML461"
+    },
+    {
+        "Name": "Methodology of Life Orientation and Physical Education 464",
+        "Code": "JML464"
+    },
+    {
+        "Name": "Methodology of Music education 451",
+        "Code": "JMM451"
+    },
+    {
+        "Name": "Methodology of Music education 454",
+        "Code": "JMM454"
+    },
+    {
+        "Name": "Methodology of Natural science 451",
+        "Code": "JMN451"
+    },
+    {
+        "Name": "Methodology of Natural science 454",
+        "Code": "JMN454"
+    },
+    {
+        "Name": "Methodology of Intermediate Mathematics 453",
+        "Code": "JMW453"
+    },
+    {
+        "Name": "Methodology of Intermediate Mathematics 456",
+        "Code": "JMW456"
+    },
+    {
+        "Name": "Methodology of IsiNdebele 451",
+        "Code": "JND451"
+    },
+    {
+        "Name": "Methodology of IsiNdebele 454",
+        "Code": "JND454"
+    },
+    {
+        "Name": "Methodology of Sepedi 451",
+        "Code": "JSP451"
+    },
+    {
+        "Name": "Methodology of Sepedi 454",
+        "Code": "JSP454"
+    },
+    {
+        "Name": "Methodology of Setswana 451",
+        "Code": "JSW451"
+    },
+    {
+        "Name": "Methodology of Setswana 454",
+        "Code": "JSW454"
+    },
+    {
+        "Name": "Methodology of isiZulu 451",
+        "Code": "JZL451"
+    },
+    {
+        "Name": "Methodology of isiZulu 454",
+        "Code": "JZL454"
+    }
+]

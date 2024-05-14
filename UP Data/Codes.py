@@ -6,7 +6,7 @@ def load_json_file(filepath):
         return json.load(file)
 
 # Load data from files
-json_data1 = load_json_file('UP Data/Faculty-VET.json')
+json_data1 = load_json_file('UP Data\Bachelor of Education (Intermediate Phase Teaching).json')
 json_data2 = load_json_file('UP Data/UPcourse data.json')
 
 # Extract the list of codes from the second file
@@ -30,7 +30,7 @@ result_dict = {
 }
 
 # Save the result dictionary to a new JSON file
-with open('UP Data/Faculty-VETresult_codes.json', 'w', encoding='utf-8') as file:
+with open('UP Data/Bachelor of Education (Intermediate Phase Teaching)result.json', 'w', encoding='utf-8') as file:
     json.dump(result_dict, file, ensure_ascii=False, indent=4)
 
 print("Result dictionary saved to 'result_codes.json'.")

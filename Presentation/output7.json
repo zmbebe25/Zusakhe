@@ -1,0 +1,132 @@
+[
+
+    {
+        "Qualification": "ACCOUNTING (CA)",
+        "QualificationID": 181,
+        "Code": "B34CAQ",
+        "APS": 33,
+        "Description": "(SA). CA Accountant Chartered",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 103,
+                "minmark": 50,
+                "required": true
+            },
+            {
+                "subjectid": 2,
+                "minmark": 60,
+                "required": true
+            }
+        ]
+    },
+    {
+        "Qualification": "HOSPITALITY MANAGEMENT",
+        "QualificationID": 184,
+        "Code": "B34HNQ",
+        "APS": 28,
+        "ComplexAPS": 
+        [
+            
+            {
+                "subjectid": 2,
+                "minmark":50,
+                "APS": 26
+            },
+            {
+                "subjectid": 21,
+                "minmark":60,
+                "APS": 28
+
+            },
+            {
+                "subjectid": 115,
+                "minmark":50,
+                "APS": 26
+
+            }	
+            ],
+        "Description": "industry. the in positions other amongst Manager Financial Manager, General i.e. Industry Hospitality the in positions leadership into move to aspire who students of needs the serves degree This",
+        "Entrance": [
+                "AND",
+                {
+                    "subjectid": 103,
+                    "minmark": 60,
+                    "required": true
+                },
+                [
+                    "OR",
+                    {
+                        "subjectid": 2,
+                        "minmark": 50,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 21,
+                        "minmark": 60,
+                        "required": true
+                    },
+                    {
+                        "subjectid": 115,
+                        "minmark": 50,
+                        "required": true
+                    }
+                ]
+        ]
+    },
+    {
+        "Qualification": "HUMAN RESOURCE MANAGEMENT",
+        "QualificationID": 5233,
+        "Code": "B34HRQ",
+        "APS": 28,
+        "ComplexAPS": 
+        [
+            
+            {
+                "subjectid": 2,
+                "minmark":50,
+                "APS": 28
+            },
+            {
+                "subjectid": 21,
+                "minmark":60,
+                "APS": 28
+
+            },
+            {
+                "subjectid": 115,
+                "minmark":50,
+                "APS": 28
+
+            }	
+            ],
+        "Description": "practices. HR standardised regulated, encourage to (SABPP) Practices People of Board African South the with Practitioners HR as register may Graduates Officer. Selection and Recruitment Manager, Training Officer, Personnel HRM Manager, Personnel HRM Practitioners, Resource Human",
+        "Entrance": [
+            "AND",
+            {
+                "subjectid": 103,
+                "minmark": 50,
+                "required": true
+            },
+            [
+                "OR",
+                {
+                    "subjectid": 2,
+                    "minmark": 50,
+                    "required": true
+                },
+                {
+                    "subjectid": 21,
+                    "minmark": 60,
+                    "required": true
+                },
+                {
+                    "subjectid": 115,
+                    "minmark": 50,
+                    "required": true
+                }
+            ]
+        ]
+    }
+
+]

@@ -20,4 +20,4 @@ def convert_to_json(input_file_path, output_file_path):
         json.dump(modules, json_file, indent=4)
 
 # Example usage
-convert_to_json('C:/Users/Zusakhe Mbebe/Downloads/Zusakhe/UP Data/Faculty-VET.txt', 'C:/Users/Zusakhe Mbebe/Downloads/Zusakhe/UP Data/Faculty-VET.json')
+convert_to_json('UP Data/Bachelor of Education (Intermediate Phase Teaching).txt', 'UP Data/Bachelor of Education (Intermediate Phase Teaching).json')

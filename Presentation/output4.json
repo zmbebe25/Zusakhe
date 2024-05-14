@@ -1,0 +1,46 @@
+[
+  {
+    "Qualification": "ACCOUNTING (CA)",
+    "Qualification Code": "B34CAQ",
+    "APS": "33",
+    "English": 50,
+    "Mathematics": 60,
+    "Mathematics Literacy": null,
+    "Technical Mathematics": null,
+    "Description": "Chartered Accountant \u2013 CA (SA).",
+    "CAMPUS": "APK"
+  },
+  {
+    "Qualification": "HOSPITALITY\nMANAGEMENT",
+    "Qualification Code": "B34HNQ",
+    "APS": "RO ycaretiL\nshtaM\nlacitamehtaM\nhceT/shtaM\nhtiw htiw\n62 82",
+    "English": 60,
+    "Mathematics": 50,
+    "Mathematics Literacy": null,
+    "Technical Mathematics": 50,
+    "Description": "This degree serves the needs of\nstudents who aspire to move into\nleadership positions in the Hospitality\nIndustry i.e. General Manager,\nFinancial Manager amongst other\npositions in the industry.",
+    "CAMPUS": "APB"
+  },
+  {
+    "Qualification": "HUMAN RESOURCE\nMANAGEMENT",
+    "Qualification Code": "B34HRQ",
+    "APS": "RO ycaretiL\nshtaM\nlacitamehtaM\nhceT/shtaM\nhtiw htiw\n82 82",
+    "English": 50,
+    "Mathematics": 50,
+    "Mathematics Literacy": null,
+    "Technical Mathematics": 50,
+    "Description": "Human Resource Practitioners, HRM\nPersonnel Manager, HRM\nPersonnel Officer, Training Manager,\nRecruitment and Selection Officer.\nGraduates may register as HR\nPractitioners with the South African\nBoard of People Practices (SABPP) to\nencourage regulated, standardised\nHR practices.",
+    "CAMPUS": "APK"
+  },
+  {
+    "Qualification": "TOURISM DEVELOPMENT\nAND MANAGEMENT",
+    "Qualification Code": "B34TDQ",
+    "APS": "RO ycaretiL\nshtaM\nlacitamehtaM\nhceT/shtaM\nhtiw htiw\n62 82",
+    "English": 60,
+    "Mathematics": 40,
+    "Mathematics Literacy": null,
+    "Technical Mathematics": 40,
+    "Description": "Entrepreneur, Travel Agent, Tour Guide,\nTour Operator, Event and Conference\nOrganiser, Public Relations, Marketing,\nLeisure Activity Co-ordinator, Visa\nConsultant, Researcher, Academia,\nTeaching, Training and Lecturing,\nTransportation, Car Rental Agent,\nDevelopment Consultant, Corporate\nConsulting, National, Provincial\nand Local Government Tourism\nDepartments and Agencies, Technical\nWriter and Editor, Website Developer\nand Manager, Travel Blogger, Sales\nCo-ordinator and Manager.",
+    "CAMPUS": "APB"
+  }
+]
