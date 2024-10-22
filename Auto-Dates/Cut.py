@@ -7,7 +7,7 @@ import time
 import json  # Import JSON module for JSON output
 
 # Specify the path to the chromedriver executable
-chrome_driver_path = "C:/Users/Zusakhe Mbebe/Downloads/chromedriver-win64 (2)/chromedriver-win64/chromedriver.exe"
+#chrome_driver_path = "C:/Users/Zusakhe Mbebe/Downloads/chromedriver-win64 (2)/chromedriver-win64/chromedriver.exe"
 service = Service(ChromeDriverManager().install())
 driver = webdriver.Chrome(service=service)
 
@@ -27,7 +27,7 @@ except:
     print("Cookies button not found or not clickable.")
 
 # Find the date information element using XPath
-date_info_element = driver.find_element(By.XPATH, "//div[@class='col-sm-9']/p[contains(text(), '2024 Applications')]/following-sibling::p[1]")
+date_info_element = driver.find_element(By.XPATH, "//div[@class='col-sm-9']/h3[contains(text(), '2025 Applications')]/following-sibling::p[1]")
 date_info_text = date_info_element.text
 
 # Extracting opening and closing dates from the text

@@ -1,12 +1,13 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
 import time
 import json
 
 # Specify the path to the chromedriver executable
-chrome_driver_path = "C:/Users/Zusakhe Mbebe/Downloads/chromedriver-win64 (2)/chromedriver-win64/chromedriver.exe"
-service = Service(chrome_driver_path)
+#chrome_driver_path = "C:/Users/Zusakhe Mbebe/Downloads/chromedriver-win64 (2)/chromedriver-win64/chromedriver.exe"
+service = Service(ChromeDriverManager().install())
 driver = webdriver.Chrome(service=service)
 
 # Open the target page
@@ -25,7 +26,7 @@ except Exception as e:
     print("Cookies button not found or not clickable.", str(e))
 
 # Find the application closing date information using XPath
-closing_date_info_element = driver.find_element(By.XPATH, "//p[strong[contains(text(), 'Application Closing Date')]]")
+closing_date_info_element = driver.find_element(By.XPATH, "//strong[contains(text(), 'Application Closing Date')]")
 closing_date_info_text = closing_date_info_element.text
 
 # Extract the closing date from the text
