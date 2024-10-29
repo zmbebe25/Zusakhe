@@ -29426,6 +29426,23 @@
     "NQF": 6,
     "Credit": 12,
     "Year": 2,
+    "Assessments": [
+        {
+        "Name": "Assignment",
+        "Type": "Assignment",
+        "Weight": 40
+        },
+        {
+        "Name": "Field and Lab-based group project",
+        "Type": "Project",
+        "Weight": 30
+        },
+        {
+        "Name": "Individual written projects based on the field and lab work",
+        "Type": "Project",
+        "Weight": 30
+        }
+    ],
     "Prerequisite": {
       "Code": "GEOG1000A"
     },
@@ -29855,6 +29872,34 @@
     "Credit": 8,
     "Year": 2,
     "Duration": "Semester",
+
+    "Assessments": [
+        {
+          "Name": "Tutorial Tests",
+          "Type": "Test",
+          "Weight": 20,
+          "Equal": true,
+          "Subitems": [
+          {
+            "Name": "Test 1"
+          },
+          {
+            "Name": "Test 2"
+          }
+        ]
+        },
+        {
+            "Name": "Midterm Test",
+            "Type": "Test",
+            "Weight": 40
+        },
+        {
+            "Name": "Final Exam",
+            "Type": "Exam",
+            "Weight": 40
+        }
+    ],
+
     "Prerequisite": {
       "$or": [
         {
@@ -29897,6 +29942,33 @@
     "Credit": 8,
     "Year": 2,
     "Duration": "Semester",
+    "Assessments": [
+      {
+        "Name": "Tests",
+        "Type": "Test",
+        "Weight": 60,
+        "Equal": false,
+        "Subitems": [
+          {
+          "Name": "Tutorial Test 1",
+          "Weight": 10
+          },
+          {
+          "Name": "Tutorial Test 2",
+          "Weight": 10
+          },
+          {
+            "Name": "Midterm Test",
+            "Weight": 40
+          }
+        ]
+      },
+      {
+        "Name": "Final Exam",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
     "Prerequisite": {
       "$or": [
         {
@@ -57481,6 +57553,33 @@
     "Credit": 8,
     "Year": 2,
     "Duration": "Semester",
+    "Assessments": [
+      {
+        "Name": "Tests",
+        "Type": "Test",
+        "Weight": 60,
+        "Equal": false,
+        "Subitems": [
+          {
+          "Name": "Tutorial Test 1",
+          "Weight": 10
+          },
+          {
+          "Name": "Tutorial Test 2",
+          "Weight": 10
+          },
+          {
+            "Name": "Midterm Test",
+            "Weight": 40
+          }
+        ]
+      },
+      {
+        "Name": "Final Exam",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
     "Prerequisite": {
       "$or": [
         {
@@ -62022,6 +62121,19 @@
     "NQF": 6,
     "Credit": 12,
     "Year": 2,
+    "Assessments": [
+        {
+        "Name": "Course Work",
+        "Type": "Tests",
+        "Weight": 60
+        },
+        {
+        "Name": "Online Exam",
+        "Type": "Exam",
+        "Weight": 40
+        }
+    ],
+
     "Prerequisite": {
       "$or": [
         {
@@ -62313,6 +62425,66 @@
     "Duration": "Semester",
     "Period": [
       2
+    ],
+    "Assessments": [
+        {
+            "Name": "Class Tests",
+            "Type": "Tests",
+            "Equal": false,
+            "Weight": 18,
+            "Subitems": [
+                {
+                "Name": "Organic Test",
+                "Type": "Test",
+                "Weight": 12
+                },
+                {
+                "Name": "Analytical Test",
+                "Type": "Test",
+                "Weight": 6
+                }
+            ]
+        },
+        {
+        "Name": "Laboratory",
+        "Type": "Lab",
+        "Equal": false,
+        "Weight": 19,
+        "Subitems":[
+            {
+            "Name": "Orgnic Laboratory",
+            "Type": "Laboratory",
+            "Weight": 9
+            },
+            {
+            "Name": "Analytical",
+            "Type": "Laboratory",
+            "Weight": 10
+            }
+            ]  
+        },
+        {
+            "Name": "Hand-in Work Organic",
+            "Weight": 3
+        },
+        {
+            "Name": "Exams",
+            "Type": "Exam",
+            "Equal": false,
+            "Weight": 60,
+            "Subitems": [
+                {
+                    "Name": "Organic Exam",
+                    "Type": "Exam",
+                    "Weight": 36
+                },
+                {
+                    "Name": "Analytical Exam",
+                    "Type": "Exam",
+                    "Weight": 24
+                }
+            ]    
+        }
     ],
     "Prerequisite": {
       "$or": [
@@ -63030,6 +63202,78 @@
     "Period": [
       1
     ],
+    "Assessments": [
+        {
+        "Name": "Class Tests",
+        "Type": "Tests",
+        "Equal": false,
+        "Weight": 20,
+        "Subitems":[
+            {
+            "Name": "Inorgnic Test",
+            "Type": "Test",
+            "Weight": 8
+            },
+            {
+            "Name": "Physical Test",
+            "Type": "Test",
+            "Weight": 12
+            }
+            ]
+        },
+        {
+        "Name": "Laboratory",
+        "Type": "Lab",
+        "Equal": false,
+        "Weight": 15,
+        "Subitems":[
+            {
+            "Name": "Inorgnic Laboratory",
+            "Type": "Laboratory",
+            "Weight": 6
+            },
+            {
+            "Name": "Physical Laboratory",
+            "Type": "Laboratory",
+            "Weight": 9
+            }
+            ]  
+        },
+        {
+            "Name": "Hand-in Work",
+            "Equal": false,
+            "Weight": 5,
+            "Subitems":[
+                {
+                "Name": "Inogarnic Hand-in Work",
+                "Weight": 2
+                },
+                {
+                "Name": "Physical Hand-in Work",
+                "Weight": 3  
+                }
+            ]
+        },
+        {
+            "Name": "Exams",
+            "Type": "Exam",
+            "Equal": false,
+            "Weight": 60,
+            "Subitems": [
+                {
+                    "Name": "Inorganic Exam",
+                    "Type": "Exam",
+                    "Weight": 24
+                },
+                {
+                    "Name": "Physical Exam",
+                    "Type": "Exam",
+                    "Weight": 36 
+                }
+            ]
+        }
+    ],
+
     "Prerequisite": {
       "$or": [
         {
@@ -63296,6 +63540,34 @@
     "Prerequisite": {
     "Comment": "Permission required from the Senate and 108 level I credits"
     },
+
+    "Assessments": [
+        {
+        "Name": "Course Work",
+        "Type": "Tests",
+        "Equal": true,
+        "Weight": 60,
+        "Subitems":[
+            {
+            "Name": "course Work 1"
+            },
+            {
+            "Name": "course Work 2"
+            },
+            {
+            "Name": "course Work 3"
+            },
+            {
+            "Name": "course Work 4"
+            }
+        ]
+        },
+        {
+        "Name": "Final Exam",
+        "Type": "Exam" ,
+        "Weight": 40
+        }
+    ],
     "Name": "People and the Environment in Africa II",
     "Duration": "Semester",
     "Period": [
