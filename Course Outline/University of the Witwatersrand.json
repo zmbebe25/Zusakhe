@@ -56154,24 +56154,23 @@
     "Year": 2,
     "Assessments": [
           {
-              "Name": "Block Tests",
+              "Name": "Tests",
               "Type": "Test",
               "Weight": 30,
-              "Equal": true,
               "Subitems": [
                 {
                   "Name": "Class Test 1",
-                  "DueDate": "2024-03-11"
+                  "DueDate": "2024-08-19"
                 },
                 {
                   "Name": "Class Test 2",
-                  "DueDate": "2024-04-29"
+                  "DueDate": "2024-10-07"
                 }
               ]
           },
           {
-            "Name": "Coding Labs",
-            "Type": "Practical",
+            "Name": "Assignments/Coding",
+            "Type": "Assignment",
             "Weight": 20
           },
           {
