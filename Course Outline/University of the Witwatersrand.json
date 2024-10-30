@@ -12496,6 +12496,18 @@
     "NQF": 7,
     "Credit": 16,
     "Year": 2,
+    "Assessments":[
+      {
+        "Name": "Assessment",
+        "Type": "Tests",
+        "Weight": 60
+      },
+      {
+        "Name": "Assessment",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
     "Name": "Geology for Civil Engineers"
   },
   {
@@ -13074,7 +13086,42 @@
     "NQF": 6,
     "Credit": 15,
     "Year": 2,
-    "Duration": "Semester",
+    "Duration": "Term",
+    "Period": [1],
+    "Assessments":[
+        {
+          "Name": "Spreadsheets",
+          "Type": "Assessments",
+          "Weight": 35,
+          "Equal": false,
+          "Subitems": [
+            {
+              "Name": "Formative assessments - assignment(s)"
+            },
+            {
+              "Name": "Summative assessment - mid-term test"
+            }
+          ]
+        },
+        {
+          "Name": "Programming",
+          "Type": "Assessments",
+          "Weight": 65,
+          "Equal": false,
+          "Subitems":[
+            {
+              "Name": "Formative assessments - assignment(s) and project",
+              "Weight": 25
+            },
+            {
+              "Name": "Summative assessment - 1st term (or deferred) exam",
+              "Type": "Exam",
+              "Weight": 40
+            }
+
+          ]
+        }
+    ],
     "Name": "Engineering Computing"
   },
   {
