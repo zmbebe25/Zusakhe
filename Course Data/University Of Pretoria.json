@@ -23906,7 +23906,6 @@
         "Name": "Semester Tests",
         "Type": "Test",
         "Weight": 25,
-        "Dynamic": true,
         "Subitems": [
           {
             "Name": "Semester Test 1",
@@ -23972,7 +23971,6 @@
         "Name": "Achieve Assignments",
         "Type": "Assignment",
         "Weight": 5,
-        "Dynamic": true,
         "Subitems": [
           {
             "Name": "Achieve Assignment 1"
@@ -58984,21 +58982,43 @@
         ]
       },
       {
-        "Name": "Practicums",
-        "Type": "Practical",
-        "Weight": 10,
+        "Name": "Practical Assignments",
+        "Type": "Assignment",
+        "Weight": 5,
         "Subitems": [
           {
-            "Name": "Practical 1"
+            "Name": "Anatomy Practical Quizzes"
           },
           {
-            "Name": "Practical 2"
+            "Name": "Visual Skills Assignment"
           },
           {
-            "Name": "Practical 3"
+            "Name": "EEG Assignment"
           },
           {
-            "Name": "Practical 4"
+            "Name": "EMG Assignment"
+          },
+          {
+            "Name": "EOG Assignment"
+          }
+        ]
+      },
+      {
+        "Name": "Practical Tests",
+        "Type": "Test",
+        "Weight": 5,
+        "Subitems": [
+          {
+            "Name": "Visual Skills Test"
+          },
+          {
+            "Name": "EEG Test"
+          },
+          {
+            "Name": "EMG Test"
+          },
+          {
+            "Name": "EOG Test"
           }
         ]
       },
@@ -64247,6 +64267,23 @@
     "Duration": "Semester",
     "Period": [
       1
+    ],
+    "Assessments": [
+      {
+        "Name": "Advocacy and Ethical Practice Assignment",
+        "Type": "Assignment",
+        "Weight": 25
+      },
+      {
+        "Name": "Online Test 1",
+        "Type": "Test",
+        "Weight": 25
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
     ],
     "Description": "Principles for the management of an occupational therapy department in the public sector. Principles to set up\nand management of a private practice. Management of support staff in occupational therapy. Marketing\nstrategies in occupational therapy. Professional ethics, values and accountability. Code of ethics for occupational\ntherapists",
     "Institution": "University of Pretoria"
