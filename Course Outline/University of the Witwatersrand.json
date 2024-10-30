@@ -377,27 +377,8 @@
     "Assessments": [
       {
         "Name": "Engineering Drawing",
-        "Type": "Tutorial",
-        "Weight": 5,
-        "Subitems": [
-          {
-            "Name": "Engineering Drawing Tutorial 1"
-          },
-          {
-            "Name": "Engineering Drawing Tutorial 2"
-          },
-          {
-            "Name": "Engineering Drawing Tutorial 3"
-          },
-          {
-            "Name": "Engineering Drawing Tutorial 4"
-          }
-        ]
-      },
-      {
-        "Name": "Engineering Drawing Assignment",
-        "Type": "Assignment",
-        "Weight": 10
+        "Type": "Coursework",
+        "Weight": 15
       },
       {
         "Name": "Computer Literacy",
@@ -418,31 +399,9 @@
         "Weight": 15
       },
       {
-        "Name": "Weekly Computer Programming Labs",
-        "Type": "Practical",
-        "Weight": 5,
-        "Subitems": [
-          {
-            "Name": "Programming Problem Solving 1"
-          },
-          {
-            "Name": "Programming Problem Solving 2"
-          },
-          {
-            "Name": "Programming Problem Solving 3"
-          },
-          {
-            "Name": "Programming Problem Solving 4"
-          },
-          {
-            "Name": "Programming Problem Solving 5"
-          }
-        ]
-      },
-      {
-        "Name": "Computer Programming Test",
-        "Type": "Test",
-        "Weight": 5
+        "Name": "Problem solving",
+        "Type": "Coursework",
+        "Weight": 10
       },
       {
         "Name": "Individual CAD Test",
@@ -982,6 +941,51 @@
     "Description": "This course introduces different types of settlements in urban and rural areas, the shape (or morphology) \nof these settlements, the idea of urban environmental design, the various elements that comprise a \nsettlement, the different urban components and basic design elements with a focus on the development \nof graphic communication and the application of digital technologies",
     "NQF": "5",
     "Credit": "24",
+    "Assessments": [
+      {
+        "Name": "Project",
+        "Type": "Project",
+        "Weight": 65,
+        "Subitems": [
+          {
+            "Name": "Project 1",
+            "Weight": 15
+          },
+          {
+            "Name": "Project 2",
+            "Weight": 10
+          },
+          {
+            "Name": "Project 3",
+            "Weight": 20
+          },
+          {
+            "Name": "Project 4",
+            "Weight": 20
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Examination",
+        "Weight": 30,
+        "Subitems": [
+          {
+            "Name": "Oral Examination",
+            "Weight": 15
+          },
+          {
+            "Name": "Written Examination",
+            "Weight": 15
+          }
+        ]
+      },
+      {
+        "Name": "Attendance + Participation",
+        "Type": "Coursework",
+        "Weight": 5
+      }
+    ],
     "Name": "Introduction to Settlement Form and Design"
   },
   {
@@ -1524,6 +1528,33 @@
     "NQF": 5,
     "Credit": 18,
     "Year": 1,
+    "Assessments": [
+      {
+        "Name": "Mastering Biology",
+        "Type": "Coursework",
+        "Weight": 8
+      },
+      {
+        "Name": "Practical tests",
+        "Type": "Test",
+        "Weight": 8
+      },
+      {
+        "Name": "Practicals",
+        "Type": "Practical",
+        "Weight": 14
+      },
+      {
+        "Name": "Test Block 3 + Block 4",
+        "Type": "Test",
+        "Weight": 30
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
     "Name": "Introductory Physiology and Environmental Sciences I",
     "Duration": "Semester",
     "Period": [
@@ -3484,45 +3515,42 @@
     "Name": "Engineering Analysis and Design IB",
     "Assessments": [
       {
-        "Name": "Tests",
-        "Type": "Test",
-        "Equal": false,
-        "Weight": 50,
+        "Name": "7 Weekly Assignments",
+        "Type": "Assignment",
+        "Weight": 30,
         "Subitems": [
             {
-              "Name": "Test 1 - Data Driven Decision Making",
-              "Weight": 20
+              "Name": "Weekly Assignment 1"
             },
             {
-              "Name": "Test 2 - Eng. Content",
-              "Weight": 30
+              "Name": "Weekly Assignment 2"
+            },
+            {
+              "Name": "Weekly Assignment 3"
+            },
+            {
+              "Name": "Weekly Assignment 4"
+            },
+            {
+              "Name": "Weekly Assignment 5"
+            },
+            {
+              "Name": "Weekly Assignment 6"
+            },
+            {
+              "Name": "Weekly Assignment 7"
             }
         ]
       },
       {
-          "Name": "Research Project",
-          "Type": "Project",
-          "Weight": 20,
-          "Subitems": [
-            {
-              "Name": "Research Project: Review 1",
-              "Weight": 5
-            },
-            {
-              "Name": "Research Project: Review 2",
-              "Weight": 5
-            },
-            {
-              "Name": "Research Project: Completion",
-              "Weight": 10
-            }
-          ]
+          "Name": "Written Test",
+          "Type": "Test",
+          "Weight": 30
       },
       {
-          "Name": "Design Project",
+          "Name": "Project",
           "Type": "Project",
-          "DueDate": "2024-09-30",
-          "Weight": 30
+          "Weight": 40
       }
   ]
   },
@@ -15161,25 +15189,24 @@
         "Name": "Spot Quizzes",
         "Type": "Quiz",
         "Weight": 24,
-        "Equal": true,
         "Subitems": [
           {
-            "Name": "Spot Quiz 1"
+            "Name": "Spot Quiz 1(Block 1)"
           },
           {
-            "Name": "Spot Quiz 2"
+            "Name": "Spot Quiz 2(Block 1)"
           },
           {
-            "Name": "Spot Quiz 3"
+            "Name": "Spot Quiz 3(Block 1)"
           },
           {
-            "Name": "Spot Quiz 4"
+            "Name": "Spot Quiz 4(Block 2)"
           },
           {
-            "Name": "Spot Quiz 5"
+            "Name": "Spot Quiz 5(Block 2)"
           },
           {
-            "Name": "Spot Quiz 6"
+            "Name": "Spot Quiz 6(Block 2)"
           }
         ]
       },
@@ -15187,13 +15214,12 @@
         "Name": "Assignments",
         "Type": "Assignment",
         "Weight": 36,
-        "Equal": true,
         "Subitems": [
           {
-            "Name": "Long Assignment 1"
+            "Name": "Long Assignment 1(Block 1)"
           },
           {
-            "Name": "Long Assignment 2"
+            "Name": "Long Assignment 2(Block 2)"
           }
         ]
       },
@@ -32076,38 +32102,46 @@
         "Subitems": [
           {
             "Name": "Tut Test 1",
-            "Weight": 5.3
+            "Weight": 5.3,
+            "DueDateComment":"19th and 20th of March"
           },
           {
             "Name": "Mid-Semester Test 1",
-            "Weight": 14.1
+            "Weight": 14.1,
+            "DueDateComment":"16th and 17th April"
           },
           {
             "Name": "Tut Test 2",
-            "Weight": 5.3
+            "Weight": 5.3,
+            "DueDateComment":"14th and 15th May"
           },
           {
             "Name": "June Test",
-            "Weight": 14.1
+            "Weight": 14.1,
+            "DueDateComment":"May/June to be announced"
           },
           {
             "Name": "Tut Test 3",
-            "Weight": 5.3
+            "Weight": 5.3,
+            "DueDateComment":"30th and 31st July"
           },
           {
             "Name": "Mid-Semester Test 2",
-            "Weight": 10.6
+            "Weight": 10.6,
+            "DueDateComment":"13th and 14st August"
           },
           {
             "Name": "Tut Test 4",
-            "Weight": 5.3
+            "Weight": 5.3,
+            "DueDateComment":"8th and 9th October"
           }
         ]
       },
       {
         "Name": "November Examination",
         "Type": "Exam",
-        "Weight": 40
+        "Weight": 40,
+        "DueDateComment":"October/November To be announced"
       }
     ]
   },
@@ -32761,19 +32795,72 @@
     "Duration": "Year",
     "Assessments": [
       {
-        "Name": "Teaching Block",
-        "Type": "Coursework",
-        "Weight": 30
+        "Name": "written assignments",
+        "Type": "Assignment",
+        "Weight": 30,
+        "Equal": true,
+        "Subitems": [
+          {
+            "Name": "Assignment Block 1"
+          },
+          {
+            "Name": "Assignment Block 2"
+          },
+          {
+            "Name": "Assignment Block 3"
+          },
+          {
+            "Name": "Assignment Block 4"
+          }
+        ]
       },
       {
-        "Name": "Ongoing Block Assessments",
-        "Type": "Coursework",
-        "Weight": 20
+        "Name": "Tutorial assignments",
+        "Type": "Assessment",
+        "Weight": 8,
+        "Equal": true,
+        "Subitems": [
+          {
+            "Name": "Tutorials Block 1",
+            "Weight": 2
+          },
+          {
+            "Name": "Tutorials Block 2",
+            "Weight": 2
+          },
+          {
+            "Name": "Tutorials Block 3",
+            "Weight": 2
+          },
+          {
+            "Name": "Tutorials Block 4",
+            "Weight": 2
+          }
+        ]
       },
       {
-        "Name": "Tutorial Exercises",
-        "Type": "Tutorial",
-        "Weight": 8
+        "Name": "Ongoing block assessments",
+        "Type": "Assessment",
+        "Weight": 20,
+        "Equal": true,
+        "Subitems": [
+          {
+            "Name": "Ongoing Block 1",
+            "Weight": 5
+          },
+          {
+            "Name": "Ongoing Block 2",
+            "Weight": 5
+          },
+          {
+            "Name": "Ongoing Block 3",
+            "Weight": 5
+          },
+          {
+            "Name": "Ongoing Block 4",
+            "Weight": 5
+          }
+        ]
       },
       {
         "Name": "Research Participation",
@@ -46215,7 +46302,6 @@
         "Name": "Formative Assessments",
         "Type": "Assessment",
         "Weight": 10,
-        "Equal": true,
         "Subitems": [
           {
             "Name": "Formative Assessment 1 - Online",
@@ -46277,12 +46363,12 @@
         "Weight": 5
       },
       {
-        "Name": "Tutorials",
+        "Name": "Marked Tutorials",
         "Type": "Tutorial",
         "Weight": 5
       },
       {
-        "Name": "Written Exercises And Case Studies",
+        "Name": "Critical thinking skills",
         "Type": "Coursework",
         "Weight": 5
       },
@@ -55800,7 +55886,6 @@
       {
         "Name": "Tests",
         "Type": "Test",
-        "Equal": false,
         "Weight": 50,
         "Subitems": [
             {
