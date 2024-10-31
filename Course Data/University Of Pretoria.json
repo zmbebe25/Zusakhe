@@ -4712,6 +4712,38 @@
     "Prerequisite": {
       "Comment": "No prerequisites"
     },
+    "Assessments": [
+      {
+        "Name": "Semester Test",
+        "Type": "Test",
+        "DueDate": "2024-05-16",
+        "Weight": 20
+      },
+      {
+        "Name": "Tutorial Assignments",
+        "Type": "Assignment",
+        "Weight": 30,
+        "Subitems": [
+          {
+            "Name": "Tutorial Assignment 1",
+            "DueDate": "2024-05-12"
+          },
+          {
+            "Name": "Tutorial Assignment 2",
+            "DueDate": "2024-05-19"
+          },
+          {
+            "Name": "Tutorial Assignment 3",
+            "DueDate": "2024-05-26"
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Duration": "Term",
     "Period": [
       2
@@ -23183,6 +23215,31 @@
     "Period": [
       2
     ],
+    "Assessments": [
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 45,
+        "Subitems": [
+          {
+            "Name": "Class Test 1"
+          },
+          {
+            "Name": "Class Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Top 4 MCQ",
+        "Type": "Coursework",
+        "Weight": 5
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Note: Students cannot register for both GGY166 and GGY168.\nInvestigating southern African landscapes and placing them in a theoretical and global context. The\ngeomorphological evolution of southern Africa. Introduction to the concepts of Geomorphology and its\nrelationships with other physical sciences (e.g. meteorology, climatology, geology, hydrology and biology). The\nprocesses and controls of landform and landscape evolution. Tutorial exercises cover basic techniques of\ngeomorphological analysis, and topical issues in Geomorphology.",
     "Institution": "University of Pretoria"
   },
@@ -23281,6 +23338,104 @@
     "Duration": "Semester",
     "Period": [
       1
+    ],
+    "Assessments": [
+      {
+        "Name": "Theory class tests",
+        "Type": "Test",
+        "Weight": 10,
+        "Best":6,
+        "Subitems": [
+          {
+            "Name": "Class Test 1"
+          },
+          {
+            "Name": "Class Test 2"
+          },
+          {
+            "Name": "Class Test 3"
+          },
+          {
+            "Name": "Class Test 4"
+          },
+          {
+            "Name": "Class Test 5"
+          },
+          {
+            "Name": "Class Test 6"
+          },
+          {
+            "Name": "Class Test 7"
+          }
+        ]
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 40,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Practical Quizzes",
+        "Type": "Practical",
+        "Weight": 20,
+        "Subitems": [
+          {
+            "Name": "Practical Quiz 1",
+            "Weight": 2
+          },
+          {
+            "Name": "Practical Quiz 2",
+            "Weight": 2
+          },
+          {
+            "Name": "Practical Quiz 3",
+            "Weight": 2
+          },
+          {
+            "Name": "Practical Quiz 4",
+            "Weight": 5
+          },
+          {
+            "Name": "Practical Quiz 5",
+            "Weight": 5
+          },
+          {
+            "Name": "Practical Quiz 6",
+            "Weight": 2
+          },
+          {
+            "Name": "Practical Quiz 7",
+            "Weight": 1
+          },
+          {
+            "Name": "Practical Quiz 8",
+            "Weight": 1
+          }
+        ]
+      },
+      {
+        "Name": "Practical group lab test",
+        "Type": "Test",
+        "Weight": 5
+      },
+      {
+        "Name": "Group Storymap assignment",
+        "Type": "Assignment",
+        "Weight": 10
+      },
+      {
+        "Name": "Practical individual lab test",
+        "Type": "Test",
+        "Weight": 15
+      }
     ],
     "Description": "Introduction to Geographic Information Systems (GIS), theoretical concepts and applications of GIS. The focus\nwill be on the GIS process of data input, data analysis, data output and associated technologies. This module\nprovides the foundations for more advanced GIS and Geoinformatics topics. Practical assessments and a mini-\nproject make use of South African and African examples and foster learning and application of concepts aligned\nto the UN Sustainable Development Goals.",
     "Institution": "University of Pretoria"
@@ -34411,6 +34566,31 @@
         }
       ]
     },
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 30,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Practical assignments",
+        "Type": "Assignment",
+        "Weight": 30
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
     "Duration": "Semester",
     "Period": [
       2
