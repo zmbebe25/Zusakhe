@@ -12673,6 +12673,65 @@
     "Period": [
       1
     ],
+    "Assessments": [
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 20,
+        "Subitems": [
+          {
+            "Name": "Class Test 1"
+          },
+          {
+            "Name": "Class Test 2"
+          },
+          {
+            "Name": "Class Test 3"
+          },
+          {
+            "Name": "Class Test 4"
+          },
+          {
+            "Name": "Class Test 5"
+          },
+          {
+            "Name": "Class Test 6"
+          },
+          {
+            "Name": "Class Test 7"
+          },
+          {
+            "Name": "Class Test 8"
+          },
+          {
+            "Name": "Class Test 9"
+          },
+          {
+            "Name": "Class Test 10"
+          }
+        ]
+      },
+      {
+        "Name": "Oral Test",
+        "Type": "Presentation",
+        "Weight": 10
+      },
+      {
+        "Name": "Team Assignment",
+        "Type": "Assignment",
+        "Weight": 15
+      },
+      {
+        "Name": "Attendance",
+        "Type": "Attendance",
+        "Weight": 5
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Political theory\nA theoretical and normative study of political ideas. This includes the study of key political thinkers such as\nPlato, Thomas Hobbes and John Rawls as well as the contemporary manifestations of ideologies such as\nliberalism, socialism, conservatism and nationalism. This normative assessment of politics concludes with a\ncritical evaluation of the development, nature and practical value of prominent democratic theories including\nparticipatory, legal, and deliberative democracy.",
     "Institution": "University of Pretoria"
   },
@@ -12703,9 +12762,17 @@
     ],
     "Assessments": [
       {
-        "Name": "",
-        "Type": "",
-        "Weight": 0
+        "Name": "Lecture Attendance",
+        "Type": "Attendance",
+        "Weight": 20,
+        "Subitems": [
+          {
+            "Name": "Lecture Attendance"
+          },
+          {
+            "Name": "Lecture 2 Attendance"
+          }
+        ]
       },
       {
         "Name": "Assignments",
@@ -12723,7 +12790,7 @@
       {
         "Name": "Quizzes",
         "Type": "Quiz",
-        "Weight": 20,
+        "Weight": 30,
         "Subitems": [
           {
             "Name": "Online Quiz - Political Analysis"
@@ -54101,7 +54168,7 @@
       {
         "Name": "Assignment 1",
         "Type": "Assignment",
-        "DueDate": "2024-09-17",
+        "DueDate": "2024-10-17",
         "Weight": 35
       },
       {
@@ -58000,6 +58067,80 @@
     "Duration": "Semester",
     "Period": [
       1
+    ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 35,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1",
+            "DueDate": "2024-04-16"
+          },
+          {
+            "Name": "Semester Test 2",
+            "DueDate": "2024-05-13"
+          }
+        ]
+      },
+      {
+        "Name": "OWL Assignments",
+        "Type": "Assignment",
+        "Weight": 2.5
+      },
+      {
+        "Name": "Practical lab Reports",
+        "Type": "Practical",
+        "Weight": 10,
+        "Subitems": [
+          {
+            "Name": "Practical Lab Report 1"
+          },
+          {
+            "Name": "Practical Lab Report 2"
+          },
+          {
+            "Name": "Practical Lab Report 3"
+          },
+          {
+            "Name": "Practical Lab Report 4"
+          },
+          {
+            "Name": "Practical Lab Report 5"
+          },
+          {
+            "Name": "Practical Lab Report 6"
+          },
+          {
+            "Name": "Practical Lab Report 7"
+          }
+        ]
+      },
+      {
+        "Name": "Tutorial Tests",
+        "Type": "Tutorial",
+        "Weight": 2.5,
+        "Subitems": [
+          {
+            "Name": "Tutorial Test 1"
+          },
+          {
+            "Name": "Tutorial Test 2"
+          },
+          {
+            "Name": "Tutorial Test 3"
+          },
+          {
+            "Name": "Tutorial Test 4"
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
     ],
     "Description": "Theory: Introduction to general chemistry: Measurement in chemistry, matter and energy, atomic theory and the\nperiodic table, chemical compounds and chemical bonds; quantitative relationships in chemical reactions, states\nof matter and the kinetic theory; solutions and colloids, acids, bases and ionic compounds, chemical equilibria.\nIntroduction to organic chemistry: Chemical bonding in organic compounds, nature, physical properties and\nnomenclature of simple organic molecules, isomerism, chemical properties of alkanes and cycloalkanes, alkenes,\nalcohols, aldehydes and ketones, carboxylic acids and esters, amines and amides, carbohydrates, proteins, and\nlipids.\nPracticals.",
     "Institution": "University of Pretoria"
