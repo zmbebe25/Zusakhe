@@ -23696,6 +23696,36 @@
     "Period": [
       1
     ],
+    "Assessments": [
+      {
+        "Name": "Tests",
+        "Type": "Test",
+        "Weight": 50,
+        "Subitems": [
+          {
+            "Name": "Test 1"
+          },
+          {
+            "Name": "Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "ALL_LABS",
+        "Type": "Laboratory",
+        "Weight": 35
+      },
+      {
+        "Name": "R_ASSIGN",
+        "Type": "Coursework",
+        "Weight": 5
+      },
+      {
+        "Name": "CLASSEX",
+        "Type": "Coursework",
+        "Weight": 10
+      }
+    ],
     "Description": "This module aims to provide students with a working knowledge and skills to learn methods and techniques for\ncollecting, processing and analysing remotely sensed data. Throughout the module, emphasis will be placed on\nimage processing, image analysis, image classification, remote sensing and applications of remote sensing in\ngeographical analysis and environmental monitoring. The module is composed of lectures, readings, practical\nexercises research tasks and a project or assignments of at least 64 notional hours. In particular, the practical\nexercises and research tasks incorporate South African examples using satellite remotely-sensed data, as well\nas field spectral data measurements, to promote understanding of the state of land cover and land use types\n(e.g. spanning agricultural resources, water resources, urbanization) and how changes over time could impact\non the changing climate in accordance with the United Nation's Sustainable Development Goals.",
     "Institution": "University of Pretoria"
   },
