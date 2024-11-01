@@ -4472,7 +4472,7 @@
         "Weight": 30
       },
       {
-        "Name": "Class Test",
+        "Name": "Capital Budgeting Class Test",
         "Type": "Test",
         "DueDate": "2024-08-14",
         "Weight": 10
@@ -15965,6 +15965,49 @@
     "Period": [
       1
     ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 25,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Online Tests",
+        "Type": "Quiz",
+        "Weight": 25,
+        "Subitems": [
+          {
+            "Name": "Online Test 1",
+            "Weight": 5
+          },
+          {
+            "Name": "Online Test 2",
+            "Weight": 5
+          },
+          {
+            "Name": "Online Test 3",
+            "Weight": 10
+          },
+          {
+            "Name": "Online Test 4",
+            "Weight": 5
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Introduction to law. General principles of the law of contract. Specific contracts: purchase contracts; letting and\nhiring of work; employment contracts. Agency. General aspects of entrepreneurial law.",
     "Institution": "University of Pretoria"
   },
@@ -16790,16 +16833,13 @@
         "Weight": 45,
         "Subitems": [
           {
-            "Name": "Semester Test 1",
-            "DueDateComment": "April 2024"
+            "Name": "Semester Test 1"
           },
           {
-            "Name": "Semester Test 2",
-            "DueDateComment": "May 2024"
+            "Name": "Semester Test 2"
           },
           {
-            "Name": "Semester Test 3",
-            "DueDateComment": "August/September 2024"
+            "Name": "Semester Test 3"
           }
         ]
       },
@@ -22166,6 +22206,26 @@
     "Duration": "Semester",
     "Period": [
       2
+    ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 50,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
     ],
     "Description": "The development of an understanding of the South African Law of Property and statutes relating to immovable\nand real rights; the acquisition of rights over land in South Africa; forms of land tenure; possession and\noccupation of immovable property, survey of land, registration of rights over immovable property, servitudes,\nreal and personal securities, subdivision of land zoning regulations.",
     "Institution": "University of Pretoria"
@@ -27977,6 +28037,26 @@
     "Duration": "Semester",
     "Period": [
       2
+    ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 50,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
     ],
     "Description": "An introduction to the principles of construction contract law and an overview of standardised conditions of\ncontract for the built environment.",
     "Institution": "University of Pretoria"
@@ -36036,17 +36116,22 @@
       {
         "Name": "Semester Tests",
         "Type": "Test",
-        "Weight": 50,
+        "Weight": 45,
         "Subitems": [
           {
             "Name": "Semester Test 1",
-            "DueDateComment": "26 August 2024 - 31 August 2024"
+            "Weight": 20
           },
           {
             "Name": "Semester Test 2",
-            "DueDateComment": "14 October 2024 - 19 October 2024"
+            "Weight": 25
           }
         ]
+      },
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 5
       },
       {
         "Name": "Examination",
