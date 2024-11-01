@@ -3306,78 +3306,78 @@
         }
       ]
     },
-    "Assessments":[
-                {
-                    "Name": "Class activities",
-                    "Type": "Activities",
-                    "Equal": true,
-                    "Weight": 5,
-                    "Subitems": [
-                        {
-                          "Name": "Class Activity 1",
-                          "DueDate": "2024-08-01",
-                          "Weight": 2.5
-                        },
-                        {
-                          "Name": "Class Activity 2",
-                          "DueDate": "2024-09-05",
-                          "Weight": 2.5
-                        }
-                    ]
-                },
-                {
-                  "Name": "Group assignment",
-                  "Type": "Test",
-                  "Equal": true,
-                  "Weight": 15,
-                  "Subitems": [
-                      {
-                        "Name": "Group Assignment Team Charter",
-                        "Weight": 5,
-                        "DueDate": "2024-09-30"
-                      },
-                      {
-                        "Name": "Group Assignment Presentation",
-                        "Weight": 5,
-                        "DueDateComment": "17 October – 5 November 2024"
-                      },
-                      {
-                        "Name": "Group Assignment Report",
-                        "Weight": 5,
-                        "DueDate": "2024-11-07"
-                      }
-                  ]
-              },
-                {
-                    "Name": "Attendance",
-                    "Type": "Attendance",
-                    "Weight": 2.5
-                },
-                {
-                    "Name": "Essay",
-                    "Type": "Essay",
-                    "Weight": 10,
-                    "DueDate": "2024-10-18"
-                },
-                {
-                    "Name": "Semester Test",
-                    "Type": "Test",
-                    "Weight": 17.5,
-                    "DueDate": "2024-09-11"
-                },
-                {
-                    "Name": "Examination",
-                    "Type": "Exam",
-                    "Weight": 50
-                }
-            ],
-            "DP": 40,
-            "Passmark": [
+    "Assessments": [
+      {
+          "Name": "Class activities",
+          "Type": "Activities",
+          "Equal": true,
+          "Weight": 5,
+          "Subitems": [
               {
-                "Passtype": "Pass",
-                "Mark": 50
+                "Name": "Class Activity 1",
+                "DueDate": "2024-08-01",
+                "Weight": 2.5
+              },
+              {
+                "Name": "Class Activity 2",
+                "DueDate": "2024-09-05",
+                "Weight": 2.5
               }
-            ],
+          ]
+      },
+      {
+        "Name": "Group assignment",
+        "Type": "Test",
+        "Equal": true,
+        "Weight": 15,
+        "Subitems": [
+            {
+              "Name": "Group Assignment Team Charter",
+              "DueDate": "2024-09-30",
+              "Weight": 5
+            },
+            {
+              "Name": "Group Assignment Presentation",
+              "DueDate": "2024-11-05",
+              "Weight": 5
+            },
+            {
+              "Name": "Group Assignment Report",
+              "DueDate": "2024-11-07",
+              "Weight": 5
+            }
+        ]
+      },
+      {
+          "Name": "Attendance",
+          "Type": "Attendance",
+          "Weight": 2.5
+      },
+      {
+          "Name": "Essay",
+          "Type": "Essay",
+          "DueDate": "2024-10-18",
+          "Weight": 10
+      },
+      {
+          "Name": "Semester Test",
+          "Type": "Test",
+          "DueDate": "2024-09-11",
+          "Weight": 17.5
+      },
+      {
+          "Name": "Examination",
+          "Type": "Exam",
+          "Weight": 50
+      }
+    ],
+    "DP": 40,
+    "Passmark": [
+      {
+        "Passtype": "Pass",
+        "Mark": 50
+      }
+    ],
     "Duration": "Semester",
     "Period": [
       2
@@ -5057,37 +5057,43 @@
     "Assessments": [
       {
         "Name": "Year Test 1",
-        "Type": "Exam",
-        "Weight": 40
+        "Type": "Test",
+        "Weight": 18.7
       },
       {
         "Name": "Class Tests",
         "Type": "Test",
-        "Weight": 20,
-        "Best": 4,
+        "Weight": 9.35,
         "Subitems": [
           {
-            "Name": "Class Test 1"
+            "Name": "Class Test 1",
+            "Weight": 4.675
           },
           {
-            "Name": "Class Test 2"
+            "Name": "Class Test 2",
+            "Weight": 2.3375
           },
           {
-            "Name": "Class Test 3"
-          },
-          {
-            "Name": "Class Test 4"
-          },
-          {
-            "Name": "Class Test 5"
+            "Name": "Class Test 3",
+            "Weight": 2.3375
           }
         ]
       },
       {
         "Name": "Year Test 2",
-        "Type": "Exam",
+        "Type": "Test",
         "DueDate": "2024-09-02",
-        "Weight": 40
+        "Weight": 18.7
+      },
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Assessment",
+        "Weight": 8.25
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 45
       }
     ],
     "Duration": "Year",
@@ -7379,6 +7385,47 @@
     "Duration": "Semester",
     "Period": [
       1
+    ],
+    "Assessments": [
+      {
+        "Name": "Assignments",
+        "Type": "Assignment",
+        "Weight": 0,
+        "Subitems": [
+          {
+            "Name": "Assignment 1"
+          },
+          {
+            "Name": "Assignment 2"
+          }
+        ]
+      },
+      {
+        "Name": "Online Tests",
+        "Type": "Test",
+        "Weight": 0,
+        "Subitems": [
+          {
+            "Name": "Online Test 1"
+          },
+          {
+            "Name": "Online Test 2"
+          },
+          {
+            "Name": "Online Test 3"
+          }
+        ]
+      },
+      {
+        "Name": "Semester Test",
+        "Type": "Test",
+        "Weight": 0
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
     ],
     "Description": "**For LLB and BCom specialising in law\nGeneral introduction and historical backgrounda.\nThe process of sequestrationb.\nEffects of sequestrationc.\nVoidable and void dispositionsd.\nOverview of administration of insolvent estatese.\nComposition, rehabilitation and offencesf.\nLiquidation of insolvent companies and close corporationsg.",
     "Institution": "University of Pretoria"
@@ -12507,7 +12554,7 @@
       {
         "Name": "Practical Assignments",
         "Type": "Assignment",
-        "Weight": 20,
+        "Weight": 10,
         "Subitems": [
           {
             "Name": "Practical Assignment 1"
@@ -12517,35 +12564,33 @@
           },
           {
             "Name": "Practical Assignment 3"
-          },
-          {
-            "Name": "Practical Assignment 4"
           }
         ]
       },
       {
-        "Name": "Quizzes",
+        "Name": "Class Tests",
         "Type": "Quiz",
-        "Weight": 20,
+        "Weight": 5,
+        "Best": 2,
         "Subitems": [
           {
-            "Name": "Quiz 1"
+            "Name": "Class Test 1",
+            "DueDate": "2024-08-22"
           },
           {
-            "Name": "Quiz 2"
+            "Name": "Class Test 2",
+            "DueDate": "2024-09-12"
           },
           {
-            "Name": "Quiz 3"
-          },
-          {
-            "Name": "Quiz 4"
+            "Name": "Class Test 3",
+            "DueDate": "2024-10-17"
           }
         ]
       },
       {
         "Name": "Semester Tests",
         "Type": "Test",
-        "Weight": 60,
+        "Weight": 35,
         "Subitems": [
           {
             "Name": "Semester Test 1"
@@ -12554,6 +12599,11 @@
             "Name": "Semester Test 2"
           }
         ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
       }
     ],
     "Description": "Stationary and non-stationary univariate time series. Properties of ARIMA processes. Identification, estimation\nand diagnostic testing of a time series models. Forecasting. Multivariate time series. Supervised learning:\nintroduction to generalised linear models.  Modelling of binary response variables, logistic regression. Supporting\nmathematical concepts. Statistical concepts are demonstrated and interpreted through practical coding and\nsimulation within a data science framework.",
@@ -14876,7 +14926,42 @@
       {
           "Name": "Homework Assignments",
           "Type": "Assignment",
-          "Weight": 3
+          "Weight": 3,
+          "Subitems": [
+            {
+              "Name": "Homework Assignment 1"
+            },
+            {
+              "Name": "Homework Assignment 2"
+            },
+            {
+              "Name": "Homework Assignment 3"
+            },
+            {
+              "Name": "Homework Assignment 4"
+            },
+            {
+              "Name": "Homework Assignment 5"
+            },
+            {
+              "Name": "Homework Assignment 6"
+            },
+            {
+              "Name": "Homework Assignment 7"
+            },
+            {
+              "Name": "Homework Assignment 8"
+            },
+            {
+              "Name": "Homework Assignment 9"
+            },
+            {
+              "Name": "Homework Assignment 10"
+            },
+            {
+              "Name": "Homework Assignment 11"
+            }
+          ]
       },
       {
           "Name": "Examination",
@@ -15925,10 +16010,6 @@
           {
             "Name": "Assignment 5",
             "DueDate": "2024-10-17"
-          },
-          {
-            "Name": "Assignment 6",
-            "DueDate": "2024-11-08"
           }
         ]
       },
@@ -15939,12 +16020,10 @@
         "Equal": true,
         "Subitems": [
           {
-            "Name": "Semester Test 1",
-            "DueDateComment": "24 August 2024 - 31 August 2024"
+            "Name": "Semester Test 1"
           },
           {
-            "Name": "Semester Test 2",
-            "DueDateComment": "14 October 2024 - 19 October 2024"
+            "Name": "Semester Test 2"
           }
         ]
       },
@@ -21740,12 +21819,10 @@
         "Weight": 40,
         "Subitems": [
           {
-            "Name": "Semester Test 1",
-            "DueDateComment": "24 August 2024 - 31 August 2024"
+            "Name": "Semester Test 1"
           },
           {
-            "Name": "Semester Test 2",
-            "DueDateComment": "14-19 October 2024 - 26 October 2024"
+            "Name": "Semester Test 2"
           }
         ]
       },
@@ -29557,6 +29634,74 @@
     "Duration": "Semester",
     "Period": [
       2
+    ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 35,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Practicals",
+        "Type": "Practical",
+        "Weight": 7.5,
+        "Subitems": [
+          {
+            "Name": "Practical 1"
+          },
+          {
+            "Name": "Practical 2"
+          },
+          {
+            "Name": "Practical 3"
+          }
+        ]
+      },
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 7.5,
+        "Best": 6,
+        "Subitems": [
+          {
+            "Name": "Class Test 1"
+          },
+          {
+            "Name": "Class Test 2"
+          },
+          {
+            "Name": "Class Test 3"
+          },
+          {
+            "Name": "Class Test 4"
+          },
+          {
+            "Name": "Class Test 5"
+          },
+          {
+            "Name": "Class Test 6"
+          },
+          {
+            "Name": "Class Test 7"
+          },
+          {
+            "Name": "Class Test 8"
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
     ],
     "Description": "Analyse statically determinate structures to obtain section forces and moments and stress distributions. Axial \nloading, pure shear, torsion and bending. Stress and strain transformations. Derivation of stress transformation \nequations. Mohr’s circle. Failure criteria. Fatigue strength design. Introduction to code design, safety factors. All \nanalysis techniques are applied to the open-ended design of hoisting systems and ropes, symmetric beams, \nshafts, springs, bolts and welds.",
     "Institution": "University of Pretoria"
@@ -46604,6 +46749,28 @@
     "Period": [
       1
     ],
+    "Assessments": [
+      {
+        "Name": "Computer-Based Test",
+        "Type": "Test",
+        "Weight": 36
+      },
+      {
+        "Name": "Group Assignment",
+        "Type": "Assignment",
+        "Weight": 24
+      },
+      {
+        "Name": "Computer Based Examination",
+        "Type": "Exam",
+        "Weight": 32
+      },
+      {
+        "Name": "Individual Reflection Report",
+        "Type": "Assessment",
+        "Weight": 8
+      }
+    ],
     "Description": "Principles of project management. Communication principles. Leadership.  Health promotion and education,\nadvocacy and literacy. Counselling for health behaviour change. NB: Only for School of Healthcare Sciences and\nSpeech- Language Pathology and Audiology students.",
     "Institution": "University of Pretoria"
   },
@@ -55457,6 +55624,56 @@
     "Period": [
       1
     ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 25,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1",
+            "Weight": 10
+          },
+          {
+            "Name": "Semester Test 2",
+            "Weight": 15
+          }
+        ]
+      },
+      {
+        "Name": "Practical Spot Test",
+        "Type": "Test",
+        "Weight": 12.5
+      },
+      {
+        "Name": "Assignment",
+        "Type": "Assignment",
+        "Weight": 12.5,
+        "Subitems": [
+          {
+            "Name": "Assignment - Hardy weinberg",
+            "Weight": 4
+          },
+          {
+            "Name": "Assignment - Hominin watch",
+            "Weight": 2
+          },
+          {
+            "Name": "Assignment - Lonely fossils article",
+            "Weight": 4
+          },
+          {
+            "Name": "Assignment - Cranial morphology worksheet",
+            "Weight": 2.5
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Functional review of the cell and cell content. Normal and abnormal cell function in relation to structure. Control\nof the human cell, heredity and the human genome. Cell communication, growth and development, adhesion\nand division. Aspects of cellular research. Techniques on how to study cells. Medical cell and molecular biology\napplication.",
     "Institution": "University of Pretoria"
   },
@@ -55501,22 +55718,27 @@
       {
         "Name": "Semester Tests",
         "Type": "Test",
-        "Weight": 90,
+        "Weight": 45,
         "Subitems": [
           {
             "Name": "Semester Test 1",
-            "Weight": 40
+            "Weight": 20
           },
           {
             "Name": "Semester Test 2",
-            "Weight": 50
+            "Weight": 25
           }
         ]
       },
       {
-        "Name": "Practical Worksheets",
+        "Name": "Practical Worksheets/ClickUP Tests",
         "Type": "Practical",
-        "Weight": 10
+        "Weight": 5
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
       }
     ],
     "Description": "General introduction to organ structure.\nTerminology. The eye, ear, skin, circulatory system, nervous system, lymphoid system, gastrointestinal tract,\ngastrointestinal tract glands, respiratory system, urinary system, male and female reproductive systems,\nendocrine system.",
@@ -61135,6 +61357,39 @@
     "Period": [
       1
     ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 45,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Practicals",
+        "Type": "Practical",
+        "Weight": 5,
+        "Subitems": [
+          {
+            "Name": "Lung Function Practical"
+          },
+          {
+            "Name": "Urinalysis Practical"
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Structure, gas exchange and secretory functions of the lungs; structure, excretory and non-urinary functions of\nthe kidneys, acid-base balance, and skin and body temperature control. Practical work to complement the\ntheory.",
     "Institution": "University of Pretoria"
   },
@@ -65388,14 +65643,12 @@
         "Equal": false,
         "Subitems": [
           {
-            "Name": "Group presentations",
-            "Type": "Assignment 1",
-            "Weight": 10
+            "Name": "Assignment 2 - Group Presentations",
+            "Weight": 30
           },
           {
-            "Name": "Individual ClickUP submission",
-            "Type": "Assignment 2",
-            "Weight": 30
+            "Name": "Assignment 1 - Individual ClickUP",
+            "Weight": 10
           }
         ]
       }
@@ -66952,7 +67205,7 @@
       },
       {
         "Name": "Project presentation",
-        "Type": "presentation",
+        "Type": "Presentation",
         "Equal":false,
         "Weight": 20,
         "Subitems":[
@@ -67440,7 +67693,7 @@
       },
       {
         "Name": "Poster presentation",
-        "Type": "presentation",
+        "Type": "Presentation",
         "Weight": 12.5
       },
       {
@@ -67478,7 +67731,7 @@
       },
       {
         "Name": "Power point presentation",
-        "Type": "presentation",
+        "Type": "Presentation",
         "Weight": 12.5,
         "DueDate": "2024-10-17"
       },
@@ -68152,76 +68405,91 @@
       {
         "Name": "Assignments",
         "Type": "Assignment",
-        "Weight": 20,
+        "Weight": 10,
         "Subitems": [
           {
             "Name": "MOHO Individual Assignment",
             "DueDate": "2024-04-04",
-            "Weight": 3
+            "Weight": 1.5
           },
           {
             "Name": "MOHO Group Assignment",
             "DueDate": "2024-05-16",
-            "Weight": 2
+            "Weight": 1
           },
           {
             "Name": "VdTMoCA Assignment",
             "DueDate": "2024-05-06",
-            "Weight": 4
+            "Weight": 2
           },
           {
             "Name": "Work Individual Assignment",
             "DueDate": "2024-08-31",
-            "Weight": 4
+            "Weight": 2
           },
           {
             "Name": "PEOP Model Group Assignment",
             "DueDate": "2024-09-05",
-            "Weight": 3
+            "Weight": 1.5
           },
           {
             "Name": "Occupational Justice Group Assignment",
             "DueDate": "2024-10-01",
-            "Weight": 2
+            "Weight": 1
           },
           {
             "Name": "Ergonomics Work Assignment",
             "DueDate": "2024-10-14",
-            "Weight": 2
+            "Weight": 1
           }
         ]
       },
       {
         "Name": "OSPE",
         "Type": "Practical",
-        "Weight": 15,
+        "Weight": 7.5,
         "Subitems": [
           {
-            "Name": "OSPE 1",
+            "Name": "Practical Test 1 - OSPE",
             "DueDate": "2024-05-23",
-            "Weight": 7
+            "Weight": 3.5
           },
           {
-            "Name": "OSPE 2",
+            "Name": "Practical Test 2 - OSPE",
             "DueDate": "2024-10-29",
-            "Weight": 8
+            "Weight": 4
           }
         ]
       },
       {
         "Name": "Semester Tests",
         "Type": "Test",
-        "Weight": 65,
+        "Weight": 32.5,
         "Subitems": [
           {
             "Name": "Semester Test 1",
             "DueDate": "2024-05-30",
-            "Weight": 30
+            "Weight": 15
           },
           {
             "Name": "Semester Test 2",
             "DueDate": "2024-10-24",
-            "Weight": 35
+            "Weight": 17.5
+          }
+        ]
+      },
+      {
+        "Name": "Examinations",
+        "Type": "Exam",
+        "Weight": 50,
+        "Subitems": [
+          {
+            "Name": "Written Examination",
+            "Weight": 32.5
+          },
+          {
+            "Name": "All skills Labs - OSPE",
+            "Weight": 17.5
           }
         ]
       }
@@ -69610,6 +69878,54 @@
     "Period": [
       2
     ],
+    "Assessments": [
+      {
+        "Name": "Semester Test",
+        "Type": "Test",
+        "Weight": 21
+      },
+      {
+        "Name": "Assessment Activity Assignment",
+        "Type": "Assignment",
+        "Weight": 12
+      },
+      {
+        "Name": "Assessment Report",
+        "Type": "Assignment",
+        "Weight": 15
+      },
+      {
+        "Name": "Online Quizzes",
+        "Type": "Quiz",
+        "Weight": 6,
+        "Subitems": [
+          {
+            "Name": "Online Quiz 1"
+          },
+          {
+            "Name": "Online Quiz 2"
+          },
+          {
+            "Name": "Online Quiz 3"
+          }
+        ]
+      },
+      {
+        "Name": "Clinical Observation Demonstration",
+        "Type": "Assessment",
+        "Weight": 6
+      },
+      {
+        "Name": "Written Examination",
+        "Type": "Exam",
+        "Weight": 24
+      },
+      {
+        "Name": "Practical Examination",
+        "Type": "Exam",
+        "Weight": 16
+      }
+    ],
     "Description": "Sensory-motor disorders: The study of occupational therapy evaluation and intervention of sensory-motor\ndisorders in all age groups. Includes the pathology, causes, clinical picture and prognosis of selected disorders.",
     "Institution": "University of Pretoria"
   },
@@ -69685,6 +70001,43 @@
     "Duration": "Term",
     "Period": [
       3
+    ],
+    "Assessments": [
+      {
+        "Name": "Online Test 1",
+        "Type": "Test",
+        "Weight": 9
+      },
+      {
+        "Name": "Online Theory and Practical Video Test 2",
+        "Type": "Test",
+        "Weight": 24
+      },
+      {
+        "Name": "Assessment Report",
+        "Type": "Report",
+        "Weight": 12
+      },
+      {
+        "Name": "Authentic Assessment",
+        "Type": "Assessment",
+        "Weight": 9
+      },
+      {
+        "Name": "Computer Based MCQ Test",
+        "Type": "Quiz",
+        "Weight": 3
+      },
+      {
+        "Name": "Activity Analysis Peer Review Assignment",
+        "Type": "Assignment",
+        "Weight": 3
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
     ],
     "Description": "Mental health and cognition: The study of occupational therapy evaluation and intervention of psycho-social and\ncognitive disorders in all age groups. Includes the pathology, causes, clinical picture and prognosis of selected\ndisorders.",
     "Institution": "University of Pretoria"
@@ -69779,8 +70132,8 @@
         "Weight": 15
       },
       {
-        "Name": "Short Class Activities - Group",
-        "Type": "Coursework",
+        "Name": "Class Activities",
+        "Type": "Assessment",
         "Weight": 9
       },
       {
@@ -69880,31 +70233,36 @@
         "Name": "Semester Test",
         "Type": "Test",
         "DueDate": "2024-09-12",
-        "Weight": 35
+        "Weight": 21
       },
       {
         "Name": "Assessment Report",
         "Type": "Portfolio",
         "DueDate": "2024-10-07",
-        "Weight": 15
+        "Weight": 9
       },
       {
         "Name": "Fieldwork Practical Test",
         "Type": "Practical",
         "DueDate": "2024-11-08",
-        "Weight": 25
+        "Weight": 15
       },
       {
         "Name": "Group Presentation",
         "Type": "Presentation",
         "DueDate": "2024-10-21",
-        "Weight": 15
+        "Weight": 9
       },
       {
         "Name": "Quizzes",
         "Type": "Quiz",
         "DueDate": "2024-11-20",
-        "Weight": 10
+        "Weight": 6
+      },
+      {
+        "Name": "Written Examination",
+        "Type": "Exam",
+        "Weight": 40
       }
     ],
     "Description": "Biomechanics: The study of occupational therapy evaluation and intervention of the conditions of the\nmusculoskeletal system in all age groups. Includes the pathology, causes, clinical picture and prognosis of\nselected conditions.",
