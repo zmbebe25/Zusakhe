@@ -7797,6 +7797,34 @@
     "Code": "KOB184",
     "Credit": 5,
     "NQF": 5,
+    "Assessments": [
+      {
+        "Name": "Online Activities",
+        "Type": "Activities",
+        "Weight": 15
+      },
+      {
+        "Name": "Training Manual",
+        "Type": "Manual",
+        "Weight": 35
+      },
+      {
+        "Name": "Exam Assignment",
+        "Type": "Exam",
+        "DueDate": "2024-04-24",
+        "Weight": 50,
+        "Equal":true,
+        "Subitems":[
+          {
+            "Name": "Business Research Report"
+          },
+          {
+            "Name": "Digital Business Presentation"
+          }
+
+        ]
+      }
+    ],
     "Prerequisite": {
       "Comment": "Only one of KOB 181-184 may be taken as as a module where necessary for a programme"
     },
@@ -11403,7 +11431,7 @@
       {
         "Name": "Module Tests",
         "Type": "Test",
-        "Weight": 30,
+        "Weight": 60,
         "Subitems": [
           {
             "Name": "Module Test 1",
@@ -11418,7 +11446,7 @@
       {
         "Name": "Practical Assignments",
         "Type": "Practical",
-        "Weight": 10,
+        "Weight": 20,
         "Subitems": [
           {
             "Name": "Assignment 1"
@@ -11431,12 +11459,7 @@
       {
         "Name": "Quizzes",
         "Type": "Quiz",
-        "Weight": 10
-      },
-      {
-        "Name": "Examination",
-        "Type": "Exam",
-        "Weight": 50
+        "Weight": 20
       }
     ],
     "Description": "Inferential concepts. Experimental and observational data. Measures of association, uncertainty and goodness of\nfit. Sampling error and accuracy of estimation. Introduction to linear regression, reduction of variation due to\nregression. Conditional distributions of residuals.  Simulation based inference: conditional means and prediction\nintervals. Bivariate data visualisation. Supporting mathematical concepts. Statistical concepts are demonstrated\nand interpreted through practical coding and simulation within a data science framework.\nThis module is also presented as a summer school for students who initially elected and passed STK120 with a\nfinal mark of at least 60% and then decides to further their studies in statistics as well as for students who\nachieved a final mark of between 40% - 49% in STC122 during semester 2.",
@@ -12961,6 +12984,51 @@
     "Code": "WST133",
     "Credit": 8,
     "NQF": 5,
+    "Assessments": [
+      {
+          "Name": "Semester Tests",
+          "Type": "Test",
+          "Equal": true,
+          "Weight": 25,
+          "Subitems": [
+              {
+                "Name": "Semester Test 1",
+                "Weight": 12.5,
+                "DueDate": "2024-03-29"
+              },
+              {
+                "Name": "Semester Test 2",
+                "Weight": 12.5,
+                "DueDate": "2024-05-24"
+              }
+          ]
+      },
+      {
+          "Name": "Class Tests",
+          "Type": "Test",
+          "Weight": 5
+      },
+      {
+          "Name": "Practical Exam",
+          "Type": "Practical",
+          "Weight": 5
+      },
+      {
+          "Name": "Project Work",
+          "Type": "Project",
+          "Weight": 7.5
+      },
+      {
+          "Name": "Continuous Assessments",
+          "Type": "Assessment",
+          "Weight": 7.5
+      },
+      {
+          "Name": "Examination",
+          "Type": "Exam",
+          "Weight": 50
+      }
+  ],
     "Prerequisite": {
       "$and": [
         {
@@ -13029,7 +13097,7 @@
         {
             "Name": "Class Tests",
             "Type": "Test",
-            "Weight": 5
+            "Weight": 7.5
         },
         {
             "Name": "Practical Exam",
@@ -13039,12 +13107,12 @@
         {
             "Name": "Project Work",
             "Type": "Project",
-            "Weight": 5
+            "Weight": 7.5
         },
         {
             "Name": "Continuous Assessments",
             "Type": "Assessment",
-            "Weight": 10
+            "Weight": 5
         },
         {
             "Name": "Examination",
@@ -14072,6 +14140,31 @@
     "Code": "WTW135",
     "Credit": 16,
     "NQF": 5,
+    "Assessments":[
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Equal":true,
+        "Weight": "42",
+        "Subitems":[
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Tutorial tests, class work & worksheets",
+        "Type": "Activities",
+        "Weight": "18"
+      },
+      {
+        "Name": "Examination",
+        "Weight": "40"
+      }
+    ],
     "Prerequisite": {
       "$or": [
         {
@@ -21653,6 +21746,27 @@
     "Code": "ENV101",
     "Credit": 8,
     "NQF": 5,
+    "Assessments":[
+      {
+        "Name": "Class Test",
+        "Type": "Test",
+        "Weight": 12.5
+      },
+      {
+        "Name": "Semester Test",
+        "Type": "Test",
+        "Weight": 25
+      },
+      {
+        "Name": "Online Assessment",
+        "Type": "Assessment",
+        "Weight": 12.5
+      },
+      {
+        "Name": "Exam",
+        "Weight": 50
+      }
+    ],
     "Prerequisite": {
       "Comment": "No prerequisites"
     },
@@ -22930,6 +23044,27 @@
     "Code": "GGY156",
     "Credit": 8,
     "NQF": 5,
+    "Assessments":[
+      {
+        "Name": "Class Test",
+        "Type": "Test",
+        "Weight": 15
+      },
+      {
+        "Name": "Semester Test",
+        "Type": "Test",
+        "Weight": 20
+      },
+      {
+        "Name": "Group and Individual Assignment",
+        "Type": "Assignment",
+        "Weight": 15
+      },
+      {
+        "Name": "Exam",
+        "Weight": 50
+      }
+    ],
     "Prerequisite": {
       "Comment": "Max 600 students."
     },
@@ -23335,6 +23470,64 @@
     "Code": "GIS220",
     "Credit": 14,
     "NQF": 6,
+    "Assessments":[
+      {
+        "Name": "Semester Tests",
+        "Type": "Tests",
+        "Equal": true,
+        "Weight": 20,
+        "Subitems":[
+          {
+            "Name": "Test 1"
+          },
+          {
+            "Name": "Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Class Exercises",
+        "Type": "Exercise",
+        "Equal": true,
+        "Weight": 5,
+        "Subitems":[
+          {
+            "Name": "Exercise 1"
+          },
+          {
+            "Name": "Exercise 2"
+          }
+        ]
+      },
+      {
+        "Name": "Practials",
+        "Type": "Practical",
+        "Equal": true,
+        "Weight": 25,
+        "Subitems":[
+          {
+            "Name": "Project 1"
+          },
+          {
+            "Name": "Project 2"
+          },
+          {
+            "Name": "Project 3"
+          },
+          {
+            "Name": "Project 4"
+          },
+          {
+            "Name": "Project 5"
+          }
+        ] 
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Prerequisite": {
       "$and": [
         {
@@ -23549,6 +23742,37 @@
     "Code": "WKD254",
     "Credit": 12,
     "NQF": 6,
+    "Assessments":[
+      {
+        "Name": "Practical Tutorials / Quizzes / Tests /assignment",
+        "Type": "Test",
+        "Weight": 30
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 27,
+        "Equal":false,
+        "Subitems":[
+          {
+            "Name": "Test 1"
+          },
+          {
+            "Name": "Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Class Presentation",
+        "Type": "Presentation",
+        "Weight": 3
+      },
+      {
+        "Name": "Final Exam",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
     "Prerequisite": {
       "$and": [
         {
@@ -23673,7 +23897,7 @@
         "Name": "Class Tests",
         "Type": "Test",
         "Weight": 4,
-        "Best": 10,
+        "Best": 2,
         "Subitems": [
           {
             "Name": "Class Test 1"
@@ -54525,6 +54749,47 @@
     "Code": "ANA162",
     "Credit": 6,
     "NQF": 5,
+    "Assessments": [
+      {
+        "Name": "Clinical Anatomy CBTs",
+        "Type": "Test",
+        "Weight": 12,
+        "Eqaul": true,
+        "Subitems": [
+          {
+            "Name": "Clinical Anatomy CBT 1",
+            "DueDate": "2024-10-04"
+          },
+          {
+            "Name": "Clinical Anatomy CBT 2",
+            "DueDate": "2024-10-11"
+          },
+          {
+            "Name": "Clinical Anatomy CBT 3",
+            "DueDate": "2024-10-20"
+          },
+          {
+            "Name": "Clinical Anatomy CBT 4",
+            "DueDate": "2024-10-25"
+          }
+        ]
+      },
+      {
+        "Name": "Reflection",
+        "Weight": 2.5
+      },
+      {
+        "Name": "Module Test",
+        "Type": "Test",
+        "DueDate": "2024-08-29",
+        "Weight": 35.5
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Prerequisite": {
       "Comment": "No prerequisites"
     },
@@ -57213,6 +57478,60 @@
       "Comment": "No prerequisites"
     },
     "Duration": "Year",
+    "Assessments":[
+      {
+        "Name": "Patient Transfer Semester 1",
+        "Type": "Transfer",
+        "Weight": 10
+      },
+      {
+        "Name": "OSCE Semester 1",
+        "Type": "OSCE",
+        "Weight": 10
+      },
+      {
+        "Name": "Equipment simulation Semester 2",
+        "Type": "Simulation",
+        "Weight": 10
+      },
+      {
+        "Name": "CBT image evaluation Semester 2",
+        "Type": "Evaluation",
+        "Weight": 10
+      },
+      {
+        "Name": "Workbook Submission",
+        "Type": "Workbook",
+        "Weight": 5,
+        "Subitems":[
+          {
+            "Name": "Workbook Submission Semester 1"
+          },
+          {
+            "Name": "Workbook Submission Semester 2"
+          }
+        ]
+      },
+      {
+        "Name": "Logbook Submission",
+        "Type": "Logbook",
+        "Weight": 5,
+        "Subitems":[
+          {
+            "Name": "Logbook Submission Semester 1"
+          },
+          {
+            "Name": "Logbook Submission Semester 2"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Exam",
+        "Weight": 50
+      }
+
+    ],
     "Description": "Clinical practice to operationalise and integrate the fundamental theoretical components of the first year of\nstudies. Students will be involved in patient care and communication in diagnostic radiography, undertake\noperating of diagnostic radiography equipment, whilst practicing health and safety principles in the moving and\nhandling of patients. Students will be allocated to clinical training platforms where patient/public interactions,\nand interprofessional skills and behaviours are developed.\nThis module has 10% of the specified clinical training hours necessary to complete specified clinical\ncompetencies for the course in an HPCSA accredited facility. ",
     "Institution": "University of Pretoria"
   },
@@ -59899,6 +60218,46 @@
     "Code": "FSG162",
     "Credit": 6,
     "NQF": 5,
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 40,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Practials",
+        "Type": "Practical",
+        "Weight": 7.5,
+        "Subitems":[
+          {
+            "Name": "Haematology practical"
+          },
+          {
+            "Name": "Blood pressure practical"
+          },
+          {
+            "Name": "ECG practical"
+          }
+        ]
+      },
+      {
+        "Name": "Assignments",
+        "Type": "clickUP quizzes",
+        "Weight": 2.5
+      },
+      {
+        "Name": "Exam",
+        "Weight": 50
+      }
+    ],
     "Prerequisite": {
       "Comment": "No prerequisites"
     },
@@ -64068,6 +64427,31 @@
     "Code": "IHL112",
     "Credit": 6,
     "NQF": 5,
+    "Assessments":[
+      {
+        "Name": "Semester Test",
+        "Type": "Test",
+        "Weight": 60
+      },
+      {
+        "Name": "Assignments",
+        "Type": "Assignment",
+        "Weight": 40,
+        "Equal": false,
+        "Subitems": [
+          {
+            "Name": "Group presentations",
+            "Type": "Assignment 1",
+            "Weight": 10
+          },
+          {
+            "Name": "Individual ClickUP submission",
+            "Type": "Assignment 2",
+            "Weight": 30
+          }
+        ]
+      }
+    ],
     "Prerequisite": {
       "Comment": "No prerequisites"
     },
@@ -65489,6 +65873,34 @@
     "Code": "NPE110",
     "Credit": 12,
     "NQF": 5,
+    "Assessments":[
+      {
+        "Name": "Formative OSCE",
+        "Type": "OSCE",
+        "Weight": 30
+      },
+      {
+        "Name": "Project presentation",
+        "Type": "presentation",
+        "Equal":false,
+        "Weight": 20,
+        "Subitems":[
+          {
+            "Name": "Community health project",
+            "Type": 15
+          },
+          {
+            "Name": "School Health project",
+            "Type": 5
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Prerequisite": {
       "Comment": "No prerequisites"
     },
@@ -65504,6 +65916,23 @@
     "Code": "NPE120",
     "Credit": 12,
     "NQF": 5,
+    "Assessments":[
+      {
+        "Name": "Formative OSCE",
+        "Type": "OSCE",
+        "Weight": 35
+      },
+      {
+        "Name": "Formative assessment",
+        "Type": "assessment",
+        "Weight": 15
+      },
+      {
+        "Name": "Examination Papers",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Prerequisite": {
       "Comment": "No prerequisites"
     },
@@ -65932,6 +66361,28 @@
     "Code": "NUR110",
     "Credit": 5,
     "NQF": 5,
+    "Assessments":[
+      {
+        "Name": "Semester test",
+        "Type": "Test",
+        "Weight": 30
+      },
+      {
+        "Name": "Poster presentation",
+        "Type": "presentation",
+        "Weight": 12.5
+      },
+      {
+        "Name": "Click UP tests",
+        "Type": "Test",
+        "Weight": 7.5
+      },
+      {
+        "Name": "Examination Papers",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Prerequisite": {
       "Comment": "No prerequisites"
     },
@@ -65947,6 +66398,30 @@
     "Code": "NUR120",
     "Credit": 3,
     "NQF": 5,
+    "Assessments":[
+      {
+        "Name": "Semester test",
+        "Type": "Test",
+        "Weight": 35,
+        "DueDate": "2024-10-03"
+      },
+      {
+        "Name": "Power point presentation",
+        "Type": "presentation",
+        "Weight": 12.5,
+        "DueDate": "2024-10-17"
+      },
+      {
+        "Name": "Click UP tests",
+        "Type": "Test",
+        "Weight": 2.5
+      },
+      {
+        "Name": "Examination Papers",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Prerequisite": {
       "Comment": "No prerequisites"
     },
