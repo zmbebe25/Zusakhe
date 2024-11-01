@@ -59615,7 +59615,7 @@
       },
       {
         "Name": "clickUP Tests",
-        "Type": "Test",
+        "Type": "Quiz",
         "Weight": 6
       },
       {
@@ -65067,6 +65067,20 @@
     "Period": [
       2
     ],
+    "Assessments": [
+      {
+        "Name": "Semester Test",
+        "Type": "Test",
+        "DueDate": "2024-10-18",
+        "Weight": 60
+      },
+      {
+        "Name": "Quality Improvement Presentations Assignment",
+        "Type": "Assignment",
+        "DueDate": "2024-10-05",
+        "Weight": 40
+      }
+    ],
     "Description": "Introduction to nursing management with reference to mentoring and coaching of junior students in professional\nactivities, ethical-legal framework governing and disciplinary hearings at SANC, application of knowledge of\nintegrative healthcare, monitoring and evaluation of the quality improvement process, and principles of\npersonnel management.",
     "Institution": "University of Pretoria"
   },
@@ -65709,6 +65723,33 @@
     "Period": [
       1
     ],
+    "Assessments": [
+      {
+        "Name": "Assignments",
+        "Type": "Assignment",
+        "Weight": 20,
+        "Subitems": [
+          {
+            "Name": "Assignment 1",
+            "Weight": 10
+          },
+          {
+            "Name": "Assignment 2",
+            "Weight": 10
+          }
+        ]
+      },
+      {
+        "Name": "Semester Test",
+        "Type": "Test",
+        "Weight": 30
+      },
+      {
+        "Name": "Examination/Examination Assignment",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Theory of midwifery on pre-conception care, health education and genetic counselling, normal pregnancy, foetal\ndevelopment and common conditions in pregnancy.",
     "Institution": "University of Pretoria"
   },
@@ -65736,6 +65777,33 @@
     "Duration": "Semester",
     "Period": [
       1
+    ],
+    "Assessments": [
+      {
+        "Name": "Assignments",
+        "Type": "Assignment",
+        "Weight": 25,
+        "Subitems": [
+          {
+            "Name": "Assignment 1",
+            "Weight": 10
+          },
+          {
+            "Name": "Assignment 2",
+            "Weight": 15
+          }
+        ]
+      },
+      {
+        "Name": "Summative OSCE",
+        "Type": "Assessment",
+        "Weight": 25
+      },
+      {
+        "Name": "Examination/Examination Assignment",
+        "Type": "Exam",
+        "Weight": 50
+      }
     ],
     "Description": "Midwifery skills in practise in pre-conception care, health education and genetic counselling, normal pregnancy,\nwith common conditions in pregnancy, and related to foetal development.\n1 hour of the contact time will consist of clinical accompaniment by a lecturer/facilitator.",
     "Institution": "University of Pretoria"
@@ -65796,7 +65864,7 @@
                 "DueDate": "2024-10-16"
             },
             {
-                "Name": "Exam",
+                "Name": "Examination",
                 "Type": "Exam",
                 "Weight": 50
             }
@@ -66628,18 +66696,18 @@
           },
           {
               "Name": "Mind Map",
-              "Type": "Coursework",
+              "Type": "Assessment",
               "Weight": 10,
               "DueDate": "2024-04-12"
           },
           {
               "Name": "OSCE",
-              "Type": "Coursework",
+              "Type": "Assessment",
               "Weight": 20,
               "DueDate": "2024-04-26"
           },
           {
-              "Name": "Exam",
+              "Name": "Examination",
               "Type": "Exam",
               "Weight": 50
           }
@@ -67085,6 +67153,31 @@
     "Duration": "Semester",
     "Period": [
       2
+    ],
+    "Assessments": [
+      {
+        "Name": "Semester Test",
+        "Type": "Test",
+        "Weight": 30
+      },
+      {
+        "Name": "Assignments",
+        "Type": "Assignment",
+        "Weight": 20,
+        "Subitems": [
+          {
+            "Name": "Assignment 1 - Reflective Essay"
+          },
+          {
+            "Name": "Assignment 1 - Group Assignment"
+          }
+        ]
+      },
+      {
+        "Name": "Written Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
     ],
     "Description": "Theory of mental health nursing regarding childhood physical and mental disabilities, emergency psychiatric\nconditions, personal and social dynamics in violence, and personal and social dynamics in substance abuse.",
     "Institution": "University of Pretoria"
