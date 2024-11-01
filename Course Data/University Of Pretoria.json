@@ -4042,7 +4042,7 @@
     ],
     "Assessments": [
       {
-        "Name": "Group and Individual Assignment",
+        "Name": "Class Group Assignment",
         "Type": "Assignment",
         "DueDate": "2024-05-30",
         "Weight": 5
@@ -4054,19 +4054,17 @@
         "Subitems": [
           {
             "Name": "Semester Test 1",
-            "DueDate": "2024-04-27",
-            "Weight": 15
+            "DueDate": "2024-04-27"
           },
           {
             "Name": "Semester Test 2",
-            "DueDate": "2024-05-20",
-            "Weight": 20
+            "DueDate": "2024-05-20"
           }
         ]
       },
       {
-        "Name": "Tutorial Tests",
-        "Type": "Tutorial",
+        "Name": "Class Tests",
+        "Type": "Test",
         "DueDate": "2024-06-07",
         "Weight": 5
       },
@@ -7390,36 +7388,41 @@
       {
         "Name": "Assignments",
         "Type": "Assignment",
-        "Weight": 0,
+        "Weight": 12.5,
         "Subitems": [
           {
-            "Name": "Assignment 1"
+            "Name": "Assignment 1",
+            "Weight": 5
           },
           {
-            "Name": "Assignment 2"
+            "Name": "Assignment 2",
+            "Weight": 7.5
           }
         ]
       },
       {
         "Name": "Online Tests",
         "Type": "Test",
-        "Weight": 0,
+        "Weight": 20,
         "Subitems": [
           {
-            "Name": "Online Test 1"
+            "Name": "Online Test 1",
+            "Weight": 7.5
           },
           {
-            "Name": "Online Test 2"
+            "Name": "Online Test 2",
+            "Weight": 7.5
           },
           {
-            "Name": "Online Test 3"
+            "Name": "Online Test 3",
+            "Weight": 5
           }
         ]
       },
       {
         "Name": "Semester Test",
         "Type": "Test",
-        "Weight": 0
+        "Weight": 17.5
       },
       {
         "Name": "Examination",
@@ -23410,6 +23413,23 @@
     "Duration": "Semester",
     "Period": [
       1
+    ],
+    "Assessments": [
+      {
+        "Name": "Semester Test 1",
+        "Type": "Test",
+        "Weight": 25
+      },
+      {
+        "Name": "Assignment 1",
+        "Type": "Assignment",
+        "Weight": 25
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
     ],
     "Description": "Principles of illumination; illumination installations; lightning security; security systems; communication systems.\nMultimedia installations.",
     "Institution": "University of Pretoria"
