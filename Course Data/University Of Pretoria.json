@@ -4153,6 +4153,54 @@
     "Period": [
       2
     ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 40,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "clickUP Tests/Online Assignments",
+        "Type": "Quiz",
+        "Weight": 10,
+        "Subitems": [
+          {
+            "Name": "clickUP Quiz 1"
+          },
+          {
+            "Name": "clickUP Quiz 2"
+          },
+          {
+            "Name": "clickUP Quiz 3"
+          },
+          {
+            "Name": "clickUP Quiz 4"
+          },
+          {
+            "Name": "clickUP Quiz 5"
+          },
+          {
+            "Name": "clickUP Quiz 6"
+          },
+          {
+            "Name": "clickUP Quiz 7"
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "*Only for BCom (Financial Sciences, Investment Management and Law) students.\nThe purpose and functioning of management accounting, cost classification; the determination of product costs\nincluding raw material costs, labour costs, overheads and its allocation according to traditional and activity-\nbased costing methods, inventory management, the accumulation of costs according to job and process costing\nsystems, the treatment of joint and by-products and the determination of costs according to a direct and\nabsorption costing approach; decisionmaking with reference to cost-volume-profit ratios.",
     "Institution": "University of Pretoria"
   },
@@ -26409,9 +26457,18 @@
     ],
     "Assessments": [
       {
-        "Name": "Class Tests & Class Participation",
-        "Type": "Coursework",
-        "Weight": 3
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 3,
+        "Subitems": [
+          {"Name": "Class Test 1"},
+          {"Name": "Class Test 2"},
+          {"Name": "Class Test 3"},
+          {"Name": "Class Test 4"},
+          {"Name": "Class Test 5"},
+          {"Name": "Class Test 6"},
+          {"Name": "Class Test 7"}
+        ]
       },
       {
         "Name": "Assignments",
@@ -26419,10 +26476,19 @@
         "Weight": 21,
         "Subitems": [
           {
-            "Name": "Individual Assignments"
+            "Name": "Assignment 1"
           },
           {
-            "Name": "Group Assignments"
+            "Name": "Assignment 2"
+          },
+          {
+            "Name": "Assignment 3"
+          },
+          {
+            "Name": "Assignment 4"
+          },
+          {
+            "Name": "Assignment 5"
           }
         ]
       },
@@ -34616,24 +34682,29 @@
       {
         "Name": "Tests",
         "Type": "Test",
-        "Weight": 100,
+        "Weight": 50,
         "Subitems": [
           {
-            "Name": "Test 1",
+            "Name": "Written Test 1",
             "DueDate": "2024-08-19",
-            "Weight": 30
+            "Weight": 15
           },
           {
-            "Name": "Test 2",
+            "Name": "MCQ Test 2",
             "DueDate": "2024-09-02",
-            "Weight": 20
+            "Weight": 10
           },
           {
-            "Name": "Test 3",
+            "Name": "Written Test 3",
             "DueDate": "2024-10-02",
-            "Weight": 50
+            "Weight": 25
           }
         ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
       }
     ],
     "Description": "This module introduces the student to a basic knowledge and understanding of the biological basis of human\nbehaviour. The module addresses the key concepts and terminology related to the biological subsystem, the\nrules and principles guiding biological psychology, and identification of the interrelatedness of different\nbiological systems and subsystems. In this module various cognitive processes are studied, including perception,\nmemory, thinking, intelligence and creativity. Illustrations are given of various thinking processes, such as\nproblem solving, critical, analytic and integrative thinking.",
