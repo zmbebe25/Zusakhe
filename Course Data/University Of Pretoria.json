@@ -7059,7 +7059,62 @@
     "Prerequisite": {
       "Code": "PTO101"
     },
-    "Duration": "Semester",
+    "Duration": "Year",
+    "Assessments":[
+      {
+        "Name": "Attendance",
+        "Weight": 7,
+        "Equal": true,
+        "Subitems":[
+          {
+            "Name": "Semester 1 Attendande"
+          },
+          {
+            "Name": "Semester 2 Attendande"
+          }
+        ]
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Equal": true,
+        "Weight": 31.5,
+        "Subitems":[
+          {
+            "Name": "Semester 1 Test 1"
+          },
+          {
+            "Name": "Semester 1 Test 1"
+          },
+          {
+            "Name": "Semester 2 Test"
+          }
+        ]
+      },
+      {
+        "Name": "Class Tests (multiple)",
+        "Type": "Test",
+        "Equal": true,
+        "Weight": 21,
+        "Subitems":[
+          {
+            "Name": "Semester 1 Class Test"
+          },
+          {
+            "Name": "Semester 2 Class Test"
+          }
+        ]
+      },
+      {
+        "Name": "Semester Assignment",
+        "Type": "Assignment",
+        "Weight": 10.5
+      },
+      {
+        "Name": "Exam",
+        "Weight":30
+      }
+    ],
     "Period": [
       1
     ],
@@ -10489,6 +10544,63 @@
       "Comment": "No prerequisites"
     },
     "Duration": "Semester",
+    "Assessments":[
+      {
+        "Name": "Mindmap",
+        "Weight": 5,
+        "DueDate": "2024-03-17"
+      },
+      {
+        "Name": "Semester Quizzes",
+        "Type": "Quiz",
+        "Equal": true,
+        "Weight": 10,
+        "Subitems": [
+          {
+            "Name": "Quiz 1",
+            "DueDate": "2024-03-03"
+          },
+          {
+            "Name": "Quiz 2",
+            "DueDate": "2024-04-07"
+          },
+          {
+            "Name": "Quiz 3",
+            "DueDate": "2024-05-05"
+          },
+          {
+            "Name": "Quiz 4",
+            "DueDate": "2024-05-12"
+          },
+          {
+            "Name": "Quiz 5",
+            "DueDate": "2024-05-26"
+          }
+        ]
+      },
+      {
+        "Name": "Assignments",
+        "Type": "Assignment",
+        "Equal":false,
+        "Weight": 35,
+        "Subitems":[
+          {
+            "Name": "Individual Assignment",
+            "Weight": 35,
+            "DueDate": "2024-04-21"
+          },
+          {
+            "Name": "Group Assignment",
+            "Weight": 10,
+            "DueDate": "2024-05-21"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Weight": 50
+      }
+    ],
     "Period": [
       1
     ],
@@ -11010,6 +11122,53 @@
       "Comment": "No prerequisites"
     },
     "Duration": "Semester",
+    "Assessments":[
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Equal": true,
+        "Weight": 10,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1",
+            "DueDate": "2024-03-08"
+          },
+          {
+            "Name": "Semester Test 2",
+            "DueDate": "2024-03-18"
+          },
+          {
+            "Name": "Semester Test 3",
+            "DueDate": "2024-05-06"
+          },
+          {
+            "Name": "Semester Test 4",
+            "DueDate": "2024-05-13"
+          }
+        ]
+      },
+      {
+        "Name": "Semester Test 2",
+        "Type": "Semester Test",
+        "Equal":true,
+        "Weight": 40,
+        "Subitems":[
+          {
+            "Name": "Semester Test 1",
+            "DueDate": "2024-04-15"
+          },
+          {
+            "Name": "Semester Test 2",
+            "DueDate": "2024-05-20"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Weight": 50,
+        "Duedate": "2024-06-21"
+      }
+    ],
     "Period": [
       1
     ],
@@ -26929,6 +27088,89 @@
       "Comment": "No prerequisites"
     },
     "Duration": "Semester",
+    "Assessments":[
+      {
+        "Name": "Continuous Assessment (CASS)(AP)",
+        "Type": "Assessment",
+        "Weight": 21.82,
+        "Equal":true,
+        "Subitems":[
+          {
+            "Name": "Reflections"
+          },
+          {
+            "Name": "clickUP journal"
+          },
+          {
+            "Name": "Participation"
+          }
+        ]
+      },
+      {
+        "Name": "Continuous Assessment (CASS)(EWR)",
+        "Type": "Assessment",
+        "Equal": false,
+        "Weight": 18.18,
+        "Subitems":[
+          {
+            "Name": "BuildUP report content",
+            "Type": "Assignment",
+            "Weight": 9.09
+          },
+          {
+            "Name": "Analysis and Interpretation",
+            "Type": "clickUP Test",
+            "Weight": 3.64
+          },
+          {
+            "Name": "Analytical Discussion",
+            "Weight": 5.45
+          }
+        ]
+      },
+      {
+        "Name": "Contitnuous Assessments(CASS)(IT Practices)",
+        "Type": "Assessment",
+        "Equal":false,
+        "Weight": 19.99,
+        "Subitems":[
+          {
+            "Name": "BuildUP report formatting and additional information",
+            "Type": "BuildUP report",
+            "Weight": 5.45
+          },
+          {
+            "Name": "MS Access",
+            "Type": "clickUP Test",
+            "Weight": 3.64
+          },
+          {
+            "Name": "SAM MS Word and MS Excel projects",
+            "Type": "Project",
+            "Weight": 7.27
+          },
+          {
+            "Name": "SAM Training",
+            "Type": "Training",
+            "Weight": 3.64
+          }
+        ]
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Equal": true,
+        "Weight": 40,
+        "Subitems":[
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      }
+    ],
     "Period": [
       1
     ],
@@ -26944,6 +27186,44 @@
       "Comment": "No prerequisites"
     },
     "Duration": "Semester",
+    "Assessments": [
+      {
+        "Name": "Continuous Assessment",
+        "Type": "Assessment",
+        "Weight": 50,
+        "Equal":false,
+        "Subitems": [
+          {
+            "Name": "Assignments",
+            "Type": "Assignment",
+            "Weight": 5
+          },
+          {
+            "Name": "Quizzes",
+            "Type": "Quiz",
+            "Weight": 5
+          },
+          {
+            "Name": "Class Tests",
+            "Type": "Test",
+            "Weight": 40
+          }
+        ]
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 50,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      }
+    ],
     "Period": [
       1
     ],
@@ -27710,6 +27990,18 @@
       "Comment": "No prerequisites"
     },
     "Duration": "Semester",
+    "Assessments":[
+      {
+        "Name": "Semester Test",
+        "Type": "Test",
+        "Weight": 50,
+        "DueDate": "2024-04-04"
+      },
+      {
+        "Name": "Exam",
+        "Weight": 50
+      }
+    ],
     "Period": [
       1
     ],
@@ -33951,6 +34243,36 @@
       "Comment": "No prerequisites"
     },
     "Duration": "Semester",
+    "Assessments": [
+      {
+        "Name": "Assessments",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Equal":true,
+        "Subitems": [
+          {
+            "Name": "Assessment 1 Test 1",
+            "Type": "Test",
+            "DueDate": "2024-03-17"
+          },
+          {
+            "Name": "Assessment 2 Essay",
+            "Type": "Essay",
+            "DueDate": "2024-04-24"
+          },
+          {
+            "Name": "Assessment 3 Test 2",
+            "Type": "Test",
+            "DueDate": "2024-05-09"
+          },
+          {
+            "Name": "Assessment 4 Online Test",
+            "Type": "Test",
+            "DueDate": "2024-06-08"
+          }
+        ]
+      }
+    ],
     "Period": [
       1
     ],
@@ -54543,6 +54865,66 @@
       "Comment": "No prerequisites"
     },
     "Duration": "Year",
+    "Assessments":[
+      {
+        "Name": "Assignments",
+        "Type": "Assignment",
+        "Weight": 5
+      },
+      {
+        "Name": "Practical Tests",
+        "Type": "Test",
+        "Weight": 7.5
+      },
+      {
+        "Name": "Continuous evaluation mark",
+        "Weight": 7.5
+      },
+      {
+        "Name": "CBT Class Tests",
+        "Type": "Test",
+        "Weight": 12.5,
+        "Equal": true,
+        "Subitems":[
+          {
+            "Name": "CBT Class Tests 1",
+            "DueDate": "2024-04-26"
+          },
+          {
+            "Name": "CBT Class Tests 2",
+            "DueDate": "2024-05-22"
+          },
+          {
+            "Name": "CBT Class Tests 3",
+            "DueDate": "2024-09-06"
+          },
+          {
+            "Name": "CBT Class Tests 4",
+            "DueDate": "2024-10-25"
+          }
+        ]
+      },
+      {
+        "Name": "Tests",
+        "Type": "Test",
+        "Weight": 17.5,
+        "Equal":true,
+        "Subitems":[
+          {
+            "Name": "Tests 1",
+            "DueDate": "2024-09-06"
+          },
+          {
+            "Name": "Tests 2",
+            "DueDate": "2024-09-06"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "*Closed - requires departmental selection\nThis module serves as the foundation of the necessary knowledge required to understand human anatomy as\nwell as facilitate the students' understanding in future applied anatomy modules. This module covers the\nfollowing aspects of human anatomy: anatomical terminology, osteology, arthrology, the muscular system, the\nnervous system, the cardiovascular system and the respiratory system.",
     "Institution": "University of Pretoria"
   },
@@ -58770,6 +59152,47 @@
     "Credit": 12,
     "NQF": 5,
     "Duration": "Semester",
+    "Assessments":[
+      {
+        "Name": "Assignment",
+        "Type": "Assignment",
+        "Weight": 12.5
+      },
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 7.5,
+        "Equal": true,
+        "Subitems":[
+          {
+            "Name": "Class Tests 1",
+            "DueDate": "2024-04-26"
+          },
+          {
+            "Name": "Class Tests 2",
+            "DueDate": "2024-05-22"
+          }
+        ]
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 30,
+        "Equal":true,
+        "Subitems":[
+          {
+            "Name": "Tests 1"
+          },
+          {
+            "Name": "Tests 2"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Weight": 50
+      }
+    ],
     "Period": [
       2
     ],
@@ -58782,6 +59205,36 @@
     "Credit": 12,
     "NQF": 5,
     "Duration": "Semester",
+    "Assessments":[
+      {
+        "Name": "Group Assignment",
+        "Type": "Assignment",
+        "Weight": 7.5
+      },
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 7.5
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 35,
+        "Equal":true,
+        "Subitems":[
+          {
+            "Name": "Tests 1"
+          },
+          {
+            "Name": "Tests 2"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Weight": 50
+      }
+    ],
     "Period": [
       2
     ],
@@ -58794,6 +59247,40 @@
     "Credit": 12,
     "NQF": 5,
     "Duration": "Semester",
+    "Assessments":[
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 15,
+        "Equal":true,
+        "Subitems":[
+          {
+            "Name": "Tests 1"
+          },
+          {
+            "Name": "Tests 2"
+          }
+        ]
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 35,
+        "Equal":true,
+        "Subitems":[
+          {
+            "Name": "Tests 1"
+          },
+          {
+            "Name": "Tests 2"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Weight": 50
+      }
+    ],
     "Period": [
       2
     ],
@@ -69662,6 +70149,31 @@
     "Code": "PHY141",
     "Credit": 16,
     "NQF": 5,
+    "Assessments":[
+      {
+        "Name": "Revision tests",
+        "Type": "Test",
+        "Weight": 18
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 42,
+        "Equal":true,
+        "Subitems":[
+          {
+            "Name": "Test 1"
+          },
+          {
+            "Name": "Tests 2"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Weight": 40
+      }
+    ],
     "Prerequisite": {
       "$or": [
         {
@@ -69833,6 +70345,28 @@
     "Credit": 12,
     "NQF": 5,
     "Duration": "Year",
+    "Assessments":[
+      {
+        "Name": "Sport Practical Unit 1:Swimming",
+        "Type": "Practical",
+        "Weight": 24
+      },
+      {
+        "Name": "Sport Practical Unit 2:Athletics",
+        "Type": "Practical",
+        "Weight": 24
+      },
+      {
+        "Name": "Sport Practical Unit 3:Gymnasium",
+        "Type": "Practical",
+        "Weight": 24
+      },
+      {
+        "Name": "Sport Practical Unit 4:Netball",
+        "Type": "Practical",
+        "Weight": 24
+      }
+    ],
     "Description": "*Closed requires departmental selection.\nThis module will serve as the foundation for swimming, netball, athletics and gymnasium movement skill\nacquisition. The module serves as exposure to and experience in the movement skills practiced in swimming,\nnetball, athletics and gymnasium. This will aid the Sport Scientist and Biokineticist to better understand and\ncondition clients and patients practicing these sports.Sports-specific skills, team situation; rules and regulations,\nrefereeing; game analysis; coaching.",
     "Institution": "University of Pretoria"
   },
@@ -70735,6 +71269,40 @@
     "Credit": 20,
     "NQF": 5,
     "Duration": "Year",
+    "Assessments":[
+      {
+        "Name": "CBT",
+        "Weight": 7.5
+      },
+      {
+        "Name": "Block Tests",
+        "Type": "Test",
+        "Weight": 40,
+        "Subitems": [
+          {
+            "Name": "Block I"
+          },
+          {
+            "Name": "Block II"
+          },
+          {
+             "Name": "Block III"
+          },
+          {
+             "Name": "Block IV"
+          }
+        ]
+      },
+      {
+        "Name": "Practical participation (Assignments)",
+        "Type": "Assignment",
+        "Weight": 2.5
+      },
+      {
+         "Name": "Exam",
+         "Weight": 50
+      }
+    ],
     "Prerequisite": {
       "Comment": "No prerequisites"
     },
@@ -71337,6 +71905,55 @@
       "Comment": "No prerequisites"
     },
     "Duration": "Year",
+    "Assessments":[
+      {
+        "Name": "Continuous Assessment (tutorials, quizzes, class tests)",
+        "Type": "Assessment",
+        "Weight": 14.4,
+        "Subitems":[
+          {
+            "Name": "Continuous Assessment (tutorials, quizzes, class tests) Semester 1"
+          },
+          {
+            "Name": "Continuous Assessment (tutorials, quizzes, class tests) Semester 2"
+          }
+        ]
+      },
+      {
+        "Name": "Semester Test",
+        "Type": "Test",
+        "Weight": 32.4,
+        "Subitems":[
+          {
+            "Name": "Semester 1 Test 1",
+            "Weight": 7.2
+          },
+          {
+            "Name": "Semester 1 Test 2",
+            "Weight": 8.4
+          },
+          {
+            "Name": "Semester 2 Test 1",
+            "Weight": 8.4
+          },
+          {
+            "Name": "Semester 2 Test 2",
+            "Weight": 8.4
+          }
+        ]
+      },
+      {
+        "Name": "Mid-year Progress Test",
+        "Type": "Test",
+        "Weight": 13.2
+      },
+      
+      {
+        "Name": "Final Exam",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
     "Description": "Units:  standards, conversion, dimensional analysis.\nMechanics: simple harmonic motion, rotation, sound wave propagation. \nElectricity: electrostatics, electrodynamics. \nElectromagnetism: induction, alternating currents, safety. \nAtomic physics: atomic models and quantum phenomena, X-rays, particle-wave duality.",
     "Institution": "University of Pretoria"
   },
@@ -71402,6 +72019,85 @@
       "Comment": "No prerequisites"
     },
     "Duration": "Year",
+    "Assessments":[
+      {
+        "Name": "Continuous Assessment (tutorials, quizzes, class tests)",
+        "Type": "Assessment",
+        "Weight": 14.4,
+        "Subitems":[
+          {
+            "Name": "Continuous Assessment (tutorials, quizzes, class tests) Semester 1"
+          },
+          {
+            "Name": "Continuous Assessment (tutorials, quizzes, class tests) Semester 2"
+          }
+        ]
+      },
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 15,
+        "Subitems":[
+          {
+            "Name": "Class Test 1 Semester 1"
+          },
+          {
+            "Name": "Class Test 2 Semester 1"
+          },
+          {
+            "Name": "Class Test 1 Semester 2"
+          },
+          {
+            "Name": "Class Test 2 Semester 2"
+          }
+        ]
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 15,
+        "Subitems":[
+          {
+            "Name": "Semester 1 Test 1"
+          },
+          {
+            "Name": "Semester 2 Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Semester ClickUP Discussion Board",
+        "Type": "ClickUP Discussion Board",
+        "Weight": 10,
+        "Subitems":[
+          {
+            "Name": "Semester 1 ClickUP Discussion Board"
+          },
+          {
+            "Name": "Semester 2 ClickUP Discussion Board"
+          }
+        ]
+      },
+      {
+        "Name": "Semester Assignments",
+        "Type": "Assignment",
+        "Weight": 10,
+        "Subitems":[
+          {
+            "Name": "Semester 1 Assignment"
+          },
+          {
+            "Name": "Semester 2 Assignment"
+          }
+        ]
+      },
+      
+      {
+        "Name": "Final Exam",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Introduction: Discovery of x-rays, processing principles, handling of x-ray equipment. x-ray beam: production of\nx-rays, attenuation. \nProperties of  X Rays: importance and  influence of  Bremsstrahlung and Characteristic radiation on Imaging and\nDose,  Electron Energy, Target Material, Influence of Filtration. X-Ray Projection Imaging Concepts: Geometry,\nRadiographic Contrast, Scatter and Scatter Reduction (Control of scatter radiation: production of scatter, effect\nof scattered radiation on the image, beam restriction devices, grids and grid efficiency), Artefacts and Image\nDegradation.\nRadiographic Detectors: Intensifying Screen and Film (, cassettes, intensifying screens, efficiency of rare earth\nintensifying screens and x-ray film construction), Computed Radiography (CR), Direct Digital Radiography (DDR),\nIndirect Digital Radiography (IDR).\nPrinciples of conventional and digital radiography image optimisation Primary exposure factors: mAs, kVp and\nSID. AEC.(factor which influence the production and recording of images); Principles of technique charts\nConventional Image processing: darkrooms  Image Representations: Contrast, Spatial Resolution, Noise,\nTemporal Resolution, Sampling and Quantization \nIntroduction to quality assurance in radiographic imaging. Introduction to radiation protection for patient,\npersonnel and public- radiation units, detection and measurement, radiation dose equipment and area survey.\nRegulations and operation of radiation equipment. Introduction to digital imaging system.",
     "Institution": "University of Pretoria"
   },
