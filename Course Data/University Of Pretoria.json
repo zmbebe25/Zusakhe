@@ -59151,6 +59151,104 @@
     "Period": [
       2
     ],
+    "Assessments": [
+      {
+        "Name": "Semester Test 1",
+        "Type": "Test",
+        "Weight": 30
+      },
+      {
+        "Name": "Group Assessments",
+        "Type": "Assignment",
+        "Weight": 6,
+        "Subitems": [
+          {
+            "Name": "Written Assignment Unit 7"
+          },
+          {
+            "Name": "Written Assignment Unit 10"
+          }
+        ]
+      },
+      {
+        "Name": "Group Assessments",
+        "Type": "Presentation",
+        "Weight": 9,
+        "Subitems": [
+          {
+            "Name": "Group Presentation 6"
+          },
+          {
+            "Name": "Group Presentation 7"
+          },
+          {
+            "Name": "Group Presentation 8"
+          },
+          {
+            "Name": "Group Presentation 9"
+          }
+        ]
+      },
+      {
+        "Name": "clickUP Tests",
+        "Type": "Quiz",
+        "Weight": 3,
+        "Subitems": [
+          {
+            "Name": "clickUP Test Unit 1",
+            "Weight": 2.4
+          },
+          {
+            "Name": "clickUP Test Unit 5",
+            "Weight": 0.6
+          }
+        ]
+      },
+      {
+        "Name": "Online Courses",
+        "Type": "Assessment",
+        "Weight": 8.4,
+        "Subitems": [
+          {
+            "Name": "Online Course Unit 2",
+            "Weight": 4.2
+          },
+          {
+            "Name": "Online Course Unit 5",
+            "Weight": 1.2
+          },
+          {
+            "Name": "Online Course 10",
+            "Weight": 3
+          }
+        ]
+      },
+      {
+        "Name": "Reflection",
+        "Type": "Assessment",
+        "Weight": 1.2
+      },
+      {
+        "Name": "Discussion Board",
+        "Type": "Assessment",
+        "Weight": 1.2
+      },
+      {
+        "Name": "Class Participation",
+        "Type": "Participation",
+        "Weight": 0.6
+      },
+      {
+        "Name": "Class Attendance",
+        "Type": "Attendance",
+        "Weight": 0.6
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
     "Description": "Community nutrition practice within the larger public health realm. Nutrition within primary healthcare. Nutrition\nand community development as well as project planning and management.",
     "Institution": "University of Pretoria"
   },
@@ -59787,19 +59885,45 @@
     ],
     "Assessments": [
       {
-        "Name": "",
-        "Type": "",
-        "Weight": 0
+        "Name": "MCQ Tests",
+        "Type": "Quiz",
+        "Weight": 5,
+        "Subitems": [
+          {
+            "Name": "MCQ Test 1"
+          },
+          {
+            "Name": "MCQ Test 2"
+          }
+        ]
       },
       {
-        "Name": "",
-        "Type": "",
-        "Weight": 0
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 12,
+        "Subitems": [
+          {
+            "Name": "Individual Assignment 1",
+            "Weight": 3.33
+          },
+          {
+            "Name": "Individual Assignment 2",
+            "Weight": 2
+          },
+          {
+            "Name": "Individual Assignment 3",
+            "Weight": 3.33
+          },
+          {
+            "Name": "Individual Assignment 4",
+            "Weight": 3.34
+          }
+        ]
       },
       {
         "Name": "Semester Tests",
         "Type": "Test",
-        "Weight": 200,
+        "Weight": 33,
         "Subitems": [
           {
             "Name": "Semester Test 1"
