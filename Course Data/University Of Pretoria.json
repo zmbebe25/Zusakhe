@@ -59785,6 +59785,36 @@
     "Period": [
       1
     ],
+    "Assessments": [
+      {
+        "Name": "",
+        "Type": "",
+        "Weight": 0
+      },
+      {
+        "Name": "",
+        "Type": "",
+        "Weight": 0
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 200,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Theory of counselling. Interviewing: Interview; the consultation process; verbal, written and non-verbal\ncommunication to clients, patients, employees as individuals or groups in different stages of the life cycle in\nhealth and disease in homogenic and trans/multi-cultural situations by means of applicable theoretical\nframeworks.",
     "Institution": "University of Pretoria"
   },
@@ -59799,6 +59829,23 @@
     "Duration": "Semester",
     "Period": [
       2
+    ],
+    "Assessments": [
+      {
+        "Name": "Case Presentation",
+        "Type": "Presentation",
+        "Weight": 18
+      },
+      {
+        "Name": "Consultation",
+        "Type": "Assessment",
+        "Weight": 42
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
     ],
     "Description": "Practice training: Management of a dietetics clinic. Practising the consultation process and practice management\nin a dietetics clinic.",
     "Institution": "University of Pretoria"
@@ -67475,6 +67522,68 @@
     "Period": [
       1
     ],
+    "Assessments": [
+      {
+        "Name": "clickUp Tests",
+        "Type": "Test",
+        "Weight": 3.5,
+        "Subitems": [
+          {
+            "Name": "Study Guide clickUP Test",
+            "Weight": 0.5
+          },
+          {
+            "Name": "Prepare for Unit 1",
+            "Weight": 1
+          },
+          {
+            "Name": "Prepare for Unit 2",
+            "Weight": 1
+          },
+          {
+            "Name": "Prepare for Unit 3",
+            "Weight": 1
+          }
+        ]
+      },
+      {
+        "Name": "Assignments",
+        "Type": "Assignment",
+        "Weight": 16.5,
+        "Subitems": [
+          {
+            "Name" :"Assignment 1",
+            "Weight": 6.75
+          },
+          {
+            "Name": "Assignment 2",
+            "Weight": 3
+          },
+          {
+            "Name": "Assignment 3",
+            "Weight": 6.75
+          }
+        ]
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 30,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Aetiology and clinical manifestations of under- and over-nutrition/PEM; principles and practices of medical\nnutrition therapy in under-nutrition/PEM; impact and influence of worm infestation. Relationship between\nmalnutrition and AIDS; role of nutrition in immunity within the context of HIV/AIDS; clinical signs, symptoms and\nproblems associated with HIV/AIDS and guidelines for the alleviation of these symptoms; nutritional related\nproblems of medication used by HIV/AIDS patients. Metabolic response to acute and chronic stress. Principles of\nspecial nutritional care, special feeding methods and products required for injured/critically ill patients.\nAppropriate practical assignments and case studies.",
     "Institution": "University of Pretoria"
   },
@@ -67547,30 +67656,45 @@
       {
         "Name": "Individual Assignments",
         "Type": "Assignment",
-        "Weight": 8,
+        "Weight": 4.8,
         "Subitems": [
           {
-            "Name": "",
-            "Weight": 2
+            "Name": "DM visual aid"
           },
           {
-            "Name": "",
-            "Weight": 2
+            "Name": "Adult product file"
           },
           {
-            "Name": "",
-            "Weight": 2
+            "Name": "CVD visual aid"
           },
           {
-            "Name": "",
-            "Weight": 2
+            "Name": "Renal visual aid"
+          }
+        ]
+      },
+      {
+        "Name": "Individual Assignment Practicals",
+        "Type": "Practical",
+        "Weight": 4.2,
+        "Subitems": [
+          {
+            "Name": "Practical NCR 1"
+          },
+          {
+            "Name": "Practical NCR 2"
+          },
+          {
+            "Name": "Practical NCR 3"
+          },
+          {
+            "Name": "Practical NCR 4"
           }
         ]
       },
       {
         "Name": "Group Assignments",
         "Type": "Assignment",
-        "Weight": 4,
+        "Weight": 2.4,
         "Subitems": [
           {
             "Name": "Group Assignment 1"
@@ -67583,7 +67707,7 @@
       {
         "Name": "clickUP Tests",
         "Type": "Quiz",
-        "Weight": 6,
+        "Weight": 3.6,
         "Subitems": [
           {
             "Name": "Study Guide Test"
@@ -67608,12 +67732,12 @@
       {
         "Name": "Practical Exam",
         "Type": "Practical",
-        "Weight": 15
+        "Weight": 9
       },
       {
         "Name": "Semester Tests",
         "Type": "Test",
-        "Weight": 60,
+        "Weight": 36,
         "Subitems": [
           {
             "Name": "Semester Test 1"
