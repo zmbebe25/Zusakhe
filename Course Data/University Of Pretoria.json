@@ -518,18 +518,15 @@
       {
         "Name": "Tests",
         "Type": "Test",
-        "Weight": 75,
-        "Equal": true,
+        "Weight": 37.5,
         "Subitems": [
           {
-            "Name": "Test 1",
-            "DueDate": "2024-04-04",
-            "Weight": 37.5
+            "Name": "Semester Test 1",
+            "DueDate": "2024-04-04"
           },
           {
-            "Name": "Test 2 (Exam)",
-            "DueDate": "2024-05-16",
-            "Weight": 37.5
+            "Name": "Semester Test 2",
+            "DueDate": "2024-05-16"
           }
         ]
       },
@@ -537,12 +534,17 @@
         "Name": "Revision Test",
         "Type": "Test",
         "DueDate": "2024-03-08",
-        "Weight": 10
+        "Weight": 5
       },
       {
-        "Name": "Formative Assessments",
+        "Name": "Continuous Assessments",
         "Type": "Coursework",
-        "Weight": 15
+        "Weight": 7.5
+      },
+      {
+        "Name": "Examinaion",
+        "Type": "Exam",
+        "Weight": 50
       }
     ],
     "Description": "BAC310 primarily focuses on company financial statements and the outcome of BAC310 is:\nTo use a conceptual understanding of comprehensive and integrated foundational knowledge of International\nFinancial Reporting Standards (IFRS), basic foundational knowledge of IFRS for small and medium-sized\nenterprises (IFRS for SMEs) and basic foundational knowledge of Generally Recognised Accounting Practice\n(GRAP), in order to proficiently prepare, present and interpret company financial statements in an unfamiliar\nbusiness context and to propose appropriate solutions with compelling justification to solve financial problems in\nan ethical manner.",
@@ -7493,22 +7495,21 @@
       {
         "Name": "Year tests",
         "Type": "Test",
-        "Equal": false,
-        "Weight": 70,
+        "Weight": 35,
         "Subitems": [
             {
               "Name": "Year test 1",
-              "Weight": 20,
+              "Weight": 10,
               "DueDate": "2024-04-26"
             },
             {
               "Name": "Year test 2",
-              "Weight": 25,
+              "Weight": 12.5,
               "DueDate": "2024-05-30"
             },
             {
               "Name": "Year test 3",
-              "Weight": 25,
+              "Weight": 12.5,
               "DueDate": "2024-10-14"
             }
         ]
@@ -7516,7 +7517,7 @@
     {
         "Name": "Class Tests",
         "Type": "Quiz",
-        "Weight": 15,
+        "Weight": 7.5,
         "Best": 3,
         "Subitems": [
           {
@@ -7536,7 +7537,12 @@
     {
         "Name": "Equity Assignment",
         "Type": "Assignment",
-        "Weight": 15
+        "Weight": 7.5
+    },
+    {
+      "Name": "Examination",
+      "Type": "Exam",
+      "Weight": 50
     }
   ]
   },
@@ -8408,9 +8414,7 @@
       {
           "Name": "Semester Tests",
           "Type": "Test",
-          "Equal": true,
           "Weight": 40,
-          "Best": 2,
           "Subitems": [
               {
                 "Name": "Semester Test 1",
@@ -8419,19 +8423,13 @@
               {
                 "Name": "Semester Test 2",
                 "DueDate": "2024-05-06"
-              },
-              {
-                "Name": "Semester Test 3",
-                "DueDate": "2024-06-03"
               }
           ]
       },
       {
         "Name": "Assignments",
         "Type": "Assignment",
-        "Equal": true,
         "Weight": 10,
-        "Best": 10,
         "Subitems": [
             {
               "Name": "Assignment 1"
@@ -8462,9 +8460,6 @@
             },
             {
               "Name": "Assignment 10"
-            },
-            {
-              "Name": "Assignment 11"
             }
         ]
     },
@@ -8821,40 +8816,51 @@
         "Mark": 50
       }
     ],
-    "Assessments":[
-                    {
-                    "Name": "Semester Tests",
-                    "Type": "Test",
-                    "Equal": true,
-                    "Weight": 40,
-                    "Subitems": [
-                        {
-                          "Name": "Semester Test 1"
-                        },
-                        {
-                          "Name": "Semester Test 2"
-                        }
-                    ]
-                },
-                {
-                    "Name": "Assignments and Quizes",
-                    "Type": "Quiz",
-                    "Weight": 10,
-                    "Subitems": [
-                      {
-                        "Name": "Assignments"
-                      },
-                      {
-                        "Name": "Quizzes"
-                      }
-                    ]
-                },
-                {
-                    "Name": "Examination",
-                    "Type": "Exam",
-                    "Weight": 50
-                }
-            ]
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Equal": true,
+        "Weight": 30,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          },
+          {
+            "Name":"Semester Test 3"
+          }
+        ]
+      },
+      {
+        "Name": "Assignments and Quizes",
+        "Type": "Quiz",
+        "Weight": 12.5,
+        "Subitems": [
+          {
+            "Name": "Assignment 1: Creating a Unique Consumer Persona"
+          },
+          {
+            "Name": "Consumer Prefences"
+          },
+          {
+            "Name": "Assignment 3"
+          }
+        ]
+      },
+      {
+        "Name": "Marketing Assignment",
+        "Type": "Assignment",
+        "Weight": 7.5
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ]
   },
   {
     "Name": "Agricultural economics 310",
@@ -12629,6 +12635,7 @@
         "Name": "Practical Assignments",
         "Type": "Assignment",
         "Weight": 20,
+        "Best": 3,
         "Subitems": [
           {
             "Name": "Practical Assignment 1",
@@ -12652,6 +12659,7 @@
         "Name": "Quizzes",
         "Type": "Quiz",
         "Weight": 20,
+        "Best": 3,
         "Subitems": [
           {
             "Name": "Quiz 1",
@@ -28608,10 +28616,50 @@
     ],
     "Assessments": [
       {
-        "Name": "Practicals",
+        "Name": "Pre-lab Tests",
+        "Type": "Test",
+        "Weight": 5,
+        "Subitems": [
+          {
+            "Name": "Pre-lab Test 1"
+          },
+          {
+            "Name": "Pre-lab Test 2"
+          },
+          {
+            "Name": "Pre-lab Test 3"
+          },
+          {
+            "Name": "Pre-lab Test 4"
+          },
+          {
+            "Name": "Pre-lab Test 5"
+          }
+        ]
+      },
+      {
+        "Name": "Practical Reports",
+        "Type": "Report",
+        "Weight": 5,
+        "Subitems": [
+          {
+            "Name": "Practical Report 1"
+          },
+          {
+            "Name": "Practical Report 2"
+          },
+          {
+            "Name": "Practical Report 3"
+          },
+          {
+            "Name": "Practical Report 4"
+          }
+        ]
+      },
+      {
+        "Name": "Practical Exam",
         "Type": "Practical",
-        "DueDate": "2024-09-24",
-        "Weight": 15
+        "Weight": 5
       },
       {
         "Name": "Class Tests",
@@ -57232,7 +57280,7 @@
       {
         "Name": "Semester Tests",
         "Type": "Test",
-        "Weight": 56,
+        "Weight": 28,
         "Subitems": [
           {
             "Name": "Semester Test 1",
@@ -57247,7 +57295,7 @@
       {
         "Name": "Achieve Themes",
         "Type": "Quiz",
-        "Weight": 12,
+        "Weight": 6,
         "Subitems": [
           {
             "Name": "Achieve Theme 1",
@@ -57270,7 +57318,7 @@
       {
         "Name": "Reading Quiz",
         "Type": "Quiz",
-        "Weight": 2,
+        "Weight": 1,
         "Subitems": [
           {
             "Name": "Reading Quiz 1",
@@ -57301,7 +57349,7 @@
       {
         "Name": "Practicals",
         "Type": "Practical",
-        "Weight": 30,
+        "Weight": 15,
         "Subitems": [
           {
             "Name": "Practical 1",
@@ -57332,6 +57380,11 @@
             "DueDate": "2024-10-27"
           }
         ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
       }
     ],
     "Description": "Biochemistry of lipids, membrane structure, anabolism and catabolism of lipids.  Total ATP yield from the\ncomplete catabolism of lipids. Electron transport chain and energy production through oxidative\nphosphorylation. Nitrogen metabolism, amino acid biosynthesis and catabolism. Biosynthesis of\nneurotransmitters, pigments, hormones and nucleotides from amino acids. Catabolism of purines and\npyrimidines. Therapeutic agents directed against nucleotide metabolism. Examples of inborn errors of\nmetabolism of nitrogen containing compounds. The urea cycle, nitrogen excretion. Online activities include\ntraining in scientific reading skills; evaluation of a scientific report; techniques for separation analysis and\nvisualisation of biological molecules; hypothesis design and testing, method design and scientific controls.",
@@ -57348,6 +57401,37 @@
     "Duration": "Semester",
     "Period": [
       1
+    ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 35,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Written Test",
+        "Type": "Test",
+        "Weight": 10
+      },
+      {
+        "Name": "Portfolio 1",
+        "Type": "Practical",
+        "Weight": 5
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+
     ],
     "Description": "*Closed requires departmental selection\nThe module focuses on the practical application of the fundamental concepts related to exercise as well as\nprinciples for exercise programme design.",
     "Institution": "University of Pretoria"
@@ -57378,6 +57462,57 @@
     "Duration": "Semester",
     "Period": [
       2
+    ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 30,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 20,
+        "Subitems": [
+          {
+            "Name": "Class Test 1"
+          },
+          {
+            "Name": "Class Test 2"
+          },
+          {
+            "Name": "Class Test 3"
+          },
+          {
+            "Name": "Class Test 4"
+          },
+          {
+            "Name": "Class Test 5"
+          },
+          {
+            "Name": "Class Test 6"
+          },
+          {
+            "Name": "Class Test 7"
+          },
+          {
+            "Name": "Class Test 8"
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
     ],
     "Description": "*Closed requires departmental selection\nThis unit involves the application of biomechanical principles to analyse human motion using various\nbiomechanical methods.  Students will learn to collect and analyse two-dimensional video and force platform\ndata, with a focus on gait analysis and exercise training techniques.",
     "Institution": "University of Pretoria"
@@ -59929,6 +60064,68 @@
       "Code": "EXE111"
     },
     "Duration": "Year",
+    "Assessments": [
+      {
+        "Name": "Themed Assignments",
+        "Type": "Assignment",
+        "Weight": 2.5,
+        "Subitems": [
+          {
+            "Name": "Themed Assignment 1"
+          },
+          {
+            "Name": "Themed Assignment 2"
+          }
+        ]
+      },
+      {
+        "Name": "Assignments",
+        "Type": "Assignment",
+        "Weight": 35,
+        "Subitems": [
+          {
+            "Name": "Protocol Development Assignment"
+          },
+          {
+            "Name": "Scoping Review Assignment"
+          }
+        ]
+      },
+      {
+        "Name": "Unscheduled Class Assessments",
+        "Type": "Test",
+        "Weight": 5,
+        "Subitems": [
+          {
+            "Name": "Unscheduled Assessment 1"
+          },
+          {
+            "Name": "Unscheduled Assessment 2"
+          }
+        ]
+      },
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 7.5,
+        "Subitems": [
+          {
+            "Name": "Class Test 1"
+          },
+          {
+            "Name": "Class Test 2"
+          },
+          {
+            "Name": "Statistics Assignment"
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "*Closed requires departmental selection\nIn this module the focus will be on fundamental quantitative or experimental research methodology, and\nstatistics. The student will have the opportunity to demonstrate an understanding of the module through the\nmedium of a written theoretical examination and a research proposal.",
     "Institution": "University of Pretoria"
   },
@@ -59943,6 +60140,39 @@
     "Duration": "Semester",
     "Period": [
       1
+    ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 35,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 15,
+        "Subitems": [
+          {
+            "Name": "Class Test 1"
+          },
+          {
+            "Name": "Class Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
     ],
     "Description": "*Closed requires departmental selection\nTheoretical knowledge will be gained in the understanding of region specific sport injuries. This includes the\nmechanism of injury, type of injury, assessment and management of the sport injury.",
     "Institution": "University of Pretoria"
@@ -60726,10 +60956,12 @@
         "Weight": 22.5,
         "Subitems": [
           {
-            "Name": "Semester Test 1"
+            "Name": "Semester Test 1",
+            "DueDate": "2024-04-04"
           },
           {
-            "Name": "Semester Test 2"
+            "Name": "Semester Test 2",
+            "DueDate": "2024-05-09"
           }
         ]
       },
@@ -60739,34 +60971,34 @@
         "Weight": 20,
         "Subitems": [
           {
-            "Name": "Practical 1"
+            "Name": "Practical Report 1"
           },
           {
-            "Name": "Practical 2"
+            "Name": "Practical Report 2"
           },
           {
-            "Name": "Practical 3"
+            "Name": "Practical Report 3"
           },
           {
-            "Name": "Practical 4"
+            "Name": "Practical Report 4"
           },
           {
-            "Name": "Practical 5"
+            "Name": "Practical Report 5"
           },
           {
-            "Name": "Practical 6"
+            "Name": "Practical Report 6"
           },
           {
-            "Name": "Practical 7"
+            "Name": "Practical Report 7"
           },
           {
-            "Name": "Practical 8"
+            "Name": "Practical Report 8"
           },
           {
-            "Name": "Practical 9"
+            "Name": "Practical Report 9"
           },
           {
-            "Name": "Practical 10"
+            "Name": "Practical Report 10"
           }
         ]
       },
@@ -60776,10 +61008,12 @@
         "Weight": 5,
         "Subitems": [
           {
-            "Name": "Assignment 1"
+            "Name": "Assignment 1",
+            "DueDate": "2024-04-23"
           },
           {
-            "Name": "Assignment 2"
+            "Name": "Assignment 2",
+            "DueDate": "2024-05-23"
           }
         ]
       },
@@ -60829,6 +61063,41 @@
       ]
     },
     "Duration": "Year",
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 22.5,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Practicals",
+        "Type": "Practical",
+        "Weight": 20
+      },
+      {
+        "Name": "Assignments",
+        "Type": "Assignment",
+        "Weight": 5
+      },
+      {
+        "Name": "Quizzes",
+        "Type": "Quiz",
+        "Weight": 2.5
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Lectures: Food preservation technologies: concept of hurdle technology; heat (blanching, pasteurisation and\nsterilisation); cold (refrigeration and freezing); concentration and dehydration; food irradiation; fermentation;\npreservatives; new methods of food preservation. Effect of various food preservation technologies on the\nmicrobiological (shelf-life and safety issues), sensory and nutritional quality of foods. Practicals: Practical\napplications of above processes. Physical, chemical and sensory evaluation of processed foods. Assignment:\nApplication of hurdle technology concept to a specific food product. ",
     "Institution": "University of Pretoria"
   },
@@ -66281,6 +66550,31 @@
     "Period": [
       1
     ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 40,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Assignment 1",
+        "Type": "Assignment",
+        "Weight": 10
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "*Closed requires departmental selection\nIn this module students will form an understanding of the multi-dimensional nature of sport psychology, with\nspecific reference to Performance Termination (PT), Performance Dysfunction (PDy), Performance Impairment\n(PI) and Performance Development (PD) as portrayed in the Multi-Level Classification System for Sport\nPsychology (MCS-SP). Through studying the MCS-SP students will understand the role of sport psychologists in\nthe sport context, how sport psychology focuses on the psychological well-being of athletes within sport\norganizations, as well as the psychological aspects that contribute to excellence in sport performance.",
     "Institution": "University of Pretoria"
   },
@@ -67249,6 +67543,103 @@
     "Period": [
       2
     ],
+    "Assessments": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 8,
+        "Subitems": [
+          {
+            "Name": "",
+            "Weight": 2
+          },
+          {
+            "Name": "",
+            "Weight": 2
+          },
+          {
+            "Name": "",
+            "Weight": 2
+          },
+          {
+            "Name": "",
+            "Weight": 2
+          }
+        ]
+      },
+      {
+        "Name": "Group Assignments",
+        "Type": "Assignment",
+        "Weight": 4,
+        "Subitems": [
+          {
+            "Name": "Group Assignment 1"
+          },
+          {
+            "Name": "Group Assignment 2"
+          }
+        ]
+      },
+      {
+        "Name": "clickUP Tests",
+        "Type": "Quiz",
+        "Weight": 6,
+        "Subitems": [
+          {
+            "Name": "Study Guide Test"
+          },
+          {
+            "Name": "Continuous tests for unit 1"
+          },
+          {
+            "Name": "Continuous tests for unit 2"
+          },
+          {
+            "Name": "Continuous tests for unit 3"
+          },
+          {
+            "Name": "Continuous tests for unit 4"
+          },
+          {
+            "Name": "Continuous tests for unit 5"
+          }
+        ]
+      },
+      {
+        "Name": "Practical Exam",
+        "Type": "Practical",
+        "Weight": 15
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 60,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40,
+        "Subitems": [
+          {
+            "Name": "Written Paper",
+            "Weight": 30
+          },
+          {
+            "Name": "Case Scenario Assignment",
+            "Weight": 10
+          }
+        ]
+      }
+
+    ],
     "Description": "Relationships between obesity, hypertension, cardiovascular disease, insulin resistance and concomitant health\nrisks. Aetiology, pathophysiology and manifestation(s) of type 1 and type 2 Diabetes Mellitus, gestational\ndiabetes and impaired glucose tolerance; principles and practices of medical nutrition therapy of diabetes\nmellitus integrated with medical/pharmacological treatment; dietary treatment/prevention of complications;\ndietary adaptations when exercising and lifestyle/behaviour modification. Aetiology and clinical manifestations of\ncardiovascular; principles and practices of medical nutrition therapy in CVD. Congenital heart disease and\nspecial problems related to children with congenital heart disease. Aetiology and clinical manifestation(s) of\nrenal disease conditions; principles and practices of medical nutrition therapy in renal conditions (nephritic\nsyndrome, nephrotic syndrome, acute and chronic renal failure, nephrolithiasis). Nutrient-drug interactions.\nAppropriate practical assignments and case studies.",
     "Institution": "University of Pretoria"
   },
@@ -67781,6 +68172,81 @@
     "Duration": "Semester",
     "Period": [
       1
+    ],
+    "Assessments": [
+      {
+        "Name": "Assignments",
+        "Type": "Assignment",
+        "Weight": 10,
+        "Subitems": [
+          {
+            "Name": "Food Record Assignment",
+            "Weight": 7
+          },
+          {
+            "Name": "Case Study Assignment",
+            "Weight": 1
+          },
+          {
+            "Name": "Reference File Assignment",
+            "Weight": 1
+          },
+          {
+            "Name": "SGA Assignment",
+            "Weight": 1
+          }
+        ]
+      },
+      {
+        "Name": "ClickUP Quizzes",
+        "Type": "Quiz",
+        "Weight": 3,
+        "Subitems": [
+          {
+            "Name": "Anthro App - adults Quiz",
+            "Weight": 2
+          },
+          {
+            "Name": "Anthro App - paeds Quiz",
+            "Weight": 1
+          }
+        ]
+      },
+      {
+        "Name": "Practicals",
+        "Type": "Practical",
+        "Weight": 11,
+        "Subitems": [
+          {
+            "Name": "PSEA Kit Practical",
+            "Weight": 4
+          },
+          {
+            "Name": "Anthro Video Practical",
+            "Weight": 7
+          }
+        ]
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 36,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1",
+            "Weight": 19
+          },
+          {
+            "Name": "Semester Test 2",
+            "Weight": 17
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
     ],
     "Description": "Evaluation of nutrition status within the nutrition care process. Principles of science as applied in nutrition\nassessment. Nutrition screening; clinical, anthropometric, biochemical and dietary evaluation of nutrition status.\nPractice training: practising of theoretical principles of nutrition status evaluation in hospital/clinic and/or skills\nlaboratory.",
     "Institution": "University of Pretoria"
@@ -71355,6 +71821,36 @@
       "Comment": "Final year status"
     },
     "Duration": "Year",
+    "Assessments": [
+      {
+        "Name": "PoE Assignment",
+        "Type": "Assignment",
+        "Weight": 100,
+        "Subitems": [
+          {
+            "Name": "PoE Assignment Theme 1"
+          },
+          {
+            "Name": "PoE Assignment Theme 2"
+          },
+          {
+            "Name": "PoE Assignment Theme 3"
+          },
+          {
+            "Name": "PoE Assignment Theme 4"
+          },
+          {
+            "Name": "PoE Assignment Theme 5"
+          },
+          {
+            "Name": "PoE Assignment Theme 6"
+          },
+          {
+            "Name": "PoE Assignment Theme 7"
+          }
+        ]
+      }
+    ],
     "Description": "*Closed requires departmental selection\nThis module serves as the platform for supervised practical training and application in exercise testing and\ninterpretation for sport-related physical fitness components,  exercise programme design and implementation\nfor sport-related physical fitness, and sport science work experience. This module requires the student to have\naccumulated 45 hours of Sport First aid.",
     "Institution": "University of Pretoria"
   },
@@ -73283,6 +73779,46 @@
     "Period": [
       2
     ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 30,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Tutorial Tasks",
+        "Type": "Tutorial",
+        "Weight": 2.5
+      },
+      {
+        "Name": "Portfolio of engagement",
+        "Type": "Portfolio",
+        "Weight": 17.5,
+        "Subitems": [
+          {
+            "Name": "PoE Task 1",
+            "Weight": 8.5
+          },
+          {
+            "Name": "PoE Task 2",
+            "Weight": 9
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "*Closed requires departmental selection.\nAllostasis, energy dynamics, fatigue, immune system considerations, muscle hypertrophy, DOMS, NSAIDs,\nenvironmental physiology.",
     "Institution": "University of Pretoria"
   },
@@ -74194,6 +74730,56 @@
     "Period": [
       2
     ],
+    "Assessments": [
+      {
+        "Name": "Class Activities",
+        "Type": "Assessment",
+        "Weight": 3
+      },
+      {
+        "Name": "Assignments",
+        "Type": "Assignment",
+        "Weight": 3
+      },
+      {
+        "Name": "Practical Test",
+        "Type": "Test",
+        "Weight": 9
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 24,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Equipment Assignment",
+        "Type": "Practical",
+        "Weight": 6
+      },
+      {
+        "Name": "Food safety and HACCP Assignment",
+        "Type": "Practical",
+        "Weight": 3
+      },
+      {
+        "Name": "Semester Assignment",
+        "Type": "Assignment",
+        "Weight": 12
+      },
+      {
+        "Name": "Written Theory Exam",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
     "Description": "Planning and layout of food service units for different food service systems. Equipment for food services. Factors\ninfluencing the choice and purchasing of equipment for different food service units. Hygiene and safety in food\nservices. management in food service systems. Financial management in food services.",
     "Institution": "University of Pretoria"
   },
@@ -74464,6 +75050,46 @@
     "Duration": "Semester",
     "Period": [
       2
+    ],
+    "Assessments": [
+      {
+        "Name": "Class Activities/Assignments",
+        "Type": "Assignment",
+        "Weight": 6
+      },
+      {
+        "Name": "Practical Test",
+        "Type": "Test",
+        "Weight": 12
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 24,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Menu Planning Practical",
+        "Type": "Practical",
+        "Weight": 12
+      },
+      {
+        "Name": "Food-service Visit",
+        "Type": "Practical",
+        "Weight": 6
+      },
+      {
+        "Name": "Written Theory Exam",
+        "Type": "Exam",
+        "Weight": 40
+      }
     ],
     "Description": "Large-scale production.",
     "Institution": "University of Pretoria"
