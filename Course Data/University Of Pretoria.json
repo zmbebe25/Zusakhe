@@ -43045,6 +43045,60 @@
     "Period": [
       1
     ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 36,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Online Tests",
+        "Type": "Quiz",
+        "Weight": 3
+      },
+      {
+        "Name": "Tutorial Tests",
+        "Type": "Tutorial",
+        "Weight": 9,
+        "Subitems": [
+          {"Name": "Tutorial Test 1"},
+          {"Name": "Tutorial Test 2"},
+          {"Name": "Tutorial Test 3"},
+          {"Name": "Tutorial Test 4"},
+          {"Name": "Tutorial Test 5"},
+          {"Name": "Tutorial Test 6"},
+          {"Name": "Tutorial Test 7"},
+          {"Name": "Tutorial Test 8"},
+          {"Name": "Tutorial Test 9"}
+        ]
+      },
+      {
+        "Name": "Weekly Practicals",
+        "Type": "Practical",
+        "Weight": 12,
+        "Subitems": [
+          {"Name": "Experiment 1"},
+          {"Name": "Experiment 2"},
+          {"Name": "Experiment 3"},
+          {"Name": "Experiment 4"},
+          {"Name": "Experiment 5"},
+          {"Name": "Experiment 6"}
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
     "Description": "The main topic in this module is Electricity, Sound, Optics, and Modern Physics.\nStatic Electricity: Electric charge and force, electric field, the electric energy, electric potential, conservation of\nelectrical energy.\nFlow of charge: Capacitors, application of charge flow to nerves.",
     "Institution": "University of Pretoria"
   },
@@ -58695,6 +58749,54 @@
       ]
     },
     "Duration": "Year",
+    "Assessments": [
+      {
+        "Name": "Chest Evaluation",
+        "Type": "Assessment",
+        "Weight": 10
+      },
+      {
+        "Name": "Image Evaluation CBT 1",
+        "Type": "Test",
+        "Weight": 10
+      },
+      {
+        "Name": "Workbook Submission",
+        "Type": "Assessment",
+        "Weight": 2.5
+      },
+      {
+        "Name": "Log-book submission 1",
+        "Type": "Assessment",
+        "Weight": 2.5
+      },
+      {
+        "Name": "In-Bucky Evaluation",
+        "Type": "Assessment",
+        "Weight": 7.5
+      },
+      {
+        "Name": "Spine Evaluation",
+        "Type": "Assessment",
+        "Weight": 7.5
+      },
+      {
+        "Name": "Image Evaluation CBT 2",
+        "Type": "Test",
+        "Weight": 7.5
+      },
+      {
+        "Name": "Log-book submission 2",
+        "Type": "Assessment",
+        "Weight": 2.5
+      },
+      {
+        "Name": "OSCE Computer Based Test",
+        "Type": "Exam",
+        "Weight": 50
+      }
+
+    ],
     "Description": "Clinical practice to operationalise and integrate the fundamental theoretical components of the second year of\nstudies and to build on the competencies developed in the first year of study. Aspects covered within this\nmodule include the use of fluoroscopy, conventional tomography, emergency trolley setting, pharmacology,\ncontrast media, paediatric radiography, mobile/bedside and trauma radiography. Radiation protection of\npatients, public and personnel.",
     "Institution": "University of Pretoria"
   },
@@ -59427,6 +59529,49 @@
       ]
     },
     "Duration": "Year",
+    "Assessments": [
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 10,
+        "Subitems": [
+          {"Name": "Class Test 1"},
+          {"Name": "Class Test 2"}
+        ]
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 17.5,
+        "Subitems": [
+          {"Name": "Semester Test 1"},
+          {"Name": "Semester Test 2"}
+        ]
+      },
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Assessment",
+        "Weight": 10,
+        "Subitems": [
+          {"Name": "Continuous Assessment - Semester 1"},
+          {"Name": "Continuous Assessment - Semester 2"}
+        ]
+      },
+      {
+        "Name": "Assignments",
+        "Type": "Assignment",
+        "Weight": 12.5,
+        "Subitems": [
+          {"Name": "Group Assignment - Video"},
+          {"Name": "Assignment 2"}
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Skeletal system: Procedures and techniques for: positioning, patient care, selection of Technique factors,\nradiation protection, pathological conditions and image evaluation. Problem-solving. execution of radiographic\nexaminations and procedures. Trauma radiography. Paediatric and mobile radiography, bone age radiography\nand dental radiography.  Alternative imaging principles and procedures. Apparatus. Radiation protection.\nProcedures and techniques for fluoroscopy.\nRadiographic procedures:  Execution of radiographic examinations and procedures, selection of technique\nfactors, radiation protection, problem-solving, pathological conditions and image evaluation for neonatal and\nmobile unit procedures. Orthopaedic theatre procedures. Soft tissue examinations using contrast media in\ndemonstration of Genito-urinary, gastro-intestinal, biliary tract, arthrography , dacrosystography, sialography\nprocedures. Introduction to pharmacology and contrast media.  Introduction to developing research idea and\nliterature review. \nPatient assessment, education and care by the diagnostic radiographer. Developing professional attitudes as a\ndiagnostic radiographer practitioner. Patient communication-establishing professional relationship. Patient family\ninteractions. Inter-professional management between divisions in radiography discipline. Inter-professional\nmanagement within trauma, surgical theatre and hospital wards. Psycho-social management of patient.\n ",
     "Institution": "University of Pretoria"
   },
@@ -73089,21 +73234,36 @@
         "Weight": 40,
         "Subitems": [
           {
-            "Name": "Semester Test 1"
+            "Name": "Semester Test 1",
+            "DueDate": "2024-04-16"
           },
           {
-            "Name": "Semester Test 2"
+            "Name": "Semester Test 2",
+            "DueDate": "2024-05-28"
           }
         ]
       },
       {
         "Name": "Computer Based Tests",
         "Type": "Quiz",
-        "Weight": 10
+        "Weight": 7.5,
+        "Subitems": [
+          {"Name": "Computer Based Test 1", "DueDate": "2024-03-08"},
+          {"Name": "Computer Based Test 2", "DueDate": "2024-04-12"},
+          {"Name": "Computer Based Test 3", "DueDate": "2024-05-04"},
+          {"Name": "Computer Based Test 4", "DueDate": "2024-05-31"}
+        ]
+      },
+      {
+        "Name": "Reflection Assignment",
+        "Type": "Assignment",
+        "DueDate": "2024-05-31",
+        "Weight": 2.5
       },
       {
         "Name": "Examination",
         "Type": "Exam",
+        "DueDate": "2024-06-18",
         "Weight": 50
       }
     ],
@@ -73649,6 +73809,48 @@
       "Comment": "No prerequisites"
     },
     "Duration": "Year",
+    "Assessments": [
+      {
+        "Name": "Radiation Therapy Written Test",
+        "Type": "Test",
+        "Weight": 7.5
+      },
+      {
+        "Name": "Radiation Therapy Pre-class Activities",
+        "Type": "Assessment",
+        "Weight": 5
+      },
+      {
+        "Name": "Nuclear Medicine Written Test",
+        "Type": "Test",
+        "Weight": 7.5
+      },
+      {
+        "Name": "Nuclear Medicine Pre-class Activities",
+        "Type": "Assessment",
+        "Weight": 5
+      },
+      {
+        "Name": "Radiobiology Written Test and Online Tests/Activities",
+        "Type": "Assessment",
+        "Weight": 7.5
+      },
+      {
+        "Name": "Radiobiology Pre-class Activities",
+        "Type": "Assessment",
+        "Weight": 5
+      },
+      {
+        "Name": "Radiation Therapy & Nuclear Medicine Written Assignment",
+        "Type": "Assignment",
+        "Weight": 12.5
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Introduction to radiation therapy: Radiation therapy services organisation. The radiation therapist Scope ofa.\npractice; Practice Standards. Cancer management Cancer incidence; epidemiology and etiological studies;\nDetection and diagnosis; Prevention. Treatment Radiation oncology; Surgical oncology; Medical oncology;\nImmunotherapy; Complementary and alternative medicine. Radiation treatment modalities; Identification\nand application of radiation therapy equipment and accessories. Key terms related to external beam\nradiation equipment. Key terms related to radiation dose to be delivered. Radiation beam positioning terms;\nPatient positioning. Common radiation effects on normal tissue.\nIntroduction to nuclear medicine: Role of Nuclear Medicine in medical diagnosis and treatment. Principles ofb.\nnuclear physics and nuclear medicine, nuclear instrumentation, radio chemical pharmacology. Basic\napproach to clinical nuclear medicine and relevant techniques.\nIntroduction to radiobiology: -    basic background to the field of radiobiology the interaction of differentc.\nradiation types with the molecules and organelles of the mammalian cell; biological interaction of different\nradiation types with the cellular dynamics; biological effect of radiation on organs of the body and the whole\nbody; clinical radiobiology in diagnostic radiography. \n ",
     "Institution": "University of Pretoria"
   },
@@ -73732,6 +73934,49 @@
       ]
     },
     "Duration": "Year",
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments 1",
+        "Type": "Assessment",
+        "Weight": 6,
+        "Subitems": [
+          {"Name": "Class Test 1"},
+          {"Name": "Quizzes - Semester 1"},
+          {"Name": "Tutorials - Semester 1"}
+        ]
+      },
+      {
+        "Name": "Mid-Year Progress Test",
+        "Type": "Test",
+        "Weight": 10
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 28,
+        "Subitems": [
+          {"Name": "Semester Test 1"},
+          {"Name": "Semester Test 2"},
+          {"Name": "Semester Test 3"},
+          {"Name": "Semester Test 4"}
+        ]
+      },
+      {
+        "Name": "Continuous Assessments 2",
+        "Type": "Assessment",
+        "Weight": 6,
+        "Subitems": [
+          {"Name": "Class Test 2"},
+          {"Name": "Quizzes - Semester 2"},
+          {"Name": "Tutorials - Semester 2"}
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "X-ray generation:  atomic physics, thermodynamics, X-ray tubes, linear accelerators.\nImage formation and recording:  optics, image intensifiers, solid state physics, digital imaging display and\nstorage systems, image quality and patient dose.",
     "Institution": "University of Pretoria"
   },
@@ -80510,6 +80755,57 @@
     "Duration": "Semester",
     "Period": [
       1
+    ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 30,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Assignment 1",
+        "Type": "Assignment",
+        "Weight": 9
+      },
+      {
+        "Name": "clickUP Tests",
+        "Type": "Quiz",
+        "Weight": 9,
+        "Subitems": [
+          {
+            "Name": "clickUP Test 1"
+          },
+          {
+            "Name": "clickUP Test 2"
+          },
+          {
+            "Name": "clickUP Test 3"
+          }
+        ]
+      },
+      {
+        "Name": "Tutorial Tests",
+        "Type": "Tutorial",
+        "Weight": 12,
+        "Subitems": [
+          {"Name": "Tutorial Test 1"},
+          {"Name": "Tutorial Test 2"},
+          {"Name": "Tutorial Test 3"}
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
     ],
     "Description": "Integration: Accumulated change, the definite integral, anti-derivatives, the definite integral as an area,\ninterpretations of the definite integral.\nMatrices and systems of linear equations: Matrix addition and scalar multiplication, matrix multiplication,\nsystems of linear equations. All topics are studied in the context of applications.",
     "Institution": "University of Pretoria"
