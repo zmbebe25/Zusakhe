@@ -2066,7 +2066,7 @@
             "Name": "Test 2"
           },
           {
-            "Name": "Final Exam | Test 3"
+            "Name": "Test 3"
           }
         ]
       }
@@ -2096,6 +2096,7 @@
         "Name": "Assignments",
         "Type": "Assignment",
         "Weight": 21,
+        "Best": 4,
         "Subitems": [
           {
             "Name": "Assignment 1"
@@ -14779,6 +14780,37 @@
     "Duration": "Semester",
     "Period": [
       1
+    ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 42,
+        "Subitems": [
+          {"Name": "Semester Test 1"},
+          {"Name": "Semester Test 2"}
+        ]
+      },
+      {
+        "Name": "Tutorial Tests",
+        "Type": "Tutorial",
+        "Weight": 18,
+        "Subitems": [
+          {"Name": "Tutorial Test 1"},
+          {"Name": "Tutorial Test 2"},
+          {"Name": "Tutorial Test 3"},
+          {"Name": "Tutorial Test 4"},
+          {"Name": "Tutorial Test 5"},
+          {"Name": "Tutorial Test 6"},
+          {"Name": "Tutorial Test 7"},
+          {"Name": "Tutorial Test 8"}
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
     ],
     "Description": "Differential calculus of a single variable with proofs and applications. The mean value theorem, the rule of\nL'Hospital. Upper and lower sums, definite and indefinite integrals, the Fundamental theorem of Calculus, the\nmean value theorem for integrals, integration techniques, with some proofs.",
     "Institution": "University of Pretoria"
@@ -32926,6 +32958,63 @@
     "Duration": "Semester",
     "Period": [
       1
+    ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 30,
+        "Subitems": [
+          {"Name": "Semester Test 1"},
+          {"Name": "Semester Test 2"}
+        ]
+      },
+      {
+        "Name": "Tutorial Assignments",
+        "Type": "Tutorial",
+        "Weight": 12,
+        "Subitems": [
+          {"Name": "Tutorial 1"},
+          {"Name": "Tutorial 2"},
+          {"Name": "Tutorial 3"},
+          {"Name": "Tutorial 4"},
+          {"Name": "Tutorial 5"},
+          {"Name": "Tutorial 6"},
+          {"Name": "Tutorial 7"},
+          {"Name": "Tutorial 8"},
+          {"Name": "Tutorial 9"}
+        ]
+      },
+      {
+        "Name": "Practical Reports",
+        "Type": "Report",
+        "Weight": 15,
+        "Subitems": [
+          {"Name": "Practical Report 1"},
+          {"Name": "Practical Report 2"},
+          {"Name": "Practical Report 3"},
+          {"Name": "Practical Report 4"},
+          {"Name": "Practical Report 5"},
+          {"Name": "Practical Report 6"},
+          {"Name": "Practical Report 7"},
+          {"Name": "Practical Report 8"}
+        ]
+      },
+      {
+        "Name": "Online Quizzes",
+        "Type": "Quiz",
+        "Weight": 3,
+        "Subitems": [
+          {"Name": "Online Test 1"},
+          {"Name": "Online Test 2"},
+          {"Name": "Online Test 3"}
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
     ],
     "Description": "System of particles: centre of mass, Newton's laws. Rotation: torque, conservation of momentum, impulse and\ncollision, conservation of angular momentum, equilibrium, centre of gravity. Oscillations. Waves: sound,\nintensity, superposition, interference, standing waves, resonance, beats, Doppler effect. Physical optics: Young-\ninterference, coherence, thin layers, diffraction, gratings, polarisation.",
     "Institution": "University of Pretoria"
@@ -66992,25 +67081,35 @@
       {
         "Name": "Tests",
         "Type": "Test",
-        "Weight": 100,
-        "Equal": false,
+        "Weight": 57,
         "Subitems": [
           {
-            "Name": "Oral Bio Test 1",
+            "Name": "Test I",
             "DueDate": "2024-04-16",
-            "Weight": 25
+            "Weight": 12
           },
           {
-            "Name": "Oral Bio Test 2",
+            "Name": "Test II",
             "DueDate": "2024-08-06",
-            "Weight": 35
+            "Weight": 21
           },
           {
-            "Name": "Oral Bio Test 3",
+            "Name": "Test III",
             "DueDate": "2024-10-22",
-            "Weight": 40
+            "Weight": 24
           }
         ]
+      },
+      {
+        "Name": "Weekly Class Tests",
+        "Type": "Quiz",
+        "Weight": 3
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "DueDate": "2024-11-15",
+        "Weight": 40
       }
     ],
     "Description": "This module will provide the oral hygiene student with a broad basic knowledge on the development, normal\nmacroscopic and microscopic structure and functions of the oral cavity, teeth and related structures. The\nmodule content will serve as pre-knowledge for clinical subjects and oral pathology in the oral hygiene\nprogramme.",
@@ -77930,7 +78029,14 @@
       {
         "Name": "Practical Assignments",
         "Type": "Practical",
-        "Weight": 24
+        "Weight": 24,
+        "Subitems": [
+          {"Name": "Practical 1"},
+          {"Name": "Practical 2"},
+          {"Name": "Practical 3"},
+          {"Name": "Practical 4"},
+          {"Name": "Practical 5"}
+        ]
       },
       {
         "Name": "Examination",
