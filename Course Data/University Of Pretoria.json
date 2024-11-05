@@ -28310,11 +28310,11 @@
         "Weight": 50,
         "Subitems": [
           {
-            "Name": "Semester Test 1",
+            "Name": "Section A Semester Test",
             "DueDate": "2024-08-21"
           },
           {
-            "Name": "Semester Test 2",
+            "Name": "Section B emester Test",
             "DueDate": "2024-09-21"
           }
         ]
@@ -63022,43 +63022,42 @@
     ],
     "Assessments": [
       {
-        "Name": "Tests",
+        "Name": "Class Tests",
         "Type": "Test",
         "Weight": 40,
         "Subitems": [
-          {
-            "Name": "Test 1"
-          },
-          {
-            "Name": "Test 2"
-          }
+          {"Name": "Class Test 1"},
+          {"Name": "Class Test 2"},
+          {"Name": "Class Test 3"}
         ]
       },
       {
-        "Name": "Quizzes",
+        "Name": "MCQ Tests",
         "Type": "Quiz",
-        "Weight": 10,
+        "Weight": 5,
         "Subitems": [
-          {
-            "Name": "Quiz 1",
-            "DueDate": "2024-04-24"
-          },
-          {
-            "Name": "Quiz 2",
-            "DueDate": "2024-05-07"
-          },
-          {
-            "Name": "Quiz 3",
-            "DueDate": "2024-05-14"
-          },
-          {
-            "Name": "Quiz 4",
-            "DueDate": "2024-05-21"
-          }
+          {"Name": "Open book Assessment 1"},
+          {"Name": "Open book Assessment 2"},
+          {"Name": "Open book Assessment 3"},
+          {"Name": "Open book Assessment 4"},
+          {"Name": "Open book Assessment 5"},
+          {"Name": "Open book Assessment 6"},
+          {"Name": "Open book Assessment 7"},
+          {"Name": "Open book Assessment 8"},
+          {"Name": "Open book Assessment 9"},
+          {"Name": "Open book Assessment 10"},
+          {"Name": "Open book Assessment 11"},
+          {"Name": "Open book Assessment 12"},
+          {"Name": "Open book Assessment 13"}
         ]
       },
       {
-        "Name": "Examination",
+        "Name": "Case Study Group Presentation",
+        "Type": "Presentation",
+        "Weight": 5
+      },
+      {
+        "Name": "Written Examination",
         "Type": "Exam",
         "Weight": 50
       }
@@ -63085,6 +63084,48 @@
     "Period": [
       3
     ],
+    "Assessments": [
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 40,
+        "Subitems": [
+          {"Name": "Class Test 1"},
+          {"Name": "Class Test 2"},
+          {"Name": "Class Test 3"}
+        ]
+      },
+      {
+        "Name": "MCQ Tests",
+        "Type": "Quiz",
+        "Weight": 5,
+        "Subitems": [
+          {"Name": "Open book Assessment 1"},
+          {"Name": "Open book Assessment 2"},
+          {"Name": "Open book Assessment 3"},
+          {"Name": "Open book Assessment 4"},
+          {"Name": "Open book Assessment 5"},
+          {"Name": "Open book Assessment 6"},
+          {"Name": "Open book Assessment 7"},
+          {"Name": "Open book Assessment 8"},
+          {"Name": "Open book Assessment 9"},
+          {"Name": "Open book Assessment 10"},
+          {"Name": "Open book Assessment 11"},
+          {"Name": "Open book Assessment 12"},
+          {"Name": "Open book Assessment 13"}
+        ]
+      },
+      {
+        "Name": "Case Study Group Presentation",
+        "Type": "Presentation",
+        "Weight": 5
+      },
+      {
+        "Name": "Written Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Systemic bacteriology.\nCommonly occurring bacterial infections and the bacteria that cause them.",
     "Institution": "University of Pretoria"
   },
@@ -63106,6 +63147,48 @@
     "Duration": "Term",
     "Period": [
       4
+    ],
+    "Assessments": [
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 40,
+        "Subitems": [
+          {"Name": "Class Test 1"},
+          {"Name": "Class Test 2"},
+          {"Name": "Class Test 3"}
+        ]
+      },
+      {
+        "Name": "MCQ Tests",
+        "Type": "Quiz",
+        "Weight": 5,
+        "Subitems": [
+          {"Name": "Open book Assessment 1"},
+          {"Name": "Open book Assessment 2"},
+          {"Name": "Open book Assessment 3"},
+          {"Name": "Open book Assessment 4"},
+          {"Name": "Open book Assessment 5"},
+          {"Name": "Open book Assessment 6"},
+          {"Name": "Open book Assessment 7"},
+          {"Name": "Open book Assessment 8"},
+          {"Name": "Open book Assessment 9"},
+          {"Name": "Open book Assessment 10"},
+          {"Name": "Open book Assessment 11"},
+          {"Name": "Open book Assessment 12"},
+          {"Name": "Open book Assessment 13"}
+        ]
+      },
+      {
+        "Name": "Case Study Group Presentation",
+        "Type": "Presentation",
+        "Weight": 5
+      },
+      {
+        "Name": "Written Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
     ],
     "Description": "Fungi, parasitology and virology.\nCommonly occurring fungal, viral and parasite infections and infestations, and the organisms that cause them.",
     "Institution": "University of Pretoria"
@@ -66158,6 +66241,28 @@
     "Period": [
       2
     ],
+    "Assessments": [
+      {
+        "Name": "Semester Test",
+        "Type": "Test",
+        "Weight": 35
+      },
+      {
+        "Name": "Assignment 1",
+        "Type": "Assignment",
+        "Weight": 12.5
+      },
+      {
+        "Name": "ClickUP Tests",
+        "Type": "Assessment",
+        "Weight": 2.5
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Aspects of the nursing profession, including an introduction to integrative healthcare principles, an introduction\nto nursing management, the principles of quality improvement, and guided engagement in professional\nactivities (national/international).\n1 hour of the contact time will consist of clinical accompaniment by a lecturer/facilitator.",
     "Institution": "University of Pretoria"
   },
@@ -67869,6 +67974,27 @@
     "Period": [
       1
     ],
+    "Assessments": [
+      {
+        "Name": "Semester Test",
+        "Type": "Test",
+        "Weight": 30
+      },
+      {
+        "Name": "Short Essay",
+        "Type": "Assignment",
+        "Weight": 20,
+        "Subitems": [
+          {"Name": "Hospice Project"},
+          {"Name": "Perioperative Nursing Care Assignment"}
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Nursing skills in medical and surgical nursing care, including basic resuscitation, suctioning and medication\nadministration, skills related to medical and palliative nursing care, and skills related to pre- and post-operative\nnursing care.\n1 hour of the contact time will consist of clinical accompaniment by a lecturer/facilitator.",
     "Institution": "University of Pretoria"
   },
@@ -68418,6 +68544,23 @@
     "Period": [
       1
     ],
+    "Assessments": [
+      {
+        "Name": "Semester Test",
+        "Type": "Test",
+        "Weight": 30
+      },
+      {
+        "Name": "Short Essay",
+        "Type": "Assignment",
+        "Weight": 20
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Theory related to homeostasis, immunology, haematology and principles of medical, palliative and surgical\nnursing care.",
     "Institution": "University of Pretoria"
   },
@@ -68445,6 +68588,28 @@
     "Duration": "Semester",
     "Period": [
       2
+    ],
+    "Assessments": [
+      {
+        "Name": "Assignment 1",
+        "Type": "Assignment",
+        "Weight": 15
+      },
+      {
+        "Name": "Pre/Post Class Activities",
+        "Type": "Assessment",
+        "Weight": 5
+      },
+      {
+        "Name": "Semester Test",
+        "Type": "Test",
+        "Weight": 30
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
     ],
     "Description": "Theory related to communicable and non-communicable conditions of the respiratory-, cardiovascular-,\nneurological-, musculoskeletal- and gastrointestinal systems, across the lifespan.",
     "Institution": "University of Pretoria"
