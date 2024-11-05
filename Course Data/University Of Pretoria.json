@@ -14603,7 +14603,7 @@
       {
         "Name": "Semester Tests",
         "Type": "Test",
-        "Weight": 35,
+        "Weight": 42,
         "Subitems": [
           {
             "Name": "Semester Test 1",
@@ -14619,12 +14619,12 @@
         "Name": "Tutorial Tests",
         "Type": "Tutorial",
         "DueDate": "2024-10-17",
-        "Weight": 15
+        "Weight": 18
       },
       {
         "Name": "Examination",
         "Type": "Exam",
-        "Weight": 50
+        "Weight": 40
       }
     ],
     "Description": "*Students will not be credited for more than one of the following modules for their degree:\nWTW124, WTW148 and WTW164. The module WTW148 is designed for students who require Mathematics at\n100 level only and does not lead to admission to Mathematics at 200 level.\nIntegration techniques. Modelling with differential equations. Functions of several variables, partial derivatives,\noptimisation. Numerical techniques. All topics are studied in the context of applications.",
@@ -25714,6 +25714,33 @@
       "Comment": "No prerequisites"
     },
     "Duration": "Semester",
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 50,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1",
+            "DueDate": "2024-04-09"
+          },
+          {
+            "Name": "Senester Test 2",
+            "DueDate": "2024-05-20"
+          }
+        ]
+      },
+      {
+        "Name": "BIG Assignment/ Reading Program",
+        "Type": "Assignment",
+        "Weight": 25
+      },
+      {
+        "Name": "Practical/ Amazing Race",
+        "Type": "Practical",
+        "Weight": 25
+      }
+    ],
     "Period": [
       1
     ],
