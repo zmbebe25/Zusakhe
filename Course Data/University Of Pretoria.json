@@ -2066,7 +2066,7 @@
             "Name": "Test 2"
           },
           {
-            "Name": "Final Exam | Test 3"
+            "Name": "Test 3"
           }
         ]
       }
@@ -2096,6 +2096,7 @@
         "Name": "Assignments",
         "Type": "Assignment",
         "Weight": 21,
+        "Best": 4,
         "Subitems": [
           {
             "Name": "Assignment 1"
@@ -14640,6 +14641,37 @@
     "Duration": "Semester",
     "Period": [
       1
+    ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 42,
+        "Subitems": [
+          {"Name": "Semester Test 1"},
+          {"Name": "Semester Test 2"}
+        ]
+      },
+      {
+        "Name": "Tutorial Tests",
+        "Type": "Tutorial",
+        "Weight": 18,
+        "Subitems": [
+          {"Name": "Tutorial Test 1"},
+          {"Name": "Tutorial Test 2"},
+          {"Name": "Tutorial Test 3"},
+          {"Name": "Tutorial Test 4"},
+          {"Name": "Tutorial Test 5"},
+          {"Name": "Tutorial Test 6"},
+          {"Name": "Tutorial Test 7"},
+          {"Name": "Tutorial Test 8"}
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
     ],
     "Description": "Differential calculus of a single variable with proofs and applications. The mean value theorem, the rule of\nL'Hospital. Upper and lower sums, definite and indefinite integrals, the Fundamental theorem of Calculus, the\nmean value theorem for integrals, integration techniques, with some proofs.",
     "Institution": "University of Pretoria"
@@ -28305,11 +28337,11 @@
         "Weight": 50,
         "Subitems": [
           {
-            "Name": "Semester Test 1",
+            "Name": "Section A Semester Test",
             "DueDate": "2024-08-21"
           },
           {
-            "Name": "Semester Test 2",
+            "Name": "Section B emester Test",
             "DueDate": "2024-09-21"
           }
         ]
@@ -32818,6 +32850,63 @@
     "Duration": "Semester",
     "Period": [
       1
+    ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 30,
+        "Subitems": [
+          {"Name": "Semester Test 1"},
+          {"Name": "Semester Test 2"}
+        ]
+      },
+      {
+        "Name": "Tutorial Assignments",
+        "Type": "Tutorial",
+        "Weight": 12,
+        "Subitems": [
+          {"Name": "Tutorial 1"},
+          {"Name": "Tutorial 2"},
+          {"Name": "Tutorial 3"},
+          {"Name": "Tutorial 4"},
+          {"Name": "Tutorial 5"},
+          {"Name": "Tutorial 6"},
+          {"Name": "Tutorial 7"},
+          {"Name": "Tutorial 8"},
+          {"Name": "Tutorial 9"}
+        ]
+      },
+      {
+        "Name": "Practical Reports",
+        "Type": "Report",
+        "Weight": 15,
+        "Subitems": [
+          {"Name": "Practical Report 1"},
+          {"Name": "Practical Report 2"},
+          {"Name": "Practical Report 3"},
+          {"Name": "Practical Report 4"},
+          {"Name": "Practical Report 5"},
+          {"Name": "Practical Report 6"},
+          {"Name": "Practical Report 7"},
+          {"Name": "Practical Report 8"}
+        ]
+      },
+      {
+        "Name": "Online Quizzes",
+        "Type": "Quiz",
+        "Weight": 3,
+        "Subitems": [
+          {"Name": "Online Test 1"},
+          {"Name": "Online Test 2"},
+          {"Name": "Online Test 3"}
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
     ],
     "Description": "System of particles: centre of mass, Newton's laws. Rotation: torque, conservation of momentum, impulse and\ncollision, conservation of angular momentum, equilibrium, centre of gravity. Oscillations. Waves: sound,\nintensity, superposition, interference, standing waves, resonance, beats, Doppler effect. Physical optics: Young-\ninterference, coherence, thin layers, diffraction, gratings, polarisation.",
     "Institution": "University of Pretoria"
@@ -62960,43 +63049,42 @@
     ],
     "Assessments": [
       {
-        "Name": "Tests",
+        "Name": "Class Tests",
         "Type": "Test",
         "Weight": 40,
         "Subitems": [
-          {
-            "Name": "Test 1"
-          },
-          {
-            "Name": "Test 2"
-          }
+          {"Name": "Class Test 1"},
+          {"Name": "Class Test 2"},
+          {"Name": "Class Test 3"}
         ]
       },
       {
-        "Name": "Quizzes",
+        "Name": "MCQ Tests",
         "Type": "Quiz",
-        "Weight": 10,
+        "Weight": 5,
         "Subitems": [
-          {
-            "Name": "Quiz 1",
-            "DueDate": "2024-04-24"
-          },
-          {
-            "Name": "Quiz 2",
-            "DueDate": "2024-05-07"
-          },
-          {
-            "Name": "Quiz 3",
-            "DueDate": "2024-05-14"
-          },
-          {
-            "Name": "Quiz 4",
-            "DueDate": "2024-05-21"
-          }
+          {"Name": "Open book Assessment 1"},
+          {"Name": "Open book Assessment 2"},
+          {"Name": "Open book Assessment 3"},
+          {"Name": "Open book Assessment 4"},
+          {"Name": "Open book Assessment 5"},
+          {"Name": "Open book Assessment 6"},
+          {"Name": "Open book Assessment 7"},
+          {"Name": "Open book Assessment 8"},
+          {"Name": "Open book Assessment 9"},
+          {"Name": "Open book Assessment 10"},
+          {"Name": "Open book Assessment 11"},
+          {"Name": "Open book Assessment 12"},
+          {"Name": "Open book Assessment 13"}
         ]
       },
       {
-        "Name": "Examination",
+        "Name": "Case Study Group Presentation",
+        "Type": "Presentation",
+        "Weight": 5
+      },
+      {
+        "Name": "Written Examination",
         "Type": "Exam",
         "Weight": 50
       }
@@ -63023,6 +63111,48 @@
     "Period": [
       3
     ],
+    "Assessments": [
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 40,
+        "Subitems": [
+          {"Name": "Class Test 1"},
+          {"Name": "Class Test 2"},
+          {"Name": "Class Test 3"}
+        ]
+      },
+      {
+        "Name": "MCQ Tests",
+        "Type": "Quiz",
+        "Weight": 5,
+        "Subitems": [
+          {"Name": "Open book Assessment 1"},
+          {"Name": "Open book Assessment 2"},
+          {"Name": "Open book Assessment 3"},
+          {"Name": "Open book Assessment 4"},
+          {"Name": "Open book Assessment 5"},
+          {"Name": "Open book Assessment 6"},
+          {"Name": "Open book Assessment 7"},
+          {"Name": "Open book Assessment 8"},
+          {"Name": "Open book Assessment 9"},
+          {"Name": "Open book Assessment 10"},
+          {"Name": "Open book Assessment 11"},
+          {"Name": "Open book Assessment 12"},
+          {"Name": "Open book Assessment 13"}
+        ]
+      },
+      {
+        "Name": "Case Study Group Presentation",
+        "Type": "Presentation",
+        "Weight": 5
+      },
+      {
+        "Name": "Written Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Systemic bacteriology.\nCommonly occurring bacterial infections and the bacteria that cause them.",
     "Institution": "University of Pretoria"
   },
@@ -63044,6 +63174,48 @@
     "Duration": "Term",
     "Period": [
       4
+    ],
+    "Assessments": [
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 40,
+        "Subitems": [
+          {"Name": "Class Test 1"},
+          {"Name": "Class Test 2"},
+          {"Name": "Class Test 3"}
+        ]
+      },
+      {
+        "Name": "MCQ Tests",
+        "Type": "Quiz",
+        "Weight": 5,
+        "Subitems": [
+          {"Name": "Open book Assessment 1"},
+          {"Name": "Open book Assessment 2"},
+          {"Name": "Open book Assessment 3"},
+          {"Name": "Open book Assessment 4"},
+          {"Name": "Open book Assessment 5"},
+          {"Name": "Open book Assessment 6"},
+          {"Name": "Open book Assessment 7"},
+          {"Name": "Open book Assessment 8"},
+          {"Name": "Open book Assessment 9"},
+          {"Name": "Open book Assessment 10"},
+          {"Name": "Open book Assessment 11"},
+          {"Name": "Open book Assessment 12"},
+          {"Name": "Open book Assessment 13"}
+        ]
+      },
+      {
+        "Name": "Case Study Group Presentation",
+        "Type": "Presentation",
+        "Weight": 5
+      },
+      {
+        "Name": "Written Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
     ],
     "Description": "Fungi, parasitology and virology.\nCommonly occurring fungal, viral and parasite infections and infestations, and the organisms that cause them.",
     "Institution": "University of Pretoria"
@@ -66096,6 +66268,28 @@
     "Period": [
       2
     ],
+    "Assessments": [
+      {
+        "Name": "Semester Test",
+        "Type": "Test",
+        "Weight": 35
+      },
+      {
+        "Name": "Assignment 1",
+        "Type": "Assignment",
+        "Weight": 12.5
+      },
+      {
+        "Name": "ClickUP Tests",
+        "Type": "Assessment",
+        "Weight": 2.5
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Aspects of the nursing profession, including an introduction to integrative healthcare principles, an introduction\nto nursing management, the principles of quality improvement, and guided engagement in professional\nactivities (national/international).\n1 hour of the contact time will consist of clinical accompaniment by a lecturer/facilitator.",
     "Institution": "University of Pretoria"
   },
@@ -66576,25 +66770,35 @@
       {
         "Name": "Tests",
         "Type": "Test",
-        "Weight": 100,
-        "Equal": false,
+        "Weight": 57,
         "Subitems": [
           {
-            "Name": "Oral Bio Test 1",
+            "Name": "Test I",
             "DueDate": "2024-04-16",
-            "Weight": 25
+            "Weight": 12
           },
           {
-            "Name": "Oral Bio Test 2",
+            "Name": "Test II",
             "DueDate": "2024-08-06",
-            "Weight": 35
+            "Weight": 21
           },
           {
-            "Name": "Oral Bio Test 3",
+            "Name": "Test III",
             "DueDate": "2024-10-22",
-            "Weight": 40
+            "Weight": 24
           }
         ]
+      },
+      {
+        "Name": "Weekly Class Tests",
+        "Type": "Quiz",
+        "Weight": 3
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "DueDate": "2024-11-15",
+        "Weight": 40
       }
     ],
     "Description": "This module will provide the oral hygiene student with a broad basic knowledge on the development, normal\nmacroscopic and microscopic structure and functions of the oral cavity, teeth and related structures. The\nmodule content will serve as pre-knowledge for clinical subjects and oral pathology in the oral hygiene\nprogramme.",
@@ -67797,6 +68001,27 @@
     "Period": [
       1
     ],
+    "Assessments": [
+      {
+        "Name": "Semester Test",
+        "Type": "Test",
+        "Weight": 30
+      },
+      {
+        "Name": "Short Essay",
+        "Type": "Assignment",
+        "Weight": 20,
+        "Subitems": [
+          {"Name": "Hospice Project"},
+          {"Name": "Perioperative Nursing Care Assignment"}
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Nursing skills in medical and surgical nursing care, including basic resuscitation, suctioning and medication\nadministration, skills related to medical and palliative nursing care, and skills related to pre- and post-operative\nnursing care.\n1 hour of the contact time will consist of clinical accompaniment by a lecturer/facilitator.",
     "Institution": "University of Pretoria"
   },
@@ -68346,6 +68571,23 @@
     "Period": [
       1
     ],
+    "Assessments": [
+      {
+        "Name": "Semester Test",
+        "Type": "Test",
+        "Weight": 30
+      },
+      {
+        "Name": "Short Essay",
+        "Type": "Assignment",
+        "Weight": 20
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Theory related to homeostasis, immunology, haematology and principles of medical, palliative and surgical\nnursing care.",
     "Institution": "University of Pretoria"
   },
@@ -68373,6 +68615,28 @@
     "Duration": "Semester",
     "Period": [
       2
+    ],
+    "Assessments": [
+      {
+        "Name": "Assignment 1",
+        "Type": "Assignment",
+        "Weight": 15
+      },
+      {
+        "Name": "Pre/Post Class Activities",
+        "Type": "Assessment",
+        "Weight": 5
+      },
+      {
+        "Name": "Semester Test",
+        "Type": "Test",
+        "Weight": 30
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
     ],
     "Description": "Theory related to communicable and non-communicable conditions of the respiratory-, cardiovascular-,\nneurological-, musculoskeletal- and gastrointestinal systems, across the lifespan.",
     "Institution": "University of Pretoria"
@@ -77464,7 +77728,14 @@
       {
         "Name": "Practical Assignments",
         "Type": "Practical",
-        "Weight": 24
+        "Weight": 24,
+        "Subitems": [
+          {"Name": "Practical 1"},
+          {"Name": "Practical 2"},
+          {"Name": "Practical 3"},
+          {"Name": "Practical 4"},
+          {"Name": "Practical 5"}
+        ]
       },
       {
         "Name": "Examination",
