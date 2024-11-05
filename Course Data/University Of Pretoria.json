@@ -24060,7 +24060,11 @@
       {
         "Name": "Practicals",
         "Type": "Practical",
-        "Weight": 35
+        "Weight": 35,
+        "Subitems": [
+          {"Name": "Composting Report", "Weight": 25},
+          {"Name": "Practical Test", "Weight": 10}
+        ]
       }
     ],
     "Description": "Soil is a finite resource and with the global challenges we are facing, it is more important than ever to\nunderstand and sustainably manage soil. Our daily lives are impacted by soil in several ways, including the food\nwe eat, the water we drink, and the environment we live in. In this Introductory Soils module, we will look at how\nbasic and more advanced abiotic and biotic soil properties impact us and the larger environment. We will also\nexamine the fundamental principles behind sustainable soil use management.",
@@ -24092,6 +24096,41 @@
     "Duration": "Semester",
     "Period": [
       2
+    ],
+    "Assessments": [
+      {
+        "Name": "Practical Test",
+        "Type": "Test",
+        "Weight": 7.5
+      },
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 25,
+        "Subitems": [
+          {"Name": "Class Test 1"},
+          {"Name": "Class Test 2"}
+        ]
+      },
+      {
+        "Name": "Practicals",
+        "Type": "Practical",
+        "Weight": 17.5,
+        "Subitems": [
+          {"Name": "Practical 1"},
+          {"Name": "Practical 2"},
+          {"Name": "Practical 3"},
+          {"Name": "Practical 4"},
+          {"Name": "Practical 5"},
+          {"Name": "Practical 7"},
+          {"Name": "Practical 10"}
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
     ],
     "Description": "This module will give an overview of earth history, from the Archaean to the present. Important concepts such\nas the principles of stratigraphy and stratigraphic nomenclature, geological dating and international and South\nAfrican time scales will be introduced. A brief introduction to the principles of palaeontology will be given, along\nwith short descriptions of major fossil groups, fossil forms, ecology and geological meaning. In the South African\ncontext, the major stratigraphic units, intrusions and tectonic/metamorphic events will be detailed, along with\nrelated rock types, fossil contents, genesis and economic commodities. Anthropogenic effects on the\nenvironment and their mitigation. Practical work will focus on the interpretation of geological maps and profiles.",
     "Institution": "University of Pretoria"
@@ -27451,27 +27490,36 @@
     "Duration": "Semester",
     "Assessments": [
       {
-        "Name": "Continuous Assessment",
-        "Type": "Assessment",
-        "Weight": 50,
-        "Equal":false,
+        "Name": "Lecture Quizzes",
+        "Type": "Quiz",
+        "Weight": 5,
         "Subitems": [
-          {
-            "Name": "Assignments",
-            "Type": "Assignment",
-            "Weight": 5
-          },
-          {
-            "Name": "Quizzes",
-            "Type": "Quiz",
-            "Weight": 5
-          },
-          {
-            "Name": "Class Tests",
-            "Type": "Test",
-            "Weight": 40
-          }
+          {"Name": "Lecture Quiz 1"},
+          {"Name": "Lecture Quiz 2"},
+          {"Name": "Lecture Quiz 3"},
+          {"Name": "Lecture Quiz 4"},
+          {"Name": "Lecture Quiz 5"},
+          {"Name": "Lecture Quiz 6"},
+          {"Name": "Lecture Quiz 7"},
+          {"Name": "Lecture Quiz 8"},
+          {"Name": "Lecture Quiz 9"}
         ]
+      },
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 40,
+        "Subitems": [
+          {"Name": "Class Test 1"},
+          {"Name": "Class Test 2"},
+          {"Name": "Class Test 3"},
+          {"Name": "Class Test 4"}
+        ]
+      },
+      {
+        "Name": "Assignment 1",
+        "Type": "Assignment",
+        "Weight": 5
       },
       {
         "Name": "Semester Tests",
