@@ -387,7 +387,6 @@
       {
         "Name": "Tests",
         "Type": "Test",
-        "Equal": false,
         "Weight": 35,
         "Subitems": [
           {
@@ -423,8 +422,8 @@
         "Weight": 15
       },
       {
-        "Name": "Scanned",
-        "Type": "Coursework",
+        "Name": "Exam",
+        "Type": "Examination",
         "Weight": 50
       }
     ]
@@ -961,9 +960,9 @@
     "Duration": "Year",
     "Assessments": [
       {
-        "Name": "Tests",
+        "Name": "Cumulative tests",
         "Type": "Test",
-        "Weight": 30,
+        "Weight": 33,
         "Subitems": [
           {
             "Name": "Test 1",
@@ -975,26 +974,24 @@
           },
           {
             "Name": "Test 3",
-            "DueDate": "2024-09-11"
+            "DueDate": "2024-09-03"
           }
         ]
       },
       {
-        "Name": "Integrated Group Assignment",
-        "Type": "Assignment",
-        "DueDate": "2024-08-30",
-        "Weight": 7.5
+        "Name": "Pre-tests on clickUP, continuous class work and online tests (COTs), homework",
+        "Type": "Coursework",
+        "Weight": 13.75
       },
       {
-        "Name": "Continuous Assessments",
-        "Type": "Quiz",
-        "DueDate": "2024-11-11",
-        "Weight": 12.5
+        "Name": "Assignments",
+        "Type": "Assignment",
+        "Weight": 8.25
       },
       {
         "Name": "Examination",
         "Type": "Exam",
-        "Weight": 50
+        "Weight": 45
       }
     ],
     "Description": "This module introduces students to taxation in the context of its history, its basic principles and its\ninterdisciplinary nature as it relates to policy, legislation and governance. It also addresses the inherent demand\nfor ethical and responsible conduct by all tax practitioners/professionals and taxpayers in pursuit of sustainable\ndevelopment in South Africa. The module is principles-based and will enable a student to interpret and apply the\nfundamental principles and concepts of taxation, specifically related to the Income Tax Act (No. 58 of 1962). In\naddition, the module will enable a student to interpret and apply specific sections in the Income Tax Act relating\nto donations and deceased estates.",
@@ -4118,6 +4115,31 @@
     "Period": [
       1
     ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 45,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Class tests, Clickup tests and homework",
+        "Type": "Coursework",
+        "Weight": 5
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Role and environment of managerial finance. Financial statement analysis. Time value of money. Risk and\nreturn. Working capital management. Interest and valuations (bonds and shares).",
     "Institution": "University of Pretoria"
   },
@@ -5636,51 +5658,22 @@
       },
       {
         "Name": "Formal Assessments",
-        "Type": "Quiz",
-        "Weight": 10,
-        "Subitems": [
-          {
-            "Name": "Class Test 1",
-            "DueDate": "2024-03-20"
-          },
-          {
-            "Name": "Class Test 2",
-            "DueDate": "2024-04-03"
-          },
-          {
-            "Name": "Class Test 3",
-            "DueDate": "2024-06-05"
-          },
-          {
-            "Name": "Class Test 4",
-            "DueDate": "2024-08-07"
-          },
-          {
-            "Name": "Class Test 5",
-            "DueDate": "2024-10-09"
-          },
-          {
-            "Name": "Class Test 6",
-            "DueDate": "2024-10-30"
-          }
-        ]
+        "Type": "Assessment",
+        "Weight": 10
       },
       {
         "Name": "Informal Assessments",
-        "Type": "Quiz",
-        "DueDate": "2024-11-08",
+        "Type": "Assessment",
         "Weight": 5
       },
       {
         "Name": "Integrated Assignment",
         "Type": "Assignment",
-        "DueDate": "2024-10-03",
         "Weight": 5
       },
       {
         "Name": "Examination",
         "Type": "Exam",
-        "DueDate": "2024-11-12",
         "Weight": 50
       }
     ],
@@ -7281,6 +7274,29 @@
         }
       ]
     },
+    "Assessments": [
+      {
+        "Name": "Progress Mark",
+        "Type": "Coursework",
+        "Weight": 50,
+        "Subitems": [
+          {
+            "Name": "Semester Test"
+          },
+          {
+            "Name": "Assignment"
+          },
+          {
+            "Name": "Model UN debate"
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Duration": "Semester",
     "Period": [
       2
@@ -8100,6 +8116,37 @@
     "Period": [
       1
     ],
+    "Assessments": [
+      {
+        "Name": "Online assessments",
+        "Type": "Assessment",
+        "Weight": 20,
+        "Subitems": [
+          {
+            "Name": "Online assessment 1",
+            "DueDateComment": "Available from 19 April 9:00 to 20 April 15:00"
+          },
+          {
+            "Name": "Online assessment 2",
+            "DueDateComment": "Available from 2 May 9:00 to 3 May 15:00"
+          },
+          {
+            "Name": "Online assessment 3",
+            "DueDateComment": "Available from 30 May 9:00 to 31 May 15:00"
+          }
+        ]
+      },
+      {
+        "Name": "Semester test",
+        "Type": "test",
+        "Weight": 30
+      },
+      {
+        "Name": "Formal theory exam",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "General introduction.\nGeneral principles of the law of contract: introduction to the law of contract; consensus; contractual capacity;\nlegality and physical possibility of performance; formalities; parties to the contract; conditions and related legal\nconcepts; special terms and the interpretation of contracts; breach of contract and the termination of the\ncontractual relationship.",
     "Institution": "University of Pretoria"
   },
@@ -8115,6 +8162,37 @@
     "Duration": "Semester",
     "Period": [
       2
+    ],
+    "Assessments": [
+      {
+        "Name": "Online Tests",
+        "Type": "Test",
+        "Weight": 30,
+        "Subitems": [
+          {
+            "Name": "Online test 1"
+          },
+          {
+            "Name": "Online test 2"
+          },
+          {
+            "Name": "Online test 3"
+          },
+          {
+            "Name": "Online test 4"
+          }
+        ]
+      },
+      {
+        "Name": "Semester test",
+        "Type": "test",
+        "Weight": 20
+      },
+      {
+        "Name": "Exam Mark",
+        "Type": "Exam",
+        "Weight": 50
+      }
     ],
     "Description": "Law of purchase and sale; law of lease; credit agreements; law of agency; law of security.",
     "Institution": "University of Pretoria"
@@ -8224,16 +8302,16 @@
     "Assessments": [
       {
         "Name": "Online Tests",
-        "Type": "Quiz",
+        "Type": "Test",
         "Weight": 20,
         "Subitems": [
           {
             "Name": "Online Test 1",
-            "DueDate": "2024-08-22"
+            "DueDateComment": "(20-22) August 2024"
           },
           {
             "Name": "Online Test 2",
-            "DueDate": "2024-10-31"
+            "DueDateComment": "(29-31) October 2024"
           }
         ]
       },
@@ -9694,25 +9772,28 @@
       {
         "Name": "Semester Tests",
         "Type": "Test",
-        "Weight": 40,
+        "Weight": 50,
         "Subitems": [
           {
-            "Name": "Semester Test 1"
+            "Name": "Semester Test 1",
+            "DueDate":"2024-04-15"
           },
           {
-            "Name": "Semester Test 2"
+            "Name": "Semester Test 2",
+            "DueDate":"2024-05-22"
           }
         ]
       },
       {
-        "Name": "Assignments",
-        "Type": "Quiz",
-        "Weight": 10
+        "Name": "Group Assignment",
+        "Type": "Assignment",
+        "Weight": 30,
+        "DueDate":"2024-05-27"
       },
       {
-        "Name": "Examination",
-        "Type": "Exam",
-        "Weight": 50
+        "Name": "Connect Exercises",
+        "Type": "Coursework",
+        "Weight": 20
       }
     ],
     "Description": "Business ethics; sustainability and the economic system; key social challenges; key environmental challenges;\nkey economic challenges; conventional vs. progressive measure of progress; short-term vs long-term\norientation; development as an outcome of growth; sustainable development as opposed to conventional\ndevelopment; sustainable development goals; sustainable development goals and the changing role of business\nin society; implications for the notion of corporate citizenship; global responses and solutions; local\nresponses and solutions.",
@@ -10644,6 +10725,47 @@
     "Period": [
       1
     ],
+    "Assessments": [
+      {
+        "Name": "Computer-based test (CBT)(ONLINE QUIZZES)",
+        "Type": "Quiz",
+        "Weight": 20,
+        "Subitems": [
+          {
+            "Name": "Quiz unit 1",
+            "DueDate":"2024-03-08"
+          },
+          {
+            "Name": "Quiz unit 3",
+            "DueDate":"2024-04-05"
+          },
+          {
+            "Name": "Quiz unit 4",
+            "DueDate":"2024-04-19"
+          },
+          {
+            "Name": "Quiz unit 5",
+            "DueDate":"2024-05-03"
+          },
+          {
+            "Name": "Quiz unit 7",
+            "DueDate":"2024-05-31"
+          }
+        ]
+      },
+      {
+        "Name": "Individual assignment",
+        "Type": "Assignment",
+        "Weight": 40,
+        "DueDate":"2024-04-26"
+      },
+      {
+        "Name": "Semester test",
+        "Type": "Test",
+        "Weight": 40,
+        "DueDate":"2024-05-24"
+      }
+    ],
     "Prerequisite": {
       "Comment": "Only available to BAdmin in Public Management (Option: Public Administration) students."
     },
@@ -10760,6 +10882,53 @@
     "Duration": "Semester",
     "Period": [
       2
+    ],
+    "Assessments": [
+      {
+        "Name": "Online Quizzes",
+        "Type": "Quiz",
+        "Weight": 20,
+        "Subitems": [
+          {
+            "Name": "Quiz 1",
+            "DueDate": "2024-08-02"
+          },
+          {
+            "Name": "Quiz 2",
+            "DueDate": "2024-08-16"
+          },
+          {
+            "Name": "Quiz 3",
+            "DueDate": "2024-08-30"
+          },
+          {
+            "Name": "Quiz 4",
+            "DueDate": "2024-09-06"
+          },
+          {
+            "Name": "Quiz 5",
+            "DueDate": "2024-09-13"
+          },
+          {
+            "Name": "Quiz 6",
+            "DueDate": "2024-10-11"
+          },
+          {
+            "Name": "Quiz 7",
+            "DueDate": "2024-10-25"
+          }
+        ]
+      },
+      {
+        "Name": "Individual assignment",
+        "Type": "Assignment",
+        "Weight": 50
+      },
+      {
+        "Name": "Semester test",
+        "Type": "Test",
+        "Weight": 30
+      }
     ],
     "Description": "This module in public administration introduces the student to the process of planning, executing and evaluating\nresearch in the public sector. Students will be enabled to identify, plan, execute and present a research project.\nThis is a service learning module and as such students will be expected to complete approximately 15 hours\nservice learning and submit a portfolio as part of their formal assessment.",
     "Institution": "University of Pretoria"
@@ -18206,6 +18375,7 @@
         "Name": "Class Tests",
         "Type": "Test",
         "Weight": 10,
+        "Best":2,
         "Subitems": [
           {
             "Name": "Class Test 1"
@@ -18224,10 +18394,12 @@
         "Weight": 35,
         "Subitems": [
           {
-            "Name": "Semester Test 1"
+            "Name": "Semester Test 1",
+            "DueDate":"2024-04-12"
           },
           {
-            "Name": "Semester Test 2"
+            "Name": "Semester Test 2",
+            "DueDate":"2024-05-28"
           }
         ]
       },
@@ -18566,37 +18738,30 @@
     ],
     "Assessments": [
       {
-        "Name": "Semester Tests",
-        "Type": "Test",
-        "Weight": 30,
-        "Subitems": [
-          {
-            "Name": "Semester Test 1"
-          },
-          {
-            "Name": "Semester Test 2"
-          }
-        ]
-      },
-      {
         "Name": "Practical Assignments",
         "Type": "Practical",
         "Weight": 20,
         "Subitems": [
           {
-            "Name": "Practical Assignment 1"
+            "Name": "Practical Assignment 1",
+            "Weight": 2.5
+
           },
           {
-            "Name": "Practical Assignment 2"
+            "Name": "Practical Assignment 2",
+            "Weight": 2.5
           },
           {
-            "Name": "Practical Assignment 3"
+            "Name": "Practical Assignment 3",
+            "Weight": 2.5
           },
           {
-            "Name": "Practical Assignment 4"
+            "Name": "Practical Assignment 4",
+            "Weight": 2.5
           },
           {
-            "Name": "Practical Assignment 5"
+            "Name": "Practical Assignment 5",
+            "Weight": 10
           }
         ]
       },
@@ -18606,23 +18771,41 @@
         "Weight": 10,
         "Subitems": [
           {
-            "Name": "Class Test 1"
+            "Name": "Class Test 1",
+            "Weight": 2.5
           },
           {
-            "Name": "Class Test 2"
+            "Name": "Class Test 2",
+            "Weight": 2.5
           },
           {
-            "Name": "Class Test 3"
+            "Name": "Class Test 3",
+            "Weight": 2.5
           },
           {
-            "Name": "Class Test 4"
+            "Name": "Class Test 4",
+            "Weight": 2.5
           }
         ]
       },
       {
-        "Name": "Final Examination",
-        "Type": "Exam",
-        "Weight": 40
+        "Name": "Exam Opportunities",
+        "Type": "Test",
+        "Weight": 70,
+        "Subitems": [
+          {
+            "Name": "Exam 1",
+            "Weight": 15
+          },
+          {
+            "Name": "Exam 2",
+            "Weight": 15
+          },
+          {
+            "Name": "Exam 3",
+            "Weight": 40
+          }
+        ]
       }
     ],
     "Description": "This module will expose students to the evolution of databases systems. They will be able to model data\nconceptually, in terms of models such as conceptual, relational, object oriented, graph-based and network and\nthe mapping between models, in particular between the conceptual and relational model. Foundational concepts\nrelating to the relational model will be considered, such as: entity and referential integrity, relational algebra and\ncalculus, functional dependency, normals forms, Indexing of database systems and transaction processing will\nalso form an integral part of the curriculum. The physical data representation of the databases system both in\nmemory and within the file system of the operating system will be considered.",
@@ -23828,7 +24011,7 @@
     "Institution": "University of Pretoria"
   },
   {
-    "Name": "Physical meteorology 261 ",
+    "Name": "Physical meteorology 261",
     "Code": "WKD261",
     "Credit": 12,
     "NQF": 6,
@@ -23862,6 +24045,29 @@
         }
       ]
     },
+    "Assessments": [
+      {
+        "Name": "Semester Test",
+        "Type": "Test",
+        "Weight": 20,
+        "DueDate":"2024-08-23"
+      },
+      {
+        "Name": "Tasks and Quizzes",
+        "Type": "Coursework",
+        "Weight": 12.5
+      },
+      {
+        "Name": "Tutorials",
+        "Type": "Tutorial",
+        "Weight": 17.5
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Duration": "Term",
     "Period": [
       3
@@ -25415,6 +25621,38 @@
     "Period": [
       1
     ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 50,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1",
+            "DueDate":"2024-04-11"
+          },
+          {
+            "Name": "Semester Test 2",
+            "DueDate":"2024-05-24"
+          }
+        ]
+      },
+      {
+        "Name": "Online assessment",
+        "Type": "Assessment",
+        "Weight": 20
+      },
+      {
+        "Name": "Practical task",
+        "Type": "Practical",
+        "Weight": 15
+      },
+      {
+        "Name": "Reading program tasks",
+        "Type": "Coursework",
+        "Weight": 15
+      }
+    ],
     "Description": "Personal information management. This module deals with the management of personal information and\nknowledge on a personal level which enables an individual to perform their job within an organisational\ncontext. Key themes that will be discussed include: creating an environment which is conducive to personal\ninformation and knowledge; the skills required to manage personal information and knowledge; the causes and\neffects of information overload, and the management of this type of phenonemon. The actions, strategies and\ntechnologies available for personal information management, as well as the manner in which individuals can\nswitch from personal information management to personal knowledge management; the various career options\nin information and knowledge management.",
     "Institution": "University of Pretoria"
   },
@@ -25484,8 +25722,17 @@
       {
         "Name": "ALICE Practical Component",
         "Type": "Practical",
-        "DueDate": "2024-10-31",
-        "Weight": 35
+        "Weight": 35,
+        "Subitems": [
+          {
+            "Name": "Group progress mark",
+            "Weight": 10
+          },
+          {
+            "Name": "Final Practical assignment and contribution form",
+            "Weight": 25
+          }
+        ]
       }
     ],
     "Description": "Information and communication technology. This module offers a brief overview of hardware and software\nand telecommunications technologies. Various networks, network applications. intranets, internet, the World\nWide Web, deep web and cloud computing are discussed. Computer ethics, ICTs, e-commerce, ergonomics,\nmobile computing technology and the influence that new trends and developments such as the 4th Industrial\nRevolution and virtual reality have on the creation and distribution of information are covered in this module.\nThe practical component focuses on the introduction to the coding language, Python.",
@@ -25712,35 +25959,22 @@
       {
         "Name": "Semester Tests",
         "Type": "Test",
-        "Weight": 30,
+        "Weight": 50,
         "Subitems": [
             {
               "Name": "Semester Test 1",
-              "DueDate": "2024-04-05",
-              "Weight": 15
+              "DueDate": "2024-04-05"
             },
             {
               "Name": "Semester Test 2",
-              "DueDate": "2024-05-13",
-              "Weight": 15
+              "DueDate": "2024-05-13"
             }
         ]
       },
       {
-        "Name": "Class Activities",
-        "Type": "Coursework",
-        "Weight": 12
-      },
-      {
-        "Name": "Practical Assignments",
-        "Type": "Assignment",
-        "Weight": 18
-      },
-      {
         "Name": "Examination",
         "Type": "Exam",
-        "DueDate": "2024-06-25",
-        "Weight": 40
+        "Weight": 50
       }
     ],
     "Duration": "Semester",
@@ -27057,6 +27291,68 @@
     "Duration": "Semester",
     "Period": [
       1
+    ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 25,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1",
+            "Weight": 10
+          },
+          {
+            "Name": "Semester Test 2",
+            "Weight": 15
+          }
+        ]
+      },
+      {
+        "Name": "Mini-project",
+        "Type": "Project",
+        "Weight": 7.5
+      },
+      {
+        "Name": "Practical Assignments",
+        "Type": "Assignment",
+        "Weight": 17.5,
+        "Best":7,
+        "Subitems": [
+          {
+            "Name": "Practical Assignment 1"
+          },
+          {
+            "Name": "Practical Assignment 2"
+          },
+          {
+            "Name": "Practical Assignment 3"
+          },
+          {
+            "Name": "Practical Assignment 4"
+          },
+          {
+            "Name": "Practical Assignment 5"
+          },
+          {
+            "Name": "Practical Assignment 6"
+          },
+          {
+            "Name": "Practical Assignment 7"
+          },
+          {
+            "Name": "Practical Assignment 8"
+          },
+          {
+            "Name": "Practical Assignment 9"
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
     ],
     "Description": "Background knowledge, problem-solving skills, conceptual understanding and reasoning skills required by COS\n132.",
     "Institution": "University of Pretoria"
@@ -33123,6 +33419,28 @@
     "Period": [
       1
     ],
+    "Assessments": [
+      {
+        "Name": "Semester Test",
+        "Type": "Test",
+        "Weight": 25
+      },
+      {
+        "Name": "Assignment",
+        "Type": "Assignment",
+        "Weight": 20
+      },
+      {
+        "Name": "Quizzes",
+        "Type": "Quiz",
+        "Weight": 5
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Students from all faculties are welcome to join us in our exploration of the universe from an earth-bound\nperspective. We reflect on the whole universe from the sub microscopic to the vast macroscopic and mankind's\nmodest position therein. To what degree is our happiness determined by stars? Echoes from ancient firmaments\n- the astronomy of old civilisations. The universe is born with a bang. Stars, milky ways and planets are formed.\nLife is breathed into the landscape on earth, but is there life elsewhere? The architecture of the universe\ndistance measurements, structure of our solar system and systems of stars. How does it look like on\nneighbouring planets? Comets and meteorites. Life cycles of stars. Spectacular exploding stars! Exotica like\npulsars and black holes.",
     "Institution": "University of Pretoria"
   },
@@ -34036,6 +34354,28 @@
         }
       ]
     },
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 50,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1",
+            "DueDate": "2024-04-15"
+          },
+          {
+            "Name": "Semester Test 2",
+            "DueDate": "2024-05-24"
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Duration": "Semester",
     "Period": [
       1
@@ -35903,6 +36243,28 @@
     "Period": [
       1
     ],
+    "Assessments": [
+          {
+              "Name": "Semester Test",
+              "Type": "Test",
+              "Weight": 70,
+              "Subitems": [
+                  {
+                      "Name": "Semester Test 1",
+                      "Weight": 30
+                  },
+                  {
+                      "Name": "Semester Test 2",
+                      "Weight": 40
+                  }
+              ]
+          },
+          {
+              "Name": "Class tests, assignments",
+              "Type": "Coursework",
+              "Weight": 30
+          }
+      ],
     "Description": "*Students will not be credited for more than one of the modules for their degree: WTW264, WTW286\nTheory and solution methods for ordinary differential equations and initial value problems: separable and linear\nfirst-order equations, linear equations of higher order, systems of linear equations. Application to mathematical\nmodels.  Numerical methods applied to nonlinear systems.Qualitative analysis of linear systems.",
     "Institution": "University of Pretoria"
   },
@@ -36782,6 +37144,67 @@
     "Period": [
       4
     ],
+    "Assessments": [
+      {
+        "Name": "Clicker (Test) questions",
+        "Type": "Test",
+        "Weight": 2.5
+      },
+      {
+        "Name": "Tutorial tests",
+        "Type": "Test",
+        "Weight": 5,
+        "Subitems": [
+          {
+            "Name": "Tutorial Test 1"
+          },
+          {
+            "Name": "Tutorial Test 2"
+          },
+          {
+            "Name": "Tutorial Test 3"
+          },
+          {
+            "Name": "Tutorial Test 4"
+          },
+          {
+            "Name": "Tutorial Test 5"
+          }
+        ]
+      },
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 15,
+        "Subitems": [
+          {
+            "Name": "Class Test 1",
+            "DueDate":"2024-10-11"
+          },
+          {
+            "Name": "Class Test 2",
+            "DueDate":"2024-11-01"
+          }
+        ]
+      },
+      {
+        "Name": "Crystal field theory assignment",
+        "Type": "Assignment",
+        "Weight": 2.5,
+        "DueDate":"2024-11-07"
+      },
+      {
+        "Name": "Semester test",
+        "Type": "Test",
+        "Weight": 25,
+        "DueDate":"2024-10-21"
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Atomic structure, structure of solids (ionic model). Coordination chemistry of transition metals: Oxidation states\nof transition metals, ligands, stereochemistry, crystal field theory, consequences of d-orbital splitting, chemistry\nof the main group elements, electrochemical properties of transition metals in aqueous solution, industrial\napplications of transition metals. Fundamentals of spectroscopy and introduction to IR spectroscopy. During\npractical training students learn to acquire and report data ethically. Practical training also deals with the misuse\nof chemicals and appropriate waste disposal to protect the environment and meet the UN sustainable\ndevelopment goals.",
     "Institution": "University of Pretoria"
   },
@@ -37163,6 +37586,31 @@
         }
       ]
     },
+    "Assessments": [
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 42,
+        "Subitems": [
+          {
+            "Name": "Class test 1"
+          },
+          {
+            "Name": "Class test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Practicals",
+        "Type": "Practical",
+        "Weight": 18
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight":40
+      }
+    ],
     "Duration": "Semester",
     "Period": [
       1
@@ -37399,6 +37847,41 @@
     "Period": [
       2
     ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 60,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Assignments",
+        "Type": "Assignment",
+        "Weight": 35,
+        "Subitems": [
+          {
+            "Name": "Assignment 1",
+            "Weight": 15
+          },
+          {
+            "Name": "Assignment 2",
+            "Weight": 20
+          }
+        ]
+      },
+      {
+        "Name": "Tutorials",
+        "Type": "Tutorial",
+        "Weight": 5
+      }
+    ],
     "Description": "The module introduces students to urban settlement patterns, processes and structures. Using a series of case\nstudies, it aims to develop an understanding of the challenges facing urban areas both in South Africa and\nglobally.",
     "Institution": "University of Pretoria"
   },
@@ -37420,6 +37903,28 @@
     "Duration": "Semester",
     "Period": [
       1
+    ],
+    "Assessments": [
+      {
+        "Name": "Online assessments",
+        "Type": "Assessment",
+        "Weight": 15
+      },
+      {
+        "Name": "Practical exercises",
+        "Type": "Practical",
+        "Weight": 15
+      },
+      {
+        "Name": "Semester Test",
+        "Type": "Test",
+        "Weight": 30
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
     ],
     "Description": "Physical processes that influence the earth's surface and management. Specific processes and their interaction\nin themes such as weathering; soil erosion; slope, mass movement and periglacial processes. Practical\nlaboratory exercises and assignments are based on the themes covered in the module theory component.\n",
     "Institution": "University of Pretoria"
@@ -55487,6 +55992,26 @@
     "Period": [
       1
     ],
+    "Assessments": [
+      {
+        "Name": "Tests",
+        "Type": "Test",
+        "Weight": 50,
+        "Subitems": [
+          {
+            "Name": "Test 1"
+          },
+          {
+            "Name": "Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Systematic pathology Capita Selecta:\nRespiratory and Circulatory system ; Digestive system; Genito-urinary system; Locomotor system;  Nervous\nsystem; Female reproductive system; Lymphatic and Haematological systems; Intergumentary system;\nEndocrine system.\nNeoplasia associated with viruses.\nTumour markers.\nDevelopmental tumours and tumour like conditions.\nCysts developing on basis of pre-existing malformations.\nTumours developing in pre-existing malformations.\nDefinition, Incidence, Epidemiology, Aetiology and  Pathogenesis of Male & Female  Reproductive system,\nBreast, Endocrine, Skin, Bones/Joints and Soft tissue, Peripheral nerve, Skeletal muscles, Central Nervous\nsystem, Eye, Lung, Head and Neck, Gastro-intestinal tract, Urinary system,  Liver and Biliary tract, Pancreas.   ",
     "Institution": "University of Pretoria"
   },
@@ -56921,7 +57446,7 @@
         "Weight": 60
       },
       {
-        "Name": "Ethics Computer Based Tests",
+        "Name": "Computer based learning of Ethics",
         "Type": "Test",
         "DueDate": "2024-10-05",
         "Weight": 30
@@ -56944,7 +57469,6 @@
         "Name": "Subject Tests",
         "Type": "Test",
         "Weight": 25,
-        "Equal": false,
         "Subitems": [
           {
             "Name": "Subject Test 1",
@@ -67587,8 +68111,8 @@
     "NQF": 6,
     "Assessments": [
       {
-        "Name": "LA MCQ Test",
-        "Type": "Quiz",
+        "Name": "LA MCQ test",
+        "Type": "Test",
         "Weight": 2
       },
       {
