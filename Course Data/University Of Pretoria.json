@@ -517,18 +517,15 @@
       {
         "Name": "Tests",
         "Type": "Test",
-        "Weight": 75,
-        "Equal": true,
+        "Weight": 37.5,
         "Subitems": [
           {
-            "Name": "Test 1",
-            "DueDate": "2024-04-04",
-            "Weight": 37.5
+            "Name": "Semester Test 1",
+            "DueDate": "2024-04-04"
           },
           {
-            "Name": "Test 2 (Exam)",
-            "DueDate": "2024-05-16",
-            "Weight": 37.5
+            "Name": "Semester Test 2",
+            "DueDate": "2024-05-16"
           }
         ]
       },
@@ -536,12 +533,17 @@
         "Name": "Revision Test",
         "Type": "Test",
         "DueDate": "2024-03-08",
-        "Weight": 10
+        "Weight": 5
       },
       {
-        "Name": "Formative Assessments",
+        "Name": "Continuous Assessments",
         "Type": "Coursework",
-        "Weight": 15
+        "Weight": 7.5
+      },
+      {
+        "Name": "Examinaion",
+        "Type": "Exam",
+        "Weight": 50
       }
     ],
     "Description": "BAC310 primarily focuses on company financial statements and the outcome of BAC310 is:\nTo use a conceptual understanding of comprehensive and integrated foundational knowledge of International\nFinancial Reporting Standards (IFRS), basic foundational knowledge of IFRS for small and medium-sized\nenterprises (IFRS for SMEs) and basic foundational knowledge of Generally Recognised Accounting Practice\n(GRAP), in order to proficiently prepare, present and interpret company financial statements in an unfamiliar\nbusiness context and to propose appropriate solutions with compelling justification to solve financial problems in\nan ethical manner.",
@@ -2061,7 +2063,7 @@
             "Name": "Test 2"
           },
           {
-            "Name": "Final Exam | Test 3"
+            "Name": "Test 3"
           }
         ]
       }
@@ -2091,6 +2093,7 @@
         "Name": "Assignments",
         "Type": "Assignment",
         "Weight": 21,
+        "Best": 4,
         "Subitems": [
           {
             "Name": "Assignment 1"
@@ -3303,78 +3306,78 @@
         }
       ]
     },
-    "Assessments":[
-                {
-                    "Name": "Class activities",
-                    "Type": "Activities",
-                    "Equal": true,
-                    "Weight": 5,
-                    "Subitems": [
-                        {
-                          "Name": "Class Activity 1",
-                          "DueDate": "2024-08-01",
-                          "Weight": 2.5
-                        },
-                        {
-                          "Name": "Class Activity 2",
-                          "DueDate": "2024-09-05",
-                          "Weight": 2.5
-                        }
-                    ]
-                },
-                {
-                  "Name": "Group assignment",
-                  "Type": "Test",
-                  "Equal": true,
-                  "Weight": 15,
-                  "Subitems": [
-                      {
-                        "Name": "Group Assignment Team Charter",
-                        "Weight": 5,
-                        "DueDate": "2024-09-30"
-                      },
-                      {
-                        "Name": "Group Assignment Presentation",
-                        "Weight": 5,
-                        "DueDateComment": "17 October – 5 November 2024"
-                      },
-                      {
-                        "Name": "Group Assignment Report",
-                        "Weight": 5,
-                        "DueDate": "2024-11-07"
-                      }
-                  ]
-              },
-                {
-                    "Name": "Attendance",
-                    "Type": "Attendance",
-                    "Weight": 2.5
-                },
-                {
-                    "Name": "Essay",
-                    "Type": "Essay",
-                    "Weight": 10,
-                    "DueDate": "2024-10-18"
-                },
-                {
-                    "Name": "Semester Test",
-                    "Type": "Test",
-                    "Weight": 17.5,
-                    "DueDate": "2024-09-11"
-                },
-                {
-                    "Name": "Examination",
-                    "Type": "Exam",
-                    "Weight": 50
-                }
-            ],
-            "DP": 40,
-            "Passmark": [
+    "Assessments": [
+      {
+          "Name": "Class activities",
+          "Type": "Activities",
+          "Equal": true,
+          "Weight": 5,
+          "Subitems": [
               {
-                "Passtype": "Pass",
-                "Mark": 50
+                "Name": "Class Activity 1",
+                "DueDate": "2024-08-01",
+                "Weight": 2.5
+              },
+              {
+                "Name": "Class Activity 2",
+                "DueDate": "2024-09-05",
+                "Weight": 2.5
               }
-            ],
+          ]
+      },
+      {
+        "Name": "Group assignment",
+        "Type": "Test",
+        "Equal": true,
+        "Weight": 15,
+        "Subitems": [
+            {
+              "Name": "Group Assignment Team Charter",
+              "DueDate": "2024-09-30",
+              "Weight": 5
+            },
+            {
+              "Name": "Group Assignment Presentation",
+              "DueDate": "2024-11-05",
+              "Weight": 5
+            },
+            {
+              "Name": "Group Assignment Report",
+              "DueDate": "2024-11-07",
+              "Weight": 5
+            }
+        ]
+      },
+      {
+          "Name": "Attendance",
+          "Type": "Attendance",
+          "Weight": 2.5
+      },
+      {
+          "Name": "Essay",
+          "Type": "Essay",
+          "DueDate": "2024-10-18",
+          "Weight": 10
+      },
+      {
+          "Name": "Semester Test",
+          "Type": "Test",
+          "DueDate": "2024-09-11",
+          "Weight": 17.5
+      },
+      {
+          "Name": "Examination",
+          "Type": "Exam",
+          "Weight": 50
+      }
+    ],
+    "DP": 40,
+    "Passmark": [
+      {
+        "Passtype": "Pass",
+        "Mark": 50
+      }
+    ],
     "Duration": "Semester",
     "Period": [
       2
@@ -4039,7 +4042,7 @@
     ],
     "Assessments": [
       {
-        "Name": "Group and Individual Assignment",
+        "Name": "Class Group Assignment",
         "Type": "Assignment",
         "DueDate": "2024-05-30",
         "Weight": 5
@@ -4051,19 +4054,17 @@
         "Subitems": [
           {
             "Name": "Semester Test 1",
-            "DueDate": "2024-04-27",
-            "Weight": 15
+            "DueDate": "2024-04-27"
           },
           {
             "Name": "Semester Test 2",
-            "DueDate": "2024-05-20",
-            "Weight": 20
+            "DueDate": "2024-05-20"
           }
         ]
       },
       {
-        "Name": "Tutorial Tests",
-        "Type": "Tutorial",
+        "Name": "Class Tests",
+        "Type": "Test",
         "DueDate": "2024-06-07",
         "Weight": 5
       },
@@ -4174,6 +4175,54 @@
     "Duration": "Semester",
     "Period": [
       2
+    ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 40,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "clickUP Tests/Online Assignments",
+        "Type": "Quiz",
+        "Weight": 10,
+        "Subitems": [
+          {
+            "Name": "clickUP Quiz 1"
+          },
+          {
+            "Name": "clickUP Quiz 2"
+          },
+          {
+            "Name": "clickUP Quiz 3"
+          },
+          {
+            "Name": "clickUP Quiz 4"
+          },
+          {
+            "Name": "clickUP Quiz 5"
+          },
+          {
+            "Name": "clickUP Quiz 6"
+          },
+          {
+            "Name": "clickUP Quiz 7"
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
     ],
     "Description": "*Only for BCom (Financial Sciences, Investment Management and Law) students.\nThe purpose and functioning of management accounting, cost classification; the determination of product costs\nincluding raw material costs, labour costs, overheads and its allocation according to traditional and activity-\nbased costing methods, inventory management, the accumulation of costs according to job and process costing\nsystems, the treatment of joint and by-products and the determination of costs according to a direct and\nabsorption costing approach; decisionmaking with reference to cost-volume-profit ratios.",
     "Institution": "University of Pretoria"
@@ -4376,9 +4425,20 @@
         ]
       },
       {
-        "Name": "Continuous Assessments",
-        "Type": "Assessment",
-        "Weight": 5
+        "Name": "ClickUP Tests, Class Tests and Homework",
+        "Type": "Coursework",
+        "Weight": 5,
+        "Subitems": [
+          {
+            "Name": "ClickUP Tests"
+          },
+          {
+            "Name": "Class Tests"
+          },
+          {
+            "Name": "Homework"
+          }
+        ]
       },
       {
         "Name": "Integrated Assignment",
@@ -4418,63 +4478,48 @@
     ],
     "Description": "*Only for BCom (Financial Sciences, Investment Management, and Law) and BSs (Construction Management,\nQuantity Surveying and Real Estate) students.\nCost of capital; determination of capital requirements and the financing of a business to maintain the optimal\ncapital structure; the investment decision and the study of financial selection criteria in the evaluation of capital\ninvestment projects; impact of inflation and risk on capital investment decisions; evaluation of leasing decisions;\ndividend decisions; international financial management.  Valuation principles and practices: an introduction to\nsecurity analysis; hybrids and derivative instruments, mergers and acquisitions.",
     "Institution": "University of Pretoria",
-    "Assessments": [
-      {
-        "Name": "Semester Tests",
-        "Type": "Test",
-        "Equal": true,
-        "Weight": 35,
-        "Subitems": [
-            {
-              "Name": "Semester Test 1",
-              "DueDate": "2024-09-11"
-            },
-            {
-              "Name": "Semester Test 2",
-              "DueDate": "2024-10-23"
-            }
-        ]
-      },
-      {
-          "Name": "Class Test",
-          "Type": "Test",
-          "DueDate": "2024-08-14",
-          "Weight": 5
-      },
-      {
-          "Name": "ClickUp Test",
-          "Type": "Quiz",
-          "Weight": 10,
-          "Subitems": [
-            {
-              "Name": "ClickUp Test 1"
-            },
-            {
-              "Name": "ClickUp Test 2"
-            },
-            {
-              "Name": "ClickUp Test 3"
-            },
-            {
-              "Name": "ClickUp Test 4"
-            },
-            {
-              "Name": "ClickUp Test 5"
-            },
-            {
-              "Name": "ClickUp Test 6"
-            },
-            {
-              "Name": "ClickUp Test 7"
-            }
-          ]
-      },
-      {
-          "Name": "Examination",
-          "Type": "Exam",
-          "Weight": 50
-      }
-    ]
+    "Assessments":[
+                    {
+                    "Name": "Semester Tests",
+                    "Type": "Test",
+                    "Equal": true,
+                    "Weight": 35,
+                    "Subitems": [
+                        {
+                          "Name": "Semester Test 1",
+                          "DueDate": "2024-09-11"
+                        },
+                        {
+                          "Name": "Semester Test 2",
+                          "DueDate": "2024-10-23"
+                        }
+                    ]
+                },
+                {
+                    "Name": "Class Test",
+                    "Type": "Test",
+                    "DueDate": "2024-08-14",
+                    "Weight": 5
+                },
+                {
+                    "Name": "ClickUp Test and Assignment",
+                    "Type": "Assignment",
+                    "Weight": 10,
+                    "Subitems": [
+                      {
+                        "Name": "ClickUp Test"
+                      },
+                      {
+                        "Name": "Assignments"
+                      }
+                    ]
+                },
+                {
+                    "Name": "Examination",
+                    "Type": "Exam",
+                    "Weight": 50
+                }
+            ]
   },
   {
     "Name": "Financial management 361",
@@ -4496,7 +4541,7 @@
         "Weight": 30
       },
       {
-        "Name": "Class Test",
+        "Name": "Capital Budgeting Class Test",
         "Type": "Test",
         "DueDate": "2024-08-14",
         "Weight": 10
@@ -5079,37 +5124,43 @@
     "Assessments": [
       {
         "Name": "Year Test 1",
-        "Type": "Exam",
-        "Weight": 40
+        "Type": "Test",
+        "Weight": 18.7
       },
       {
         "Name": "Class Tests",
         "Type": "Test",
-        "Weight": 20,
-        "Best": 4,
+        "Weight": 9.35,
         "Subitems": [
           {
-            "Name": "Class Test 1"
+            "Name": "Class Test 1",
+            "Weight": 4.675
           },
           {
-            "Name": "Class Test 2"
+            "Name": "Class Test 2",
+            "Weight": 2.3375
           },
           {
-            "Name": "Class Test 3"
-          },
-          {
-            "Name": "Class Test 4"
-          },
-          {
-            "Name": "Class Test 5"
+            "Name": "Class Test 3",
+            "Weight": 2.3375
           }
         ]
       },
       {
         "Name": "Year Test 2",
-        "Type": "Exam",
+        "Type": "Test",
         "DueDate": "2024-09-02",
-        "Weight": 40
+        "Weight": 18.7
+      },
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Assessment",
+        "Weight": 8.25
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 45
       }
     ],
     "Duration": "Year",
@@ -6590,7 +6641,7 @@
       {
         "Name": "Practicals",
         "Type": "Practical",
-        "Weight": 10,
+        "Weight": 5,
         "Subitems": [
           {
             "Name": "Practical 1 - Use Case Diagram",
@@ -6623,18 +6674,6 @@
           {
             "Name": "Practical 8 - Technical ERD Diagram",
             "DueDate": "2024-08-14"
-          },
-          {
-            "Name": "Practical 9 - UML - Class Diagrams"
-          },
-          {
-            "Name": "Practical 10 - Activity Diagrams"
-          },
-          {
-            "Name": "Practical 11 - Sequence Diagrams"
-          },
-          {
-            "Name": "Practical 12 - State Diagrams"
           }
         ]
       },
@@ -6656,6 +6695,11 @@
             "DueDate": "2024-10-07"
           }
         ]
+      },
+      {
+        "Name": "Quizzes",
+        "Type": "Quiz",
+        "Weight": 5
       },
       {
         "Name": "Examination",
@@ -6686,7 +6730,7 @@
       {
         "Name": "Projects and Homework",
         "Type": "Project",
-        "Weight": 15,
+        "Weight": 30,
         "Subitems": [
           {
             "Name": "Take Home Project 1",
@@ -6705,47 +6749,12 @@
       {
         "Name": "Practial Assessments",
         "Type": "Practical",
-        "Weight": 15,
-        "Subitems": [
-          {
-            "Name": "Practical 1"
-          },
-          {
-            "Name": "Practical 2"
-          },
-          {
-            "Name": "Practical 3"
-          },
-          {
-            "Name": "Practical 4"
-          },
-          {
-            "Name": "Practical 5"
-          },
-          {
-            "Name": "Practical 6"
-          },
-          {
-            "Name": "Practical 7"
-          },
-          {
-            "Name": "Practical 8"
-          },
-          {
-            "Name": "Practical 9"
-          },
-          {
-            "Name": "Practical 10"
-          },
-          {
-            "Name": "Practical 11"
-          }
-        ]
+        "Weight": 30
       },
       {
         "Name": "Semester Tests",
         "Type": "Test",
-        "Weight": 20,
+        "Weight": 40,
         "Subitems": [
           {
             "Name": "Semester Test 1",
@@ -6756,11 +6765,6 @@
             "DueDate": "2024-09-09"
           }
         ]
-      },
-      {
-        "Name": "Examination",
-        "Type": "Exam",
-        "Weight": 50
       }
     ],
     "Description": "Advanced programming.",
@@ -6820,42 +6824,6 @@
     "Period": [
       2
     ],
-    "Assessments": [
-      {
-        "Name": "Assignments",
-        "Type": "Assignment",
-        "Weight": 15,
-        "Subitems": [
-          {
-            "Name": "Individual Assignment 1",
-            "DueDate": "2024-08-18"
-          },
-          {
-            "Name": "Individual Assignment 2",
-            "DueDate": "2024-09-09"
-          },
-          {
-            "Name": "Group Assignment 1",
-            "DueDate": "2024-10-13"
-          }
-        ]
-      },
-      {
-        "Name": "Continuous Assessments",
-        "Type": "Assessment",
-        "Weight": 10
-      },
-      {
-        "Name": "Semester Test",
-        "Type": "Test",
-        "Weight": 25
-      },
-      {
-        "Name": "Examination",
-        "Type": "Exam",
-        "Weight": 50
-      }
-    ],
     "Description": "Information systems in organisations.",
     "Institution": "University of Pretoria"
   },
@@ -6883,42 +6851,6 @@
     "Duration": "Semester",
     "Period": [
       1
-    ],
-    "Assessments": [
-      {
-        "Name": "Assignments",
-        "Type": "Assignment",
-        "Weight": 15,
-        "Subitems": [
-          {
-            "Name": "Individual Assignment 1",
-            "DueDate": "2024-08-18"
-          },
-          {
-            "Name": "Individual Assignment 2",
-            "DueDate": "2024-09-09"
-          },
-          {
-            "Name": "Group Assignment 1",
-            "DueDate": "2024-10-13"
-          }
-        ]
-      },
-      {
-        "Name": "Continuous Assessments",
-        "Type": "Assessment",
-        "Weight": 10
-      },
-      {
-        "Name": "Semester Test",
-        "Type": "Test",
-        "Weight": 25
-      },
-      {
-        "Name": "Examination",
-        "Type": "Exam",
-        "Weight": 50
-      }
     ],
     "Description": "Advanced programming.",
     "Institution": "University of Pretoria"
@@ -6949,83 +6881,6 @@
       ]
     },
     "Duration": "Year",
-    "Assessments": [
-      {
-        "Name": "Project Proposal",
-        "Type": "Project",
-        "Weight": 2.4
-      },
-      {
-        "Name": "Functional and Initial Technical specification",
-        "Type": "Assessment",
-        "Weight": 4.8
-      },
-      {
-        "Name": "Final project approval and execution plannin",
-        "Type": "Assessment",
-        "Weight": 1.2
-      },
-      {
-        "Name": "Design, Model, Interface development and coding 1",
-        "Type": "Assessment",
-        "Weight": 3.6
-      },
-      {
-        "Name": "Design, Model, Interface development and coding 2",
-        "Type": "Assessment",
-        "Weight": 9
-      },
-      {
-        "Name": "Design, Model, Interface development and coding 3",
-        "Type": "Assessment",
-        "Weight": 4.2
-      },
-      {
-        "Name": "Internal Tested System 7a",
-        "Type": "Assessment",
-        "Weight": 15
-      },
-      {
-        "Name": "Finalised Design Specification Documentation 7b",
-        "Type": "Assessment",
-        "Weight": 3
-      },
-      {
-        "Name": "Project Repository (Web page) 7c",
-        "Type": "Assessment",
-        "Weight": 1.8
-      },
-      {
-        "Name": "Individual Review",
-        "Type": "Coursework",
-        "Weight": 15
-      },
-      {
-        "Name": "Final System - 8a",
-        "Type": "Exam",
-        "Weight": 30
-      },
-      {
-        "Name": "User Documentation - 8b",
-        "Type": "Assessment",
-        "Weight": 2
-      },
-      {
-        "Name": "System Video - 8c",
-        "Type": "Assessment",
-        "Weight": 2
-      },
-      {
-        "Name": "Project Day - 8d",
-        "Type": "Assessment",
-        "Weight": 2
-      },
-      {
-        "Name": "Individual Review",
-        "Type": "Coursework",
-        "Weight": 4
-      }
-    ],
     "Description": "Application of systems analysis and design in a practical project; programming; use of computer-aided\ndevelopment tools.",
     "Institution": "University of Pretoria"
   },
@@ -7252,7 +7107,62 @@
     "Prerequisite": {
       "Code": "PTO101"
     },
-    "Duration": "Semester",
+    "Duration": "Year",
+    "Assessments":[
+      {
+        "Name": "Attendance",
+        "Weight": 7,
+        "Equal": true,
+        "Subitems":[
+          {
+            "Name": "Semester 1 Attendande"
+          },
+          {
+            "Name": "Semester 2 Attendande"
+          }
+        ]
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Equal": true,
+        "Weight": 31.5,
+        "Subitems":[
+          {
+            "Name": "Semester 1 Test 1"
+          },
+          {
+            "Name": "Semester 1 Test 1"
+          },
+          {
+            "Name": "Semester 2 Test"
+          }
+        ]
+      },
+      {
+        "Name": "Class Tests (multiple)",
+        "Type": "Test",
+        "Equal": true,
+        "Weight": 21,
+        "Subitems":[
+          {
+            "Name": "Semester 1 Class Test"
+          },
+          {
+            "Name": "Semester 2 Class Test"
+          }
+        ]
+      },
+      {
+        "Name": "Semester Assignment",
+        "Type": "Assignment",
+        "Weight": 10.5
+      },
+      {
+        "Name": "Exam",
+        "Weight":30
+      }
+    ],
     "Period": [
       1
     ],
@@ -7396,6 +7306,52 @@
     "Period": [
       1
     ],
+    "Assessments": [
+      {
+        "Name": "Assignments",
+        "Type": "Assignment",
+        "Weight": 12.5,
+        "Subitems": [
+          {
+            "Name": "Assignment 1",
+            "Weight": 5
+          },
+          {
+            "Name": "Assignment 2",
+            "Weight": 7.5
+          }
+        ]
+      },
+      {
+        "Name": "Online Tests",
+        "Type": "Test",
+        "Weight": 20,
+        "Subitems": [
+          {
+            "Name": "Online Test 1",
+            "Weight": 7.5
+          },
+          {
+            "Name": "Online Test 2",
+            "Weight": 7.5
+          },
+          {
+            "Name": "Online Test 3",
+            "Weight": 5
+          }
+        ]
+      },
+      {
+        "Name": "Semester Test",
+        "Type": "Test",
+        "Weight": 17.5
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "**For LLB and BCom specialising in law\nGeneral introduction and historical backgrounda.\nThe process of sequestrationb.\nEffects of sequestrationc.\nVoidable and void dispositionsd.\nOverview of administration of insolvent estatese.\nComposition, rehabilitation and offencesf.\nLiquidation of insolvent companies and close corporationsg.",
     "Institution": "University of Pretoria"
   },
@@ -7459,22 +7415,21 @@
       {
         "Name": "Year tests",
         "Type": "Test",
-        "Equal": false,
-        "Weight": 70,
+        "Weight": 35,
         "Subitems": [
             {
               "Name": "Year test 1",
-              "Weight": 20,
+              "Weight": 10,
               "DueDate": "2024-04-26"
             },
             {
               "Name": "Year test 2",
-              "Weight": 25,
+              "Weight": 12.5,
               "DueDate": "2024-05-30"
             },
             {
               "Name": "Year test 3",
-              "Weight": 25,
+              "Weight": 12.5,
               "DueDate": "2024-10-14"
             }
         ]
@@ -7482,7 +7437,7 @@
     {
         "Name": "Class Tests",
         "Type": "Quiz",
-        "Weight": 15,
+        "Weight": 7.5,
         "Best": 3,
         "Subitems": [
           {
@@ -7502,7 +7457,12 @@
     {
         "Name": "Equity Assignment",
         "Type": "Assignment",
-        "Weight": 15
+        "Weight": 7.5
+    },
+    {
+      "Name": "Examination",
+      "Type": "Exam",
+      "Weight": 50
     }
   ]
   },
@@ -8013,6 +7973,34 @@
     "Code": "KOB184",
     "Credit": 5,
     "NQF": 5,
+    "Assessments": [
+      {
+        "Name": "Online Activities",
+        "Type": "Activities",
+        "Weight": 15
+      },
+      {
+        "Name": "Training Manual",
+        "Type": "Manual",
+        "Weight": 35
+      },
+      {
+        "Name": "Exam Assignment",
+        "Type": "Exam",
+        "DueDate": "2024-04-24",
+        "Weight": 50,
+        "Equal":true,
+        "Subitems":[
+          {
+            "Name": "Business Research Report"
+          },
+          {
+            "Name": "Digital Business Presentation"
+          }
+
+        ]
+      }
+    ],
     "Prerequisite": {
       "Comment": "Only one of KOB 181-184 may be taken as as a module where necessary for a programme"
     },
@@ -8408,9 +8396,7 @@
       {
           "Name": "Semester Tests",
           "Type": "Test",
-          "Equal": true,
           "Weight": 40,
-          "Best": 2,
           "Subitems": [
               {
                 "Name": "Semester Test 1",
@@ -8419,19 +8405,13 @@
               {
                 "Name": "Semester Test 2",
                 "DueDate": "2024-05-06"
-              },
-              {
-                "Name": "Semester Test 3",
-                "DueDate": "2024-06-03"
               }
           ]
       },
       {
         "Name": "Assignments",
         "Type": "Assignment",
-        "Equal": true,
         "Weight": 10,
-        "Best": 10,
         "Subitems": [
             {
               "Name": "Assignment 1"
@@ -8462,9 +8442,6 @@
             },
             {
               "Name": "Assignment 10"
-            },
-            {
-              "Name": "Assignment 11"
             }
         ]
     },
@@ -8821,40 +8798,51 @@
         "Mark": 50
       }
     ],
-    "Assessments":[
-                    {
-                    "Name": "Semester Tests",
-                    "Type": "Test",
-                    "Equal": true,
-                    "Weight": 40,
-                    "Subitems": [
-                        {
-                          "Name": "Semester Test 1"
-                        },
-                        {
-                          "Name": "Semester Test 2"
-                        }
-                    ]
-                },
-                {
-                    "Name": "Assignments and Quizes",
-                    "Type": "Quiz",
-                    "Weight": 10,
-                    "Subitems": [
-                      {
-                        "Name": "Assignments"
-                      },
-                      {
-                        "Name": "Quizzes"
-                      }
-                    ]
-                },
-                {
-                    "Name": "Examination",
-                    "Type": "Exam",
-                    "Weight": 50
-                }
-            ]
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Equal": true,
+        "Weight": 30,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          },
+          {
+            "Name":"Semester Test 3"
+          }
+        ]
+      },
+      {
+        "Name": "Assignments and Quizes",
+        "Type": "Quiz",
+        "Weight": 12.5,
+        "Subitems": [
+          {
+            "Name": "Assignment 1: Creating a Unique Consumer Persona"
+          },
+          {
+            "Name": "Consumer Prefences"
+          },
+          {
+            "Name": "Assignment 3"
+          }
+        ]
+      },
+      {
+        "Name": "Marketing Assignment",
+        "Type": "Assignment",
+        "Weight": 7.5
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ]
   },
   {
     "Name": "Agricultural economics 310",
@@ -9564,6 +9552,7 @@
       {
         "Name": "Quizzes",
         "Type": "Quiz",
+        "Equal": true,
         "Weight": 10,
         "Best": 9,
         "Subitems": [
@@ -9605,6 +9594,7 @@
       {
         "Name": "Semester tests",
         "Type": "Test",
+        "Equal": true,
         "Weight": 40,
         "Subitems": [
             {
@@ -10781,6 +10771,63 @@
       "Comment": "No prerequisites"
     },
     "Duration": "Semester",
+    "Assessments":[
+      {
+        "Name": "Mindmap",
+        "Weight": 5,
+        "DueDate": "2024-03-17"
+      },
+      {
+        "Name": "Semester Quizzes",
+        "Type": "Quiz",
+        "Equal": true,
+        "Weight": 10,
+        "Subitems": [
+          {
+            "Name": "Quiz 1",
+            "DueDate": "2024-03-03"
+          },
+          {
+            "Name": "Quiz 2",
+            "DueDate": "2024-04-07"
+          },
+          {
+            "Name": "Quiz 3",
+            "DueDate": "2024-05-05"
+          },
+          {
+            "Name": "Quiz 4",
+            "DueDate": "2024-05-12"
+          },
+          {
+            "Name": "Quiz 5",
+            "DueDate": "2024-05-26"
+          }
+        ]
+      },
+      {
+        "Name": "Assignments",
+        "Type": "Assignment",
+        "Equal":false,
+        "Weight": 35,
+        "Subitems":[
+          {
+            "Name": "Individual Assignment",
+            "Weight": 35,
+            "DueDate": "2024-04-21"
+          },
+          {
+            "Name": "Group Assignment",
+            "Weight": 10,
+            "DueDate": "2024-05-21"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Weight": 50
+      }
+    ],
     "Period": [
       1
     ],
@@ -11349,6 +11396,53 @@
       "Comment": "No prerequisites"
     },
     "Duration": "Semester",
+    "Assessments":[
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Equal": true,
+        "Weight": 10,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1",
+            "DueDate": "2024-03-08"
+          },
+          {
+            "Name": "Semester Test 2",
+            "DueDate": "2024-03-18"
+          },
+          {
+            "Name": "Semester Test 3",
+            "DueDate": "2024-05-06"
+          },
+          {
+            "Name": "Semester Test 4",
+            "DueDate": "2024-05-13"
+          }
+        ]
+      },
+      {
+        "Name": "Semester Test 2",
+        "Type": "Semester Test",
+        "Equal":true,
+        "Weight": 40,
+        "Subitems":[
+          {
+            "Name": "Semester Test 1",
+            "DueDate": "2024-04-15"
+          },
+          {
+            "Name": "Semester Test 2",
+            "DueDate": "2024-05-20"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Weight": 50,
+        "Duedate": "2024-06-21"
+      }
+    ],
     "Period": [
       1
     ],
@@ -11770,7 +11864,7 @@
       {
         "Name": "Module Tests",
         "Type": "Test",
-        "Weight": 30,
+        "Weight": 60,
         "Subitems": [
           {
             "Name": "Module Test 1",
@@ -11785,7 +11879,7 @@
       {
         "Name": "Practical Assignments",
         "Type": "Practical",
-        "Weight": 10,
+        "Weight": 20,
         "Subitems": [
           {
             "Name": "Assignment 1"
@@ -11798,12 +11892,7 @@
       {
         "Name": "Quizzes",
         "Type": "Quiz",
-        "Weight": 10
-      },
-      {
-        "Name": "Examination",
-        "Type": "Exam",
-        "Weight": 50
+        "Weight": 20
       }
     ],
     "Description": "Inferential concepts. Experimental and observational data. Measures of association, uncertainty and goodness of\nfit. Sampling error and accuracy of estimation. Introduction to linear regression, reduction of variation due to\nregression. Conditional distributions of residuals.  Simulation based inference: conditional means and prediction\nintervals. Bivariate data visualisation. Supporting mathematical concepts. Statistical concepts are demonstrated\nand interpreted through practical coding and simulation within a data science framework.\nThis module is also presented as a summer school for students who initially elected and passed STK120 with a\nfinal mark of at least 60% and then decides to further their studies in statistics as well as for students who\nachieved a final mark of between 40% - 49% in STC122 during semester 2.",
@@ -12653,7 +12742,7 @@
       {
         "Name": "Practical Assignments",
         "Type": "Assignment",
-        "Weight": 20,
+        "Weight": 10,
         "Subitems": [
           {
             "Name": "Practical Assignment 1"
@@ -12663,35 +12752,33 @@
           },
           {
             "Name": "Practical Assignment 3"
-          },
-          {
-            "Name": "Practical Assignment 4"
           }
         ]
       },
       {
-        "Name": "Quizzes",
+        "Name": "Class Tests",
         "Type": "Quiz",
-        "Weight": 20,
+        "Weight": 5,
+        "Best": 2,
         "Subitems": [
           {
-            "Name": "Quiz 1"
+            "Name": "Class Test 1",
+            "DueDate": "2024-08-22"
           },
           {
-            "Name": "Quiz 2"
+            "Name": "Class Test 2",
+            "DueDate": "2024-09-12"
           },
           {
-            "Name": "Quiz 3"
-          },
-          {
-            "Name": "Quiz 4"
+            "Name": "Class Test 3",
+            "DueDate": "2024-10-17"
           }
         ]
       },
       {
         "Name": "Semester Tests",
         "Type": "Test",
-        "Weight": 60,
+        "Weight": 35,
         "Subitems": [
           {
             "Name": "Semester Test 1"
@@ -12700,6 +12787,11 @@
             "Name": "Semester Test 2"
           }
         ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
       }
     ],
     "Description": "Stationary and non-stationary univariate time series. Properties of ARIMA processes. Identification, estimation\nand diagnostic testing of a time series models. Forecasting. Multivariate time series. Supervised learning:\nintroduction to generalised linear models.  Modelling of binary response variables, logistic regression. Supporting\nmathematical concepts. Statistical concepts are demonstrated and interpreted through practical coding and\nsimulation within a data science framework.",
@@ -12722,6 +12814,7 @@
         "Name": "Practical Assignments",
         "Type": "Assignment",
         "Weight": 20,
+        "Best": 3,
         "Subitems": [
           {
             "Name": "Practical Assignment 1",
@@ -12745,6 +12838,7 @@
         "Name": "Quizzes",
         "Type": "Quiz",
         "Weight": 20,
+        "Best": 3,
         "Subitems": [
           {
             "Name": "Quiz 1",
@@ -12869,39 +12963,6 @@
     "Duration": "Semester",
     "Period": [
       2
-    ],
-    "Assessments": [
-      {
-        "Name": "",
-        "Type": "",
-        "Weight": 0
-      },
-      {
-        "Name": "Assignments",
-        "Type": "Assignment",
-        "Weight": 50,
-        "Subitems": [
-          {
-            "Name": "First Team Work Assignment"
-          },
-          {
-            "Name": "Second Team Work Assignment"
-          }
-        ]
-      },
-      {
-        "Name": "Quizzes",
-        "Type": "Quiz",
-        "Weight": 20,
-        "Subitems": [
-          {
-            "Name": "Online Quiz - Political Analysis"
-          },
-          {
-            "Name": "Online Quiz - Public Policy"
-          }
-        ]
-      }
     ],
     "Description": "Part 1: Democratic studies\nA high level critical analysis of democratic theory and practice. The analysis of democratic theory will include\nthemes such as classical, radical, deliberative and feminist perspectives. The analysis of democratic practice will\ninclude aspects such as democratisation, democratic consolidation, democratic citizenship and society, the role\nand importance of civil society, the institutions and procedures for democracy and good governance.\nPart 2: Political analysis\nThe methods and practice of political analysis is the focus of study. The principles and problems underpinning\ndifferent approaches and methods of political analysis are described and explained. This includes the nature,\nmethods and use of comparative analysis, forecasting, risk analysis, performance evaluation and the political\naudit. These analytical methods are positioned in a political and policy context, with emphasis on practical\napplication. Applicable examples and case studies are used throughout.",
     "Institution": "University of Pretoria"
@@ -13361,6 +13422,51 @@
     "Code": "WST133",
     "Credit": 8,
     "NQF": 5,
+    "Assessments": [
+      {
+          "Name": "Semester Tests",
+          "Type": "Test",
+          "Equal": true,
+          "Weight": 25,
+          "Subitems": [
+              {
+                "Name": "Semester Test 1",
+                "Weight": 12.5,
+                "DueDate": "2024-03-29"
+              },
+              {
+                "Name": "Semester Test 2",
+                "Weight": 12.5,
+                "DueDate": "2024-05-24"
+              }
+          ]
+      },
+      {
+          "Name": "Class Tests",
+          "Type": "Test",
+          "Weight": 5
+      },
+      {
+          "Name": "Practical Exam",
+          "Type": "Practical",
+          "Weight": 5
+      },
+      {
+          "Name": "Project Work",
+          "Type": "Project",
+          "Weight": 7.5
+      },
+      {
+          "Name": "Continuous Assessments",
+          "Type": "Assessment",
+          "Weight": 7.5
+      },
+      {
+          "Name": "Examination",
+          "Type": "Exam",
+          "Weight": 50
+      }
+  ],
     "Prerequisite": {
       "$and": [
         {
@@ -13429,7 +13535,7 @@
         {
             "Name": "Class Tests",
             "Type": "Test",
-            "Weight": 5
+            "Weight": 7.5
         },
         {
             "Name": "Practical Exam",
@@ -13439,12 +13545,12 @@
         {
             "Name": "Project Work",
             "Type": "Project",
-            "Weight": 5
+            "Weight": 7.5
         },
         {
             "Name": "Continuous Assessments",
             "Type": "Assessment",
-            "Weight": 10
+            "Weight": 5
         },
         {
             "Name": "Examination",
@@ -14472,6 +14578,31 @@
     "Code": "WTW135",
     "Credit": 16,
     "NQF": 5,
+    "Assessments":[
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Equal":true,
+        "Weight": "42",
+        "Subitems":[
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Tutorial tests, class work & worksheets",
+        "Type": "Activities",
+        "Weight": "18"
+      },
+      {
+        "Name": "Examination",
+        "Weight": "40"
+      }
+    ],
     "Prerequisite": {
       "$or": [
         {
@@ -14641,7 +14772,7 @@
       {
         "Name": "Semester Tests",
         "Type": "Test",
-        "Weight": 35,
+        "Weight": 42,
         "Subitems": [
           {
             "Name": "Semester Test 1",
@@ -14657,12 +14788,12 @@
         "Name": "Tutorial Tests",
         "Type": "Tutorial",
         "DueDate": "2024-10-17",
-        "Weight": 15
+        "Weight": 18
       },
       {
         "Name": "Examination",
         "Type": "Exam",
-        "Weight": 50
+        "Weight": 40
       }
     ],
     "Description": "*Students will not be credited for more than one of the following modules for their degree:\nWTW124, WTW148 and WTW164. The module WTW148 is designed for students who require Mathematics at\n100 level only and does not lead to admission to Mathematics at 200 level.\nIntegration techniques. Modelling with differential equations. Functions of several variables, partial derivatives,\noptimisation. Numerical techniques. All topics are studied in the context of applications.",
@@ -14679,6 +14810,37 @@
     "Duration": "Semester",
     "Period": [
       1
+    ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 42,
+        "Subitems": [
+          {"Name": "Semester Test 1"},
+          {"Name": "Semester Test 2"}
+        ]
+      },
+      {
+        "Name": "Tutorial Tests",
+        "Type": "Tutorial",
+        "Weight": 18,
+        "Subitems": [
+          {"Name": "Tutorial Test 1"},
+          {"Name": "Tutorial Test 2"},
+          {"Name": "Tutorial Test 3"},
+          {"Name": "Tutorial Test 4"},
+          {"Name": "Tutorial Test 5"},
+          {"Name": "Tutorial Test 6"},
+          {"Name": "Tutorial Test 7"},
+          {"Name": "Tutorial Test 8"}
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
     ],
     "Description": "Differential calculus of a single variable with proofs and applications. The mean value theorem, the rule of\nL'Hospital. Upper and lower sums, definite and indefinite integrals, the Fundamental theorem of Calculus, the\nmean value theorem for integrals, integration techniques, with some proofs.",
     "Institution": "University of Pretoria"
@@ -14885,7 +15047,42 @@
       {
           "Name": "Homework Assignments",
           "Type": "Assignment",
-          "Weight": 3
+          "Weight": 3,
+          "Subitems": [
+            {
+              "Name": "Homework Assignment 1"
+            },
+            {
+              "Name": "Homework Assignment 2"
+            },
+            {
+              "Name": "Homework Assignment 3"
+            },
+            {
+              "Name": "Homework Assignment 4"
+            },
+            {
+              "Name": "Homework Assignment 5"
+            },
+            {
+              "Name": "Homework Assignment 6"
+            },
+            {
+              "Name": "Homework Assignment 7"
+            },
+            {
+              "Name": "Homework Assignment 8"
+            },
+            {
+              "Name": "Homework Assignment 9"
+            },
+            {
+              "Name": "Homework Assignment 10"
+            },
+            {
+              "Name": "Homework Assignment 11"
+            }
+          ]
       },
       {
           "Name": "Examination",
@@ -15886,6 +16083,49 @@
     "Period": [
       1
     ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 25,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Online Tests",
+        "Type": "Quiz",
+        "Weight": 25,
+        "Subitems": [
+          {
+            "Name": "Online Test 1",
+            "Weight": 5
+          },
+          {
+            "Name": "Online Test 2",
+            "Weight": 5
+          },
+          {
+            "Name": "Online Test 3",
+            "Weight": 10
+          },
+          {
+            "Name": "Online Test 4",
+            "Weight": 5
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Introduction to law. General principles of the law of contract. Specific contracts: purchase contracts; letting and\nhiring of work; employment contracts. Agency. General aspects of entrepreneurial law.",
     "Institution": "University of Pretoria"
   },
@@ -15934,10 +16174,6 @@
           {
             "Name": "Assignment 5",
             "DueDate": "2024-10-17"
-          },
-          {
-            "Name": "Assignment 6",
-            "DueDate": "2024-11-08"
           }
         ]
       },
@@ -15948,12 +16184,10 @@
         "Equal": true,
         "Subitems": [
           {
-            "Name": "Semester Test 1",
-            "DueDateComment": "24 August 2024 - 31 August 2024"
+            "Name": "Semester Test 1"
           },
           {
-            "Name": "Semester Test 2",
-            "DueDateComment": "14 October 2024 - 19 October 2024"
+            "Name": "Semester Test 2"
           }
         ]
       },
@@ -16717,16 +16951,13 @@
         "Weight": 45,
         "Subitems": [
           {
-            "Name": "Semester Test 1",
-            "DueDateComment": "April 2024"
+            "Name": "Semester Test 1"
           },
           {
-            "Name": "Semester Test 2",
-            "DueDateComment": "May 2024"
+            "Name": "Semester Test 2"
           },
           {
-            "Name": "Semester Test 3",
-            "DueDateComment": "August/September 2024"
+            "Name": "Semester Test 3"
           }
         ]
       },
@@ -21763,12 +21994,10 @@
         "Weight": 40,
         "Subitems": [
           {
-            "Name": "Semester Test 1",
-            "DueDateComment": "24 August 2024 - 31 August 2024"
+            "Name": "Semester Test 1"
           },
           {
-            "Name": "Semester Test 2",
-            "DueDateComment": "14-19 October 2024 - 26 October 2024"
+            "Name": "Semester Test 2"
           }
         ]
       },
@@ -22067,6 +22296,27 @@
     "Code": "ENV101",
     "Credit": 8,
     "NQF": 5,
+    "Assessments":[
+      {
+        "Name": "Class Test",
+        "Type": "Test",
+        "Weight": 12.5
+      },
+      {
+        "Name": "Semester Test",
+        "Type": "Test",
+        "Weight": 25
+      },
+      {
+        "Name": "Online Assessment",
+        "Type": "Assessment",
+        "Weight": 12.5
+      },
+      {
+        "Name": "Exam",
+        "Weight": 50
+      }
+    ],
     "Prerequisite": {
       "Comment": "No prerequisites"
     },
@@ -22088,6 +22338,26 @@
     "Duration": "Semester",
     "Period": [
       2
+    ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 50,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
     ],
     "Description": "The development of an understanding of the South African Law of Property and statutes relating to immovable\nand real rights; the acquisition of rights over land in South Africa; forms of land tenure; possession and\noccupation of immovable property, survey of land, registration of rights over immovable property, servitudes,\nreal and personal securities, subdivision of land zoning regulations.",
     "Institution": "University of Pretoria"
@@ -23336,6 +23606,23 @@
     "Period": [
       1
     ],
+    "Assessments": [
+      {
+        "Name": "Semester Test 1",
+        "Type": "Test",
+        "Weight": 25
+      },
+      {
+        "Name": "Assignment 1",
+        "Type": "Assignment",
+        "Weight": 25
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Principles of illumination; illumination installations; lightning security; security systems; communication systems.\nMultimedia installations.",
     "Institution": "University of Pretoria"
   },
@@ -23344,6 +23631,27 @@
     "Code": "GGY156",
     "Credit": 8,
     "NQF": 5,
+    "Assessments":[
+      {
+        "Name": "Class Test",
+        "Type": "Test",
+        "Weight": 15
+      },
+      {
+        "Name": "Semester Test",
+        "Type": "Test",
+        "Weight": 20
+      },
+      {
+        "Name": "Group and Individual Assignment",
+        "Type": "Assignment",
+        "Weight": 15
+      },
+      {
+        "Name": "Exam",
+        "Weight": 50
+      }
+    ],
     "Prerequisite": {
       "Comment": "Max 600 students."
     },
@@ -23749,6 +24057,64 @@
     "Code": "GIS220",
     "Credit": 14,
     "NQF": 6,
+    "Assessments":[
+      {
+        "Name": "Semester Tests",
+        "Type": "Tests",
+        "Equal": true,
+        "Weight": 20,
+        "Subitems":[
+          {
+            "Name": "Test 1"
+          },
+          {
+            "Name": "Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Class Exercises",
+        "Type": "Exercise",
+        "Equal": true,
+        "Weight": 5,
+        "Subitems":[
+          {
+            "Name": "Exercise 1"
+          },
+          {
+            "Name": "Exercise 2"
+          }
+        ]
+      },
+      {
+        "Name": "Practials",
+        "Type": "Practical",
+        "Equal": true,
+        "Weight": 25,
+        "Subitems":[
+          {
+            "Name": "Project 1"
+          },
+          {
+            "Name": "Project 2"
+          },
+          {
+            "Name": "Project 3"
+          },
+          {
+            "Name": "Project 4"
+          },
+          {
+            "Name": "Project 5"
+          }
+        ] 
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Prerequisite": {
       "$and": [
         {
@@ -23877,7 +24243,11 @@
       {
         "Name": "Practicals",
         "Type": "Practical",
-        "Weight": 35
+        "Weight": 35,
+        "Subitems": [
+          {"Name": "Composting Report", "Weight": 25},
+          {"Name": "Practical Test", "Weight": 10}
+        ]
       }
     ],
     "Description": "Soil is a finite resource and with the global challenges we are facing, it is more important than ever to\nunderstand and sustainably manage soil. Our daily lives are impacted by soil in several ways, including the food\nwe eat, the water we drink, and the environment we live in. In this Introductory Soils module, we will look at how\nbasic and more advanced abiotic and biotic soil properties impact us and the larger environment. We will also\nexamine the fundamental principles behind sustainable soil use management.",
@@ -23909,6 +24279,41 @@
     "Duration": "Semester",
     "Period": [
       2
+    ],
+    "Assessments": [
+      {
+        "Name": "Practical Test",
+        "Type": "Test",
+        "Weight": 7.5
+      },
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 25,
+        "Subitems": [
+          {"Name": "Class Test 1"},
+          {"Name": "Class Test 2"}
+        ]
+      },
+      {
+        "Name": "Practicals",
+        "Type": "Practical",
+        "Weight": 17.5,
+        "Subitems": [
+          {"Name": "Practical 1"},
+          {"Name": "Practical 2"},
+          {"Name": "Practical 3"},
+          {"Name": "Practical 4"},
+          {"Name": "Practical 5"},
+          {"Name": "Practical 7"},
+          {"Name": "Practical 10"}
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
     ],
     "Description": "This module will give an overview of earth history, from the Archaean to the present. Important concepts such\nas the principles of stratigraphy and stratigraphic nomenclature, geological dating and international and South\nAfrican time scales will be introduced. A brief introduction to the principles of palaeontology will be given, along\nwith short descriptions of major fossil groups, fossil forms, ecology and geological meaning. In the South African\ncontext, the major stratigraphic units, intrusions and tectonic/metamorphic events will be detailed, along with\nrelated rock types, fossil contents, genesis and economic commodities. Anthropogenic effects on the\nenvironment and their mitigation. Practical work will focus on the interpretation of geological maps and profiles.",
     "Institution": "University of Pretoria"
@@ -23955,12 +24360,26 @@
     "Period": [
       1
     ],
-    "Assessments": [
+    "Description": "This module aims to provide students with a working knowledge and skills to learn methods and techniques for\ncollecting, processing and analysing remotely sensed data. Throughout the module, emphasis will be placed on\nimage processing, image analysis, image classification, remote sensing and applications of remote sensing in\ngeographical analysis and environmental monitoring. The module is composed of lectures, readings, practical\nexercises research tasks and a project or assignments of at least 64 notional hours. In particular, the practical\nexercises and research tasks incorporate South African examples using satellite remotely-sensed data, as well\nas field spectral data measurements, to promote understanding of the state of land cover and land use types\n(e.g. spanning agricultural resources, water resources, urbanization) and how changes over time could impact\non the changing climate in accordance with the United Nation's Sustainable Development Goals.",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Name": "Programming in meteorology 254 ",
+    "Code": "WKD254",
+    "Credit": 12,
+    "NQF": 6,
+    "Assessments":[
       {
-        "Name": "Tests",
+        "Name": "Practical Tutorials / Quizzes / Tests /assignment",
         "Type": "Test",
-        "Weight": 50,
-        "Subitems": [
+        "Weight": 30
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 27,
+        "Equal":false,
+        "Subitems":[
           {
             "Name": "Test 1"
           },
@@ -23970,29 +24389,16 @@
         ]
       },
       {
-        "Name": "ALL_LABS",
-        "Type": "Laboratory",
-        "Weight": 35
+        "Name": "Class Presentation",
+        "Type": "Presentation",
+        "Weight": 3
       },
       {
-        "Name": "R_ASSIGN",
-        "Type": "Coursework",
-        "Weight": 5
-      },
-      {
-        "Name": "CLASSEX",
-        "Type": "Coursework",
-        "Weight": 10
+        "Name": "Final Exam",
+        "Type": "Exam",
+        "Weight": 40
       }
     ],
-    "Description": "This module aims to provide students with a working knowledge and skills to learn methods and techniques for\ncollecting, processing and analysing remotely sensed data. Throughout the module, emphasis will be placed on\nimage processing, image analysis, image classification, remote sensing and applications of remote sensing in\ngeographical analysis and environmental monitoring. The module is composed of lectures, readings, practical\nexercises research tasks and a project or assignments of at least 64 notional hours. In particular, the practical\nexercises and research tasks incorporate South African examples using satellite remotely-sensed data, as well\nas field spectral data measurements, to promote understanding of the state of land cover and land use types\n(e.g. spanning agricultural resources, water resources, urbanization) and how changes over time could impact\non the changing climate in accordance with the United Nation's Sustainable Development Goals.",
-    "Institution": "University of Pretoria"
-  },
-  {
-    "Name": "Programming in meteorology 254 ",
-    "Code": "WKD254",
-    "Credit": 12,
-    "NQF": 6,
     "Prerequisite": {
       "$and": [
         {
@@ -24140,7 +24546,7 @@
         "Name": "Class Tests",
         "Type": "Test",
         "Weight": 4,
-        "Best": 10,
+        "Best": 2,
         "Subitems": [
           {
             "Name": "Class Test 1"
@@ -24373,6 +24779,7 @@
         "Name": "Semester Tests",
         "Type": "Test",
         "Weight": 25,
+        "Dynamic": true,
         "Subitems": [
           {
             "Name": "Semester Test 1",
@@ -24438,6 +24845,7 @@
         "Name": "Achieve Assignments",
         "Type": "Assignment",
         "Weight": 5,
+        "Dynamic": true,
         "Subitems": [
           {
             "Name": "Achieve Assignment 1"
@@ -25512,6 +25920,33 @@
       "Comment": "No prerequisites"
     },
     "Duration": "Semester",
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 50,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1",
+            "DueDate": "2024-04-09"
+          },
+          {
+            "Name": "Senester Test 2",
+            "DueDate": "2024-05-20"
+          }
+        ]
+      },
+      {
+        "Name": "BIG Assignment/ Reading Program",
+        "Type": "Assignment",
+        "Weight": 25
+      },
+      {
+        "Name": "Practical/ Amazing Race",
+        "Type": "Practical",
+        "Weight": 25
+      }
+    ],
     "Period": [
       1
     ],
@@ -25886,15 +26321,10 @@
         "Weight": 6,
         "Subitems": [
           {
-            "Name": "Class Test 1",
-            "DueDate": "2024-08-07"
+            "Name": "Class Tests"
           },
           {
-            "Name": "Quiz 1"
-          },
-          {
-            "Name": "Class Test 3",
-            "DueDate": "2024-09-02"
+            "Name": "Reading Assignments"
           }
         ]
       },
@@ -25909,7 +26339,7 @@
         "Weight": 30,
         "Subitems": [
           {
-            "Name": "Indexing and Abstractical Practical",
+            "Name": "Indexing and Abstractical Pracitcal",
             "Weight": 9
           },
           {
@@ -25917,7 +26347,7 @@
             "Weight": 12
           },
           {
-            "Name": "Metadata Practical",
+            "Name": "Metadata Pracitcal",
             "Weight": 9
           }
         ]
@@ -26001,6 +26431,7 @@
               "Name": "Semester Test",
               "Type": "Test",
               "Weight": 24,
+              "Equal": true,
               "Subitems": [
                   {
                       "Name": "Semester Test 1",
@@ -26018,6 +26449,7 @@
               "Name": "Online class Test",
               "Type": "Test",
               "Weight": 6,
+              "Equal": true,
               "Subitems": [
                   {
                       "Name": "Online Class Test 1",
@@ -26033,6 +26465,7 @@
             "Name": "Class Activities",
             "Type": "Activity",
             "Weight": 12,
+            "Equal": true,
             "Subitems": [
                 {
                     "Name": "Class Activity 1",
@@ -26056,6 +26489,7 @@
           "Name": "Practical Component",
           "Type": "Practical",
           "Weight": 18,
+          "Equal": false,
           "Subitems": [
               {
                   "Name": "Deliverable 1: Executive Summary",
@@ -26070,7 +26504,6 @@
       {
           "Name": "Examination",
           "Type": "Exam",
-          "DueDate": "2024-06-11",
           "Weight": 40
       }
     ],
@@ -26187,9 +26620,18 @@
     ],
     "Assessments": [
       {
-        "Name": "Class Tests & Class Participation",
-        "Type": "Coursework",
-        "Weight": 3
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 3,
+        "Subitems": [
+          {"Name": "Class Test 1"},
+          {"Name": "Class Test 2"},
+          {"Name": "Class Test 3"},
+          {"Name": "Class Test 4"},
+          {"Name": "Class Test 5"},
+          {"Name": "Class Test 6"},
+          {"Name": "Class Test 7"}
+        ]
       },
       {
         "Name": "Assignments",
@@ -26197,10 +26639,19 @@
         "Weight": 21,
         "Subitems": [
           {
-            "Name": "Individual Assignments"
+            "Name": "Assignment 1"
           },
           {
-            "Name": "Group Assignments"
+            "Name": "Assignment 2"
+          },
+          {
+            "Name": "Assignment 3"
+          },
+          {
+            "Name": "Assignment 4"
+          },
+          {
+            "Name": "Assignment 5"
           }
         ]
       },
@@ -26372,38 +26823,9 @@
         ]
       },
       {
-        "Name": "Continuous Assessments",
-        "Type": "Assessment",
-        "Weight": 9,
-        "Subitems": [
-          {
-            "Name": "Quiz - Theme 1"
-          },
-          {
-            "Name": "Quiz - Theme 2"
-          },
-          {
-            "Name": "Quiz - Theme 3"
-          },
-          {
-            "Name": "Quiz - Theme 4"
-          },
-          {
-            "Name": "Quiz - Theme 5"
-          },
-          {
-            "Name": "Quiz - Theme 6"
-          },
-          {
-            "Name": "Quiz - Theme 7"
-          },
-          {
-            "Name": "Quiz - Theme 8"
-          },
-          {
-            "Name": "Quiz - Theme 9"
-          }
-        ]
+        "Name": "Class Participation, Tests and Assessments",
+        "Type": "Coursework",
+        "Weight": 9
       },
       {
         "Name": "Examination",
@@ -27229,6 +27651,89 @@
       "Comment": "No prerequisites"
     },
     "Duration": "Semester",
+    "Assessments":[
+      {
+        "Name": "Continuous Assessment (CASS)(AP)",
+        "Type": "Assessment",
+        "Weight": 21.82,
+        "Equal":true,
+        "Subitems":[
+          {
+            "Name": "Reflections"
+          },
+          {
+            "Name": "clickUP journal"
+          },
+          {
+            "Name": "Participation"
+          }
+        ]
+      },
+      {
+        "Name": "Continuous Assessment (CASS)(EWR)",
+        "Type": "Assessment",
+        "Equal": false,
+        "Weight": 18.18,
+        "Subitems":[
+          {
+            "Name": "BuildUP report content",
+            "Type": "Assignment",
+            "Weight": 9.09
+          },
+          {
+            "Name": "Analysis and Interpretation",
+            "Type": "clickUP Test",
+            "Weight": 3.64
+          },
+          {
+            "Name": "Analytical Discussion",
+            "Weight": 5.45
+          }
+        ]
+      },
+      {
+        "Name": "Contitnuous Assessments(CASS)(IT Practices)",
+        "Type": "Assessment",
+        "Equal":false,
+        "Weight": 19.99,
+        "Subitems":[
+          {
+            "Name": "BuildUP report formatting and additional information",
+            "Type": "BuildUP report",
+            "Weight": 5.45
+          },
+          {
+            "Name": "MS Access",
+            "Type": "clickUP Test",
+            "Weight": 3.64
+          },
+          {
+            "Name": "SAM MS Word and MS Excel projects",
+            "Type": "Project",
+            "Weight": 7.27
+          },
+          {
+            "Name": "SAM Training",
+            "Type": "Training",
+            "Weight": 3.64
+          }
+        ]
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Equal": true,
+        "Weight": 40,
+        "Subitems":[
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      }
+    ],
     "Period": [
       1
     ],
@@ -27244,6 +27749,53 @@
       "Comment": "No prerequisites"
     },
     "Duration": "Semester",
+    "Assessments": [
+      {
+        "Name": "Lecture Quizzes",
+        "Type": "Quiz",
+        "Weight": 5,
+        "Subitems": [
+          {"Name": "Lecture Quiz 1"},
+          {"Name": "Lecture Quiz 2"},
+          {"Name": "Lecture Quiz 3"},
+          {"Name": "Lecture Quiz 4"},
+          {"Name": "Lecture Quiz 5"},
+          {"Name": "Lecture Quiz 6"},
+          {"Name": "Lecture Quiz 7"},
+          {"Name": "Lecture Quiz 8"},
+          {"Name": "Lecture Quiz 9"}
+        ]
+      },
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 40,
+        "Subitems": [
+          {"Name": "Class Test 1"},
+          {"Name": "Class Test 2"},
+          {"Name": "Class Test 3"},
+          {"Name": "Class Test 4"}
+        ]
+      },
+      {
+        "Name": "Assignment 1",
+        "Type": "Assignment",
+        "Weight": 5
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 50,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      }
+    ],
     "Period": [
       1
     ],
@@ -27886,6 +28438,26 @@
     "Period": [
       2
     ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 50,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "An introduction to the principles of construction contract law and an overview of standardised conditions of\ncontract for the built environment.",
     "Institution": "University of Pretoria"
   },
@@ -28072,6 +28644,18 @@
       "Comment": "No prerequisites"
     },
     "Duration": "Semester",
+    "Assessments":[
+      {
+        "Name": "Semester Test",
+        "Type": "Test",
+        "Weight": 50,
+        "DueDate": "2024-04-04"
+      },
+      {
+        "Name": "Exam",
+        "Weight": 50
+      }
+    ],
     "Period": [
       1
     ],
@@ -28097,11 +28681,11 @@
         "Weight": 50,
         "Subitems": [
           {
-            "Name": "Semester Test 1",
+            "Name": "Section A Semester Test",
             "DueDate": "2024-08-21"
           },
           {
-            "Name": "Semester Test 2",
+            "Name": "Section B emester Test",
             "DueDate": "2024-09-21"
           }
         ]
@@ -28436,10 +29020,50 @@
     ],
     "Assessments": [
       {
-        "Name": "Practicals",
+        "Name": "Pre-lab Tests",
+        "Type": "Test",
+        "Weight": 5,
+        "Subitems": [
+          {
+            "Name": "Pre-lab Test 1"
+          },
+          {
+            "Name": "Pre-lab Test 2"
+          },
+          {
+            "Name": "Pre-lab Test 3"
+          },
+          {
+            "Name": "Pre-lab Test 4"
+          },
+          {
+            "Name": "Pre-lab Test 5"
+          }
+        ]
+      },
+      {
+        "Name": "Practical Reports",
+        "Type": "Report",
+        "Weight": 5,
+        "Subitems": [
+          {
+            "Name": "Practical Report 1"
+          },
+          {
+            "Name": "Practical Report 2"
+          },
+          {
+            "Name": "Practical Report 3"
+          },
+          {
+            "Name": "Practical Report 4"
+          }
+        ]
+      },
+      {
+        "Name": "Practical Exam",
         "Type": "Practical",
-        "DueDate": "2024-09-24",
-        "Weight": 15
+        "Weight": 5
       },
       {
         "Name": "Class Tests",
@@ -29556,6 +30180,74 @@
     "Period": [
       2
     ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 35,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Practicals",
+        "Type": "Practical",
+        "Weight": 7.5,
+        "Subitems": [
+          {
+            "Name": "Practical 1"
+          },
+          {
+            "Name": "Practical 2"
+          },
+          {
+            "Name": "Practical 3"
+          }
+        ]
+      },
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 7.5,
+        "Best": 6,
+        "Subitems": [
+          {
+            "Name": "Class Test 1"
+          },
+          {
+            "Name": "Class Test 2"
+          },
+          {
+            "Name": "Class Test 3"
+          },
+          {
+            "Name": "Class Test 4"
+          },
+          {
+            "Name": "Class Test 5"
+          },
+          {
+            "Name": "Class Test 6"
+          },
+          {
+            "Name": "Class Test 7"
+          },
+          {
+            "Name": "Class Test 8"
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Analyse statically determinate structures to obtain section forces and moments and stress distributions. Axial \nloading, pure shear, torsion and bending. Stress and strain transformations. Derivation of stress transformation \nequations. Mohr’s circle. Failure criteria. Fatigue strength design. Introduction to code design, safety factors. All \nanalysis techniques are applied to the open-ended design of hoisting systems and ropes, symmetric beams, \nshafts, springs, bolts and welds.",
     "Institution": "University of Pretoria"
   },
@@ -29962,7 +30654,7 @@
     "Assessments": [
       {
         "Name": "Employer Form",
-        "Type": "Assessment",
+        "Type": "Coursework",
         "Weight": 33
       },
       {
@@ -29985,17 +30677,9 @@
         ]
       },
       {
-        "Name": "Subsection 3",
+        "Name": "Subsection 3 - PM",
         "Type": "Project",
-        "Weight": 33,
-        "Subitems": [
-          {
-            "Name": "Subsection 3 - PM"
-          },
-          {
-            "Name": "Subsection 3 - OHS"
-          }
-        ]
+        "Weight": 33
       }
     ],
     "Description": "Prescribed practical training in the industry during or at the end of the second year. The aim is exposure to\nengineering equipment and processes, working environment of craftsmen and personnel relations. Duration at\nleast 240 hours of work. Perform case study on personnel management and submit together with a satisfactory\nreport on the practical training, to the Faculty Administration.",
@@ -30357,40 +31041,12 @@
       {
         "Name": "3 Practicals",
         "Type": "Practical",
-        "Weight": 10,
-        "Subitems": [
-          {
-            "Name": "Practical 1"
-          },
-          {
-            "Name": "Practical 2"
-          },
-          {
-            "Name": "Practical 3"
-          }
-        ]
+        "Weight": 10
       },
       {
-        "Name": "Class Tests",
-        "Type": "Test",
-        "Weight": 10,
-        "Subitems": [
-          {
-            "Name": "Class Test 1"
-          },
-          {
-            "Name": "Class Test 2"
-          },
-          {
-            "Name": "Class Test 3"
-          },
-          {
-            "Name": "Class Test 4"
-          },
-          {
-            "Name": "Class Test 5"
-          }
-        ]
+        "Name": "5 best class tests, bonus for writing all online quizzes",
+        "Type": "Assessment",
+        "Weight": 10
       },
       {
         "Name": "Examination",
@@ -30590,7 +31246,8 @@
       {
         "Name": "Assignments",
         "Type": "Assignment",
-        "Weight": 7.5
+        "Weight": 7.5,
+        "Dynamic": true
       },
       {
         "Name": "Semester Tests",
@@ -30608,12 +31265,14 @@
       {
         "Name": "Class Tests",
         "Type": "Test",
-        "Weight": 2.5
+        "Weight": 2.5,
+        "Dynamic": true
       },
       {
         "Name": "Practicals",
         "Type": "Practical",
-        "Weight": 5
+        "Weight": 5,
+        "Dynamic": true
       },
       {
         "Name": "Examination",
@@ -31478,41 +32137,19 @@
     ],
     "Assessments": [
       {
-        "Name": "Semester Test 1",
+        "Name": "Test 1",
         "Type": "Test",
         "Weight": 30
       },
       {
-        "Name": "Practicals",
+        "Name": "2 Practicals",
         "Type": "Practical",
-        "Weight": 10,
-        "Subitems": [
-          {
-            "Name": "Practical 1"
-          },
-          {
-            "Name": "Practical 2"
-          },
-          {
-            "Name": "Practical 3"
-          }
-        ]
+        "Weight": 10
       },
       {
-        "Name": "Class Tests",
-        "Type": "Test",
-        "Weight": 10,
-        "Subitems": [
-          {
-            "Name": "Class Test 1"
-          },
-          {
-            "Name": "Class Test 2"
-          },
-          {
-            "Name": "Class Test 3"
-          }
-        ]
+        "Name": "3 best class tests, bonus for writing all online quizzes",
+        "Type": "assessments",
+        "Weight": 10
       },
       {
         "Name": "Examination",
@@ -32558,6 +33195,63 @@
     "Period": [
       1
     ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 30,
+        "Subitems": [
+          {"Name": "Semester Test 1"},
+          {"Name": "Semester Test 2"}
+        ]
+      },
+      {
+        "Name": "Tutorial Assignments",
+        "Type": "Tutorial",
+        "Weight": 12,
+        "Subitems": [
+          {"Name": "Tutorial 1"},
+          {"Name": "Tutorial 2"},
+          {"Name": "Tutorial 3"},
+          {"Name": "Tutorial 4"},
+          {"Name": "Tutorial 5"},
+          {"Name": "Tutorial 6"},
+          {"Name": "Tutorial 7"},
+          {"Name": "Tutorial 8"},
+          {"Name": "Tutorial 9"}
+        ]
+      },
+      {
+        "Name": "Practical Reports",
+        "Type": "Report",
+        "Weight": 15,
+        "Subitems": [
+          {"Name": "Practical Report 1"},
+          {"Name": "Practical Report 2"},
+          {"Name": "Practical Report 3"},
+          {"Name": "Practical Report 4"},
+          {"Name": "Practical Report 5"},
+          {"Name": "Practical Report 6"},
+          {"Name": "Practical Report 7"},
+          {"Name": "Practical Report 8"}
+        ]
+      },
+      {
+        "Name": "Online Quizzes",
+        "Type": "Quiz",
+        "Weight": 3,
+        "Subitems": [
+          {"Name": "Online Test 1"},
+          {"Name": "Online Test 2"},
+          {"Name": "Online Test 3"}
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
     "Description": "System of particles: centre of mass, Newton's laws. Rotation: torque, conservation of momentum, impulse and\ncollision, conservation of angular momentum, equilibrium, centre of gravity. Oscillations. Waves: sound,\nintensity, superposition, interference, standing waves, resonance, beats, Doppler effect. Physical optics: Young-\ninterference, coherence, thin layers, diffraction, gratings, polarisation.",
     "Institution": "University of Pretoria"
   },
@@ -32950,7 +33644,7 @@
         "Weight": 18,
         "Subitems": [
           {
-            "Name": "Semester Test",
+            "Name": "Written Semester Test",
             "DueDate": "2024-09-02"
           },
           {
@@ -32962,6 +33656,7 @@
         "Name": "Class Activities",
         "Type": "Coursework",
         "Weight": 21,
+        "Best": 5,
         "Subitems": [
           {
             "Name": "Class Activity 1"
@@ -32980,9 +33675,6 @@
           },
           {
             "Name": "Class Activity 6"
-          },
-          {
-            "Name": "Class Activity 7"
           }
         ]
       },
@@ -34228,24 +34920,29 @@
       {
         "Name": "Tests",
         "Type": "Test",
-        "Weight": 100,
+        "Weight": 50,
         "Subitems": [
           {
-            "Name": "Test 1",
+            "Name": "Written Test 1",
             "DueDate": "2024-08-19",
-            "Weight": 30
+            "Weight": 15
           },
           {
-            "Name": "Test 2",
+            "Name": "MCQ Test 2",
             "DueDate": "2024-09-02",
-            "Weight": 20
+            "Weight": 10
           },
           {
-            "Name": "Test 3",
+            "Name": "Written Test 3",
             "DueDate": "2024-10-02",
-            "Weight": 50
+            "Weight": 25
           }
         ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
       }
     ],
     "Description": "This module introduces the student to a basic knowledge and understanding of the biological basis of human\nbehaviour. The module addresses the key concepts and terminology related to the biological subsystem, the\nrules and principles guiding biological psychology, and identification of the interrelatedness of different\nbiological systems and subsystems. In this module various cognitive processes are studied, including perception,\nmemory, thinking, intelligence and creativity. Illustrations are given of various thinking processes, such as\nproblem solving, critical, analytic and integrative thinking.",
@@ -34414,6 +35111,36 @@
       "Comment": "No prerequisites"
     },
     "Duration": "Semester",
+    "Assessments": [
+      {
+        "Name": "Assessments",
+        "Type": "Assessment",
+        "Weight": 100,
+        "Equal":true,
+        "Subitems": [
+          {
+            "Name": "Assessment 1 Test 1",
+            "Type": "Test",
+            "DueDate": "2024-03-17"
+          },
+          {
+            "Name": "Assessment 2 Essay",
+            "Type": "Essay",
+            "DueDate": "2024-04-24"
+          },
+          {
+            "Name": "Assessment 3 Test 2",
+            "Type": "Test",
+            "DueDate": "2024-05-09"
+          },
+          {
+            "Name": "Assessment 4 Online Test",
+            "Type": "Test",
+            "DueDate": "2024-06-08"
+          }
+        ]
+      }
+    ],
     "Period": [
       1
     ],
@@ -35798,17 +36525,22 @@
       {
         "Name": "Semester Tests",
         "Type": "Test",
-        "Weight": 50,
+        "Weight": 45,
         "Subitems": [
           {
             "Name": "Semester Test 1",
-            "DueDateComment": "26 August 2024 - 31 August 2024"
+            "Weight": 20
           },
           {
             "Name": "Semester Test 2",
-            "DueDateComment": "14 October 2024 - 19 October 2024"
+            "Weight": 25
           }
         ]
+      },
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 5
       },
       {
         "Name": "Examination",
@@ -42768,6 +43500,60 @@
     "Period": [
       1
     ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 36,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Online Tests",
+        "Type": "Quiz",
+        "Weight": 3
+      },
+      {
+        "Name": "Tutorial Tests",
+        "Type": "Tutorial",
+        "Weight": 9,
+        "Subitems": [
+          {"Name": "Tutorial Test 1"},
+          {"Name": "Tutorial Test 2"},
+          {"Name": "Tutorial Test 3"},
+          {"Name": "Tutorial Test 4"},
+          {"Name": "Tutorial Test 5"},
+          {"Name": "Tutorial Test 6"},
+          {"Name": "Tutorial Test 7"},
+          {"Name": "Tutorial Test 8"},
+          {"Name": "Tutorial Test 9"}
+        ]
+      },
+      {
+        "Name": "Weekly Practicals",
+        "Type": "Practical",
+        "Weight": 12,
+        "Subitems": [
+          {"Name": "Experiment 1"},
+          {"Name": "Experiment 2"},
+          {"Name": "Experiment 3"},
+          {"Name": "Experiment 4"},
+          {"Name": "Experiment 5"},
+          {"Name": "Experiment 6"}
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
     "Description": "The main topic in this module is Electricity, Sound, Optics, and Modern Physics.\nStatic Electricity: Electric charge and force, electric field, the electric energy, electric potential, conservation of\nelectrical energy.\nFlow of charge: Capacitors, application of charge flow to nerves.",
     "Institution": "University of Pretoria"
   },
@@ -46695,6 +47481,28 @@
     "Duration": "Semester",
     "Period": [
       1
+    ],
+    "Assessments": [
+      {
+        "Name": "Computer-Based Test",
+        "Type": "Test",
+        "Weight": 36
+      },
+      {
+        "Name": "Group Assignment",
+        "Type": "Assignment",
+        "Weight": 24
+      },
+      {
+        "Name": "Computer Based Examination",
+        "Type": "Exam",
+        "Weight": 32
+      },
+      {
+        "Name": "Individual Reflection Report",
+        "Type": "Assessment",
+        "Weight": 8
+      }
     ],
     "Description": "Principles of project management. Communication principles. Leadership.  Health promotion and education,\nadvocacy and literacy. Counselling for health behaviour change. NB: Only for School of Healthcare Sciences and\nSpeech- Language Pathology and Audiology students.",
     "Institution": "University of Pretoria"
@@ -55171,6 +55979,66 @@
       "Comment": "No prerequisites"
     },
     "Duration": "Year",
+    "Assessments":[
+      {
+        "Name": "Assignments",
+        "Type": "Assignment",
+        "Weight": 5
+      },
+      {
+        "Name": "Practical Tests",
+        "Type": "Test",
+        "Weight": 7.5
+      },
+      {
+        "Name": "Continuous evaluation mark",
+        "Weight": 7.5
+      },
+      {
+        "Name": "CBT Class Tests",
+        "Type": "Test",
+        "Weight": 12.5,
+        "Equal": true,
+        "Subitems":[
+          {
+            "Name": "CBT Class Tests 1",
+            "DueDate": "2024-04-26"
+          },
+          {
+            "Name": "CBT Class Tests 2",
+            "DueDate": "2024-05-22"
+          },
+          {
+            "Name": "CBT Class Tests 3",
+            "DueDate": "2024-09-06"
+          },
+          {
+            "Name": "CBT Class Tests 4",
+            "DueDate": "2024-10-25"
+          }
+        ]
+      },
+      {
+        "Name": "Tests",
+        "Type": "Test",
+        "Weight": 17.5,
+        "Equal":true,
+        "Subitems":[
+          {
+            "Name": "Tests 1",
+            "DueDate": "2024-09-06"
+          },
+          {
+            "Name": "Tests 2",
+            "DueDate": "2024-09-06"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "*Closed - requires departmental selection\nThis module serves as the foundation of the necessary knowledge required to understand human anatomy as\nwell as facilitate the students' understanding in future applied anatomy modules. This module covers the\nfollowing aspects of human anatomy: anatomical terminology, osteology, arthrology, the muscular system, the\nnervous system, the cardiovascular system and the respiratory system.",
     "Institution": "University of Pretoria"
   },
@@ -55377,6 +56245,47 @@
     "Code": "ANA162",
     "Credit": 6,
     "NQF": 5,
+    "Assessments": [
+      {
+        "Name": "Clinical Anatomy CBTs",
+        "Type": "Test",
+        "Weight": 12,
+        "Eqaul": true,
+        "Subitems": [
+          {
+            "Name": "Clinical Anatomy CBT 1",
+            "DueDate": "2024-10-04"
+          },
+          {
+            "Name": "Clinical Anatomy CBT 2",
+            "DueDate": "2024-10-11"
+          },
+          {
+            "Name": "Clinical Anatomy CBT 3",
+            "DueDate": "2024-10-20"
+          },
+          {
+            "Name": "Clinical Anatomy CBT 4",
+            "DueDate": "2024-10-25"
+          }
+        ]
+      },
+      {
+        "Name": "Reflection",
+        "Weight": 2.5
+      },
+      {
+        "Name": "Module Test",
+        "Type": "Test",
+        "DueDate": "2024-08-29",
+        "Weight": 35.5
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Prerequisite": {
       "Comment": "No prerequisites"
     },
@@ -55442,6 +56351,56 @@
     "Period": [
       1
     ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 25,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1",
+            "Weight": 10
+          },
+          {
+            "Name": "Semester Test 2",
+            "Weight": 15
+          }
+        ]
+      },
+      {
+        "Name": "Practical Spot Test",
+        "Type": "Test",
+        "Weight": 12.5
+      },
+      {
+        "Name": "Assignment",
+        "Type": "Assignment",
+        "Weight": 12.5,
+        "Subitems": [
+          {
+            "Name": "Assignment - Hardy weinberg",
+            "Weight": 4
+          },
+          {
+            "Name": "Assignment - Hominin watch",
+            "Weight": 2
+          },
+          {
+            "Name": "Assignment - Lonely fossils article",
+            "Weight": 4
+          },
+          {
+            "Name": "Assignment - Cranial morphology worksheet",
+            "Weight": 2.5
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Functional review of the cell and cell content. Normal and abnormal cell function in relation to structure. Control\nof the human cell, heredity and the human genome. Cell communication, growth and development, adhesion\nand division. Aspects of cellular research. Techniques on how to study cells. Medical cell and molecular biology\napplication.",
     "Institution": "University of Pretoria"
   },
@@ -55486,22 +56445,27 @@
       {
         "Name": "Semester Tests",
         "Type": "Test",
-        "Weight": 90,
+        "Weight": 45,
         "Subitems": [
           {
             "Name": "Semester Test 1",
-            "Weight": 40
+            "Weight": 20
           },
           {
             "Name": "Semester Test 2",
-            "Weight": 50
+            "Weight": 25
           }
         ]
       },
       {
-        "Name": "Practical Worksheets",
+        "Name": "Practical Worksheets/ClickUP Tests",
         "Type": "Practical",
-        "Weight": 10
+        "Weight": 5
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
       }
     ],
     "Description": "General introduction to organ structure.\nTerminology. The eye, ear, skin, circulatory system, nervous system, lymphoid system, gastrointestinal tract,\ngastrointestinal tract glands, respiratory system, urinary system, male and female reproductive systems,\nendocrine system.",
@@ -56910,7 +57874,7 @@
       {
         "Name": "Semester Tests",
         "Type": "Test",
-        "Weight": 56,
+        "Weight": 28,
         "Subitems": [
           {
             "Name": "Semester Test 1",
@@ -56925,7 +57889,7 @@
       {
         "Name": "Achieve Themes",
         "Type": "Quiz",
-        "Weight": 12,
+        "Weight": 6,
         "Subitems": [
           {
             "Name": "Achieve Theme 1",
@@ -56948,7 +57912,7 @@
       {
         "Name": "Reading Quiz",
         "Type": "Quiz",
-        "Weight": 2,
+        "Weight": 1,
         "Subitems": [
           {
             "Name": "Reading Quiz 1",
@@ -56979,7 +57943,7 @@
       {
         "Name": "Practicals",
         "Type": "Practical",
-        "Weight": 30,
+        "Weight": 15,
         "Subitems": [
           {
             "Name": "Practical 1",
@@ -57010,6 +57974,11 @@
             "DueDate": "2024-10-27"
           }
         ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
       }
     ],
     "Description": "Biochemistry of lipids, membrane structure, anabolism and catabolism of lipids.  Total ATP yield from the\ncomplete catabolism of lipids. Electron transport chain and energy production through oxidative\nphosphorylation. Nitrogen metabolism, amino acid biosynthesis and catabolism. Biosynthesis of\nneurotransmitters, pigments, hormones and nucleotides from amino acids. Catabolism of purines and\npyrimidines. Therapeutic agents directed against nucleotide metabolism. Examples of inborn errors of\nmetabolism of nitrogen containing compounds. The urea cycle, nitrogen excretion. Online activities include\ntraining in scientific reading skills; evaluation of a scientific report; techniques for separation analysis and\nvisualisation of biological molecules; hypothesis design and testing, method design and scientific controls.",
@@ -57026,6 +57995,37 @@
     "Duration": "Semester",
     "Period": [
       1
+    ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 35,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Written Test",
+        "Type": "Test",
+        "Weight": 10
+      },
+      {
+        "Name": "Portfolio 1",
+        "Type": "Practical",
+        "Weight": 5
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+
     ],
     "Description": "*Closed requires departmental selection\nThe module focuses on the practical application of the fundamental concepts related to exercise as well as\nprinciples for exercise programme design.",
     "Institution": "University of Pretoria"
@@ -57056,6 +58056,57 @@
     "Duration": "Semester",
     "Period": [
       2
+    ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 30,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 20,
+        "Subitems": [
+          {
+            "Name": "Class Test 1"
+          },
+          {
+            "Name": "Class Test 2"
+          },
+          {
+            "Name": "Class Test 3"
+          },
+          {
+            "Name": "Class Test 4"
+          },
+          {
+            "Name": "Class Test 5"
+          },
+          {
+            "Name": "Class Test 6"
+          },
+          {
+            "Name": "Class Test 7"
+          },
+          {
+            "Name": "Class Test 8"
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
     ],
     "Description": "*Closed requires departmental selection\nThis unit involves the application of biomechanical principles to analyse human motion using various\nbiomechanical methods.  Students will learn to collect and analyse two-dimensional video and force platform\ndata, with a focus on gait analysis and exercise training techniques.",
     "Institution": "University of Pretoria"
@@ -58084,6 +59135,60 @@
       "Comment": "No prerequisites"
     },
     "Duration": "Year",
+    "Assessments":[
+      {
+        "Name": "Patient Transfer Semester 1",
+        "Type": "Transfer",
+        "Weight": 10
+      },
+      {
+        "Name": "OSCE Semester 1",
+        "Type": "OSCE",
+        "Weight": 10
+      },
+      {
+        "Name": "Equipment simulation Semester 2",
+        "Type": "Simulation",
+        "Weight": 10
+      },
+      {
+        "Name": "CBT image evaluation Semester 2",
+        "Type": "Evaluation",
+        "Weight": 10
+      },
+      {
+        "Name": "Workbook Submission",
+        "Type": "Workbook",
+        "Weight": 5,
+        "Subitems":[
+          {
+            "Name": "Workbook Submission Semester 1"
+          },
+          {
+            "Name": "Workbook Submission Semester 2"
+          }
+        ]
+      },
+      {
+        "Name": "Logbook Submission",
+        "Type": "Logbook",
+        "Weight": 5,
+        "Subitems":[
+          {
+            "Name": "Logbook Submission Semester 1"
+          },
+          {
+            "Name": "Logbook Submission Semester 2"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Exam",
+        "Weight": 50
+      }
+
+    ],
     "Description": "Clinical practice to operationalise and integrate the fundamental theoretical components of the first year of\nstudies. Students will be involved in patient care and communication in diagnostic radiography, undertake\noperating of diagnostic radiography equipment, whilst practicing health and safety principles in the moving and\nhandling of patients. Students will be allocated to clinical training platforms where patient/public interactions,\nand interprofessional skills and behaviours are developed.\nThis module has 10% of the specified clinical training hours necessary to complete specified clinical\ncompetencies for the course in an HPCSA accredited facility. ",
     "Institution": "University of Pretoria"
   },
@@ -58112,6 +59217,54 @@
       ]
     },
     "Duration": "Year",
+    "Assessments": [
+      {
+        "Name": "Chest Evaluation",
+        "Type": "Assessment",
+        "Weight": 10
+      },
+      {
+        "Name": "Image Evaluation CBT 1",
+        "Type": "Test",
+        "Weight": 10
+      },
+      {
+        "Name": "Workbook Submission",
+        "Type": "Assessment",
+        "Weight": 2.5
+      },
+      {
+        "Name": "Log-book submission 1",
+        "Type": "Assessment",
+        "Weight": 2.5
+      },
+      {
+        "Name": "In-Bucky Evaluation",
+        "Type": "Assessment",
+        "Weight": 7.5
+      },
+      {
+        "Name": "Spine Evaluation",
+        "Type": "Assessment",
+        "Weight": 7.5
+      },
+      {
+        "Name": "Image Evaluation CBT 2",
+        "Type": "Test",
+        "Weight": 7.5
+      },
+      {
+        "Name": "Log-book submission 2",
+        "Type": "Assessment",
+        "Weight": 2.5
+      },
+      {
+        "Name": "OSCE Computer Based Test",
+        "Type": "Exam",
+        "Weight": 50
+      }
+
+    ],
     "Description": "Clinical practice to operationalise and integrate the fundamental theoretical components of the second year of\nstudies and to build on the competencies developed in the first year of study. Aspects covered within this\nmodule include the use of fluoroscopy, conventional tomography, emergency trolley setting, pharmacology,\ncontrast media, paediatric radiography, mobile/bedside and trauma radiography. Radiation protection of\npatients, public and personnel.",
     "Institution": "University of Pretoria"
   },
@@ -58540,6 +59693,104 @@
     "Period": [
       2
     ],
+    "Assessments": [
+      {
+        "Name": "Semester Test 1",
+        "Type": "Test",
+        "Weight": 30
+      },
+      {
+        "Name": "Group Assessments",
+        "Type": "Assignment",
+        "Weight": 6,
+        "Subitems": [
+          {
+            "Name": "Written Assignment Unit 7"
+          },
+          {
+            "Name": "Written Assignment Unit 10"
+          }
+        ]
+      },
+      {
+        "Name": "Group Assessments",
+        "Type": "Presentation",
+        "Weight": 9,
+        "Subitems": [
+          {
+            "Name": "Group Presentation 6"
+          },
+          {
+            "Name": "Group Presentation 7"
+          },
+          {
+            "Name": "Group Presentation 8"
+          },
+          {
+            "Name": "Group Presentation 9"
+          }
+        ]
+      },
+      {
+        "Name": "clickUP Tests",
+        "Type": "Quiz",
+        "Weight": 3,
+        "Subitems": [
+          {
+            "Name": "clickUP Test Unit 1",
+            "Weight": 2.4
+          },
+          {
+            "Name": "clickUP Test Unit 5",
+            "Weight": 0.6
+          }
+        ]
+      },
+      {
+        "Name": "Online Courses",
+        "Type": "Assessment",
+        "Weight": 8.4,
+        "Subitems": [
+          {
+            "Name": "Online Course Unit 2",
+            "Weight": 4.2
+          },
+          {
+            "Name": "Online Course Unit 5",
+            "Weight": 1.2
+          },
+          {
+            "Name": "Online Course 10",
+            "Weight": 3
+          }
+        ]
+      },
+      {
+        "Name": "Reflection",
+        "Type": "Assessment",
+        "Weight": 1.2
+      },
+      {
+        "Name": "Discussion Board",
+        "Type": "Assessment",
+        "Weight": 1.2
+      },
+      {
+        "Name": "Class Participation",
+        "Type": "Participation",
+        "Weight": 0.6
+      },
+      {
+        "Name": "Class Attendance",
+        "Type": "Attendance",
+        "Weight": 0.6
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
     "Description": "Community nutrition practice within the larger public health realm. Nutrition within primary healthcare. Nutrition\nand community development as well as project planning and management.",
     "Institution": "University of Pretoria"
   },
@@ -58619,6 +59870,93 @@
       "Comment": "No prerequisites"
     },
     "Duration": "Year",
+    "Assessments":[
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 10,
+        "Subitems":[
+          {
+            "Name": "Class Tests Semester 1"
+          },
+          {
+            "Name": "Class Tests Semester 2"
+
+          }
+        ]
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 17.5,
+        "Subitems":[
+          {
+            "Name": "Semester Tests Semester 1"
+          },
+          {
+            "Name": "Semester Tests Semester 2"
+
+          }
+        ]
+      },
+      {
+        "Name": "Movie Day Reflections",
+        "Type": "Reflections",
+        "Weight": 2.5,
+        "Subitems":[
+          {
+            "Name": "Movie Day Reflections Semester 1"
+          },
+          {
+            "Name": "Movie Day Reflections Semester 2"
+          }
+        ]
+      },
+      {
+        "Name": "Pocket Notebook",
+        "Type": "Reflections",
+        "Weight": 5,
+        "Subitems":[
+          {
+            "Name": "Pocket Notebook Semester 1"
+          },
+          {
+            "Name": "Pocket Notebook Semester 2"
+          }
+        ]
+      },
+      {
+        "Name": "Continuous assessment (pre or post class submissions click up) ",
+        "Type": "Sssessment",
+        "Weight": 5,
+        "Subitems":[
+          {
+            "Name": "Continuous assessment (pre or post class submissions click up)  Semester 1"
+          },
+          {
+            "Name": "Continuous assessment (pre or post class submissions click up)  Semester 2"
+          }
+        ]
+      },
+      {
+        "Name": "Assignments",
+        "Type": "Assignment",
+        "Weight": 10,
+        "Subitems":[
+          {
+            "Name": " Group assignment-video Semester 1"
+          },
+          {
+            "Name": "Assignment-Picture Semester 2"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Introduction to radiography. \nFundamental ethical principles; consent and history taking in radiography. Professional roles, responsibilities and\ncodes of conduct. Introduction to communication: interpersonal and scientific. Team work. Reflective processes.\nIntroduction to legislation and the professional bodies related to Radiography practice (national and\ninternational).\nCare of the patient. Principles of infection control. Pathological conditions. Overview of imaging modalities and\nprocedures. Radiation personnel monitoring requirements, methods of monitoring, record keeping,\nresponsibility of radiation protection officers. Practical radiation protection- facility design; safety accessory\nequipment; safety devices. \nRespecting the human rights of vulnerable patient groups. a.\nBasic patient positioning and immobilisation for radiographic examinations. Radiographic examinations:b.\nthorax, abdomen, extremities, hip, pelvis, spine and skull. Theoretical and practical instruction is used to\nintegrate basic Science and clinical radiography. Procedural considerations and positioning techniques.\nSelection of technique factors. Radiation protection. Pathological conditions and image evaluation. Problem-\nsolving. Execution of radiographic examinations and procedures. Trauma.\nIntroduction to research in health care science research process.",
     "Institution": "University of Pretoria"
   },
@@ -58647,6 +59985,49 @@
       ]
     },
     "Duration": "Year",
+    "Assessments": [
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 10,
+        "Subitems": [
+          {"Name": "Class Test 1"},
+          {"Name": "Class Test 2"}
+        ]
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 17.5,
+        "Subitems": [
+          {"Name": "Semester Test 1"},
+          {"Name": "Semester Test 2"}
+        ]
+      },
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Assessment",
+        "Weight": 10,
+        "Subitems": [
+          {"Name": "Continuous Assessment - Semester 1"},
+          {"Name": "Continuous Assessment - Semester 2"}
+        ]
+      },
+      {
+        "Name": "Assignments",
+        "Type": "Assignment",
+        "Weight": 12.5,
+        "Subitems": [
+          {"Name": "Group Assignment - Video"},
+          {"Name": "Assignment 2"}
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Skeletal system: Procedures and techniques for: positioning, patient care, selection of Technique factors,\nradiation protection, pathological conditions and image evaluation. Problem-solving. execution of radiographic\nexaminations and procedures. Trauma radiography. Paediatric and mobile radiography, bone age radiography\nand dental radiography.  Alternative imaging principles and procedures. Apparatus. Radiation protection.\nProcedures and techniques for fluoroscopy.\nRadiographic procedures:  Execution of radiographic examinations and procedures, selection of technique\nfactors, radiation protection, problem-solving, pathological conditions and image evaluation for neonatal and\nmobile unit procedures. Orthopaedic theatre procedures. Soft tissue examinations using contrast media in\ndemonstration of Genito-urinary, gastro-intestinal, biliary tract, arthrography , dacrosystography, sialography\nprocedures. Introduction to pharmacology and contrast media.  Introduction to developing research idea and\nliterature review. \nPatient assessment, education and care by the diagnostic radiographer. Developing professional attitudes as a\ndiagnostic radiographer practitioner. Patient communication-establishing professional relationship. Patient family\ninteractions. Inter-professional management between divisions in radiography discipline. Inter-professional\nmanagement within trauma, surgical theatre and hospital wards. Psycho-social management of patient.\n ",
     "Institution": "University of Pretoria"
   },
@@ -59139,6 +60520,62 @@
     "Period": [
       1
     ],
+    "Assessments": [
+      {
+        "Name": "MCQ Tests",
+        "Type": "Quiz",
+        "Weight": 5,
+        "Subitems": [
+          {
+            "Name": "MCQ Test 1"
+          },
+          {
+            "Name": "MCQ Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 12,
+        "Subitems": [
+          {
+            "Name": "Individual Assignment 1",
+            "Weight": 3.33
+          },
+          {
+            "Name": "Individual Assignment 2",
+            "Weight": 2
+          },
+          {
+            "Name": "Individual Assignment 3",
+            "Weight": 3.33
+          },
+          {
+            "Name": "Individual Assignment 4",
+            "Weight": 3.34
+          }
+        ]
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 33,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Theory of counselling. Interviewing: Interview; the consultation process; verbal, written and non-verbal\ncommunication to clients, patients, employees as individuals or groups in different stages of the life cycle in\nhealth and disease in homogenic and trans/multi-cultural situations by means of applicable theoretical\nframeworks.",
     "Institution": "University of Pretoria"
   },
@@ -59153,6 +60590,23 @@
     "Duration": "Semester",
     "Period": [
       2
+    ],
+    "Assessments": [
+      {
+        "Name": "Case Presentation",
+        "Type": "Presentation",
+        "Weight": 18
+      },
+      {
+        "Name": "Consultation",
+        "Type": "Assessment",
+        "Weight": 42
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
     ],
     "Description": "Practice training: Management of a dietetics clinic. Practising the consultation process and practice management\nin a dietetics clinic.",
     "Institution": "University of Pretoria"
@@ -59235,6 +60689,47 @@
     "Credit": 12,
     "NQF": 5,
     "Duration": "Semester",
+    "Assessments":[
+      {
+        "Name": "Assignment",
+        "Type": "Assignment",
+        "Weight": 12.5
+      },
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 7.5,
+        "Equal": true,
+        "Subitems":[
+          {
+            "Name": "Class Tests 1",
+            "DueDate": "2024-04-26"
+          },
+          {
+            "Name": "Class Tests 2",
+            "DueDate": "2024-05-22"
+          }
+        ]
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 30,
+        "Equal":true,
+        "Subitems":[
+          {
+            "Name": "Tests 1"
+          },
+          {
+            "Name": "Tests 2"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Weight": 50
+      }
+    ],
     "Period": [
       2
     ],
@@ -59247,6 +60742,36 @@
     "Credit": 12,
     "NQF": 5,
     "Duration": "Semester",
+    "Assessments":[
+      {
+        "Name": "Group Assignment",
+        "Type": "Assignment",
+        "Weight": 7.5
+      },
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 7.5
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 35,
+        "Equal":true,
+        "Subitems":[
+          {
+            "Name": "Tests 1"
+          },
+          {
+            "Name": "Tests 2"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Weight": 50
+      }
+    ],
     "Period": [
       2
     ],
@@ -59259,6 +60784,40 @@
     "Credit": 12,
     "NQF": 5,
     "Duration": "Semester",
+    "Assessments":[
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 15,
+        "Equal":true,
+        "Subitems":[
+          {
+            "Name": "Tests 1"
+          },
+          {
+            "Name": "Tests 2"
+          }
+        ]
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 35,
+        "Equal":true,
+        "Subitems":[
+          {
+            "Name": "Tests 1"
+          },
+          {
+            "Name": "Tests 2"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Weight": 50
+      }
+    ],
     "Period": [
       2
     ],
@@ -59418,6 +60977,68 @@
       "Code": "EXE111"
     },
     "Duration": "Year",
+    "Assessments": [
+      {
+        "Name": "Themed Assignments",
+        "Type": "Assignment",
+        "Weight": 2.5,
+        "Subitems": [
+          {
+            "Name": "Themed Assignment 1"
+          },
+          {
+            "Name": "Themed Assignment 2"
+          }
+        ]
+      },
+      {
+        "Name": "Assignments",
+        "Type": "Assignment",
+        "Weight": 35,
+        "Subitems": [
+          {
+            "Name": "Protocol Development Assignment"
+          },
+          {
+            "Name": "Scoping Review Assignment"
+          }
+        ]
+      },
+      {
+        "Name": "Unscheduled Class Assessments",
+        "Type": "Test",
+        "Weight": 5,
+        "Subitems": [
+          {
+            "Name": "Unscheduled Assessment 1"
+          },
+          {
+            "Name": "Unscheduled Assessment 2"
+          }
+        ]
+      },
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 7.5,
+        "Subitems": [
+          {
+            "Name": "Class Test 1"
+          },
+          {
+            "Name": "Class Test 2"
+          },
+          {
+            "Name": "Statistics Assignment"
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "*Closed requires departmental selection\nIn this module the focus will be on fundamental quantitative or experimental research methodology, and\nstatistics. The student will have the opportunity to demonstrate an understanding of the module through the\nmedium of a written theoretical examination and a research proposal.",
     "Institution": "University of Pretoria"
   },
@@ -59432,6 +61053,39 @@
     "Duration": "Semester",
     "Period": [
       1
+    ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 35,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 15,
+        "Subitems": [
+          {
+            "Name": "Class Test 1"
+          },
+          {
+            "Name": "Class Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
     ],
     "Description": "*Closed requires departmental selection\nTheoretical knowledge will be gained in the understanding of region specific sport injuries. This includes the\nmechanism of injury, type of injury, assessment and management of the sport injury.",
     "Institution": "University of Pretoria"
@@ -60124,10 +61778,12 @@
         "Weight": 22.5,
         "Subitems": [
           {
-            "Name": "Semester Test 1"
+            "Name": "Semester Test 1",
+            "DueDate": "2024-04-04"
           },
           {
-            "Name": "Semester Test 2"
+            "Name": "Semester Test 2",
+            "DueDate": "2024-05-09"
           }
         ]
       },
@@ -60137,34 +61793,34 @@
         "Weight": 20,
         "Subitems": [
           {
-            "Name": "Practical 1"
+            "Name": "Practical Report 1"
           },
           {
-            "Name": "Practical 2"
+            "Name": "Practical Report 2"
           },
           {
-            "Name": "Practical 3"
+            "Name": "Practical Report 3"
           },
           {
-            "Name": "Practical 4"
+            "Name": "Practical Report 4"
           },
           {
-            "Name": "Practical 5"
+            "Name": "Practical Report 5"
           },
           {
-            "Name": "Practical 6"
+            "Name": "Practical Report 6"
           },
           {
-            "Name": "Practical 7"
+            "Name": "Practical Report 7"
           },
           {
-            "Name": "Practical 8"
+            "Name": "Practical Report 8"
           },
           {
-            "Name": "Practical 9"
+            "Name": "Practical Report 9"
           },
           {
-            "Name": "Practical 10"
+            "Name": "Practical Report 10"
           }
         ]
       },
@@ -60174,10 +61830,12 @@
         "Weight": 5,
         "Subitems": [
           {
-            "Name": "Assignment 1"
+            "Name": "Assignment 1",
+            "DueDate": "2024-04-23"
           },
           {
-            "Name": "Assignment 2"
+            "Name": "Assignment 2",
+            "DueDate": "2024-05-23"
           }
         ]
       },
@@ -60227,6 +61885,41 @@
       ]
     },
     "Duration": "Year",
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 22.5,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Practicals",
+        "Type": "Practical",
+        "Weight": 20
+      },
+      {
+        "Name": "Assignments",
+        "Type": "Assignment",
+        "Weight": 5
+      },
+      {
+        "Name": "Quizzes",
+        "Type": "Quiz",
+        "Weight": 2.5
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Lectures: Food preservation technologies: concept of hurdle technology; heat (blanching, pasteurisation and\nsterilisation); cold (refrigeration and freezing); concentration and dehydration; food irradiation; fermentation;\npreservatives; new methods of food preservation. Effect of various food preservation technologies on the\nmicrobiological (shelf-life and safety issues), sensory and nutritional quality of foods. Practicals: Practical\napplications of above processes. Physical, chemical and sensory evaluation of processed foods. Assignment:\nApplication of hurdle technology concept to a specific food product. ",
     "Institution": "University of Pretoria"
   },
@@ -60770,6 +62463,46 @@
     "Code": "FSG162",
     "Credit": 6,
     "NQF": 5,
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 40,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Practials",
+        "Type": "Practical",
+        "Weight": 7.5,
+        "Subitems":[
+          {
+            "Name": "Haematology practical"
+          },
+          {
+            "Name": "Blood pressure practical"
+          },
+          {
+            "Name": "ECG practical"
+          }
+        ]
+      },
+      {
+        "Name": "Assignments",
+        "Type": "clickUP quizzes",
+        "Weight": 2.5
+      },
+      {
+        "Name": "Exam",
+        "Weight": 50
+      }
+    ],
     "Prerequisite": {
       "Comment": "No prerequisites"
     },
@@ -60819,6 +62552,39 @@
     "Duration": "Term",
     "Period": [
       1
+    ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 45,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Practicals",
+        "Type": "Practical",
+        "Weight": 5,
+        "Subitems": [
+          {
+            "Name": "Lung Function Practical"
+          },
+          {
+            "Name": "Urinalysis Practical"
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
     ],
     "Description": "Structure, gas exchange and secretory functions of the lungs; structure, excretory and non-urinary functions of\nthe kidneys, acid-base balance, and skin and body temperature control. Practical work to complement the\ntheory.",
     "Institution": "University of Pretoria"
@@ -61855,43 +63621,42 @@
     ],
     "Assessments": [
       {
-        "Name": "Tests",
+        "Name": "Class Tests",
         "Type": "Test",
         "Weight": 40,
         "Subitems": [
-          {
-            "Name": "Test 1"
-          },
-          {
-            "Name": "Test 2"
-          }
+          {"Name": "Class Test 1"},
+          {"Name": "Class Test 2"},
+          {"Name": "Class Test 3"}
         ]
       },
       {
-        "Name": "Quizzes",
+        "Name": "MCQ Tests",
         "Type": "Quiz",
-        "Weight": 10,
+        "Weight": 5,
         "Subitems": [
-          {
-            "Name": "Quiz 1",
-            "DueDate": "2024-04-24"
-          },
-          {
-            "Name": "Quiz 2",
-            "DueDate": "2024-05-07"
-          },
-          {
-            "Name": "Quiz 3",
-            "DueDate": "2024-05-14"
-          },
-          {
-            "Name": "Quiz 4",
-            "DueDate": "2024-05-21"
-          }
+          {"Name": "Open book Assessment 1"},
+          {"Name": "Open book Assessment 2"},
+          {"Name": "Open book Assessment 3"},
+          {"Name": "Open book Assessment 4"},
+          {"Name": "Open book Assessment 5"},
+          {"Name": "Open book Assessment 6"},
+          {"Name": "Open book Assessment 7"},
+          {"Name": "Open book Assessment 8"},
+          {"Name": "Open book Assessment 9"},
+          {"Name": "Open book Assessment 10"},
+          {"Name": "Open book Assessment 11"},
+          {"Name": "Open book Assessment 12"},
+          {"Name": "Open book Assessment 13"}
         ]
       },
       {
-        "Name": "Examination",
+        "Name": "Case Study Group Presentation",
+        "Type": "Presentation",
+        "Weight": 5
+      },
+      {
+        "Name": "Written Examination",
         "Type": "Exam",
         "Weight": 50
       }
@@ -61918,6 +63683,48 @@
     "Period": [
       3
     ],
+    "Assessments": [
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 40,
+        "Subitems": [
+          {"Name": "Class Test 1"},
+          {"Name": "Class Test 2"},
+          {"Name": "Class Test 3"}
+        ]
+      },
+      {
+        "Name": "MCQ Tests",
+        "Type": "Quiz",
+        "Weight": 5,
+        "Subitems": [
+          {"Name": "Open book Assessment 1"},
+          {"Name": "Open book Assessment 2"},
+          {"Name": "Open book Assessment 3"},
+          {"Name": "Open book Assessment 4"},
+          {"Name": "Open book Assessment 5"},
+          {"Name": "Open book Assessment 6"},
+          {"Name": "Open book Assessment 7"},
+          {"Name": "Open book Assessment 8"},
+          {"Name": "Open book Assessment 9"},
+          {"Name": "Open book Assessment 10"},
+          {"Name": "Open book Assessment 11"},
+          {"Name": "Open book Assessment 12"},
+          {"Name": "Open book Assessment 13"}
+        ]
+      },
+      {
+        "Name": "Case Study Group Presentation",
+        "Type": "Presentation",
+        "Weight": 5
+      },
+      {
+        "Name": "Written Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Systemic bacteriology.\nCommonly occurring bacterial infections and the bacteria that cause them.",
     "Institution": "University of Pretoria"
   },
@@ -61939,6 +63746,48 @@
     "Duration": "Term",
     "Period": [
       4
+    ],
+    "Assessments": [
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 40,
+        "Subitems": [
+          {"Name": "Class Test 1"},
+          {"Name": "Class Test 2"},
+          {"Name": "Class Test 3"}
+        ]
+      },
+      {
+        "Name": "MCQ Tests",
+        "Type": "Quiz",
+        "Weight": 5,
+        "Subitems": [
+          {"Name": "Open book Assessment 1"},
+          {"Name": "Open book Assessment 2"},
+          {"Name": "Open book Assessment 3"},
+          {"Name": "Open book Assessment 4"},
+          {"Name": "Open book Assessment 5"},
+          {"Name": "Open book Assessment 6"},
+          {"Name": "Open book Assessment 7"},
+          {"Name": "Open book Assessment 8"},
+          {"Name": "Open book Assessment 9"},
+          {"Name": "Open book Assessment 10"},
+          {"Name": "Open book Assessment 11"},
+          {"Name": "Open book Assessment 12"},
+          {"Name": "Open book Assessment 13"}
+        ]
+      },
+      {
+        "Name": "Case Study Group Presentation",
+        "Type": "Presentation",
+        "Weight": 5
+      },
+      {
+        "Name": "Written Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
     ],
     "Description": "Fungi, parasitology and virology.\nCommonly occurring fungal, viral and parasite infections and infestations, and the organisms that cause them.",
     "Institution": "University of Pretoria"
@@ -64939,6 +66788,29 @@
     "Code": "IHL112",
     "Credit": 6,
     "NQF": 5,
+    "Assessments":[
+      {
+        "Name": "Semester Test",
+        "Type": "Test",
+        "Weight": 60
+      },
+      {
+        "Name": "Assignments",
+        "Type": "Assignment",
+        "Weight": 40,
+        "Equal": false,
+        "Subitems": [
+          {
+            "Name": "Assignment 2 - Group Presentations",
+            "Weight": 30
+          },
+          {
+            "Name": "Assignment 1 - Individual ClickUP",
+            "Weight": 10
+          }
+        ]
+      }
+    ],
     "Prerequisite": {
       "Comment": "No prerequisites"
     },
@@ -64967,6 +66839,28 @@
     "Duration": "Semester",
     "Period": [
       2
+    ],
+    "Assessments": [
+      {
+        "Name": "Semester Test",
+        "Type": "Test",
+        "Weight": 35
+      },
+      {
+        "Name": "Assignment 1",
+        "Type": "Assignment",
+        "Weight": 12.5
+      },
+      {
+        "Name": "ClickUP Tests",
+        "Type": "Assessment",
+        "Weight": 2.5
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
     ],
     "Description": "Aspects of the nursing profession, including an introduction to integrative healthcare principles, an introduction\nto nursing management, the principles of quality improvement, and guided engagement in professional\nactivities (national/international).\n1 hour of the contact time will consist of clinical accompaniment by a lecturer/facilitator.",
     "Institution": "University of Pretoria"
@@ -65393,6 +67287,31 @@
     "Period": [
       1
     ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 40,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Assignment 1",
+        "Type": "Assignment",
+        "Weight": 10
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "*Closed requires departmental selection\nIn this module students will form an understanding of the multi-dimensional nature of sport psychology, with\nspecific reference to Performance Termination (PT), Performance Dysfunction (PDy), Performance Impairment\n(PI) and Performance Development (PD) as portrayed in the Multi-Level Classification System for Sport\nPsychology (MCS-SP). Through studying the MCS-SP students will understand the role of sport psychologists in\nthe sport context, how sport psychology focuses on the psychological well-being of athletes within sport\norganizations, as well as the psychological aspects that contribute to excellence in sport performance.",
     "Institution": "University of Pretoria"
   },
@@ -65423,25 +67342,35 @@
       {
         "Name": "Tests",
         "Type": "Test",
-        "Weight": 100,
-        "Equal": false,
+        "Weight": 57,
         "Subitems": [
           {
-            "Name": "Oral Bio Test 1",
+            "Name": "Test I",
             "DueDate": "2024-04-16",
-            "Weight": 25
+            "Weight": 12
           },
           {
-            "Name": "Oral Bio Test 2",
+            "Name": "Test II",
             "DueDate": "2024-08-06",
-            "Weight": 35
+            "Weight": 21
           },
           {
-            "Name": "Oral Bio Test 3",
+            "Name": "Test III",
             "DueDate": "2024-10-22",
-            "Weight": 40
+            "Weight": 24
           }
         ]
+      },
+      {
+        "Name": "Weekly Class Tests",
+        "Type": "Quiz",
+        "Weight": 3
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "DueDate": "2024-11-15",
+        "Weight": 40
       }
     ],
     "Description": "This module will provide the oral hygiene student with a broad basic knowledge on the development, normal\nmacroscopic and microscopic structure and functions of the oral cavity, teeth and related structures. The\nmodule content will serve as pre-knowledge for clinical subjects and oral pathology in the oral hygiene\nprogramme.",
@@ -66239,6 +68168,68 @@
     "Period": [
       1
     ],
+    "Assessments": [
+      {
+        "Name": "clickUp Tests",
+        "Type": "Test",
+        "Weight": 3.5,
+        "Subitems": [
+          {
+            "Name": "Study Guide clickUP Test",
+            "Weight": 0.5
+          },
+          {
+            "Name": "Prepare for Unit 1",
+            "Weight": 1
+          },
+          {
+            "Name": "Prepare for Unit 2",
+            "Weight": 1
+          },
+          {
+            "Name": "Prepare for Unit 3",
+            "Weight": 1
+          }
+        ]
+      },
+      {
+        "Name": "Assignments",
+        "Type": "Assignment",
+        "Weight": 16.5,
+        "Subitems": [
+          {
+            "Name" :"Assignment 1",
+            "Weight": 6.75
+          },
+          {
+            "Name": "Assignment 2",
+            "Weight": 3
+          },
+          {
+            "Name": "Assignment 3",
+            "Weight": 6.75
+          }
+        ]
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 30,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Aetiology and clinical manifestations of under- and over-nutrition/PEM; principles and practices of medical\nnutrition therapy in under-nutrition/PEM; impact and influence of worm infestation. Relationship between\nmalnutrition and AIDS; role of nutrition in immunity within the context of HIV/AIDS; clinical signs, symptoms and\nproblems associated with HIV/AIDS and guidelines for the alleviation of these symptoms; nutritional related\nproblems of medication used by HIV/AIDS patients. Metabolic response to acute and chronic stress. Principles of\nspecial nutritional care, special feeding methods and products required for injured/critically ill patients.\nAppropriate practical assignments and case studies.",
     "Institution": "University of Pretoria"
   },
@@ -66307,6 +68298,118 @@
     "Period": [
       2
     ],
+    "Assessments": [
+      {
+        "Name": "Individual Assignments",
+        "Type": "Assignment",
+        "Weight": 4.8,
+        "Subitems": [
+          {
+            "Name": "DM visual aid"
+          },
+          {
+            "Name": "Adult product file"
+          },
+          {
+            "Name": "CVD visual aid"
+          },
+          {
+            "Name": "Renal visual aid"
+          }
+        ]
+      },
+      {
+        "Name": "Individual Assignment Practicals",
+        "Type": "Practical",
+        "Weight": 4.2,
+        "Subitems": [
+          {
+            "Name": "Practical NCR 1"
+          },
+          {
+            "Name": "Practical NCR 2"
+          },
+          {
+            "Name": "Practical NCR 3"
+          },
+          {
+            "Name": "Practical NCR 4"
+          }
+        ]
+      },
+      {
+        "Name": "Group Assignments",
+        "Type": "Assignment",
+        "Weight": 2.4,
+        "Subitems": [
+          {
+            "Name": "Group Assignment 1"
+          },
+          {
+            "Name": "Group Assignment 2"
+          }
+        ]
+      },
+      {
+        "Name": "clickUP Tests",
+        "Type": "Quiz",
+        "Weight": 3.6,
+        "Subitems": [
+          {
+            "Name": "Study Guide Test"
+          },
+          {
+            "Name": "Continuous tests for unit 1"
+          },
+          {
+            "Name": "Continuous tests for unit 2"
+          },
+          {
+            "Name": "Continuous tests for unit 3"
+          },
+          {
+            "Name": "Continuous tests for unit 4"
+          },
+          {
+            "Name": "Continuous tests for unit 5"
+          }
+        ]
+      },
+      {
+        "Name": "Practical Exam",
+        "Type": "Practical",
+        "Weight": 9
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 36,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40,
+        "Subitems": [
+          {
+            "Name": "Written Paper",
+            "Weight": 30
+          },
+          {
+            "Name": "Case Scenario Assignment",
+            "Weight": 10
+          }
+        ]
+      }
+
+    ],
     "Description": "Relationships between obesity, hypertension, cardiovascular disease, insulin resistance and concomitant health\nrisks. Aetiology, pathophysiology and manifestation(s) of type 1 and type 2 Diabetes Mellitus, gestational\ndiabetes and impaired glucose tolerance; principles and practices of medical nutrition therapy of diabetes\nmellitus integrated with medical/pharmacological treatment; dietary treatment/prevention of complications;\ndietary adaptations when exercising and lifestyle/behaviour modification. Aetiology and clinical manifestations of\ncardiovascular; principles and practices of medical nutrition therapy in CVD. Congenital heart disease and\nspecial problems related to children with congenital heart disease. Aetiology and clinical manifestation(s) of\nrenal disease conditions; principles and practices of medical nutrition therapy in renal conditions (nephritic\nsyndrome, nephrotic syndrome, acute and chronic renal failure, nephrolithiasis). Nutrient-drug interactions.\nAppropriate practical assignments and case studies.",
     "Institution": "University of Pretoria"
   },
@@ -66360,6 +68463,34 @@
     "Code": "NPE110",
     "Credit": 12,
     "NQF": 5,
+    "Assessments":[
+      {
+        "Name": "Formative OSCE",
+        "Type": "OSCE",
+        "Weight": 30
+      },
+      {
+        "Name": "Project presentation",
+        "Type": "Presentation",
+        "Equal":false,
+        "Weight": 20,
+        "Subitems":[
+          {
+            "Name": "Community health project",
+            "Type": 15
+          },
+          {
+            "Name": "School Health project",
+            "Type": 5
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Prerequisite": {
       "Comment": "No prerequisites"
     },
@@ -66375,6 +68506,23 @@
     "Code": "NPE120",
     "Credit": 12,
     "NQF": 5,
+    "Assessments":[
+      {
+        "Name": "Formative OSCE",
+        "Type": "OSCE",
+        "Weight": 35
+      },
+      {
+        "Name": "Formative assessment",
+        "Type": "assessment",
+        "Weight": 15
+      },
+      {
+        "Name": "Examination Papers",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Prerequisite": {
       "Comment": "No prerequisites"
     },
@@ -66424,6 +68572,27 @@
     "Duration": "Semester",
     "Period": [
       1
+    ],
+    "Assessments": [
+      {
+        "Name": "Semester Test",
+        "Type": "Test",
+        "Weight": 30
+      },
+      {
+        "Name": "Short Essay",
+        "Type": "Assignment",
+        "Weight": 20,
+        "Subitems": [
+          {"Name": "Hospice Project"},
+          {"Name": "Perioperative Nursing Care Assignment"}
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
     ],
     "Description": "Nursing skills in medical and surgical nursing care, including basic resuscitation, suctioning and medication\nadministration, skills related to medical and palliative nursing care, and skills related to pre- and post-operative\nnursing care.\n1 hour of the contact time will consist of clinical accompaniment by a lecturer/facilitator.",
     "Institution": "University of Pretoria"
@@ -66795,6 +68964,81 @@
     "Period": [
       1
     ],
+    "Assessments": [
+      {
+        "Name": "Assignments",
+        "Type": "Assignment",
+        "Weight": 10,
+        "Subitems": [
+          {
+            "Name": "Food Record Assignment",
+            "Weight": 7
+          },
+          {
+            "Name": "Case Study Assignment",
+            "Weight": 1
+          },
+          {
+            "Name": "Reference File Assignment",
+            "Weight": 1
+          },
+          {
+            "Name": "SGA Assignment",
+            "Weight": 1
+          }
+        ]
+      },
+      {
+        "Name": "ClickUP Quizzes",
+        "Type": "Quiz",
+        "Weight": 3,
+        "Subitems": [
+          {
+            "Name": "Anthro App - adults Quiz",
+            "Weight": 2
+          },
+          {
+            "Name": "Anthro App - paeds Quiz",
+            "Weight": 1
+          }
+        ]
+      },
+      {
+        "Name": "Practicals",
+        "Type": "Practical",
+        "Weight": 11,
+        "Subitems": [
+          {
+            "Name": "PSEA Kit Practical",
+            "Weight": 4
+          },
+          {
+            "Name": "Anthro Video Practical",
+            "Weight": 7
+          }
+        ]
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 36,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1",
+            "Weight": 19
+          },
+          {
+            "Name": "Semester Test 2",
+            "Weight": 17
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
     "Description": "Evaluation of nutrition status within the nutrition care process. Principles of science as applied in nutrition\nassessment. Nutrition screening; clinical, anthropometric, biochemical and dietary evaluation of nutrition status.\nPractice training: practising of theoretical principles of nutrition status evaluation in hospital/clinic and/or skills\nlaboratory.",
     "Institution": "University of Pretoria"
   },
@@ -66803,6 +69047,28 @@
     "Code": "NUR110",
     "Credit": 5,
     "NQF": 5,
+    "Assessments":[
+      {
+        "Name": "Semester test",
+        "Type": "Test",
+        "Weight": 30
+      },
+      {
+        "Name": "Poster presentation",
+        "Type": "Presentation",
+        "Weight": 12.5
+      },
+      {
+        "Name": "Click UP tests",
+        "Type": "Test",
+        "Weight": 7.5
+      },
+      {
+        "Name": "Examination Papers",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Prerequisite": {
       "Comment": "No prerequisites"
     },
@@ -66818,6 +69084,30 @@
     "Code": "NUR120",
     "Credit": 3,
     "NQF": 5,
+    "Assessments":[
+      {
+        "Name": "Semester test",
+        "Type": "Test",
+        "Weight": 35,
+        "DueDate": "2024-10-03"
+      },
+      {
+        "Name": "Power point presentation",
+        "Type": "Presentation",
+        "Weight": 12.5,
+        "DueDate": "2024-10-17"
+      },
+      {
+        "Name": "Click UP tests",
+        "Type": "Test",
+        "Weight": 2.5
+      },
+      {
+        "Name": "Examination Papers",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Prerequisite": {
       "Comment": "No prerequisites"
     },
@@ -66853,6 +69143,23 @@
     "Period": [
       1
     ],
+    "Assessments": [
+      {
+        "Name": "Semester Test",
+        "Type": "Test",
+        "Weight": 30
+      },
+      {
+        "Name": "Short Essay",
+        "Type": "Assignment",
+        "Weight": 20
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Theory related to homeostasis, immunology, haematology and principles of medical, palliative and surgical\nnursing care.",
     "Institution": "University of Pretoria"
   },
@@ -66880,6 +69187,28 @@
     "Duration": "Semester",
     "Period": [
       2
+    ],
+    "Assessments": [
+      {
+        "Name": "Assignment 1",
+        "Type": "Assignment",
+        "Weight": 15
+      },
+      {
+        "Name": "Pre/Post Class Activities",
+        "Type": "Assessment",
+        "Weight": 5
+      },
+      {
+        "Name": "Semester Test",
+        "Type": "Test",
+        "Weight": 30
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
     ],
     "Description": "Theory related to communicable and non-communicable conditions of the respiratory-, cardiovascular-,\nneurological-, musculoskeletal- and gastrointestinal systems, across the lifespan.",
     "Institution": "University of Pretoria"
@@ -67435,76 +69764,91 @@
       {
         "Name": "Assignments",
         "Type": "Assignment",
-        "Weight": 20,
+        "Weight": 10,
         "Subitems": [
           {
             "Name": "MOHO Individual Assignment",
             "DueDate": "2024-04-04",
-            "Weight": 3
+            "Weight": 1.5
           },
           {
             "Name": "MOHO Group Assignment",
             "DueDate": "2024-05-16",
-            "Weight": 2
+            "Weight": 1
           },
           {
             "Name": "VdTMoCA Assignment",
             "DueDate": "2024-05-06",
-            "Weight": 4
+            "Weight": 2
           },
           {
             "Name": "Work Individual Assignment",
             "DueDate": "2024-08-31",
-            "Weight": 4
+            "Weight": 2
           },
           {
             "Name": "PEOP Model Group Assignment",
             "DueDate": "2024-09-05",
-            "Weight": 3
+            "Weight": 1.5
           },
           {
             "Name": "Occupational Justice Group Assignment",
             "DueDate": "2024-10-01",
-            "Weight": 2
+            "Weight": 1
           },
           {
             "Name": "Ergonomics Work Assignment",
             "DueDate": "2024-10-14",
-            "Weight": 2
+            "Weight": 1
           }
         ]
       },
       {
         "Name": "OSPE",
         "Type": "Practical",
-        "Weight": 15,
+        "Weight": 7.5,
         "Subitems": [
           {
-            "Name": "OSPE 1",
+            "Name": "Practical Test 1 - OSPE",
             "DueDate": "2024-05-23",
-            "Weight": 7
+            "Weight": 3.5
           },
           {
-            "Name": "OSPE 2",
+            "Name": "Practical Test 2 - OSPE",
             "DueDate": "2024-10-29",
-            "Weight": 8
+            "Weight": 4
           }
         ]
       },
       {
         "Name": "Semester Tests",
         "Type": "Test",
-        "Weight": 65,
+        "Weight": 32.5,
         "Subitems": [
           {
             "Name": "Semester Test 1",
             "DueDate": "2024-05-30",
-            "Weight": 30
+            "Weight": 15
           },
           {
             "Name": "Semester Test 2",
             "DueDate": "2024-10-24",
-            "Weight": 35
+            "Weight": 17.5
+          }
+        ]
+      },
+      {
+        "Name": "Examinations",
+        "Type": "Exam",
+        "Weight": 50,
+        "Subitems": [
+          {
+            "Name": "Written Examination",
+            "Weight": 32.5
+          },
+          {
+            "Name": "All skills Labs - OSPE",
+            "Weight": 17.5
           }
         ]
       }
@@ -68893,6 +71237,54 @@
     "Period": [
       2
     ],
+    "Assessments": [
+      {
+        "Name": "Semester Test",
+        "Type": "Test",
+        "Weight": 21
+      },
+      {
+        "Name": "Assessment Activity Assignment",
+        "Type": "Assignment",
+        "Weight": 12
+      },
+      {
+        "Name": "Assessment Report",
+        "Type": "Assignment",
+        "Weight": 15
+      },
+      {
+        "Name": "Online Quizzes",
+        "Type": "Quiz",
+        "Weight": 6,
+        "Subitems": [
+          {
+            "Name": "Online Quiz 1"
+          },
+          {
+            "Name": "Online Quiz 2"
+          },
+          {
+            "Name": "Online Quiz 3"
+          }
+        ]
+      },
+      {
+        "Name": "Clinical Observation Demonstration",
+        "Type": "Assessment",
+        "Weight": 6
+      },
+      {
+        "Name": "Written Examination",
+        "Type": "Exam",
+        "Weight": 24
+      },
+      {
+        "Name": "Practical Examination",
+        "Type": "Exam",
+        "Weight": 16
+      }
+    ],
     "Description": "Sensory-motor disorders: The study of occupational therapy evaluation and intervention of sensory-motor\ndisorders in all age groups. Includes the pathology, causes, clinical picture and prognosis of selected disorders.",
     "Institution": "University of Pretoria"
   },
@@ -68968,6 +71360,43 @@
     "Duration": "Term",
     "Period": [
       3
+    ],
+    "Assessments": [
+      {
+        "Name": "Online Test 1",
+        "Type": "Test",
+        "Weight": 9
+      },
+      {
+        "Name": "Online Theory and Practical Video Test 2",
+        "Type": "Test",
+        "Weight": 24
+      },
+      {
+        "Name": "Assessment Report",
+        "Type": "Report",
+        "Weight": 12
+      },
+      {
+        "Name": "Authentic Assessment",
+        "Type": "Assessment",
+        "Weight": 9
+      },
+      {
+        "Name": "Computer Based MCQ Test",
+        "Type": "Quiz",
+        "Weight": 3
+      },
+      {
+        "Name": "Activity Analysis Peer Review Assignment",
+        "Type": "Assignment",
+        "Weight": 3
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
     ],
     "Description": "Mental health and cognition: The study of occupational therapy evaluation and intervention of psycho-social and\ncognitive disorders in all age groups. Includes the pathology, causes, clinical picture and prognosis of selected\ndisorders.",
     "Institution": "University of Pretoria"
@@ -69062,8 +71491,8 @@
         "Weight": 15
       },
       {
-        "Name": "Short Class Activities - Group",
-        "Type": "Coursework",
+        "Name": "Class Activities",
+        "Type": "Assessment",
         "Weight": 9
       },
       {
@@ -69163,31 +71592,36 @@
         "Name": "Semester Test",
         "Type": "Test",
         "DueDate": "2024-09-12",
-        "Weight": 35
+        "Weight": 21
       },
       {
         "Name": "Assessment Report",
         "Type": "Portfolio",
         "DueDate": "2024-10-07",
-        "Weight": 15
+        "Weight": 9
       },
       {
         "Name": "Fieldwork Practical Test",
         "Type": "Practical",
         "DueDate": "2024-11-08",
-        "Weight": 25
+        "Weight": 15
       },
       {
         "Name": "Group Presentation",
         "Type": "Presentation",
         "DueDate": "2024-10-21",
-        "Weight": 15
+        "Weight": 9
       },
       {
         "Name": "Quizzes",
         "Type": "Quiz",
         "DueDate": "2024-11-20",
-        "Weight": 10
+        "Weight": 6
+      },
+      {
+        "Name": "Written Examination",
+        "Type": "Exam",
+        "Weight": 40
       }
     ],
     "Description": "Biomechanics: The study of occupational therapy evaluation and intervention of the conditions of the\nmusculoskeletal system in all age groups. Includes the pathology, causes, clinical picture and prognosis of\nselected conditions.",
@@ -69971,6 +72405,31 @@
     "Code": "PHY141",
     "Credit": 16,
     "NQF": 5,
+    "Assessments":[
+      {
+        "Name": "Revision tests",
+        "Type": "Test",
+        "Weight": 18
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 42,
+        "Equal":true,
+        "Subitems":[
+          {
+            "Name": "Test 1"
+          },
+          {
+            "Name": "Tests 2"
+          }
+        ]
+      },
+      {
+        "Name": "Exam",
+        "Weight": 40
+      }
+    ],
     "Prerequisite": {
       "$or": [
         {
@@ -70142,6 +72601,28 @@
     "Credit": 12,
     "NQF": 5,
     "Duration": "Year",
+    "Assessments":[
+      {
+        "Name": "Sport Practical Unit 1:Swimming",
+        "Type": "Practical",
+        "Weight": 24
+      },
+      {
+        "Name": "Sport Practical Unit 2:Athletics",
+        "Type": "Practical",
+        "Weight": 24
+      },
+      {
+        "Name": "Sport Practical Unit 3:Gymnasium",
+        "Type": "Practical",
+        "Weight": 24
+      },
+      {
+        "Name": "Sport Practical Unit 4:Netball",
+        "Type": "Practical",
+        "Weight": 24
+      }
+    ],
     "Description": "*Closed requires departmental selection.\nThis module will serve as the foundation for swimming, netball, athletics and gymnasium movement skill\nacquisition. The module serves as exposure to and experience in the movement skills practiced in swimming,\nnetball, athletics and gymnasium. This will aid the Sport Scientist and Biokineticist to better understand and\ncondition clients and patients practicing these sports.Sports-specific skills, team situation; rules and regulations,\nrefereeing; game analysis; coaching.",
     "Institution": "University of Pretoria"
   },
@@ -70175,6 +72656,36 @@
       "Comment": "Final year status"
     },
     "Duration": "Year",
+    "Assessments": [
+      {
+        "Name": "PoE Assignment",
+        "Type": "Assignment",
+        "Weight": 100,
+        "Subitems": [
+          {
+            "Name": "PoE Assignment Theme 1"
+          },
+          {
+            "Name": "PoE Assignment Theme 2"
+          },
+          {
+            "Name": "PoE Assignment Theme 3"
+          },
+          {
+            "Name": "PoE Assignment Theme 4"
+          },
+          {
+            "Name": "PoE Assignment Theme 5"
+          },
+          {
+            "Name": "PoE Assignment Theme 6"
+          },
+          {
+            "Name": "PoE Assignment Theme 7"
+          }
+        ]
+      }
+    ],
     "Description": "*Closed requires departmental selection\nThis module serves as the platform for supervised practical training and application in exercise testing and\ninterpretation for sport-related physical fitness components,  exercise programme design and implementation\nfor sport-related physical fitness, and sport science work experience. This module requires the student to have\naccumulated 45 hours of Sport First aid.",
     "Institution": "University of Pretoria"
   },
@@ -71044,6 +73555,40 @@
     "Credit": 20,
     "NQF": 5,
     "Duration": "Year",
+    "Assessments":[
+      {
+        "Name": "CBT",
+        "Weight": 7.5
+      },
+      {
+        "Name": "Block Tests",
+        "Type": "Test",
+        "Weight": 40,
+        "Subitems": [
+          {
+            "Name": "Block I"
+          },
+          {
+            "Name": "Block II"
+          },
+          {
+             "Name": "Block III"
+          },
+          {
+             "Name": "Block IV"
+          }
+        ]
+      },
+      {
+        "Name": "Practical participation (Assignments)",
+        "Type": "Assignment",
+        "Weight": 2.5
+      },
+      {
+         "Name": "Exam",
+         "Weight": 50
+      }
+    ],
     "Prerequisite": {
       "Comment": "No prerequisites"
     },
@@ -71094,21 +73639,36 @@
         "Weight": 40,
         "Subitems": [
           {
-            "Name": "Semester Test 1"
+            "Name": "Semester Test 1",
+            "DueDate": "2024-04-16"
           },
           {
-            "Name": "Semester Test 2"
+            "Name": "Semester Test 2",
+            "DueDate": "2024-05-28"
           }
         ]
       },
       {
         "Name": "Computer Based Tests",
         "Type": "Quiz",
-        "Weight": 10
+        "Weight": 7.5,
+        "Subitems": [
+          {"Name": "Computer Based Test 1", "DueDate": "2024-03-08"},
+          {"Name": "Computer Based Test 2", "DueDate": "2024-04-12"},
+          {"Name": "Computer Based Test 3", "DueDate": "2024-05-04"},
+          {"Name": "Computer Based Test 4", "DueDate": "2024-05-31"}
+        ]
+      },
+      {
+        "Name": "Reflection Assignment",
+        "Type": "Assignment",
+        "DueDate": "2024-05-31",
+        "Weight": 2.5
       },
       {
         "Name": "Examination",
         "Type": "Exam",
+        "DueDate": "2024-06-18",
         "Weight": 50
       }
     ],
@@ -71588,6 +74148,48 @@
       "Comment": "No prerequisites"
     },
     "Duration": "Year",
+    "Assessments": [
+      {
+        "Name": "Radiation Therapy Written Test",
+        "Type": "Test",
+        "Weight": 7.5
+      },
+      {
+        "Name": "Radiation Therapy Pre-class Activities",
+        "Type": "Assessment",
+        "Weight": 5
+      },
+      {
+        "Name": "Nuclear Medicine Written Test",
+        "Type": "Test",
+        "Weight": 7.5
+      },
+      {
+        "Name": "Nuclear Medicine Pre-class Activities",
+        "Type": "Assessment",
+        "Weight": 5
+      },
+      {
+        "Name": "Radiobiology Written Test and Online Tests/Activities",
+        "Type": "Assessment",
+        "Weight": 7.5
+      },
+      {
+        "Name": "Radiobiology Pre-class Activities",
+        "Type": "Assessment",
+        "Weight": 5
+      },
+      {
+        "Name": "Radiation Therapy & Nuclear Medicine Written Assignment",
+        "Type": "Assignment",
+        "Weight": 12.5
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Introduction to radiation therapy: Radiation therapy services organisation. The radiation therapist Scope ofa.\npractice; Practice Standards. Cancer management Cancer incidence; epidemiology and etiological studies;\nDetection and diagnosis; Prevention. Treatment Radiation oncology; Surgical oncology; Medical oncology;\nImmunotherapy; Complementary and alternative medicine. Radiation treatment modalities; Identification\nand application of radiation therapy equipment and accessories. Key terms related to external beam\nradiation equipment. Key terms related to radiation dose to be delivered. Radiation beam positioning terms;\nPatient positioning. Common radiation effects on normal tissue.\nIntroduction to nuclear medicine: Role of Nuclear Medicine in medical diagnosis and treatment. Principles ofb.\nnuclear physics and nuclear medicine, nuclear instrumentation, radio chemical pharmacology. Basic\napproach to clinical nuclear medicine and relevant techniques.\nIntroduction to radiobiology: -    basic background to the field of radiobiology the interaction of differentc.\nradiation types with the molecules and organelles of the mammalian cell; biological interaction of different\nradiation types with the cellular dynamics; biological effect of radiation on organs of the body and the whole\nbody; clinical radiobiology in diagnostic radiography. \n ",
     "Institution": "University of Pretoria"
   },
@@ -71646,6 +74248,55 @@
       "Comment": "No prerequisites"
     },
     "Duration": "Year",
+    "Assessments":[
+      {
+        "Name": "Continuous Assessment (tutorials, quizzes, class tests)",
+        "Type": "Assessment",
+        "Weight": 14.4,
+        "Subitems":[
+          {
+            "Name": "Continuous Assessment (tutorials, quizzes, class tests) Semester 1"
+          },
+          {
+            "Name": "Continuous Assessment (tutorials, quizzes, class tests) Semester 2"
+          }
+        ]
+      },
+      {
+        "Name": "Semester Test",
+        "Type": "Test",
+        "Weight": 32.4,
+        "Subitems":[
+          {
+            "Name": "Semester 1 Test 1",
+            "Weight": 7.2
+          },
+          {
+            "Name": "Semester 1 Test 2",
+            "Weight": 8.4
+          },
+          {
+            "Name": "Semester 2 Test 1",
+            "Weight": 8.4
+          },
+          {
+            "Name": "Semester 2 Test 2",
+            "Weight": 8.4
+          }
+        ]
+      },
+      {
+        "Name": "Mid-year Progress Test",
+        "Type": "Test",
+        "Weight": 13.2
+      },
+      
+      {
+        "Name": "Final Exam",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
     "Description": "Units:  standards, conversion, dimensional analysis.\nMechanics: simple harmonic motion, rotation, sound wave propagation. \nElectricity: electrostatics, electrodynamics. \nElectromagnetism: induction, alternating currents, safety. \nAtomic physics: atomic models and quantum phenomena, X-rays, particle-wave duality.",
     "Institution": "University of Pretoria"
   },
@@ -71671,6 +74322,49 @@
       ]
     },
     "Duration": "Year",
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments 1",
+        "Type": "Assessment",
+        "Weight": 6,
+        "Subitems": [
+          {"Name": "Class Test 1"},
+          {"Name": "Quizzes - Semester 1"},
+          {"Name": "Tutorials - Semester 1"}
+        ]
+      },
+      {
+        "Name": "Mid-Year Progress Test",
+        "Type": "Test",
+        "Weight": 10
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 28,
+        "Subitems": [
+          {"Name": "Semester Test 1"},
+          {"Name": "Semester Test 2"},
+          {"Name": "Semester Test 3"},
+          {"Name": "Semester Test 4"}
+        ]
+      },
+      {
+        "Name": "Continuous Assessments 2",
+        "Type": "Assessment",
+        "Weight": 6,
+        "Subitems": [
+          {"Name": "Class Test 2"},
+          {"Name": "Quizzes - Semester 2"},
+          {"Name": "Tutorials - Semester 2"}
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "X-ray generation:  atomic physics, thermodynamics, X-ray tubes, linear accelerators.\nImage formation and recording:  optics, image intensifiers, solid state physics, digital imaging display and\nstorage systems, image quality and patient dose.",
     "Institution": "University of Pretoria"
   },
@@ -71711,6 +74405,85 @@
       "Comment": "No prerequisites"
     },
     "Duration": "Year",
+    "Assessments":[
+      {
+        "Name": "Continuous Assessment (tutorials, quizzes, class tests)",
+        "Type": "Assessment",
+        "Weight": 14.4,
+        "Subitems":[
+          {
+            "Name": "Continuous Assessment (tutorials, quizzes, class tests) Semester 1"
+          },
+          {
+            "Name": "Continuous Assessment (tutorials, quizzes, class tests) Semester 2"
+          }
+        ]
+      },
+      {
+        "Name": "Class Tests",
+        "Type": "Test",
+        "Weight": 15,
+        "Subitems":[
+          {
+            "Name": "Class Test 1 Semester 1"
+          },
+          {
+            "Name": "Class Test 2 Semester 1"
+          },
+          {
+            "Name": "Class Test 1 Semester 2"
+          },
+          {
+            "Name": "Class Test 2 Semester 2"
+          }
+        ]
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 15,
+        "Subitems":[
+          {
+            "Name": "Semester 1 Test 1"
+          },
+          {
+            "Name": "Semester 2 Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Semester ClickUP Discussion Board",
+        "Type": "ClickUP Discussion Board",
+        "Weight": 10,
+        "Subitems":[
+          {
+            "Name": "Semester 1 ClickUP Discussion Board"
+          },
+          {
+            "Name": "Semester 2 ClickUP Discussion Board"
+          }
+        ]
+      },
+      {
+        "Name": "Semester Assignments",
+        "Type": "Assignment",
+        "Weight": 10,
+        "Subitems":[
+          {
+            "Name": "Semester 1 Assignment"
+          },
+          {
+            "Name": "Semester 2 Assignment"
+          }
+        ]
+      },
+      
+      {
+        "Name": "Final Exam",
+        "Type": "Exam",
+        "Weight": 50
+      }
+    ],
     "Description": "Introduction: Discovery of x-rays, processing principles, handling of x-ray equipment. x-ray beam: production of\nx-rays, attenuation. \nProperties of  X Rays: importance and  influence of  Bremsstrahlung and Characteristic radiation on Imaging and\nDose,  Electron Energy, Target Material, Influence of Filtration. X-Ray Projection Imaging Concepts: Geometry,\nRadiographic Contrast, Scatter and Scatter Reduction (Control of scatter radiation: production of scatter, effect\nof scattered radiation on the image, beam restriction devices, grids and grid efficiency), Artefacts and Image\nDegradation.\nRadiographic Detectors: Intensifying Screen and Film (, cassettes, intensifying screens, efficiency of rare earth\nintensifying screens and x-ray film construction), Computed Radiography (CR), Direct Digital Radiography (DDR),\nIndirect Digital Radiography (IDR).\nPrinciples of conventional and digital radiography image optimisation Primary exposure factors: mAs, kVp and\nSID. AEC.(factor which influence the production and recording of images); Principles of technique charts\nConventional Image processing: darkrooms  Image Representations: Contrast, Spatial Resolution, Noise,\nTemporal Resolution, Sampling and Quantization \nIntroduction to quality assurance in radiographic imaging. Introduction to radiation protection for patient,\npersonnel and public- radiation units, detection and measurement, radiation dose equipment and area survey.\nRegulations and operation of radiation equipment. Introduction to digital imaging system.",
     "Institution": "University of Pretoria"
   },
@@ -71939,6 +74712,46 @@
     "Duration": "Semester",
     "Period": [
       2
+    ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 30,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Tutorial Tasks",
+        "Type": "Tutorial",
+        "Weight": 2.5
+      },
+      {
+        "Name": "Portfolio of engagement",
+        "Type": "Portfolio",
+        "Weight": 17.5,
+        "Subitems": [
+          {
+            "Name": "PoE Task 1",
+            "Weight": 8.5
+          },
+          {
+            "Name": "PoE Task 2",
+            "Weight": 9
+          }
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 50
+      }
     ],
     "Description": "*Closed requires departmental selection.\nAllostasis, energy dynamics, fatigue, immune system considerations, muscle hypertrophy, DOMS, NSAIDs,\nenvironmental physiology.",
     "Institution": "University of Pretoria"
@@ -72851,6 +75664,56 @@
     "Period": [
       2
     ],
+    "Assessments": [
+      {
+        "Name": "Class Activities",
+        "Type": "Assessment",
+        "Weight": 3
+      },
+      {
+        "Name": "Assignments",
+        "Type": "Assignment",
+        "Weight": 3
+      },
+      {
+        "Name": "Practical Test",
+        "Type": "Test",
+        "Weight": 9
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 24,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Equipment Assignment",
+        "Type": "Practical",
+        "Weight": 6
+      },
+      {
+        "Name": "Food safety and HACCP Assignment",
+        "Type": "Practical",
+        "Weight": 3
+      },
+      {
+        "Name": "Semester Assignment",
+        "Type": "Assignment",
+        "Weight": 12
+      },
+      {
+        "Name": "Written Theory Exam",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
     "Description": "Planning and layout of food service units for different food service systems. Equipment for food services. Factors\ninfluencing the choice and purchasing of equipment for different food service units. Hygiene and safety in food\nservices. management in food service systems. Financial management in food services.",
     "Institution": "University of Pretoria"
   },
@@ -73121,6 +75984,46 @@
     "Duration": "Semester",
     "Period": [
       2
+    ],
+    "Assessments": [
+      {
+        "Name": "Class Activities/Assignments",
+        "Type": "Assignment",
+        "Weight": 6
+      },
+      {
+        "Name": "Practical Test",
+        "Type": "Test",
+        "Weight": 12
+      },
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 24,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Menu Planning Practical",
+        "Type": "Practical",
+        "Weight": 12
+      },
+      {
+        "Name": "Food-service Visit",
+        "Type": "Practical",
+        "Weight": 6
+      },
+      {
+        "Name": "Written Theory Exam",
+        "Type": "Exam",
+        "Weight": 40
+      }
     ],
     "Description": "Large-scale production.",
     "Institution": "University of Pretoria"
@@ -75397,7 +78300,14 @@
       {
         "Name": "Practical Assignments",
         "Type": "Practical",
-        "Weight": 24
+        "Weight": 24,
+        "Subitems": [
+          {"Name": "Practical 1"},
+          {"Name": "Practical 2"},
+          {"Name": "Practical 3"},
+          {"Name": "Practical 4"},
+          {"Name": "Practical 5"}
+        ]
       },
       {
         "Name": "Examination",
@@ -78222,6 +81132,57 @@
     "Duration": "Semester",
     "Period": [
       1
+    ],
+    "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 30,
+        "Subitems": [
+          {
+            "Name": "Semester Test 1"
+          },
+          {
+            "Name": "Semester Test 2"
+          }
+        ]
+      },
+      {
+        "Name": "Assignment 1",
+        "Type": "Assignment",
+        "Weight": 9
+      },
+      {
+        "Name": "clickUP Tests",
+        "Type": "Quiz",
+        "Weight": 9,
+        "Subitems": [
+          {
+            "Name": "clickUP Test 1"
+          },
+          {
+            "Name": "clickUP Test 2"
+          },
+          {
+            "Name": "clickUP Test 3"
+          }
+        ]
+      },
+      {
+        "Name": "Tutorial Tests",
+        "Type": "Tutorial",
+        "Weight": 12,
+        "Subitems": [
+          {"Name": "Tutorial Test 1"},
+          {"Name": "Tutorial Test 2"},
+          {"Name": "Tutorial Test 3"}
+        ]
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
     ],
     "Description": "Integration: Accumulated change, the definite integral, anti-derivatives, the definite integral as an area,\ninterpretations of the definite integral.\nMatrices and systems of linear equations: Matrix addition and scalar multiplication, matrix multiplication,\nsystems of linear equations. All topics are studied in the context of applications.",
     "Institution": "University of Pretoria"
