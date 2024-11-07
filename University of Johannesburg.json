@@ -3118,21 +3118,46 @@
         {
             "Name": "Assessments",
             "Type": "Assessment",
-            "Weight": 90,
-            "Equal": true,
+            "Weight": 45,
             "Subitems": [
                 {
-                    "Name": "Assessment 1"
+                    "Name": "Assessment Opportunity 1",
+                    "Weight": 20
                 },
                 {
-                    "Name": "Assessment 2"
+                    "Name": "Assessment Opportunity 2",
+                    "Weight": 25
                 }
             ]
         },
         {
-            "Name": "Project/objective Tests(weekly quizzes)",
+            "Name": "Ulink Quizzes",
             "Type": "Quiz",
-            "Weight": 10
+            "Weight": 10,
+            "Subitems": [
+                {"Name": "Unit Quiz 1"},
+                {"Name": "Unit Quiz 2"},
+                {"Name": "Unit Quiz 3"},
+                {"Name": "Unit Quiz 4"},
+                {"Name": "Unit Quiz 5"},
+                {"Name": "Unit Quiz 6"}
+            ]
+        },
+        {
+            "Name": "Homework Quizzes",
+            "Type": "Quiz",
+            "Weight": 5,
+            "Subitems": [
+                {"Name": "Homework Quiz 1"},
+                {"Name": "Homework Quiz 2"},
+                {"Name": "Homework Quiz 3"},
+                {"Name": "Homework Quiz 4"}
+            ]
+        },
+        {
+            "Name": "Final Summative Assessment",
+            "Type": "Exam",
+            "Weight": 40
         }
       ],
       "Description": "The purpose of this module is to provide the student \n with a basic, yet applicable knowledge of fundamental concepts of \n finance as well as where each of these concepts fit \n into the financial management function. OUTCOMES Students should be able \n to: explain the fundamental concept of financial management; explain and \n calculate risk and return by applying a variety of basic \n calculations; differentiate and discuss the characteristics and workings of basic \n financial instruments and financial markets; explain the time value of \n money concept and perform simple calculations on single amounts, annuities, \n perpetuities and mixed streams of cash flows; explain and calculate \n the cost of capital; and define basic principles of foreign trade and calculate basic foreign transactions.",
@@ -3377,11 +3402,11 @@
                 "Equal": true,
                 "Subitems": [
                     {
-                        "Name": "Excel & Theory Test",
+                        "Name": "Combination Test - Excel and Theory",
                         "DueDate": "2024-04-13"
                     },
                     {
-                        "Name": "Word & Powerpoint Test",
+                        "Name": "Combination Test - Word and Powerpoint",
                         "DueDate": "2024-05-11"
                     }
                 ]
@@ -3419,16 +3444,33 @@
       "Credit": 12,
       "DP": 40,
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 50
-          },
-          {
-              "Name": "Examination Mark",
-              "Type": "Exam",
-              "Weight": 50
-          }
+            {
+                "Name": "Semester Tests",
+                "Type": "Test",
+                "Weight": 40,
+                "Equal": true,
+                "Subitems": [
+                    {
+                        "Name": "Semester Test 1",
+                        "DueDate": "2024-08-19"
+                    },
+                    {
+                        "Name": "Semester Test 2",
+                        "DueDate": "2024-09-11"
+                    }
+                ]
+            },
+            {
+                "Name": "Smaller Class/U-Link Assessments",
+                "Type": "Coursework",
+                "Weight": 10
+            },
+            {
+                "Name": "Final Examination",
+                "Type": "Exam",
+                "DueDate": "2024-10-28",
+                "Weight": 50
+            }
       ],
       "Description": "The purpose of this module is to introduce financial services \n operations students to some understanding of the functioning of the \n economy and to appreciate issues 299involved in current controversies over \n economic policy, including economic theory and the concepts of supply \n and demand. OUTCOMES Students should be able to: discuss economic \n theory; explain the basic concepts of price theory, individual competitive \n markets and demand and supply; apply the theory of demand \n including the effects in price changes and household demand; and \n apply the theory of supply, including cost theory, to profit maximisation and monopolies.",
       "Institution": "University of Johannesburg"
@@ -3444,16 +3486,33 @@
       "Credit": 12,
       "DP": 40,
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 50
-          },
-          {
-              "Name": "Examination Mark",
-              "Type": "Exam",
-              "Weight": 50
-          }
+            {
+                "Name": "Semester Tests",
+                "Type": "Test",
+                "Weight": 40,
+                "Equal": true,
+                "Subitems": [
+                    {
+                        "Name": "Semester Test 1",
+                        "DueDate": "2024-08-19"
+                    },
+                    {
+                        "Name": "Semester Test 2",
+                        "DueDate": "2024-09-11"
+                    }
+                ]
+            },
+            {
+                "Name": "Smaller Class/U-Link Assessments",
+                "Type": "Coursework",
+                "Weight": 10
+            },
+            {
+                "Name": "Final Examination",
+                "Type": "Exam",
+                "DueDate": "2024-10-28",
+                "Weight": 50
+            }
       ],
       "Description": "The purpose of this module is to introduce financial services \n operations students to some understanding of the functioning of the \n economy and to appreciate issues involved in current controversies over \n economic policy relating to microeconomic theory and the determination of \n national income. OUTCOMES Students should be able to: discuss microeconomic \n theory, including debating the case for and against the free \n market system; illustrate the determination of national income using simple \n and compound models; and discuss current economic and financial services affairs.",
       "Institution": "University of Johannesburg"
@@ -4469,29 +4528,29 @@
             "Equal": true,
             "Subitems": [
                 {
-                    "Name": "Summative Assessment ONE (In venue assessment)"
+                    "Name": "Summative Assessment 1"
                 },
                 {
-                    "Name": "Summative Assessment TWO (In venue assessment)"
+                    "Name": "Summative Assessment 2"
                 }
             ]
         },
         {
             "Name": "Online Class Assessments",
-            "Type": "Assessment",
+            "Type": "Quiz",
             "Weight": 10,
             "Equal": true,
             "Subitems": [
                 {
-                    "Name": "Online Class Assessment 1 (Class test)"
+                    "Name": "Online Class Assessment 1"
                 },
                 {
-                    "Name": "Online Class Assessment 2 (Class test)"
+                    "Name": "Online Class Assessment 2"
                 }
             ]
         },
         {
-            "Name": "Examination Mark",
+            "Name": "Final Summative Assessment",
             "Type": "Exam",
             "Weight": 50
         }
@@ -8303,7 +8362,6 @@
                 "Type": "Quiz",
                 "Weight": 5,
                 "Best": 2,
-                "Equal": true,
                 "Subitems": [
                     {
                         "Name": "Quiz 1",
@@ -8332,7 +8390,6 @@
                 "Type": "Tutorial",
                 "Weight": 5,
                 "Best": 2,
-                "Equal": true,
                 "Subitems": [
                     {
                         "Name": "Tutorial Test 1",
@@ -8387,9 +8444,6 @@
                     },
                     {
                         "Name": "Khan Academy Assignment 10"
-                    },
-                    {
-                        "Name": "Khan Academy Assignment 11"
                     }
                 ]
             },
@@ -8434,17 +8488,12 @@
                 "Name": "Quizzes",
                 "Type": "Quiz",
                 "Weight": 5,
-                "Equal": true,
-                "Best": 2,
                 "Subitems": [
                     {
                         "Name": "Quiz 1"
                     },
                     {
                         "Name": "Quiz 2"
-                    },
-                    {
-                        "Name": "Quiz 3"
                     }
                 ]
             },
@@ -8452,17 +8501,12 @@
                 "Name": "Tutorial Tests",
                 "Type": "Tutorial",
                 "Weight": 5,
-                "Best": 2,
-                "Equal": true,
                 "Subitems": [
                     {
                         "Name": "Tutorial Test 1"
                     },
                     {
                         "Name": "Tutorial Test 2"
-                    },
-                    {
-                        "Name": "Tutorial Test 3"
                     }
                 ]
             },
@@ -8470,7 +8514,6 @@
                 "Name": "Khan Academy Assignments",
                 "Type": "Coursework",
                 "Weight": 10,
-                "Best": 12,
                 "Subitems": [
                     {
                         "Name": "Khan Academy Assignment 1"
@@ -8507,9 +8550,6 @@
                     },
                     {
                         "Name": "Khan Academy Assignment 12"
-                    },
-                    {
-                        "Name": "Khan Academy Assignment 13"
                     }
                 ]
             },
@@ -8517,7 +8557,6 @@
                 "Name": "Semester Tests",
                 "Type": "Test",
                 "Weight": 30,
-                "Equal": true,
                 "Subitems": [
                     {
                         "Name": "Semester Test 1"
@@ -8865,11 +8904,36 @@
       "NQF": 7,
       "Credit": 15,
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
-          }
+        {
+            "Name": "Weekly Assessments",
+            "Type": "Assignment",
+            "Weight": 10,
+            "Subitems": [
+                {"Name": "Weekly Activity 1"},
+                {"Name": "Weekly Activity 2"},
+                {"Name": "Weekly Activity 3"},
+                {"Name": "Weekly Activity 4"}
+            ]
+        },
+        {
+            "Name": "Tests",
+            "Type": "Test",
+            "Weight": 40,
+            "Subitems": [
+                {"Name": "Assessment 1"},
+                {"Name": "Assessment 2"}
+            ]
+        },
+        {
+            "Name": "Assignment 1",
+            "Type": "Assignment",
+            "Weight": 15
+        },
+        {
+            "Name": "Final Summative Assessment",
+            "Type": "Exam",
+            "Weight": 35
+        }
       ],
       "Description": "The purpose of this module is to develop confident, competent, \n multi-skilled professional Business Analysts, who are capable of reducing organisational \n risk, and increasing organisational value from the deployment of technology-based \n solutions. Modern thinking now splits the analysis function and as \n a result, the traditional role of the Systems Analyst has \n evolved into two distinct new roles: that of the Business \n Analyst who often reports into the business, and the Solution \n or Application Architect, who is an IT specialist. The main \n focus of the BA is to elicit and document requirements \n for new business solutions that usually have a technology base. \n The core body of knowledge is defined in the emerging \n BABOK (Business Analysis Body of Knowledge) which is defined by \n the IIBA (International Institute of Business Analysis). This module does \n not teach a specific dogma and methodology. Its intention is \n to develop thinking, confident Business Analysts with a strong grounding \n in selected, representative tools and techniques and an awareness of \n different project and software lifecycles. OUTCOMES Students who successfully complete \n this module will be able to: understand the multi-skilled role \n and responsibilities of the modern professional Business Analyst; deliver presentations, \n run workshops and JAD sessions, and conduct interviews; have a \n strong problem-solving focus, and be able to think strategically about \n IT solutions; gather and document functional, informational and non-functional requirements; \n understand and be able to produce common BA artefacts, including business cases and functional specifications; and model processes, data, organisation and interfaces using strong modelling skills. 402",
       "Institution": "University of Johannesburg"
@@ -8885,9 +8949,15 @@
       "Credit": 15,
       "Assessments": [
           {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
+              "Name": "Assessments",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Subitems": [
+                {"Name": "Assessment 1"},
+                {"Name": "Assessment 2"},
+                {"Name": "Assessment 3"},
+                {"Name": "Assessment 4"}
+              ]
           }
       ],
       "Description": "The purpose of this module is to cover advanced aspects \n of database management systems including advanced normalization and denormalisation, query \n optimisation, object-oriented and object-relational databases, data warehousing, data mining, distributed \n databases, XML, XSL, and databases for web applications. There is \n extensive coverage of Structured Query Language (SQL) and database instance \n tuning. Students learn about the advanced object-relational features in DBMS \n such as Oracle, including navigational query, BLOBs and abstract data \n types. OUTCOMES Students should be able to: gain good understanding \n of relational data model in terms of data structure, data \n integrity, and data manipulation; create and understand conceptual database models \n utilising entity-relationship modelling; design data structures that will limit redundancy \n and enforce data integrity while conforming to organisational requirements utilising \n normalisation methodology; understand the theory behind the relational data model \n as it applies to interactions with current database management systems; \n read and interpret a given data model to query the \n database and transform the data into information using Structured Query \n Language; implement a data model in a current relational database \n management system; and create reports, based on transactional data, including elements such as data groupings and summary values.",
@@ -8903,11 +8973,20 @@
       "NQF": 7,
       "Credit": 15,
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
-          }
+        {
+            "Name": "Code Challenges",
+            "Type": "Assessment",
+            "Weight": 60,
+            "Subitems": [
+                {"Name": "Code Challenge 1", "Weight": 25},
+                {"Name": "Code Challenge 2", "Weight": 35}
+            ]
+        },
+        {
+            "Name": "Assignment 1",
+            "Type": "Assignment",
+            "Weight": 40
+        }
       ],
       "Description": "The purpose of this module is to present an advanced \n view of computer programming, mainly using C++. The use of \n current operating systems (e.g. Linux and Unix) and compilers (e.g. \n gcc) will also be presented. Object Oriented Programming will also \n be discussed in detail. Object Oriented Programming is quite different \n from functional or procedural programming, and it is difficult to \n learn on your own. The differences and similarities between Java \n and C++ will also be discussed. Hands-on programming will be \n a key part of the module. The goal of this \n module is to introduce and study key concepts related to \n computer programming for scientific and engineering applications. OUTCOMES Students should \n be able to: apply and develop object oriented code; develop \n software for a variety of architectures (e.g. Windows, Unix, and \n Linux); choose an appropriate computer language (e.g. C++, Java, Ada) \n for a given project; demonstrate basic knowledge of parallel programming \n concepts (e.g. MPI, Open MP, threads, etc.); and demonstrate basic \n knowledge of software engineering concepts.",
       "Institution": "University of Johannesburg"
@@ -9864,11 +9943,34 @@
       "NQF": 7,
       "Credit": 15,
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
-          }
+        {
+            "Name": "Assignments",
+            "Type": "Assignment",
+            "Weight": 25,
+            "Subitems": [
+                {"Name": "Assignment 1", "Weight": 10},
+                {"Name": "Assignment 2", "Weight": 15}
+            ]
+        },
+        {
+            "Name": "Class Test 1",
+            "Type": "Test",
+            "Weight": 5
+        },
+        {
+            "Name": "Semester Tests",
+            "Type": "Test",
+            "Weight": 40,
+            "Subitems": [
+                {"Name": "Semester Test 1", "Weight": 15},
+                {"Name": "Semester Test 2", "Weight": 25}
+            ]
+        },
+        {
+            "Name": "Final Assessment (Global Test)",
+            "Type": "Test",
+            "Weight": 30
+        }
       ],
       "Description": "The purpose of this module is to get the students \n grounded in human-computer interaction. It also to introduce students to \n all aspects of social, security and safety of using computers \n as a tool, interfaces. It will also expose students to \n different interaction devices and skills sets for user-centred design and \n evaluation of interactive systems. OUTCOMES Students who successfully complete this \n module would have gained an understanding",
       "Institution": "University of Johannesburg"
@@ -10950,11 +11052,34 @@
       "NQF": 7,
       "Credit": 15,
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
-          }
+        {
+            "Name": "Assignments",
+            "Type": "Assignment",
+            "Weight": 7.5,
+            "Subitems": [
+                {"Name": "Assignment 1"},
+                {"Name": "Assignment 2"}
+            ]
+        },
+        {
+            "Name": "Tests",
+            "Type": "Test",
+            "Weight": 20,
+            "Subitems": [
+                {"Name": "1st Term Test"},
+                {"Name": "2nd Term Test"}
+            ]
+        },
+        {
+            "Name": "Project 1",
+            "Type": "Project",
+            "Weight": 22.5
+        },
+        {
+            "Name": "Examination",
+            "Type": "Exam",
+            "Weight": 50
+        }
       ],
       "Description": "The purpose of this module is to prepare students for \n entry into the software engineering profession. Maths and science courses \n give students the background they need to understand computing fundamentals \n and model and reason about software behaviour. Computer science and \n computer engineering courses show students how to design and how \n to solve problems in digital hardware and software. Core software \n engineering courses cover best software-development practices, including development processes, design \n criteria and analysis, technical documentation, testing and verification, and project \n management. Technical electives cover advanced and specialised design techniques, and \n they give students the opportunity to apply their knowledge in \n developing large complex software systems. OUTCOMES Students should be able \n to: negotiate the requirements for a new feature or product \n 463 specify and implement a software solution to meet those \n requirements analyse alternative software architectures and design trade-offs identify and \n adapt design patterns evaluate whether the final software product meets its requirements; and understand and extend existing software systems.",
       "Institution": "University of Johannesburg"
@@ -10969,11 +11094,30 @@
       "NQF": 7,
       "Credit": 15,
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
-          }
+        {
+            "Name": "Assessment Tests",
+            "Type": "Test",
+            "Weight": 25,
+            "Subitems": [
+                {"Name": "Assessment 1", "Weight": 10},
+                {"Name": "Assessment 2", "Weight": 15}
+            ]
+        },
+        {
+            "Name": "Group Project",
+            "Type": "Project",
+            "Weight": 20
+        },
+        {
+            "Name": "Attendance",
+            "Type": "Attendance",
+            "Weight": 5
+        },
+        {
+            "Name": "Final Assessment 3",
+            "Type": "Test",
+            "Weight": 50
+        }
       ],
       "Description": "The purpose of this module is to focus on testing \n at all stages of the software development life cycle and \n ensures that students appreciate the importance of this and what \n it involves. Practical exercises and case studies are used to \n ensure that skills (testing methods, types and techniques) can be \n easily transferred to projects in the workplace. OUTCOMES Students who \n successfully complete this course will be able to: understand why \n quality is key in all of the testing stages in \n the software development lifecycle; learn how to extract requirements and \n other relevant information from system stakeholders, project documentation and other \n sources; be able to select suitable testing types and techniques \n based on the project's focus and the desired outcome; identify, \n prioritise, plan, create and execute test cases in test management; \n effectively log and manage identified defects; accurately measure and report \n the progress of testing; and understand the importance of automation in testing. 464",
       "Institution": "University of Johannesburg"
@@ -11466,50 +11610,6 @@
       "NQF": 6,
       "Credit": 16,
       "DP": 40,
-      "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 50,
-              "Subitems": [
-                {
-                    "Name": "Homework Assignment"
-                },
-                {
-                    "Name": "Class Test 1"
-                },
-                {
-                    "Name": "Class Test 2"
-                },
-                {
-                    "Name": "Class Test 3"
-                },
-                {
-                    "Name": "Class Test 4"
-                },
-                {
-                    "Name": "Class Test 5"
-                },
-                {
-                    "Name": "Class Test 6"
-                },
-                {
-                    "Name": "Class Test 7"
-                },
-                {
-                    "Name": "Semester Test 1"
-                },
-                {
-                    "Name": "Semester Test 2"
-                }
-              ]
-          },
-          {
-              "Name": "Examination",
-              "Type": "Exam",
-              "Weight": 50
-          }
-      ],
       "Prerequisite": {
         "$or": [
           {
@@ -11536,10 +11636,24 @@
       "DP": 40,
       "Assessments": [
           {
-              "Name": "Tests",
+              "Name": "Semester Tests",
               "Type": "Test",
-              "Weight": 50,
+              "Weight": 25,
               "Subitems": [
+                {
+                    "Name": "Semester Test 1"
+                },
+                {
+                    "Name": "Semester Test 2"
+                }
+              ]
+          },
+          {
+            "Name": "Class Tests",
+            "Type": "Test",
+            "Weight": 25,
+            "Best": 8,
+            "Subitems": [
                 {
                     "Name": "Class Test 1"
                 },
@@ -11569,14 +11683,8 @@
                 },
                 {
                     "Name": "Class Test 10"
-                },
-                {
-                    "Name": "Semester Test 1"
-                },
-                {
-                    "Name": "Semester Test 2"
                 }
-              ]
+            ]
           },
           {
               "Name": "Examination",
@@ -11675,8 +11783,7 @@
       "Assessments":[
                       {
                       "Name": "Assessments",
-                      "Type": "Assessment",
-                      "Equal": false,
+                      "Type": "Test",
                       "Weight": 54,
                       "Subitems": [
                           {
@@ -11703,7 +11810,7 @@
                   },
                   {
                       "Name": "Moodle MCQ",
-                      "Type": "Moodle",
+                      "Type": "Quiz",
                       "Weight": 6
                   },
                   {
@@ -11734,33 +11841,32 @@
       "Assessments":[
                   {
                       "Name": "Assessment Opportunity",
-                      "Type": "Assessment",
-                      "Equal": true,
+                      "Type": "Test",
                       "Weight": 45,
                       "Subitems": [
                           {
-                            "Name": "Assessment Opportunity 1",
-                            "Weight": 22.5,
-                            "DueDate": "2024-08-19"
+                            "Name": "Test 1",
+                            "DueDate": "2024-08-19",
+                            "Weight": 22.5
                           },
                           {
-                            "Name": "Assessment Opportunity 2",
-                            "Weight": 22.5,
-                            "DueDate": "2024-10-03"
+                            "Name": "Test 2",
+                            "DueDate": "2024-10-03",
+                            "Weight": 22.5
                           }
                       ]
                   },
                   {
-                      "Name": "Continuous Assessment",
-                      "Type": "Assessment(CA)",
-                      "Weight": 5,
-                      "DueDate": "2024-10-10"
+                      "Name": "Moodle Quizzes",
+                      "Type": "Quiz",
+                      "DueDate": "2024-10-10",
+                      "Weight": 5
                   },
                   {
-                      "Name": "Last assessment opportunity",
+                      "Name": "Final Assessment",
                       "Type": "Exam",
-                      "Weight": 50,
-                      "DueDate": "2024-11-04"
+                      "DueDate": "2024-11-04",
+                      "Weight": 50
                   }
               ],
       "Description": "This module is foundational in nature and has as its \n primary purpose, the preparation of students for regular undergraduate first \n year and subsequent modules in financial management, by covering core \n themes in respect of the tools of measurement, analysis and \n evaluation; and other relevant issues concerning the acquisition, investment, and \n administration of finances, in combination with academic development elements and \n skills. OUTCOMES Students should be able to: place the study \n of financial management, as a discipline, clearly in context in \n respect of BCom degree studies and careers in the financial \n sciences; examine objectively the nature of logic and reasoning applied \n in financial management; illustrate, interpret and apply the various analytical \n and other tools used in financial management clearly; explain and \n apply the core concepts and tools in financial analysis and \n evaluation fully; process relevant financial information using basic instruments, measures/indicators \n and calculations in financial management logically; and debate broadly, selected \n real-world situations, relating to the practice and development of financial management.",
@@ -11772,13 +11878,6 @@
       "Duration": "Year",
       "NQF": 5,
       "Credit": 16,
-      "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
-          }
-      ],
       "Description": "This module is foundational in nature and has as its \n primary purpose, the development of the academic literacies that students \n need, thereby facilitating learning and enabling them to succeed in \n their chosen field of study in the economic sciences. OUTCOMES \n Students should be able to: access, process, evaluate and use \n information effectively and responsibly, from a variety of sources and \n situations; apply, effectively and responsibly, language and literacy practices and \n conventions in academic contexts; produce coherent and cohesive academic texts \n in a style appropriate to his/her field of study in \n the economic sciences; use appropriate communication strategies for specific purposes \n and situations; and develop and apply effectively, a variety of \n personal management and self-reliance skills.",
       "Institution": "University of Johannesburg"
   },
@@ -11788,123 +11887,75 @@
       "Duration": "Year",
       "NQF": 5,
       "Credit": 16,
-      "Assessments":[
-                      {
-                      "Name": "Portfolio Tasks 1",
-                      "Type": "Quiz",
-                      "Equal": true,
-                      "Weight": 12.5,
-                      "Subitems": [
-                          {
-                            "Name": "Test 1"
-                          },
-                          {
-                            "Name": "Test 2"
-                          },
-                          {
-                            "Name": "Test 3"
-                          },
-                          {
-                            "Name": "Test 4"
-                          },
-                          {
-                            "Name": "Test 5"
-                          },
-                          {
-                            "Name": "Test 6"
-                          },
-                          {
-                            "Name": "Test 7"
-                          },
-                          {
-                            "Name": "Test 8"
-                          },
-                          {
-                            "Name": "Test 9"
-                          },
-                          {
-                            "Name": "Test 10"
-                          }
-                      ]
-                  },
-                  {
-                    "Name": "Assignments",
-                    "Type": "Assignment",
-                    "Equal": true,
-                    "Weight": 6.25,
-                    "Subitems": [
-                        {
-                          "Name": "Assignment 1",
-                          "DueDate": "2024-03-20"
-                        },
-                        {
-                          "Name": "Assignment 2",
-                          "DueDate": "2024-04-17"
-                        }
-                    ]
-                },
-                {
-                    "Name": "Semester test 1",
-                    "Type": "Test",
-                    "Weight": 6.25,
-                    "DueDate": "2024-05-23"
-                },
-                {
-                    "Name": "Portfolio Tasks 2",
-                    "Type": "Quiz",
-                    "Equal": true,
-                    "Weight": 12.5,
-                    "Subitems": [
-                        {
-                          "Name": "Test 1"
-                        },
-                        {
-                          "Name": "Test 2"
-                        },
-                        {
-                          "Name": "Test 3"
-                        },
-                        {
-                          "Name": "Test 4"
-                        },
-                        {
-                          "Name": "Test 5"
-                        },
-                        {
-                          "Name": "Test 6"
-                        },
-                        {
-                          "Name": "Test 7"
-                        },
-                        {
-                          "Name": "Test 8"
-                        },
-                        {
-                          "Name": "Test 9"
-                        },
-                        {
-                          "Name": "Test 10"
-                        }
-                    ]
-                },
-                {
-                    "Name": "Research Project",
-                    "Type": "Project",
-                    "Weight": 6.25
-                },
-                {
-                    "Name": "Semester test 2",
-                    "Type": "Test",
-                    "Weight": 6.25,
-                    "DueDate": "2024-10-18"
-                },
-                {
-                    "Name": "Examination",
-                    "Type": "Exam",
-                    "Weight": 50,
-                    "DueDateComment": "24 October 2024 - 15 November"
-                }
-              ],
+      "Assessments": [
+        {
+            "Name": "Portfolio Tasks",
+            "Type": "Quiz",
+            "Weight": 20,
+            "Subitems": [
+                {"Name": "Portfolio Task 1"},
+                {"Name": "Portfolio Task 2"},
+                {"Name": "Portfolio Task 3"},
+                {"Name": "Portfolio Task 4"},
+                {"Name": "Portfolio Task 5"},
+                {"Name": "Portfolio Task 6"},
+                {"Name": "Portfolio Task 7"},
+                {"Name": "Portfolio Task 8"},
+                {"Name": "Portfolio Task 9"},
+                {"Name": "Portfolio Task 10"}
+            ]
+        },
+        {
+            "Name": "Assignments",
+            "Type": "Assignment",
+            "Weight": 10,
+            "Subitems": [
+                {"Name": "Assignment 1"},
+                {"Name": "Assignment 2"}
+            ]
+        },
+        {
+            "Name": "Semester Test 1",
+            "Type": "Test",
+            "Weight": 10
+        },
+        {
+            "Name": "Portfolio Tasks",
+            "Type": "Quiz",
+            "Weight": 20,
+            "Subitems": [
+                {"Name": "Portfolio Task 11"},
+                {"Name": "Portfolio Task 12"},
+                {"Name": "Portfolio Task 13"},
+                {"Name": "Portfolio Task 14"},
+                {"Name": "Portfolio Task 15"},
+                {"Name": "Portfolio Task 16"},
+                {"Name": "Portfolio Task 17"},
+                {"Name": "Portfolio Task 18"},
+                {"Name": "Portfolio Task 19"},
+                {"Name": "Portfolio Task 20"}
+            ]
+        },
+        {
+            "Name": "Semester Test 2",
+            "Type": "Test",
+            "Weight": 10
+        },
+        {
+            "Name": "Research Project",
+            "Type": "Project",
+            "Weight": 10
+        },
+        {
+            "Name": "Assignments",
+            "Type": "Assignment",
+            "Weight": 20,
+            "Subitems": [
+                {"Name": "Computer Assessment"},
+                {"Name": "Information Management Assessment"}
+            ]
+        }
+      ],
       "Description": "This module is foundational in nature and has as its \n primary purpose, the development and mastering of academic and professional \n skills required to facilitate learning for students in the regular \n courses of their BCom degree studies. The module enables a \n student to develop a comprehensive perspective and effective strategies for \n successful adaptation to the higher education environment, with the aim \n of being successful in a chosen BCom programme. OUTCOMES Students \n should be able to: demonstrate effectively, the use of individualised \n study methods, involving summarisation and memorisation techniques, in their chosen \n field of study in the economic sciences; read on a \n first year Higher Education (HE) level, at a minimum required \n level; apply selected approaches towards the career development process effectively; \n demonstrate computer competence in Microsoft Office (Word, Excel, and PowerPoint), \n internet research and the use of email; apply professional and \n personal strategies for success in the chosen field of study \n in the economic sciences; and communicate and present written and oral information professionally, accurately and skilfully.",
       "Institution": "University of Johannesburg"
   },
@@ -11922,21 +11973,31 @@
         {
             "Name": "Semester Tests",
             "Type": "Test",
-            "Weight": 80,
-            "Equal": true,
+            "Weight": 40,
             "Subitems": [
                 {
-                    "Name": "Semester test 1"
+                    "Name": "Semester Test 1"
                 },
                 {
-                    "Name": "Semester test 2"
+                    "Name": "Semester Test 2"
                 }
             ]
         },
         {
-            "Name": "Other small online Assessments",
-            "Type": "Assessment",
-            "Weight": 20
+            "Name": "Small Online Assessments",
+            "Type": "Quiz",
+            "Weight": 10,
+            "Subitems": [
+                {"Name": "Online Test 1"},
+                {"Name": "Online Test 2"},
+                {"Name": "Online Test 3"},
+                {"Name": "Online Test 4"}
+            ]
+        },
+        {
+            "Name": "June Examinatino",
+            "Type": "Exam",
+            "Weight": 50
         }
       ],
       "Description": "This module is foundational in nature and has as its \n primary purpose, the development and preparation of students for regular \n undergraduate first year modules in economics, by covering core themes \n in combination with academic development elements and skills. OUTCOMES Students \n should be able to: place the study of economics, as \n a discipline, clearly in context in respect of BCom degree \n studies and careers in the economic sciences; examine objectively the \n nature of logic and reasoning in economic theory; 484 illustrate \n and interpret clearly the various analytical and graphical tools used \n in economics; explain fully, the different economic problems relating to \n scarcity and choice and discuss how they may be addressed, \n with specific attention to a market-oriented economy; provide a comparative \n analysis of the behaviour of consumers and producers under different \n market structures, with the use of selected microeconomic models and \n tools of analysis, giving particular attention to perfect competition; discuss \n in detail, macroeconomic goals and policy, with the use of \n selected macroeconomic models and tools of analysis; and debate broadly, selected real-world situations based on themes covered in this module.",
@@ -11955,10 +12016,8 @@
       "Assessments":[
                       {
                       "Name": "Summative assessments",
-                      "Type": "Assessments",
-                      "Equal": true,
+                      "Type": "Test",
                       "Weight": 36,
-                      "Best": 2,
                       "Subitems": [
                           {
                             "Name": "Assessments 1",
@@ -11967,20 +12026,35 @@
                           {
                             "Name": "Assessments 2",
                             "DueDate": "2024-10-02"
-                          },
-                          {
-                            "Name": "Assessments 3",
-                            "DueDate": "2024-10-10"
                           }
                       ]
                   },
                   {
-                      "Name": "Tutorial assessments",
-                      "Type": "Assessment",
-                      "Weight": 14
+                      "Name": "Tutorial Assessments",
+                      "Type": "Quiz",
+                      "Weight": 12,
+                      "Subitems": [
+                        {"Name": "MCQ Assessment 1"},
+                        {"Name": "MCQ Assessment 2"},
+                        {"Name": "MCQ Assessment 3"},
+                        {"Name": "MCQ Assessment 4"},
+                        {"Name": "MCQ Assessment 5"},
+                        {"Name": "MCQ Assessment 6"},
+                        {"Name": "MCQ Assessment 7"},
+                        {"Name": "MCQ Assessment 8"},
+                        {"Name": "MCQ Assessment 9"},
+                        {"Name": "MCQ Assessment 10"},
+                        {"Name": "MCQ Assessment 12"},
+                        {"Name": "MCQ Assessment 12"}
+                      ]
                   },
                   {
-                      "Name": "Final summative assessment",
+                    "Name": "Bonus Mark",
+                    "Type": "Participation",
+                    "Weight": 2
+                  },
+                  {
+                      "Name": "Final Summative Assessment",
                       "Type": "Exam",
                       "Weight": 50,
                       "DueDate": "2024-10-30"
@@ -12140,7 +12214,7 @@
                 ]
             },
             {
-                "Name": "Moodle MCQ",
+                "Name": "Moodle Quiz",
                 "Type": "Quiz",
                 "Weight": 6
             },
@@ -12578,61 +12652,6 @@
       "Credit": 12,
       "Year": 2,
       "DP": 40,
-      "Assessment1": [
-            {
-                "Name": "Semester Tests",
-                "Type": "Test",
-                "Weight": 36.8,
-                "Equal": false,
-                "Subitems": [
-                    {
-                        "Name": "Test 1",
-                        "DueDate": "2024-03-11",
-                        "Weight": 16
-                    },
-                    {
-                        "Name": "Test 2",
-                        "DueDate": "2024-05-10",
-                        "Weight": 20.8
-                    }
-                ]
-            },
-            {
-                "Name": "Class Attendance",
-                "Type": "Coursework",
-                "Weight": 1.2
-            },
-            {
-                "Name": "uLink Assignments",
-                "Type": "Quiz",
-                "Weight": 2,
-                "Equal": true,
-                "Subitems": [
-                    {
-                        "Name": "Assignment 1",
-                        "DueDate": "2024-03-08"
-                    },
-                    {
-                        "Name": "Assignment 2",
-                        "DueDate": "2024-04-15"
-                    },
-                    {
-                        "Name": "Assignment 3",
-                        "DueDate": "2024-04-29"
-                    },
-                    {
-                        "Name": "Assignment 4",
-                        "DueDate": "2024-05-20"
-                    }
-                ]
-            },
-            {
-                "Name": "Examination",
-                "Type": "Exam",
-                "DueDate": "2024-06-03",
-                "Weight": 60
-            }
-      ],
       "Assessments": [
         {
             "Name": "Semester Tests",
@@ -12996,51 +13015,56 @@
           {
               "Name": "Assessment opportunity",
               "Type": "Test",
-              "Weight": 80,
+              "Weight": 48,
               "Equal": false,
               "Subitems": [
                   {
                       "Name": "Test 1",
                       "DueDate": "2024-03-06",
-                      "Weight": 5
+                      "Weight": 3
                   },
                   {
                       "Name": "Test 2",
                       "DueDate": "2024-05-10",
-                      "Weight": 10
+                      "Weight": 6
                   },
                   {
                       "Name": "Test 3",
                       "DueDate": "2024-06-03",
-                      "Weight": 20
+                      "Weight": 12
                   },
                   {
                       "Name": "Test 4",
                       "DueDate": "2024-08-14",
-                      "Weight": 20
+                      "Weight": 12
                   },
                   {
                       "Name": "Test 5",
                       "DueDate": "2024-10-02",
-                      "Weight": 25
+                      "Weight": 15
                   }
               ]
           },
           {
               "Name": "Project Endurance SEM",
               "Type": "Project",
-              "Weight": 20,
+              "Weight": 12,
               "Equal": false,
               "Subitems": [
                   {
                       "Name": "Project Endurance SEM 1",
-                      "Weight": 12
+                      "Weight": 7.2
                   },
                   {
                       "Name": "Project Endurance SEM 2",
-                      "Weight": 8
+                      "Weight": 4.8
                   }
               ]
+          },
+          {
+            "Name": "November Examination",
+            "Type": "Exam",
+            "Weight": 40
           }
       ],
       "Description": "The purpose of this module is for students to develop \n intellectual skills to be able to account for practical and \n integrated case studies, as well as prepare and present comprehensive \n financial statements to fully comply with the requirements of the \n International Financial Reporting Standards (IFRS) with regards to intermediate to \n advanced routine transactions and intermediate non-routine transactions. Students should also \n develop a basic awareness of the accounting issues relating to \n specialised reporting. OUTCOMES Students should be able to: account for \n integrated practical case studies on an intermediate to advanced level, \n as well as present and disclose integrated accounting transactions on \n an intermediate to advanced level in the statement of comprehensive \n income, statement of changes in equity and statement of financial \n position in accordance with the following International Financial Reporting Standards \n and/or interpretations dealing with routine transactions: - The Conceptual Framework \n for Financial Reporting; - IAS 1 Presentation of Financial Statements; \n - IAS 2 Inventories; - IAS 7 Statements of Cash \n Flows; - IAS 10 Events after the Reporting Period; - \n IAS 12 Income Taxes; - IAS 16 Property, Plant and \n Equipment; - IAS 19 Employee Benefits; - IAS 27 Separate \n Financial Statements; - IAS 28 Investments in Associates and Joint \n Ventures; - IAS 32 Financial Instruments: Presentation; - IAS 36 \n Impairment of Assets; - IAS 37 Provisions, Contingent Liabilities and \n Contingent Assets; - IAS 38 Intangible Assets; - IAS 40 \n Investment Properties; - IFRS 7 Financial Instruments: Disclosure; - IFRS \n 9 Financial Instruments; - IFRS 10 Consolidated Financial Statements; 500- \n IFRS 11 Joint Arrangements; - IFRS 13 Fair Value; - \n IFRS 15 Revenue from Contracts with Customers; and - IFRS \n 16 Leases. account for integrated practical case studies on an \n intermediate level, as well as present and disclose integrated accounting \n transactions on an intermediate level in the statement of comprehensive \n income, statement of changes in equity and statement of financial \n position in accordance with the following International Financial Reporting Standards \n and/or interpretations dealing with non-routine transactions; - IAS 8 Accounting \n Policies, Changes in Accounting Estimates and Errors; - IAS 20 \n Accounting for Government Grants and Disclosure of Government Assistance; - \n IAS 21 The Effects of Changes in Foreign Exchange Rates; \n - IAS 23 Borrowing Cost; - IAS 24 Related Party \n Disclosures; - IAS 33 Earnings per Share; - IFRS 3 \n Business Combinations; - IFRS 5 Non-current Assets Held for Sale and Discontinued Operations; - SIC 32 Intangible assets Web Site Costs; - IFRIC 1 Changes in Existing Decommissioning, Restoration and similar Liabilities; and have a basic awareness of accounting issues relating to specialised reporting such",
@@ -13310,6 +13334,36 @@
               }
           ]
       },
+      "Assessments": [
+        {
+            "Name": "Tests",
+            "Type": "Test",
+            "Weight": 48,
+            "Subitems": [
+                {"Name": "Test 1", "Weight": 3},
+                {"Name": "Test 2", "Weight": 6},
+                {"Name": "Test 3", "Weight": 12},
+                {"Name": "Test 4", "Weight": 12},
+                {"Name": "Test 5", "Weight": 15}
+            ]
+        },
+        {
+            "Name": "Project Endurance SEM 1",
+            "Type": "Project",
+            "Weight": 7.2
+        },
+        {
+            "Name": "Project Endurance SEM 2",
+            "Type": "Project",
+            "Weight": 4.8
+        },
+        {
+            "Name": "November Examination",
+            "Type": "Exam",
+            "DueDate": "2024-11-01",
+            "Weight": 40
+        }
+      ],
       "Institution": "University of Johannesburg"
   },
   {
@@ -13360,42 +13414,6 @@
       "NQF": 5,
       "Credit": 8,
       "DP": 40,
-      "Assessment1": [
-          {
-              "Name": "Assignments",
-              "Type": "Assignment",
-              "Weight": 16,
-              "Equal": false,
-              "Subitems": [
-                {
-                    "Name": "Microsoft Office PowerPoint",
-                    "DueDate": "2024-03-03",
-                    "Weight": 4
-                },
-                {
-                    "Name": "Microsoft Office Excel",
-                    "DueDate": "2024-04-15",
-                    "Weight": 8
-                },
-                {
-                    "Name": "Microsoft Office Word",
-                    "DueDate": "2024-04-29",
-                    "Weight": 4
-                }
-              ]
-          },
-          {
-              "Name": "Semester Test",
-              "Type": "Test",
-              "DueDate": "2024-05-11",
-              "Weight": 24
-          },
-          {
-              "Name": "Examination",
-              "Type": "Exam",
-              "Weight": 60
-          }
-      ],
       "Assessments": [
         {
             "Name": "Assignments",
@@ -13404,17 +13422,17 @@
             "Equal": false,
             "Subitems": [
               {
-                  "Name": "Microsoft Office PowerPoint",
+                  "Name": "Microsoft Office PowerPoint Assignment",
                   "DueDate": "2024-03-03",
                   "Weight": 6
               },
               {
-                  "Name": "Microsoft Office Excel",
+                  "Name": "Microsoft Office Excel Assignment",
                   "DueDate": "2024-04-15",
                   "Weight": 12
               },
               {
-                  "Name": "Microsoft Office Word",
+                  "Name": "Microsoft Office Word Assignment",
                   "DueDate": "2024-04-29",
                   "Weight": 6
               }
@@ -13429,6 +13447,7 @@
         {
             "Name": "Examination",
             "Type": "Exam",
+            "DueDate": "2024-06-14",
             "Weight": 40
         }
       ],
@@ -14673,7 +14692,6 @@
             "Name": "Online Tests",
             "Type": "Quiz",
             "Weight": 7.5,
-            "Best": 7,
             "Subitems": [
                 {
                     "Name": "Online Test 1"
@@ -14695,9 +14713,6 @@
                 },
                 {
                     "Name": "Online Test 7"
-                },
-                {
-                    "Name": "Online Test 8"
                 }
             ]
         },
@@ -14832,8 +14847,13 @@
         },
         {
             "Name": "Smaller Class/U-Link Assessments",
-            "Type": "Coursework",
-            "Weight": 10
+            "Type": "Assessment",
+            "Weight": 10,
+            "Subitems": [
+                {"Name": "Online Test 1"},
+                {"Name": "Online Test 2"},
+                {"Name": "Online Test 3"}
+            ]
         },
         {
             "Name": "Examination",
@@ -14905,21 +14925,21 @@
             "Equal": false,
             "Subitems": [
                 {
-                    "Name": "Test 1",
+                    "Name": "Written Test 1",
                     "Weight": 22.5,
                     "DueDate": "2024-03-19"
                 },
                 {
-                    "Name": "Test 2",
+                    "Name": "Written Test 2",
                     "Weight": 25,
                     "DueDate": "2024-05-13"
                 }
             ]
         },
         {
-            "Name": "Online test 3",
+            "Name": "Online Test",
             "Type": "Test",
-            "DueDateComment": "2024/04/16 - 2024/04/19",
+            "DueDate": "2024-04-19",
             "Weight": 2.5
         },
         {
@@ -15013,8 +15033,8 @@
               ]
           },
           {
-              "Name": "Tutor / Class Tests / Assignment",
-              "Type": "Coursework",
+              "Name": "Continuous Assessments",
+              "Type": "Assessment",
               "Weight": 10
           },
           {
@@ -15036,13 +15056,6 @@
       ],
       "NQF": 6,
       "Credit": 16,
-      "Assessments": [
-        {
-            "Name": "Semester Mark",
-            "Type": "Coursework",
-            "Weight": 100
-        }
-      ],
       "Description": "The purpose of this module is to introduce students to \n the aspects of economic indicators and the analyses of economic \n data. 541OUTCOMES Students should be able to: analyse critically the \n performance of the South African economy theoretically and in terms \n of the different components of various economic indicators; evaluate the \n performance of the South African economy coherently in terms of \n various economic indicators; define and discuss the analyses of economic \n data by using basic econometric techniques; and interpret economic regression models with the use of econometric techniques.",
       "Institution": "University of Johannesburg"
   },
@@ -15058,8 +15071,8 @@
       "DP": 40,
       "Assessments": [
           {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
+              "Name": "Continuous Assessments",
+              "Type": "Assessment",
               "Weight": 50,
               "Subitems": [
                 {
@@ -15119,27 +15132,26 @@
                 "Weight": 7.5
             },
             {
-                "Name": "Lecture and Tutor Class Activities",
-                "Type": "Coursework",
+                "Name": "Class Activities",
+                "Type": "Assessment",
                 "Weight": 5
             },
             {
                 "Name": "Online Multiple-Choice Tests",
                 "Type": "Quiz",
                 "Weight": 7.5,
-                "Equal": true,
                 "Subitems": [
                     {
-                        "Name": "Quiz 1"
+                        "Name": "Online Multiple-Choice Test 1"
                     },
                     {
-                        "Name": "Quiz 2"
+                        "Name": "Online Multiple-Choice Test 2"
                     },
                     {
-                        "Name": "Quiz 3"
+                        "Name": "Online Multiple-Choice Test 3"
                     },
                     {
-                        "Name": "Quiz 4"
+                        "Name": "Online Multiple-Choice Test 4"
                     }
                 ]
             },
@@ -15570,8 +15582,7 @@
             {
                 "Name": "Assessment Opportunity",
                 "Type": "Test",
-                "Weight": 40,
-                "Equal": true,
+                "Weight": 54,
                 "Subitems": [
                     {
                         "Name": "Test 1",
@@ -15584,9 +15595,9 @@
                 ]
             },
             {
-                "Name": "Continuous Assessments",
+                "Name": "Weekly Quizzes",
                 "Type": "Quiz",
-                "Weight": 10,
+                "Weight": 6,
                 "Subitems": [
                     {
                         "Name": "Online Quiz 1"
@@ -15620,7 +15631,7 @@
             {
                 "Name": "Examination",
                 "Type": "Exam",
-                "Weight": 50
+                "Weight": 40
             }
       ],
       "Description": "The purpose of this module is to provide the student \n with a basic, yet applicable knowledge of fundamental concepts of \n finance, and equip the student to realise where each of \n these concepts fits into the financial management function. OUTCOMES Students \n should be able to: explain the context within which the \n finance function operates within organisations; explain the roles of the \n finance function in organisations; explain the concepts of risk and \n uncertainty as well as calculate basic probabilities; explain the time \n value of money concept and perform calculations on single amounts, \n annuities, perpetuities and mixed streams of cash flows; calculate the \n value of selected financial instruments; explain and calculate the cost \n of capital of an organisation; explain and calculate basic capital \n budgeting techniques to assist in investment decisions; explain and calculate \n the working capital requirements of an organisation; and explain cost terminology, classify costs and calculate manufacturing cost.",
@@ -15750,24 +15761,39 @@
       "DP": 40,
       "Assessments": [
           {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 40
+              "Name": "Semester Tests",
+              "Type": "Test",
+              "Weight": 54,
+              "Subitems": [
+                {"Name": "Semester Test 1", "Weight": 24},
+                {"Name": "Semester Test 2", "Weight": 30}
+              ]
           },
           {
-              "Name": "Examination Mark",
-              "Type": "Exam",
-              "Weight": 60
-          }
-      ],
-      "Assessment1": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 60
+              "Name": "Worksmart Activities",
+              "Type": "Quiz",
+              "Weight": 6,
+              "Subitems": [
+                {"Name": "Unit 1 Quiz"},
+                {"Name": "Unit 2 Quiz"},
+                {"Name": "Unit 3 Quiz"},
+                {"Name": "Unit 4 Quiz"},
+                {"Name": "Unit 5 Quiz"},
+                {"Name": "Unit 6 Quiz"},
+                {"Name": "Unit 7 Quiz"},
+                {"Name": "Unit 8 Quiz"},
+                {"Name": "Unit 1 Excel Exercise"},
+                {"Name": "Unit 2 Excel Exercise"},
+                {"Name": "Unit 3 Excel Exercise"},
+                {"Name": "Unit 4 Excel Exercise"},
+                {"Name": "Unit 5 Excel Exercise"},
+                {"Name": "Unit 6 Excel Exercise"},
+                {"Name": "Unit 7 Excel Exercise"},
+                {"Name": "Unit 8 Excel Exercise"}
+              ]
           },
           {
-              "Name": "Examination Mark",
+              "Name": "Examination",
               "Type": "Exam",
               "Weight": 40
           }
@@ -16119,6 +16145,57 @@
       "Prerequisite": {
           "Code": "FMA200"
       },
+      "Assessments":[
+                      {
+                      "Name": "Tests",
+                      "Type": "Test",
+                      "Equal": true,
+                      "Weight": 48,
+                      "Subitems": [
+                          {
+                            "Name": "Assessment 1",
+                            "Weight": 3
+                          },
+                          {
+                            "Name": "Assessment 2",
+                            "Weight": 6
+                          },
+                          {
+                            "Name": "Assessment 3",
+                            "Weight": 12
+                          },
+                          {
+                            "Name": "AssessmentAssessment 4",
+                            "Weight": 12
+                          },
+                          {
+                            "Name": "Test 5",
+                            "Weight": 15
+                          }
+                      ]
+                  },
+                  {
+                      "Name": "Lab Reports",
+                      "Type": "Project",
+                      "Equal": false,
+                      "Weight": 12,
+                      "Subitems": [
+                          {
+                            "Name": "Project Endurance 1",
+                            "Weight": 7.2
+                          },
+                          {
+                            "Name": "Project Endurance 2",
+                            "Weight": 4.8
+                          }
+                      ]
+                  },
+                  {
+                    "Name": "November Examination",
+                    "Type": "Exam",
+                    "Weight": 40
+                  }
+              ],
       "Institution": "University of Johannesburg"
   },
   {
@@ -17394,7 +17471,7 @@
       "Assessments": [
         {
             "Name": "Assessments",
-            "Type": "Assessment",
+            "Type": "Test",
             "Weight": 40,
             "Equal": true,
             "Subitems": [
@@ -17411,15 +17488,22 @@
         {
             "Name": "Quizzes",
             "Type": "Quiz",
-            "Weight": 7.5
+            "Weight": 7.5,
+            "Subitems": [
+                {"Name": "Quiz 1"},
+                {"Name": "Quiz 2"},
+                {"Name": "Quiz 3"},
+                {"Name": "Quiz 4"},
+                {"Name": "Quiz 5"}
+            ]
         },
         {
             "Name": "Tutorials",
-            "Type": "Tutorial",
+            "Type": "Attendance",
             "Weight": 2.5
         },
         {
-            "Name": "Exam Mark",
+            "Name": "Examination",
             "Type": "Exam",
             "Weight": 50
         }
@@ -17471,12 +17555,12 @@
             ]
         },
         {
-            "Name": "Tutorial Activities and Attendance",
-            "Type": "Assessment",
+            "Name": "Tutorial Activities",
+            "Type": "Tutorial",
             "Weight": 5
         },
         {
-            "Name": "Examination Mark",
+            "Name": "Examination",
             "Type": "Exam",
             "Weight": 50
         }
@@ -17974,33 +18058,31 @@
       "DP": 40,
       "Assessments": [
           {
-              "Name": "Assessments",
-              "Type": "Assessment",
+              "Name": "Assessment Tests",
+              "Type": "Test",
               "Weight": 40,
-              "Equal": true,
               "Subitems": [
                   {
                       "Name": "Assessment 1",
-                      "Weight": 20,
                       "DueDate": "2024-03-18" 
                   },
                   {
                       "Name": "Assessment 2",
-                      "Weight": 20,
                       "DueDate": "2024-05-08" 
                   }
               ]
           },
           {
-              "Name": "Assignment",
-              "Weight": 10,
-              "DueDate": "2024-05-10" 
+              "Name": "Group Assignment",
+              "Type": "Assignment",
+              "DueDate": "2024-05-10",
+              "Weight": 10 
           },
           {
-              "Name": "Examination Mark",
+              "Name": "Examination",
               "Type": "Exam",
-              "Weight": 50,
-              "DueDate": "2024-06-20" 
+              "DueDate": "2024-06-20",
+              "Weight": 50 
           }
       ],
       "Description": "The purpose of this module is to provide students with \n an introduction to study the field of Organisation Behaviour. Students \n are equipped with the intellectual competencies for acquiring and understanding \n knowledge about behaviour on an individual, group and organisational level. \n Students need to identify, describe, distinguish, apply and analyse concepts \n and theories related to the scientific field of organisational psychology, \n allowing a thorough understanding of the nature of problems experienced \n within organisations and options for addressing these problems. OUTCOMES Students \n should be able to: describe and explain organisation psychology; differentiate \n between various frames of reference applicable to studying behaviour in \n organisations; demonstrate concepts and theories related to behaviour in organisations \n on individual, group/team and organisational level; examine the importance of \n organisational learning and renewal; analyse, examine and discuss the importance \n of leadership, strategy and organisational culture as the primary transformational \n variables in the organisational context; analyse and discuss the importance \n of organisational culture and dynamics of culture in high-performing organisations; \n 593 examine and discuss theoretical foundations of organisational change and \n development; critically assess emerging trends in organising human activity and \n behaviour in view of available organisational theory and design perspectives; \n and analyse, examine and discuss the importance of power, conflict, \n communication and decision-making within group structures and critically analyse their effects on the organisation.",
@@ -18037,30 +18119,30 @@
       "DP": 40,
       "Assessments": [
         {
-            "Name": "Assessments",
-            "Type": "Assessment",
-            "Weight": 50,
-            "Equal": false,
+            "Name": "Semester Tests",
+            "Type": "Test",
+            "Weight": 40,
             "Subitems": [
                 {
-                    "Name": "Assessment 1",
+                    "Name": "Semester Test 1",
                     "DueDate": "2024-08-26",
                     "Weight": 20
                 },
                 {
-                    "Name": "Assessment 2",
+                    "Name": "Semester Test 2",
                     "DueDate": "2024-09-30",
                     "Weight": 20
-                },
-                {
-                    "Name": "Assessment 3",
-                    "DueDate": "2024-10-07",
-                    "Weight": 10
                 }
             ]
         },
         {
-            "Name": "Exam Mark",
+            "Name": "Weekly Quizzes",
+            "Type": "Quiz",
+            "Weight": 10,
+            "Subitems": []
+        },
+        {
+            "Name": "Examination",
             "Type": "Exam",
             "Weight": 50
         }
@@ -19835,45 +19917,43 @@
       "Assessments":[
                       {
                       "Name": "Assessment opportunitys",
-                      "Type": "Assessment",
-                      "Equal": true,
+                      "Type": "Test",
                       "Weight": 30,
                       "Subitems": [
                           {
-                            "Name": "Assessment opportunity 1"
+                            "Name": "Semester Test 1"
                           },
                           {
-                            "Name": "Assessment opportunity 2"
+                            "Name": "Semester Test 2"
                           }
                       ]
                   },
                   {
-                      "Name": "Compulsory practical assignment",
-                      "Type": "Assignment",
+                      "Name": "Practical Assignment",
+                      "Type": "Practical",
                       "Weight": 10
                   },
                   {
-                    "Name": "Formative assessments/Tutorials",
+                    "Name": "Tutorials",
                     "Type": "Tutorial",
-                    "Equal": true,
                     "Weight": 10,
                     "Subitems": [
                         {
-                          "Name": "Tutorial 1"
+                          "Name": "Tutorial Test 1"
                         },
                         {
-                          "Name": "Tutorial 2"
+                          "Name": "Tutorial Test 2"
                         },
                         {
-                          "Name": "Tutorial 2"
+                          "Name": "Tutorial Test 3"
                         },
                         {
-                          "Name": "Tutorial 2"
+                          "Name": "Tutorial Test 4"
                         }
                     ]
                   },
                   {
-                      "Name": "Final Exam",
+                      "Name": "Final Examination",
                       "Type": "Exam",
                       "Weight": 50
                   }
@@ -19896,7 +19976,7 @@
         {
             "Name": "Assessment opportunities",
             "Type": "Test",
-            "Weight": 30,
+            "Weight": 60,
             "Subitems": [
                 {
                 "Name": "Test 1",
@@ -19909,30 +19989,24 @@
             ]
         },
         {
-            "Name": "Compulsory Group Assignment",
+            "Name": "Group Assignment",
             "Type": "Assignment",
             "DueDate": "2024-10-09",
-            "Weight": 10
+            "Weight": 20
         },
         {
             "Name": "Formative assessments/Tutorials",
             "Type": "Tutorial",
             "Equal": true,
-            "Weight": 10,
+            "Weight": 20,
             "Subitems": [
                 {
-                    "Name": "Tutorial 1"
+                    "Name": "Tutorial Test 1"
                 },
                 {
-                    "Name": "Tutorial 2"
+                    "Name": "Tutorial Test 2"
                 }
             ]
-            },
-            {
-                "Name": "Examination",
-                "Type": "Exam",
-                "DueDate": "2024-11-15",
-                "Weight": 50
             }
         ],
       "Description": "The purpose of this module is to conduct a valuation \n of a single residential property. OUTCOMES Students should be able \n to: prove mastery of the concept of market value; demonstrate \n comprehension of the sources of information available to the valuer; \n collect and analyse market information; show an understanding of the \n different methods of valuation; and apply the market approach to single residential property.",
@@ -20444,9 +20518,28 @@
       "Credit": 16,
       "Assessments": [
           {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
+            "Name": "Semester Tests",
+            "Type": "Test",
+            "Weight": 35,
+            "Subitems": [
+                {"Name": "Semester Test 1"},
+                {"Name": "Semester Test 2"}
+            ]
+          },
+          {
+            "Name": "Tutorial Tests",
+            "Type": "Tutorial",
+            "Weight": 10
+          },
+          {
+            "Name": "Assignments",
+            "Type": "Assignment",
+            "Weight": 5
+          },
+          {
+            "Name": "Final Assessment",
+            "Type": "Exam",
+            "Weight": 50
           }
       ],
       "Description": "The purpose of this module is to provide a comprehensive \n introduction to the quantitative methods required to comprehend economic models \n and econometrics. The module focuses more specifically on introducing students \n of economics to the 654fundamental notions and instruments in linear \n algebra. Understanding linear algebra is fundamental in studying economics. Linear \n algebra is widely used to formalise economic theory. Moreover, the \n statistical component of econometrics relies heavily on linear algebra concepts \n and tools. The students studying this module will acquire a \n necessary background to achieve a mature and enduring understanding of \n economic models and of the basic principles of econometrics. OUTCOMES \n Students should be able to: apply the fundamentals of the \n different techniques for solving systems of linear equations as used \n in economic models; execute basic matrix operations (addition, subtraction, scalar \n multiplication and matrix multiplication) with application in economic models; identify \n the definition of a determinant, its computations and its properties \n as used in economic models; recognise Euclidean Spaces and related \n concepts such as the inner product, lines and planes; understand \n the concepts of linear dependence, spanning sets, basis and dimensions; \n recognise examples of linear models relating to macroeconomics and microeconomics \n such as linear models of production, Markov Models of Employment, \n IS-LM Analysis, Investment and Arbitrage; and understand economic applications of Euclidean Spaces such as Budget Sets in Commodity Space, Input Space, probability simplex, The Investment Model and IS-LM Analysis.",
@@ -21196,48 +21289,52 @@
                       "Name": "Tests",
                       "Type": "Test",
                       "Equal": true,
-                      "Weight": 80,
+                      "Weight": 48,
                       "Subitems": [
                           {
                             "Name": "Test 1",
-                            "Weight": 5
+                            "Weight": 3
                           },
                           {
                             "Name": "Test 2",
-                            "Weight": 10
+                            "Weight": 6
                           },
                           {
                             "Name": "Test 3",
-                            "Weight": 20
+                            "Weight": 12
                           },
                           {
                             "Name": "Test 4",
-                            "Weight": 25
+                            "Weight": 12
                           },
                           {
                             "Name": "Test 5",
-                            "Weight": 20
+                            "Weight": 15
                           }
                       ]
                   },
                   {
                       "Name": "Lab Reports",
-                      "Type": "Report",
-                      "Equal": true,
-                      "Weight": 20,
+                      "Type": "Project",
+                      "Equal": false,
+                      "Weight": 12,
                       "Subitems": [
                           {
-                            "Name": "PE Semester 1",
-                            "Weight": 12
+                            "Name": "Project Endurance 1",
+                            "Weight": 7.2
                           },
                           {
-                            "Name": "PE Semester 2",
-                            "Weight": 8
+                            "Name": "Project Endurance 2",
+                            "Weight": 4.8
                           }
                       ]
+                  },
+                  {
+                    "Name": "November Examination",
+                    "Type": "Exam",
+                    "Weight": 40
                   }
-              ]
-      ,
+              ],
       "Description": "The purpose of this module is to build on the \n basic concepts and ground rules regarding Income Tax as well \n as Value-Added Tax (VAT) which were introduced in Taxation 200. \n It deals with more complex issues of the taxation calculation \n that was introduced in Taxation 200. OUTCOMES Students should be \n able to: discuss and calculate the Value-Added Tax implications per \n the VAT Act in the case of an enterprise making \n taxable and exempt supplies; identify amounts to be included in \n gross income by applying the definition of gross income in \n the Income Tax Act; identify amounts exempt from Income Tax \n by applying section 10 of the Income Tax Act; identify \n and calculate allowable deductions for Income Tax purposes by applying \n the general deduction formula as well as calculate (using the \n above principles) the taxable income and Income Tax payable by \n an enterprise; apply and evaluate the Income Tax principles per \n the Income Tax Act regarding trading stock; identify situations subject \n to Capital Gains tax and calculate the taxable amount in \n terms of the relevant provision in respect of assets acquired \n prior to and after 1 October 2001; calculate provisional tax \n as well as the penalties payable in respect of provisional \n tax for an enterprise per the provisions of the Income \n Tax Act; 670 fill out the documentation (tax returns, etc.) \n applicable to the above taxes; identify fringe benefits and determine \n the cash equivalent to be included in the taxable income \n of an individual per the provisions of the Income Tax \n Act; identify amounts exempt from tax in the hands of \n individuals, by applying the relevant sections of the Income Tax \n Act; include allowances attributable to the individual in gross income \n and calculate the amount allowed as deduction against the allowance \n by applying the relevant sections of the Income Tax Act; \n identify and calculate deductions available to individuals by applying the \n relevant sections of the Income Tax Act; calculate taxable income \n and Income Tax payable by applying the relevant sections of \n the Income Tax Act; calculate the portion of retirement benefits \n that will be exempt from taxation, and calculate tax payable \n according to the rating formula by applying the relevant sections \n of the Income Tax Act; calculate the taxable income of \n a partnership and apportion it to the partners; calculate the \n amounts payable in terms of employees tax, provisional tax, donations \n tax and estate duty; identify situations applicable to an individual \n that will be subject to Capital Gains tax and calculate \n the taxable amount in terms of the relevant provisions; prepare \n the tax calculation for a non-resident according to the relevant \n provisions in the Income Tax Act; understand the basic Income \n Tax provisions regarding trusts; identify situations where the anti-avoidance provisions \n of the Income Tax Act would be applicable; and explain \n and calculate dividends tax.\n and 2B are couplet modules The definition of couplet modules \n is two modules in a specified year, whereby the second \n module builds upon the first module. The passing mark of \n each module is usually 50%, but a student who did \n not obtain the required 50% in the first module but \n obtained for this module a minimum mark of 40% in \n the last assessment opportunity (exam) and a final mark of \n at least 40%, will be granted entry to the second \n module. To obtain credit for both modules, the second module \n must be passed and an average of 50% for both \n modules has to be obtained by the student. Credit can \n be obtained for the second module if a final mark \n of 50% is obtained for this module, and not an \n average of 50% for both modules. If the first module \n is repeated while a credit has already been obtained for \n the second module, the first module must be passed on \n its own. A student who qualifies for a supplementary assessment on a couplet module and obtained a last assessment opportunity mark (exam mark) of at least 40% can choose if he/she wants 671to write the supplementary or retain credit on the original final mark. Should he/she choose to write the supplementary assessment, but fail the module; the highest mark between the original and supplementary assessment mark will be used to retain the credit.",
       "Prerequisite": {
           "Code": "TAX2AB0"
@@ -21257,39 +21354,33 @@
       "Assessments": [
         {
             "Name": "Assessments",
-            "Type": "Assessment",
-            "Equal": true,
-            "Best": 2,
-            "Weight": 40,
+            "Type": "Test",
+            "Weight": 48,
             "Subitems": [
                 {
-                  "Name": "Assessment 1",
+                  "Name": "Semester Test 1",
                   "DueDate": "2024-03-07"
                 },
                 {
-                  "Name": "Assessment 2",
+                  "Name": "Semester Test 2",
                   "DueDate": "2024-05-02"
-                },
-                {
-                  "Name": "Assessment 2",
-                  "DueDate": "2024-05-24"
                 }
             ]
         },
         {
               "Name": "Continuous Assessments",
-              "Type": "Assessments",
-              "Weight": 7.5
+              "Type": "Assessment",
+              "Weight": 9
           },
           {
-              "Name": "Discretionary mark",
-              "Type": "Discretionary",
-              "Weight": 2.5
+              "Name": "Discretionary Assessment",
+              "Type": "Assessment",
+              "Weight": 3
           },
           {
               "Name": "Examination",
               "Type": "Exam",
-              "Weight": 50
+              "Weight": 40
           }
       ],
       "Description": "The purpose of this module is firstly to introduce the \n basic concepts and ground rules regarding Income Tax. Thereafter taxation \n consequences for individuals will be discussed. OUTCOMES Students should be \n able to: explain difference between different taxes; explain how to \n use the taxation legislation and; recognise different taxpayers; demonstrate how \n the levying section (s5(1)) is applied; analyse elements of gross \n income definition; interpret definition of resident as per Income Tax \n Act; discuss the days test in definition of a resident; \n compare the concepts of source, and deemed source; apply the \n concept of world-wide; identify the special inclusions in income as \n per the definition of gross income; illustrate that exempt income \n is income that was first included in gross income, and \n the exempted; illustrate the taxation consequences of the income from \n collective investment schemes; use the two tests for deductibility: section \n 11(a); and income derived from carrying on a trade s23; \n demonstrate that certain amounts will not be allowed as deductions \n for tax purpose; integrate the rules of general deductions in \n a tax calculation; discuss the tax treatment of specific expenses \n and losses; apply the special deductions per s11; 672 explain \n how to calculate taxable income of a company starting with \n the accounting net profit before tax; compare repairs and improvements; \n analyse and apply the case law on repairs; recognise assets \n subjects to the basic capital allowances; calculate the Income Tax \n consequences of the disposal of assets (excluding Capital Gains tax \n effect); illustrate where CGT fits on the tax framework; examine \n the Capital Gains tax provisions in respect of an individual; \n formulate the Income Tax consequences of different salary structures and \n fringe benefits; calculate the Income Tax consequences of employer/employee insurance \n agreements; apply the taxation consequences of certain types of investment \n income; predict the tax consequences of a sole-proprietor; distinguish and \n apply assessed losses in terms of S20A; list the taxation \n consequences of certain insurance benefits; illustrate the principles of employees \n taxation; argue whether transactions will be subject to donations tax; \n discuss the difference in terms of taxation treatment between residents \n and non- residents in respect of employment income; explain the \n Income Tax treatment of a partnership; demonstrate a basic knowledge regarding the basic taxation treatment of trusts; discuss the tax planning opportunities in respect of trusts and estates; use the framework to calculate estate duty; and practise the basic concepts in respect of estate planning.",
@@ -21310,7 +21401,6 @@
             "Name": "Assessment Opportunity",
             "Type": "Assessment",
             "Equal": true,
-            "Best": 2,
             "Weight": 48,
             "Subitems": [
                 {
@@ -21320,17 +21410,18 @@
                 {
                   "Name": "Assessment Opportunity 2",
                   "DueDate": "2024-09-26"
-                },
-                {
-                  "Name": "Assessment Opportunity 3",
-                  "DueDate": "2024-10-07"
                 }
             ]
         },
         {
-            "Name": "Continuous Assessment",
-            "Type": "Assessment(CA)",
-            "Weight": 9
+            "Name": "Continuous Assessments",
+            "Type": "Assessment",
+            "Weight": 9,
+            "Subitems": [
+                {"Name": "Continuous Assessment 1"},
+                {"Name": "Continuous Assessment 2"},
+                {"Name": "Continuous Assessment 3"}
+            ]
         },
         {
             "Name": "Quizzes",
@@ -22932,8 +23023,12 @@
           },
           {
               "Name": "Online Tutorial Assessments",
-              "Type": "Coursework",
-              "Weight": 10
+              "Type": "Quiz",
+              "Weight": 10,
+              "Subitems": [
+                {"Name": "Quiz 1"},
+                {"Name": "Quiz 2"}
+              ]
           },
           {
               "Name": "Examination",
@@ -23260,61 +23355,6 @@
               "Weight": 50
           }
       ],
-      "Assessment1": [
-          {
-              "Name": "Webwork",
-              "Type": "Coursework",
-              "Weight": 10,
-              "Subitems": [
-                {
-                    "Name": "WebWork 1"
-                },
-                {
-                    "Name": "WebWork 2"
-                },
-                {
-                    "Name": "WebWork 3"
-                },
-                {
-                    "Name": "WebWork 4"
-                },
-                {
-                    "Name": "WebWork 5"
-                },
-                {
-                    "Name": "WebWork 6"
-                },
-                {
-                    "Name": "WebWork 7"
-                },
-                {
-                    "Name": "WebWork 8"
-                },
-                {
-                    "Name": "WebWork 9"
-                }
-              ]
-          },
-          {
-            "Name": "Tests",
-            "Type": "Test",
-            "Weight": 40,
-            "Equal": true,
-            "Subitems": [
-                {
-                    "Name": "Semester Test 1"
-                },
-                {
-                    "Name": "Semester Test 2"
-                }
-            ]
-          },
-          {
-              "Name": "Examination",
-              "Type": "Exam",
-              "Weight": 50
-          }
-      ],
       "Prerequisite": {
         "Comment": "Mathematics Grade 12 - APS 4"
       },
@@ -23377,10 +23417,24 @@
         {
             "Name": "Weekly online quizzes",
             "Type": "Quiz",
-            "Weight": 12.5
+            "Weight": 12.5,
+            "Subitems": [
+                {"Name": "Tutorial Test 1"},
+                {"Name": "Tutorial Test 2"},
+                {"Name": "Tutorial Test 3"},
+                {"Name": "Tutorial Test 4"},
+                {"Name": "Tutorial Test 5"},
+                {"Name": "Tutorial Test 6"},
+                {"Name": "Tutorial Test 7"},
+                {"Name": "Tutorial Test 8"},
+                {"Name": "Tutorial Test 9"},
+                {"Name": "Tutorial Test 10"},
+                {"Name": "Tutorial Test 11"},
+                {"Name": "Tutorial Test 12"}
+            ]
         },
         {
-            "Name": "Exam",
+            "Name": "Examination",
             "Type": "Exam",
             "Weight": 50
         }
@@ -23764,25 +23818,29 @@
       "Description": "Developmental Psychology is an important module in Psy chology. It introduces the basic principles of human development, which helps the psychology student to conceptualise and understand the ever-changing human being from conception to death. This conceptualisation and understanding is useful in everyday life (enhances understanding of e.g. family members, friends and work colleagues of different ages) and imperative for the psychologist -to-be.",
       "Assessments": [
           {
-              "Name": "Assessments",
-              "Type": "Assessment",
-              "Weight": 80,
-              "Equal": true,
+              "Name": "Semester Tests",
+              "Type": "Test",
+              "Weight": 40,
               "Subitems": [
                   {
-                      "Name": "Assessment 1",
-                      "Weight": 40
+                      "Name": "Semester Test 1",
+                      "Weight": 20
                   },
                   {
-                      "Name": "Assessment 2",
-                      "Weight": 40
+                      "Name": "Semester Test 2",
+                      "Weight": 20
                   }
               ]
           },
           {
-              "Name": "MCQ Assessment",
-              "Type": "Assessment",
-              "Weight": 20
+              "Name": "Online MCQ",
+              "Type": "Quiz",
+              "Weight": 10
+          },
+          {
+            "Name": "Examination",
+            "Type": "Exam",
+            "Weight": 50
           }
       ],
       "Prerequisite": {
@@ -23849,14 +23907,20 @@
       "Description": "Provide basic knowledge of theory and concepts of the emerging field of positive psychology.",
       "Assessments": [
           {
-              "Name": "Full Period Mark",
-              "Type": "Coursework",
-              "Weight": 50
+              "Name": "Continuous Assessments",
+              "Type": "Assessment",
+              "Weight": 40,
+              "Best": 2,
+              "Subitems": [
+                {"Name": "Test 1"},
+                {"Name": "Test 2"},
+                {"Name": "Assignment 1"}
+              ]
           },
           {
               "Name": "Examination",
               "Type": "Exam",
-              "Weight": 50
+              "Weight": 60
           }
       ],
       "Institution": "University of Johannesburg"
@@ -25839,15 +25903,59 @@
   },
   {
       "Code": "GLGC1B1",
-      "Name": "Engineering Geology (Civil) 1B",
+      "Name": "Engineering Geology 1B",
       "NQF": 5,
       "Credit": 7,
       "Duration": "Semester",
       "Period": [
           1
       ],
+      "Assessments": [
+          {
+              "Name": "Semester Tests",
+              "Type": "Test",
+              "Weight": 50,
+              "Subitems": [
+                  {"Name": "Semester Test 1"},
+                  {"Name": "Semester Test 2"}
+              ]
+          },
+          {
+              "Name": "Examination",
+              "Type": "Exam",
+              "Weight": 50
+          }
+      ],
       "Description": "TO BE UPDATED",
       "Institution": "University of Johannesburg"
+  },
+  {
+    "Code": "GCISCB1",
+    "Name": "Engineering Geology 1B",
+    "NQF": 5,
+    "Credit": 7,
+    "Duration": "Semester",
+    "Period": [
+        1
+    ],
+    "Assessments": [
+        {
+            "Name": "Semester Tests",
+            "Type": "Test",
+            "Weight": 50,
+            "Subitems": [
+                {"Name": "Semester Test 1"},
+                {"Name": "Semester Test 2"}
+            ]
+        },
+        {
+            "Name": "Examination",
+            "Type": "Exam",
+            "Weight": 50
+        }
+    ],
+    "Description": "TO BE UPDATED",
+    "Institution": "University of Johannesburg"
   },
   {
       "Code": "SUSCIA1",
@@ -27305,24 +27413,19 @@
               "Equal": true,
               "Subitems": [
                   {
-                      "Name": "WeBWork 1",
-                      "DueDateComment": "26 Feb - 01 Mar 2024"
+                      "Name": "WeBWork Task 1"
                   },
                   {
-                      "Name": "WeBWork 2",
-                      "DueDateComment": "11 - 15 March 2024"
+                      "Name": "WeBWork Task 2"
                   },
                   {
-                      "Name": "WeBWork 3",
-                      "DueDateComment": "08 - 12 April 2024"
+                      "Name": "WeBWork Task 3"
                   },
                   {
-                      "Name": "WeBWork 4",
-                      "DueDateComment": "22 - 26 April 2024"
+                      "Name": "WeBWork Task 4"
                   },
                   {
-                      "Name": "WeBWork 5",
-                      "DueDateComment": "06 - 10 May 2024"
+                      "Name": "WeBWork Task 5"
                   }
               ]
           },
@@ -27365,9 +27468,21 @@
             ]
         },
         {
-            "Name": "Tutorials",
+            "Name": "Tutorial Tests",
             "Type": "Tutorial",
-            "Weight": 10
+            "Weight": 10,
+            "Subitems": [
+                {"Name": "Tutorial Test 1"},
+                {"Name": "Tutorial Test 2"},
+                {"Name": "Tutorial Test 3"},
+                {"Name": "Tutorial Test 4"},
+                {"Name": "Tutorial Test 5"},
+                {"Name": "Tutorial Test 6"},
+                {"Name": "Tutorial Test 7"},
+                {"Name": "Tutorial Test 8"},
+                {"Name": "Tutorial Test 9"},
+                {"Name": "Tutorial Test 10"}
+            ]
         },
         {
             "Name": "Examination",
@@ -28779,53 +28894,43 @@
           "Mark": 50
         }
       ],
-      "Assessments":[
-                  {
-                      "Name": "Tests",
-                      "Type": "Test",
-                      "Equal": true,
-                      "Weight": 30,
-                      "Subitems": [
-                          {
-                            "Name": "Test 1",
-                            "Weight": 10
-                          },
-                          {
-                            "Name": "Test 2",
-                            "Weight": 10
-                          },
-                          {
-                            "Name": "Test 3",
-                            "Weight": 10
-                          }
-                      ]
-                  },
-                  {
-                    "Name": "Assessments",
-                    "Type": "Assessment",
-                    "Equal": true,
-                    "Weight": 20,
-                    "Subitems": [
-                        {
-                          "Name": "Assessment 1",
-                          "Weight": 7.5
-                        },
-                        {
-                          "Name": "Assessment 2",
-                          "Weight": 7.5
-                        },
-                        {
-                          "Name": "Assessment 3",
-                          "Weight": 5
-                        }
-                    ]
+      "Assessments": [
+        {
+            "Name": "Tests",
+            "Type": "Test",
+            "Weight": 60,
+            "Subitems": [
+                {
+                  "Name": "Test 1"
                 },
                 {
-                    "Name": "Examination",
-                    "Type": "Exam",
-                    "Weight": 50
+                  "Name": "Test 2"
+                },
+                {
+                  "Name": "Test 3"
                 }
-              ],
+            ]
+        },
+        {
+          "Name": "Assessments",
+          "Type": "Assessment",
+          "Weight": 40,
+          "Subitems": [
+              {
+                "Name": "Assessment 1",
+                "Weight": 15
+              },
+              {
+                "Name": "Assessment 2",
+                "Weight": 15
+              },
+              {
+                "Name": "Assessment 3",
+                "Weight": 10
+              }
+          ]
+      }
+    ],
       "Description": "The purpose of Management 1B is to give learners an overview \nof the various parties and organizations involved in a Civil \nEngineering project and their role thereof and to introduce them \nto the basic management principles.  \nContent  Parties to the Industry. Types of enterprise. Entrepreneurial \nAspects of business. Theories of Management. Work study. \nProductivity. Human behavior. Organizational behavior. \nPersonnel Management. Principles of Engineering Economics.",
       "Institution": "University of Johannesburg"
   },
@@ -31351,11 +31456,45 @@
           1
       ],
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
-          }
+        {
+            "Name": "Semester Tests",
+            "Type": "Test",
+            "Weight": 37.5,
+            "Subitems": [
+                {"Name": "Semester Test 1"},
+                {"Name": "Semester Test 2"},
+                {"Name": "Semester Test 3"}
+            ]
+        },
+        {
+            "Name": "Practical Assignment",
+            "Type": "Practical",
+            "Weight": 2.5
+        },
+        {
+            "Name": "Online Quizzes",
+            "Type": "Quiz",
+            "Weight": 7.5,
+            "Subitems": [
+                {"Name": "Online Quiz 1"},
+                {"Name": "Online Quiz 2"},
+                {"Name": "Online Quiz 3"},
+                {"Name": "Online Quiz 4"},
+                {"Name": "Online Quiz 5"},
+                {"Name": "Online Quiz 6"},
+                {"Name": "Online Quiz 7"}
+            ]
+        },
+        {
+            "Name": "Tutorial Attendance",
+            "Type": "Attendance",
+            "Weight": 2.5
+        },
+        {
+            "Name": "Examination",
+            "Type": "Exam",
+            "Weight": 50
+        }
       ],
       "Description": "Students must be proficient in using calculations and \nmathematics needed for science purposes. They must be \nproficient in collecting, organising, analysing and interpreting \ndata to establish statistical and probability models to solve \nrelated problems. In order to carry out decisions within the \nparadigm of inferential statistics. This module is not only relevant \nto the learners\ufffd present academic program; it is also relevant to \nher/his future personal and professional life in Urban and \nRegional Planning.  \nContent  Introduction to Statistics, Frequency Distributions and \ndescribing a sample graphically, Describing a sample \nnumerically, Probability, Sampling Distributions, sampling and \nestimation, Hypothesis Testing, Regression and correlation, \nTime series analysis Module Outcomes ? Collect, summarise \nand perform calculations based on data ? Describe and perform \ncalculations involving probabilities and probability distributions ? \nCompute  and interpret estimates and carry out hypothesis \ntesting ? Explain, calculate and interpret regression and \ncorrelation analysis",
       "Institution": "University of Johannesburg"
@@ -32145,33 +32284,33 @@
       "Period": [
           1
       ],
-      "Assessments":[
-                      {
-                      "Name": "Class Test",
-                      "Type": "Test",
-                      "Equal": true,
-                      "Weight": 80,
-                      "Subitems": [
-                          {
-                            "Name": "Test 1",
-                            "Weight": 22
-                          },
-                          {
-                            "Name": "Test 2",
-                            "Weight": 22
-                          },
-                          {
-                            "Name": "Test 3",
-                            "Weight": 36
-                          }
-                      ]
-                  },
-                  {
-                      "Name": "Project",
-                      "Type": "Project",
-                      "Weight": 20
-                  }
-              ],
+      "Assessments": [
+        {
+            "Name": "Class Test",
+            "Type": "Test",
+            "Equal": true,
+            "Weight": 80,
+            "Subitems": [
+                {
+                "Name": "Written Test 1",
+                "Weight": 22
+                },
+                {
+                "Name": "Online Test 2",
+                "Weight": 22
+                },
+                {
+                "Name": "Final Test 3",
+                "Weight": 36
+                }
+            ]
+        },
+        {
+            "Name": "Project 1",
+            "Type": "Project",
+            "Weight": 20
+        }
+    ],
       "Description": "Survey 1A will equip the student with a broad knowledge of the \nvarious topics of applied surveying.  \nContent  \nSurveying fundamentals including error classifications and use \nof scale. Linear measurements. Levelling, setting out Long \nsection and cross section profiles in the field as well as drawing. \nMensuration. Calculations of areas and volumes of materials \nused during construction. Traverse surveys. Join and Polar \ncalculations Intricacies of making accurate linear and angular \nmeasur ements and dealing with potential errors. Calculation of \nopen and closed traverse. Bowditch (compass) rule of \nadjustment. Tacheometry surveying. Collection of the field data. \nPrepare and produce a plan of the surveyed area.",
       "Institution": "University of Johannesburg"
   },
@@ -32397,33 +32536,57 @@
             "Equal": true,
             "Subitems": [
                 {
-                    "Name": "Test 1",
-                    "Weight": 17.5
+                    "Name": "Semester Test 1"
                 },
                 {
-                    "Name": "Test 2",
-                    "Weight": 17.5
+                    "Name": "Semester Test 2"
                 },
                 {
-                    "Name": "Test 3",
-                    "Weight": 17.5
+                    "Name": "Semester Test 3"
                 },
                 {
-                    "Name": "Test 4",
-                    "Weight": 17.5
+                    "Name": "Semester Test 4"
                 }
             ]
         },
         {
-            "Name": "Tutorial Test",
+            "Name": "Tutorial Tests",
             "Type": "Tutorial",
-            "Weight": 20
+            "Weight": 20,
+            "Subitems": [
+                {"Name": "Tutorial Test 1"},
+                {"Name": "Tutorial Test 2"},
+                {"Name": "Tutorial Test 3"},
+                {"Name": "Tutorial Test 4"},
+                {"Name": "Tutorial Test 5"},
+                {"Name": "Tutorial Test 6"},
+                {"Name": "Tutorial Test 7"},
+                {"Name": "Tutorial Test 8"},
+                {"Name": "Tutorial Test 9"},
+                {"Name": "Tutorial Test 10"},
+                {"Name": "Tutorial Test 11"},
+                {"Name": "Tutorial Test 12"},
+                {"Name": "Tutorial Test 13"},
+                {"Name": "Tutorial Test 14"},
+                {"Name": "Tutorial Test 15"},
+                {"Name": "Tutorial Test 16"},
+                {"Name": "Tutorial Test 17"},
+                {"Name": "Tutorial Test 18"},
+                {"Name": "Tutorial Test 19"},
+                {"Name": "Tutorial Test 20"}
+            ]
         },
-          {
-              "Name": "Assignments",
-              "Type": "Assignment",
-              "Weight": 10
-          }
+        {
+            "Name": "Assignments",
+            "Type": "Assignment",
+            "Weight": 10,
+            "Subitems": [
+                {"Name": "Assignment 1"},
+                {"Name": "Assignment 2"},
+                {"Name": "Assignment 3"},
+                {"Name": "Assignment 4"}
+            ]
+        }
       ],
       "Passmark": [
         {
@@ -35345,6 +35508,47 @@
       "Period": [
           1
       ],
+      "Assessments": [
+        {
+            "Name": "Semester Tests",
+            "Type": "Test",
+            "Weight": 37.5,
+            "Subitems": [
+                {"Name": "Semester Test 1"},
+                {"Name": "Semester Test 2"},
+                {"Name": "Semester Test 3"}
+            ]
+        },
+        {
+            "Name": "Practical Assignment",
+            "Type": "Practical",
+            "Weight": 2.5
+        },
+        {
+            "Name": "Online Quizzes",
+            "Type": "Quiz",
+            "Weight": 7.5,
+            "Subitems": [
+                {"Name": "Online Quiz 1"},
+                {"Name": "Online Quiz 2"},
+                {"Name": "Online Quiz 3"},
+                {"Name": "Online Quiz 4"},
+                {"Name": "Online Quiz 5"},
+                {"Name": "Online Quiz 6"},
+                {"Name": "Online Quiz 7"}
+            ]
+        },
+        {
+            "Name": "Tutorial Attendance",
+            "Type": "Attendance",
+            "Weight": 2.5
+        },
+        {
+            "Name": "Examination",
+            "Type": "Exam",
+            "Weight": 50
+        }
+      ],
       "Description": "TO BE UPDATED",
       "Institution": "University of Johannesburg"
   },
@@ -36924,8 +37128,8 @@
               ]
           },
           {
-              "Name": "Practical Assignment and Report",
-              "Type": "Coursework",
+              "Name": "Assignment Practical Report ",
+              "Type": "Practical",
               "Weight": 20
           }
     
@@ -42128,6 +42332,27 @@
               }
           ]
       },
+      "Assessments": [
+        {
+            "Name": "Essays",
+            "Type": "Assignment",
+            "Weight": 90,
+            "Subitems": [
+                {"Name": "Essay 1"},
+                {"Name": "Essay 2"},
+                {"Name": "Essay 3"}
+            ]
+        },
+        {
+            "Name": "Quizzes",
+            "Type": "Quiz",
+            "Weight": 10,
+            "Subitems": [
+                {"Name": "Online Quiz 1"},
+                {"Name": "Online Quiz 2"}
+            ]
+        }
+      ],
       "Description": "TO BE UPDATED"
   },
   {
@@ -42156,6 +42381,27 @@
               }
           ]
       },
+      "Assessments": [
+        {
+            "Name": "Essays",
+            "Type": "Assignment",
+            "Weight": 90,
+            "Subitems": [
+                {"Name": "Essay 1", "Weight": 20},
+                {"Name": "Essay 2", "Weight": 30},
+                {"Name": "Essay 3", "Weight": 40}
+            ]
+        },
+        {
+            "Name": "Quizzes",
+            "Type": "Quiz",
+            "Weight": 10,
+            "Subitems": [
+                {"Name": "Online Quiz 1"},
+                {"Name": "Online Quiz 2"}
+            ]
+        }
+      ],
       "Description": "TO BE UPDATED"
   },
   {
@@ -42646,24 +42892,24 @@
       "Description": "This module provides a broad overview of developments in world history from the prehistorical period until the early modern era. Through the study of selected themes in both socio -cultural and political -economic history, this module aims to provide an understanding of how various societies, polities and empires originated, developed and interacted with one another across the world in the pre -modern era. Through tutorials and assignments students are introduced 109 to the basic s kills of historical research.",
       "Assessments": [
         {
-            "Name": "Tests",
+            "Name": "Semester Tests",
             "Type": "Test",
             "Weight": 25,
             "Equal": true,
             "Subitems": [
                 {
-                    "Name": "Test 1",
+                    "Name": "Semester Test 1",
                     "Weight": 15
                 },
                 {
-                    "Name": "Test 2",
+                    "Name": "Semester Test 2",
                     "Weight": 10
                 }
             ]
         },
         {
-            "Name": "Omeka assignment (all components) for the class archive project",
-            "Type": "Coursework",
+            "Name": "Omeka Assignment",
+            "Type": "Assignment",
             "Weight": 20
         },
         {
@@ -42673,38 +42919,46 @@
             "Equal": true,
             "Subitems": [
                 {
-                    "Name": "Quiz 1"
+                    "Name": "Online Quiz 1"
                 },
                 {
-                    "Name": "Quiz 2"
+                    "Name": "Online Quiz 2"
                 }
             ]
         },
         {
-            "Name": "Assignments",
+            "Name": "Written Assignments",
             "Type": "Assignment",
             "Weight": 20,
-            "Best":3,
+            "Best": 3,
             "Equal": true,
             "Subitems": [
                 {
-                    "Name": "Assignment 1"
+                    "Name": "Written Assignment 1"
                 },
                 {
-                    "Name": "Assignment 2"
+                    "Name": "Written Assignment 2"
                 },
                 {
-                    "Name": "Assignment 3"
+                    "Name": "Written Assignment 3"
                 },
                 {
-                    "Name": "Assignment 4"
+                    "Name": "Written Assignment 4"
                 }
             ]
         },
         {
             "Name": "Tutorial attendance and participation for 6 tuts",
-            "Type": "Coursework",
-            "Weight": 30
+            "Type": "Tutorial",
+            "Weight": 30,
+            "Subitems": [
+                {"Name": "Tut 1"},
+                {"Name": "Tut 2"},
+                {"Name": "Tut 3"},
+                {"Name": "Tut 4"},
+                {"Name": "Tut 5"},
+                {"Name": "Tut 6"}
+            ]
         }
       ],
       "Institution": "University of Johannesburg",
@@ -42721,11 +42975,49 @@
       "Year": 1,
       "Description": "This module provides a broad overview of developments in world history from the early modern era until the near present, and as such builds on the work of the first semester. Through the study of selected themes in both socio -cultural and political -economic history, this module aims to provide an understanding of how various societies, polities and empires originated, developed and interacted with each other across the world in the modern era. Through tutorials and assignments the basic skills of historical research that students acquired in the first semester are further consolidated.",
       "Assessments": [
-          {
-              "Name": "Full Period Mark",
-              "Type": "Coursework",
-              "Weight": 100
-          }
+        {
+            "Name": "Semester Test",
+            "Type": "Test",
+            "Weight": 10
+        },
+        {
+            "Name": "Assessments",
+            "Type": "Assessment",
+            "Weight": 30,
+            "Subitems": [
+                {"Name": "Online Quiz 1"},
+                {"Name": "Online Quiz 2"},
+                {"Name": "Online Quiz 3"},
+                {"Name": "Online Quiz 4"},
+                {"Name": "Online Quiz 5"},
+                {"Name": "Online Quiz 6"},
+                {"Name": "Class Essay 1"},
+                {"Name": "Class Essay 2"}
+            ]
+        },
+        {
+            "Name": "Short Written Essay",
+            "Type": "Assignment",
+            "Weight": 15
+        },
+        {
+            "Name": "Long Written Assignment",
+            "Type": "Assignment",
+            "Weight": 25
+        },
+        {
+            "Name": "Tutorials",
+            "Type": "Tutorial",
+            "Weight": 20,
+            "Subitems": [
+                {"Name": "MCQ 1"},
+                {"Name": "MCQ 2"},
+                {"Name": "MCQ 3"},
+                {"Name": "MCQ 4"},
+                {"Name": "MCQ 5"},
+                {"Name": "MCQ 6"}
+            ]
+        }
       ],
       "Institution": "University of Johannesburg",
       "Period": [
@@ -45062,9 +45354,31 @@
       "Description": "To equip students with the necessary skills to be able to communicate effectively within the context of the dynamic, modern social and work environment.",
       "Assessments": [
           {
-              "Name": "Continuous Assessment",
-              "Type": "Assessment",
-              "Weight": 100
+            "Name": "Unit Quizzes",
+            "Type": "Quiz",
+            "Weight": 38,
+            "Subitems": [
+                {"Name": "Unit One Quiz", "Weight": 6},
+                {"Name": "Unit 2 Quiz", "Weight": 5},
+                {"Name": "Unit 3 Quiz", "Weight": 6},
+                {"Name": "Unit 4 Quiz", "Weight": 6},
+                {"Name": "Unit 5 Quiz", "Weight": 8},
+                {"Name": "Unit 6 Quiz", "Weight": 7}
+            ]
+          },
+          {
+            "Name": "Attendance Mark",
+            "Type": "Attendance",
+            "Weight": 2
+          },
+          {
+            "Name": "Assignments",
+            "Type": "Assignment",
+            "Weight": 60,
+            "Subitems": [
+                {"Name": "Academic Essay"},
+                {"Name": "Multimedia Presentation 1"}
+            ]
           }
       ],
       "Institution": "University of Johannesburg",
@@ -45761,7 +46075,12 @@
           {
               "Name": "Quizzes",
               "Type": "Quiz",
-              "Weight": 6
+              "Weight": 6,
+              "Subitems": [
+                {"Name": "Quiz 1"},
+                {"Name": "Quiz 2"},
+                {"Name": "Quiz 3"}
+              ]
           },
           {
               "Name": "Examination",
@@ -45802,7 +46121,11 @@
         {
             "Name": "Quizzes",
             "Type": "Quiz",
-            "Weight": 10
+            "Weight": 10,
+            "Subitems": [
+                {"Name": "Quiz One - PPE"},
+                {"Name": "Quiz Two - Revenue"}
+            ]
         },
         {
             "Name": "Final Examination",
@@ -70689,39 +71012,46 @@
           2
       ],
       "Assessments":[
-                      {
-                      "Name": "Semester Tests",
-                      "Type": "Test",
-                      "Weight": 38,
-                      "Equal": true,
-                      "Subitems": [
-                          {
-                            "Name": "Semester Test 1",
-                            "DueDate": "2024-08-19"
-                          },
-                          {
-                            "Name": "Semester Test 2",
-                            "DueDate": "2024-09-18"
-                          }
-                      ]
-                  },
-                  {
-                      "Name": "Continuous assessment",
-                      "Type": "Test",
-                      "Weight": 5
-                  },
-                  {
-                      "Name": "Online Moodle Quizzes",
-                      "Type": "Quiz",
-                      "Weight": 7
-                  },
-                  {
-                      "Name": "Fianal Examination",
-                      "Type": "Exam",
-                      "Weight": 50,
-                      "DueDate": "2024-11-06"
-                  }
-              ],
+                {
+                "Name": "Semester Tests",
+                "Type": "Test",
+                "Weight": 38,
+                "Equal": true,
+                "Subitems": [
+                    {
+                    "Name": "Semester Test 1",
+                    "DueDate": "2024-08-19"
+                    },
+                    {
+                    "Name": "Semester Test 2",
+                    "DueDate": "2024-09-18"
+                    }
+                ]
+            },
+            {
+                "Name": "Continuous Assessments",
+                "Type": "Test",
+                "Weight": 5
+            },
+            {
+                "Name": "Online Moodle Quizzes",
+                "Type": "Quiz",
+                "Weight": 7,
+                "Subitems": [
+                    {"Name": "Quiz 1"},
+                    {"Name": "Quiz 2"},
+                    {"Name": "Quiz 3"},
+                    {"Name": "Quiz 4"},
+                    {"Name": "Quiz 5"}
+                ]
+            },
+            {
+                "Name": "Final Examination",
+                "Type": "Exam",
+                "Weight": 50,
+                "DueDate": "2024-11-06"
+            }
+        ],
       "Corequisite": {
           "Code": "Constitutional Law"
       },
@@ -70759,17 +71089,24 @@
                 ]
             },
             {
-                "Name": "Continuous assessment",
+                "Name": "Continuous Assessments",
                 "Type": "Test",
                 "Weight": 5
             },
             {
                 "Name": "Online Moodle Quizzes",
                 "Type": "Quiz",
-                "Weight": 7
+                "Weight": 7,
+                "Subitems": [
+                    {"Name": "Quiz 1"},
+                    {"Name": "Quiz 2"},
+                    {"Name": "Quiz 3"},
+                    {"Name": "Quiz 4"},
+                    {"Name": "Quiz 5"}
+                ]
             },
             {
-                "Name": "Fianal Examination",
+                "Name": "Final Examination",
                 "Type": "Exam",
                 "Weight": 50,
                 "DueDate": "2024-11-06"
@@ -71488,46 +71825,29 @@
       "DP": 40,
       "Assessments": [
             {
-                "Name": "Semester Test 1",
+                "Name": "Semester Test",
                 "Type": "Test",
-                "DueDate": "2024-04-03",
-                "Weight": 5
+                "Weight": 7
             },
             {
                 "Name": "Research Assignment",
-                "Type": "Test",
-                "DueDate": "2024-04-29",
-                "Weight": 5
+                "Type": "Assignment",
+                "Weight": 7
             },
             {
                 "Name": "Tutorial Attendance",
-                "Type": "Coursework",
-                "Weight": 2.5
+                "Type": "Attendance",
+                "Weight": 2
             },
             {
-                "Name": "Mid-Year Exam",
+                "Name": "Mid-Year Examination",
                 "Type": "Exam",
-                "Weight": 12.5
+                "Weight": 17
             },
             {
                 "Name": "Moot Court",
-                "Type": "Coursework",
-                "Weight": 8.75
-            },
-            {
-                "Name": "Semester Test 2",
-                "Type": "Test",
-                "Weight": 8.75
-            },
-            {
-                "Name": "Tutorial Attendance and Court Visits",
-                "Type": "Coursework",
-                "Weight": 2.5
-            },
-            {
-                "Name": "Semester 2 - Assignments",
-                "Type": "Assignment",
-                "Weight": 5
+                "Type": "Assessment",
+                "Weight": 17
             },
             {
                 "Name": "Final Examination",
@@ -71668,30 +71988,104 @@
       "Year": 3,
       "Duration": "Year",
       "Assessments": [
-          {
-              "Name": "Tests",
-              "Type": "Test",
-              "Weight": 70,
-              "Equal": true,
-              "Subitems": [
-                  {
-                      "Name": "First Semester Test",
-                      "DueDate": "2024-04-19"
-                  },
-                  {
-                      "Name": "Second Semester Test",
-                      "DueDate": "2024-06-15"
-                  },
-                  {
-                      "Name": "Third Semester Test",
-                      "DueDate": "2024-10-04"
-                  }
+        {
+            "Name": "Assessments/Practicals",
+            "Type": "Assessment",
+            "Weight": 7.5,
+            "Subitems": [
+                {
+                    "Name": "Online Quiz 1.1"
+                },
+                {
+                    "Name": "Online Quiz 1.2"
+                },
+                {
+                    "Name": "Online Quiz 1.3"
+                },
+                {
+                    "Name": "Online Quiz 2.1"
+                },
+                {
+                    "Name": "Online Quiz 2.2"
+                },
+                {
+                    "Name": "Online Quiz 3.1"
+                },
+                {
+                    "Name": "Online Quiz 3.2"
+                },
+                {
+                    "Name": "Online Quiz 4.1"
+                },
+                {
+                    "Name": "Online Quiz 5.1"
+                },
+                {
+                    "Name": "Online Quiz 6.1"
+                },
+                {
+                    "Name": "Written Assignment"
+                },
+                {
+                    "Name": "Online Quiz 8.1"
+                },
+                {
+                    "Name": "Online Quiz 10.1"
+                },
+                {
+                    "Name": "Online Quiz 11.1"
+                }
+            ]
+        },
+        {
+            "Name": "Semester Tests",
+            "Type": "Test",
+            "Weight": 35,
+            "Equal": true,
+            "Subitems": [
+                {
+                    "Name": "Semester Test 1"
+                },
+                {
+                    "Name": "Semester Test 2"
+                }
+            ]
+        },
+        {
+            "Name": "Assessments/Practicals",
+            "Type": "Assessment",
+            "Weight": 7.5,
+            "Subitems": [
+                {
+                    "Name": "Online Quiz 12.1",
+                    "Weight": 0.3
+                },
+                {
+                    "Name": "Online Quiz 12.2",
+                    "Weight": 0.3
+                },
+                {
+                    "Name": "Online Quiz 13.1",
+                    "Weight": 0.4
+                },
+                {
+                    "Name": "Online Quiz 14",
+                    "Weight": 0.5
+                },
+                {
+                    "Name": "Moot Court Drafting",
+                    "Weight": 3
+                },
+                {
+                    "Name": "Moot Court Presentation",
+                    "Weight": 3
+                }
               ]
           },
           {
-              "Name": "Assignments/Practical Work",
-              "Type": "Coursework",
-              "Weight": 30
+            "Name": "November Examination",
+            "Type": "Exam",
+            "Weight": 50
           }
       ],
       "Institution": "University of Johannesburg",
@@ -71870,38 +72264,38 @@
               "Mark": 50
           }
       ],
-      "Assessments":[
-                      {
-                      "Name": "Semester tests",
-                      "Type": "Test",
-                      "Equal": false,
-                      "Weight": 45,
-                      "Subitems": [
-                          {
-                            "Name": "Semester test 1",
-                            "Weight": 20,
-                            "DueDate": "2024-04-02"
-                          },
-                          {
-                            "Name": "Semester test 2",
-                            "Weight": 25,
-                            "DueDate": "2024-05-14"
-                          }
-                      ]
-                  },
-                  {
-                      "Name": "Formal assignment",
-                      "Type": "Assignment",
-                      "Weight": 5,
-                      "DueDate": "2024-03-11"
-                  },
-                  {
-                      "Name": "Examination",
-                      "Type": "Exam",
-                      "Weight": 50,
-                      "DueDate": "2024-06-07"
-                  }
-              ],
+      "Assessments": [
+        {
+            "Name": "Semester tests",
+            "Type": "Test",
+            "Equal": false,
+            "Weight": 45,
+            "Subitems": [
+                {
+                "Name": "Semester Test 1",
+                "DueDate": "2024-04-02",
+                "Weight": 20
+                },
+                {
+                "Name": "Semester Test 2",
+                "DueDate": "2024-05-14",
+                "Weight": 25
+                }
+            ]
+        },
+        {
+            "Name": "Formal Assignment",
+            "Type": "Assignment",
+            "DueDate": "2024-03-11",
+            "Weight": 5
+        },
+        {
+            "Name": "Examination",
+            "Type": "Exam",
+            "DueDate": "2024-06-07",
+            "Weight": 50
+        }
+    ],
       "Description": "A student who has completed this module will have sufficient knowledge \nof the principles and procedures involved in criminal procedures."
   },
   {
@@ -72028,7 +72422,7 @@
       "Duration": "Year",
       "Assessments": [
         {
-            "Name": "Assignment(s)",
+            "Name": "Assignments",
             "Type": "Assignment",
             "Weight": 5
         },
@@ -72345,13 +72739,13 @@
               "Best": 2,
               "Subitems": [
                     {
-                        "Name": "Class Test 1 - Sem 1"
+                        "Name": "Class Test 1"
                     },
                     {
-                        "Name": "Class Test 2 - Sem 1"
+                        "Name": "Class Test 2"
                     },
                     {
-                        "Name": "Class Test 3 - Sem 1"
+                        "Name": "Class Test 3"
                     }
               ]
           },
@@ -72363,13 +72757,13 @@
               "Best": 2,
               "Subitems": [
                     {
-                        "Name": "Class Test 1 - Sem 2"
+                        "Name": "Class Test 4"
                     },
                     {
-                        "Name": "Class Test 2 - Sem 2"
+                        "Name": "Class Test 5"
                     },
                     {
-                        "Name": "Class Test 3 - Sem 2"
+                        "Name": "Class Test 6"
                     }
               ]
           },
@@ -72381,8 +72775,7 @@
           {
             "Name": "Final Examination",
             "Type": "Exam",
-            "Weight": 50,
-            "DueDateComment": "24 October- 15 November"
+            "Weight": 50
         }
       ],
       "Passmark": [
@@ -75388,6 +75781,57 @@
     "Institution": "University of Johannesburg",
     "Code": "S3BCTQ4",
     "Name": "Intermediate Managerial Accounting and Finance",
+    "Assessments":[
+                    {
+                    "Name": "Tests",
+                    "Type": "Test",
+                    "Equal": true,
+                    "Weight": 48,
+                    "Subitems": [
+                        {
+                          "Name": "Assessment 1",
+                          "Weight": 3
+                        },
+                        {
+                          "Name": "Assessment 2",
+                          "Weight": 6
+                        },
+                        {
+                          "Name": "Assessment 3",
+                          "Weight": 12
+                        },
+                        {
+                          "Name": "AssessmentAssessment 4",
+                          "Weight": 12
+                        },
+                        {
+                          "Name": "Test 5",
+                          "Weight": 15
+                        }
+                    ]
+                },
+                {
+                    "Name": "Lab Reports",
+                    "Type": "Project",
+                    "Equal": false,
+                    "Weight": 12,
+                    "Subitems": [
+                        {
+                          "Name": "Project Endurance 1",
+                          "Weight": 7.2
+                        },
+                        {
+                          "Name": "Project Endurance 2",
+                          "Weight": 4.8
+                        }
+                    ]
+                },
+                {
+                  "Name": "November Examination",
+                  "Type": "Exam",
+                  "Weight": 40
+                }
+            ],
     "Description": "The purpose of this section of the module is to provide students with the Competency, on an intermediate level, to understand and apply\nthe underlying concepts of cost accounting, i.e. the concept of advanced manufacturing environment and management accounting\ntechniques. Detailed knowledge regarding the concepts of stock control, planning and stock management, budgeting, standard costing,\nperformance measurement, transfer pricing and business strategy will be obtained."
 },
 {
@@ -75400,6 +75844,47 @@
     "Institution": "University of Johannesburg",
     "Code": "S3BC4IR",
     "Name": "4IR Accounting",
+    "Duration": "Semester",
+    "Period": [
+        1
+    ],
+    "Assessments": [
+        {
+            "Name": "Data Analysis Quizzes",
+            "Type": "Quiz",
+            "Weight": 5,
+            "Subitems": [
+                {"Name": "Activity 1: Moodle Quiz on Excel", "Weight": 1.5},
+                {"Name": "Activity 2: Moodle Quiz on 4IR", "Weight": 2},
+                {"Name": "Activity 3: Moodle Quiz on Data Skills", "Weight": 1.5}
+            ]
+        },
+        {
+            "Name": "Data Analysis Assignment",
+            "Type": "Assignment",
+            "Weight": 10
+        },
+        {
+            "Name": "Semester Test 1",
+            "Type": "Test",
+            "Weight": 10
+        },
+        {
+            "Name": "4IR Activities",
+            "Type": "Assessment",
+            "Weight": 25,
+            "Subitems": [
+                {"Name": "4IR Activity 1", "Weight": 10},
+                {"Name": "4IR Activity 2", "Weight": 15}
+            ]
+        },
+        {
+            "Name": "Final Assessment",
+            "Type": "Exam",
+            "DueDate": "2024-06-10",
+            "Weight": 50
+        }
+    ],
     "Description": "The purpose of this module is to equip students with advanced Microsoft Excel skills and to introduce students to concepts and\ntechnologies of the Fourth Industrial Revolution, as they relate to business and accounting."
 },
 {
@@ -75410,6 +75895,47 @@
     "Duration": "Semester",
     "Period": [
         1
+    ],
+    "Assessments": [
+      {
+          "Name": "Semester Tests",
+          "Type": "Test",
+          "Weight": 37.5,
+          "Subitems": [
+              {"Name": "Semester Test 1"},
+              {"Name": "Semester Test 2"},
+              {"Name": "Semester Test 3"}
+          ]
+      },
+      {
+          "Name": "Practical Assignment",
+          "Type": "Practical",
+          "Weight": 2.5
+      },
+      {
+          "Name": "Online Quizzes",
+          "Type": "Quiz",
+          "Weight": 7.5,
+          "Subitems": [
+              {"Name": "Online Quiz 1"},
+              {"Name": "Online Quiz 2"},
+              {"Name": "Online Quiz 3"},
+              {"Name": "Online Quiz 4"},
+              {"Name": "Online Quiz 5"},
+              {"Name": "Online Quiz 6"},
+              {"Name": "Online Quiz 7"}
+          ]
+      },
+      {
+          "Name": "Tutorial Attendance",
+          "Type": "Attendance",
+          "Weight": 2.5
+      },
+      {
+          "Name": "Examination",
+          "Type": "Exam",
+          "Weight": 50
+      }
     ]
 }
 ]
