@@ -2322,23 +2322,31 @@
       "Year": 1,
       "Assessments": [
           {
-              "Name": "Class Test 1",
-              "Type": "Test",
-              "DueDate": "2024-05-16",
-              "Weight": 10
+            "Name": "Class Tests",
+            "Type": "Test",
+            "Weight": 10,
+            "Subitems": [
+              {
+                  "Name": "Class Test 1",
+                  "DueDateComment": "04 - 08 March"
+              },
+              {
+                  "Name": "Class Test 2",
+                  "DueDateComment": "15 - 19 April"
+              }
+            ]
           },
           {
-              "Name": "Semester Tests",
-              "Type": "Test",
+              "Name": "Summative Assessments",
+              "Type": "Assessment",
               "Weight": 40,
-              "Equal": true,
               "Subitems": [
                 {
-                    "Name": "Semester Test 1",
+                    "Name": "Summative Assessment 1 - Chapter 1, 2 and 3",
                     "DueDate": "2024-03-19"
                 },
                 {
-                    "Name": "Semester Test 2",
+                    "Name": "Summative Assessment 2 - Chapter 3, 4 & 5",
                     "DueDate": "2024-04-24"
                 }
               ]
@@ -2364,16 +2372,39 @@
       "Credit": 12,
       "DP": 40,
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 50
-          },
-          {
-              "Name": "Examination Mark",
-              "Type": "Exam",
-              "Weight": 50
-          }
+        {
+          "Name": "Summative Assessment",
+          "Type": "Assessment",
+          "Weight": 40,
+          "Subitems": [
+            {
+              "Name": "Summative Assessment ONE (In venue assessment)",
+              "DueDateComment":"23 August 2024 @ 16:00"
+            },
+            {
+              "Name": "Summative Assessment TWO (In-venue assessment)",
+              "DueDateComment":"30 September 2024 @ 08:00"
+            }
+          ]
+        },
+        {
+            "Name": "Summative Assessment",
+            "Type": "Assessment",
+            "Weight": 10,
+            "Subitems": [
+              {
+                "Name": "Online Class Assessment 1 (Class test)"
+              },
+              {
+                "Name": "Online Class Assessment 2 (Class test) "
+              }
+            ]
+        },
+        {
+          "Name": "Examination",
+          "Type": "Exam",
+          "Weight": 50
+        }
       ],
       "Description": "The purpose of this module is to introduce students to \n the functions of a business to enhance their business knowledge. \n OUTCOMES 255Students should be able to: Discuss and apply the \n basic concepts and principles of the following business functions: human \n resources; marketing; finance; operations; supply chain; administration; and public relations.",
       "Institution": "University of Johannesburg"
@@ -5997,27 +6028,32 @@
               "Equal": true,
               "Subitems": [
                   {
-                      "Name": "Test 1"
+                      "Name": "Test 1",
+                      "DueDate":"2024-03-19"
                   },
                   {
-                      "Name": "Test 2"
+                      "Name": "Test 2",
+                      "DueDate":"2024-04-18"
                   }
               ]
           },
           {
               "Name": "Observation Project",
               "Type": "Project",
-              "Weight": 10
+              "Weight": 10,
+              "DueDate":"2024-03-05"
           },
           {
               "Name": "Group Presentations",
               "Type": "Presentation",
-              "Weight": 15
+              "Weight": 15,
+              "DueDateComment":"14 & 16 May"
           },
           {
               "Name": "Final Assignment",
               "Type": "Assignment",
-              "Weight": 35
+              "Weight": 35,
+              "DueDate":"2024-05-23"
           }
       ],
       "Description": "The purpose of this module is for students to acquire \n a comprehensive theoretical knowledge of research methodology, with a focus \n on tourism research. OUTCOMES Students should be able to: explain \n what research is, and the purpose of conducting research; describe \n the principles of research; explain the various research designs; differentiate \n between the different research paradigms; explain the different approaches to \n research, as well as the various sampling techniques and tools \n used in research; explain the purpose and process of conducting \n a literature review; and recognise the importance of research ethics.",
@@ -6489,15 +6525,15 @@
                       "Name": "Assessment Opportunity",
                       "Type": "Assessment",
                       "Equal": true,
-                      "Weight": 45,
+                      "Weight": 32.5,
                       "Subitems": [
                           {
                             "Name": "Assessment Opportunity 1",
-                            "Weight": 22.5
+                            "Weight": 15
                           },
                           {
                             "Name": "Assessment Opportunity 2",
-                            "Weight": 22.5
+                            "Weight": 17.5
                           }
                       ]
                   },
@@ -6505,6 +6541,16 @@
                       "Name": "Assignments – Ulink quizzes",
                       "Type": "Assignment",
                       "Weight": 5
+                  },
+                  {
+                    "Name": "Sage Payroll ",
+                    "Type": "Coursework",
+                    "Weight": 7.5
+                  },
+                  {
+                    "Name": "TaxTim assignment",
+                    "Type": "Assignment",
+                    "Weight": 5
                   },
                   {
                       "Name": "Examination",
@@ -7936,33 +7982,27 @@
       "Year": 1,
       "Assessments": [
         {
-            "Name": "Essays",
-            "Type": "Essay",
-            "Weight": 90,
-            "Equal": true,
+            "Name": "CONTINUOUS ASSESSMENT",
+            "Type": "Assessment",
+            "Weight": 100,
             "Subitems": [
                 {
-                    "Name": "Essay 1"
+                    "Name": "On-line quizzes"
                 },
                 {
-                    "Name": "Essay 2"
+                    "Name": "Individual Assignments"
                 },
                 {
-                    "Name": "Essay 3"
-                }
-            ]
-        },
-        {
-            "Name": "Quizzes",
-            "Type": "Quiz",
-            "Weight": 10,
-            "Equal": true,
-            "Subitems": [
-                {
-                    "Name": "Quiz 1"
+                    "Name": "Oral Presentations"
                 },
                 {
-                    "Name": "Quiz 2"
+                    "Name": "Group Projects"
+                },
+                {
+                    "Name": "Tutorial Assessments"
+                },
+                {
+                    "Name": "Final Multi-Media Presentation"
                 }
             ]
         }
@@ -7981,11 +8021,28 @@
       "Credit": 16,
       "Year": 1,
       "Assessments": [
-          {
-              "Name": "Continuous Assessments",
-              "Type": "Coursework",
-              "Weight": 100
-          }
+        {
+            "Name": "CONTINUOUS ASSESSMENT",
+            "Type": "Assessment",
+            "Weight": 100,
+            "Subitems": [
+                {
+                    "Name": "Class tests"
+                },
+                {
+                    "Name": "Oral Presentations"
+                },
+                {
+                    "Name": "Group Projects"
+                },
+                {
+                    "Name": "Individual Assignments"
+                },
+                {
+                    "Name": "Tutorial Assessments"
+                }
+            ]
+        }
       ],
       "Description": "The purpose of the module is to: know the communication \n process, and be able to communicate effectively with other people \n in different social contexts; reflect and apply interpersonal communication skills; \n demonstrate effective public speaking skills through oral presentation; reflect on \n the importance of sensitivity in multi-cultural contexts and consciously use \n that knowledge in interpersonal communication; and gain knowledge of meeting \n procedures, types of meetings and documents associated with meetings. OUTCOMES \n Students should be able to: know the communication process and \n apply the terminology in a given context; distinguish between the \n different ego states as stipulated in Transactional Analysis and identify \n them in given case studies; demonstrate knowledge and understanding of \n sensitivity towards other cultures and embrace cultural diversity; use knowledge \n of verbal, non-verbal, interpersonal and multi-cultural communication to present a \n short speech on a given topic; write an agenda, notice \n and minutes of meetings; and know procedures and types of meetings.",
       "Institution": "University of Johannesburg"
@@ -22170,7 +22227,6 @@
             "Name": "Semester Assessments",
             "Type": "Test",
             "Weight": 40,
-            "Equal": false,
             "Subitems": [
                 {
                     "Name": "Test 1",
@@ -26568,9 +26624,50 @@
       ],
       "Assessments": [
           {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
+            "Name": "Tests",
+            "Type": "Test",
+            "Weight": 75,
+            "Subitems": [
+              {
+                "Name": "Test 1",
+                "DueDate":"2024-08-20"
+              },
+              {
+                "Name": "Test 2",
+                "DueDate":"2024-09-17"
+              },
+              {
+                "Name": "Test 3",
+                "DueDate":"2024-10-15"
+              }
+            ]
+          }, 
+          {
+            "Name": "Assignment",
+            "Type": "Assignment",
+            "Weight": 25,
+            "Subitems": [
+              {
+                "Name": "Assignment 1",
+                "DueDate":"2024-08-09"
+              },
+              {
+                "Name": "Assignment 2",
+                "DueDate":"2024-08-16"
+              },
+              {
+                "Name": "Assignment 3",
+                "DueDate":"2024-08-30"
+              },
+              {
+                "Name": "Assignment 4",
+                "DueDate":"2024-09-13"
+              },
+              {
+                "Name": "Assignment 5",
+                "DueDate":"2024-10-10"
+              }
+            ]
           }
       ],
       "Description": "The primary purpose of Contract Management 2B is to give \nstudents an in- depth knowledge of the Civil Engineering \nconstruction domain. \nContent \nGeneral Safety Rules (OSH Act). Risk Management. Total \nQuality Management. Equipment Management. Temporary \nWorks. Determining Quantities. Cost Estimating. Income and \nSpending. Taxation. Prices and Products.",
@@ -27944,9 +28041,30 @@
       ],
       "Assessments": [
           {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
+              "Name": "Assignment",
+              "Type": "Assignment",
+              "Weight": 10
+          },
+          {
+            "Name": "Laboratory report",
+            "Type": "Laboratory",
+            "Weight": 30,
+            "DueDate":"2024-05-22"
+          },
+          {
+            "Name": "Tests",
+            "Type": "Test",
+            "Weight": 60,
+            "Subitems": [
+              {
+                "Name": "Test 1",
+                "DueDate":"2024-03-21"
+              },
+              {
+                "Name": "Test 2",
+                "DueDate":"2024-05-16"
+              }
+            ]
           }
       ],
       "Description": "The primary purpose of this module is to introduce learners to \nthe principles and methodology of Soil Mechanics.  \nContent  Problem soils. Origin of soils. Phase relationships. Soil \nclassification. Site investigation. Compaction. Groundwater flow. \nSafety. Permeability.  \n \nGTECI Code: B2",
@@ -27962,16 +28080,24 @@
           2
       ],
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 40
-          },
-          {
-              "Name": "Exam Mark",
-              "Type": "Exam",
-              "Weight": 60
-          }
+        {
+          "Name": "Tests",
+          "Type": "Test",
+          "Weight": 80,
+          "Subitems": [
+            {
+              "Name": "Test 1"
+            },
+            {
+              "Name": "Test 2"
+            }
+          ]
+        },
+        {
+          "Name": "Laboratory Report",
+          "Type": "Laboratory",
+          "Weight": 20
+        }
       ],
       "Prerequisite": {
           "Code": "GTECIA2"
@@ -28205,9 +28331,31 @@
       ],
       "Assessments": [
           {
-              "Name": "Semester Mark",
+              "Name": "Practical Assignment and Report",
               "Type": "Coursework",
-              "Weight": 100
+              "Weight": 20
+          },
+          {
+            "Name": "Tests",
+            "Type": "Test",
+            "Weight": 80,
+            "Subitems": [
+              {
+                "Name": "Test 1",
+                "Weight": 22,
+                "DueDate":"2024-09-14"
+              },
+              {
+                "Name": "Test 2",
+                "Weight": 22,
+                "DueDate":"2024-10-24"
+              },
+              {
+                "Name": "Test 3",
+                "Weight": 36,
+                "DueDate":"2024-11-07"
+              }
+            ]
           }
       ],
       "Prerequisite": {
@@ -31818,8 +31966,7 @@
           {
               "Name": "Semester Test",
               "Type": "Test",
-              "Weight": 65,
-              "Equal": false,
+              "Weight": 60,
               "Subitems": [
                   {
                       "Name": "Semester Test 1",
@@ -31841,7 +31988,7 @@
           {
               "Name": "Tutorial Tests",
               "Type": "Test",
-              "Weight": 15
+              "Weight": 20
           },
           {
               "Name": "Assignments",
@@ -31935,18 +32082,29 @@
       "Period": [
           2
       ],
-      "Assessments": [
+    "Assessments": [
+      {
+        "Name": "Tests",
+        "Type": "Test",
+        "Weight": 90,
+        "Subitems": [
           {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 40
+            "Name": "Test 1"
           },
           {
-              "Name": "Exam Mark",
-              "Type": "Exam",
-              "Weight": 60
+            "Name": "Test 2"
+          },
+          {
+            "Name": "Test 3"
           }
-      ],
+        ]
+      },
+      {
+        "Name": "Lab. Pract. Report",
+        "Type": "Laboratory",
+        "Weight": 10
+      }
+    ],
       "Prerequisite": {
           "Code": "SOM2AA2"
       },
@@ -36760,11 +36918,29 @@
           2
       ],
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
-          }
+        {
+          "Name": "Tests",
+          "Type": "Test",
+          "Weight": 70,
+          "Subitems": [
+            {
+              "Name": "Test 1",
+              "Weight": 30,
+              "DueDate":"2024-09-10"
+            },
+            {
+              "Name": "Test 2",
+              "Weight": 40,
+              "DueDate":"2024-10-22"
+            }
+          ]
+        },
+        {
+          "Name": "Assignment",
+          "Type": "Assignment",
+          "Weight": 30,
+          "DueDate":"2024-10-15"
+        }
       ],
       "Description": "Introduction to Research. Research Proposal. Problem \nIdentification and formulation. Literature Review. Plagiarism and \nCopyright. Research Approach. Research Strategies. Data \ncollection. Sampling. Referencing and Citation.",
       "Institution": "University of Johannesburg"
@@ -41653,17 +41829,35 @@
       "Credit": 16,
       "Description": "The purpose of this module is to contextualise the historical development and fundamental aspects of the communication research process; to provide students with an overview of the elements of the communication research process, types of research and methodological aspects of research, as well as an introduction to ethical issues in communication research. Th e knowledge is practicably applicable in an academic or industry context.",
       "Assessments": [
-          {
-              "Name": "Full Period Mark",
-              "Type": "Coursework",
-              "Weight": 40
-          },
-          {
-              "Name": "Examination",
-              "Type": "Exam",
-              "Weight": 60
-          }
-      ],
+        {
+            "Name": "Assessments",
+            "Type": "Assessment",
+            "Weight": 50,
+            "Subitems": [
+            {
+                "Name": "Assessment 1(Interview)",
+                "Weight": 10,
+                "DueDate":"2024-07-31"
+            },
+            {
+                "Name": "Assessment 2(Essay)",
+                "Weight": 20,
+                "DueDate":"2024-08-14"
+            },
+            {
+                "Name": "Assessment 3(Multiple Choice Question Test)",
+                "Weight": 20,
+                "DueDate":"2024-10-07"
+            }
+            ]
+        },
+        {
+            "Name": "Examination",
+            "Type": "Exam",
+            "Weight": 50,
+            "DueDate":"2024-11-08"
+        }
+        ],
       "Institution": "University of Johannesburg",
       "Period": [
           2
@@ -44318,9 +44512,33 @@
       "Description": "The purpose of this module is to expose the student to contemporary approaches to the \nuse of internal communication for strategic employee engagement. The module will provide \ninsights into the complex nature of employer-employee relationships.",
       "Assessments": [
           {
-              "Name": "Semester Mark",
+              "Name": "Infographic (group)",
               "Type": "Coursework",
-              "Weight": 100
+              "Weight": 20,
+              "DueDate":"2024-08-13"
+          },
+          {
+                "Name": "Case study analysis (Individual)",
+                "Type": "Coursework",
+                "Weight": 20,
+                "DueDate":"2024-09-17"
+          },
+          {
+                "Name": "Individual research",
+                "Type": "Research",
+                "Weight": 10,
+                "DueDate":"2024-10-08"
+          },
+          {
+                "Name": "Employee engagement strategy (Final summative assessment presentation)",
+                "Type": "Coursework",
+                "Weight": 30,
+                "DueDate":"2024-10-29"
+          },
+          {
+                "Name": "Class activities and tutorials",
+                "Type": "Coursework",
+                "Weight": 20
           }
       ],
       "Institution": "University of Johannesburg",
@@ -44336,12 +44554,30 @@
       "Credit": 16,
       "Description": "This module introduces students to brand concepts with the purpose of managing them and\ntheir reputations.",
       "Assessments": [
+      {
+        "Name": "Tests",
+        "Type": "Test",
+        "Weight": 25,
+        "Subitems": [
           {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
+            "Name": "Ulink test 1 – Readings for Theme 1 and 2"
+          },
+          {
+            "Name": "Ulink test 2 – Readings for Theme 3 and 4 "
           }
-      ],
+        ]
+      },
+      {
+        "Name": "Brand Research Academic Assignment",
+        "Type": "Assignment",
+        "Weight": 35
+      },
+      {
+        "Name": "Brand Crisis Simulation Presentations",
+        "Type": "Presentation",
+        "Weight": 40
+      }
+    ],
       "Institution": "University of Johannesburg",
       "Duration": "Semester",
       "Period": [
@@ -70530,12 +70766,44 @@
       ],
       "Institution": "University of Johannesburg",
       "Assessments": [
+      {
+        "Name": "FORMATIVE",
+        "Type": "Assessment",
+        "Weight": 20,
+        "Subitems": [
           {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
+            "Name": "Group presentation",
+            "DueDateComment":"22 February 2024 - 29 February 2024"
+          },
+          {
+            "Name": "Test (Unit 1-3)",
+            "DueDate":"2024-03-11"
           }
-      ],
+        ]
+      },
+      {
+        "Name": "SUMMATIVE",
+        "Type": "Assessment",
+        "Weight": 80,
+        "Subitems": [
+          {
+            "Name": "PowerPoint presentation",
+            "DueDate":"2024-04-29",
+            "Weight": 25
+          },
+          {
+            "Name": "Test",
+            "DueDate":"2024-04-22",
+            "Weight": 30
+          },
+          {
+            "Name": "Assignment",
+            "DueDate":"2024-05-16",
+            "Weight": 25
+          }
+        ]
+      }
+    ],
       "Description": "<p>The module focusses on General management in sport. The applied principle of Business Management is presented in this module. This module deals with aspects of sport as a business as well as how sport is administrated.</p>",
       "Name": "Sport Management 1A"
   },
@@ -70605,13 +70873,7 @@
       "Duration": "Year",
       "Year": 1,
       "Institution": "University of Johannesburg",
-      "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
-          }
-      ],
+      "Assessments": [],
       "Description": "<p>This is a practical module where first year students experience the rules, coaching activities and presenting the activities of various sporting codes.</p>",
       "Name": "Sport Management 1C"
   },
