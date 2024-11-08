@@ -439,8 +439,8 @@
             "Weight": 10
         },
         {
-            "Name": "Tutorials and Activities",
-            "Type": "Coursework",
+            "Name": "Tutorial Activities",
+            "Type": "Tutorial",
             "Weight": 5
         },
         {
@@ -533,9 +533,28 @@
     },
     "Assessments": [
         {
-            "Name": "Continuous Assessments",
-            "Type": "Coursework",
-            "Weight": 50
+            "Name": "Tests",
+            "Type": "Test",
+            "Weight": 30,
+            "Subitems": [
+                {"Name": "Test 1"},
+                {"Name": "Test 2"}
+            ]
+        },
+        {
+            "Name": "Assignment 1",
+            "Type": "Assignment",
+            "Weight": 5
+        },
+        {
+            "Name": "Practicals",
+            "Type": "Practical",
+            "Weight": 5
+        },
+        {
+            "Name": "Practical Test",
+            "Type": "Test",
+            "Weight": 10
         },
         {
             "Name": "Examination",
@@ -557,6 +576,42 @@
     "Prerequisite": {
         "Code": "Biochemistry 2"
     },
+    "Assessments": [
+        {
+            "Name": "Tutorial Tests",
+            "Type": "Tutorial",
+            "Weight": 15,
+            "Subitems": [
+                {"Name": "Tutorial Test 1", "DueDate": "2024-03-05"},
+                {"Name": "Tutorial Test 2", "DueDate": "2024-04-16"}
+            ]
+        },
+        {
+            "Name": "Tests",
+            "Type": "Test",
+            "Weight": 20,
+            "Subitems": [
+                {"Name": "Test 1", "DueDate": "2024-03-11"},
+                {"Name": "Test 2", "DueDate": "2024-04-22"}
+            ]
+        },
+        {
+            "Name": "Practical Reports",
+            "Type": "Report",
+            "Weight": 10
+        },
+        {
+            "Name": "Pre-Practical Assessment",
+            "Type": "Practical",
+            "Weight": 5
+        },
+        {
+            "Name": "Examination",
+            "Type": "Exam",
+            "DueDate": "2024-06-03",
+            "Weight": 50
+        }
+    ],
     "Description": "TO BE UPDATED"
   },
   {
@@ -599,7 +654,15 @@
         {
             "Name": "Practical Reports",
             "Type": "Practical",
-            "Weight": 15
+            "Weight": 15,
+            "Subitems": [
+                {"Name": "Practical Report 1"},
+                {"Name": "Practical Report 2"},
+                {"Name": "Practical Report 3"},
+                {"Name": "Practical Report 4"},
+                {"Name": "Practical Report 5"},
+                {"Name": "Practical Report 6"}
+            ]
         },
         {
             "Name": "Examination",
@@ -614,6 +677,32 @@
     "Code": "BTNSHA2",
     "NQF": 5,
     "Duration": "Semester",
+    "Assessments": [
+        {
+            "Name": "Tests",
+            "Type": "Test",
+            "Weight": 30,
+            "Subitems": [
+                {"Name": "Test 1", "DueDate": "2024-04-08"},
+                {"Name": "Test 2", "DueDate": "2024-05-20"}
+            ]
+        },
+        {
+            "Name": "Poster Project",
+            "Type": "Project",
+            "Weight": 5
+        },
+        {
+            "Name": "Practical Reports",
+            "Type": "Practical",
+            "Weight": 15
+        },
+        {
+            "Name": "Examination",
+            "Type": "Exam",
+            "Weight": 50
+        }
+    ],
     "Name": "Sanitation, Safety and Hygiene",
     "Description": "TO BE UPDATED"
   },
@@ -649,21 +738,21 @@
             "Weight": 5,
             "Subitems": [
                 {
-                    "Name": "Quiz 1"
+                    "Name": "Tutorial Quiz 1"
                 },
                 {
-                    "Name": "Quiz 2"
+                    "Name": "Tutorial Quiz 2"
                 }
             ]
         },
         {
             "Name": "Practical Test",
-            "Type": "Practical",
+            "Type": "Test",
             "Weight": 5
         },
         {
             "Name": "Practical Portfolio",
-            "Type": "Portfolio",
+            "Type": "Practical",
             "Weight": 10
         },
         {
@@ -753,48 +842,37 @@
     ],
     "Assessments": [
         {
-            "Name": "Quizzes",
-            "Type": "Quiz",
-            "Weight": 5,
+            "Name": "Tests",
+            "Type": "Test",
+            "Weight": 30,
             "Subitems": [
-                {
-                    "Name": "Quiz 1",
-                    "DueDate": "2024-07-22"
-                },
-                {
-                    "Name": "Quiz 2",
-                    "DueDate": "2024-08-15"
-                }
+                {"Name": "Test 1", "DueDate": "2024-08-26"},
+                {"Name": "Test 2", "DueDate": "2024-10-14"}
             ]
         },
         {
-            "Name": "Individual Assignment",
+            "Name": "Assignments",
             "Type": "Assignment",
-            "Weight": 15
-        },
-        {
-            "Name": "Class Tests",
-            "Type": "Test",
-            "Weight": 20,
+            "Weight": 7.5,
             "Subitems": [
-                {
-                    "Name": "Class Test 1",
-                    "DueDateComment": "26 August 2024/29 August 2024"
-                },
-                {
-                    "Name": "Class Test 2"
-                }
+                {"Name": "Assignment 1", "Weight": 5, "DueDate": "2024-08-16"},
+                {"Name": "Assignment 2", "Weight": 2.5, "DueDate": "2024-10-04"}
             ]
         },
         {
-            "Name": "Group Assignment",
-            "Type": "Assignment",
-            "Weight": 20
+            "Name": "Tutorials/Presentations",
+            "Type": "Assessment",
+            "Weight": 2.5
         },
         {
-            "Name": "Semester Test",
-            "Type": "Test",
-            "Weight": 40
+            "Name": "Practicals",
+            "Type": "Practical",
+            "Weight": 10
+        },
+        {
+            "Name": "Examination",
+            "Type": "Exam",
+            "Weight": 50
         }
     ],
     "Name": "Information Technology Management",
@@ -15579,13 +15657,20 @@
       "DP": 40,
       "Assessments": [
           {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 50
+              "Name": "Continuous Assessments",
+              "Type": "Assessment",
+              "Weight": 50,
+              "Subitems": [
+                {"Name": "Assessment 1: Individual Assessment", "Weight": 15},
+                {"Name": "Assessment 2: Group Assessment", "Weight": 15},
+                {"Name": "Assessment 3: Individual Assessment", "Weight": 10},
+                {"Name": "Assessment 4: Individual Task", "Weight": 10}
+              ]
           },
           {
-              "Name": "Examination Mark",
+              "Name": "Final Assessment Portfolio",
               "Type": "Exam",
+              "DueDate": "2024-10-24",
               "Weight": 50
           }
       ],
@@ -26149,8 +26234,12 @@
           },
           {
               "Name": "Tutorials and Assignments",
-              "Type": "Coursework",
-              "Weight": 10
+              "Type": "Assessment",
+              "Weight": 10,
+              "Subitems": [
+                {"Name": "Tutorials"},
+                {"Name": "Assignments"}
+              ]
           },
           {
               "Name": "Examination",
@@ -26881,16 +26970,26 @@
           1
       ],
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 40
-          },
-          {
-              "Name": "Exam Mark",
-              "Type": "Exam",
-              "Weight": 60
-          }
+        {
+            "Name": "Assessment 1",
+            "Type": "Assessment",
+            "Weight": 25
+        },
+        {
+            "Name": "Assessment 2",
+            "Type": "Assessment",
+            "Weight": 25
+        },
+        {
+            "Name": "Assessment 3",
+            "Type": "Assessment",
+            "Weight": 25
+        },
+        {
+            "Name": "Assessment 4",
+            "Type": "Assessment",
+            "Weight": 25
+        }
       ],
       "Description": "The purpose of this module is to develop the skill of the \ncandidate in the application of 8 bit embedded controller \ntechnology.  \nContent  Introduction to the principles of the 8 -bit embedded controller, \nprogram memory organization, data memory organization, the \nregister set; Program structure, interrupts, basic peripherals, \nports, timers and design implementation and testing. Assembly \nlanguage, instruction set, C programing techniques, input a nd \noutput interfacing, interrupts, timers and counters and analogue \nto digital convertion.",
       "Institution": "University of Johannesburg"
@@ -26948,16 +27047,26 @@
           2
       ],
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 40
-          },
-          {
-              "Name": "Exam Mark",
-              "Type": "Exam",
-              "Weight": 60
-          }
+        {
+            "Name": "Written Test 1",
+            "Type": "Test",
+            "Weight": 25
+        },
+        {
+            "Name": "Written Test 2",
+            "Type": "Test",
+            "Weight": 25
+        },
+        {
+            "Name": "Written Test 3",
+            "Type": "Test",
+            "Weight": 25
+        },
+        {
+            "Name": "Written Test 4",
+            "Type": "Test",
+            "Weight": 25
+        }
       ],
       "Description": "The purpose of this module is to develop the skill of the\ncandidate in the application of 16 -bit embedded controller\nTechnology.\nContent\nIntroduction to the principles of 16 -bit embedded control,\nprogram memory organization, data memory organization,\nregister set and hardware structure. Program structure,\ninterrupts, advanced peripherals, ports, ADC, capture and\ncompare unit, PWM, UART, int errupt structure, C programing\ntechniques and design implementation and testing",
       "Institution": "University of Johannesburg"
@@ -26990,13 +27099,6 @@
       "Period": [
           1
       ],
-      "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
-          }
-      ],
       "Description": "Development of relatively large scale project in liaison with the \nElectric and Electronic Engineering Technology department with \nspecific reference to focus and research areas.  \nContent  Design process; Planning the implementation; Mechanical \ndrafting; Printed circuit board or vero board planning; \nConstruction and soldering; Testing to specification; Laboratory \nreport.",
       "Institution": "University of Johannesburg"
   },
@@ -27009,13 +27111,6 @@
       "Period": [
           2
       ],
-      "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
-          }
-      ],
       "Description": "The design and construction of an electrical technology based \nproject.  \nContent\nDesign process; Planning the implementation; Mechanical \ndrafting; Printed circuit board or vero board planning; \nConstruction and soldering; Testing to specification; Laboratory \nreport.",
       "Institution": "University of Johannesburg"
   },
@@ -27027,13 +27122,6 @@
       "Duration": "Semester",
       "Period": [
           2
-      ],
-      "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
-          }
       ],
       "Description": "Continuation of previous 'Project' module (Year 3 Semester 1)  \nContent\nDesign process; Planning the implementation; Mechanical \ndrafting; Printed circuit board or vero board planning; \nConstruction and soldering; Testing to specification; Laboratory \nreport.",
       "Institution": "University of Johannesburg"
@@ -27086,16 +27174,42 @@
           1
       ],
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 40
-          },
-          {
-              "Name": "Exam Mark",
-              "Type": "Exam",
-              "Weight": 60
-          }
+        {
+            "Name": "Assessments",
+            "Type": "Assessment",
+            "Weight": 80,
+            "Subitems": [
+                {
+                    "Name": "Assessment 1"
+                },
+                {
+                    "Name": "Assessment 2"
+                },
+                {
+                    "Name": "Assessment 3"
+                },
+                {
+                    "Name": "Assessment 4"
+                }
+            ]
+        },
+        {
+            "Name": "Practicals",
+            "Type": "Practical",
+            "Weight": 20,
+            "Subitems": [
+                {"Name": "Laboratory Practical 1"},
+                {"Name": "Laboratory Practical 2"},
+                {"Name": "Laboratory Practical 3"},
+                {"Name": "Laboratory Practical 4"},
+                {"Name": "Laboratory Practical 5"},
+                {"Name": "Laboratory Practical 6"},
+                {"Name": "Laboratory Practical 7"},
+                {"Name": "Laboratory Practical 8"},
+                {"Name": "Laboratory Practical 9"},
+                {"Name": "Laboratory Practical 10"}
+            ]
+        }
       ],
       "Description": "Design and construct various electronic circuits like power \nsupplies, protection circuits and amplifiers. Calculate solutions \nto electrical engineering problems by means of applying \nfundamental theory. Work safely with electricity by applying \nsafety precau tions. Describe the functioning and construction of \nelectronic circuits. Identify, distinguish and explain the function \nof the different types of electrical components. Apply rules of \nlogic to solve problems    \n \n  Content  Electron theory; Waveform and signal fundamentals; Power \nsupplies; Basic up to Switched Mode Power Supplies; Amplifier \nspecifications and characteristics; Bipolar junction transistor DC \nand small signal amplifier analysis; Field effect transistor DC and \nsmall signal analysis; Power amp lifiers; Oscillator fundamentals; \nFeedback fundamentals; Practical experience through \nlaboratory work",
       "Institution": "University of Johannesburg"
@@ -29776,16 +29890,26 @@
           2
       ],
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 40
-          },
-          {
-              "Name": "Exam Mark",
-              "Type": "Exam",
-              "Weight": 60
-          }
+        {
+            "Name": "Assessment 1",
+            "Type": "Assessment",
+            "Weight": 25
+        },
+        {
+            "Name": "Assessment 2",
+            "Type": "Assessment",
+            "Weight": 25
+        },
+        {
+            "Name": "Assessment 3",
+            "Type": "Assessment",
+            "Weight": 25
+        },
+        {
+            "Name": "Assessment 4",
+            "Type": "Assessment",
+            "Weight": 25
+        }
       ],
       "Description": "An introduction to the synergy of mechanical systems and \nactuators with electronics and electronic sensors, computer \nembedded control, pneumatics, hydraulics, optics and \ntelecommunication technology. Ability to apply this rather new \ntechnology to solve well defined control problems. Make use of \ncontrol theory to analyse and calculate control system \nresponses.",
       "Institution": "University of Johannesburg"
@@ -30524,16 +30648,30 @@
           2
       ],
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 40
-          },
-          {
-              "Name": "Exam Mark",
-              "Type": "Exam",
-              "Weight": 60
-          }
+        {
+            "Name": "Tests",
+            "Type": "Test",
+            "Weight": 80,
+            "Subitems": [
+                {"Name": "Theory Test 1"},
+                {"Name": "Theory Test 2"},
+                {"Name": "Theory Test 3"},
+                {"Name": "Practical Test 4"}
+            ]
+        },
+        {
+            "Name": "Practicals",
+            "Type": "Practical",
+            "Weight": 20,
+            "Subitems": [
+                {"Name": "Practical 1"},
+                {"Name": "Practical 2"},
+                {"Name": "Practical 3"},
+                {"Name": "Practical 4"},
+                {"Name": "Practical 5"},
+                {"Name": "Practical 6"}
+            ]
+        }
       ],
       "Description": "The candidate is introduced to the OSI model and the TCP/IP \nsuite. Within this model, the candidate is equipped with the skills \nto configure various switches and routers for connecting LANs \nand WANs including troubleshooting techniques.  \nContent  The OSI model; Configuration of LANs and WANs; TCP/IP \nprotocol suite \ufffd from IPv4 to IPv6, addressing to application \nlayer; Troubleshooting networks; Routing \ufffd includes protocols, \nrouting tables; Switching \ufffd includes design, VLAN\ufffds and \nconfiguration, layer 3 switching and  ACL\ufffds.",
       "Institution": "University of Johannesburg"
@@ -30941,18 +31079,6 @@
       "Duration": "Semester",
       "Period": [
           2
-      ],
-      "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 50
-          },
-          {
-              "Name": "Exam Mark",
-              "Type": "Exam",
-              "Weight": 50
-          }
       ],
       "Prerequisite": {
           "Code": "SUSCIA3"
@@ -31919,16 +32045,36 @@
           1
       ],
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 40
-          },
-          {
-              "Name": "Exam Mark",
-              "Type": "Exam",
-              "Weight": 60
-          }
+        {
+            "Name": "Written Test 1",
+            "Type": "Test",
+            "Weight": 35
+        },
+        {
+            "Name": "Written Test 2",
+            "Type": "Test",
+            "Weight": 30
+        },
+        {
+            "Name": "Assessment 3",
+            "Type": "Practical",
+            "Weight": 20,
+            "Subitems": [
+                {"Name": "Practical 1"},
+                {"Name": "Practical 2"},
+                {"Name": "Practical 3"}
+            ]
+        },
+        {
+            "Name": "Assessment 4",
+            "Type": "Assessment",
+            "Weight": 15,
+            "Subitems": [
+                {"Name": "Practical 4"},
+                {"Name": "Assignment 1"},
+                {"Name": "Assignment 2"}
+            ]
+        }
       ],
       "Description": "The purpose of the module is to gain an understanding of the \nmeasurement of variables, the types of variables as well as \ndevices used to measure those variables.  \nContent  Peripheral Devices and Input Parameters; Measurement \nParameters and Statistical Analysis; Deferred and Inductive \nMeasurement; Deductive and Empirical Measurement; Data \nAcquisition and Storage; Measured variables quantum and \nquality descriptions; Types of s ensors, magnetic, inductive, \nthermal, level, flow, radio, microwave and radar sensing, ultra \nhigh frequency sensors, pressure sensors; Devices: Switches, \nproximity switches, non -arcing and mechanical switches, Switch \narrangements, Semiconductor switches an d current source and \nsink arrangements; Devices: Hall effect and inductive switches; \nCrystal oscillator arrangement and frequency related   \n \n 1 measurements; Optical devices and light spectrum devices;",
       "Institution": "University of Johannesburg"
@@ -31981,16 +32127,43 @@
           1
       ],
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 40
-          },
-          {
-              "Name": "Exam Mark",
-              "Type": "Exam",
-              "Weight": 60
-          }
+        {
+            "Name": "Theory Tests",
+            "Type": "Test",
+            "Weight": 50,
+            "Subitems": [
+                {"Name": "Theory Test 1", "Weight": 20},
+                {"Name": "Theory Test 2", "Weight": 20},
+                {"Name": "Theory Test 3", "Weight": 10}
+            ]
+        },
+        {
+            "Name": "Practical Tests",
+            "Type": "Test",
+            "Weight": 20,
+            "Subitems": [
+                {"Name": "Practical Test 1"},
+                {"Name": "Practical Test 2"}
+            ]
+        },
+        {
+            "Name": "Laboratory Assessments",
+            "Type": "Practical",
+            "Weight": 15,
+            "Subitems": [
+                {"Name": "Laboratory Assessment 1"},
+                {"Name": "Laboratory Assessment 2"},
+                {"Name": "Laboratory Assessment 3"},
+                {"Name": "Laboratory Assessment 4"},
+                {"Name": "Laboratory Assessment 5"},
+                {"Name": "Laboratory Assessment 6"}
+            ]
+        },
+        {
+            "Name": "Assignments",
+            "Type": "Assignment",
+            "Weight": 15
+        }
       ],
       "Description": "The purpose of this module is to develop an introductory \nunderstanding of the object oriented software development \nprocess and its underlying engineering principles. This implies \nthe development of OO software systems that behave reliably, \neffectively and satisfy all requirements of the client.  \nContent  Object -oriented (OO) analysis and OO design methods; OO \ntechnology concepts; The OO software development process,   \n \n 1 project management, user interface design, testing and software \nquality assurance; Develop software applications in Java; OO \nanalysis models in UML.",
       "Institution": "University of Johannesburg"
@@ -33299,16 +33472,24 @@
           1
       ],
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 40
-          },
-          {
-              "Name": "Exam Mark",
-              "Type": "Exam",
-              "Weight": 60
-          }
+        {
+            "Name": "Tests",
+            "Type": "Test",
+            "Weight": 50,
+            "Subitems": [
+                {"Name": "Test 1"},
+                {"Name": "Test 2"}
+            ]
+        },
+        {
+            "Name": "Practical Assignments",
+            "Type": "Assignment",
+            "Weight": 50,
+            "Subitems": [
+                {"Name": "Practical Assignment 1"},
+                {"Name": "Practical Assignment 2"}
+            ]
+        }
       ],
       "Description": "The purpose of this module is to introduce the candidate to\nAnalogue Communication techniques.\nContent  \nIntroduction to the analysis of Energy Spectral Density (ESD) \nand Power Spectral Density (PSD); Amplitude modulation and \nFrequency modulation and its generation, detection etc.; Pulse \nmodulation and sampling including Pulse amplitude modulation \n(PAM), Pulse width modulation (PWM), Pulse position \nmodulation (PPM).",
       "Institution": "University of Johannesburg"
@@ -33775,7 +33956,7 @@
         },
         {
             "Name": "Concept Models, Videos and/or Reports",
-            "Type": "Coursework",
+            "Type": "Assessment",
             "Weight": 15
         },
         {
@@ -35093,8 +35274,13 @@
           },
           {
               "Name": "Practicum Reports",
-              "Type": "Coursework",
-              "Weight": 10
+              "Type": "Practical",
+              "Weight": 10,
+              "Subitems": [
+                {"Name": "Experiment Report 1"},
+                {"Name": "Experiment Report 2"},
+                {"Name": "Experiment Report 3"}
+              ]
           },
           {
               "Name": "Tutorial Tests",
@@ -35464,12 +35650,26 @@
   },
   {
       "Code": "HTA3BB3",
-      "Name": "HERITAGE ASSESSMENT 3B02",
+      "Name": "Heritage Assessment 3B02",
       "NQF": 6,
       "Credit": 7,
       "Duration": "Semester",
       "Period": [
           2
+      ],
+      "Assessments": [
+        {
+            "Name": "Semester Test",
+            "Type": "Test",
+            "DueDate": "2024-09-27",
+            "Weight": 30
+        },
+        {
+            "Name": "Assignment 1",
+            "Type": "Assignment",
+            "DueDate": "2024-10-04",
+            "Weight": 70
+        }
       ],
       "Description": "This course is intended to:  \nExplain what cultural heritage  is, \nSensitise students to the phenomenon and notion of cultural \nheritage  \nFoster awareness of the variety and value of cultural heritage,  \nCreate an awareness of the public and personal value of cultural \nheritage    \n \n  Inform students on relevant provisions of the National Heritage \nResources Act (no.25 of 19) and Government Notices.  \nPromote an awareness of the responsibilities this act lays on civil \nengineers, specifically in the field of cultural heritage conservation.  \nProvide an overview of the process of conducting Heritage \nAssessments as required for demolition and other permit \napplications and of Heritage Impact Assessments (HIA's) as may \nbe required by the appropriate Provincial or National Heritage \nResources Author ity. \nContent  Nature of heritage; Heritage impact assessment; theory of heritage \nand historical consciousness; cultural and natural heritage; legal \nframework; case studies.",
       "Institution": "University of Johannesburg"
@@ -35587,16 +35787,56 @@
           2
       ],
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 50
-          },
-          {
-              "Name": "Exam Mark",
-              "Type": "Exam",
-              "Weight": 50
-          }
+        {
+            "Name": "Semester Tests",
+            "Type": "Test",
+            "Weight": 25,
+            "Subitems": [
+                {"Name": "Semester Test 1"},
+                {"Name": "Semester Test 2"}
+            ]
+        },
+        {
+            "Name": "Tutorial Tests",
+            "Type": "Tutorial",
+            "Weight": 7.5,
+            "Subitems": [
+                {"Name": "Tutorial Test 1"},
+                {"Name": "Tutorial Test 2"},
+                {"Name": "Tutorial Test 3"},
+                {"Name": "Tutorial Test 4"}
+            ]
+        },
+        {
+            "Name": "Assignments",
+            "Type": "Assignment",
+            "Weight": 10,
+            "Subitems": [
+                {"Name": "Assignment 1"},
+                {"Name": "Assignment 2"},
+                {"Name": "Assignment 3"}
+            ]
+        },
+        {
+            "Name": "Practicals",
+            "Type": "Practical",
+            "Weight": 5,
+            "Subitems": [
+                {"Name": "Practical 1"},
+                {"Name": "Practical 2"},
+                {"Name": "Practical 3"}
+            ]
+        },
+        {
+            "Name": "Attendance",
+            "Type": "Attendance",
+            "Weight": 2.5
+        },
+        {
+            "Name": "Final Examination",
+            "Type": "Exam",
+            "Weight": 50
+        }
       ],
       "Prerequisite": {
           "Code": "STRCIA2"
@@ -36535,24 +36775,14 @@
       ],
       "Assessments": [
         {
-            "Name": "C Programmin Practicals",
+            "Name": "C Programmin Practical 1",
             "Type": "Practical",
-            "Weight": 12.5,
-            "Subitems": [
-                {
-                    "Name": "C Programming Practical 1",
-                    "Weight": 5
-                },
-                {
-                    "Name": "C Programming Practical 2",
-                    "Weight": 7.5
-                }
-            ]
+            "Weight": 10
         },
         {
             "Name": "C Programming Practical Class Tests",
             "Type": "Test",
-            "Weight": 7.5,
+            "Weight": 10,
             "Subitems": [
                 {
                     "Name": "C Programming Class Test 1"
@@ -36600,14 +36830,14 @@
             ]
         },
         {
-            "Name": "Octave Practical",
+            "Name": "Octave Formative Assessment 1",
             "Type": "Practical",
-            "Weight": 8
+            "Weight": 24
         },
         {
             "Name": "Octave Class Tests",
             "Type": "Test",
-            "Weight": 8,
+            "Weight": 16,
             "Subitems": [
                 {
                     "Name": "Octave Test 1"
@@ -36630,19 +36860,9 @@
             ]
         },
         {
-            "Name": "Octave Formative Assessment",
-            "Type": "Test",
-            "Weight": 24
-        },
-        {
-            "Name": "Excel Practical",
-            "Type": "Practical",
-            "Weight": 4
-        },
-        {
             "Name": "Excel Class Test",
             "Type": "Test",
-            "Weight": 1
+            "Weight": 5
         },
         {
             "Name": "Excel Formative Assessment",
@@ -37417,23 +37637,6 @@
       "Period": [
           2
       ],
-      "Assessments": [
-          {
-              "Name": "Class Tests",
-              "Type": "Test",
-              "Weight": 35
-          },
-          {
-              "Name": "Experiments",
-              "Type": "Practical",
-              "Weight": 15
-          },
-          {
-              "Name": "Examination",
-              "Type": "Exam",
-              "Weight": 50
-          }
-      ],
       "Prerequisite": {
           "Code": "MGACIA2"
       },
@@ -37734,16 +37937,39 @@
           2
       ],
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 50
-          },
-          {
-              "Name": "Exam Mark",
-              "Type": "Exam",
-              "Weight": 50
-          }
+        {
+            "Name": "Tests",
+            "Type": "Test",
+            "Weight": 60,
+            "Subitems": [
+                {"Name": "Test 1"},
+                {"Name": "Test 2"}
+            ]
+        },
+        {
+            "Name": "Practicals",
+            "Type": "Practical",
+            "Weight": 30,
+            "Subitems": [
+                {"Name": "Practical 1: Levelling"},
+                {"Name": "Practical 2: Traverse"},
+                {"Name": "Practical 3: Triangulation & Resection"},
+                {"Name": "Practical 4: Tacheometry"},
+                {"Name": "Compiled Individual Practical Report"}
+            ]
+        },
+        {
+            "Name": "Assignments",
+            "Type": "Assignment",
+            "Weight": 10,
+            "Subitems": [
+                {"Name": "Assignment 1"},
+                {"Name": "Assignment 2"},
+                {"Name": "Assignment 3"},
+                {"Name": "Assignment 4"},
+                {"Name": "Assignment 5"}
+            ]
+        }
       ],
       "Description": "This module will familiarise the student with all the calculations \nand practical applications required during construction, thus \nproviding him/her with the extensive knowledge required for \nmaking the right management decisions in this context. The \nmodule thus provides an in -depth study of the different types of \nsurveys the engineer will have to control on a constr uction site.  \nContent  Levelling (control points, road sections, cross -sections, cut and \nfill requirements);  traversing (control points, directions and \nverticals, distances and co -ordinates, joins and polars);  site -\nsurveying (spot heights, contours and grids);  triangulation \n(point fixing by intersection resection and double polars, heights \nof points by trigonometrical levelling);  setting out (gradients \nwith a level, road centrelines with theodolite, curves \u2013 transition, \ncircular, vertical) .",
       "Institution": "University of Johannesburg"
@@ -48225,7 +48451,14 @@
         {
             "Name": "Practicals",
             "Type": "Practical",
-            "Weight": 10
+            "Weight": 10,
+            "Subitems": [
+                {"Name": "Experiment A1"},
+                {"Name": "Experiment A2"},
+                {"Name": "Experiment A3"},
+                {"Name": "Experiment A4"},
+                {"Name": "Experiment A5"}
+            ]
         },
         {
             "Name": "Examination",
@@ -48252,6 +48485,58 @@
       "Prerequisite": {
           "Code": "CEM1EA1"
       },
+      "Assessments": [
+        {
+            "Name": "WileyPlus Assignments",
+            "Type": "Assignment",
+            "Weight": 12.5,
+            "Subitems": [
+                {"Name": "WileyPlus Assignment 1"},
+                {"Name": "WileyPlus Assignment 2"},
+                {"Name": "WileyPlus Assignment 3"},
+                {"Name": "WileyPlus Assignment 4"},
+                {"Name": "WileyPlus Assignment 5"},
+                {"Name": "WileyPlus Assignment 6"},
+                {"Name": "WileyPlus Assignment 7"},
+                {"Name": "WileyPlus Assignment 8"}
+            ]
+        },
+        {
+            "Name": "WileyPlus Tests",
+            "Type": "Test",
+            "Weight": 7.5,
+            "Subitems": [
+                {"Name": "WileyPlus Test 1"},
+                {"Name": "WileyPlus Test 2"}
+            ]
+        },
+        {
+            "Name": "Semester Tests",
+            "Type": "Test",
+            "Weight": 20,
+            "Subitems": [
+                {"Name": "Semester Test 1"},
+                {"Name": "Semester Test 2"}
+            ]
+        },
+        {
+            "Name": "Practicals",
+            "Type": "Practical",
+            "Weight": 10,
+            "Subitems": [
+                {"Name": "Practical 1"},
+                {"Name": "Practical 2"},
+                {"Name": "Practical 3"},
+                {"Name": "Practical 4"},
+                {"Name": "Practical 5"}
+            ]
+        },
+        {
+            "Name": "Examination",
+            "Type": "Exam",
+            "Weight": 50
+        }
+      ],
       "Description": "To develop the students' knowledge and comprehension of \nchemical principles and techniques. Additionally, the module \naims to develop the technical abilities of the student through \npractical experience in the laboratory.",
       "Year": 1
   },
@@ -51105,6 +51390,48 @@
       "Prerequisite": {
           "Code": "MAT1EA1"
       },
+      "Assessments": [
+        {
+            "Name": "Semester Tests",
+            "Type": "Test",
+            "Weight": 35,
+            "Subitems": [
+                {"Name": "Semester Test 1"},
+                {"Name": "Semester Test 2"}
+            ]
+        },
+        {
+            "Name": "Assignments",
+            "Type": "Assignment",
+            "Weight": 10,
+            "Subitems": [
+                {"Name": "Assignment 1"},
+                {"Name": "Assignment 2"},
+                {"Name": "Assignment 3"},
+                {"Name": "Assignment 4"}
+            ]
+        },
+        {
+            "Name": "Webwork Tests",
+            "Type": "Quiz",
+            "Weight": 5,
+            "Subitems": [
+                {"Name": "Webwork Test 0"},
+                {"Name": "Webwork Test 1"},
+                {"Name": "Webwork Test 2"},
+                {"Name": "Webwork Test 3"},
+                {"Name": "Webwork Test 4"},
+                {"Name": "Webwork Test 5"},
+                {"Name": "Webwork Test 6"},
+                {"Name": "Webwork Test 7"}
+            ]
+        },
+        {
+            "Name": "Examination",
+            "Type": "Exam",
+            "Weight": 50
+        }
+      ],
       "Description": "To provide the students with the basic knowledge and understanding of\nthe principles of Mathematics and Statistics that are applicable to\nBotany, Zoology, Biochemistry and Microbiology and provide the\nnecessary support to deal with calculations and the handling of data\nencountered in the curricula.",
       "Year": 1
   },
@@ -66303,11 +66630,46 @@
       "Duration": "Year",
       "Institution": "University of Johannesburg",
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
-          }
+        {
+            "Name": "Assessment 1 - MCQ",
+            "Type": "Quiz",
+            "DueDate": "2024-02-27",
+            "Weight": 5
+        },
+        {
+            "Name": "Assessment 2 - Theory",
+            "Type": "Assessment",
+            "DueDate": "2024-04-02",
+            "Weight": 15
+        },
+        {
+            "Name": "Assessment 3 - MCQ",
+            "Type": "Quiz",
+            "DueDate": "2024-04-26",
+            "Weight": 5
+        },
+        {
+            "Name": "Assessment 4 - MCQ",
+            "Type": "Quiz",
+            "DueDate": "2024-05-10",
+            "Weight": 5
+        },
+        {
+            "Name": "Assessment 5 - Theory",
+            "Type": "Assessment",
+            "DueDate": "2024-06-12",
+            "Weight": 30
+        },
+        {
+            "Name": "Assessment 6 - Portfolio",
+            "Type": "Portfolio",
+            "Weight": 10
+        },
+        {
+            "Name": "Assessment 7 - Practical",
+            "Type": "Practical",
+            "Weight": 30
+        }
       ],
       "Description": "<p>students to gain the relevant anatomy and physiological background applicable to MIRS in the following topics: Terminology, Basic Chemistry, The Cell, Basic Histology, Skeletal system, Osseous Tissue, Female Reproductive system, Endocrine system, Nervous system, Special senses, Cardiovascular system, Respiratory system, and Digestive system.</p>",
       "Name": "Anatomy and Physiology 1"
@@ -66423,7 +66785,6 @@
         {
             "Name": "Oral Debate",
             "Type": "Presentation",
-            "DueDateComment": "19 July 2024\n26 July 2024\n16 August 2024\n23 August 2024",
             "Weight": 10
         },
         {
@@ -67191,11 +67552,35 @@
       "Duration": "Year",
       "Institution": "University of Johannesburg",
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
-          }
+        {
+            "Name": "Test 1 MCQ",
+            "Type": "Test",
+            "DueDate": "2024-03-18",
+            "Weight": 15
+        },
+        {
+            "Name": "Test 2 MCQ",
+            "Type": "Test",
+            "DueDate": "2024-05-13",
+            "Weight": 15
+        },
+        {
+            "Name": "Test 3 MCQ",
+            "Type": "Test",
+            "DueDate": "2024-07-22",
+            "Weight": 20
+        },
+        {
+            "Name": "Group Presentation - Journal Article",
+            "Type": "Presentation",
+            "Weight": 20
+        },
+        {
+            "Name": "Written Test 4",
+            "Type": "Test",
+            "DueDate": "2024-10-18",
+            "Weight": 30
+        }
       ],
       "Description": "<p>The purpose of the module is to make students conversant with basic medical terminology related to pathological conditions. It introduces the student to the foundational principles of pathological processes which will underpin the knowledge of the specific systems pathology which will be integrated into the subsequent years of study.</p>",
       "Name": "Pathology"
@@ -67210,12 +67595,11 @@
       "Assessments": [
         {
             "Name": "Formal Tasks",
-            "Type": "Coursework",
+            "Type": "Assessment",
             "Weight": 30,
             "Subitems": [
                 {
                     "Name": "Task 1: First Aid",
-                    "DueDateComment": "June/July Recess",
                     "Weight": 20
                 },
                 {
@@ -67324,11 +67708,31 @@
       "Duration": "Year",
       "Institution": "University of Johannesburg",
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
-          }
+        {
+            "Name": "Unit 2: Care of the Patient Assessment",
+            "Type": "Assessment",
+            "Weight": 10
+        },
+        {
+            "Name": "Unit 3: Reflective Practice",
+            "Type": "Assessment",
+            "Weight": 10
+        },
+        {
+            "Name": "Unit 4: Professionalism",
+            "Type": "Assessment",
+            "Weight": 5
+        },
+        {
+            "Name": "Clinical Tutor Practical Assessment",
+            "Type": "Practical",
+            "Weight": 30
+        },
+        {
+            "Name": "UJ Practical Assessment",
+            "Type": "Practical",
+            "Weight": 45
+        }
       ],
       "Description": "<p>The purpose of this module is to develop the clinical competencies required in a Therapy Radiographer at a first- year level.</p>",
       "Name": "Radiation Therapy Clinical 1"
@@ -67422,11 +67826,36 @@
       "Year": 1,
       "Institution": "University of Johannesburg",
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
-          }
+        {
+            "Name": "Video (Sim learning activity)",
+            "Type": "Assessment",
+            "DueDate": "2024-05-06",
+            "Weight": 12
+        },
+        {
+            "Name": "Test 1",
+            "Type": "Test",
+            "DueDate": "2024-06-21",
+            "Weight": 30
+        },
+        {
+            "Name": "Individual Case Study",
+            "Type": "Assessment",
+            "DueDate": "2024-09-17",
+            "Weight": 12
+        },
+        {
+            "Name": "Assignment 1",
+            "Type": "Assignment",
+            "DueDate": "2024-07-23",
+            "Weight": 16
+        },
+        {
+            "Name": "Test 2",
+            "Type": "Test",
+            "DueDate": "2024-10-25",
+            "Weight": 30
+        }
       ],
       "Description": "<p>The primary purpose of this module is to introduce you to radiation oncology so that you can understand the principles guiding the management of an oncology patient and the equipment used in radiotherapy treatment.</p>",
       "Name": "Radiation Therapy Practice 1"
@@ -67821,20 +68250,20 @@
             ]
         },
         {
-            "Name": "Case Study + Case Report",
+            "Name": "Case Study e-Portfolio",
             "Type": "Project",
             "DueDate": "2024-09-17",
             "Weight": 20
         },
         {
-            "Name": "OSCE",
+            "Name": "OSCE Assessment",
             "Type": "Assignment",
             "DueDate": "2024-09-24",
             "Weight": 10
         },
         {
-            "Name": "Viva",
-            "Type": "Coursework",
+            "Name": "Viva Assessment",
+            "Type": "Assessment",
             "DueDate": "2024-09-25",
             "Weight": 10
         }
@@ -70767,8 +71196,8 @@
               ]
           },
           {
-              "Name": "Research Proposal Submission",
-              "Type": "Research",
+              "Name": "Research Proposal",
+              "Type": "Assignment",
               "Weight": 20,
               "DueDate": "2024-09-01"
           }
