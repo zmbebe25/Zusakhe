@@ -23,9 +23,16 @@
             "Weight": 5
         },
         {
-            "Name": "Practical Mark",
+            "Name": "Practicals",
             "Type": "Practical",
-            "Weight": 10
+            "Weight": 10,
+            "Subitems": [
+                {"Name": "Practical 1"},
+                {"Name": "Practical 2"},
+                {"Name": "Practical 3"},
+                {"Name": "Practical 4"},
+                {"Name": "Practical 5"}
+            ]
         },
         {
             "Name": "Examination",
@@ -186,15 +193,23 @@
         },
         {
             "Name": "Pre-Lab Tests",
-            "Type": "Test",
-            "DueDateComment": "Weekly",
-            "Weight": 5
+            "Type": "Practical",
+            "Weight": 5,
+            "Subitems": [
+                {"Name": "Pre-Lab Test 1"},
+                {"Name": "Pre-Lab Test 2"},
+                {"Name": "Pre-Lab Test 3"}
+            ]
         },
         {
             "Name": "Practicals",
             "Type": "Practical",
-            "DueDateComment": "Weekly",
-            "Weight": 15
+            "Weight": 15,
+            "Subitems": [
+                {"Name": "Practical Report 1"},
+                {"Name": "Practical Report 2"},
+                {"Name": "Practical Report 3"}
+            ]
         },
         {
             "Name": "Examination",
@@ -234,10 +249,10 @@
             "Weight": 10,
             "Subitems": [
                 {
-                    "Name": "Electronic Tasks"
+                    "Name": "Webwork Assessments"
                 },
                 {
-                    "Name": "Tutorial Work"
+                    "Name": "Tutorials"
                 }
             ]
         },
@@ -372,7 +387,7 @@
             ]
         },
         {
-            "Name": "Class Test",
+            "Name": "Class Tests",
             "Type": "Test",
             "Weight": 5
         },
@@ -868,24 +883,29 @@
     "Description": "TO BE UPDATED",
     "Institution": "University of Johannesburg",
     "Assessments": [
-      {
+        {
           "Name": "Tests",
           "Type": "Test",
           "Equal": true,
           "Weight": 70,
           "Subitems": [
               {
-                "Name": "Test 1"
+                "Name": "Written Test 1"
               },
               {
-                "Name": "Test 2"
+                "Name": "Written Test 2"
               }
           ]
-      },
+        },
         {
             "Name": "Individual Assignment",
             "Type": "Assignment",
-            "Weight": 30
+            "Weight": 20
+        },
+        {
+            "Name": "ANOVA Gauge R & R Practical",
+            "Type": "Practical",
+            "Weight": 10
         }
     ]
 },
@@ -1309,11 +1329,17 @@
       "NQF": 5,
       "Credit": 15,
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
-          }
+        {
+            "Name": "Formal Tests",
+            "Type": "Test",
+            "Weight": 100,
+            "Subitems": [
+                {"Name": "Test 1", "Weight": 20},
+                {"Name": "Test 2", "Weight": 30},
+                {"Name": "Test 3", "Weight": 20},
+                {"Name": "Test 4", "Weight": 30}
+            ]
+        }
       ],
       "Description": "The purpose of this module is to introduce basic financial \n accounting at a level consistent with non-accounting students. In this \n module the students will be provided with the basic principles \n of accounting, the recording of each transaction and the accounting \n cycle. This module helps students to understand the process flow \n of assets, liabilities, equity, income and expenses and the accounting \n records of a basic entity. Students will also be introduced \n to the financial statements of a sole trader as a \n service entity and trading entity. OUTCOMES Students should be able \n to: define and apply the basic accounting principles, concepts and \n the accounting process; explain the various types of business undertakings \n that exist within the field of accounting; discuss the Conceptual \n Framework for financial reporting; identify and classify financial transactions according \n to the key elements of financial statements (assets, liabilities, equity, \n income and expenses) and understand the effects these transactions have \n on the accounting equation; understand the accounting cycle from recording \n basic financial transactions from source document to the journals (general \n journal, cash receipts journal and cash payments journal), the general \n ledger and prepare a trial balance; identify and interpret transactions \n related to the purchase, depreciation and disposal of property, plant \n and equipment; and 246 prepare basic financial statements for a sole trader as a service entity and a trading entity.",
       "Institution": "University of Johannesburg"
@@ -1328,11 +1354,17 @@
       "NQF": 5,
       "Credit": 15,
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
-          }
+        {
+            "Name": "Formal Tests",
+            "Type": "Test",
+            "Weight": 100,
+            "Subitems": [
+                {"Name": "Test 1", "Weight": 20},
+                {"Name": "Test 2", "Weight": 30},
+                {"Name": "Test 3", "Weight": 20},
+                {"Name": "Test 4", "Weight": 30}
+            ]
+        }
       ],
       "Description": "The purpose of this module is to introduce basic costing \n and financial management at a level consistent with non-accounting students. \n In this module students will identify and analyse cost, learn \n to apply basic managerial accounting techniques and prepare information for \n decision-making purposes, applicable to service, trade and manufacturing entities. OUTCOMES \n Students should be able to: explain and understand the need \n for managerial accounting information; define cost accounting terminology and correctly \n use the basic principles of cost classification; define and understand \n the different terms and concepts in respect of inventory- holding \n and administer basic inventory systems; calculate the remuneration of employees; \n correctly classify overheads and calculate the fixed and variable components; \n understand the cost flow in a manufacturing concern and be \n able to determine the cost of manufactured products; discuss and \n apply the principles and theory of budgeting (personal and cash \n budgets only); and discuss and prepare basic flexible budgets.",
       "Institution": "University of Johannesburg"
@@ -2443,12 +2475,25 @@
       "DP": 40,
       "Assessments": [
           {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 50
+              "Name": "Summative Assessments",
+              "Type": "Test",
+              "Weight": 40,
+              "Subitems": [
+                {"Name": "Summative Assessment 1"},
+                {"Name": "Summative Assessment 2"}
+              ]
           },
           {
-              "Name": "Examination Mark",
+              "Name": "Class Assessments",
+              "Type": "Assessment",
+              "Weight": 10,
+              "Subitems": [
+                {"Name": "Class Assessment 1"},
+                {"Name": "Class Assessment 2"}
+              ]
+          },
+          {
+              "Name": "Examination",
               "Type": "Exam",
               "Weight": 50
           }
@@ -2494,12 +2539,16 @@
             ]
         },
           {
-              "Name": "Class assessments",
+              "Name": "Class Assessments",
               "Type": "Assessment",
-              "Weight": 10
+              "Weight": 10,
+              "Subitems": [
+                {"Name": "Class Assessment 1"},
+                {"Name": "Class Assessment 2"}
+              ]
           },
           {
-              "Name": "Examination Mark",
+              "Name": "Examination",
               "Type": "Exam",
               "Weight": 50,
               "DueDate": "2024-10-25"
@@ -4600,16 +4649,35 @@
       ],
       "DP": 40,
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 50
-          },
-          {
-              "Name": "Examination Mark",
-              "Type": "Exam",
-              "Weight": 50
-          }
+        {
+            "Name": "Semester Tests",
+            "Type": "Test",
+            "Weight": 30,
+            "Subitems": [
+                {"Name": "Semester Test 1"},
+                {"Name": "Semester Test 2"}
+            ]
+        },
+        {
+            "Name": "Assignment 1",
+            "Type": "Assignment",
+            "Weight": 10
+        },
+        {
+            "Name": "Randomised Class Tests",
+            "Type": "Test",
+            "Weight": 5
+        },
+        {
+            "Name": "Tutorial Activities",
+            "Type": "Tutorial",
+            "Weight": 5
+        },
+        {
+            "Name": "Examination",
+            "Type": "Exam",
+            "Weight": 50
+        }
       ],
       "Description": "The purpose of this module is to focus on the \n development, evaluation and implementation of logistic principles in the supply \n chain environment. Students should develop intellectual competencies and practical skills \n in the range of decisions implicit in planning and implementing \n logistic decisions. Upon the successful completion of this module a \n student shall possess fundamental knowledge on how logistics contribute to \n value creation in supply chain. OUTCOMES Students should be able \n to: understand logistics role in the economy and the organisation; \n understand what customer service is and the role it plays \n in a supply chain; understand a product life cycle in \n an organisation; understand the importance of a customer order and \n the path of a customer order; design, select and manage \n a distribution channel; and 322 apply the principles of logistics management.",
       "Prerequisite": {
@@ -4667,16 +4735,35 @@
       "Credit": 16,
       "DP": 40,
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 50
-          },
-          {
-              "Name": "Examination Mark",
-              "Type": "Exam",
-              "Weight": 50
-          }
+        {
+            "Name": "Semester Tests",
+            "Type": "Test",
+            "Weight": 30,
+            "Subitems": [
+                {"Name": "Semester Test 1"},
+                {"Name": "Semester Test 2"}
+            ]
+        },
+        {
+            "Name": "Assignment 1",
+            "Type": "Assignment",
+            "Weight": 10
+        },
+        {
+            "Name": "Randomised Class Tests",
+            "Type": "Test",
+            "Weight": 5
+        },
+        {
+            "Name": "Tutorial Activities",
+            "Type": "Tutorial",
+            "Weight": 5
+        },
+        {
+            "Name": "Examination",
+            "Type": "Exam",
+            "Weight": 50
+        }
       ],
       "Description": "The purpose of this module is to focus on the \n development, evaluation and implementation of logistic principles in the supply \n chain environment. Students should develop intellectual competencies and practical skills \n in the range of decisions implicit in planning and implementing \n logistic decisions. Upon the successful completion of this module a \n student shall possess fundamental knowledge on how logistics contribute to \n value creation in supply chain. OUTCOMES Students should be able \n to: understand the variety of material management techniques; understand what \n role transportation plays in a supply chain; understand global logistics \n and the elements influencing the; understand the importance of business \n structures in an organisation; understand how logistics costs affect customer \n and product profitability; and understand the importance of planning for logistic managers.",
       "Prerequisite": {
@@ -6380,16 +6467,30 @@
       "Credit": 16,
       "DP": 40,
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 50
-          },
-          {
-              "Name": "Examination Mark",
-              "Type": "Exam",
-              "Weight": 50
-          }
+        {
+            "Name": "Semester Tests",
+            "Type": "Test",
+            "Weight": 35,
+            "Subitems": [
+                {"Name": "Semester Test 1"},
+                {"Name": "Semester Test 2"}
+            ]
+        },
+        {
+            "Name": "Written Assignment 1",
+            "Type": "Assignment",
+            "Weight": 10
+        },
+        {
+            "Name": "Short Tests",
+            "Type": "Quiz",
+            "Weight": 5
+        },
+        {
+            "Name": "Examination",
+            "Type": "Exam",
+            "Weight": 50
+        }
       ],
       "Description": "The purpose of this module is to introduced the student \n to the major elements of storage and distribution as well \n as related business activities. Storage and Distribution is an introductory \n module in the specialised field of transportation and supply chain \n management. OUTCOMES Students should be able to: understand storage and \n distribution s role in supply chain in an organisation; demonstrate \n how supply chains compete by aligning logistics strategy with marketing; \n understand and describe the trends towards international logistics; and understanding \n the key issues in four key areas that will affect the way storage and distribution are structured.",
       "Institution": "University of Johannesburg"
@@ -6405,16 +6506,30 @@
       "Credit": 16,
       "DP": 40,
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 50
-          },
-          {
-              "Name": "Examination Mark",
-              "Type": "Exam",
-              "Weight": 50
-          }
+        {
+            "Name": "Semester Tests",
+            "Type": "Test",
+            "Weight": 35,
+            "Subitems": [
+                {"Name": "Semester Test 1"},
+                {"Name": "Semester Test 2"}
+            ]
+        },
+        {
+            "Name": "Assignment 1",
+            "Type": "Assignment",
+            "Weight": 10
+        },
+        {
+            "Name": "Continuous Assessments",
+            "Type": "Assessment",
+            "Weight": 5
+        },
+        {
+            "Name": "Examination",
+            "Type": "Exam",
+            "Weight": 50
+        }
       ],
       "Description": "The purpose of this module is to introduce to the \n major elements of storage and distribution as well as related \n business activities. Storage and Distribution is an 356introductory module in \n the specialised field of transportation and supply chain management. OUTCOMES \n Students should be able to: analyse the concept of value \n chain; demonstrate how organisations compete through managing lead time; and \n analyse ways to improve responsiveness to the end customer.",
       "Institution": "University of Johannesburg"
@@ -6846,16 +6961,34 @@
       "Credit": 16,
       "DP": 40,
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 50
-          },
-          {
-              "Name": "Examination Mark",
-              "Type": "Exam",
-              "Weight": 50
-          }
+        {
+            "Name": "Semester Tests",
+            "Type": "Test",
+            "Weight": 35,
+            "Subitems": [
+                {"Name": "Semester Test 1"},
+                {"Name": "Semester Test 2"}
+            ]
+        },
+        {
+            "Name": "Assignment 1",
+            "Type": "Assignment",
+            "Weight": 10
+        },
+        {
+            "Name": "Class Tests",
+            "Type": "Test",
+            "Weight": 5,
+            "Subitems": [
+                {"Name": "Class Test 1"},
+                {"Name": "Class Test 2"}
+            ]
+        },
+        {
+            "Name": "Examination",
+            "Type": "Exam",
+            "Weight": 50
+        }
       ],
       "Description": "The purpose of the module is to familiarise and expose \n students to the role and importance of transport in South \n Africa, its impact on the economy, its legislative background and \n the policy issues that affect the efficiency of transportation. OUTCOMES \n Students should be able to: discuss the changing global landscape \n for business and other organisations and the external forces that \n drive change in the global economy; understand the role and \n contribution of transport to economic development; understand the development of \n transport related careers and their contribution to the South Africa \n economy; appreciate the contribution of the rail road industry to \n the development of the South African economy; and appreciate the \n importance of air transportation in the South African economy. Transportation 2B",
       "Prerequisite": {
@@ -6880,18 +7013,6 @@
       "NQF": 5,
       "Credit": 16,
       "DP": 40,
-      "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 50
-          },
-          {
-              "Name": "Examination Mark",
-              "Type": "Exam",
-              "Weight": 50
-          }
-      ],
       "Description": "The purpose of the module is to familiarise and expose \n students to the role and importance of transport in South \n Africa, its impact on the economy, its legislative background and \n the policy issues that affect the efficiency of transportation. OUTCOMES \n Students should be able to: comprehend knowledge of current legislation \n affecting transport; discuss the relationship between international trade and global \n transportation; explain the nature of transportation risk and disruptions; and \n discuss the various types of water carriers and their roles in the overall water carrier system.",
       "Prerequisite": {
           "$and": [
@@ -12502,52 +12623,6 @@
       "NQF": 5,
       "Credit": 12,
       "Year": 1,
-      "Assessment1": [
-         {
-              "Name": "Semester Tests",
-              "Type": "Test",
-              "Weight": 30,
-              "Subitems": [
-                {
-                    "Name": "Semester Test 1",
-                    "DueDate": "2024-08-08"
-                },
-                {
-                    "Name": "Semester Test 2",
-                    "DueDate": "2024-09-30"
-                }
-              ]
-          },
-          {
-              "Name": "Assignments",
-              "Type": "Assignment",
-              "Weight": 10,
-              "Subitems": [
-                {
-                    "Name": "Assignment 1",
-                    "DueDate": "2024-08-04"
-                },
-                {
-                    "Name": "Assignment 2",
-                    "DueDate": "2024-08-25"
-                },
-                {
-                    "Name": "Assignment 3",
-                    "DueDate": "2024-09-22"
-                },
-                {
-                    "Name": "Assignment 4",
-                    "DueDate": "2024-10-13"
-                }
-              ]
-          },
-          {
-              "Name": "Examination",
-              "Type": "Exam",
-              "DueDate": "2024-11-01",
-              "Weight": 60
-          }
-      ],
       "Assessments": [
           {
               "Name": "Semester Tests",
@@ -13523,47 +13598,25 @@
       "DP": 40,
       "Assessments": [
         {
-            "Name": "Theory Assignment",
-            "Type": "Assignment",
-            "Weight": 12
-        },
-        {
-            "Name": "Xero Assignment Due",
-            "Type": "Assignment",
-            "Weight": 24
-        },
-        {
-            "Name": "Blackboard Quiz",
-            "Type": "Quiz",
-            "Weight": 4
-        },
-          {
-              "Name": "Examination Mark",
-              "Type": "Exam",
-              "Weight": 60
-          }
-      ],
-      "Assessment1": [
-        {
-            "Name": "Theory Assignment",
+            "Name": "Theory Assignment 1",
             "Type": "Assignment",
             "Weight": 18
         },
         {
-            "Name": "Xero Assignment Due",
+            "Name": "Xero Assignment 2",
             "Type": "Assignment",
             "Weight": 36
         },
         {
-            "Name": "Blackboard Quiz",
+            "Name": "Moodle Quiz",
             "Type": "Quiz",
             "Weight": 6
         },
-          {
-              "Name": "Examination Mark",
-              "Type": "Exam",
-              "Weight": 40
-          }
+        {
+            "Name": "Examination",
+            "Type": "Exam",
+            "Weight": 40
+        }
       ],
       "Description": "The purpose of this module is to introduce information systems \n in the South African business environment and to introduce an \n accounting software package, data interrogation tools and audit software. OUTCOMES \n Students should be able to: use the computer logically as \n a business tool in an accounting software environment in order \n to create, set up and prepare a set of accounting \n records and financial statements correctly; apply information technology correctly in \n an accounting environment; 511 prepare and manage financial records correctly; \n prepare general ledger accounts accurately; prepare and manage master file \n detail regarding customers, suppliers and inventory correctly; manage customers and \n supplier processing correctly; prepare and manage cash book entries accurately; \n prepare a bank reconciliation correctly; prepare ledger balances and control \n accounts correctly; prepare and manage draft trial balance, income statement \n and balance sheet correctly; use discuss and interpret logically results \n from data interrogation and audit engagement software; clearly define, correctly \n identify and explain an understanding of information systems, the role \n of information systems in business, the features and operations of \n commonly used information technology hardware and software; clearly define, correctly \n identify and explain the concepts of data processing, the concepts \n of computers systems and data communication, the role of information \n systems in business, and describing of management of information systems; \n and clearly define, correctly identify and explain the process of developing new information systems, information systems risks and information systems controls.",
       "Institution": "University of Johannesburg"
@@ -14932,18 +14985,6 @@
       "NQF": 5,
       "Credit": 24,
       "DP": 40,
-      "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 60
-          },
-          {
-              "Name": "November Examination",
-              "Type": "Exam",
-              "Weight": 40
-          }
-      ],
       "Description": "The purpose of this module is to empower students to \n firstly understand the macroeconomic environment of the economy and secondly \n to be able to determine possible impacts of economic and \n other exogenous variables (or events) on the South African economy.",
       "Institution": "University of Johannesburg"
   },
@@ -15578,32 +15619,22 @@
       "Credit": 8,
       "DP": 40,
       "Assessments": [
-          {
-              "Name": "Blackboard Activities",
-              "Type": "Coursework",
-              "Weight": 12
-          },
-          {
-              "Name": "Test 1",
-              "Type": "Test",
-              "Weight": 10
-          },
-          {
-              "Name": "Assessment Opportunity 2",
-              "Type": "Coursework",
-              "Weight": 18
-          },
-          {
-              "Name": "Examination Mark",
-              "Type": "Exam",
-              "Weight": 60
-          }
-      ],
-      "Assessment1": [
         {
-            "Name": "Blackboard Activities",
-            "Type": "Coursework",
-            "Weight": 18
+            "Name": "Continuous Assessments",
+            "Type": "Assessment",
+            "Weight": 9,
+            "Subitems": [
+                {"Name": "Continuous Assessment Unit 1"},
+                {"Name": "Continuous Assessment Unit 2"},
+                {"Name": "Continuous Assessment Unit 3"},
+                {"Name": "Continuous Assessment Unit 4"},
+                {"Name": "Continuous Assessment Unit 5"}
+            ]
+        },
+        {
+            "Name": "Attendance",
+            "Type": "Attendance",
+            "Weight": 3
         },
         {
             "Name": "Test 1",
@@ -15612,14 +15643,14 @@
         },
         {
             "Name": "Assessment Opportunity 2",
-            "Type": "Coursework",
-            "Weight": 27
+            "Type": "Assessment",
+            "Weight": 33
         },
-          {
-              "Name": "Examination Mark",
-              "Type": "Exam",
-              "Weight": 40
-          }
+        {
+            "Name": "Final Written Assignment",
+            "Type": "Assignment",
+            "Weight": 40
+        }
       ],
       "Description": "The purpose of this module is to equip students with \n the skills needed to effectively manage ethical or moral dilemmas \n encountered in the workplace and the business environment. This module \n also integrates communication, presentation and business acumen skills needed by \n a student to excel in the corporate environment. OUTCOMES Students \n should be able to: discuss the concept of citizenship; explain \n ethical dimensions of business in the context of cultural diversity; \n use ethical decision making strategies; discuss large-scale socio-economic ethical issues \n relevant to business and professional practice; identify and discuss plagiarism \n in the context of publications as well as ideas in \n business and professional practice; apply knowledge of managing the ethical \n dimension in organisations; discuss the nature of professionalism; identify the \n purpose, structure and contents of selected codes of ethics; apply \n knowledge of ethical issues in the accounting profession; effectively apply \n pervasive skills required to successfully interact and communicate in a \n business and professional environment; apply the concepts of teamwork and \n effective time management through completion of the group project; apply \n knowledge of the principles of corporate governance and its impact on business ethics; and apply knowledge of sustainable business practices. 552",
       "Institution": "University of Johannesburg"
@@ -17429,7 +17460,7 @@
               ]
           },
           {
-              "Name": "Tutorial Mark",
+              "Name": "Tutorials",
               "Type": "Tutorial",
               "Weight": 5
           },
@@ -17486,8 +17517,8 @@
               ]
           },
           {
-              "Name": "Tutorial Activities and Attendance",
-              "Type": "Coursework",
+              "Name": "Tutorial Activities",
+              "Type": "Tutorial",
               "Weight": 5
           },
           {
@@ -18034,38 +18065,42 @@
         {
             "Name": "Assessments",
             "Type": "Test",
-            "Weight": 60,
-            "Equal": true,
+            "Weight": 30,
             "Subitems": [
                 {
                     "Name": "Semester Test 1",
-                    "Weight": 30
+                    "Weight": 15
                 },
                 {
                     "Name": "Semester Test 2",
-                    "Weight": 30
+                    "Weight": 15
                 }
             ]
         },
         {
-            "Name": "Academic Development",
-            "Type": "Coursework",
-            "Weight": 5
+            "Name": "Academic Development Workshop Attendance",
+            "Type": "Attendance",
+            "Weight": 2.5
         },
         {
-            "Name": "Class Attendance & Tutorial Activities",
-            "Type": "Coursework",
-            "Weight": 5
+            "Name": "Tutorial Activities",
+            "Type": "Attendance",
+            "Weight": 2.5
         },
         {
-            "Name": "Group Assignment",
+            "Name": "Group Assignment - Ergonomics",
             "Type": "Assignment",
-            "Weight": 15
+            "Weight": 7.5
         },
         {
-            "Name": "Individual Assignment",
+            "Name": "Individual Assignment - Consumer Psychology",
             "Type": "Assignment",
-            "Weight": 15
+            "Weight": 7.5
+        },
+        {
+            "Name": "Examination",
+            "Type": "Exam",
+            "Weight": 50
         }
       ],
       "Description": "The purpose of this module is firstly to provide students \n with an introduction to the field of Industrial Psychology. It \n provides a basic knowledge and understanding of the multi- dimensional \n nature of ergonomics, as well as the different applicable fields \n that contribute to the knowledge base of ergonomics. Students need \n to identify, describe and apply theoretical knowledge and concepts related \n to ergonomics in order to establish an effective, safe and \n healthy human-machine interface. Secondly, the purpose of this module is \n to provide students with basic knowledge and understanding of the \n scientific literature regarding consumer psychology. Students need to identify, describe \n and contextualise theoretical knowledge and concepts related to consumer psychology \n in order to understand its basic nature and practical implications. \n The above-mentioned allows for the basic awareness and understanding of \n the contributions of Industrial Psychology in the establishment of effective \n human-machine system interactions as well as consumer behaviour within the \n broader society. OUTCOMES Students should be able to: define ergonomics; \n describe the historical development of ergonomics as well as the \n focus and objectives of ergonomics; discuss the role of the \n ergonomist, apply the advantages of ergonomics and apply ergonomics to \n specific user populations; know the basics regarding human abilities and \n limitations that can influence human reliability in systems operation; define \n and explain consumer psychology; describe the establishment of consumer psychology \n as a sub-discipline of industrial psychology and indicate its strategic \n applications; describe the intra-psychic domain of consumer behaviour and to \n explain how marketers go about influencing consumers behaviour in order \n to stimulate buying behaviour; describe the mechanism of the consumer decision-making process; describe the organismic processes of consumption; and 592 contextualise the contemporary consumer.",
@@ -19450,11 +19485,11 @@
           "Weight": 45,
           "Subitems": [
             {
-                "Name": "Test 1",
+                "Name": "Semester Test 1",
                 "DueDate": "2024-08-08"
             },
             {
-                "Name": "Test 2",
+                "Name": "Semester Test 2",
                 "DueDate": "2024-09-27"
             }
           ]
@@ -20301,13 +20336,17 @@
                 ]
             },
             {
-                "Name": "Tutorial Mark",
+                "Name": "Moodle Quiz",
                 "Type": "Quiz",
-                "DueDateComment": "06 - 13 May 2024",
-                "Weight": 5
+                "Weight": 2.5
             },
             {
-                "Name": "Examination",
+                "Name": "Tutorial Attendance",
+                "Type": "Attendance",
+                "Weight": 2.5
+            },
+            {
+                "Name": "June Examination",
                 "Type": "Exam",
                 "Weight": 50
             }
@@ -20344,9 +20383,9 @@
               ]
           },
           {
-              "Name": "Main Assignment",
+              "Name": "PMG Main Assignment",
               "Type": "Assignment",
-              "DueDateComment": "26 August 2024 - 30 August 2024",
+              "DueDate": "2024-08-26",
               "Weight": 20
           },
           {
@@ -23029,13 +23068,13 @@
             "Equal": true,
             "Subitems": [
                 {
-                    "Name": "Portfolio 1"
+                    "Name": "Individual Portfolio"
                 },
                 {
-                    "Name": "Portfolio 2"
+                    "Name": "Group Portfolio 1"
                 },
                 {
-                    "Name": "Portifolio 3"
+                    "Name": "Group Portifolio 2"
                 }
             ]
         },
@@ -23138,7 +23177,7 @@
                     "Name": "Tutorials"
                 },
                 {
-                    "Name": "Online assessments / Quizzes"
+                    "Name": "Online Assessments/Quizzes"
                 }
             ]
         },
@@ -27717,18 +27756,6 @@
       "Period": [
           2
       ],
-      "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 40
-          },
-          {
-              "Name": "Exam Mark",
-              "Type": "Exam",
-              "Weight": 60
-          }
-      ],
       "Description": "To provide advanced knowledge and skills useful for the \ndevelopment and evaluation of business plans and for solving \nreal-world business problems.  \nContent  Entrepreneurship and the entrepreneurial process; Identification \nof different business models; Creativity and  opportunity \nidentification in business; Introduction to business plans; \nFinancial planning and sources of finance; Networking and \nsupport in business; Resource requirements and legal issues in \nbusiness; Franchising.",
       "Institution": "University of Johannesburg"
   },
@@ -27970,7 +27997,7 @@
       "Assessments": [
           {
             "Name": "Proposal",
-            "Type": "Coursework",
+            "Type": "Assignment",
             "Weight": 30
           },
           {
@@ -28576,10 +28603,10 @@
               "Equal": true,
               "Subitems": [
                 {
-                    "Name": "Test 1"
+                    "Name": "Semester Test 1"
                 },
                 {
-                    "Name": "Test 2"
+                    "Name": "Semester Test 2"
                 }
               ]
           },
@@ -28590,13 +28617,13 @@
               "Equal": true,
               "Subitems": [
                 {
-                    "Name": "Labs 1"
+                    "Name": "Practical Labs 1"
                 },
                 {
-                    "Name": "Labs 2"
+                    "Name": "Practical Labs 2"
                 },
                 {
-                    "Name": "Labs 3"
+                    "Name": "Practical Labs 3"
                 }
               ]
           }
@@ -28906,7 +28933,7 @@
               ]
           },
           {
-              "Name": "Assignment",
+              "Name": "Individual Assignment",
               "Type": "Assignment",
               "Weight": 30
           }
@@ -31259,17 +31286,12 @@
               "Name": "Formal Tests",
               "Type": "Test",
               "Weight": 60,
-              "Best": 2,
-              "Equal": true,
               "Subitems": [
                 {
                     "Name": "Test 1"
                 },
                 {
                     "Name": "Test 2"
-                },
-                {
-                    "Name": "Test 3"
                 }
               ]
           },
@@ -31279,7 +31301,7 @@
               "Weight": 30
           },
           {
-              "Name": "LAB: Arduino Kit",
+              "Name": "Final Lab Practical",
               "Type": "Practical",
               "Weight": 10
           }
@@ -31315,7 +31337,7 @@
               ]
           },
           {
-              "Name": "Assignment",
+              "Name": "Individual Assignment",
               "Type": "Assignment",
               "Weight": 30
           },
@@ -32537,16 +32559,20 @@
           2
       ],
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 40
-          },
-          {
-              "Name": "Exam Mark",
-              "Type": "Exam",
-              "Weight": 60
-          }
+        {
+            "Name": "Tests",
+            "Type": "Test",
+            "Weight": 70,
+            "Subitems": [
+                {"Name": "Semester Test 1"},
+                {"Name": "Semester Test 2"}
+            ]
+        },
+        {
+            "Name": "Group Assignment",
+            "Type": "Assignment",
+            "Weight": 30
+        }
       ],
       "Prerequisite": {
           "Code": "AUTMIB2"
@@ -37071,16 +37097,25 @@
           2
       ],
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 50
-          },
-          {
-              "Name": "Exam Mark",
-              "Type": "Exam",
-              "Weight": 50
-          }
+        {
+            "Name": "Online Semester Tests",
+            "Type": "Test",
+            "Weight": 70,
+            "Subitems": [
+                {"Name": "Online Semester Test 1"},
+                {"Name": "Online Semester Test 2"}
+            ]
+        },
+        {
+            "Name": "Continuous Assessments",
+            "Type": "Assessment",
+            "Weight": 10
+        },
+        {
+            "Name": "Group Project",
+            "Type": "Exam",
+            "Weight": 20
+        }
       ],
       "Description": "It provides the learner with a wide range of theoretical and \nsome practical knowledge in the field of project management.  \nContent  \nIntroduction to generic project management including project \ndefinition, life cycle, management functions, project constraints, \nterminology and general education and ethical issues;  project \ninitiation including project proposal and scoping, statement of \nwork, selection, organisation and administration, communication \nand negotiation;  project implementation including planning, \nfinancing, scheduling, resourcing, monitoring and control;  \nproject termination including auditing, termination and reporting;  \nlatest developments in project management including future \nconsiderations, impacts on private and public sector, \ndemographics, information technology, and career paths of the \nproject manager.",
       "Institution": "University of Johannesburg"
@@ -42353,25 +42388,25 @@
       "Year": 1,
       "Assessments": [
         {
-            "Name": "Summative",
-            "Type": "Summative",
+            "Name": "Summative Assignments",
+            "Type": "Assignment",
             "Weight": 100,
             "Equal": false,
             "Subitems": [
                 {
-                    "Name": "Summative 1",
+                    "Name": "Summative Assignment 1",
                     "Weight": 15
                 },
                 {
-                    "Name": "Summative 2",
+                    "Name": "Summative Assignment 2",
                     "Weight": 35
                 },
                 {
-                    "Name": "Summative 3",
+                    "Name": "Summative Assignment 3",
                     "Weight": 15
                 },
                 {
-                    "Name": "Summative 4",
+                    "Name": "Summative Assignment 4",
                     "Weight": 35
                 }
             ]
@@ -42389,28 +42424,28 @@
       "Description": "The module introduces policy and practice of development.",
       "Assessments": [
         {
-            "Name": "Summative",
-            "Type": "Summative",
+            "Name": "Assignments",
+            "Type": "Assignment",
             "Weight": 100,
             "Equal": false,
             "Subitems": [
                 {
-                    "Name": "Summative 1",
+                    "Name": "Summative Assignment 1",
                     "Weight": 15,
                     "DueDate": "2024-07-27"
                 },
                 {
-                    "Name": "Summative 2",
+                    "Name": "Summative Assignment 2",
                     "Weight": 35,
                     "DueDate": "2024-08-10"
                 },
                 {
-                    "Name": "Summative 3",
+                    "Name": "Summative Assignment 3",
                     "Weight": 15,
                     "DueDate": "2024-09-22"
                 },
                 {
-                    "Name": "Summative 4",
+                    "Name": "Summative Assignment 4",
                     "Weight": 35,
                     "DueDate": "2024-10-06"
                 }
@@ -42609,7 +42644,7 @@
       "Assessments": [
         {
             "Name": "Continuous Assessments",
-            "Type": "Coursework",
+            "Type": "Assessment",
             "Weight": 90,
             "Subitems": [
                 {
@@ -42623,7 +42658,7 @@
                   "Weight": 15
                 },
                 {
-                  "Name": "Quiz 3",
+                  "Name": "Assessment 3",
                   "DueDate": "2024-04-26",
                   "Weight": 15
                 },
@@ -47680,17 +47715,53 @@
           ]
       },
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100,
-              "Equal": false,
-              "Subitems": [
-                  {
-                      "Name": "Practical Assessments"
-                  }
-              ]
-          }
+        {
+            "Name": "Semester Tests",
+            "Type": "Test",
+            "Weight": 25,
+            "Subitems": [
+                {"Name": "Semester Test 1", "Weight": 10},
+                {"Name": "Semester Test 2", "Weight": 15}
+            ]
+        },
+        {
+            "Name": "Practical Reports",
+            "Type": "Practical",
+            "Weight": 10,
+            "Subitems": [
+                {"Name": "Practical Report 1"},
+                {"Name": "Practical Report 2"},
+                {"Name": "Practical Report 3"},
+                {"Name": "Practical Report 4"},
+                {"Name": "Practical Report 5"},
+                {"Name": "Practical Report 6"},
+                {"Name": "Practical Report 7"},
+                {"Name": "Practical Report 8"},
+                {"Name": "Practical Report 9"},
+                {"Name": "Practical Report 10"},
+                {"Name": "Practical Report 11"}
+            ]
+        },
+        {
+            "Name": "Class Tests",
+            "Type": "Test",
+            "Weight": 15,
+            "Subitems": [
+                {"Name": "Class Test 1"},
+                {"Name": "Class Test 2"},
+                {"Name": "Class Test 3"},
+                {"Name": "Class Test 4"},
+                {"Name": "Class Test 5"},
+                {"Name": "Class Test 6"},
+                {"Name": "Class Test 7"},
+                {"Name": "Class Test 8"}
+            ]
+        },
+        {
+            "Name": "Final Examination",
+            "Type": "Exam",
+            "Weight": 50
+        }
       ]
   },
   {
@@ -47742,16 +47813,46 @@
           ]
       },
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 60
-          },
-          {
-              "Name": "Exam Mark",
-              "Type": "Exam",
-              "Weight": 40
-          }
+        {
+            "Name": "Class Tests and Assignments",
+            "Type": "Assessment",
+            "Weight": 15,
+            "Subitems": [
+                {"Name": "Quiz 1"},
+                {"Name": "Quiz 2"}
+            ]
+        },
+        {
+            "Name": "Semester Tests",
+            "Type": "Test",
+            "Weight": 20,
+            "Subitems": [
+                {"Name": "Semester Test 1"},
+                {"Name": "Semester Test 2"}
+            ]
+        },
+        {
+            "Name": "Assignments",
+            "Type": "Assignment",
+            "Weight": 7.5
+        },
+        {
+            "Name": "Practicals",
+            "Type": "Practical",
+            "Weight": 7.5,
+            "Subitems": [
+                {"Name": "Practical Report 1", "Weight": 1.3125},
+                {"Name": "Practical Report 2", "Weight": 1.3125},
+                {"Name": "Practical Report 3", "Weight": 1.3125},
+                {"Name": "Practical Report 4", "Weight": 1.3125},
+                {"Name": "Practical Test", "Weight": 2.25}
+            ]
+        },
+        {
+            "Name": "Examination",
+            "Type": "Exam",
+            "Weight": 50
+        }
       ],
       "Description": "The purpose of this module as an integral part of the Life and\nEnvironmental Science programme is to provide the student with a\nwell-rounded and broad education that equips them with a theoretical\nand practical knowledge base in plant physiology that could seerve as a\nbasis for entry into postgraduate studies in plant physiology."
   },
@@ -49317,16 +49418,39 @@
           ]
       },
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 50
-          },
-          {
-              "Name": "Exam Mark",
-              "Type": "Exam",
-              "Weight": 50
-          }
+        {
+            "Name": "Class Tests",
+            "Type": "Test",
+            "Weight": 4.5
+        },
+        {
+            "Name": "Assignments",
+            "Type": "Assignment",
+            "Weight": 10.5,
+            "Subitems": [
+                {"Name": "Assignment 1"},
+                {"Name": "Assignment 2"}
+            ]
+        },
+        {
+            "Name": "Semester Tests",
+            "Type": "Test",
+            "Weight": 15,
+            "Subitems": [
+                {"Name": "Semester Test 1"},
+                {"Name": "Semester Test 2"}
+            ]
+        },
+        {
+            "Name": "Practicals",
+            "Type": "Practical",
+            "Weight": 20
+        },
+        {
+            "Name": "Examination",
+            "Type": "Exam",
+            "Weight": 50
+        }
       ],
       "Description": "This module examines environmental problems and sustainable\ndevelopment. During the module students develop an understanding of\nthe physical environment and ecosystems, and a detailed knowledge\nof the major environmental problems and their impacts. It also\nexamines how sustainable development can assist in managing the\nenvironment in a sustainable way. In particular the course focusses on\nenvironmental problems associated with the earth's atmosphere,\nbiodiversity and human activities such as agriculture and mining. It is\nvital that students are aware of the environmental problems that exist\nand ways to manage reduce and mitigate it. The practicals proposed\nfor the course"
   },
@@ -49580,16 +49704,57 @@
           ]
       },
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 50
-          },
-          {
-              "Name": "Exam Mark",
-              "Type": "Exam",
-              "Weight": 50
-          }
+        {
+            "Name": "Class Test - Pedology",
+            "Type": "Test",
+            "Weight": 3
+        },
+        {
+            "Name": "Theory Assignment - Pedology",
+            "Type": "Assignment",
+            "Weight": 4.5
+        },
+        {
+            "Name": "Semester Tests",
+            "Type": "Test",
+            "Weight": 15,
+            "Subitems": [
+                {"Name": "Semester Test 1"},
+                {"Name": "Semester Test 2"}
+            ]
+        },
+        {
+            "Name": "Weekly Class Tests - Biogeography",
+            "Type": "Test",
+            "Weight": 3
+        },
+        {
+            "Name": "Presentation - Biogeography",
+            "Type": "Presentation",
+            "Weight": 4.5
+        },
+        {
+            "Name": "Practicals",
+            "Type": "Practical",
+            "Weight": 20,
+            "Subitems": [
+                {"Name": "Practical Assignment 1"},
+                {"Name": "Practical Assignment 2"},
+                {"Name": "Practical Assignment 3"},
+                {"Name": "Practical Assignment 4"},
+                {"Name": "Practical Assignment 5"},
+                {"Name": "Practical Assignment 6"},
+                {"Name": "Practical Assignment 7"},
+                {"Name": "Practical Assignment 8"},
+                {"Name": "Practical Assignment 9"},
+                {"Name": "Practical Assignment 10"}
+            ]
+        },
+        {
+            "Name": "Examination",
+            "Type": "Exam",
+            "Weight": 50
+        }
       ],
       "Description": "To develop the students' understanding of Soil and Plant geography\nand how these sub-disciplines relate to each other and to humans'\nactivities on Earth. Pedology studies soil forming factors, physical and\nchemical soil formation processes, soil types and classifications, the\nworldwide distribution of soil (and in South Africa) as well as soil\nmanagement principles, including applications of soil science theory to\nimprove agricultural soil. Biogeography instructs the student in the\ndistribution pattern of plants and animals on the surface of the earth,\ntime-space variability patterns and the processes that produce these\npatterns, as well as the structure and functioning of ecosystems."
   },
@@ -49609,12 +49774,30 @@
       },
       "Assessments": [
           {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 50
+              "Name": "Practicals",
+              "Type": "Practical",
+              "Weight": 20
           },
           {
-              "Name": "Exam Mark",
+            "Name": "Economic Geography Assessment",
+            "Type": "Assessment",
+            "Weight": 15,
+            "Subitems": [
+                {"Name": "Assignment 1 - Economic Geography"},
+                {"Name": "Semester Test 1"}
+            ]
+          },
+          {
+            "Name": "Population Geography Assessment",
+            "Type": "Assessment",
+            "Weight": 15,
+            "Subitems": [
+                {"Name": "Written Assignments - Population Geography"},
+                {"Name": "Semester Test 2"}
+            ]
+          },
+          {
+              "Name": "Final Examination",
               "Type": "Exam",
               "Weight": 50
           }
@@ -69797,13 +69980,6 @@
       "Year": 3,
       "Duration": "Year",
       "Institution": "University of Johannesburg",
-      "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
-          }
-      ],
       "Description": "<p>Equips the student by bringing together all the relevant theoretical knowledge learned, and practical clinical skills from attending a wide variety of clinics both on and off campus where students are given responsibility to diagnose, and comprehensively manage both localized and systemic pathologies as they manifest on the lower limb, by means of invasive surgery, pharmacotherap eutics, and by prescription of specialised devices such as orthoses, innersoles and padding. The module provides relevant practical clinical skills in Podiatric Biomechanics, Radiology, Physical examination of a patient, and introduction to advanced Orthotic therapy in the management of foot and lower limb pathologies.</p>",
       "Prerequisite": {
           "$and": [
@@ -69846,24 +70022,23 @@
                   },
                   {
                       "Name": "PPP",
-                      "DueDateComment": "23rd and 24th April",
                       "Weight": 5
                   },
                   {
-                        "Name": "Assessment 3",
-                        "DueDate": "2024-05-14",
-                        "Weight": 20
-                    },
-                    {
-                        "Name": "Assessment 4",
-                        "DueDate": "2024-08-06",
-                        "Weight": 25
-                    },
-                    {
-                        "Name": "Assessment 6",
-                        "DueDate": "2024-10-15",
-                        "Weight": 30
-                    }
+                      "Name": "Assessment 3",
+                      "DueDate": "2024-05-14",
+                      "Weight": 20
+                  },
+                  {
+                      "Name": "Assessment 4",
+                      "DueDate": "2024-08-06",
+                      "Weight": 25
+                  },
+                  {
+                      "Name": "Assessment 6",
+                      "DueDate": "2024-10-15",
+                      "Weight": 30
+                  }
               ]
           }
       ],
@@ -70018,27 +70193,23 @@
           {
               "Name": "Formal Tests",
               "Type": "Test",
-              "Weight":90,
+              "Weight": 90,
               "Equal": false,
               "Subitems": [
                   {
                       "Name": "Online Test 1",
-                      "DueDateComment": "April 2024",
                       "Weight": 20
                   },
                   {
                       "Name": "Written Test 2",
-                      "DueDateComment": "July 2024",
                       "Weight": 25
                   },
                   {
                       "Name": "Online Test 3",
-                      "DueDateComment": "August 2024",
                       "Weight": 20
                   },
                   {
                       "Name": "Test 4",
-                      "DueDateComment": "October 2024",
                       "Weight": 25
                   }
               ]
@@ -70046,13 +70217,12 @@
           {
             "Name": "Homework 1",
             "Type": "Homework",
-            "DueDateComment": "March 2024",
             "Weight": 2
           },
           {
-              "Name": "Assignment 1",
-              "Type": "Assignment",
-              "Weight": 8
+            "Name": "Assignment 1",
+            "Type": "Assignment",
+            "Weight": 8
           }
       ],
       "Description": "<p>The Pharmacology module introduces the principles of pharmacology and how generic groups of medications may interact with and affect human physiology. This subject requires students to link their understanding of physiology, pathophysiology and podiatric medicine to the prescription and administration of medications. Issues such as the legal requirements surrounding the procurement, use, and storage of medications are also covered. Each of the medications that are commonly prescribed and / or administered by podiatrists is dealt with in significant detail.</p>",
@@ -70127,12 +70297,12 @@
         {
             "Name": "Assignment",
             "Type": "Assignment",
-            "Weight": 10,
-            "DueDateComment": "16 and 18 July 2024"
+            "DueDate": "2024-07-16",
+            "Weight": 10
         },
         {
             "Name": "Vivo",
-            "Type": "Coursework",
+            "Type": "Assessment",
             "Weight": 10,
             "DueDate": "2024-10-11"
         }
@@ -70390,9 +70560,16 @@
       "Institution": "University of Johannesburg",
       "Assessments": [
           {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
+              "Name": "Continuous Assessments",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Subitems": [
+                {"Name": "Assessment 1", "Weight": 12, "DueDate": "2024-03-19"},
+                {"Name": "Assessment 2", "Weight": 18, "DueDate": "2024-05-17"},
+                {"Name": "Assessment 3", "Weight": 20, "DueDate": "2024-06-18"},
+                {"Name": "Assessment 4", "Weight": 28, "DueDate": "2024-08-06"},
+                {"Name": "Assessment 5", "Weight": 22, "DueDate": "2024-10-01"}
+              ]
           }
       ],
       "Description": "<p>The purpose of Podiatric Medicine III is to introduce students to foot and lower limb pathologies due to or as a complication of communicable and non- communicable systemic conditions.</p>",
@@ -75824,7 +76001,14 @@
           {
             "Name": "Tutorial Tests",
             "Type": "Tutorial",
-            "Weight": 7.5
+            "Weight": 7.5,
+            "Subitems": [
+                {"Name": "Tutorial Test 1"},
+                {"Name": "Tutorial Test 2"},
+                {"Name": "Tutorial Test 3"},
+                {"Name": "Tutorial Test 4"},
+                {"Name": "Tutorial Test 5"}
+            ]
           },
           {
             "Name": "Examination",
