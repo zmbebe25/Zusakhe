@@ -12074,26 +12074,60 @@
       "DP": 40,
       "Assessments": [
           {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 40
+              "Name": "Data analysis quizzes (Objective tests)",
+              "Type": "Quiz",
+              "Weight": 5,
+              "Equal":false,
+              "Subitems":[
+                {
+                    "Name": "Quiz 1",
+                    "Weight": 1.5,
+                    "DueDate": "2024-08-11"
+                },
+                {
+                    "Name": "Quiz 2",
+                    "Weight": 2,
+                    "DueDate": "2024-08-31"
+                },
+                {
+                    "Name": "Quiz 3",
+                    "Weight": 1.5,
+                    "DueDate": "2024-10-18"
+                }
+              ]
+          },
+          {
+            "Name": "Semester Test",
+            "Type": "Quiz",
+            "Weight": 10
+          },
+          {
+            "Name": "Excel Assignment",
+            "Type": "Assignment",
+            "Weight": 10
+          },
+          {
+            "Name": "4IR activities",
+            "Type": "Activities",
+            "Weight": 25,
+            "Equal":false,
+            "Subitems":[
+                {
+                    "Name": "Activity 1",
+                    "Type": "Assignment",
+                    "Weight": 10
+                },
+                {
+                    "Name": "Activity 2",
+                    "Type": "Assignment",
+                    "Weight": 15
+                }
+            ]
           },
           {
               "Name": "Examination Mark",
               "Type": "Exam",
-              "Weight": 60
-          }
-      ],
-      "Assessment1": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 60
-          },
-          {
-              "Name": "Examination Mark",
-              "Type": "Exam",
-              "Weight": 40
+              "Weight": 50
           }
       ],
       "Description": "The purpose of this module is to equip students with \n advanced Microsoft Excel skills, and to introduce students to concepts \n and technologies of the Fourth Industrial Revolution (4IR), as they \n relate to business and accounting. OUTCOMES Students should be able \n to: apply the principles of data analysis using intermediate and \n advanced functions in Microsoft Excel, with relevant application to modules \n within this qualification; and discuss 4IR technologies and concepts as \n part of the accountant s toolkit.\n and B; 1A and 1B; 2A and 2B are couplet \n modules The definition of couplet modules is 2 modules in \n a specified year, whereby the second module builds upon the \n first module. The passing mark of each module is usually \n 50%, but a student who did not obtain the required \n 50% in the first module but obtained for this module \n a minimum mark of 40% in the last assessment opportunity \n (exam) and a final mark of at least 40%, will \n be granted entry to the second module. To obtain credit \n for 486both modules, the second module must be passed and \n an average of 50% for both modules has to be \n obtained by the student. Credit can be obtained for the \n second module if a final mark of 50% is obtained \n for this module, and not an average of 50% for \n both modules. If the first module is repeated while a \n credit has already been obtained for the second module, the \n first module must be passed on its own. A student \n who qualifies for a supplementary assessment on a couplet module \n and obtained a last assessment opportunity mark (exam mark) of \n at least 40% can choose if he/she want to write \n the supplementary or retain credit on the original final mark. \n Should he/she choose to write the supplementary assessment, but fail the module; the highest mark between the original and supplementary assessment mark will be used to retain the credit.",
@@ -26034,11 +26068,36 @@
           2
       ],
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
-          }
+        {
+            "Name": "Semetser Tests",
+            "Type": "Test",
+            "Weight": 30,
+            "Equal": true,
+            "Subitems": [
+                {
+                    "Name": "Test 1",
+                    "Weight": 20,
+                    "DueDate":"2024-08-27"
+                },
+                {
+                    "Name": "Test 2",
+                    "Weight": 20,
+                    "DueDate":"2024-10-22"
+                }
+            ]
+        },
+        {
+            "Name": "Assignment 1",
+            "Type": "Assignment",
+            "Weight": 20,
+            "DueDate": "2024-09-17"
+        },
+        {
+            "Name": "Project",
+            "Type": "Project",
+            "Weight": 50,
+            "DueDate": "2024-11-28"
+        }
       ],
       "Prerequisite": {
           "Code": "CDRCIA1"
@@ -33187,9 +33246,14 @@
       ],
       "Assessments": [
           {
-            "Name": "Coursework",
-            "Type": "Coursework",
-            "Weight": 50
+            "Name": "Semester Tests",
+            "Type": "Test",
+            "Weight": 30
+          },
+          {
+            "Name": "WebWork Assignments, quizzes, etc)",
+            "Type": "Assignment",
+            "Weight": 20
           },
           {
             "Name": "Examination",
@@ -35860,6 +35924,82 @@
       "NQF": 6,
       "Credit": 30,
       "Duration": "Semester",
+      "Assessments":[
+        {
+            "Name": "Outcome A",
+            "Type": "Assessment",
+            "Weight": 30,
+            "Equal":false,
+            "Subitems":[
+                {
+                    "Name": "Assessment 1 Writing assessment",
+                    "Type": "Assignment",
+                    "Weight": 9
+                },
+                {
+                    "Name": "Practical",
+                    "Type": "Practical",
+                    "Weight": 9
+                },
+                {
+                    "Name": "Assessment 3 Writing assessment",
+                    "Type": "Assignment",
+                    "Weight": 12
+                }
+            ]
+        },
+        {
+            "Name": "Outcome B",
+            "Type": "Assessment",
+            "Weight": 30,
+            "Equal":false,
+            "Subitems":[
+                {
+                    "Name": "Assessment 1 Writing assessment",
+                    "Type": "Assignment",
+                    "Weight": 9
+                },
+                {
+                    "Name": "Practical",
+                    "Type": "Practical",
+                    "Weight": 9
+                },
+                {
+                    "Name": "Assessment 3 Writing assessment",
+                    "Type": "Assignment",
+                    "Weight": 12
+                }
+            ]
+        },
+        {
+            "Name": "Outcome C",
+            "Type": "Assessment",
+            "Weight": 30,
+            "Equal":false,
+            "Subitems":[
+                {
+                    "Name": "Assessment 1 Writing assessment",
+                    "Type": "Assignment",
+                    "Weight": 9
+                },
+                {
+                    "Name": "Practical",
+                    "Type": "Practical",
+                    "Weight": 9
+                },
+                {
+                    "Name": "Assessment 3 Writing assessment",
+                    "Type": "Assignment",
+                    "Weight": 12
+                }
+            ]
+        },
+        {
+            "Name": "Tutorial Tests Outcome D",
+            "Type": "Test",
+            "Weight": 10
+        }
+      ],
       "Period": [
           1
       ],
@@ -37440,11 +37580,39 @@
           2
       ],
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
-          }
+        {
+            "Name": "Semetser Tests",
+            "Type": "Test",
+            "Weight": 80,
+            "Equal": true,
+            "Subitems": [
+                {
+                    "Name": "Test 1",
+                    "Weight": 20,
+                    "DueDate":"2024-08-12"
+                },
+                {
+                    "Name": "Test 2",
+                    "Weight": 20,
+                    "DueDate":"2024-09-09"
+                },
+                {
+                    "Name": "Test 3",
+                    "Weight": 20,
+                    "DueDate":"2024-10-07"
+                },
+                {
+                    "Name": "Test 4",
+                    "Weight": 20,
+                    "DueDate":"2024-10-21"
+                }
+            ]
+        },
+        {
+            "Name": "Tutorial Test",
+            "Type": "Test",
+            "Weight": 20
+        }
       ],
       "Prerequisite": {
           "Code": "APMCIA1"
@@ -44048,10 +44216,10 @@
             "Weight": 40,
             "Subitems": [
                 {
-                    "Name": "Test 1"
+                    "Name": "Term 1 Test 1"
                 },
                 {
-                    "Name": "Test 2",
+                    "Name": "Term 2 Test 2",
                     "DueDate": "2024-05-03"
                 }
             ]
@@ -44062,10 +44230,10 @@
             "Weight": 50,
             "Subitems": [
                 {
-                    "Name": "Assignment 1"
+                    "Name": "Term 1 Assignment 1"
                 },
                 {
-                    "Name": "Assignment 2",
+                    "Name": "Term 2 Assignment 2",
                     "DueDate": "2024-05-31"
                 }
             ]
@@ -44451,9 +44619,19 @@
       "Description": "To equip the student to analyse the use of traditional and digital media in public relations critically.",
       "Assessments": [
           {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
+            "Name": "Continuous in-class assessments, critical reflections, attendance and exercises",
+            "Type": "Coursework",
+            "Weight": 40
+          },
+          {
+            "Name": "Tutorial attendance and exercises",
+            "Type": "Coursework",
+            "Weight": 20
+          },
+          {
+            "Name": "Final assessment",
+            "Type": "Coursework",
+            "Weight": 40
           }
       ],
       "Institution": "University of Johannesburg",
@@ -44469,12 +44647,30 @@
       "Credit": 16,
       "Description": "To equip students to write and produce media content for traditional and digital media platforms.",
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
-          }
-      ],
+        {
+            "Name": "Continuous in-class tutorial reflections, class attendance, and exercises",
+            "Type": "Assignment",
+            "Weight": 15
+        },
+        {
+            "Name": "TikTok Resume",
+            "Type": "Resume",
+            "Weight": 25,
+            "DueDate": "2024-08-25"
+        },
+        {
+            "Name": "De-influencer TikTok",
+            "Type": "Assignment",
+            "Weight": 25,
+            "DueDate": "2024-09-27"
+        },
+        {
+            "Name": "In-class test",
+            "Type": "Test",
+            "Weight": 35,
+            "DueDate": "2024-09-19"
+        }
+    ],
       "Institution": "University of Johannesburg",
       "Period": [
           2
@@ -44539,6 +44735,60 @@
       "Duration": "Semester"
   },
   {
+      "Name": "COMMUNICATION MANAGEMENT 2 EXTENDED",
+      "Code": "COMEXY2",
+      "NQF": 5,
+      "Assessments": [
+          {
+              "Name": "Individual Assignments (Tutorial activities)",
+              "Type": "Assignment",
+              "Weight": 30,
+              "Equal":false,
+              "Subitems":[
+                {
+                    "Name": "Activity 1.1",
+                    "Weight": 5
+                },
+                {
+                    "Name": "Activity 2.1",
+                    "Weight": 7.5
+                },
+                {
+                    "Name": "Term Test",
+                    "Weight": 12.5
+                },
+                {
+                    "Name": "Activity 2.2",
+                    "Weight": 5
+                }
+              ]
+          },
+          {
+            "Name": "Group Assignment",
+            "Type": "Assignment",
+            "Weight": 20,
+            "Equal":false,
+            "Subitems":[
+                {
+                    "Name": "Activity 1.3",
+                    "Weight": 7.5
+                },
+                {
+                    "Name": "Activity 2.3",
+                    "Weight": 12.5
+                }
+            ]
+          },
+          {
+            "Name": "Exam",
+            "Type": "Exam",
+            "Weight": 50
+          }
+      ],
+      "Institution": "University of Johannesburg",
+      "Duration": "Year"
+  },
+  {
       "Name": "Professional Practice 1",
       "Code": "PPR1001",
       "NQF": 5,
@@ -44548,12 +44798,126 @@
           {
               "Name": "Full Period Mark Weight",
               "Type": "Coursework",
-              "Weight": 100
+              "Weight": 100,
+              "Equal":false,
+              "Subitems":[
+                {
+                    "Name": "Group brochure",
+                    "Weight": 10
+                },
+                {
+                    "Name": "Individual personal brand audit",
+                    "Weight": 10
+                },
+                {
+                    "Name": "Infographic",
+                    "Weight": 20
+                },
+                {
+                    "Name": "Personal brand mantra, vision and goals",
+                    "Weight": 20
+                },
+                {
+                    "Name": "Quiz",
+                    "Weight": 10
+                },
+                {
+                    "Name": "Reflection and final portfolio",
+                    "Weight": 30
+                }
+              ] 
           }
       ],
       "Institution": "University of Johannesburg",
       "Duration": "Year"
   },
+  {
+    "Name": "PUBLIC RELATIONS 2 EXT",
+    "Code": "PRLEXY2",
+    "NQF": 5,
+    "Assessments": [
+        {
+            "Name": "Individual Assignment",
+            "Type": "Assignment",
+            "Weight": 42,
+            "Equal":false,
+            "Subitems":[
+              {
+                "Name": "Semester 1 Assignment 1",
+                "Weight": 5
+              },
+              {
+                "Name": "Semester 1 Assignment 2",
+                "Weight": 12.5,
+                "DueDate": "2024-03-23"
+              },
+              {
+                "Name": "Semester 1 Assignment 4",
+                "Weight": 7.5,
+                "DueDate": "2024-05-04"
+              },
+              {
+                "Name": "Semester 1 Assignment 5",
+                "Weight": 5
+              },
+              {
+                "Name": "Semester 2 Assignment 6",
+                "Weight": 2  
+              },
+              {
+                "Name": "Semester 2 Assignment 7",
+                "Weight": 5
+              },
+              {
+                "Name": "Semester 2 Assignment 9",
+                "Weight": 5
+              }
+            ]
+        },
+        {
+            "Name": "Semester 2 Assignment 10",
+            "Type": "Summative Assessment",
+            "Weight": 30
+        },
+        {
+          "Name": "Group Assignments",
+          "Type": "Assignment",
+          "Weight": 28,
+          "Equal":false,
+          "Subitems":[
+              {
+                "Name": "Semester 1 Assignment 1",
+                "Weight": 7.5,
+                "DueDate":"2024-03-16"
+              },
+              {
+                "Name": "Semester 1 Assignment 2",
+                "Weight":2.5,
+                "DueDate": "2024-05-11"
+              },
+              {
+                "Name": "Semester 1 Assignment 3",
+                "Weight": 10,
+                "DueDate": "2024-05-18"
+              },
+              {
+                "Name": "Semester 2 Assignment 1",
+                "Weight": 3
+              },
+              {
+                "Name": "Semester 2 Assignment 2",
+                "Weight": 2
+              },
+              {
+                "Name": "Semester 2 Assignment 3",
+                "Weight": 3
+              }
+          ]
+        }
+    ],
+    "Institution": "University of Johannesburg",
+    "Duration": "Year"
+},
   {
       "Name": "Professional Practice 2",
       "Code": "PPR2002",
@@ -67405,11 +67769,59 @@
           1
       ],
       "Institution": "University of Johannesburg",
-      "Assessments": [
+"Assessments": [
           {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
+              "Name": "Practical assessment",
+              "Type": "Practical",
+              "Weight": 12.5,
+              "DueDate": "2024-03-12"
+          },
+          {
+            "Name": "Portfolios",
+            "Type": "Portfolio",
+            "Weight": 20,
+            "Equal":true,
+            "Subitems":[
+                {
+                    "Name": "Portfolio 1"
+                },
+                {
+                    "Name": "Portfolio 2",
+                    "DueDate": "2024-13-12"
+                }
+            ]
+          },
+          {
+            "Name": "Coursework",
+            "Equal":false,
+            "Weight": 67.5,
+            "Subitems":[
+                {
+                    "Name": "Theory",
+                    "Weight": 12.5,
+                    "DueDate": "2024-04-12"
+                },
+                {
+                    "Type": "Theory",
+                    "Weight": 15,
+                    "DueDate": "2024-05-24"
+                  },
+                  {
+                    "Type": "Theory",
+                    "Weight": 12.5,
+                    "DueDate": "2024-06-12"
+                  },
+                  {
+                    "Type": "Theory",
+                    "Weight": 15,
+                    "DueDate": "2024-08-30"
+                  },
+                  {
+                    "Type": "Theory",
+                    "Weight": 12.5,
+                    "DueDate": "2024-10-11"
+                  }
+            ]
           }
       ],
       "Description": "<p>The purpose of the module is to introduce the students to human anatomy, to equip students with knowledge of the composition of the body, the structure of cells, tissues, joints and muscles of the body. They will understand the micro anatomy of the cells and tissues; the classification, microanatomy, macro anatomy of the skeleton as well as the joints and muscles. Introduce the students to the central, peripheral and autonomic nervous systems, the special sense organs and the endocrine glands, to equip students with knowledge of the, the structure of neural tissue, the brain, cranial nerves and plexuses, the sympathetic and parasympathetic nervous systems as well as the nose, eye, tongue and ear. They will understand the gross and micro anatomy of all the organs and structures. The students will be able to articulate and apply the knowledge to the content of the other modules. This will enable the student to maximize the healthcare of the South African population.</p>",
@@ -67446,12 +67858,36 @@
       ],
       "Institution": "University of Johannesburg",
       "Assessments": [
+        {
+            "Name": "THEORY AND PRACTICAL",
+            "Weight": 50,
+            "Equal":false,
+            "Subitems":[
+              {
+                  "Name": "Assessment 1",
+                  "Weight": 10
+              },
+              {
+                  "Name": "Assessment 2",
+                  "Weight": 10
+              },
+              {
+                  "Name": "Assessment 3",
+                  "Weight": 22.5
+              },
+              {
+                "Name": "Group Assignment",
+                "Type": "Assignment",
+                "Weight": 7.5
+                }
+            ]
+        },
           {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
+              "Name": "Exam",
+              "Type": "Exam",
+              "Weight": 50
           }
-      ],
+    ],
       "Description": "<p>The purpose of the module is to develop a competent student with appropriate knowledge, skills and attitudes needed, the application of the nursing process, within the professional, legal-ethical framework to promote, restore and maintain the health of individuals, families, groups and communities during their training as caring professionals. To provide a range of comprehensive individualized, culturally sensitive care, in line with de- colonization, to individuals, families, groups and communities. Best care practice nursing which is based on evidence- based nursing to promote, to prevent, to cure, rehabilitation and referral diseases and conditions related to lifestyle and burden of diseases. This will enable the student to maximize the healthcare of the South African population.</p>",
       "Name": "Fundamental Nursing Science 1A"
   },
@@ -67560,9 +67996,30 @@
       },
       "Assessments": [
           {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
+              "Name": "Tests",
+              "Type": "Test",
+              "Weight": 65,
+              "Equal":false,
+              "Subitems":[
+                {
+                    "Name": "Test 1",
+                    "Weight": 30
+                },
+                {
+                    "Name": "Test 2",
+                    "Weight": 35
+                }
+              ]
+          },
+          {
+            "Name": "Assessment 1",
+            "Type": "Assessment",
+            "Weight": 20
+          },
+          {
+            "Name": "Group presentation",
+            "Type": "Presentation",
+            "Weight": 15
           }
       ],
       "Description": "<p>The purpose of the module is to develop a competent medical- surgical student with appropriate knowledge, skills and attitudes needed, the application of the nursing process, within the professional, legal-ethical framework to promote, restore and maintain the health of individuals, families, groups and communities during their training as caring professionals. To provide a range of comprehensive individualised, culturally sensitive care, in line with de - colonization, to individuals, families, groups and communities. Best care practice nursing which is based on evidence - based nursing to promote, to prevent, to cure, rehabilitation and referral diseases and conditions related to lifestyle and burden of diseases. This will enable the student to maximize the healthcare of the South African population</p>",
@@ -67580,9 +68037,33 @@
       "Institution": "University of Johannesburg",
       "Assessments": [
           {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
+            "Name": "ParticipationS",
+            "Type": "Participation",
+            "Weight": 10
+          },
+          {
+            "Name": "Presentation",
+            "Type": "Presentation",
+            "Weight": 20,
+            "DueDate":"2024-08-27"
+          },
+          {
+            "Name": "Assignment",
+            "Type": "Assignment",
+            "Weight": 10,
+            "DueDate":"2024-09-10"
+          },
+          {
+            "Name": "Test- Written",
+            "Type": "Test",
+            "Weight": 20,
+            "DueDate":"2024-09-17"
+          },
+          {
+            "Name": "Semester Mark",
+            "Type": "Coursework",
+            "Weight": 40,
+            "DueDate":"2024-10-25"
           }
       ],
       "Prerequisite": {
@@ -67899,13 +68380,70 @@
           1
       ],
       "Institution": "University of Johannesburg",
-      "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
-          }
-      ],
+"Assessments": [
+        {
+            "Name": "Practicals",
+            "Type": "Practicals",
+            "Weight": 5
+        },
+        {
+            "Name": "Assignments",
+            "Type": "Assignment",
+            "Weight": 5,
+            "DueDate": "2024-05-08"
+        },
+        {
+            "Name": "MCQ Assessment",
+            "Type": "MCQ",
+            "Weight": 15,
+            "Equal":false,
+            "Subitems":[
+              {
+                  "Name": "MCQ 1",
+                  "Weight": 4,
+                  "DueDate": "2024-03-04"
+              },
+              {
+                  "Name": "MCQ 2",
+                  "Weight": 3.5,
+                  "DueDate": "2024-04-18"
+              },
+              {
+                  "Name": "MCQ 3",
+                  "Weight": 4,
+                  "DueDate": "2024-04-29"
+              },
+              {
+                "Name": "MCQ 4",
+                "Weight": 3.5,
+                "DueDate": "2024-06-12"
+                }
+            ]
+        },
+        {
+            "Name": "Term Tests",
+            "Type": "Test",
+            "Equal":false,
+            "Weight": 25,
+            "Subitems":[
+                {
+                    "Name": "erm Test 1",
+                    "Weight": 10,
+                    "DueDate": "2024-04-15"
+                },
+                {
+                    "Name": "erm Test 2",
+                    "Weight": 15,
+                    "DueDate": "2024-05-27"
+                }
+            ]
+        },
+        {
+              "Name": "Exam",
+              "Type": "Exam",
+              "Weight": 50
+        }
+    ],
       "Description": "<p>The purpose of the module is to enable the student to explain histological and functional aspects of the endocrine, cardiovascular (with special reference to blood test, cardiac cycle and blood circulation). They will also be able to identify specific microscopic examples of the endocrine system and to explain functional aspects thereof. They will also be able to use his/her knowledge of the lymphatic system to explain non -specific defence mechanisms of the body and refer to basic concepts of immunity. This module further enables the student to explain histological and functional aspects of the respiratory, digestive and urinary systems, and the basic principles of the pulmonary ventilation and the formation of urine. He/she will also be able to discuss histological and functional adaptations of the male and female reproductive systems, oogenesis, spermatogenesis, the process of fertilisation, pregnancy, parturition and foetal circulation and changes that take place after birth.</p>",
       "Name": "Physiology 1A"
   },
@@ -67983,44 +68521,51 @@
       "Year": 3,
       "Institution": "University of Johannesburg",
       "Assessments":[
-                      {
-                      "Name": "Tasks",
+                    {
+                      "Name": "Research Tasks",
                       "Type": "Task",
                       "Equal": true,
                       "Weight": 20,
                       "Subitems": [
                           {
                             "Name": "Task 1",
+                            "Weight": 5,
                             "DueDate": "2024-04-20"
                           },
                           {
                             "Name": "Task 2",
+                            "Weight": 5,
                             "DueDate": "2024-08-22"
+                          },
+                          {
+                            "Name": "Task 3",
+                            "Weight": 10,
+                            "DueDate": "2024-10-28"
                           }
                       ]
+                    },
+                    {
+                      "Name": "Semester Test",
+                      "Type": "Test",
+                      "Weight": 15,
+                      "DueDate": "2024-05-02"
                   },
                   {
-                      "Name": "Semester Test 1",
-                      "Type": "Test",
-                      "Weight": 20,
-                      "DueDate": "2024-05-02"
+                    "Name": "Class Test",
+                    "Type": "Test",
+                    "Weight": 10,
+                    "DueDate": "2024-05-02"
                   },
                   {
                       "Name": "Journal Club Presentation",
                       "Type": "Presentation",
-                      "Weight": 10,
+                      "Weight": 5,
                       "DueDate": "2024-09-30"
-                  },
-                  {
-                      "Name": "Research Proposal",
-                      "Type": "Proposal",
-                      "Weight": 20,
-                      "DueDate": "2024-10-28"
                   },
                   {
                       "Name": "Examination",
                       "Type": "Exam",
-                      "Weight": 30,
+                      "Weight": 50,
                       "DueDate": "2024-10-21"
                   }
               ],
