@@ -15891,23 +15891,33 @@
       "DP": 40,
       "Assessments": [
         {
-            "Name": "Assessment Opportunity",
+            "Name": "Unit Tasks",
             "Type": "Assessment",
-            "Weight": 90,
-            "Equal": true,
+            "Weight": 25,
             "Subitems": [
-                {
-                    "Name": "Assessment Opportunity 1"
-                },
-                {
-                    "Name": "Assessment Opportunity 2"
-                }
+                {"Name": "Unit Task 1"},
+                {"Name": "Unit Task 2"},
+                {"Name": "Unit Task 3"},
+                {"Name": "Unit Task 4"},
+                {"Name": "Unit Task 5"},
+                {"Name": "Unit Task 6"},
+                {"Name": "Unit Task 7"},
+                {"Name": "Unit Task 8"}
             ]
         },
         {
-            "Name": "Module Tasks",
-            "Type": "Task",
-            "Weight": 10
+            "Name": "Assessment Tasks",
+            "Type": "Test",
+            "Weight": 25,
+            "Subitems": [
+                {"Name": "Assessment Task 1", "DueDate": "2024-03-14"},
+                {"Name": "Assessment Task 2", "DueDate":"2024-04-28"}
+            ]
+        },
+        {
+            "Name": "Final Assessment",
+            "Type": "Exam",
+            "Weight": 50
         }
       ],
       "Description": "The purpose of this module is to provide the student \n with a basic, yet applicative knowledge of fundamental concepts of \n finance, and where each of these concepts fits into the \n financial management function. 555OUTCOMES Students should be able to: identify \n the basic types of financial management decisions and relate them \n to the role of the financial manager; perform and interpret \n advanced time value of money calculations; explain and perform advanced \n working capital management calculations; explain and calculate financial statement ratios; \n analyse and interpret working capital management ratios; explain the concepts \n of risk, business risk, financial risk and uncertainty as well \n as calculate and interpret basic probabilities; explain diversification and the \n Capital Asset Pricing Model (CAPM) within financial management; differentiate between \n basic debt instruments; calculate and interpret the cost of capital \n of an organisation; discuss alternative sources of financing; and perform equity valuation calculations relating to the dividend valuation and dividend growth model.",
@@ -15927,28 +15937,35 @@
       "Credit": 16,
       "DP": 40,
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 40
-          },
-          {
-              "Name": "Examination Mark",
-              "Type": "Exam",
-              "Weight": 60
-          }
-      ],
-      "Assessment1": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 60
-          },
-          {
-              "Name": "Examination Mark",
-              "Type": "Exam",
-              "Weight": 40
-          }
+        {
+            "Name": "Unit Tasks",
+            "Type": "Assessment",
+            "Weight": 25,
+            "Subitems": [
+                {"Name": "Unit Task 1"},
+                {"Name": "Unit Task 2"},
+                {"Name": "Unit Task 3"},
+                {"Name": "Unit Task 4"},
+                {"Name": "Unit Task 5"},
+                {"Name": "Unit Task 6"},
+                {"Name": "Unit Task 7"},
+                {"Name": "Unit Task 8"}
+            ]
+        },
+        {
+            "Name": "Assessment Tasks",
+            "Type": "Test",
+            "Weight": 25,
+            "Subitems": [
+                {"Name": "Assessment Task 1", "DueDate": "2024-03-14"},
+                {"Name": "Assessment Task 2", "DueDate":"2024-04-28"}
+            ]
+        },
+        {
+            "Name": "Final Assessment",
+            "Type": "Exam",
+            "Weight": 50
+        }
       ],
       "Description": "The purpose of this module is to provide the student \n with a basic, yet applicative knowledge of fundamental concepts of \n finance, and where each of these concepts fits into the \n financial management function. OUTCOMES Students should be able to: identify \n the basic types of financial management decisions and relate them \n to the role of the financial manager; perform and interpret \n advanced time value of money calculations; explain and perform advanced \n working capital management calculations; explain and calculate financial statement ratios; \n 556 analyse and interpret working capital management ratios; explain the \n concepts of risk, business risk, financial risk and uncertainty as \n well as calculate and interpret basic probabilities; explain diversification and \n the Capital Asset Pricing Model (CAPM) within financial management; differentiate \n between basic debt instruments; calculate and interpret the cost of \n capital of an organisation; discuss alternative sources of financing; and perform equity valuation calculations relating to the dividend valuation and dividend growth model.",
       "Prerequisite": {
@@ -61340,43 +61357,43 @@
       "Description": "<p>A student can be deemed competent if: &bull; Concepts to understand the following; Abnormal Behavior, Psychological and behavioral disorders: personality disorders, eating disorders, mood disorders, anxiety disorders, schizophrenia, substance abuse and addictions, somatoform and dissociative disorders, cognitive disorders, attention- deficit/hyperactivity disorder (ADHD), conduct problems (CP), sleep disorders, elimination disorders and chronic illness can be applied. &bull; Legal and Ethical Issues in Abnormal Psychology, Clinical Assessment and Diagnosis, Developmental &amp; Learning Disorders, Child Maltreatment and Non -accidental trauma can be explained and applied in the clinical environment. &bull; The contextualization of an Integrative Approach to Abnormal Child Psychology and counselling skills are understood and an overview can be given and applied as applicable.</p>",
       "Assessments":[
                       {
-                      "Name": "PORTFOLIOS",
-                      "Type": "PORTFOLIO",
+                      "Name": "Portfolios",
+                      "Type": "Portfolio",
                       "Equal": true,
                       "Weight": 30,
                       "Subitems": [
                           {
-                            "Name": "PORTFOLIO ACTIVITY 1",
+                            "Name": "Portfolio Activity 1",
                             "DueDate": "2024-03-02"
                           },
                           {
-                            "Name": "PORTFOLIO ACTIVITY 2",
+                            "Name": "Portfolio Activity 2",
                             "DueDate": "2024-03-14"
                           },
                           {
-                            "Name": "PORTFOLIO ACTIVITY 3",
+                            "Name": "Portfolio Activity 3",
                             "DueDate": "2024-04-18"
                           },
                           {
-                            "Name": "PORTFOLIO ACTIVITY 4",
+                            "Name": "Portfolio Activity 4",
                             "DueDate": "2024-05-09"
                           }
                       ]
                   },
                   {
-                      "Name": "DIGITAL “CONFERENCE” POSTER",
+                      "Name": "Digital “Conference” Poster",
                       "Type": "Assessment",
                       "Weight": 20,
                       "DueDate": "2024-05-23"
                   },
                   {
-                      "Name": "INFORMATION LEAFLET",
+                      "Name": "Information Leaflet",
                       "Type": "Assessment",
                       "Weight": 30,
                       "DueDate": "2024-08-29"
                   },
                   {
-                      "Name": "CLASS TEST",
+                      "Name": "Class Test",
                       "Type": "Test",
                       "Weight": 20,
                       "DueDate": "2024-10-17"
@@ -61594,11 +61611,36 @@
       "Institution": "University of Johannesburg",
       "Description": "<p>Introduction to Pharmacology as related to health care and management in general.</p>",
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
-          }
+        {
+            "Name": "Tests",
+            "Type": "Test",
+            "Weight": 70,
+            "Equal": false,
+            "Subitems": [
+                {
+                    "Name": "Test 1",
+                    "Weight": 25,
+                    "DueDate": "2024-04-11"
+                },
+                {
+                    "Name": "Test 2",
+                    "Weight": 45,
+                    "DueDate": "2024-06-06"
+                }
+            ]
+        },
+        {
+            "Name": "Assignment",
+            "Type": "Assignment",
+            "Weight": 20,
+            "DueDate": "2024-05-23"
+        },
+        {
+            "Name": "Peer Assessed Practice Questions",
+            "Type": "Assessment",
+            "Weight": 10,
+            "DueDate": "2024-05-30"
+        }
       ],
       "Prerequisite": {
           "Code": "HBDCHY2"
@@ -61920,13 +61962,6 @@
           1
       ],
       "Institution": "University of Johannesburg",
-      "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
-          }
-      ],
       "Description": "<p>The purpose of this module is to enable the student to focus on the assessment of the emergency situation and provision of basic life support and basic first aid in order to stabilise patients prior to transfer to the emergency services or other suitable person or entity; and identify and treat common ailments and injuries within the relevant scope.</p>",
       "Prerequisite": {
           "$and": [
@@ -62326,11 +62361,37 @@
       "Institution": "University of Johannesburg",
       "Description": "<p>The purpose of this module is to provide students with fundamental knowledge associated with human metabolism, introducing an understanding of the importance of nutrition in relation to human physiology and health.</p>",
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
-          }
+        {
+            "Name": "Tests",
+            "Type": "Test",
+            "Weight": 75,
+            "Subitems": [
+                {"Name": "Test 1", "DueDate": "2024-03-18","Weight": 10},
+                {"Name": "Test 2", "DueDate": "2024-05-13","Weight": 30},
+                {"Name": "Test 3", "DueDate": "2024-10-14","Weight": 35}
+            ]
+        },
+        {
+            "Name": "Assignment 1",
+            "Type": "Assignment",
+            "DueDate": "2024-08-26",
+            "Weight": 20
+        },
+        {
+            "Name": "Tutorials",
+            "Type": "Tutorial",
+            "Weight": 5,
+            "Subitems": [
+                {"Name": "Tutorial 1"},
+                {"Name": "Tutorial 2"},
+                {"Name": "Tutorial 3"},
+                {"Name": "Tutorial 4"},
+                {"Name": "Tutorial 5"},
+                {"Name": "Tutorial 6"},
+                {"Name": "Tutorial 7"},
+                {"Name": "Tutorial 8"}
+            ]
+        }
       ],
       "Prerequisite": {
           "$and": [
@@ -62355,56 +62416,51 @@
       "Duration": "Year",
       "Institution": "University of Johannesburg",
       "Description": "<p>The purpose of this module is to provide the student with the knowledge base and theory necessary to have a thorough understanding of the disease process by<br />examining the basic reactions of cells and tissues to the abnormal stimuli that underlie all physical diseases. These fundamental aspects of general pathology are necessary<br />to understand the specific responses of specialised organs and tissues examined in systemic pathology.</p>",
-      "Assessments":[
-                      {
-                      "Name": "Mini Tests",
-                      "Type": "Test",
-                      "Equal": false,
-                      "Weight": 46,
-                      "Subitems": [
-                          {
-                            "Name": "Test 1",
-                            "Weight": 3.5,
-                            "DueDate": "2024-03-19"
-                          },
-                          {
-                            "Name": "Test 2",
-                            "Weight": 3.5,
-                            "DueDate": "2024-04-30"
-                          },
-                          {
-                            "Name": "Test 3",
-                            "Weight": 15,
-                            "DueDate": "2024-06-04"
-                          },
-                          {
-                            "Name": "Test 4",
-                            "Weight": 4.5,
-                            "DueDate": "2024-08-27"
-                          },
-                          {
-                            "Name": "Test 5",
-                            "Weight": 4.5,
-                            "DueDate": "2024-10-22"
-                          },
-                          {
-                            "Name": "Test 6",
-                            "Weight": 15,
-                            "DueDate": "2024-10-29"
-                          }
-                      ]
-                  },
-                  {
-                      "Name": "Cases, tutorials and class work",
-                      "Type": "Assessment",
-                      "Weight": 4
-                  },
-                  {
-                      "Name": "Examination",
-                      "Type": "Exam",
-                      "Weight": 50
-                  }
-              ],
+      "Assessments": [
+        {
+            "Name": "Mini Tests",
+            "Type": "Test",
+            "Equal": false,
+            "Weight": 92,
+            "Subitems": [
+                {
+                "Name": "Test 1",
+                "Weight": 7,
+                "DueDate": "2024-03-19"
+                },
+                {
+                "Name": "Test 2",
+                "Weight": 7,
+                "DueDate": "2024-04-30"
+                },
+                {
+                "Name": "Test 3",
+                "Weight": 30,
+                "DueDate": "2024-06-04"
+                },
+                {
+                "Name": "Test 4",
+                "Weight": 9,
+                "DueDate": "2024-08-27"
+                },
+                {
+                "Name": "Test 5",
+                "Weight": 9,
+                "DueDate": "2024-10-22"
+                },
+                {
+                "Name": "Test 6",
+                "Weight": 30,
+                "DueDate": "2024-10-29"
+                }
+            ]
+        },
+        {
+            "Name": "Cases & Tutorials",
+            "Type": "Assessment",
+            "Weight": 8
+        }
+    ],
       "Prerequisite": {
           "$and": [
               {
@@ -62482,37 +62538,32 @@
           {
               "Name": "Tests",
               "Type": "Test",
-              "Weight": 35,
+              "Weight": 70,
               "Equal": false,
               "Subitems": [
                   {
                       "Name": "Test 1",
-                      "Weight": 12.5,
+                      "Weight": 25,
                       "DueDate": "2024-04-11"
                   },
                   {
                       "Name": "Test 2",
-                      "Weight": 22.5,
-                      "DueDate": "2024-06-13"
+                      "Weight": 45,
+                      "DueDate": "2024-06-06"
                   }
               ]
           },
           {
               "Name": "Assignment",
               "Type": "Assignment",
-              "Weight": 10,
+              "Weight": 20,
               "DueDate": "2024-05-23"
           },
           {
-            "Name": "Peer Assessed Practice Questions",
-            "Type": "Coursework",
-            "Weight": 5,
-            "DueDate": "2024-06-06"
-          },
-          {
-              "Name": "Examination",
-              "Type": "Exam",
-              "Weight": 50
+              "Name": "Peer Assessed Practice Questions",
+              "Type": "Assessment",
+              "Weight": 10,
+              "DueDate": "2024-05-30"
           }
       ],
       "Prerequisite": {
@@ -62569,11 +62620,20 @@
       "Institution": "University of Johannesburg",
       "Description": "<p>The purpose of this module is to provide students with the fundamental branch of chemistry dealing with the chemical processes associated with plant life and the chemical compounds produced by plants.</p>",
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
-          }
+        {
+            "Name": "Tests",
+            "Type": "Test",
+            "Weight": 85,
+            "Subitems": [
+                {"Name": "Test 1", "DueDate": "2024-09-19", "Weight": 40},
+                {"Name": "Test 2", "DueDate": "2024-10-10", "Weight": 45}
+            ]
+        },
+        {
+            "Name": "Tutorials",
+            "Type": "Tutorial",
+            "Weight": 15
+        }
       ],
       "Prerequisite": {
           "$and": [
@@ -62601,35 +62661,31 @@
                       "Name": "Tests",
                       "Type": "Test",
                       "Equal": false,
-                      "Weight": 44.75,
+                      "Weight": 85,
                       "Subitems": [
                           {
                             "Name": "Test 1",
-                            "Weight": 5.25
+                            "Weight": 10
                           },
                           {
                             "Name": "Test 2",
-                            "Weight": 15.8
+                            "Weight": 30
                           },
                           {
                             "Name": "Test 3",
-                            "Weight": 7.9
+                            "Weight": 15
                           },
                           {
                             "Name": "Test 4",
-                            "Weight": 15.8
+                            "Weight": 30
                           }
                       ]
                   },
                   {
-                      "Name": "Portfolio",
+                      "Name": "Portfolio 1",
                       "Type": "Portfolio",
-                      "Weight": 5.25
-                  },
-                  {
-                      "Name": "Examination",
-                      "Type": "Exam",
-                      "Weight": 50
+                      "DueDate": "2024-09-10",
+                      "Weight": 15
                   }
               ],
       "Prerequisite": {
@@ -76162,22 +76218,22 @@
                       "Name": "Theory Tests",
                       "Type": "Test",
                       "Equal": false,
-                      "Weight": 22.5,
+                      "Weight": 45,
                       "Subitems": [
                           {
                             "Name": "Theory Test 1",
                             "DueDate": "2024-04-10",
-                            "Weight": 3.5
+                            "Weight": 7
                           },
                           {
                             "Name": "Theory Test 2",
                             "DueDate": "2024-07-22",
-                            "Weight": 4
+                            "Weight": 8
                           },
                           {
                             "Name": "Theory Test 3",
                             "DueDate": "2024-10-14",
-                            "Weight": 15
+                            "Weight": 30
                           }
                       ]
                   },
@@ -76185,39 +76241,34 @@
                       "Name": "Integrative assessments",
                       "Type": "Assessment",
                       "Equal": true,
-                      "Weight": 22.5,
+                      "Weight": 45,
                       "Subitems": [
                           {
-                            "Name": "Integrative assessment 1",
+                            "Name": "Integrative Assessment 1",
                             "DueDate": "2024-05-15",
-                            "Weight": 3.5
+                            "Weight": 7
                           },
                           {
-                            "Name": "Integrative assessment 2",
+                            "Name": "Integrative Assessment 2",
                             "DueDate": "2024-07-17",
-                            "Weight": 4
+                            "Weight": 8
                           },
                           {
-                            "Name": "Integrative assessment 3",
+                            "Name": "Integrative Assessment 3",
                             "DueDate": "2024-09-18",
-                            "Weight": 5
+                            "Weight": 10
                           },
                           {
-                            "Name": "Integrative assessment 4",
-                            "DueDate": "2024-10-11",
-                            "Weight": 10
+                            "Name": "Integrative Assessment 4",
+                            "DueDate": "2024-11-06",
+                            "Weight": 20
                           }
                       ]
                   },
                   {
                       "Name": "Tutorials",
                       "Type": "Tutorial",
-                      "Weight": 5
-                  },
-                  {
-                      "Name": "Examination",
-                      "Type": "Exam",
-                      "Weight": 50
+                      "Weight": 10
                   }
               ]
   },
