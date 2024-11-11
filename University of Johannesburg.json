@@ -857,7 +857,7 @@
     "Duration": "Year",
     "Description": "TO BE UPDATED",
     "Institution": "University of Johannesburg"
-},
+  },
   {
     "Name": "Quality Management Systems 3B",
     "Code": "QMSMIB3",
@@ -1947,17 +1947,25 @@
       "Credit": 16,
       "DP": 40,
       "Assessments": [
+      {
+        "Name": "Tests",
+        "Type": "Test",
+        "Weight": 80,
+        "Subitems": [
           {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 50
+            "Name": "Test 1"
           },
           {
-              "Name": "Examination Mark",
-              "Type": "Exam",
-              "Weight": 50
+            "Name": "Test 2"
           }
-      ],
+        ]
+      },
+      {
+        "Name": "Tutorials, Quizzes, Assignments, etc",
+        "Type": "Coursework",
+        "Weight": 20
+      }
+    ],
       "Description": "The purpose of this module is to develop students who \n can demonstrate focused knowledge and skills in the field of \n Labour Relations. Students will gain experience in introductory Labour Relations \n principles and applying such knowledge and skills in a workplace \n context by focusing on Labour relations theory and perspectives. The \n history of Labour Relations in South Africa; Environmental influences on \n Labour relations; Trade Unions goals, strategies and organisations; The role \n of the state, government strategies and the state as employer; \n South African labour law. OUTCOMES Students should be able to: \n distinguish and understand various Labour Relations perspectives and theory within \n a South African context; list an briefly explain the various \n environmental influences on labour relations; explain the trade union: goals, \n strategies and organisations; briefly list and discuss management strategy and \n employer organisations; and discuss the role of the state, government strategies and the state as employer.",
       "Institution": "University of Johannesburg"
   },
@@ -1972,17 +1980,25 @@
       "Credit": 16,
       "DP": 40,
       "Assessments": [
+      {
+        "Name": "Tests",
+        "Type": "Test",
+        "Weight": 90,
+        "Subitems": [
           {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 50
+            "Name": "Test 1"
           },
           {
-              "Name": "Examination Mark",
-              "Type": "Exam",
-              "Weight": 50
+            "Name": "Test 2"
           }
-      ],
+        ]
+      },
+      {
+        "Name": "Tutorial Quizzes",
+        "Type": "Coursework",
+        "Weight": 10
+      }
+    ],
       "Description": "The purpose of this module is to develop students who \n can demonstrate focused knowledge and skills in the field of \n Labour Relations. Students will gain experience in introductory Labour Relations \n principles and application by focussing on subsequent section of: Labour \n relations theory and perspectives focusing on South Africa labour law; \n Employee participation, collective bargaining, workplace agreements and procedures, negotiation process, \n Conciliation, arbitration and labour court adjudication, Commission for the Conciliation, \n Mediation and Arbitration, Strikes and lock-out . OUTCOMES Students should \n be able to: discuss collective action within a South African \n context; examine employee participation as a means of enhancing democracy \n in the workplace; evaluate the various workplace agreements and procedures; \n develop and apply negotiation skills; examine the CCMA and its \n purpose in the South African labour context; and understand the nature and procedure of strikes and lock-outs.",
       "Institution": "University of Johannesburg"
   },
@@ -12131,26 +12147,26 @@
       "DP": 40,
       "Assessments": [
           {
-              "Name": "Semester Mark",
+              "Name": "Data analysis quizzes (Objective tests)",
               "Type": "Coursework",
-              "Weight": 40
+              "Weight": 10
           },
           {
-              "Name": "Examination Mark",
-              "Type": "Exam",
-              "Weight": 60
-          }
-      ],
-      "Assessment1": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 60
+              "Name": "Semester test",
+              "Type": "Test",
+              "Weight": 20,
+              "DueDate":"2024-08-24"
           },
           {
-              "Name": "Examination Mark",
-              "Type": "Exam",
-              "Weight": 40
+              "Name": "Excel assignment",
+              "Type": "Assignment",
+              "Weight": 20,
+              "DueDate":"2024-08-31"
+          },
+          {
+              "Name": "4IR activities",
+              "Type": "Coursework",
+              "Weight": 50
           }
       ],
       "Description": "The purpose of this module is to equip students with \n advanced Microsoft Excel skills, and to introduce students to concepts \n and technologies of the Fourth Industrial Revolution (4IR), as they \n relate to business and accounting. OUTCOMES Students should be able \n to: apply the principles of data analysis using intermediate and \n advanced functions in Microsoft Excel, with relevant application to modules \n within this qualification; and discuss 4IR technologies and concepts as \n part of the accountant s toolkit.\n and B; 1A and 1B; 2A and 2B are couplet \n modules The definition of couplet modules is 2 modules in \n a specified year, whereby the second module builds upon the \n first module. The passing mark of each module is usually \n 50%, but a student who did not obtain the required \n 50% in the first module but obtained for this module \n a minimum mark of 40% in the last assessment opportunity \n (exam) and a final mark of at least 40%, will \n be granted entry to the second module. To obtain credit \n for 486both modules, the second module must be passed and \n an average of 50% for both modules has to be \n obtained by the student. Credit can be obtained for the \n second module if a final mark of 50% is obtained \n for this module, and not an average of 50% for \n both modules. If the first module is repeated while a \n credit has already been obtained for the second module, the \n first module must be passed on its own. A student \n who qualifies for a supplementary assessment on a couplet module \n and obtained a last assessment opportunity mark (exam mark) of \n at least 40% can choose if he/she want to write \n the supplementary or retain credit on the original final mark. \n Should he/she choose to write the supplementary assessment, but fail the module; the highest mark between the original and supplementary assessment mark will be used to retain the credit.",
@@ -12432,15 +12448,17 @@
          {
               "Name": "Semester Tests",
               "Type": "Test",
-              "Weight": 30,
+              "Weight": 90,
               "Subitems": [
                 {
                     "Name": "Semester Test 1",
-                    "DueDate": "2024-08-08"
+                    "DueDate": "2024-08-08",
+                    "Weight": 40
                 },
                 {
                     "Name": "Semester Test 2",
-                    "DueDate": "2024-09-30"
+                    "DueDate": "2024-09-30",
+                    "Weight": 50
                 }
               ]
           },
@@ -12466,58 +12484,6 @@
                     "DueDate": "2024-10-13"
                 }
               ]
-          },
-          {
-              "Name": "Examination",
-              "Type": "Exam",
-              "DueDate": "2024-11-01",
-              "Weight": 60
-          }
-      ],
-      "Assessments": [
-          {
-              "Name": "Semester Tests",
-              "Type": "Test",
-              "Weight": 50,
-              "Subitems": [
-                {
-                    "Name": "Semester Test 1",
-                    "DueDate": "2024-08-08"
-                },
-                {
-                    "Name": "Semester Test 2",
-                    "DueDate": "2024-09-30"
-                }
-              ]
-          },
-          {
-              "Name": "Assignments",
-              "Type": "Assignment",
-              "Weight": 10,
-              "Subitems": [
-                {
-                    "Name": "Assignment 1",
-                    "DueDate": "2024-08-04"
-                },
-                {
-                    "Name": "Assignment 2",
-                    "DueDate": "2024-08-25"
-                },
-                {
-                    "Name": "Assignment 3",
-                    "DueDate": "2024-09-22"
-                },
-                {
-                    "Name": "Assignment 4",
-                    "DueDate": "2024-10-13"
-                }
-              ]
-          },
-          {
-              "Name": "Examination",
-              "Type": "Exam",
-              "DueDate": "2024-11-01",
-              "Weight": 40
           }
       ],
       "Description": "The purpose of this module is to understand and account \n for basic transactions and events in a profit orientated entity \n and the financial reporting thereof in a contemporary environment. OUTCOMES \n Students should be able to: 490 demonstrate detailed knowledge and \n understanding of basic transactions and events by accounting for these \n transactions and events in line with the requirements of International \n Financial Reporting Standards (IFS); and prepare financial statements to account \n for the following transactions and events: a finance lease in \n the records of the lessee; intangible assets (trade marks); inventories; \n investment in another entity s equity instruments; loans; presentation of \n general purpose financial statements; investment property; provisions and contingencies; revenue, \n including Circular 9/06; statement of cash flows; the company as \n a form of entity (Companies Act of 2008 (Act 71 \n of 2008), share transactions, distributions to owners, auditors remuneration, directors \n remuneration, Income Tax expense, preliminary Income Tax payments; and demonstrate detailed knowledge and understanding of the Conceptual Framework for financial reporting.",
@@ -12565,11 +12531,6 @@
                 ]
             },
             {
-                "Name": "Semester 1 Tutorials",
-                "Type": "Tutorial",
-                "Weight": 3
-            },
-            {
                 "Name": "Module Projects",
                 "Type": "Project",
                 "Weight": 3
@@ -12577,7 +12538,7 @@
             {
                 "Name": "Tutorial Assignments",
                 "Type": "Coursework",
-                "Weight": 3
+                "Weight": 6
             },
             {
                 "Name": "Examination",
@@ -12992,48 +12953,44 @@
           {
               "Name": "Semester Mark",
               "Type": "Coursework",
-              "Weight": 40,
-              "Equal": true,
+              "Weight": 80,
               "Subitems": [
                 {
                     "Name": "Assessment 1",
-                    "DueDate": "2024-03-08"
+                    "DueDate": "2024-03-08",
+                    "Weight": 15
                 },
                 {
                     "Name": "Assessment 2",
-                    "DueDate": "2024-05-08"
+                    "DueDate": "2024-05-08",
+                    "Weight": 15
                 },
                 {
                     "Name": "Assessment 3",
-                    "DueDate": "2024-06-03"
+                    "DueDate": "2024-06-03",
+                    "Weight": 17
                 },
                 {
                     "Name": "Assessment 4",
-                    "DueDate": "2024-08-21"
+                    "DueDate": "2024-08-21",
+                    "Weight": 15
                 },
                 {
                     "Name": "Assessment 5",
-                    "DueDate": "2024-10-07"
+                    "DueDate": "2024-10-07",
+                    "Weight": 18
                 }
               ]
           },
           {
-              "Name": "Examination",
-              "Type": "Exam",
-              "DueDate": "2024-10-25",
-              "Weight": 60
-          }
-      ],
-      "Assessment1": [
-          {
-              "Name": "Semester Mark",
+              "Name": "*Project/objective tests (First and Second semester – Challenges 1 – 4)",
               "Type": "Coursework",
-              "Weight": 60
+              "Weight": 15
           },
           {
-              "Name": "Examination Mark",
-              "Type": "Exam",
-              "Weight": 40
+              "Name": "Class attendance",
+              "Type": "Coursework",
+              "Weight": 5
           }
       ],
       "Description": "The purpose of this module is to provide students with \n the knowledge and ability to account for advanced transactions and \n events in broader entities and to be able to prepare \n the financial reports thereof. OUTCOMES Students should be able to \n do the calculations and prepare the journal entries in accordance \n within the conceptual foundations of International Financial Reporting Standards (IFRS) \n and to prepare the financial reporting thereof for the following \n types of advanced transactions and events: revenue; share-based payment; deferred \n tax and Income Tax; provisions, contingent assets and contingent liabilities; \n accounting policies, changes in accounting estimates and prior period errors; \n earnings per share; borrowing costs; leases; foreign exchange transactions; financial \n instruments (hedging); property, plant and equipment; asset impairments; investment property. \n business combinations; financial instruments; consolidated financial statements investments in associates; \n and investments in joint ventures. Lastly, students should be able \n to demonstrate a basic understanding of the principles underlying integrated reporting practices by applying these principles to practical scenarios.",
@@ -14407,35 +14364,22 @@
         {
             "Name": "Tests",
             "Type": "Test",
-            "Weight": 40,
-            "Equal": false,
+            "Weight": 80,
             "Subitems": [
               {
                   "Name": "Test 1",
-                  "Weight": 17.5,
-                  "DueDate": "2024-03-13"
+                  "Weight": 35
               },
               {
                   "Name": "Test 2",
-                  "Weight": 22.5,
-                  "DueDate": "2024-04-30"
+                  "Weight": 45
               }
             ]
         },
         {
-            "Name": "TAG",
+            "Name": "Project/objective tests",
             "Type": "Coursework",
-            "Weight": 5
-        },
-        {
-            "Name": "WORKSMART",
-            "Type": "Coursework",
-            "Weight": 5
-        },
-        {
-            "Name": "Final Assessment",
-            "Type": "Exam",
-            "Weight": 50
+            "Weight": 20
         }
       ],
       "Description": "The purpose of this module is to provide students with \n advanced competencies in applying cost and management accounting theory and \n practice by equipping them with the skill to apply different \n costing systems; to measure relevant costs for short-term decision-making purposes; \n and the ability to generate analyses and evaluate budgets needed \n for the control of present and projected performance and the \n competency to use these together with different costing systems to \n evaluate actual performance. OUTCOMES Students should be able to: explain \n cost terminology, classify costs, compute manufacturing and total cost and \n apply job costing as a costing method; explain cost assignment, \n calculate and apply overhead rates using appropriate bases in service \n departments; calculate the value of a cost object using activity \n based costing (ABC) and discuss how ABC compares with traditional \n marginal and absorption costing methods, including its relative advantages and \n disadvantages as a system of cost accounting; measure costs and \n revenues for a range of decisions and use break-even analysis \n as a decision-making tool; explain, compute and apply linear programming; \n analyse information to assess the impact on decisions of variables \n with uncertain values; apply standard costing methods within an absorption \n costing system and prepare a reconciliation of budgeted to actual \n profits; 524 evaluate performance using budgets, recognising alternative approaches and \n sensitivity to variable factors, and discuss the broader managerial issues \n arising from the use of budgets in control; discuss various \n approaches that fall within the area of strategic cost management \n and describe contributions that have been made to the development \n of strategic management accounting; and discuss and evaluate different pricing strategies and understand the main issues in transfer pricing in decentralised companies.",
@@ -15295,17 +15239,25 @@
       "Credit": 16,
       "DP": 40,
       "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 80,
+        "Subitems": [
           {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 50
+            "Name": "Semester Test 1"
           },
           {
-              "Name": "Examination Mark",
-              "Type": "Exam",
-              "Weight": 50
+            "Name": "Semester Test 2"
           }
-      ],
+        ]
+      },
+      {
+        "Name": "Average of best three assessments",
+        "Type": "Coursework",
+        "Weight": 20
+      }
+    ],
       "Description": "The purpose of this module is to provide students with \n a critical understanding of financial economics, its applications and various \n related micro- and macroeconomic concepts. The module will also explain \n the effects of uncertainty on the global capital market. OUTCOMES \n Students should be able to: 545 evaluate critically the nature \n and macroeconomic relevance of financial markets under conditions of uncertainty; \n apply, logically and consistently, the concept of financial instability and \n underlying factors to conditions on the global financial market; evaluate \n fully, with the use of relevant microeconomic principles, the behaviour \n of investors in financial markets under conditions of uncertainty; evaluate \n fully, with the use of relevant theory and practical examples, \n the role of international financial institutions and alternative measures in \n addressing uncertainty and financial instability; and analyse the nature and \n consequences of speculative behaviour, and policy responses with the use of appropriate theory and actual case studies.",
       "Institution": "University of Johannesburg"
   },
@@ -18990,17 +18942,51 @@
       "Credit": 16,
       "DP": 40,
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 50
-          },
-          {
-              "Name": "Examination Mark",
-              "Type": "Exam",
-              "Weight": 50
-          }
-      ],
+        {
+            "Name": "Assessments",
+            "Type": "Assessment",
+            "Weight": 50,
+            "Subitems": [
+            {
+                "Name": "Assessment 1",
+                "DueDate":"2024-08-28"
+            },
+            {
+                "Name": "Assessment 2",
+                "DueDate":"2024-09-25"
+            }
+            ]
+        },
+        {
+            "Name": "Class Tests",
+            "Type": "Test",
+            "Weight": 20,
+            "Subitems": [
+              {
+                "Name": "Class test 1 - Alternative Investments"
+              },
+              {
+                "Name": "Class test 2 - Options"
+              },
+              {
+                "Name": "Class test 3 - Futures and Forwards"
+              },
+              {
+                "Name": "Class test 4 - Swaps"
+              }
+            ]
+        },
+        {
+            "Name": "Group assignment",
+            "Type": "Assignment",
+            "Weight": 25
+        },
+        {
+            "Name": "Practice questions, Homework and Register",
+            "Type": "Coursework",
+            "Weight": 5
+        }
+        ],
       "Description": "The purpose of this module is to provide students with \n the fundamental knowledge to analyse interpret and understand portfolio management \n and derivative market and instruments. Mastering of the module will \n provide students with the ability to synthesise related techniques, theories \n and strategies. OUTCOMES Students should be able to: prove mastery \n of the concepts risk and return; make the asset allocation \n decision by incorporating all relevant aspects; demonstrate comprehension of efficient \n capital markets; apply Markowitz portfolio theory; show an understanding of \n asset pricing models and multifactor models of risk and return; \n specify the asset management industry; evaluate the performance of investment \n portfolios; discuss and apply introductory concepts to derivative markets and \n securities; analyse and comprehend the dynamics of forward and future \n contracts; analyse and comprehend the dynamics of option contracts, analyse \n and comprehend the dynamics of swap contracts, convertible securities and \n other embedded derivatives; and present portfolio performance compliant with Global Investment Performance Standards (GIPS). 615",
       "Institution": "University of Johannesburg"
   },
@@ -21040,97 +21026,75 @@
       "NQF": 7,
       "Credit": 16,
       "DP": 40,
-      "Assessment1": [
+      "Assessment": [
           {
               "Name": "Assessments",
               "Type": "Test",
-              "Weight": 26,
+              "Weight": 65,
               "Subitems": [
                 {
                     "Name": "Test 1",
-                    "DueDate": "2024-03-11",
-                    "Weight": 11.2
+                    "Weight": 28
                 },
                 {
                     "Name": "Test 2",
-                    "DueDate": "2024-05-06",
-                    "Weight": 14.8
+                    "Weight": 37
                 }
               ]
           },
           {
               "Name": "Project/objective Tests",
               "Type": "Coursework",
-              "Weight": 12,
-              "Equal": true,
+              "Weight": 30,
               "Subitems": [
                 {
-                    "Name": "Challenges 1",
-                    "DueDate": "2024-04-08"
+                    "Name": "Challenges 1"
                 },
                 {
-                    "Name": "Challenges 2",
-                    "DueDate": "2024-05-17"
+                    "Name": "Challenges 2"
                 }
               ]
           },
           {
               "Name": "Class Attendance",
               "Type": "Coursework",
-              "Weight": 2
-          },
-          {
-              "Name": "June Examination",
-              "Type": "Exam",
-              "DueDate": "2024-06-14",
-              "Weight": 60
+              "Weight": 5
           }
       ],
-      "Assessments": [
-        {
-            "Name": "Tests",
-            "Type": "Coursework",
-            "Weight": 39,
-            "Subitems": [
-              {
-                  "Name": "Test 1",
-                  "DueDate": "2024-03-11",
-                  "Weight": 16.8
-              },
-              {
-                  "Name": "Test 2",
-                  "DueDate": "2024-05-06",
-                  "Weight": 22.2
-              }
-            ]
-        },
-        {
-            "Name": "Project/objective Tests",
-            "Type": "Coursework",
-            "Weight": 18,
-            "Equal": true,
-            "Subitems": [
+      "Assessment1": [
+          {
+              "Name": "Assessments",
+              "Type": "Test",
+              "Weight": 65,
+              "Subitems": [
                 {
-                    "Name": "Challenges 1",
-                    "DueDate": "2024-04-08"
+                    "Name": "Test 3",
+                    "Weight": 28
                 },
                 {
-                    "Name": "Challenges 2",
-                    "DueDate": "2024-05-17"
+                    "Name": "Test 4",
+                    "Weight": 37
                 }
-            ]
-        },
-        {
-            "Name": "Class Attendance",
-            "Type": "Coursework",
-            "Weight": 3
-        },
-        {
-            "Name": "June Examination",
-            "Type": "Exam",
-            "DueDate": "2024-06-14",
-            "Weight": 40
-        }
+              ]
+          },
+          {
+              "Name": "Project/objective Tests",
+              "Type": "Coursework",
+              "Weight": 30,
+              "Subitems": [
+                {
+                    "Name": "Challenges 3"
+                },
+                {
+                    "Name": "Challenges 4"
+                }
+              ]
+          },
+          {
+              "Name": "Class Attendance",
+              "Type": "Coursework",
+              "Weight": 5
+          }
       ],
       "Description": "The purpose of this module is to increase a students \n practical and theoretical tax knowledge by building on the \n ground rules regarding Income Tax as well as value- added \n tax (VAT) as introduced in Taxation 2A, and to apply \n the knowledge to non- residents. The module deals with the \n inclusion of complex taxable amounts and recoupments in the gross \n income of individuals and enterprises as well as the deductions \n available to these tax payers. OUTCOMES Students should be able \n to: analyse amounts to be included in gross income by \n applying the definition of 'gross income' in the Income Tax \n Act. analyse amounts exempt from Income Tax by applying the \n relevant section of the Income Tax Act. explain and calculate \n allowable deductions for Income Tax purposes by applying the general \n deduction formula and special deductions; explain and calculate deductions for \n Income Tax purposes by applying capital allowances; apply the Income \n Tax principles regarding trading stock; apply the Eighth Schedule of \n the Income Tax Act to situations subject to Capital Gains \n tax and calculate the taxable amount in terms of the \n relevant provisions in respect of assets acquired prior to and \n after 1 October 2001, explain and calculate the taxable income \n and Income Tax payable by both individuals and companies; 668 discuss and calculate the VAT implications of an enterprise making taxable and exempt supplies; and explain and calculate dividends tax.",
       "Prerequisite": {
@@ -21152,86 +21116,42 @@
           {
               "Name": "Tests",
               "Type": "Test",
-              "Weight": 26,
+              "Weight": 32.5,
               "Subitems": [
                 {
                     "Name": "Test 1",
                     "DueDate": "2024-08-19",
-                    "Weight": 11.2
+                    "Weight": 14
                 },
                 {
                     "Name": "Test 2",
                     "DueDate": "2024-09-30",
-                    "Weight": 14.8
+                    "Weight": 18.5
                 }
               ]
           },
           {
-            "Name": "Project/objective Tests",
+            "Name": "#TAG project TAG 3 & 4",
             "Type": "Coursework",
-            "Weight": 12,
+            "Weight": 15,
             "Subitems": [
               {
-                  "Name": "Challenges 3"
+                  "Name": "#TAG project TAG 3"
               },
               {
-                  "Name": "Challenges 4"
+                  "Name": "#TAG project TAG 4"
               }
             ]
           },
           {
             "Name": "Class Attendance",
             "Type": "Coursework",
-            "Weight": 2
+            "Weight": 2.5
           },
           {
               "Name": "Final Examination",
               "Type": "Exam",
-              "DueDate": "2024-11-04",
-              "Weight": 60
-          }
-      ],
-      "Assessment1": [
-        {
-            "Name": "Tests",
-            "Type": "Coursework",
-            "Weight": 39,
-            "Subitems": [
-              {
-                  "Name": "Test 1",
-                  "DueDate": "2024-08-19",
-                  "Weight": 16.8
-              },
-              {
-                  "Name": "Test 2",
-                  "DueDate": "2024-09-30",
-                  "Weight": 22.2
-              }
-            ]
-        },
-        {
-          "Name": "Project/objective Tests",
-          "Type": "Coursework",
-          "Weight": 18,
-          "Subitems": [
-            {
-                "Name": "Challenges 3"
-            },
-            {
-                "Name": "Challenges 4"
-            }
-          ]
-        },
-        {
-          "Name": "Class Attendance",
-          "Type": "Coursework",
-          "Weight": 3
-        },
-          {
-              "Name": "Final Examination",
-              "Type": "Exam",
-              "DueDate": "2024-11-04",
-              "Weight": 40
+              "Weight": 50
           }
       ],
       "Description": "The purpose of this module is to practically and theoretically \n apply the basic concepts of taxation to individuals, partnerships, companies, \n trusts and farmers, and to cover the taxation principles regarding \n Capital Gains tax (for individuals) as well as the rules \n and regulations regarding the administration and payment of taxation. OUTCOMES \n Students should be able to: identify fringe benefits and calculate \n the cash equivalent to include in the taxable income of \n an individual; determine the amounts exempt from the income of \n individuals by applying the relevant sections of the Income Tax \n Act; identify and calculate the deductions available to individuals by \n applying the relevant sections of the Income Tax Act; identify \n and calculate allowances attributable to the individual in gross income \n and calculate the amount allowed as deduction against the allowance; \n calculate the tax implications of retirement benefits for individuals; calculate \n the taxable income of a partnership and apportion it to \n the partners; calculate the amount payable in terms of employee's \n tax and, provisional tax; calculate the amount payable in terms \n of donations tax and estate duty for individuals; discuss situations \n applicable to an individual that will be subject to Capital \n Gains tax and calculate the taxable amount in terms of \n the relevant provisions; prepare the tax calculation for a non-resident \n according to the relevant provisions in the Income Tax Act; \n apply the basic Income Tax provisions regarding trusts; analyse the \n rules and regulations regarding the administration and payment of taxation \n for individuals, partnerships, companies and trusts; and 669 explain situations where the anti-avoidance provisions of the Income Tax Act would be applicable for individuals, partnerships, companies and trusts.",
@@ -23175,14 +23095,23 @@
           {
               "Name": "Semester Tests",
               "Type": "Test",
-              "Weight": 20,
-              "Equal": true,
+              "Weight": 55,
               "Subitems": [
                   {
-                      "Name": "Semester Test 1"
+                      "Name": "Semester Test 1",
+                      "Weight": 10
                   },
                   {
-                      "Name": "Semester Test 2"
+                      "Name": "Semester Test 2",
+                      "Weight": 10
+                  },
+                  {
+                      "Name": "Semester Test 3",
+                      "Weight": 15
+                  },
+                  {
+                      "Name": "Semester Test 4",
+                      "Weight": 20
                   }
               ]
           },
@@ -23194,17 +23123,12 @@
           {
               "Name": "Combined Assignments",
               "Type": "Assignment",
-              "Weight": 10
+              "Weight": 20
           },
           {
               "Name": "Tutorials",
               "Type": "Tutorial",
-              "Weight": 5
-          },
-          {
-              "Name": "Examination",
-              "Type": "Exam",
-              "Weight": 50
+              "Weight": 10
           }
       ],
       "Description": "The purpose of this module is to familiarise a student \n with the structure of the legal system and legal framework \n in which entities operate. A student will be equipped with \n a general understanding of basic legal concepts relevant to his/her \n profession. A student who has successfully completed this module should \n be equipped to deal with the challenges and difficulties a \n chartered accountancy student will experience during the module of his/her \n studies and profession. For this reason, the module comprises three \n components: (1) theory (i.e. weekly lectures and written academic assignments); \n (2) practical exposure (e.g. guest lectures by members of the \n chartered accountancy profession; and (3) skills training (i.e. library orientation \n and workshops aimed at enhancing study and life skills). OUTCOMES \n Students should be able to: demonstrate that he/she is familiar \n with the structure of the legal system and the legal \n framework; demonstrate a basic understanding of the concept of law; \n identify the various sources of the South African law; demonstrate \n the necessary knowledge of the history of the South African \n legal system; obtain a basic understanding of the classification of \n the law understand the basic tenets of the law of \n civil procedure, criminal law and law of evidence; understand the \n general principles of the law of contract; demonstrate a clear \n understanding of consensus as a requirement for a valid contract; \n demonstrate a clear understanding of contractual capacity as a requirement \n for a valid contract; demonstrate a clear understanding of legality \n and physical possibility as requirements for a valid contract; demonstrate \n a clear understanding of formalities as a requirement for a \n valid contract and illustrate basic insight regarding the impact of \n contracts in everyday life; provide basic legal advice regarding the \n choice of business form, discuss the legal structure of a \n partnership, company, close corporation and business trust and 715explain the \n rights and duties of the different role players in the \n partnership, the company, the close corporation and the business trust; \n comprehend the importance of the Constitution of 1996 and human \n rights in the South African context; have a basic understanding of legal argument and logic and know what legal language entails; understand the relevance of legal comparison; and comprehend basic philosophy.",
@@ -25263,14 +25187,63 @@
       "Duration": "Year",
       "Assessments": [
           {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 40
+            "Name": "Tests",
+            "Type": "Test",
+            "Weight": 40,
+            "Subitems": [
+              {
+                "Name": "Test 1"
+              },
+              {
+                "Name": "Test 2"
+              },
+              {
+                "Name": "Test 3"
+              },
+              {
+                "Name": "Test 4"
+              }
+            ]
           },
           {
-              "Name": "Exam Mark",
-              "Type": "Exam",
-              "Weight": 60
+            "Name": "Assignments",
+            "Type": "Assignment",
+            "Weight": 32,
+            "Subitems": [
+              {
+                "Name": "Assignment 1"
+              },
+              {
+                "Name": "Assignment 2"
+              },
+              {
+                "Name": "Assignment 3"
+              },
+              {
+                "Name": "Assignment 4"
+              }
+            ]
+          },
+          {
+            "Name": "Practicals",
+            "Type": "Practical",
+            "Weight": 15,
+            "Subitems": [
+              {
+                "Name": "Practical 1"
+              },
+              {
+                "Name": "Practical 2"
+              },
+              {
+                "Name": "Practical 3 (At home practical)"
+              }
+            ]
+          },
+          {
+            "Name": "Project 1",
+            "Type": "Project",
+            "Weight": 13
           }
       ],
       "Description": "Obtain fundamental knowledge, analytical and practical skills \nrequired to solve problems related to statically determinate force \nsystems acting on particles and bodies in space. Apply methods \nbased on graphical, algebraic and trigonometric solutions to \ndefine force systems and determine unknown properties.  \nContent  Statics of particles and rigid bodies under coplanar force \nsystems which may or may not be in equilibrium. Centroids and \ncentres of gravity. Static friction. Linear and relative motion of \nbodies. Work and energy.",
@@ -25717,18 +25690,45 @@
       "Period": [
           2
       ],
-      "Assessments": [
+     "Assessments": [
+      {
+        "Name": "Tests",
+        "Type": "Test",
+        "Weight": 70,
+        "Subitems": [
           {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 40
+            "Name": "Test 1",
+            "Weight": 15,
+            "DueDate":"2024-08-14"
           },
           {
-              "Name": "Exam Mark",
-              "Type": "Exam",
-              "Weight": 60
+            "Name": "Test 2",
+            "Weight": 20,
+            "DueDate":"2024-09-18"
+          },
+          {
+            "Name": "Test 3",
+            "Weight": 35,
+            "DueDate":"2024-10-16"
           }
-      ],
+        ]
+      },
+      {
+        "Name": "Assignment 1",
+        "Type": "Assignment",
+        "Weight": 10
+      },
+      {
+        "Name": "Presentation",
+        "Type": "Presentation",
+        "Weight": 10
+      },
+      {
+        "Name": "Tutorials",
+        "Type": "Tutorial",
+        "Weight": 10
+      }
+     ],
       "Prerequisite": {
           "Code": "CPTCHA1"
       },
@@ -32428,11 +32428,11 @@
           {
               "Name": "Formal Tests",
               "Type": "Test",
-              "Weight": 55,
+              "Weight": 60,
               "Subitems": [
                 {
                     "Name": "Test 1",
-                    "Weight": 15
+                    "Weight": 20
                 },
                 {
                     "Name": "Test 2",
@@ -32447,7 +32447,7 @@
           {
               "Name": "Assignments",
               "Type": "Assignment",
-              "Weight": 45,
+              "Weight": 40,
               "Subitems": [
                 {
                     "Name": "Assignment 1",
@@ -32455,7 +32455,7 @@
                 },
                 {
                     "Name": "Assignment 2",
-                    "Weight": 30
+                    "Weight": 25
                 }
               ]
           }
@@ -35473,6 +35473,23 @@
       "Name": "Foundation Mathematics",
       "Duration": "Year",
       "Description": "TO BE UPDATED",
+      "Assessments": [
+        {
+            "Name": "Classworks/Self-Assessment Tasks / Tutorials",
+            "Type": "Tutorial",
+            "Weight": 10
+        },
+        {
+            "Name": "Assignments/Presentations",
+            "Type": "Coursework",
+            "Weight": 30
+        },
+        {
+            "Name": "Tests",
+            "Type": "Test",
+            "Weight": 60
+        }
+      ],
       "Institution": "University of Johannesburg"
   },
   {
@@ -35494,6 +35511,72 @@
       "Name": "Computer Skills",
       "Duration": "Year",
       "Description": "TO BE UPDATED",
+      "Assessments": [
+        {
+            "Name": "Word assessment",
+            "Type": "Assessment",
+            "Weight": 25,
+            "Subitems": [
+            {
+                "Name": "Word assessment 1"
+            },
+            {
+                "Name": "Word assessment 2"
+            },
+            {
+                "Name": "Word assessment 3"
+            }
+            ]
+        },
+        {
+            "Name": "Assessments",
+            "Type": "Assessment",
+            "Weight": 25,
+            "Subitems": [
+            {
+                "Name": "Word assessment 1"
+            },
+            {
+                "Name": "PowerPoint assessment 1"
+            },
+            {
+                "Name": "PowerPoint assessment 2"
+            }
+            ]
+        },
+        {
+            "Name": "Assessments",
+            "Type": "Assessment",
+            "Weight": 25,
+            "Subitems": [
+            {
+                "Name": "Excel assessment 1"
+            },
+            {
+                "Name": "Excel assessment 2"
+            },
+            {
+                "Name": "Excel assessment 3"
+            }
+            ]
+        },
+        {
+            "Name": "Assessments",
+            "Type": "Assessment",
+            "Weight": 25,
+            "Subitems": [
+            {
+                "Name": "Mail Merge Word Assessment"
+            },
+            {
+                "Name": "Excel Assessment"
+            },
+            {
+                "Name": "Theory Assessment"
+            }
+            ]
+        }
+        ],
       "Institution": "University of Johannesburg"
   },
   {
@@ -45317,10 +45400,27 @@
       "Description": "To equip students with the necessary writing and social skills required skills in the work environment.",
       "Assessments": [
           {
-              "Name": "Full Period Mark",
-              "Type": "Coursework",
-              "Weight": 100
-          }
+              "Name": "Continuous assessment",
+              "Type": "Assessment",
+              "Weight": 100,
+              "Subitems": [
+                {
+                  "Name": "Class tests"
+                },
+                {
+                  "Name": "Oral Presentations"
+                },
+                {
+                  "Name": "Group Projects"
+                },
+                {
+                  "Name": "Individual Assignments"
+                },
+                {
+                  "Name": "Tutorial Assessments"
+                }
+              ]
+            }
       ],
       "Duration": "Semester",
       "Period": [
@@ -50350,7 +50450,7 @@
           {
               "Name": "Semester Test",
               "Type": "Test",
-              "Weight": 35,
+              "Weight": 70,
               "Equal": true,
               "Subitems": [
                   {
@@ -50367,7 +50467,7 @@
           {
               "Name": "Assignments",
               "Type": "Assignment",
-              "Weight": 10,
+              "Weight": 30,
               "Subitems": [
                 {
                     "Name": "Assignment 1"
@@ -50406,17 +50506,6 @@
                     "Name": "Assignment 12"
                 }
               ]
-          },
-          {
-            "Name": "Webwork Tests",
-            "Type": "Coursework",
-            "Weight": 5
-          },
-          {
-              "Name": "Examination",
-              "Type": "Exam",
-              "Weight": 50,
-              "DueDate":"2024-05-30"
           }
       ],
       "Institution": "University of Johannesburg",
@@ -63695,9 +63784,40 @@
       ],
       "Assessments": [
           {
-              "Name": "Semester Mark",
+            "Name": "Unit Quizzes",
+            "Type": "Quiz",
+            "Weight": 20,
+            "Subitems": [
+              {
+                "Name": "Quiz 1"
+              },
+              {
+                "Name": "Quiz 2"
+              },
+              {
+                "Name": "Quiz 3"
+              },
+              {
+                "Name": "Quiz 4"
+              }
+            ]
+          },
+          {
+              "Name": "Literature review",
               "Type": "Coursework",
-              "Weight": 100
+              "Weight": 25
+          },
+          {
+              "Name": "Assignment",
+              "Type": "Assignment",
+              "Weight": 15,
+              "DueDate":"2024-09-27"
+          },
+          {
+              "Name": "Assessment",
+              "Type": "Assessment",
+              "Weight": 40,
+              "DueDate":"2024-10-24"
           }
       ],
       "Institution": "University of Johannesburg",
@@ -63844,12 +63964,48 @@
           1
       ],
       "Assessments": [
+      {
+        "Name": "Semester Tests",
+        "Type": "Test",
+        "Weight": 60,
+        "Subitems": [
           {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
+            "Name": "Semester Test 1",
+            "DueDate":"2024-04-11",
+            "Weight": 25
+          },
+          {
+            "Name": "Semester Test 2",
+            "DueDate":"2024-05-30",
+            "Weight": 35
           }
-      ],
+        ]
+      },
+      {
+        "Name": "Quizzes",
+        "Type": "Quiz",
+        "Weight": 20,
+        "Subitems": [
+          {
+            "Name": "Quiz 1"
+          },
+          {
+            "Name": "Quiz 2"
+          },
+          {
+            "Name": "Quiz 3"
+          },
+          {
+            "Name": "Quiz 4"
+          }
+        ]
+      },
+      {
+        "Name": "Peer Assessment",
+        "Type": "Assessment",
+        "Weight": 20
+      }
+        ],
       "Institution": "University of Johannesburg",
       "Description": "<p>The purpose is to address the physical fitness components of the athlete and the importance of it in sport.</p>",
       "Name": "Sport and Exercise Science 3A"
@@ -63930,11 +64086,56 @@
           1
       ],
       "Assessments": [
-          {
-              "Name": "Semester Mark",
-              "Type": "Coursework",
-              "Weight": 100
-          }
+        {
+          "Name": "Semester Tests",
+          "Type": "Test",
+          "Weight": 65,
+          "Subitems": [
+            {
+              "Name": "Term 1 test",
+              "Weight": 15,
+              "DueDate":"2024-03-14"
+            },
+            {
+              "Name": "Term 2 open book test",
+              "Weight": 20,
+              "DueDate":"2024-05-23"
+            },
+            {
+              "Name": "Semester test",
+              "Weight": 30,
+              "DueDate":"2024-06-03"
+            }
+          ]
+        },
+        {
+            "Name": "Semester Tests",
+            "Type": "Test",
+            "Weight": 20,
+            "Subitems": [
+              {
+                "Name": "Term 1 online certificates",
+                "Weight": 10,
+                "DueDate":"2024-03-14"
+              },
+              {
+                "Name": "Term 2 online certificates",
+                "Weight": 10,
+                "DueDate":"2024-05-23"
+              }
+            ]
+        },
+        {
+          "Name": "Quizzes and online participation",
+          "Type": "Coursework",
+          "Weight": 5
+        },
+        {
+          "Name": "Practical report",
+          "Type": "Report",
+          "Weight": 10,
+          "DueDate":"2024-05-16"
+        }
       ],
       "Institution": "University of Johannesburg",
       "Description": "<p>Purpose: aims to introduce students to talent identification and development and how it has been historically approached and misused Focus on the reconciliation of both mass participation and talent development.</p>",
