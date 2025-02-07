@@ -1,0 +1,56 @@
+{
+    "_id": {
+        "$oid": "6617bb6abd119564f758dcbc"
+    },
+    "ApplicationYear": 2024,
+    "ChosenInstitutions": [
+        "University of Venda"
+    ],
+    "AppliedInstituions": [
+        "University of Venda"
+    ],
+    "AcceptedInstitutions": [
+        "University of Venda"
+    ],
+    "AppliedQualifications": [
+        {
+            "Accepted": true,
+            "Taken": false,
+            "Institution": "University of Venda",
+            "Qualification": "Psychology",
+            "NBT": false,
+            "InDemand": null
+        },
+        {
+            "Accepted": false,
+            "Taken": false,
+            "Institution": "University of Venda",
+            "Qualification": "Law",
+            "NBT": false,
+            "InDemand": null
+        }
+    ],
+    "ChosenQualifications": [
+        {
+            "Accepted": false,
+            "Taken": false,
+            "Institution": "University of Venda",
+            "Qualification": "Psychology",
+            "NBT": false,
+            "InDemand": null
+        },
+        {
+            "Accepted": false,
+            "Taken": false,
+            "Institution": "University of Venda",
+            "Qualification": "Law",
+            "NBT": false,
+            "InDemand": null
+        }
+    ],
+    "ApplicationMinutes": 0,
+    "ReviewTime": "79 days, 3:59:08.327000",
+    "AverageMarks": 59.3,
+    "ReviewTimeMin": 113999.13878333333,
+    "UserID": "6617bb6abd119564f758dcbc"
+}

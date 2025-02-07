@@ -1,0 +1,42 @@
+[
+    {
+        "UserID": "6404a9df5346fcb9ed9bec6e",
+        "Comparisons": [
+            {
+                "Qualification": "Education",
+                "MotiQualification": "Education",
+                "Similarity": 1.0
+            },
+            {
+                "Qualification": "Dental",
+                "MotiQualification": "Dental technology",
+                "Similarity": 0.52
+            },
+            {
+                "Qualification": "Somatology",
+                "MotiQualification": "Somatology",
+                "Similarity": 1.0
+            }
+        ]
+    },
+    {
+        "UserID": "642e6b5d3b388d90de21da63",
+        "Comparisons": [
+            {
+                "Qualification": "Law",
+                "MotiQualification": "Law",
+                "Similarity": 1.0
+            },
+            {
+                "Qualification": "Consumer Science Food and Nutrition",
+                "MotiQualification": "Nursing",
+                "Similarity": 0.24
+            },
+            {
+                "Qualification": "Agriculture Commercial Mixed Farming",
+                "MotiQualification": "Environmental management",
+                "Similarity": 0.37
+            }
+        ]
+    }
+]

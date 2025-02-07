@@ -1,0 +1,45 @@
+{"6617bb6abd119564f758dcbc": [
+    {
+        "_id": "66d9ab5cb2167e4e94ba7949",
+        "userId": "6617bb6abd119564f758dcbc",
+        "CreatedTime": "2024-09-05T13:00:12.714000",
+        "CreatedBy": "Consultant",
+        "changes": "Added University of Venda to applications"
+    },
+    {
+        "_id": "66d9ab60765b3e18a825728d",
+        "userId": "6617bb6abd119564f758dcbc",
+        "CreatedTime": "2024-09-05T13:00:16.899000",
+        "CreatedBy": "Consultant",
+        "changes": "Changed qualifications on University of Venda"
+    },
+    {
+        "_id": "66d9ab6cb464b915169cc9bb",
+        "userId": "6617bb6abd119564f758dcbc",
+        "CreatedTime": "2024-09-05T13:00:28.374000",
+        "CreatedBy": "Consultant",
+        "changes": "Removed University of Venda from applications"
+    },
+    {
+        "_id": "66d9ab6db464b915169cc9bd",
+        "userId": "6617bb6abd119564f758dcbc",
+        "CreatedTime": "2024-09-05T13:00:29.026000",
+        "CreatedBy": "Consultant",
+        "changes": "Changed qualifications on University of Venda"
+    },
+    {
+        "_id": "66d9ab6eb2167e4e94ba794e",
+        "userId": "6617bb6abd119564f758dcbc",
+        "CreatedTime": "2024-09-05T13:00:30.064000",
+        "CreatedBy": "Consultant",
+        "changes": "Added University of Venda to applications"
+    },
+    {
+        "_id": "66d9ab6eb2167e4e94ba7950",
+        "userId": "6617bb6abd119564f758dcbc",
+        "CreatedTime": "2024-09-05T13:00:30.573000",
+        "CreatedBy": "Consultant",
+        "changes": "Changed qualifications on University of Venda"
+    }
+]
+}

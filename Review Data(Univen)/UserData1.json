@@ -1,0 +1,190 @@
+[
+    {
+      "Institution": "North-West University",
+      "UserID": "6617bb6abd119564f758dcbc",
+      "ChosenInstitutions": ["North-West University"],
+      "AppliedInstitutions": [],
+      "AcceptedInstitutions": [],
+      "AppliedQualifications": [],
+      "ChosenQualifications": [
+        {
+          "Accepted": false,
+          "Taken": false,
+          "Institution": "North-West University",
+          "Qualification": "Psychology",
+          "NBT": false,
+          "InDemand": null
+        },
+        {
+          "Accepted": false,
+          "Taken": false,
+          "Institution": "North-West University",
+          "Qualification": "Law",
+          "NBT": false,
+          "InDemand": null
+        },
+        {
+          "Accepted": false,
+          "Taken": false,
+          "Institution": "North-West University",
+          "Qualification": "Sport and Exercise Technology",
+          "NBT": false,
+          "InDemand": null
+        }
+      ]
+    },
+    {
+      "Institution": "University of the Western Cape",
+      "UserID": "6617bb6abd119564f758dcbc",
+      "ChosenInstitutions": ["University of the Western Cape"],
+      "AppliedInstitutions": [],
+      "AcceptedInstitutions": [],
+      "AppliedQualifications": [],
+      "ChosenQualifications": [
+        {
+          "Accepted": false,
+          "Taken": false,
+          "Institution": "University of the Western Cape",
+          "Qualification": "Social Work",
+          "NBT": true,
+          "InDemand": null
+        },
+        {
+          "Accepted": false,
+          "Taken": false,
+          "Institution": "University of the Western Cape",
+          "Qualification": "Sport Science",
+          "NBT": false,
+          "InDemand": null
+        },
+        {
+          "Accepted": false,
+          "Taken": false,
+          "Institution": "University of the Western Cape",
+          "Qualification": "Nursing",
+          "NBT": false,
+          "InDemand": null
+        },
+        {
+          "Accepted": false,
+          "Taken": false,
+          "Institution": "University of the Western Cape",
+          "Qualification": "Psychology",
+          "NBT": false,
+          "InDemand": null
+        },
+        {
+          "Accepted": false,
+          "Taken": false,
+          "Institution": "University of the Western Cape",
+          "Qualification": "Law",
+          "NBT": false,
+          "InDemand": null
+        }
+      ]
+    },
+    {
+      "Institution": "Cape Peninsula University of Technology",
+      "UserID": "6617bb6abd119564f758dcbc",
+      "ChosenInstitutions": ["Cape Peninsula University of Technology"],
+      "AppliedInstitutions": [],
+      "AcceptedInstitutions": [],
+      "AppliedQualifications": [],
+      "ChosenQualifications": [
+        {
+          "Accepted": false,
+          "Taken": false,
+          "Institution": "Cape Peninsula University of Technology",
+          "Qualification": "Business Management",
+          "NBT": false,
+          "InDemand": null
+        },
+        {
+          "Accepted": false,
+          "Taken": false,
+          "Institution": "Cape Peninsula University of Technology",
+          "Qualification": "Legal Secretary",
+          "NBT": false,
+          "InDemand": null
+        },
+        {
+          "Accepted": false,
+          "Taken": false,
+          "Institution": "Cape Peninsula University of Technology",
+          "Qualification": "Nursing",
+          "NBT": false,
+          "InDemand": null
+        }
+      ]
+    },
+    {
+      "Institution": "Walter Sisulu University",
+      "UserID": "6617bb6abd119564f758dcbc",
+      "ChosenInstitutions": ["Walter Sisulu University"],
+      "AppliedInstitutions": [],
+      "AcceptedInstitutions": [],
+      "AppliedQualifications": [],
+      "ChosenQualifications": [
+        {
+          "Accepted": false,
+          "Taken": false,
+          "Institution": "Walter Sisulu University",
+          "Qualification": "Social Science",
+          "NBT": false,
+          "InDemand": null
+        },
+        {
+          "Accepted": false,
+          "Taken": false,
+          "Institution": "Walter Sisulu University",
+          "Qualification": "Law",
+          "NBT": false,
+          "InDemand": null
+        }
+      ]
+    },
+    {
+      "Institution": "University of Venda",
+      "UserID": "6617bb6abd119564f758dcbc",
+      "ChosenInstitutions": ["University of Venda"],
+      "AppliedInstitutions": ["University of Venda"],
+      "AcceptedInstitutions": ["University of Venda"],
+      "AppliedQualifications": [
+        {
+          "Accepted": true,
+          "Taken": false,
+          "Institution": "University of Venda",
+          "Qualification": "Psychology",
+          "NBT": false,
+          "InDemand": null
+        },
+        {
+          "Accepted": false,
+          "Taken": false,
+          "Institution": "University of Venda",
+          "Qualification": "Law",
+          "NBT": false,
+          "InDemand": null
+        }
+      ],
+      "ChosenQualifications": [
+        {
+          "Accepted": false,
+          "Taken": false,
+          "Institution": "University of Venda",
+          "Qualification": "Psychology",
+          "NBT": false,
+          "InDemand": null
+        },
+        {
+          "Accepted": false,
+          "Taken": false,
+          "Institution": "University of Venda",
+          "Qualification": "Law",
+          "NBT": false,
+          "InDemand": null
+        }
+      ]
+    }
+  ]
+  
