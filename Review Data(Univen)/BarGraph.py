@@ -47,25 +47,29 @@ category_stats_2024 = calculate_statistics(category_times_2024)
 categories = sorted(set(category_stats_2023.keys()).union(category_stats_2024.keys()))
 averages_2023 = [category_stats_2023.get(cat, {"Average": 0})["Average"] for cat in categories]
 averages_2024 = [category_stats_2024.get(cat, {"Average": 0})["Average"] for cat in categories]
+counts_2023 = [category_stats_2023.get(cat, {"Count": 0})["Count"] for cat in categories]
+counts_2024 = [category_stats_2024.get(cat, {"Count": 0})["Count"] for cat in categories]
+total_count_2023 = sum(counts_2023)
+total_count_2024 = sum(counts_2024)
 
 # Plot bar chart with annotations
-def plot_combined_bar_chart(categories, averages_2023, averages_2024, title, xlabel, ylabel, output_file):
+def plot_combined_bar_chart(categories, averages_2023, averages_2024, counts_2023, counts_2024, total_count_2023, total_count_2024, title, xlabel, ylabel, output_file):
     x = np.arange(len(categories))  # Label locations
     width = 0.35  # Bar width
 
     plt.figure(figsize=(12, 8))
-    bars_2023 = plt.bar(x - width / 2, averages_2023, width, label="2023", color='skyblue')
-    bars_2024 = plt.bar(x + width / 2, averages_2024, width, label="2024", color='lightgreen')
+    bars_2023 = plt.bar(x - width / 2, averages_2023, width, label=f"2023 (N={total_count_2023})", color='skyblue')
+    bars_2024 = plt.bar(x + width / 2, averages_2024, width, label=f"2024 (N={total_count_2024})", color='lightgreen')
 
-    # Annotate bars with average values
-    for bars, averages in zip([bars_2023, bars_2024], [averages_2023, averages_2024]):
-        for bar, avg in zip(bars, averages):
+    # Annotate bars with average values and counts
+    for bars, averages, counts in zip([bars_2023, bars_2024], [averages_2023, averages_2024], [counts_2023, counts_2024]):
+        for bar, avg, count in zip(bars, averages, counts):
             height = bar.get_height()
             if height > 0:
                 plt.text(
                     bar.get_x() + bar.get_width() / 2,
                     height + 0.1,
-                    f"{avg:.2f}",
+                    f"{avg:.2f}\nN={count}",
                     ha='center',
                     va='bottom',
                     fontsize=10
@@ -85,6 +89,10 @@ plot_combined_bar_chart(
     categories,
     averages_2023,
     averages_2024,
+    counts_2023,
+    counts_2024,
+    total_count_2023,
+    total_count_2024,
     "Average Review Time per Performance Category (2023 vs 2024)",
     "Performance Category",
     "Review Time (Minutes)",

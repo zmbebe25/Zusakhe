@@ -38,7 +38,7 @@ for count, x in zip(hist_2024, bin_edges_2024[:-1]):
              ha='center', fontsize=10, color='black')
 
 # Configure plot details
-plt.title("Distribution of Qualification Match Percentage 2023 vs 2024", fontsize=14, weight='bold')
+plt.title(f"Distribution of Qualification Match Percentage 2023 (n={len(match_percentages_2023)}) vs 2024 (n={len(match_percentages_2024)})", fontsize=14, weight='bold')
 plt.xlabel(" Qualification Match Percentage (%)", fontsize=12)
 plt.ylabel("Number of Users", fontsize=12)
 plt.legend(fontsize=12)

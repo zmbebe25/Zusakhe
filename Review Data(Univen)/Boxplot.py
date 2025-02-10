@@ -33,15 +33,17 @@ categories = sorted(set(performance_times_2023.keys()).union(performance_times_2
 combined_data = []
 combined_labels = []
 colors = []
+total_n_2023 = sum(len(performance_times_2023[cat]) for cat in performance_times_2023)
+total_n_2024 = sum(len(performance_times_2024[cat]) for cat in performance_times_2024)
 
 for category in categories:
     if category in performance_times_2023:
         combined_data.append(performance_times_2023[category])
-        combined_labels.append(f"{category} (2023)")
+        combined_labels.append(f"{category} (2023, N={len(performance_times_2023[category])})")
         colors.append("skyblue")  # Color for 2023
     if category in performance_times_2024:
         combined_data.append(performance_times_2024[category])
-        combined_labels.append(f"{category} (2024)")
+        combined_labels.append(f"{category} (2024, N={len(performance_times_2024[category])})")
         colors.append("lightcoral")  # Color for 2024
 
 # Plot Combined Box Plot with Unique Colors and Statistics Annotated
@@ -62,7 +64,7 @@ def plot_combined_box_plot_with_stats(data, labels, colors, title, xlabel, ylabe
 
     plt.xlabel(xlabel, fontsize=12)
     plt.ylabel(ylabel, fontsize=12)
-    plt.title(title, fontsize=16, weight='bold')
+    plt.title(f"{title}\n(Total N: 2023={total_n_2023}, 2024={total_n_2024})", fontsize=16, weight='bold')
     plt.xticks(rotation=45)
 
     # Annotate statistics on the plot
@@ -99,6 +101,7 @@ def plot_combined_box_plot_with_stats(data, labels, colors, title, xlabel, ylabe
     plt.close()
 
 # Generate combined boxplot
+output_path = "c:/Users/zusakhe_gradesmatch/Downloads/review_time_distribution_combined_2023_2024_colored.png"
 plot_combined_box_plot_with_stats(
     combined_data,
     combined_labels,
@@ -106,7 +109,7 @@ plot_combined_box_plot_with_stats(
     "Review Time Distribution by Performance Category (2023 vs 2024)",
     "Performance Category",
     "Review Time (Minutes)",
-    "review_time_distribution_combined_2023_2024_colored.png"
+    output_path
 )
 
-print("Combined boxplot with unique colors and annotated statistics has been saved.")
+print(f"Combined boxplot with unique colors and annotated statistics has been saved at {output_path}.")
