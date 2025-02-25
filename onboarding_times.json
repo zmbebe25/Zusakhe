@@ -1,0 +1,2308 @@
+{
+    "AverageOnboardingTime": {
+        "Days": 23.28,
+        "Hours": 570.25,
+        "Minutes": 34214.85
+    },
+    "BenchmarkCount": {
+        "MetBenchmark (<=3 days)": 87,
+        "DidNotMeetBenchmark (>3 days)": 168
+    },
+    "OnboardingDetails": [
+        {
+            "UserID": "66f18cb99dcaf6614822b11e",
+            "CreatedDate": "2024-09-23T15:50:06.236000+00:00",
+            "LastUpdateState": "2024-12-04T06:56:22.555000+00:00",
+            "OnboardingTimeDays": 71,
+            "OnboardingTimeHours": 1719.1,
+            "OnboardingTimeMinutes": 103146.27,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "66f18cb99dcaf6614822b0ea",
+            "CreatedDate": "2024-09-23T15:49:23.929000+00:00",
+            "LastUpdateState": "2024-12-03T12:48:54.881000+00:00",
+            "OnboardingTimeDays": 70,
+            "OnboardingTimeHours": 1700.99,
+            "OnboardingTimeMinutes": 102059.52,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "66f18cb99dcaf6614822b0ec",
+            "CreatedDate": "2024-09-23T15:49:24.794000+00:00",
+            "LastUpdateState": "2024-12-03T12:59:04.415000+00:00",
+            "OnboardingTimeDays": 70,
+            "OnboardingTimeHours": 1701.16,
+            "OnboardingTimeMinutes": 102069.66,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "66f18cb99dcaf6614822b0f2",
+            "CreatedDate": "2024-09-23T15:49:27.400000+00:00",
+            "LastUpdateState": "2024-12-03T13:39:13.885000+00:00",
+            "OnboardingTimeDays": 70,
+            "OnboardingTimeHours": 1701.83,
+            "OnboardingTimeMinutes": 102109.77,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "66f18cb99dcaf6614822b0f4",
+            "CreatedDate": "2024-09-23T15:49:28.264000+00:00",
+            "LastUpdateState": "2024-12-03T11:44:45.295000+00:00",
+            "OnboardingTimeDays": 70,
+            "OnboardingTimeHours": 1699.92,
+            "OnboardingTimeMinutes": 101995.28,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "66f18cb99dcaf6614822b0e8",
+            "CreatedDate": "2024-09-23T15:48:56.720000+00:00",
+            "LastUpdateState": "2024-12-03T13:11:06.646000+00:00",
+            "OnboardingTimeDays": 70,
+            "OnboardingTimeHours": 1701.37,
+            "OnboardingTimeMinutes": 102082.17,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "66f18cb99dcaf6614822b0f9",
+            "CreatedDate": "2024-09-23T15:48:56.722000+00:00",
+            "LastUpdateState": "2024-12-03T13:14:46.500000+00:00",
+            "OnboardingTimeDays": 70,
+            "OnboardingTimeHours": 1701.43,
+            "OnboardingTimeMinutes": 102085.83,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "66f18cb99dcaf6614822b0fa",
+            "CreatedDate": "2024-09-23T15:49:46.526000+00:00",
+            "LastUpdateState": "2024-12-05T09:06:44.452000+00:00",
+            "OnboardingTimeDays": 72,
+            "OnboardingTimeHours": 1745.28,
+            "OnboardingTimeMinutes": 104716.97,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "66f18cb99dcaf6614822b13a",
+            "CreatedDate": "2024-09-23T15:49:56.304000+00:00",
+            "LastUpdateState": "2024-12-03T13:01:14.281000+00:00",
+            "OnboardingTimeDays": 70,
+            "OnboardingTimeHours": 1701.19,
+            "OnboardingTimeMinutes": 102071.3,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "66f18cb99dcaf6614822b11c",
+            "CreatedDate": "2024-09-23T15:50:05.361000+00:00",
+            "LastUpdateState": "2024-12-03T13:09:02.628000+00:00",
+            "OnboardingTimeDays": 70,
+            "OnboardingTimeHours": 1701.32,
+            "OnboardingTimeMinutes": 102078.95,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "66f18cb99dcaf6614822b0ff",
+            "CreatedDate": "2024-09-23T15:50:05.390000+00:00",
+            "LastUpdateState": "2024-12-03T13:19:29.014000+00:00",
+            "OnboardingTimeDays": 70,
+            "OnboardingTimeHours": 1701.49,
+            "OnboardingTimeMinutes": 102089.39,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "66f18cb99dcaf6614822b15c",
+            "CreatedDate": "2024-09-23T15:50:05.660000+00:00",
+            "LastUpdateState": "2024-12-03T13:53:51.956000+00:00",
+            "OnboardingTimeDays": 70,
+            "OnboardingTimeHours": 1702.06,
+            "OnboardingTimeMinutes": 102123.77,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "66f18cb99dcaf6614822b11d",
+            "CreatedDate": "2024-09-23T15:50:05.807000+00:00",
+            "LastUpdateState": "2024-12-03T12:41:45.131000+00:00",
+            "OnboardingTimeDays": 70,
+            "OnboardingTimeHours": 1700.86,
+            "OnboardingTimeMinutes": 102051.66,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "66f18cb99dcaf6614822b104",
+            "CreatedDate": "2024-09-23T15:50:06.089000+00:00",
+            "LastUpdateState": "2024-12-03T12:28:25.149000+00:00",
+            "OnboardingTimeDays": 70,
+            "OnboardingTimeHours": 1700.64,
+            "OnboardingTimeMinutes": 102038.32,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "66f18cb99dcaf6614822b105",
+            "CreatedDate": "2024-09-23T15:50:06.520000+00:00",
+            "LastUpdateState": "2024-12-03T13:42:48.639000+00:00",
+            "OnboardingTimeDays": 70,
+            "OnboardingTimeHours": 1701.88,
+            "OnboardingTimeMinutes": 102112.7,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "66f18cb99dcaf6614822b14e",
+            "CreatedDate": "2024-09-23T15:50:06.629000+00:00",
+            "LastUpdateState": "2024-12-03T12:54:26.805000+00:00",
+            "OnboardingTimeDays": 70,
+            "OnboardingTimeHours": 1701.07,
+            "OnboardingTimeMinutes": 102064.34,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "66f18cb99dcaf6614822b120",
+            "CreatedDate": "2024-09-23T15:50:06.931000+00:00",
+            "LastUpdateState": "2024-12-03T13:20:24.005000+00:00",
+            "OnboardingTimeDays": 70,
+            "OnboardingTimeHours": 1701.5,
+            "OnboardingTimeMinutes": 102090.28,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "66f18cb99dcaf6614822b133",
+            "CreatedDate": "2024-09-23T15:50:08.283000+00:00",
+            "LastUpdateState": "2024-12-04T06:52:01.974000+00:00",
+            "OnboardingTimeDays": 71,
+            "OnboardingTimeHours": 1719.03,
+            "OnboardingTimeMinutes": 103141.89,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "66f18cb99dcaf6614822b145",
+            "CreatedDate": "2024-09-23T15:50:09.124000+00:00",
+            "LastUpdateState": "2024-12-04T07:13:57.001000+00:00",
+            "OnboardingTimeDays": 71,
+            "OnboardingTimeHours": 1719.4,
+            "OnboardingTimeMinutes": 103163.8,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "66f18cb99dcaf6614822b135",
+            "CreatedDate": "2024-09-23T15:50:09.126000+00:00",
+            "LastUpdateState": "2024-12-04T06:48:51.614000+00:00",
+            "OnboardingTimeDays": 71,
+            "OnboardingTimeHours": 1718.98,
+            "OnboardingTimeMinutes": 103138.71,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "66f18cb99dcaf6614822b154",
+            "CreatedDate": "2024-09-23T15:50:09.227000+00:00",
+            "LastUpdateState": "2024-12-03T12:38:17.995000+00:00",
+            "OnboardingTimeDays": 70,
+            "OnboardingTimeHours": 1700.8,
+            "OnboardingTimeMinutes": 102048.15,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "66f18cb99dcaf6614822b136",
+            "CreatedDate": "2024-09-23T15:50:09.563000+00:00",
+            "LastUpdateState": "2024-12-04T06:42:13.195000+00:00",
+            "OnboardingTimeDays": 71,
+            "OnboardingTimeHours": 1718.87,
+            "OnboardingTimeMinutes": 103132.06,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "66f18cb99dcaf6614822b157",
+            "CreatedDate": "2024-09-23T15:50:10.512000+00:00",
+            "LastUpdateState": "2024-12-03T13:24:03.009000+00:00",
+            "OnboardingTimeDays": 70,
+            "OnboardingTimeHours": 1701.56,
+            "OnboardingTimeMinutes": 102093.87,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "6795675717459ea9e26bd210",
+            "CreatedDate": "2025-01-25T22:36:07.738000+00:00",
+            "LastUpdateState": "2025-02-10T21:18:36.216000+00:00",
+            "OnboardingTimeDays": 15,
+            "OnboardingTimeHours": 382.71,
+            "OnboardingTimeMinutes": 22962.47,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "6799b7df0717da6b4c3f4a62",
+            "CreatedDate": "2025-01-29T05:08:47.595000+00:00",
+            "LastUpdateState": "2025-02-11T01:06:20.155000+00:00",
+            "OnboardingTimeDays": 12,
+            "OnboardingTimeHours": 307.96,
+            "OnboardingTimeMinutes": 18477.54,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "679b315a935a8b4588aa03e2",
+            "CreatedDate": "2025-01-30T07:59:22.232000+00:00",
+            "LastUpdateState": "2025-02-10T22:06:37.784000+00:00",
+            "OnboardingTimeDays": 11,
+            "OnboardingTimeHours": 278.12,
+            "OnboardingTimeMinutes": 16687.26,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "679e79413c6321b486e05478",
+            "CreatedDate": "2025-02-01T19:42:57.313000+00:00",
+            "LastUpdateState": "2025-02-10T22:17:42.108000+00:00",
+            "OnboardingTimeDays": 9,
+            "OnboardingTimeHours": 218.58,
+            "OnboardingTimeMinutes": 13114.75,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a077a0740b3b6071dbca34",
+            "CreatedDate": "2025-02-03T08:00:32.827000+00:00",
+            "LastUpdateState": "2025-02-11T02:22:30.224000+00:00",
+            "OnboardingTimeDays": 7,
+            "OnboardingTimeHours": 186.37,
+            "OnboardingTimeMinutes": 11181.96,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a1ff0304418d2b8abcf9b2",
+            "CreatedDate": "2025-02-04T11:50:27.492000+00:00",
+            "LastUpdateState": "2025-02-10T21:08:55.040000+00:00",
+            "OnboardingTimeDays": 6,
+            "OnboardingTimeHours": 153.31,
+            "OnboardingTimeMinutes": 9198.46,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a2803e04418d2b8abd2206",
+            "CreatedDate": "2025-02-04T21:01:50.973000+00:00",
+            "LastUpdateState": "2025-02-10T22:43:04.931000+00:00",
+            "OnboardingTimeDays": 6,
+            "OnboardingTimeHours": 145.69,
+            "OnboardingTimeMinutes": 8741.23,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a3a3707c5581bb2e3c0b59",
+            "CreatedDate": "2025-02-05T17:44:16.875000+00:00",
+            "LastUpdateState": "2025-02-10T18:51:41.127000+00:00",
+            "OnboardingTimeDays": 5,
+            "OnboardingTimeHours": 121.12,
+            "OnboardingTimeMinutes": 7267.4,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a3bf0f7c5581bb2e3c0d89",
+            "CreatedDate": "2025-02-05T19:42:07.037000+00:00",
+            "LastUpdateState": "2025-02-10T19:31:46.762000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 119.83,
+            "OnboardingTimeMinutes": 7189.66,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a479b2e002259af095fbf2",
+            "CreatedDate": "2025-02-06T08:58:26.011000+00:00",
+            "LastUpdateState": "2025-02-11T00:08:11.186000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 111.16,
+            "OnboardingTimeMinutes": 6669.75,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a483feff73998922ba7003",
+            "CreatedDate": "2025-02-06T09:42:22.736000+00:00",
+            "LastUpdateState": "2025-02-10T21:26:36.187000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 107.74,
+            "OnboardingTimeMinutes": 6464.22,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a48447e002259af09600f2",
+            "CreatedDate": "2025-02-06T09:43:35.222000+00:00",
+            "LastUpdateState": "2025-02-10T19:10:44.634000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 105.45,
+            "OnboardingTimeMinutes": 6327.16,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a4d5eb4d3e958ed28b00f6",
+            "CreatedDate": "2025-02-06T15:31:55.879000+00:00",
+            "LastUpdateState": "2025-02-11T02:56:19.971000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 107.41,
+            "OnboardingTimeMinutes": 6444.4,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a500e5f16de32a7224fcb6",
+            "CreatedDate": "2025-02-06T18:35:17.460000+00:00",
+            "LastUpdateState": "2025-02-10T23:08:46.589000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 100.56,
+            "OnboardingTimeMinutes": 6033.49,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a5768d7d3fb4d6d2b351b7",
+            "CreatedDate": "2025-02-07T02:57:17.898000+00:00",
+            "LastUpdateState": "2025-02-10T19:35:34.173000+00:00",
+            "OnboardingTimeDays": 3,
+            "OnboardingTimeHours": 88.64,
+            "OnboardingTimeMinutes": 5318.27,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a5a2e3013c5e5cb941865e",
+            "CreatedDate": "2025-02-07T06:06:27.487000+00:00",
+            "LastUpdateState": "2025-02-10T19:44:15.221000+00:00",
+            "OnboardingTimeDays": 3,
+            "OnboardingTimeHours": 85.63,
+            "OnboardingTimeMinutes": 5137.8,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a5bb13f16de32a72250d1d",
+            "CreatedDate": "2025-02-07T07:49:39.508000+00:00",
+            "LastUpdateState": "2025-02-10T22:16:45.999000+00:00",
+            "OnboardingTimeDays": 3,
+            "OnboardingTimeHours": 86.45,
+            "OnboardingTimeMinutes": 5187.11,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a7e8ff7122ecabfb4ed78d",
+            "CreatedDate": "2025-02-08T23:30:07.192000+00:00",
+            "LastUpdateState": "2025-02-10T20:43:46.593000+00:00",
+            "OnboardingTimeDays": 1,
+            "OnboardingTimeHours": 45.23,
+            "OnboardingTimeMinutes": 2713.66,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "679d3adc2e4a87341a1415ce",
+            "CreatedDate": "2025-01-31T21:04:28.584000+00:00",
+            "LastUpdateState": "2025-02-10T20:38:08.270000+00:00",
+            "OnboardingTimeDays": 9,
+            "OnboardingTimeHours": 239.56,
+            "OnboardingTimeMinutes": 14373.66,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a61cb8491c4126b8b0d0c8",
+            "CreatedDate": "2025-02-07T14:46:16.424000+00:00",
+            "LastUpdateState": "2025-02-10T22:18:14.544000+00:00",
+            "OnboardingTimeDays": 3,
+            "OnboardingTimeHours": 79.53,
+            "OnboardingTimeMinutes": 4771.97,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "6794e0a517459ea9e26bc72c",
+            "CreatedDate": "2025-01-25T13:01:25.567000+00:00",
+            "LastUpdateState": "2025-02-10T20:25:39.343000+00:00",
+            "OnboardingTimeDays": 16,
+            "OnboardingTimeHours": 391.4,
+            "OnboardingTimeMinutes": 23484.23,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a358d0e002259af095caf2",
+            "CreatedDate": "2025-02-05T12:25:52.838000+00:00",
+            "LastUpdateState": "2025-02-11T02:28:48.523000+00:00",
+            "OnboardingTimeDays": 5,
+            "OnboardingTimeHours": 134.05,
+            "OnboardingTimeMinutes": 8042.93,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a3a5097c5581bb2e3c0b6e",
+            "CreatedDate": "2025-02-05T17:51:05.113000+00:00",
+            "LastUpdateState": "2025-02-10T19:23:42.492000+00:00",
+            "OnboardingTimeDays": 5,
+            "OnboardingTimeHours": 121.54,
+            "OnboardingTimeMinutes": 7292.62,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a2d14d933488035bbff01b",
+            "CreatedDate": "2025-02-05T02:47:41.452000+00:00",
+            "LastUpdateState": "2025-02-11T00:21:20.098000+00:00",
+            "OnboardingTimeDays": 5,
+            "OnboardingTimeHours": 141.56,
+            "OnboardingTimeMinutes": 8493.64,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a37ae2e002259af095dc4d",
+            "CreatedDate": "2025-02-05T14:51:14.763000+00:00",
+            "LastUpdateState": "2025-02-10T22:11:41.653000+00:00",
+            "OnboardingTimeDays": 5,
+            "OnboardingTimeHours": 127.34,
+            "OnboardingTimeMinutes": 7640.45,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a63f6a013c5e5cb941bc5e",
+            "CreatedDate": "2025-02-07T17:14:18.231000+00:00",
+            "LastUpdateState": "2025-02-11T02:17:23.862000+00:00",
+            "OnboardingTimeDays": 3,
+            "OnboardingTimeHours": 81.05,
+            "OnboardingTimeMinutes": 4863.09,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a4b7f9f16de32a7224efbf",
+            "CreatedDate": "2025-02-06T13:24:09.553000+00:00",
+            "LastUpdateState": "2025-02-11T01:17:06.505000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 107.88,
+            "OnboardingTimeMinutes": 6472.95,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a5a1a2013c5e5cb9418631",
+            "CreatedDate": "2025-02-07T06:01:06.654000+00:00",
+            "LastUpdateState": "2025-02-10T23:10:39.698000+00:00",
+            "OnboardingTimeDays": 3,
+            "OnboardingTimeHours": 89.16,
+            "OnboardingTimeMinutes": 5349.55,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "679893fdb8525ee083fd857f",
+            "CreatedDate": "2025-01-28T08:23:25.981000+00:00",
+            "LastUpdateState": "2025-02-10T20:55:52.674000+00:00",
+            "OnboardingTimeDays": 13,
+            "OnboardingTimeHours": 324.54,
+            "OnboardingTimeMinutes": 19472.44,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "6799343a0717da6b4c3f41a7",
+            "CreatedDate": "2025-01-28T19:47:06.287000+00:00",
+            "LastUpdateState": "2025-02-10T22:47:22.970000+00:00",
+            "OnboardingTimeDays": 13,
+            "OnboardingTimeHours": 315.0,
+            "OnboardingTimeMinutes": 18900.28,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a4c18f4d3e958ed28afc50",
+            "CreatedDate": "2025-02-06T14:05:03.400000+00:00",
+            "LastUpdateState": "2025-02-10T17:33:12.264000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 99.47,
+            "OnboardingTimeMinutes": 5968.15,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a7644d7122ecabfb4ecfe4",
+            "CreatedDate": "2025-02-08T14:03:57.946000+00:00",
+            "LastUpdateState": "2025-02-10T19:14:38.074000+00:00",
+            "OnboardingTimeDays": 2,
+            "OnboardingTimeHours": 53.18,
+            "OnboardingTimeMinutes": 3190.67,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a764537122ecabfb4ecfe8",
+            "CreatedDate": "2025-02-08T14:04:03.334000+00:00",
+            "LastUpdateState": "2025-02-10T20:48:23.272000+00:00",
+            "OnboardingTimeDays": 2,
+            "OnboardingTimeHours": 54.74,
+            "OnboardingTimeMinutes": 3284.33,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a765857122ecabfb4ed028",
+            "CreatedDate": "2025-02-08T14:09:09.530000+00:00",
+            "LastUpdateState": "2025-02-10T22:54:53.538000+00:00",
+            "OnboardingTimeDays": 2,
+            "OnboardingTimeHours": 56.76,
+            "OnboardingTimeMinutes": 3405.73,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a7cf138833f54230a7d1ca",
+            "CreatedDate": "2025-02-08T21:39:31.339000+00:00",
+            "LastUpdateState": "2025-02-10T20:38:42.247000+00:00",
+            "OnboardingTimeDays": 1,
+            "OnboardingTimeHours": 46.99,
+            "OnboardingTimeMinutes": 2819.18,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a10873972eb2a8d909427e",
+            "CreatedDate": "2025-02-03T18:18:27.043000+00:00",
+            "LastUpdateState": "2025-02-10T23:28:39.602000+00:00",
+            "OnboardingTimeDays": 7,
+            "OnboardingTimeHours": 173.17,
+            "OnboardingTimeMinutes": 10390.21,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a46b02013c5e5cb9414dd8",
+            "CreatedDate": "2025-02-06T07:55:46.607000+00:00",
+            "LastUpdateState": "2025-02-10T22:04:09.737000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 110.14,
+            "OnboardingTimeMinutes": 6608.39,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a51df1ff73998922ba909f",
+            "CreatedDate": "2025-02-06T20:39:13.671000+00:00",
+            "LastUpdateState": "2025-02-10T16:59:33.470000+00:00",
+            "OnboardingTimeDays": 3,
+            "OnboardingTimeHours": 92.34,
+            "OnboardingTimeMinutes": 5540.33,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a50513013c5e5cb9418124",
+            "CreatedDate": "2025-02-06T18:53:07.384000+00:00",
+            "LastUpdateState": "2025-02-10T19:29:37.510000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 96.61,
+            "OnboardingTimeMinutes": 5796.5,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a4f35fe002259af0962303",
+            "CreatedDate": "2025-02-06T17:37:35.277000+00:00",
+            "LastUpdateState": "2025-02-11T01:21:52.813000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 103.74,
+            "OnboardingTimeMinutes": 6224.29,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "679b4dc5bc18b37761b144c7",
+            "CreatedDate": "2025-01-30T10:00:37.224000+00:00",
+            "LastUpdateState": "2025-02-10T21:17:39.195000+00:00",
+            "OnboardingTimeDays": 11,
+            "OnboardingTimeHours": 275.28,
+            "OnboardingTimeMinutes": 16517.03,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a5aabcf16de32a7225081a",
+            "CreatedDate": "2025-02-07T06:39:56.875000+00:00",
+            "LastUpdateState": "2025-02-10T18:03:29.178000+00:00",
+            "OnboardingTimeDays": 3,
+            "OnboardingTimeHours": 83.39,
+            "OnboardingTimeMinutes": 5003.54,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a3b026f16de32a7224b88c",
+            "CreatedDate": "2025-02-05T18:38:30.544000+00:00",
+            "LastUpdateState": "2025-02-10T19:02:32.711000+00:00",
+            "OnboardingTimeDays": 5,
+            "OnboardingTimeHours": 120.4,
+            "OnboardingTimeMinutes": 7224.04,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a500b4f16de32a7224fcb1",
+            "CreatedDate": "2025-02-06T18:34:28.299000+00:00",
+            "LastUpdateState": "2025-02-10T20:54:33.782000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 98.33,
+            "OnboardingTimeMinutes": 5900.09,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a3c078933488035bc04c3d",
+            "CreatedDate": "2025-02-05T19:48:08.958000+00:00",
+            "LastUpdateState": "2025-02-11T00:16:24.854000+00:00",
+            "OnboardingTimeDays": 5,
+            "OnboardingTimeHours": 124.47,
+            "OnboardingTimeMinutes": 7468.26,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a73013bd4e10dc9132eaa8",
+            "CreatedDate": "2025-02-08T10:21:07.750000+00:00",
+            "LastUpdateState": "2025-02-10T17:12:07.336000+00:00",
+            "OnboardingTimeDays": 2,
+            "OnboardingTimeHours": 54.85,
+            "OnboardingTimeMinutes": 3290.99,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a46cdd013c5e5cb9414f5a",
+            "CreatedDate": "2025-02-06T08:03:41.230000+00:00",
+            "LastUpdateState": "2025-02-10T20:28:12.558000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 108.41,
+            "OnboardingTimeMinutes": 6504.52,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a4e1cbe002259af096219c",
+            "CreatedDate": "2025-02-06T16:22:35.900000+00:00",
+            "LastUpdateState": "2025-02-10T19:08:45.997000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 98.77,
+            "OnboardingTimeMinutes": 5926.17,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a4c070013c5e5cb94177f8",
+            "CreatedDate": "2025-02-06T14:00:16.545000+00:00",
+            "LastUpdateState": "2025-02-10T19:21:55.233000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 101.36,
+            "OnboardingTimeMinutes": 6081.64,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "679a191f0717da6b4c3f84d7",
+            "CreatedDate": "2025-01-29T12:03:43.183000+00:00",
+            "LastUpdateState": "2025-02-10T20:50:53.184000+00:00",
+            "OnboardingTimeDays": 12,
+            "OnboardingTimeHours": 296.79,
+            "OnboardingTimeMinutes": 17807.17,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a24426e274648c415dfe84",
+            "CreatedDate": "2025-02-04T16:45:26.218000+00:00",
+            "LastUpdateState": "2025-02-11T02:14:12.842000+00:00",
+            "OnboardingTimeDays": 6,
+            "OnboardingTimeHours": 153.48,
+            "OnboardingTimeMinutes": 9208.78,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a777d0bd4e10dc9132ede6",
+            "CreatedDate": "2025-02-08T15:27:12.154000+00:00",
+            "LastUpdateState": "2025-02-10T19:55:51.232000+00:00",
+            "OnboardingTimeDays": 2,
+            "OnboardingTimeHours": 52.48,
+            "OnboardingTimeMinutes": 3148.65,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67993167360bb854dc70ef25",
+            "CreatedDate": "2025-01-28T19:35:03.859000+00:00",
+            "LastUpdateState": "2025-02-11T00:43:18.193000+00:00",
+            "OnboardingTimeDays": 13,
+            "OnboardingTimeHours": 317.14,
+            "OnboardingTimeMinutes": 19028.24,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a50848e96e61b34560bb9a",
+            "CreatedDate": "2025-02-06T19:06:48.625000+00:00",
+            "LastUpdateState": "2025-02-10T17:54:05.515000+00:00",
+            "OnboardingTimeDays": 3,
+            "OnboardingTimeHours": 94.79,
+            "OnboardingTimeMinutes": 5687.28,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a3b3df933488035bc04aaf",
+            "CreatedDate": "2025-02-05T18:54:23.631000+00:00",
+            "LastUpdateState": "2025-02-10T20:23:40.893000+00:00",
+            "OnboardingTimeDays": 5,
+            "OnboardingTimeHours": 121.49,
+            "OnboardingTimeMinutes": 7289.29,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a4fe4ee002259af096241f",
+            "CreatedDate": "2025-02-06T18:24:14.088000+00:00",
+            "LastUpdateState": "2025-02-10T19:19:11.512000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 96.92,
+            "OnboardingTimeMinutes": 5814.96,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a3d4a7e002259af095e343",
+            "CreatedDate": "2025-02-05T21:14:15.236000+00:00",
+            "LastUpdateState": "2025-02-10T19:05:20.858000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 117.85,
+            "OnboardingTimeMinutes": 7071.09,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a87dd9e808088419b47e02",
+            "CreatedDate": "2025-02-09T10:05:13.121000+00:00",
+            "LastUpdateState": "2025-02-10T18:22:31.398000+00:00",
+            "OnboardingTimeDays": 1,
+            "OnboardingTimeHours": 32.29,
+            "OnboardingTimeMinutes": 1937.3,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a5041f4d3e958ed28b0461",
+            "CreatedDate": "2025-02-06T18:49:03.374000+00:00",
+            "LastUpdateState": "2025-02-10T22:48:30.450000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 99.99,
+            "OnboardingTimeMinutes": 5999.45,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a43aa6e002259af095e511",
+            "CreatedDate": "2025-02-06T04:29:26.989000+00:00",
+            "LastUpdateState": "2025-02-11T01:57:03.565000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 117.46,
+            "OnboardingTimeMinutes": 7047.61,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "6798ae2d9605ac2944b8ec35",
+            "CreatedDate": "2025-01-28T10:15:09.859000+00:00",
+            "LastUpdateState": "2025-01-28T22:54:46.690000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 12.66,
+            "OnboardingTimeMinutes": 759.61,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a4dcd24d3e958ed28b0188",
+            "CreatedDate": "2025-02-06T16:01:22.641000+00:00",
+            "LastUpdateState": "2025-02-10T20:08:36.325000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 100.12,
+            "OnboardingTimeMinutes": 6007.23,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "679b8c9dbc18b37761b16254",
+            "CreatedDate": "2025-01-30T14:28:45.154000+00:00",
+            "LastUpdateState": "2025-02-10T23:01:14.277000+00:00",
+            "OnboardingTimeDays": 11,
+            "OnboardingTimeHours": 272.54,
+            "OnboardingTimeMinutes": 16352.49,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a1b8ba732931b06e895e45",
+            "CreatedDate": "2025-02-04T06:50:34.720000+00:00",
+            "LastUpdateState": "2025-02-10T22:40:38.603000+00:00",
+            "OnboardingTimeDays": 6,
+            "OnboardingTimeHours": 159.83,
+            "OnboardingTimeMinutes": 9590.06,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "679ba9c7c343b52c128c0ba1",
+            "CreatedDate": "2025-01-30T16:33:11.684000+00:00",
+            "LastUpdateState": "2025-02-10T23:33:50.958000+00:00",
+            "OnboardingTimeDays": 11,
+            "OnboardingTimeHours": 271.01,
+            "OnboardingTimeMinutes": 16260.65,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "679e005e3c6321b486e04c71",
+            "CreatedDate": "2025-02-01T11:07:10.850000+00:00",
+            "LastUpdateState": "2025-02-05T07:47:16.518000+00:00",
+            "OnboardingTimeDays": 3,
+            "OnboardingTimeHours": 92.67,
+            "OnboardingTimeMinutes": 5560.09,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a3ca83933488035bc04dae",
+            "CreatedDate": "2025-02-05T20:30:59.900000+00:00",
+            "LastUpdateState": "2025-02-10T20:05:02.474000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 119.57,
+            "OnboardingTimeMinutes": 7174.04,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a19dfde274648c415d9990",
+            "CreatedDate": "2025-02-04T04:56:29.275000+00:00",
+            "LastUpdateState": "2025-02-05T19:37:56.763000+00:00",
+            "OnboardingTimeDays": 1,
+            "OnboardingTimeHours": 38.69,
+            "OnboardingTimeMinutes": 2321.46,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "679b5c2c3c6321b486dfd348",
+            "CreatedDate": "2025-01-30T11:02:04.484000+00:00",
+            "LastUpdateState": "2025-02-10T16:51:47.187000+00:00",
+            "OnboardingTimeDays": 11,
+            "OnboardingTimeHours": 269.83,
+            "OnboardingTimeMinutes": 16189.71,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "679b5ad93e6d7912b9f079f4",
+            "CreatedDate": "2025-01-30T10:56:25.499000+00:00",
+            "LastUpdateState": "2025-01-31T09:31:55.131000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 22.59,
+            "OnboardingTimeMinutes": 1355.49,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "678e9a3431667fb6c854ee41",
+            "CreatedDate": "2025-01-20T18:47:16.275000+00:00",
+            "LastUpdateState": "2025-01-22T09:02:15.827000+00:00",
+            "OnboardingTimeDays": 1,
+            "OnboardingTimeHours": 38.25,
+            "OnboardingTimeMinutes": 2294.99,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a7c65e7122ecabfb4ed65e",
+            "CreatedDate": "2025-02-08T21:02:22.877000+00:00",
+            "LastUpdateState": "2025-02-10T20:35:09.738000+00:00",
+            "OnboardingTimeDays": 1,
+            "OnboardingTimeHours": 47.55,
+            "OnboardingTimeMinutes": 2852.78,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a597127d3fb4d6d2b352e5",
+            "CreatedDate": "2025-02-07T05:16:02.602000+00:00",
+            "LastUpdateState": "2025-02-11T02:51:01.080000+00:00",
+            "OnboardingTimeDays": 3,
+            "OnboardingTimeHours": 93.58,
+            "OnboardingTimeMinutes": 5614.97,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a704eb7122ecabfb4eca3a",
+            "CreatedDate": "2025-02-08T07:16:59.147000+00:00",
+            "LastUpdateState": "2025-02-11T01:38:16.518000+00:00",
+            "OnboardingTimeDays": 2,
+            "OnboardingTimeHours": 66.35,
+            "OnboardingTimeMinutes": 3981.29,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a4f135e96e61b34560b9ab",
+            "CreatedDate": "2025-02-06T17:28:21.165000+00:00",
+            "LastUpdateState": "2025-02-10T16:08:28.565000+00:00",
+            "OnboardingTimeDays": 3,
+            "OnboardingTimeHours": 94.67,
+            "OnboardingTimeMinutes": 5680.12,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a7b83aae1b46b76beea362",
+            "CreatedDate": "2025-02-08T20:02:02.090000+00:00",
+            "LastUpdateState": "2025-02-10T19:19:25.862000+00:00",
+            "OnboardingTimeDays": 1,
+            "OnboardingTimeHours": 47.29,
+            "OnboardingTimeMinutes": 2837.4,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a7658fbd4e10dc9132ed20",
+            "CreatedDate": "2025-02-08T14:09:19.864000+00:00",
+            "LastUpdateState": "2025-02-10T18:58:57.476000+00:00",
+            "OnboardingTimeDays": 2,
+            "OnboardingTimeHours": 52.83,
+            "OnboardingTimeMinutes": 3169.63,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a4e09f013c5e5cb9417e3e",
+            "CreatedDate": "2025-02-06T16:17:35.710000+00:00",
+            "LastUpdateState": "2025-02-10T18:03:41.621000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 97.77,
+            "OnboardingTimeMinutes": 5866.1,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a8bff4493e67338802caec",
+            "CreatedDate": "2025-02-09T14:47:16.457000+00:00",
+            "LastUpdateState": "2025-02-10T18:21:16.280000+00:00",
+            "OnboardingTimeDays": 1,
+            "OnboardingTimeHours": 27.57,
+            "OnboardingTimeMinutes": 1654.0,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a661ca7d3fb4d6d2b38958",
+            "CreatedDate": "2025-02-07T19:40:58.916000+00:00",
+            "LastUpdateState": "2025-02-10T17:23:08.848000+00:00",
+            "OnboardingTimeDays": 2,
+            "OnboardingTimeHours": 69.7,
+            "OnboardingTimeMinutes": 4182.17,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a89885cd190b5ed13435d2",
+            "CreatedDate": "2025-02-09T11:59:01.739000+00:00",
+            "LastUpdateState": "2025-02-10T21:04:00.207000+00:00",
+            "OnboardingTimeDays": 1,
+            "OnboardingTimeHours": 33.08,
+            "OnboardingTimeMinutes": 1984.97,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "6797639daa45decf1a24d019",
+            "CreatedDate": "2025-01-27T10:44:45.401000+00:00",
+            "LastUpdateState": "2025-02-10T21:21:17.370000+00:00",
+            "OnboardingTimeDays": 14,
+            "OnboardingTimeHours": 346.61,
+            "OnboardingTimeMinutes": 20796.53,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a8a1ece808088419b47f9c",
+            "CreatedDate": "2025-02-09T12:39:08.264000+00:00",
+            "LastUpdateState": "2025-02-10T17:57:47.419000+00:00",
+            "OnboardingTimeDays": 1,
+            "OnboardingTimeHours": 29.31,
+            "OnboardingTimeMinutes": 1758.65,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "6797e0c74d3d2fdbd82ea92a",
+            "CreatedDate": "2025-01-27T19:38:47.419000+00:00",
+            "LastUpdateState": "2025-02-10T17:19:05.091000+00:00",
+            "OnboardingTimeDays": 13,
+            "OnboardingTimeHours": 333.67,
+            "OnboardingTimeMinutes": 20020.29,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a85347e808088419b47c41",
+            "CreatedDate": "2025-02-09T07:03:35.993000+00:00",
+            "LastUpdateState": "2025-02-10T20:40:08.721000+00:00",
+            "OnboardingTimeDays": 1,
+            "OnboardingTimeHours": 37.61,
+            "OnboardingTimeMinutes": 2256.55,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "679267489f1997c64932a033",
+            "CreatedDate": "2025-01-23T15:59:04.731000+00:00",
+            "LastUpdateState": "2025-02-10T21:46:14.720000+00:00",
+            "OnboardingTimeDays": 18,
+            "OnboardingTimeHours": 437.79,
+            "OnboardingTimeMinutes": 26267.17,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a4f7994d3e958ed28b033e",
+            "CreatedDate": "2025-02-06T17:55:37.355000+00:00",
+            "LastUpdateState": "2025-02-10T17:51:37.220000+00:00",
+            "OnboardingTimeDays": 3,
+            "OnboardingTimeHours": 95.93,
+            "OnboardingTimeMinutes": 5756.0,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a60f30491c4126b8b0cc63",
+            "CreatedDate": "2025-02-07T13:48:32.907000+00:00",
+            "LastUpdateState": "2025-02-10T22:10:35.916000+00:00",
+            "OnboardingTimeDays": 3,
+            "OnboardingTimeHours": 80.37,
+            "OnboardingTimeMinutes": 4822.05,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a8ae1de808088419b48015",
+            "CreatedDate": "2025-02-09T13:31:09.336000+00:00",
+            "LastUpdateState": "2025-02-10T19:44:02.986000+00:00",
+            "OnboardingTimeDays": 1,
+            "OnboardingTimeHours": 30.21,
+            "OnboardingTimeMinutes": 1812.89,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a63469e96e61b34560f64b",
+            "CreatedDate": "2025-02-07T16:27:21.521000+00:00",
+            "LastUpdateState": "2025-02-10T18:54:34.228000+00:00",
+            "OnboardingTimeDays": 3,
+            "OnboardingTimeHours": 74.45,
+            "OnboardingTimeMinutes": 4467.21,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "679b755f3c6321b486dfdcdd",
+            "CreatedDate": "2025-01-30T12:49:35.025000+00:00",
+            "LastUpdateState": "2025-02-10T20:54:34.554000+00:00",
+            "OnboardingTimeDays": 11,
+            "OnboardingTimeHours": 272.08,
+            "OnboardingTimeMinutes": 16324.99,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a7d2b17122ecabfb4ed6d9",
+            "CreatedDate": "2025-02-08T21:54:57.744000+00:00",
+            "LastUpdateState": "2025-02-10T20:19:09.172000+00:00",
+            "OnboardingTimeDays": 1,
+            "OnboardingTimeHours": 46.4,
+            "OnboardingTimeMinutes": 2784.19,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a3adaeff73998922ba4f52",
+            "CreatedDate": "2025-02-05T18:27:58.751000+00:00",
+            "LastUpdateState": "2025-02-10T18:49:14.557000+00:00",
+            "OnboardingTimeDays": 5,
+            "OnboardingTimeHours": 120.35,
+            "OnboardingTimeMinutes": 7221.26,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a9cf09b04148829b1d6e3d",
+            "CreatedDate": "2025-02-10T10:03:53.992000+00:00",
+            "LastUpdateState": "2025-02-10T17:41:55.076000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 7.63,
+            "OnboardingTimeMinutes": 458.02,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "679ba90fbc18b37761b166b3",
+            "CreatedDate": "2025-01-30T16:30:07.565000+00:00",
+            "LastUpdateState": "2025-02-10T17:37:03.457000+00:00",
+            "OnboardingTimeDays": 11,
+            "OnboardingTimeHours": 265.12,
+            "OnboardingTimeMinutes": 15906.93,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "679850734b3225d6f1c2a31d",
+            "CreatedDate": "2025-01-28T03:35:15.710000+00:00",
+            "LastUpdateState": "2025-02-10T11:19:05.665000+00:00",
+            "OnboardingTimeDays": 13,
+            "OnboardingTimeHours": 319.73,
+            "OnboardingTimeMinutes": 19183.83,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "679d37573c6321b486e0350a",
+            "CreatedDate": "2025-01-31T20:49:27.703000+00:00",
+            "LastUpdateState": "2025-02-10T23:29:57.667000+00:00",
+            "OnboardingTimeDays": 10,
+            "OnboardingTimeHours": 242.67,
+            "OnboardingTimeMinutes": 14560.5,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a10c66740b3b6071dbf955",
+            "CreatedDate": "2025-02-03T18:35:18.919000+00:00",
+            "LastUpdateState": "2025-02-10T22:51:02.896000+00:00",
+            "OnboardingTimeDays": 7,
+            "OnboardingTimeHours": 172.26,
+            "OnboardingTimeMinutes": 10335.73,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a916f27c3faebd2e95fd9e",
+            "CreatedDate": "2025-02-09T20:58:26.472000+00:00",
+            "LastUpdateState": "2025-02-10T19:58:10.734000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 23.0,
+            "OnboardingTimeMinutes": 1379.74,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a77392ae1b46b76beea055",
+            "CreatedDate": "2025-02-08T15:09:06.633000+00:00",
+            "LastUpdateState": "2025-02-10T20:17:14.691000+00:00",
+            "OnboardingTimeDays": 2,
+            "OnboardingTimeHours": 53.14,
+            "OnboardingTimeMinutes": 3188.13,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "6795e3da0c62097d0f548918",
+            "CreatedDate": "2025-01-26T07:27:22.998000+00:00",
+            "LastUpdateState": "2025-02-10T18:44:44.392000+00:00",
+            "OnboardingTimeDays": 15,
+            "OnboardingTimeHours": 371.29,
+            "OnboardingTimeMinutes": 22277.36,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "679f1cc43f4ba434b2cbe066",
+            "CreatedDate": "2025-02-02T07:20:36.970000+00:00",
+            "LastUpdateState": "2025-02-10T22:45:39.889000+00:00",
+            "OnboardingTimeDays": 8,
+            "OnboardingTimeHours": 207.42,
+            "OnboardingTimeMinutes": 12445.05,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "679a63df935a8b4588a9eda1",
+            "CreatedDate": "2025-01-29T17:22:39.983000+00:00",
+            "LastUpdateState": "2025-02-10T17:55:37.826000+00:00",
+            "OnboardingTimeDays": 12,
+            "OnboardingTimeHours": 288.55,
+            "OnboardingTimeMinutes": 17312.96,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a452a0e002259af095e6a5",
+            "CreatedDate": "2025-02-06T06:11:44.210000+00:00",
+            "LastUpdateState": "2025-02-10T20:46:22.864000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 110.58,
+            "OnboardingTimeMinutes": 6634.64,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a7c08f18058c7135d8e517",
+            "CreatedDate": "2025-02-08T20:37:35.607000+00:00",
+            "LastUpdateState": "2025-02-10T20:30:10.284000+00:00",
+            "OnboardingTimeDays": 1,
+            "OnboardingTimeHours": 47.88,
+            "OnboardingTimeMinutes": 2872.58,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a4562df16de32a7224bff0",
+            "CreatedDate": "2025-02-06T06:26:53.894000+00:00",
+            "LastUpdateState": "2025-02-10T22:57:43.715000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 112.51,
+            "OnboardingTimeMinutes": 6750.83,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a43238e002259af095e4c1",
+            "CreatedDate": "2025-02-06T03:53:28.035000+00:00",
+            "LastUpdateState": "2025-02-10T22:30:16.161000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 114.61,
+            "OnboardingTimeMinutes": 6876.8,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a7c3107122ecabfb4ed611",
+            "CreatedDate": "2025-02-08T20:48:16.422000+00:00",
+            "LastUpdateState": "2025-02-10T22:28:38.909000+00:00",
+            "OnboardingTimeDays": 2,
+            "OnboardingTimeHours": 49.67,
+            "OnboardingTimeMinutes": 2980.37,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a3c491f16de32a7224ba82",
+            "CreatedDate": "2025-02-05T20:05:37.088000+00:00",
+            "LastUpdateState": "2025-02-10T23:41:19.268000+00:00",
+            "OnboardingTimeDays": 5,
+            "OnboardingTimeHours": 123.6,
+            "OnboardingTimeMinutes": 7415.7,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a27a362d4b8cea1e9438b7",
+            "CreatedDate": "2025-02-04T20:36:06.598000+00:00",
+            "LastUpdateState": "2025-02-10T20:41:35.990000+00:00",
+            "OnboardingTimeDays": 6,
+            "OnboardingTimeHours": 144.09,
+            "OnboardingTimeMinutes": 8645.49,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a33eef933488035bc02a21",
+            "CreatedDate": "2025-02-05T10:35:27.780000+00:00",
+            "LastUpdateState": "2025-02-10T22:39:56.064000+00:00",
+            "OnboardingTimeDays": 5,
+            "OnboardingTimeHours": 132.07,
+            "OnboardingTimeMinutes": 7924.47,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a741d07122ecabfb4ecde8",
+            "CreatedDate": "2025-02-08T11:36:48.658000+00:00",
+            "LastUpdateState": "2025-02-10T18:47:30.215000+00:00",
+            "OnboardingTimeDays": 2,
+            "OnboardingTimeHours": 55.18,
+            "OnboardingTimeMinutes": 3310.69,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a6f9b41145203b0f58f5d6",
+            "CreatedDate": "2025-02-08T06:29:08.538000+00:00",
+            "LastUpdateState": "2025-02-11T02:53:59.772000+00:00",
+            "OnboardingTimeDays": 2,
+            "OnboardingTimeHours": 68.41,
+            "OnboardingTimeMinutes": 4104.85,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a458aa013c5e5cb94142f5",
+            "CreatedDate": "2025-02-06T06:37:30.289000+00:00",
+            "LastUpdateState": "2025-02-10T19:54:29.312000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 109.28,
+            "OnboardingTimeMinutes": 6556.98,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a35b60f16de32a7224a285",
+            "CreatedDate": "2025-02-05T12:36:48.008000+00:00",
+            "LastUpdateState": "2025-02-10T19:39:50.931000+00:00",
+            "OnboardingTimeDays": 5,
+            "OnboardingTimeHours": 127.05,
+            "OnboardingTimeMinutes": 7623.05,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a3c4497c5581bb2e3c0e9f",
+            "CreatedDate": "2025-02-05T20:04:25.235000+00:00",
+            "LastUpdateState": "2025-02-10T21:18:46.343000+00:00",
+            "OnboardingTimeDays": 5,
+            "OnboardingTimeHours": 121.24,
+            "OnboardingTimeMinutes": 7274.35,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a50f5ff16de32a7224fe07",
+            "CreatedDate": "2025-02-06T19:37:03.201000+00:00",
+            "LastUpdateState": "2025-02-10T17:35:06.218000+00:00",
+            "OnboardingTimeDays": 3,
+            "OnboardingTimeHours": 93.97,
+            "OnboardingTimeMinutes": 5638.05,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "679f19a33943f830990af76c",
+            "CreatedDate": "2025-02-02T07:07:15.476000+00:00",
+            "LastUpdateState": "2025-02-10T20:15:21.017000+00:00",
+            "OnboardingTimeDays": 8,
+            "OnboardingTimeHours": 205.13,
+            "OnboardingTimeMinutes": 12308.09,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a4f3b6013c5e5cb9417fb4",
+            "CreatedDate": "2025-02-06T17:39:02.255000+00:00",
+            "LastUpdateState": "2025-02-10T18:29:44.404000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 96.85,
+            "OnboardingTimeMinutes": 5810.7,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a8c8a0cd190b5ed134379f",
+            "CreatedDate": "2025-02-09T15:24:16.545000+00:00",
+            "LastUpdateState": "2025-02-11T00:52:18.196000+00:00",
+            "OnboardingTimeDays": 1,
+            "OnboardingTimeHours": 33.47,
+            "OnboardingTimeMinutes": 2008.03,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67990e82360bb854dc70ec46",
+            "CreatedDate": "2025-01-28T17:06:10.917000+00:00",
+            "LastUpdateState": "2025-02-10T17:08:05.727000+00:00",
+            "OnboardingTimeDays": 13,
+            "OnboardingTimeHours": 312.03,
+            "OnboardingTimeMinutes": 18721.91,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a3bdaee002259af095e157",
+            "CreatedDate": "2025-02-05T19:36:14.375000+00:00",
+            "LastUpdateState": "2025-02-10T19:00:09.881000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 119.4,
+            "OnboardingTimeMinutes": 7163.93,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "6032a8e11165f48cdbdad9d3",
+            "CreatedDate": "2018-07-31T00:00:00+00:00",
+            "LastUpdateState": "2025-02-10T17:29:07.752000+00:00",
+            "OnboardingTimeDays": 2386,
+            "OnboardingTimeHours": 57281.49,
+            "OnboardingTimeMinutes": 3436889.13,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a510f84d3e958ed28b0525",
+            "CreatedDate": "2025-02-06T19:43:52.945000+00:00",
+            "LastUpdateState": "2025-02-10T22:31:49.879000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 98.8,
+            "OnboardingTimeMinutes": 5927.95,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a4ee41013c5e5cb9417f46",
+            "CreatedDate": "2025-02-06T17:15:45.300000+00:00",
+            "LastUpdateState": "2025-02-11T00:50:45.777000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 103.58,
+            "OnboardingTimeMinutes": 6215.01,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a0db7f972eb2a8d9093f2b",
+            "CreatedDate": "2025-02-03T15:06:39.110000+00:00",
+            "LastUpdateState": "2025-02-10T17:41:01.468000+00:00",
+            "OnboardingTimeDays": 7,
+            "OnboardingTimeHours": 170.57,
+            "OnboardingTimeMinutes": 10234.37,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a5dacb013c5e5cb9419dae",
+            "CreatedDate": "2025-02-07T10:04:59.992000+00:00",
+            "LastUpdateState": "2025-02-10T18:27:05.241000+00:00",
+            "OnboardingTimeDays": 3,
+            "OnboardingTimeHours": 80.37,
+            "OnboardingTimeMinutes": 4822.09,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a3c9697c5581bb2e3c0f1a",
+            "CreatedDate": "2025-02-05T20:26:17.825000+00:00",
+            "LastUpdateState": "2025-02-10T23:42:19.101000+00:00",
+            "OnboardingTimeDays": 5,
+            "OnboardingTimeHours": 123.27,
+            "OnboardingTimeMinutes": 7396.02,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a3bee1933488035bc04c13",
+            "CreatedDate": "2025-02-05T19:41:21.172000+00:00",
+            "LastUpdateState": "2025-02-10T20:05:42.308000+00:00",
+            "OnboardingTimeDays": 5,
+            "OnboardingTimeHours": 120.41,
+            "OnboardingTimeMinutes": 7224.35,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67964ccdaa45decf1a24a670",
+            "CreatedDate": "2025-01-26T14:55:09.678000+00:00",
+            "LastUpdateState": "2025-02-11T10:27:43.097000+00:00",
+            "OnboardingTimeDays": 15,
+            "OnboardingTimeHours": 379.54,
+            "OnboardingTimeMinutes": 22772.56,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a3c399f16de32a7224ba66",
+            "CreatedDate": "2025-02-05T20:01:29.600000+00:00",
+            "LastUpdateState": "2025-02-10T21:28:52.600000+00:00",
+            "OnboardingTimeDays": 5,
+            "OnboardingTimeHours": 121.46,
+            "OnboardingTimeMinutes": 7287.38,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a46664f16de32a7224c847",
+            "CreatedDate": "2025-02-06T07:36:04.766000+00:00",
+            "LastUpdateState": "2025-02-10T23:22:25.614000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 111.77,
+            "OnboardingTimeMinutes": 6706.35,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67897bda302d173d263ce5bc",
+            "CreatedDate": "2025-01-16T21:36:26.367000+00:00",
+            "LastUpdateState": "2025-01-22T09:35:00.603000+00:00",
+            "OnboardingTimeDays": 5,
+            "OnboardingTimeHours": 131.98,
+            "OnboardingTimeMinutes": 7918.57,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a691c048374d83e974beba",
+            "CreatedDate": "2025-02-07T23:05:36.811000+00:00",
+            "LastUpdateState": "2025-02-11T00:31:47.687000+00:00",
+            "OnboardingTimeDays": 3,
+            "OnboardingTimeHours": 73.44,
+            "OnboardingTimeMinutes": 4406.18,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "6787b7ad76421f889de0ddfc",
+            "CreatedDate": "2025-01-15T13:27:09.695000+00:00",
+            "LastUpdateState": "2025-02-10T17:04:43.720000+00:00",
+            "OnboardingTimeDays": 26,
+            "OnboardingTimeHours": 627.63,
+            "OnboardingTimeMinutes": 37657.57,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a3bfde7c5581bb2e3c0dfe",
+            "CreatedDate": "2025-02-05T19:45:34.641000+00:00",
+            "LastUpdateState": "2025-02-10T22:34:04.763000+00:00",
+            "OnboardingTimeDays": 5,
+            "OnboardingTimeHours": 122.81,
+            "OnboardingTimeMinutes": 7368.5,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "678df74ecb4906911f2bcc53",
+            "CreatedDate": "2025-01-20T07:12:14.088000+00:00",
+            "LastUpdateState": "2025-01-22T09:43:50.953000+00:00",
+            "OnboardingTimeDays": 2,
+            "OnboardingTimeHours": 50.53,
+            "OnboardingTimeMinutes": 3031.61,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a5b397e96e61b34560c27d",
+            "CreatedDate": "2025-02-07T07:17:43.492000+00:00",
+            "LastUpdateState": "2025-02-10T18:06:57.748000+00:00",
+            "OnboardingTimeDays": 3,
+            "OnboardingTimeHours": 82.82,
+            "OnboardingTimeMinutes": 4969.24,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "671a4fefa956c4df85f2cbad",
+            "CreatedDate": "2024-10-24T13:47:27.169000+00:00",
+            "LastUpdateState": "2025-02-10T20:25:40.117000+00:00",
+            "OnboardingTimeDays": 109,
+            "OnboardingTimeHours": 2622.64,
+            "OnboardingTimeMinutes": 157358.22,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a3c0fb933488035bc04c4e",
+            "CreatedDate": "2025-02-05T19:50:19.058000+00:00",
+            "LastUpdateState": "2025-02-10T23:34:44.006000+00:00",
+            "OnboardingTimeDays": 5,
+            "OnboardingTimeHours": 123.74,
+            "OnboardingTimeMinutes": 7424.42,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a86576493e67338802c815",
+            "CreatedDate": "2025-02-09T08:21:10.214000+00:00",
+            "LastUpdateState": "2025-02-10T16:31:18.887000+00:00",
+            "OnboardingTimeDays": 1,
+            "OnboardingTimeHours": 32.17,
+            "OnboardingTimeMinutes": 1930.14,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "679e2befc343b52c128c4cca",
+            "CreatedDate": "2025-02-01T14:13:03.102000+00:00",
+            "LastUpdateState": "2025-02-10T21:36:24.576000+00:00",
+            "OnboardingTimeDays": 9,
+            "OnboardingTimeHours": 223.39,
+            "OnboardingTimeMinutes": 13403.36,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "6786a8d8b51ffe0677c17350",
+            "CreatedDate": "2025-01-14T18:11:36.802000+00:00",
+            "LastUpdateState": "2025-02-10T21:02:49.065000+00:00",
+            "OnboardingTimeDays": 27,
+            "OnboardingTimeHours": 650.85,
+            "OnboardingTimeMinutes": 39051.2,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a5f3ca013c5e5cb941a78c",
+            "CreatedDate": "2025-02-07T11:51:38.471000+00:00",
+            "LastUpdateState": "2025-02-10T22:25:48.045000+00:00",
+            "OnboardingTimeDays": 3,
+            "OnboardingTimeHours": 82.57,
+            "OnboardingTimeMinutes": 4954.16,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a46047ff73998922ba5b33",
+            "CreatedDate": "2025-02-06T07:09:59.424000+00:00",
+            "LastUpdateState": "2025-02-10T20:00:53.014000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 108.85,
+            "OnboardingTimeMinutes": 6530.89,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "679793c94d3d2fdbd82ea0c0",
+            "CreatedDate": "2025-01-27T14:10:17.244000+00:00",
+            "LastUpdateState": "2025-02-10T17:01:44.184000+00:00",
+            "OnboardingTimeDays": 14,
+            "OnboardingTimeHours": 338.86,
+            "OnboardingTimeMinutes": 20331.45,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a4e92fe002259af09621f7",
+            "CreatedDate": "2025-02-06T16:54:07.670000+00:00",
+            "LastUpdateState": "2025-02-10T22:45:20.559000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 101.85,
+            "OnboardingTimeMinutes": 6111.21,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a49fc7e96e61b34560a292",
+            "CreatedDate": "2025-02-06T11:40:55.759000+00:00",
+            "LastUpdateState": "2025-02-10T20:58:51.253000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 105.3,
+            "OnboardingTimeMinutes": 6317.92,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a220a404418d2b8abd1509",
+            "CreatedDate": "2025-02-04T14:13:56.377000+00:00",
+            "LastUpdateState": "2025-02-10T21:06:43.865000+00:00",
+            "OnboardingTimeDays": 6,
+            "OnboardingTimeHours": 150.88,
+            "OnboardingTimeMinutes": 9052.79,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a8a41ccd190b5ed1343649",
+            "CreatedDate": "2025-02-09T12:48:28.263000+00:00",
+            "LastUpdateState": "2025-02-11T00:09:56.262000+00:00",
+            "OnboardingTimeDays": 1,
+            "OnboardingTimeHours": 35.36,
+            "OnboardingTimeMinutes": 2121.47,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a7b6e318058c7135d8e45f",
+            "CreatedDate": "2025-02-08T19:56:19.877000+00:00",
+            "LastUpdateState": "2025-02-10T22:06:43.584000+00:00",
+            "OnboardingTimeDays": 2,
+            "OnboardingTimeHours": 50.17,
+            "OnboardingTimeMinutes": 3010.4,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "679b866e935a8b4588aa2aec",
+            "CreatedDate": "2025-01-30T14:02:22.755000+00:00",
+            "LastUpdateState": "2025-02-10T20:24:18.951000+00:00",
+            "OnboardingTimeDays": 11,
+            "OnboardingTimeHours": 270.37,
+            "OnboardingTimeMinutes": 16221.94,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a9be388e4b8484325db673",
+            "CreatedDate": "2025-02-10T08:52:08.162000+00:00",
+            "LastUpdateState": "2025-02-10T21:49:48.324000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 12.96,
+            "OnboardingTimeMinutes": 777.67,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a43a0aff73998922ba5439",
+            "CreatedDate": "2025-02-06T04:26:50.328000+00:00",
+            "LastUpdateState": "2025-02-10T18:00:47.173000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 109.57,
+            "OnboardingTimeMinutes": 6573.95,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a3d40bf16de32a7224bbf0",
+            "CreatedDate": "2025-02-05T21:11:39.667000+00:00",
+            "LastUpdateState": "2025-02-10T20:28:57.326000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 119.29,
+            "OnboardingTimeMinutes": 7157.29,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "6795fc7617459ea9e26bda76",
+            "CreatedDate": "2025-01-26T09:12:22.647000+00:00",
+            "LastUpdateState": "2025-02-10T18:24:39.416000+00:00",
+            "OnboardingTimeDays": 15,
+            "OnboardingTimeHours": 369.2,
+            "OnboardingTimeMinutes": 22152.28,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "679e5ecd3c6321b486e05309",
+            "CreatedDate": "2025-02-01T17:50:05.767000+00:00",
+            "LastUpdateState": "2025-02-10T18:12:26.338000+00:00",
+            "OnboardingTimeDays": 9,
+            "OnboardingTimeHours": 216.37,
+            "OnboardingTimeMinutes": 12982.34,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "664f6d700338c2baa825352f",
+            "CreatedDate": "2024-05-23T16:23:12.710000+00:00",
+            "LastUpdateState": "2025-01-27T07:57:06.025000+00:00",
+            "OnboardingTimeDays": 248,
+            "OnboardingTimeHours": 5967.56,
+            "OnboardingTimeMinutes": 358053.89,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "66f18cb99dcaf6614822b11b",
+            "CreatedDate": "2024-09-23T15:50:04.939000+00:00",
+            "LastUpdateState": "2024-12-03T13:27:15.310000+00:00",
+            "OnboardingTimeDays": 70,
+            "OnboardingTimeHours": 1701.62,
+            "OnboardingTimeMinutes": 102097.17,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "66f18cb99dcaf6614822b102",
+            "CreatedDate": "2024-09-23T15:50:05.193000+00:00",
+            "LastUpdateState": "2024-12-03T12:12:17.531000+00:00",
+            "OnboardingTimeDays": 70,
+            "OnboardingTimeHours": 1700.37,
+            "OnboardingTimeMinutes": 102022.21,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "66f18cb99dcaf6614822b112",
+            "CreatedDate": "2024-09-23T15:50:05.362000+00:00",
+            "LastUpdateState": "2024-12-03T12:34:36.833000+00:00",
+            "OnboardingTimeDays": 70,
+            "OnboardingTimeHours": 1700.74,
+            "OnboardingTimeMinutes": 102044.52,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "66f18cb99dcaf6614822b115",
+            "CreatedDate": "2024-09-23T15:50:06.677000+00:00",
+            "LastUpdateState": "2024-12-03T13:10:47.891000+00:00",
+            "OnboardingTimeDays": 70,
+            "OnboardingTimeHours": 1701.34,
+            "OnboardingTimeMinutes": 102080.69,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "66f18cb99dcaf6614822b141",
+            "CreatedDate": "2024-09-23T15:50:07.389000+00:00",
+            "LastUpdateState": "2024-12-03T13:23:43.763000+00:00",
+            "OnboardingTimeDays": 70,
+            "OnboardingTimeHours": 1701.56,
+            "OnboardingTimeMinutes": 102093.61,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "66f18cb99dcaf6614822b150",
+            "CreatedDate": "2024-09-23T15:50:07.464000+00:00",
+            "LastUpdateState": "2024-12-03T13:50:38.521000+00:00",
+            "OnboardingTimeDays": 70,
+            "OnboardingTimeHours": 1702.01,
+            "OnboardingTimeMinutes": 102120.52,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a7b0cbae1b46b76beea2fd",
+            "CreatedDate": "2025-02-08T19:30:19.866000+00:00",
+            "LastUpdateState": "2025-02-10T22:52:22.169000+00:00",
+            "OnboardingTimeDays": 2,
+            "OnboardingTimeHours": 51.37,
+            "OnboardingTimeMinutes": 3082.04,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a9b8998e4b8484325db1a5",
+            "CreatedDate": "2025-02-10T08:28:09.238000+00:00",
+            "LastUpdateState": "2025-02-10T20:30:45.450000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 12.04,
+            "OnboardingTimeMinutes": 722.6,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a7d8ce7122ecabfb4ed711",
+            "CreatedDate": "2025-02-08T22:21:02.250000+00:00",
+            "LastUpdateState": "2025-02-10T20:21:27.684000+00:00",
+            "OnboardingTimeDays": 1,
+            "OnboardingTimeHours": 46.01,
+            "OnboardingTimeMinutes": 2760.42,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a5935cf16de32a7225029b",
+            "CreatedDate": "2025-02-07T05:00:12.152000+00:00",
+            "LastUpdateState": "2025-02-10T22:42:36.935000+00:00",
+            "OnboardingTimeDays": 3,
+            "OnboardingTimeHours": 89.71,
+            "OnboardingTimeMinutes": 5382.41,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a9e72d4a6e2042a7ba82f7",
+            "CreatedDate": "2025-02-10T11:46:53.919000+00:00",
+            "LastUpdateState": "2025-02-11T00:45:42.607000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 12.98,
+            "OnboardingTimeMinutes": 778.81,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a48d4a013c5e5cb94161a3",
+            "CreatedDate": "2025-02-06T10:22:02.330000+00:00",
+            "LastUpdateState": "2025-02-10T19:46:27.750000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 105.41,
+            "OnboardingTimeMinutes": 6324.42,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a37684933488035bc045a2",
+            "CreatedDate": "2025-02-05T14:32:36.240000+00:00",
+            "LastUpdateState": "2025-02-11T02:26:47.367000+00:00",
+            "OnboardingTimeDays": 5,
+            "OnboardingTimeHours": 131.9,
+            "OnboardingTimeMinutes": 7914.19,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a9fd224a6e2042a7ba8d12",
+            "CreatedDate": "2025-02-10T13:20:34.728000+00:00",
+            "LastUpdateState": "2025-02-10T19:21:01.021000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 6.01,
+            "OnboardingTimeMinutes": 360.44,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a3c27af16de32a7224ba37",
+            "CreatedDate": "2025-02-05T19:56:42.078000+00:00",
+            "LastUpdateState": "2025-02-10T21:40:11.669000+00:00",
+            "OnboardingTimeDays": 5,
+            "OnboardingTimeHours": 121.72,
+            "OnboardingTimeMinutes": 7303.49,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "6795410ee757e3560b460fe1",
+            "CreatedDate": "2025-01-25T19:52:46.309000+00:00",
+            "LastUpdateState": "2025-02-10T20:33:19.813000+00:00",
+            "OnboardingTimeDays": 16,
+            "OnboardingTimeHours": 384.68,
+            "OnboardingTimeMinutes": 23080.56,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a49631e002259af09608b0",
+            "CreatedDate": "2025-02-06T11:00:01.429000+00:00",
+            "LastUpdateState": "2025-02-10T18:38:51.279000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 103.65,
+            "OnboardingTimeMinutes": 6218.83,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a274e5372d5c786af69be6",
+            "CreatedDate": "2025-02-04T20:13:25.496000+00:00",
+            "LastUpdateState": "2025-02-10T21:16:20.842000+00:00",
+            "OnboardingTimeDays": 6,
+            "OnboardingTimeHours": 145.05,
+            "OnboardingTimeMinutes": 8702.92,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a64c2c013c5e5cb941bce3",
+            "CreatedDate": "2025-02-07T18:08:44.355000+00:00",
+            "LastUpdateState": "2025-02-10T21:24:05.219000+00:00",
+            "OnboardingTimeDays": 3,
+            "OnboardingTimeHours": 75.26,
+            "OnboardingTimeMinutes": 4515.35,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a64db07d3fb4d6d2b38800",
+            "CreatedDate": "2025-02-07T18:15:12.747000+00:00",
+            "LastUpdateState": "2025-02-10T17:59:52.415000+00:00",
+            "OnboardingTimeDays": 2,
+            "OnboardingTimeHours": 71.74,
+            "OnboardingTimeMinutes": 4304.66,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a7ebceae1b46b76beea563",
+            "CreatedDate": "2025-02-08T23:42:06.452000+00:00",
+            "LastUpdateState": "2025-02-10T18:20:41.676000+00:00",
+            "OnboardingTimeDays": 1,
+            "OnboardingTimeHours": 42.64,
+            "OnboardingTimeMinutes": 2558.59,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a1b504372f0628c8f48b95",
+            "CreatedDate": "2025-02-04T06:34:44.156000+00:00",
+            "LastUpdateState": "2025-02-10T23:50:21.271000+00:00",
+            "OnboardingTimeDays": 6,
+            "OnboardingTimeHours": 161.26,
+            "OnboardingTimeMinutes": 9675.62,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a34a6aff73998922ba3577",
+            "CreatedDate": "2025-02-05T11:24:26.120000+00:00",
+            "LastUpdateState": "2025-02-10T20:54:40.421000+00:00",
+            "OnboardingTimeDays": 5,
+            "OnboardingTimeHours": 129.5,
+            "OnboardingTimeMinutes": 7770.24,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a9ed92ee35a99e4b066bec",
+            "CreatedDate": "2025-02-10T12:14:10.656000+00:00",
+            "LastUpdateState": "2025-02-10T20:35:26.756000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 8.35,
+            "OnboardingTimeMinutes": 501.27,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67973d68aa45decf1a24bf9a",
+            "CreatedDate": "2025-01-27T08:01:44.983000+00:00",
+            "LastUpdateState": "2025-02-10T21:22:39.220000+00:00",
+            "OnboardingTimeDays": 14,
+            "OnboardingTimeHours": 349.35,
+            "OnboardingTimeMinutes": 20960.9,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a9f33d4a6e2042a7ba8780",
+            "CreatedDate": "2025-02-10T12:38:21.328000+00:00",
+            "LastUpdateState": "2025-02-10T22:50:28.904000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 10.2,
+            "OnboardingTimeMinutes": 612.13,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a63283f16de32a72253c4d",
+            "CreatedDate": "2025-02-07T16:19:15.960000+00:00",
+            "LastUpdateState": "2025-02-10T22:23:48.734000+00:00",
+            "OnboardingTimeDays": 3,
+            "OnboardingTimeHours": 78.08,
+            "OnboardingTimeMinutes": 4684.55,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a47aa5f16de32a7224d6b1",
+            "CreatedDate": "2025-02-06T09:02:29.282000+00:00",
+            "LastUpdateState": "2025-02-10T19:16:54.697000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 106.24,
+            "OnboardingTimeMinutes": 6374.42,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a4a31fe002259af0960b9e",
+            "CreatedDate": "2025-02-06T11:55:11.235000+00:00",
+            "LastUpdateState": "2025-02-10T19:09:14.484000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 103.23,
+            "OnboardingTimeMinutes": 6194.05,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a775f818058c7135d8e1d5",
+            "CreatedDate": "2025-02-08T15:19:20.676000+00:00",
+            "LastUpdateState": "2025-02-10T16:46:51.111000+00:00",
+            "OnboardingTimeDays": 2,
+            "OnboardingTimeHours": 49.46,
+            "OnboardingTimeMinutes": 2967.51,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a501e6e96e61b34560bb0c",
+            "CreatedDate": "2025-02-06T18:39:34.399000+00:00",
+            "LastUpdateState": "2025-02-11T00:12:25.097000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 101.55,
+            "OnboardingTimeMinutes": 6092.84,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a6f66ca127c8ccaa048b36",
+            "CreatedDate": "2025-02-08T06:15:08.613000+00:00",
+            "LastUpdateState": "2025-02-10T21:11:01.531000+00:00",
+            "OnboardingTimeDays": 2,
+            "OnboardingTimeHours": 62.93,
+            "OnboardingTimeMinutes": 3775.88,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a1a671e274648c415d9a99",
+            "CreatedDate": "2025-02-04T05:32:33.396000+00:00",
+            "LastUpdateState": "2025-02-10T22:10:51.195000+00:00",
+            "OnboardingTimeDays": 6,
+            "OnboardingTimeHours": 160.64,
+            "OnboardingTimeMinutes": 9638.3,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67961e26e757e3560b4625c3",
+            "CreatedDate": "2025-01-26T11:36:06.563000+00:00",
+            "LastUpdateState": "2025-02-10T19:56:53.838000+00:00",
+            "OnboardingTimeDays": 15,
+            "OnboardingTimeHours": 368.35,
+            "OnboardingTimeMinutes": 22100.79,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a96148b04148829b1d47ed",
+            "CreatedDate": "2025-02-10T02:15:36.338000+00:00",
+            "LastUpdateState": "2025-02-10T21:06:13.665000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 18.84,
+            "OnboardingTimeMinutes": 1130.62,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "6798bb48b8525ee083fd9149",
+            "CreatedDate": "2025-01-28T11:11:04.666000+00:00",
+            "LastUpdateState": "2025-02-05T07:41:53.385000+00:00",
+            "OnboardingTimeDays": 7,
+            "OnboardingTimeHours": 188.51,
+            "OnboardingTimeMinutes": 11310.81,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "679ba3a0bc18b37761b16629",
+            "CreatedDate": "2025-01-30T16:06:56.716000+00:00",
+            "LastUpdateState": "2025-02-04T10:00:51.184000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 113.9,
+            "OnboardingTimeMinutes": 6833.91,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "6799d0f70e0266f38a26a162",
+            "CreatedDate": "2025-01-29T06:55:51.621000+00:00",
+            "LastUpdateState": "2025-02-04T09:25:49.835000+00:00",
+            "OnboardingTimeDays": 6,
+            "OnboardingTimeHours": 146.5,
+            "OnboardingTimeMinutes": 8789.97,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a112d93933113e206c0076",
+            "CreatedDate": "2025-02-03T19:02:49.341000+00:00",
+            "LastUpdateState": "2025-02-05T19:40:12.549000+00:00",
+            "OnboardingTimeDays": 2,
+            "OnboardingTimeHours": 48.62,
+            "OnboardingTimeMinutes": 2917.39,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a7b5a37122ecabfb4ed50d",
+            "CreatedDate": "2025-02-08T19:50:59.888000+00:00",
+            "LastUpdateState": "2025-02-10T22:31:58.197000+00:00",
+            "OnboardingTimeDays": 2,
+            "OnboardingTimeHours": 50.68,
+            "OnboardingTimeMinutes": 3040.97,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a7ca66ae1b46b76beea47e",
+            "CreatedDate": "2025-02-08T21:19:34.468000+00:00",
+            "LastUpdateState": "2025-02-10T21:13:05.808000+00:00",
+            "OnboardingTimeDays": 1,
+            "OnboardingTimeHours": 47.89,
+            "OnboardingTimeMinutes": 2873.52,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a7b28f7122ecabfb4ed4b1",
+            "CreatedDate": "2025-02-08T19:37:51.304000+00:00",
+            "LastUpdateState": "2025-02-10T19:41:28.500000+00:00",
+            "OnboardingTimeDays": 2,
+            "OnboardingTimeHours": 48.06,
+            "OnboardingTimeMinutes": 2883.62,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "679e0b2e2e4a87341a141e37",
+            "CreatedDate": "2025-02-01T11:53:18.646000+00:00",
+            "LastUpdateState": "2025-02-10T20:21:30.287000+00:00",
+            "OnboardingTimeDays": 9,
+            "OnboardingTimeHours": 224.47,
+            "OnboardingTimeMinutes": 13468.19,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a36786f16de32a7224a995",
+            "CreatedDate": "2025-02-05T13:28:38.425000+00:00",
+            "LastUpdateState": "2025-02-10T19:07:14.271000+00:00",
+            "OnboardingTimeDays": 5,
+            "OnboardingTimeHours": 125.64,
+            "OnboardingTimeMinutes": 7538.6,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "679f4f393943f830990afa5b",
+            "CreatedDate": "2025-02-02T10:55:53.396000+00:00",
+            "LastUpdateState": "2025-02-10T21:13:52.426000+00:00",
+            "OnboardingTimeDays": 8,
+            "OnboardingTimeHours": 202.3,
+            "OnboardingTimeMinutes": 12137.98,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "679f2eeb967cef8025d2dd23",
+            "CreatedDate": "2025-02-02T08:38:03.425000+00:00",
+            "LastUpdateState": "2025-02-05T06:50:44.160000+00:00",
+            "OnboardingTimeDays": 2,
+            "OnboardingTimeHours": 70.21,
+            "OnboardingTimeMinutes": 4212.68,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a9c0b48e4b8484325db8ac",
+            "CreatedDate": "2025-02-10T09:02:44.716000+00:00",
+            "LastUpdateState": "2025-02-10T19:00:43.160000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 9.97,
+            "OnboardingTimeMinutes": 597.97,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "679a66fb0e0266f38a26dfa2",
+            "CreatedDate": "2025-01-29T17:35:55.921000+00:00",
+            "LastUpdateState": "2025-02-05T20:36:59.844000+00:00",
+            "OnboardingTimeDays": 7,
+            "OnboardingTimeHours": 171.02,
+            "OnboardingTimeMinutes": 10261.07,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "679a57879c3c79e6a19f8270",
+            "CreatedDate": "2025-01-29T16:29:59.021000+00:00",
+            "LastUpdateState": "2025-02-05T17:58:44.442000+00:00",
+            "OnboardingTimeDays": 7,
+            "OnboardingTimeHours": 169.48,
+            "OnboardingTimeMinutes": 10168.76,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a3c5cdf16de32a7224baa8",
+            "CreatedDate": "2025-02-05T20:10:53.404000+00:00",
+            "LastUpdateState": "2025-02-10T19:47:01.884000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 119.6,
+            "OnboardingTimeMinutes": 7176.14,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a12ea32614a53d28c46f4f",
+            "CreatedDate": "2025-02-03T21:01:23.034000+00:00",
+            "LastUpdateState": "2025-02-10T19:22:10.239000+00:00",
+            "OnboardingTimeDays": 6,
+            "OnboardingTimeHours": 166.35,
+            "OnboardingTimeMinutes": 9980.79,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a2d577933488035bbff064",
+            "CreatedDate": "2025-02-05T03:05:27.707000+00:00",
+            "LastUpdateState": "2025-02-10T22:08:57.379000+00:00",
+            "OnboardingTimeDays": 5,
+            "OnboardingTimeHours": 139.06,
+            "OnboardingTimeMinutes": 8343.49,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "6798d3bfd620708a506ca807",
+            "CreatedDate": "2025-01-28T12:55:27.043000+00:00",
+            "LastUpdateState": "2025-02-11T01:30:07.051000+00:00",
+            "OnboardingTimeDays": 13,
+            "OnboardingTimeHours": 324.58,
+            "OnboardingTimeMinutes": 19474.67,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "678a8338e5211e79c57449e0",
+            "CreatedDate": "2025-01-17T16:20:08.405000+00:00",
+            "LastUpdateState": "2025-02-10T22:36:33.087000+00:00",
+            "OnboardingTimeDays": 24,
+            "OnboardingTimeHours": 582.27,
+            "OnboardingTimeMinutes": 34936.41,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a7d7657122ecabfb4ed704",
+            "CreatedDate": "2025-02-08T22:15:01.500000+00:00",
+            "LastUpdateState": "2025-02-10T23:43:28.500000+00:00",
+            "OnboardingTimeDays": 2,
+            "OnboardingTimeHours": 49.47,
+            "OnboardingTimeMinutes": 2968.45,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "6788c4065a2892fe63d7a915",
+            "CreatedDate": "2025-01-16T08:32:06.459000+00:00",
+            "LastUpdateState": "2025-01-22T08:53:28.130000+00:00",
+            "OnboardingTimeDays": 6,
+            "OnboardingTimeHours": 144.36,
+            "OnboardingTimeMinutes": 8661.36,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "6788db9e5a2892fe63d7c4d0",
+            "CreatedDate": "2025-01-16T10:12:46.637000+00:00",
+            "LastUpdateState": "2025-01-22T13:08:06.717000+00:00",
+            "OnboardingTimeDays": 6,
+            "OnboardingTimeHours": 146.92,
+            "OnboardingTimeMinutes": 8815.33,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "6798c075b8525ee083fd9310",
+            "CreatedDate": "2025-01-28T11:33:09.436000+00:00",
+            "LastUpdateState": "2025-01-31T11:25:01.904000+00:00",
+            "OnboardingTimeDays": 2,
+            "OnboardingTimeHours": 71.86,
+            "OnboardingTimeMinutes": 4311.87,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a9d6f88e4b8484325dc68a",
+            "CreatedDate": "2025-02-10T10:37:44.716000+00:00",
+            "LastUpdateState": "2025-02-10T23:57:13.352000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 13.32,
+            "OnboardingTimeMinutes": 799.48,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "679b754e935a8b4588aa2180",
+            "CreatedDate": "2025-01-30T12:49:18.609000+00:00",
+            "LastUpdateState": "2025-02-10T20:58:21.382000+00:00",
+            "OnboardingTimeDays": 11,
+            "OnboardingTimeHours": 272.15,
+            "OnboardingTimeMinutes": 16329.05,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "679bbdb9bc18b37761b168af",
+            "CreatedDate": "2025-01-30T17:58:17.849000+00:00",
+            "LastUpdateState": "2025-02-05T07:58:24.946000+00:00",
+            "OnboardingTimeDays": 5,
+            "OnboardingTimeHours": 134.0,
+            "OnboardingTimeMinutes": 8040.12,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a45178f16de32a7224bef6",
+            "CreatedDate": "2025-02-06T06:06:48.104000+00:00",
+            "LastUpdateState": "2025-02-11T02:09:09.631000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 116.04,
+            "OnboardingTimeMinutes": 6962.36,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a5cfcb7d3fb4d6d2b36415",
+            "CreatedDate": "2025-02-07T09:18:03.427000+00:00",
+            "LastUpdateState": "2025-02-10T19:12:16.377000+00:00",
+            "OnboardingTimeDays": 3,
+            "OnboardingTimeHours": 81.9,
+            "OnboardingTimeMinutes": 4914.22,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67976e3e0c62097d0f54c22e",
+            "CreatedDate": "2025-01-27T11:30:06.844000+00:00",
+            "LastUpdateState": "2025-01-28T20:02:05.002000+00:00",
+            "OnboardingTimeDays": 1,
+            "OnboardingTimeHours": 32.53,
+            "OnboardingTimeMinutes": 1951.97,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a5e80a013c5e5cb941a22f",
+            "CreatedDate": "2025-02-07T11:01:30.492000+00:00",
+            "LastUpdateState": "2025-02-10T22:20:43.180000+00:00",
+            "OnboardingTimeDays": 3,
+            "OnboardingTimeHours": 83.32,
+            "OnboardingTimeMinutes": 4999.21,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a3c670933488035bc04d0a",
+            "CreatedDate": "2025-02-05T20:13:36.873000+00:00",
+            "LastUpdateState": "2025-02-10T20:52:31.840000+00:00",
+            "OnboardingTimeDays": 5,
+            "OnboardingTimeHours": 120.65,
+            "OnboardingTimeMinutes": 7238.92,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "679aa018c343b52c128bd1e5",
+            "CreatedDate": "2025-01-29T21:39:36.520000+00:00",
+            "LastUpdateState": "2025-01-31T11:14:40.321000+00:00",
+            "OnboardingTimeDays": 1,
+            "OnboardingTimeHours": 37.58,
+            "OnboardingTimeMinutes": 2255.06,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "679bcb48bc18b37761b169cb",
+            "CreatedDate": "2025-01-30T18:56:08.438000+00:00",
+            "LastUpdateState": "2025-02-04T09:36:07.610000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 110.67,
+            "OnboardingTimeMinutes": 6639.99,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "679b8879bc18b37761b15fb3",
+            "CreatedDate": "2025-01-30T14:11:05.747000+00:00",
+            "LastUpdateState": "2025-02-01T02:45:30.889000+00:00",
+            "OnboardingTimeDays": 1,
+            "OnboardingTimeHours": 36.57,
+            "OnboardingTimeMinutes": 2194.42,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67976700aa45decf1a24d0ed",
+            "CreatedDate": "2025-01-27T10:59:12.527000+00:00",
+            "LastUpdateState": "2025-01-28T20:48:21.873000+00:00",
+            "OnboardingTimeDays": 1,
+            "OnboardingTimeHours": 33.82,
+            "OnboardingTimeMinutes": 2029.16,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a3c777933488035bc04d43",
+            "CreatedDate": "2025-02-05T20:17:59.616000+00:00",
+            "LastUpdateState": "2025-02-10T19:40:15.234000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 119.37,
+            "OnboardingTimeMinutes": 7162.26,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "679a6ec23e6d7912b9f051e4",
+            "CreatedDate": "2025-01-29T18:09:06.165000+00:00",
+            "LastUpdateState": "2025-02-10T19:02:26.145000+00:00",
+            "OnboardingTimeDays": 12,
+            "OnboardingTimeHours": 288.89,
+            "OnboardingTimeMinutes": 17333.33,
+            "BenchmarkMet": false
+        },
+        {
+            "UserID": "67a54b4ee96e61b34560bdd1",
+            "CreatedDate": "2025-02-06T23:52:46.004000+00:00",
+            "LastUpdateState": "2025-02-10T23:50:05.942000+00:00",
+            "OnboardingTimeDays": 3,
+            "OnboardingTimeHours": 95.96,
+            "OnboardingTimeMinutes": 5757.33,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67a481d9013c5e5cb9415b67",
+            "CreatedDate": "2025-02-06T09:33:13.285000+00:00",
+            "LastUpdateState": "2025-02-10T19:48:35.510000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 106.26,
+            "OnboardingTimeMinutes": 6375.37,
+            "BenchmarkMet": false
+        }
+    ]
+}

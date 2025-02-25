@@ -1,0 +1,4473 @@
+{
+    "QATimeDetails": [
+        {
+            "onBehalfOf": "66d98450a34bf76c08140356",
+            "StagingFromQATime": "2025-02-21T08:55:08.085000+00:00",
+            "DraftStrategyTime": "2025-02-25T10:31:29.972000+00:00",
+            "TimeHours": 97.61,
+            "TimeDays": 4.07
+        },
+        {
+            "onBehalfOf": "679e79413c6321b486e05478",
+            "StagingFromQATime": "2025-02-10T22:17:42.126000+00:00",
+            "DraftStrategyTime": "2025-02-13T09:50:10.154000+00:00",
+            "TimeHours": 59.54,
+            "TimeDays": 2.48
+        },
+        {
+            "onBehalfOf": "67ade2f9ba626ed659c26148",
+            "StagingFromQATime": "2025-02-13T19:04:51.707000+00:00",
+            "DraftStrategyTime": "2025-02-14T08:38:16.424000+00:00",
+            "TimeHours": 13.56,
+            "TimeDays": 0.56
+        },
+        {
+            "onBehalfOf": "67a0b10d3933113e206bec29",
+            "StagingFromQATime": "2025-02-13T19:25:35.069000+00:00",
+            "DraftStrategyTime": "2025-02-14T09:50:27.287000+00:00",
+            "TimeHours": 14.41,
+            "TimeDays": 0.6
+        },
+        {
+            "onBehalfOf": "67b61188e61455f3dc74fce0",
+            "StagingFromQATime": "2025-02-20T18:05:46.810000+00:00",
+            "DraftStrategyTime": "2025-02-24T08:57:24.891000+00:00",
+            "TimeHours": 86.86,
+            "TimeDays": 3.62
+        },
+        {
+            "onBehalfOf": "6799e85c0e0266f38a26ac1c",
+            "StagingFromQATime": "2025-02-24T05:36:35.944000+00:00",
+            "DraftStrategyTime": "2025-02-24T08:20:20.642000+00:00",
+            "TimeHours": 2.73,
+            "TimeDays": 0.11
+        },
+        {
+            "onBehalfOf": "67a5bb13f16de32a72250d1d",
+            "StagingFromQATime": "2025-02-13T07:18:30.251000+00:00",
+            "DraftStrategyTime": "2025-02-19T07:30:43.993000+00:00",
+            "TimeHours": 144.2,
+            "TimeDays": 6.01
+        },
+        {
+            "onBehalfOf": "67b33c0a77192bd97a94b509",
+            "StagingFromQATime": "2025-02-19T23:53:47.077000+00:00",
+            "DraftStrategyTime": "2025-02-20T07:45:32.929000+00:00",
+            "TimeHours": 7.86,
+            "TimeDays": 0.33
+        },
+        {
+            "onBehalfOf": "679f0cdd967cef8025d2dade",
+            "StagingFromQATime": "2025-02-07T08:21:04.379000+00:00",
+            "DraftStrategyTime": "2025-02-07T09:21:30.189000+00:00",
+            "TimeHours": 1.01,
+            "TimeDays": 0.04
+        },
+        {
+            "onBehalfOf": "6795e4a8e757e3560b461dfd",
+            "StagingFromQATime": "2025-01-27T07:14:19.275000+00:00",
+            "DraftStrategyTime": "2025-01-29T06:13:11.181000+00:00",
+            "TimeHours": 46.98,
+            "TimeDays": 1.96
+        },
+        {
+            "onBehalfOf": "679d3adc2e4a87341a1415ce",
+            "StagingFromQATime": "2025-02-10T20:38:08.298000+00:00",
+            "DraftStrategyTime": "2025-02-12T09:19:49.875000+00:00",
+            "TimeHours": 36.69,
+            "TimeDays": 1.53
+        },
+        {
+            "onBehalfOf": "6794d0144e78c866ff34acaf",
+            "StagingFromQATime": "2025-01-27T22:03:40.503000+00:00",
+            "DraftStrategyTime": "2025-01-28T10:48:29.143000+00:00",
+            "TimeHours": 12.75,
+            "TimeDays": 0.53
+        },
+        {
+            "onBehalfOf": "6794eac70b12162e899b361a",
+            "StagingFromQATime": "2025-01-29T00:27:37.055000+00:00",
+            "DraftStrategyTime": "2025-01-30T07:41:10.481000+00:00",
+            "TimeHours": 31.23,
+            "TimeDays": 1.3
+        },
+        {
+            "onBehalfOf": "679a36c69c3c79e6a19f7e9b",
+            "StagingFromQATime": "2025-02-03T13:24:31.075000+00:00",
+            "DraftStrategyTime": "2025-02-04T09:08:49.332000+00:00",
+            "TimeHours": 19.74,
+            "TimeDays": 0.82
+        },
+        {
+            "onBehalfOf": "67a45870ff73998922ba575d",
+            "StagingFromQATime": "2025-02-10T20:05:49.644000+00:00",
+            "DraftStrategyTime": "2025-02-11T08:49:33.207000+00:00",
+            "TimeHours": 12.73,
+            "TimeDays": 0.53
+        },
+        {
+            "onBehalfOf": "67a4c672013c5e5cb9417b40",
+            "StagingFromQATime": "2025-02-24T20:31:01.575000+00:00",
+            "DraftStrategyTime": "2025-02-25T06:51:22.262000+00:00",
+            "TimeHours": 10.34,
+            "TimeDays": 0.43
+        },
+        {
+            "onBehalfOf": "67a50287e002259af0962447",
+            "StagingFromQATime": "2025-02-13T07:06:54.717000+00:00",
+            "DraftStrategyTime": "2025-02-13T09:12:07.478000+00:00",
+            "TimeHours": 2.09,
+            "TimeDays": 0.09
+        },
+        {
+            "onBehalfOf": "67968d2faa45decf1a24afd9",
+            "StagingFromQATime": "2025-02-05T16:20:59.933000+00:00",
+            "DraftStrategyTime": "2025-02-06T07:39:52.863000+00:00",
+            "TimeHours": 15.31,
+            "TimeDays": 0.64
+        },
+        {
+            "onBehalfOf": "6797951a0c62097d0f54d05a",
+            "StagingFromQATime": "2025-02-03T13:18:51.348000+00:00",
+            "DraftStrategyTime": "2025-02-04T08:51:06.176000+00:00",
+            "TimeHours": 19.54,
+            "TimeDays": 0.81
+        },
+        {
+            "onBehalfOf": "6797a3bb4d3d2fdbd82ea36a",
+            "StagingFromQATime": "2025-02-03T13:17:39.285000+00:00",
+            "DraftStrategyTime": "2025-02-04T08:52:42.191000+00:00",
+            "TimeHours": 19.58,
+            "TimeDays": 0.82
+        },
+        {
+            "onBehalfOf": "67a785b2bd4e10dc9132ee85",
+            "StagingFromQATime": "2025-02-13T18:09:24.839000+00:00",
+            "DraftStrategyTime": "2025-02-14T09:18:57.086000+00:00",
+            "TimeHours": 15.16,
+            "TimeDays": 0.63
+        },
+        {
+            "onBehalfOf": "67a358d0e002259af095caf2",
+            "StagingFromQATime": "2025-02-11T02:28:48.543000+00:00",
+            "DraftStrategyTime": "2025-02-13T09:49:02.314000+00:00",
+            "TimeHours": 55.34,
+            "TimeDays": 2.31
+        },
+        {
+            "onBehalfOf": "6794cc3f4e78c866ff34aba1",
+            "StagingFromQATime": "2025-01-29T01:04:30.159000+00:00",
+            "DraftStrategyTime": "2025-01-29T09:02:22.776000+00:00",
+            "TimeHours": 7.96,
+            "TimeDays": 0.33
+        },
+        {
+            "onBehalfOf": "676d51e468256bb1ee934c6d",
+            "StagingFromQATime": "2025-02-24T17:31:25.093000+00:00",
+            "DraftStrategyTime": "2025-02-25T06:41:31.756000+00:00",
+            "TimeHours": 13.17,
+            "TimeDays": 0.55
+        },
+        {
+            "onBehalfOf": "679c4f34c343b52c128c1002",
+            "StagingFromQATime": "2025-02-03T06:44:42.027000+00:00",
+            "DraftStrategyTime": "2025-02-03T10:37:32.910000+00:00",
+            "TimeHours": 3.88,
+            "TimeDays": 0.16
+        },
+        {
+            "onBehalfOf": "679dbbd32e4a87341a141916",
+            "StagingFromQATime": "2025-02-10T15:15:32.132000+00:00",
+            "DraftStrategyTime": "2025-02-11T06:49:51.234000+00:00",
+            "TimeHours": 15.57,
+            "TimeDays": 0.65
+        },
+        {
+            "onBehalfOf": "679e8c7cc343b52c128c53b3",
+            "StagingFromQATime": "2025-02-10T20:26:53.308000+00:00",
+            "DraftStrategyTime": "2025-02-11T09:01:43.289000+00:00",
+            "TimeHours": 12.58,
+            "TimeDays": 0.52
+        },
+        {
+            "onBehalfOf": "679f86773943f830990afdb8",
+            "StagingFromQATime": "2025-02-20T19:45:48.169000+00:00",
+            "DraftStrategyTime": "2025-02-21T08:23:02.981000+00:00",
+            "TimeHours": 12.62,
+            "TimeDays": 0.53
+        },
+        {
+            "onBehalfOf": "67a3b6c6e002259af095e0e8",
+            "StagingFromQATime": "2025-02-10T15:18:41.413000+00:00",
+            "DraftStrategyTime": "2025-02-11T06:48:23.259000+00:00",
+            "TimeHours": 15.49,
+            "TimeDays": 0.65
+        },
+        {
+            "onBehalfOf": "67a4f4b04d3e958ed28b02fb",
+            "StagingFromQATime": "2025-02-10T19:21:49.356000+00:00",
+            "DraftStrategyTime": "2025-02-11T08:40:27.011000+00:00",
+            "TimeHours": 13.31,
+            "TimeDays": 0.55
+        },
+        {
+            "onBehalfOf": "67a664fb7d3fb4d6d2b38989",
+            "StagingFromQATime": "2025-02-11T18:08:14.305000+00:00",
+            "DraftStrategyTime": "2025-02-12T07:02:47.447000+00:00",
+            "TimeHours": 12.91,
+            "TimeDays": 0.54
+        },
+        {
+            "onBehalfOf": "6794e9558c1433246004f3d4",
+            "StagingFromQATime": "2025-02-24T21:25:48.289000+00:00",
+            "DraftStrategyTime": "2025-02-25T08:46:06.873000+00:00",
+            "TimeHours": 11.34,
+            "TimeDays": 0.47
+        },
+        {
+            "onBehalfOf": "67b4bc464840d8604a3f7846",
+            "StagingFromQATime": "2025-02-20T16:44:31.143000+00:00",
+            "DraftStrategyTime": "2025-02-21T08:31:17.043000+00:00",
+            "TimeHours": 15.78,
+            "TimeDays": 0.66
+        },
+        {
+            "onBehalfOf": "67a00d203943f830990b0312",
+            "StagingFromQATime": "2025-02-10T18:57:58.579000+00:00",
+            "DraftStrategyTime": "2025-02-11T08:34:14.982000+00:00",
+            "TimeHours": 13.6,
+            "TimeDays": 0.57
+        },
+        {
+            "onBehalfOf": "67980405aa45decf1a24ed33",
+            "StagingFromQATime": "2025-02-13T18:32:21.777000+00:00",
+            "DraftStrategyTime": "2025-02-20T09:20:59.715000+00:00",
+            "TimeHours": 158.81,
+            "TimeDays": 6.62
+        },
+        {
+            "onBehalfOf": "67a2398404418d2b8abd1bae",
+            "StagingFromQATime": "2025-02-24T20:51:18.781000+00:00",
+            "DraftStrategyTime": "2025-02-25T07:42:47.819000+00:00",
+            "TimeHours": 10.86,
+            "TimeDays": 0.45
+        },
+        {
+            "onBehalfOf": "67a2d14d933488035bbff01b",
+            "StagingFromQATime": "2025-02-11T00:21:20.119000+00:00",
+            "DraftStrategyTime": "2025-02-12T07:39:22.546000+00:00",
+            "TimeHours": 31.3,
+            "TimeDays": 1.3
+        },
+        {
+            "onBehalfOf": "67a37ae2e002259af095dc4d",
+            "StagingFromQATime": "2025-02-10T22:11:41.673000+00:00",
+            "DraftStrategyTime": "2025-02-12T07:35:12.189000+00:00",
+            "TimeHours": 33.39,
+            "TimeDays": 1.39
+        },
+        {
+            "onBehalfOf": "67952f3b385649dcd523c332",
+            "StagingFromQATime": "2025-01-28T18:28:01.695000+00:00",
+            "DraftStrategyTime": "2025-01-30T07:45:08.763000+00:00",
+            "TimeHours": 37.29,
+            "TimeDays": 1.55
+        },
+        {
+            "onBehalfOf": "6798aad0d620708a506c9b6d",
+            "StagingFromQATime": "2025-02-07T11:17:57.846000+00:00",
+            "DraftStrategyTime": "2025-02-07T13:12:06.409000+00:00",
+            "TimeHours": 1.9,
+            "TimeDays": 0.08
+        },
+        {
+            "onBehalfOf": "679b0d1cbc18b37761b12919",
+            "StagingFromQATime": "2025-02-11T19:50:47.748000+00:00",
+            "DraftStrategyTime": "2025-02-12T07:03:46.806000+00:00",
+            "TimeHours": 11.22,
+            "TimeDays": 0.47
+        },
+        {
+            "onBehalfOf": "679bbf6bc343b52c128c0cb1",
+            "StagingFromQATime": "2025-02-03T07:41:10.175000+00:00",
+            "DraftStrategyTime": "2025-02-03T10:34:11.982000+00:00",
+            "TimeHours": 2.88,
+            "TimeDays": 0.12
+        },
+        {
+            "onBehalfOf": "67b0e5a5a43a336485cb3bb6",
+            "StagingFromQATime": "2025-02-21T19:18:37.466000+00:00",
+            "DraftStrategyTime": "2025-02-24T07:28:06.855000+00:00",
+            "TimeHours": 60.16,
+            "TimeDays": 2.51
+        },
+        {
+            "onBehalfOf": "67a5a1a2013c5e5cb9418631",
+            "StagingFromQATime": "2025-02-10T23:10:39.730000+00:00",
+            "DraftStrategyTime": "2025-02-13T09:38:37.750000+00:00",
+            "TimeHours": 58.47,
+            "TimeDays": 2.44
+        },
+        {
+            "onBehalfOf": "67aa3a4a4a6e2042a7ba9dce",
+            "StagingFromQATime": "2025-02-11T19:56:03.701000+00:00",
+            "DraftStrategyTime": "2025-02-12T07:22:25.517000+00:00",
+            "TimeHours": 11.44,
+            "TimeDays": 0.48
+        },
+        {
+            "onBehalfOf": "67954c26e757e3560b4610b1",
+            "StagingFromQATime": "2025-01-30T17:56:27.194000+00:00",
+            "DraftStrategyTime": "2025-01-31T08:19:46.480000+00:00",
+            "TimeHours": 14.39,
+            "TimeDays": 0.6
+        },
+        {
+            "onBehalfOf": "6797436ce757e3560b464e15",
+            "StagingFromQATime": "2025-02-03T16:48:05.708000+00:00",
+            "DraftStrategyTime": "2025-02-05T09:52:55.375000+00:00",
+            "TimeHours": 41.08,
+            "TimeDays": 1.71
+        },
+        {
+            "onBehalfOf": "679893fdb8525ee083fd857f",
+            "StagingFromQATime": "2025-02-10T20:55:52.696000+00:00",
+            "DraftStrategyTime": "2025-02-11T13:57:58.517000+00:00",
+            "TimeHours": 17.03,
+            "TimeDays": 0.71
+        },
+        {
+            "onBehalfOf": "679894109605ac2944b8e24c",
+            "StagingFromQATime": "2025-02-03T07:04:10.349000+00:00",
+            "DraftStrategyTime": "2025-02-03T07:36:15.770000+00:00",
+            "TimeHours": 0.53,
+            "TimeDays": 0.02
+        },
+        {
+            "onBehalfOf": "6798948b4b3225d6f1c2af04",
+            "StagingFromQATime": "2025-02-05T13:15:29.269000+00:00",
+            "DraftStrategyTime": "2025-02-05T14:19:00.595000+00:00",
+            "TimeHours": 1.06,
+            "TimeDays": 0.04
+        },
+        {
+            "onBehalfOf": "6798bd7e0e6f46135062411f",
+            "StagingFromQATime": "2025-02-03T14:26:51.906000+00:00",
+            "DraftStrategyTime": "2025-02-05T10:12:11.257000+00:00",
+            "TimeHours": 43.76,
+            "TimeDays": 1.82
+        },
+        {
+            "onBehalfOf": "6798db81d620708a506caa1c",
+            "StagingFromQATime": "2025-02-01T02:34:22.724000+00:00",
+            "DraftStrategyTime": "2025-02-05T10:15:54.955000+00:00",
+            "TimeHours": 103.69,
+            "TimeDays": 4.32
+        },
+        {
+            "onBehalfOf": "679a34519c3c79e6a19f7e08",
+            "StagingFromQATime": "2025-02-01T01:47:25.212000+00:00",
+            "DraftStrategyTime": "2025-02-05T10:42:45.979000+00:00",
+            "TimeHours": 104.92,
+            "TimeDays": 4.37
+        },
+        {
+            "onBehalfOf": "679b5c623c6321b486dfd357",
+            "StagingFromQATime": "2025-02-01T02:12:38.927000+00:00",
+            "DraftStrategyTime": "2025-02-05T10:57:33.448000+00:00",
+            "TimeHours": 104.75,
+            "TimeDays": 4.36
+        },
+        {
+            "onBehalfOf": "67a1e8a4e274648c415dc54b",
+            "StagingFromQATime": "2025-02-20T19:59:34.542000+00:00",
+            "DraftStrategyTime": "2025-02-21T08:34:06.840000+00:00",
+            "TimeHours": 12.58,
+            "TimeDays": 0.52
+        },
+        {
+            "onBehalfOf": "67aafa0d386da82ecc58db4b",
+            "StagingFromQATime": "2025-02-17T17:03:14.147000+00:00",
+            "DraftStrategyTime": "2025-02-18T09:25:37.238000+00:00",
+            "TimeHours": 16.37,
+            "TimeDays": 0.68
+        },
+        {
+            "onBehalfOf": "679518e8385649dcd523c082",
+            "StagingFromQATime": "2025-01-31T21:34:34.753000+00:00",
+            "DraftStrategyTime": "2025-02-03T06:28:39.220000+00:00",
+            "TimeHours": 56.9,
+            "TimeDays": 2.37
+        },
+        {
+            "onBehalfOf": "67aa5753f90ede3e27ceaf44",
+            "StagingFromQATime": "2025-02-18T21:38:44.203000+00:00",
+            "DraftStrategyTime": "2025-02-19T07:01:01.819000+00:00",
+            "TimeHours": 9.37,
+            "TimeDays": 0.39
+        },
+        {
+            "onBehalfOf": "679bb736bc18b37761b1680a",
+            "StagingFromQATime": "2025-02-04T06:39:21.199000+00:00",
+            "DraftStrategyTime": "2025-02-04T09:58:19.966000+00:00",
+            "TimeHours": 3.32,
+            "TimeDays": 0.14
+        },
+        {
+            "onBehalfOf": "67a0d33b3933113e206bfbfb",
+            "StagingFromQATime": "2025-02-19T23:42:51.812000+00:00",
+            "DraftStrategyTime": "2025-02-21T10:57:32.782000+00:00",
+            "TimeHours": 35.24,
+            "TimeDays": 1.47
+        },
+        {
+            "onBehalfOf": "67867e6076421f889de03051",
+            "StagingFromQATime": "2025-01-27T22:10:23.238000+00:00",
+            "DraftStrategyTime": "2025-01-28T08:44:54.837000+00:00",
+            "TimeHours": 10.58,
+            "TimeDays": 0.44
+        },
+        {
+            "onBehalfOf": "678a23be6e2d5fe621b6c09e",
+            "StagingFromQATime": "2025-02-13T18:29:07.410000+00:00",
+            "DraftStrategyTime": "2025-02-14T08:02:24.080000+00:00",
+            "TimeHours": 13.55,
+            "TimeDays": 0.56
+        },
+        {
+            "onBehalfOf": "679a1395684fc630e9bd4ca4",
+            "StagingFromQATime": "2025-02-17T12:30:44.224000+00:00",
+            "DraftStrategyTime": "2025-02-25T12:48:51.354000+00:00",
+            "TimeHours": 192.3,
+            "TimeDays": 8.01
+        },
+        {
+            "onBehalfOf": "67a764507122ecabfb4ecfe6",
+            "StagingFromQATime": "2025-02-10T18:47:49.408000+00:00",
+            "DraftStrategyTime": "2025-02-11T08:27:30.225000+00:00",
+            "TimeHours": 13.66,
+            "TimeDays": 0.57
+        },
+        {
+            "onBehalfOf": "67a764ffbd4e10dc9132ecf0",
+            "StagingFromQATime": "2025-02-10T21:27:47.946000+00:00",
+            "DraftStrategyTime": "2025-02-11T09:45:31.829000+00:00",
+            "TimeHours": 12.3,
+            "TimeDays": 0.51
+        },
+        {
+            "onBehalfOf": "67a77f6818058c7135d8e22a",
+            "StagingFromQATime": "2025-02-10T21:17:04.680000+00:00",
+            "DraftStrategyTime": "2025-02-11T09:17:43.084000+00:00",
+            "TimeHours": 12.01,
+            "TimeDays": 0.5
+        },
+        {
+            "onBehalfOf": "67a793f77122ecabfb4ed274",
+            "StagingFromQATime": "2025-02-10T16:44:46.595000+00:00",
+            "DraftStrategyTime": "2025-02-11T10:00:27.403000+00:00",
+            "TimeHours": 17.26,
+            "TimeDays": 0.72
+        },
+        {
+            "onBehalfOf": "67a85750cd190b5ed13433ac",
+            "StagingFromQATime": "2025-02-10T17:51:45.341000+00:00",
+            "DraftStrategyTime": "2025-02-11T07:24:38.296000+00:00",
+            "TimeHours": 13.55,
+            "TimeDays": 0.56
+        },
+        {
+            "onBehalfOf": "67a87663cd190b5ed13434b2",
+            "StagingFromQATime": "2025-02-10T20:11:58.928000+00:00",
+            "DraftStrategyTime": "2025-02-11T08:48:17.313000+00:00",
+            "TimeHours": 12.61,
+            "TimeDays": 0.53
+        },
+        {
+            "onBehalfOf": "67a87adfcd190b5ed13434e2",
+            "StagingFromQATime": "2025-02-10T19:38:15.972000+00:00",
+            "DraftStrategyTime": "2025-02-11T08:43:43.117000+00:00",
+            "TimeHours": 13.09,
+            "TimeDays": 0.55
+        },
+        {
+            "onBehalfOf": "67a87c68e808088419b47de2",
+            "StagingFromQATime": "2025-02-10T21:22:21.986000+00:00",
+            "DraftStrategyTime": "2025-02-11T09:38:51.625000+00:00",
+            "TimeHours": 12.27,
+            "TimeDays": 0.51
+        },
+        {
+            "onBehalfOf": "67a9fc5c4a6e2042a7ba8c52",
+            "StagingFromQATime": "2025-02-10T18:18:18.384000+00:00",
+            "DraftStrategyTime": "2025-02-11T07:28:52.404000+00:00",
+            "TimeHours": 13.18,
+            "TimeDays": 0.55
+        },
+        {
+            "onBehalfOf": "67ab76621a40184d43294834",
+            "StagingFromQATime": "2025-02-12T18:12:01.123000+00:00",
+            "DraftStrategyTime": "2025-02-13T08:52:16.282000+00:00",
+            "TimeHours": 14.67,
+            "TimeDays": 0.61
+        },
+        {
+            "onBehalfOf": "67ab91638e4147ec48559692",
+            "StagingFromQATime": "2025-02-13T05:59:35.124000+00:00",
+            "DraftStrategyTime": "2025-02-13T09:03:49.155000+00:00",
+            "TimeHours": 3.07,
+            "TimeDays": 0.13
+        },
+        {
+            "onBehalfOf": "67ac6fb9007fdf1b3a53cac6",
+            "StagingFromQATime": "2025-02-13T17:33:57.120000+00:00",
+            "DraftStrategyTime": "2025-02-14T07:56:50.771000+00:00",
+            "TimeHours": 14.38,
+            "TimeDays": 0.6
+        },
+        {
+            "onBehalfOf": "67ae4f73544a9be800d040e0",
+            "StagingFromQATime": "2025-02-17T16:48:38.033000+00:00",
+            "DraftStrategyTime": "2025-02-18T09:41:14.808000+00:00",
+            "TimeHours": 16.88,
+            "TimeDays": 0.7
+        },
+        {
+            "onBehalfOf": "6794f3274e78c866ff34b351",
+            "StagingFromQATime": "2025-01-28T21:40:05.996000+00:00",
+            "DraftStrategyTime": "2025-01-29T09:17:28.719000+00:00",
+            "TimeHours": 11.62,
+            "TimeDays": 0.48
+        },
+        {
+            "onBehalfOf": "67a7e8ff7122ecabfb4ed78d",
+            "StagingFromQATime": "2025-02-10T20:43:46.635000+00:00",
+            "DraftStrategyTime": "2025-02-13T09:20:26.462000+00:00",
+            "TimeHours": 60.61,
+            "TimeDays": 2.53
+        },
+        {
+            "onBehalfOf": "67b4bdd5f442930563484c60",
+            "StagingFromQATime": "2025-02-20T16:53:38.240000+00:00",
+            "DraftStrategyTime": "2025-02-25T09:36:57.243000+00:00",
+            "TimeHours": 112.72,
+            "TimeDays": 4.7
+        },
+        {
+            "onBehalfOf": "673068f0aa6f96f44d9e84ca",
+            "StagingFromQATime": "2025-01-30T22:05:24.546000+00:00",
+            "DraftStrategyTime": "2025-02-03T10:44:10.499000+00:00",
+            "TimeHours": 84.65,
+            "TimeDays": 3.53
+        },
+        {
+            "onBehalfOf": "67b7309ef24828a4bb0cf6a8",
+            "StagingFromQATime": "2025-02-24T20:40:30.091000+00:00",
+            "DraftStrategyTime": "2025-02-25T09:59:41.436000+00:00",
+            "TimeHours": 13.32,
+            "TimeDays": 0.55
+        },
+        {
+            "onBehalfOf": "67980e1d9605ac2944b8d3f6",
+            "StagingFromQATime": "2025-02-03T23:18:35.009000+00:00",
+            "DraftStrategyTime": "2025-02-04T09:01:48.897000+00:00",
+            "TimeHours": 9.72,
+            "TimeDays": 0.41
+        },
+        {
+            "onBehalfOf": "679d5162aa60e449218b3555",
+            "StagingFromQATime": "2025-02-03T13:41:02.693000+00:00",
+            "DraftStrategyTime": "2025-02-04T10:31:41.074000+00:00",
+            "TimeHours": 20.84,
+            "TimeDays": 0.87
+        },
+        {
+            "onBehalfOf": "67a8bcbccd190b5ed13436f8",
+            "StagingFromQATime": "2025-02-24T23:57:43.187000+00:00",
+            "DraftStrategyTime": "2025-02-25T09:35:31.660000+00:00",
+            "TimeHours": 9.63,
+            "TimeDays": 0.4
+        },
+        {
+            "onBehalfOf": "6794fc388c1433246004f70b",
+            "StagingFromQATime": "2025-02-10T17:01:28.226000+00:00",
+            "DraftStrategyTime": "2025-02-11T07:17:25.788000+00:00",
+            "TimeHours": 14.27,
+            "TimeDays": 0.59
+        },
+        {
+            "onBehalfOf": "67969047aa45decf1a24b063",
+            "StagingFromQATime": "2025-02-03T16:11:43.707000+00:00",
+            "DraftStrategyTime": "2025-02-04T08:34:55.985000+00:00",
+            "TimeHours": 16.39,
+            "TimeDays": 0.68
+        },
+        {
+            "onBehalfOf": "67b48d833c1da501f0170fff",
+            "StagingFromQATime": "2025-02-24T05:25:39.212000+00:00",
+            "DraftStrategyTime": "2025-02-24T09:02:19.033000+00:00",
+            "TimeHours": 3.61,
+            "TimeDays": 0.15
+        },
+        {
+            "onBehalfOf": "67b5c93be61455f3dc74ef61",
+            "StagingFromQATime": "2025-02-21T19:27:42.281000+00:00",
+            "DraftStrategyTime": "2025-02-24T09:01:24.163000+00:00",
+            "TimeHours": 61.56,
+            "TimeDays": 2.57
+        },
+        {
+            "onBehalfOf": "67b762af966e3c86dbd2b855",
+            "StagingFromQATime": "2025-02-24T21:28:26.968000+00:00",
+            "DraftStrategyTime": "2025-02-25T10:12:25.113000+00:00",
+            "TimeHours": 12.73,
+            "TimeDays": 0.53
+        },
+        {
+            "onBehalfOf": "67b5dfd9f85a27013d442a4c",
+            "StagingFromQATime": "2025-02-19T23:24:08.652000+00:00",
+            "DraftStrategyTime": "2025-02-20T12:33:29.310000+00:00",
+            "TimeHours": 13.16,
+            "TimeDays": 0.55
+        },
+        {
+            "onBehalfOf": "67a6312de96e61b34560f625",
+            "StagingFromQATime": "2025-02-10T22:19:33.033000+00:00",
+            "DraftStrategyTime": "2025-02-11T07:07:16.382000+00:00",
+            "TimeHours": 8.8,
+            "TimeDays": 0.37
+        },
+        {
+            "onBehalfOf": "67b47ebb77192bd97a94f529",
+            "StagingFromQATime": "2025-02-19T18:46:38.533000+00:00",
+            "DraftStrategyTime": "2025-02-20T07:56:52.468000+00:00",
+            "TimeHours": 13.17,
+            "TimeDays": 0.55
+        },
+        {
+            "onBehalfOf": "67ab78771a40184d43294861",
+            "StagingFromQATime": "2025-02-12T18:10:43.819000+00:00",
+            "DraftStrategyTime": "2025-02-13T07:11:07.226000+00:00",
+            "TimeHours": 13.01,
+            "TimeDays": 0.54
+        },
+        {
+            "onBehalfOf": "67a46b02013c5e5cb9414dd8",
+            "StagingFromQATime": "2025-02-10T22:04:09.758000+00:00",
+            "DraftStrategyTime": "2025-02-11T12:12:17.699000+00:00",
+            "TimeHours": 14.14,
+            "TimeDays": 0.59
+        },
+        {
+            "onBehalfOf": "67b19eee45044b2243fa650e",
+            "StagingFromQATime": "2025-02-19T18:09:38.060000+00:00",
+            "DraftStrategyTime": "2025-02-20T06:44:53.118000+00:00",
+            "TimeHours": 12.59,
+            "TimeDays": 0.52
+        },
+        {
+            "onBehalfOf": "67b485157f1c84803805f928",
+            "StagingFromQATime": "2025-02-19T19:04:08.130000+00:00",
+            "DraftStrategyTime": "2025-02-20T12:52:37.096000+00:00",
+            "TimeHours": 17.81,
+            "TimeDays": 0.74
+        },
+        {
+            "onBehalfOf": "67b8a1652105ca3404b56edf",
+            "StagingFromQATime": "2025-02-24T21:51:55.118000+00:00",
+            "DraftStrategyTime": "2025-02-25T08:57:49.053000+00:00",
+            "TimeHours": 11.1,
+            "TimeDays": 0.46
+        },
+        {
+            "onBehalfOf": "67b4845577192bd97a94f8d4",
+            "StagingFromQATime": "2025-02-19T22:14:58.789000+00:00",
+            "DraftStrategyTime": "2025-02-20T12:48:23.392000+00:00",
+            "TimeHours": 14.56,
+            "TimeDays": 0.61
+        },
+        {
+            "onBehalfOf": "67b70af8d963c5ed70408e0b",
+            "StagingFromQATime": "2025-02-22T15:42:18.231000+00:00",
+            "DraftStrategyTime": "2025-02-24T06:24:14.684000+00:00",
+            "TimeHours": 38.7,
+            "TimeDays": 1.61
+        },
+        {
+            "onBehalfOf": "67ac92cc007fdf1b3a53d931",
+            "StagingFromQATime": "2025-02-13T18:53:04.027000+00:00",
+            "DraftStrategyTime": "2025-02-14T08:19:16.253000+00:00",
+            "TimeHours": 13.44,
+            "TimeDays": 0.56
+        },
+        {
+            "onBehalfOf": "679b1d03bc18b37761b12afa",
+            "StagingFromQATime": "2025-01-31T09:52:41.465000+00:00",
+            "DraftStrategyTime": "2025-01-31T11:13:15.557000+00:00",
+            "TimeHours": 1.34,
+            "TimeDays": 0.06
+        },
+        {
+            "onBehalfOf": "679a566f360bb854dc7138cb",
+            "StagingFromQATime": "2025-02-17T16:57:00.736000+00:00",
+            "DraftStrategyTime": "2025-02-18T07:18:38.941000+00:00",
+            "TimeHours": 14.36,
+            "TimeDays": 0.6
+        },
+        {
+            "onBehalfOf": "67ae7bd05c449b5915e55605",
+            "StagingFromQATime": "2025-02-17T20:09:58.997000+00:00",
+            "DraftStrategyTime": "2025-02-18T10:43:09.902000+00:00",
+            "TimeHours": 14.55,
+            "TimeDays": 0.61
+        },
+        {
+            "onBehalfOf": "6795fdc2aa45decf1a249987",
+            "StagingFromQATime": "2025-02-03T08:50:35.148000+00:00",
+            "DraftStrategyTime": "2025-02-03T11:00:28.271000+00:00",
+            "TimeHours": 2.16,
+            "TimeDays": 0.09
+        },
+        {
+            "onBehalfOf": "67b62e12f442930563488600",
+            "StagingFromQATime": "2025-02-24T21:59:32.589000+00:00",
+            "DraftStrategyTime": "2025-02-25T08:25:44.662000+00:00",
+            "TimeHours": 10.44,
+            "TimeDays": 0.43
+        },
+        {
+            "onBehalfOf": "67b5ba48f442930563487146",
+            "StagingFromQATime": "2025-02-19T19:56:02.265000+00:00",
+            "DraftStrategyTime": "2025-02-20T07:35:34.463000+00:00",
+            "TimeHours": 11.66,
+            "TimeDays": 0.49
+        },
+        {
+            "onBehalfOf": "67b6ec2caf5dbcc10f6177a4",
+            "StagingFromQATime": "2025-02-24T22:40:28.185000+00:00",
+            "DraftStrategyTime": "2025-02-25T08:18:33.702000+00:00",
+            "TimeHours": 9.63,
+            "TimeDays": 0.4
+        },
+        {
+            "onBehalfOf": "67b501cbf4429305634850ab",
+            "StagingFromQATime": "2025-02-19T18:12:20.548000+00:00",
+            "DraftStrategyTime": "2025-02-20T12:32:39.785000+00:00",
+            "TimeHours": 18.34,
+            "TimeDays": 0.76
+        },
+        {
+            "onBehalfOf": "67b728f92e19cefb4236e185",
+            "StagingFromQATime": "2025-02-24T23:49:31.433000+00:00",
+            "DraftStrategyTime": "2025-02-25T10:38:55.055000+00:00",
+            "TimeHours": 10.82,
+            "TimeDays": 0.45
+        },
+        {
+            "onBehalfOf": "67967c0617459ea9e26bead9",
+            "StagingFromQATime": "2025-02-12T16:31:03.525000+00:00",
+            "DraftStrategyTime": "2025-02-13T06:16:42.091000+00:00",
+            "TimeHours": 13.76,
+            "TimeDays": 0.57
+        },
+        {
+            "onBehalfOf": "67b5e588f442930563487f0f",
+            "StagingFromQATime": "2025-02-20T18:14:25.090000+00:00",
+            "DraftStrategyTime": "2025-02-21T08:03:23.207000+00:00",
+            "TimeHours": 13.82,
+            "TimeDays": 0.58
+        },
+        {
+            "onBehalfOf": "67964e2be757e3560b462bd0",
+            "StagingFromQATime": "2025-02-10T16:09:54.355000+00:00",
+            "DraftStrategyTime": "2025-02-11T07:58:19.186000+00:00",
+            "TimeHours": 15.81,
+            "TimeDays": 0.66
+        },
+        {
+            "onBehalfOf": "67a5aabcf16de32a7225081a",
+            "StagingFromQATime": "2025-02-10T18:03:29.209000+00:00",
+            "DraftStrategyTime": "2025-02-11T13:06:35.898000+00:00",
+            "TimeHours": 19.05,
+            "TimeDays": 0.79
+        },
+        {
+            "onBehalfOf": "67b61743f85a27013d4430c2",
+            "StagingFromQATime": "2025-02-25T01:53:04.962000+00:00",
+            "DraftStrategyTime": "2025-02-25T07:29:58.795000+00:00",
+            "TimeHours": 5.61,
+            "TimeDays": 0.23
+        },
+        {
+            "onBehalfOf": "67b5ce7a5873e51b5b90ef06",
+            "StagingFromQATime": "2025-02-20T17:45:53.618000+00:00",
+            "DraftStrategyTime": "2025-02-21T09:49:17.704000+00:00",
+            "TimeHours": 16.06,
+            "TimeDays": 0.67
+        },
+        {
+            "onBehalfOf": "6796ac2e17459ea9e26bef02",
+            "StagingFromQATime": "2025-01-28T21:45:13.398000+00:00",
+            "DraftStrategyTime": "2025-01-29T08:13:31.790000+00:00",
+            "TimeHours": 10.47,
+            "TimeDays": 0.44
+        },
+        {
+            "onBehalfOf": "67951b120b12162e899b3c28",
+            "StagingFromQATime": "2025-02-18T17:48:43.917000+00:00",
+            "DraftStrategyTime": "2025-02-19T07:51:02.490000+00:00",
+            "TimeHours": 14.04,
+            "TimeDays": 0.58
+        },
+        {
+            "onBehalfOf": "67a3ceff933488035bc04e2d",
+            "StagingFromQATime": "2025-02-11T17:41:51.476000+00:00",
+            "DraftStrategyTime": "2025-02-13T06:47:40.857000+00:00",
+            "TimeHours": 37.1,
+            "TimeDays": 1.55
+        },
+        {
+            "onBehalfOf": "67b478c47f1c84803805ef9d",
+            "StagingFromQATime": "2025-02-19T17:52:33.712000+00:00",
+            "DraftStrategyTime": "2025-02-20T13:09:44.658000+00:00",
+            "TimeHours": 19.29,
+            "TimeDays": 0.8
+        },
+        {
+            "onBehalfOf": "679b660bc343b52c128bf457",
+            "StagingFromQATime": "2025-02-04T12:18:00.015000+00:00",
+            "DraftStrategyTime": "2025-02-04T14:15:58.325000+00:00",
+            "TimeHours": 1.97,
+            "TimeDays": 0.08
+        },
+        {
+            "onBehalfOf": "67b8cb9a9c6dcc1c212acdb9",
+            "StagingFromQATime": "2025-02-24T23:25:30.522000+00:00",
+            "DraftStrategyTime": "2025-02-25T06:51:45.886000+00:00",
+            "TimeHours": 7.44,
+            "TimeDays": 0.31
+        },
+        {
+            "onBehalfOf": "67b7783f2e19cefb4236e6d7",
+            "StagingFromQATime": "2025-02-24T22:03:38.944000+00:00",
+            "DraftStrategyTime": "2025-02-25T08:48:53.875000+00:00",
+            "TimeHours": 10.75,
+            "TimeDays": 0.45
+        },
+        {
+            "onBehalfOf": "67b45d1b77192bd97a94dd33",
+            "StagingFromQATime": "2025-02-19T18:33:33.493000+00:00",
+            "DraftStrategyTime": "2025-02-20T10:49:48.929000+00:00",
+            "TimeHours": 16.27,
+            "TimeDays": 0.68
+        },
+        {
+            "onBehalfOf": "67b42ce477192bd97a94c633",
+            "StagingFromQATime": "2025-02-18T18:46:28.455000+00:00",
+            "DraftStrategyTime": "2025-02-19T07:36:41.805000+00:00",
+            "TimeHours": 12.84,
+            "TimeDays": 0.53
+        },
+        {
+            "onBehalfOf": "67b47cbd77192bd97a94f34d",
+            "StagingFromQATime": "2025-02-19T17:25:31.134000+00:00",
+            "DraftStrategyTime": "2025-02-20T11:01:01.353000+00:00",
+            "TimeHours": 17.59,
+            "TimeDays": 0.73
+        },
+        {
+            "onBehalfOf": "67a46cdd013c5e5cb9414f5a",
+            "StagingFromQATime": "2025-02-10T20:28:12.592000+00:00",
+            "DraftStrategyTime": "2025-02-12T07:43:30.548000+00:00",
+            "TimeHours": 35.25,
+            "TimeDays": 1.47
+        },
+        {
+            "onBehalfOf": "67ab33711a40184d43292d2f",
+            "StagingFromQATime": "2025-02-12T12:15:20.261000+00:00",
+            "DraftStrategyTime": "2025-02-13T07:32:40.963000+00:00",
+            "TimeHours": 19.29,
+            "TimeDays": 0.8
+        },
+        {
+            "onBehalfOf": "67b6cc8ee61455f3dc75049a",
+            "StagingFromQATime": "2025-02-25T02:50:56.492000+00:00",
+            "DraftStrategyTime": "2025-02-25T07:59:18.535000+00:00",
+            "TimeHours": 5.14,
+            "TimeDays": 0.21
+        },
+        {
+            "onBehalfOf": "67b5c1e6101dafad2938f351",
+            "StagingFromQATime": "2025-02-24T22:39:30.152000+00:00",
+            "DraftStrategyTime": "2025-02-25T08:58:02.155000+00:00",
+            "TimeHours": 10.31,
+            "TimeDays": 0.43
+        },
+        {
+            "onBehalfOf": "67b5c7865873e51b5b90eca8",
+            "StagingFromQATime": "2025-02-24T05:38:09.635000+00:00",
+            "DraftStrategyTime": "2025-02-24T08:10:49.990000+00:00",
+            "TimeHours": 2.54,
+            "TimeDays": 0.11
+        },
+        {
+            "onBehalfOf": "6795eb6c17459ea9e26bd852",
+            "StagingFromQATime": "2025-01-28T23:30:08.398000+00:00",
+            "DraftStrategyTime": "2025-01-30T07:53:05.422000+00:00",
+            "TimeHours": 32.38,
+            "TimeDays": 1.35
+        },
+        {
+            "onBehalfOf": "679a191f0717da6b4c3f84d7",
+            "StagingFromQATime": "2025-02-10T20:50:53.207000+00:00",
+            "DraftStrategyTime": "2025-02-12T09:03:14.267000+00:00",
+            "TimeHours": 36.21,
+            "TimeDays": 1.51
+        },
+        {
+            "onBehalfOf": "67a777d0bd4e10dc9132ede6",
+            "StagingFromQATime": "2025-02-10T19:55:51.249000+00:00",
+            "DraftStrategyTime": "2025-02-12T08:21:38.951000+00:00",
+            "TimeHours": 36.43,
+            "TimeDays": 1.52
+        },
+        {
+            "onBehalfOf": "67b5f456f44293056348813a",
+            "StagingFromQATime": "2025-02-20T22:24:04.194000+00:00",
+            "DraftStrategyTime": "2025-02-21T07:56:08.734000+00:00",
+            "TimeHours": 9.53,
+            "TimeDays": 0.4
+        },
+        {
+            "onBehalfOf": "67ba1eccf23a09ffc12f4c31",
+            "StagingFromQATime": "2025-02-24T20:38:18.571000+00:00",
+            "DraftStrategyTime": "2025-02-25T08:35:16.862000+00:00",
+            "TimeHours": 11.95,
+            "TimeDays": 0.5
+        },
+        {
+            "onBehalfOf": "67b9c83dde585255f7b2e5e7",
+            "StagingFromQATime": "2025-02-25T01:52:30.213000+00:00",
+            "DraftStrategyTime": "2025-02-25T10:36:53.973000+00:00",
+            "TimeHours": 8.74,
+            "TimeDays": 0.36
+        },
+        {
+            "onBehalfOf": "67b62459f44293056348853e",
+            "StagingFromQATime": "2025-02-20T18:54:21.972000+00:00",
+            "DraftStrategyTime": "2025-02-21T08:30:48.742000+00:00",
+            "TimeHours": 13.61,
+            "TimeDays": 0.57
+        },
+        {
+            "onBehalfOf": "67b61470f4429305634883b4",
+            "StagingFromQATime": "2025-02-20T18:13:34.269000+00:00",
+            "DraftStrategyTime": "2025-02-21T07:38:20.259000+00:00",
+            "TimeHours": 13.41,
+            "TimeDays": 0.56
+        },
+        {
+            "onBehalfOf": "6798fe110e0266f38a269300",
+            "StagingFromQATime": "2025-01-31T22:24:37.863000+00:00",
+            "DraftStrategyTime": "2025-02-04T08:51:17.261000+00:00",
+            "TimeHours": 82.44,
+            "TimeDays": 3.44
+        },
+        {
+            "onBehalfOf": "67a3b3df933488035bc04aaf",
+            "StagingFromQATime": "2025-02-10T20:23:40.921000+00:00",
+            "DraftStrategyTime": "2025-02-12T07:38:09.708000+00:00",
+            "TimeHours": 35.24,
+            "TimeDays": 1.47
+        },
+        {
+            "onBehalfOf": "67b76318966e3c86dbd2b86a",
+            "StagingFromQATime": "2025-02-24T20:19:03.216000+00:00",
+            "DraftStrategyTime": "2025-02-25T07:56:18.388000+00:00",
+            "TimeHours": 11.62,
+            "TimeDays": 0.48
+        },
+        {
+            "onBehalfOf": "67b5b785e61455f3dc74e844",
+            "StagingFromQATime": "2025-02-21T19:06:17.960000+00:00",
+            "DraftStrategyTime": "2025-02-24T07:20:17.564000+00:00",
+            "TimeHours": 60.23,
+            "TimeDays": 2.51
+        },
+        {
+            "onBehalfOf": "671a6ab70e47cbfca08664ff",
+            "StagingFromQATime": "2025-02-10T20:52:31.215000+00:00",
+            "DraftStrategyTime": "2025-02-11T08:11:47.776000+00:00",
+            "TimeHours": 11.32,
+            "TimeDays": 0.47
+        },
+        {
+            "onBehalfOf": "67b5eb16101dafad29390006",
+            "StagingFromQATime": "2025-02-22T00:03:22.148000+00:00",
+            "DraftStrategyTime": "2025-02-24T07:54:50.272000+00:00",
+            "TimeHours": 55.86,
+            "TimeDays": 2.33
+        },
+        {
+            "onBehalfOf": "6794e58bfc22d4474a0de153",
+            "StagingFromQATime": "2025-01-27T21:43:01.417000+00:00",
+            "DraftStrategyTime": "2025-01-30T08:47:50.753000+00:00",
+            "TimeHours": 59.08,
+            "TimeDays": 2.46
+        },
+        {
+            "onBehalfOf": "6797ac0a9605ac2944b8cc2a",
+            "StagingFromQATime": "2025-02-03T15:19:50.185000+00:00",
+            "DraftStrategyTime": "2025-02-06T13:55:24.658000+00:00",
+            "TimeHours": 70.59,
+            "TimeDays": 2.94
+        },
+        {
+            "onBehalfOf": "679b6fedbc18b37761b15235",
+            "StagingFromQATime": "2025-02-13T18:32:20.489000+00:00",
+            "DraftStrategyTime": "2025-02-14T08:42:48.996000+00:00",
+            "TimeHours": 14.17,
+            "TimeDays": 0.59
+        },
+        {
+            "onBehalfOf": "67a9c6248e4b8484325dbcd8",
+            "StagingFromQATime": "2025-02-13T18:01:56.568000+00:00",
+            "DraftStrategyTime": "2025-02-14T07:21:55.229000+00:00",
+            "TimeHours": 13.33,
+            "TimeDays": 0.56
+        },
+        {
+            "onBehalfOf": "6797485de757e3560b4651b5",
+            "StagingFromQATime": "2025-02-03T16:00:19.038000+00:00",
+            "DraftStrategyTime": "2025-02-06T13:53:13.250000+00:00",
+            "TimeHours": 69.88,
+            "TimeDays": 2.91
+        },
+        {
+            "onBehalfOf": "67988af30e6f46135062323c",
+            "StagingFromQATime": "2025-01-28T22:54:43.732000+00:00",
+            "DraftStrategyTime": "2025-02-10T13:52:45.429000+00:00",
+            "TimeHours": 302.97,
+            "TimeDays": 12.62
+        },
+        {
+            "onBehalfOf": "67b60db8e61455f3dc74fc6b",
+            "StagingFromQATime": "2025-02-20T23:26:05.131000+00:00",
+            "DraftStrategyTime": "2025-02-21T07:43:50.631000+00:00",
+            "TimeHours": 8.3,
+            "TimeDays": 0.35
+        },
+        {
+            "onBehalfOf": "67b60e4df442930563488334",
+            "StagingFromQATime": "2025-02-24T21:19:56.096000+00:00",
+            "DraftStrategyTime": "2025-02-25T10:25:56.879000+00:00",
+            "TimeHours": 13.1,
+            "TimeDays": 0.55
+        },
+        {
+            "onBehalfOf": "67b77a16966e3c86dbd2ba2d",
+            "StagingFromQATime": "2025-02-22T00:12:26.788000+00:00",
+            "DraftStrategyTime": "2025-02-24T07:03:56.110000+00:00",
+            "TimeHours": 54.86,
+            "TimeDays": 2.29
+        },
+        {
+            "onBehalfOf": "67b5bb3e9a17fb20438308b8",
+            "StagingFromQATime": "2025-02-25T01:12:01.980000+00:00",
+            "DraftStrategyTime": "2025-02-25T08:45:12.942000+00:00",
+            "TimeHours": 7.55,
+            "TimeDays": 0.31
+        },
+        {
+            "onBehalfOf": "67a3d4a7e002259af095e343",
+            "StagingFromQATime": "2025-02-17T17:53:50.227000+00:00",
+            "DraftStrategyTime": "2025-02-18T07:28:18.135000+00:00",
+            "TimeHours": 13.57,
+            "TimeDays": 0.57
+        },
+        {
+            "onBehalfOf": "67b77399f24828a4bb0cfb5a",
+            "StagingFromQATime": "2025-02-25T00:49:29.152000+00:00",
+            "DraftStrategyTime": "2025-02-25T08:23:54.544000+00:00",
+            "TimeHours": 7.57,
+            "TimeDays": 0.32
+        },
+        {
+            "onBehalfOf": "67acd941b90b2a47a6c3b3ac",
+            "StagingFromQATime": "2025-02-20T20:12:18.048000+00:00",
+            "DraftStrategyTime": "2025-02-21T07:54:38.733000+00:00",
+            "TimeHours": 11.71,
+            "TimeDays": 0.49
+        },
+        {
+            "onBehalfOf": "675b4ff46b114918474e601b",
+            "StagingFromQATime": "2025-01-30T23:19:38.776000+00:00",
+            "DraftStrategyTime": "2025-01-31T07:20:35.265000+00:00",
+            "TimeHours": 8.02,
+            "TimeDays": 0.33
+        },
+        {
+            "onBehalfOf": "67a1bcd4530ea2c0f19dc0a9",
+            "StagingFromQATime": "2025-02-07T10:31:10.231000+00:00",
+            "DraftStrategyTime": "2025-02-10T10:30:04.707000+00:00",
+            "TimeHours": 71.98,
+            "TimeDays": 3.0
+        },
+        {
+            "onBehalfOf": "67bb3828004871fd97745cbf",
+            "StagingFromQATime": "2025-02-24T19:47:55.154000+00:00",
+            "DraftStrategyTime": "2025-02-25T11:37:48.063000+00:00",
+            "TimeHours": 15.83,
+            "TimeDays": 0.66
+        },
+        {
+            "onBehalfOf": "67b7c714966e3c86dbd2bc9c",
+            "StagingFromQATime": "2025-02-24T21:50:50.248000+00:00",
+            "DraftStrategyTime": "2025-02-25T07:28:44.694000+00:00",
+            "TimeHours": 9.63,
+            "TimeDays": 0.4
+        },
+        {
+            "onBehalfOf": "67b83ea92105ca3404b55dd5",
+            "StagingFromQATime": "2025-02-24T21:40:54.942000+00:00",
+            "DraftStrategyTime": "2025-02-25T07:42:26.141000+00:00",
+            "TimeHours": 10.03,
+            "TimeDays": 0.42
+        },
+        {
+            "onBehalfOf": "6799d0a30e0266f38a26a14c",
+            "StagingFromQATime": "2025-01-31T21:15:45.037000+00:00",
+            "DraftStrategyTime": "2025-02-04T08:17:19.596000+00:00",
+            "TimeHours": 83.03,
+            "TimeDays": 3.46
+        },
+        {
+            "onBehalfOf": "67b5f33de61455f3dc74fa91",
+            "StagingFromQATime": "2025-02-20T22:21:00.672000+00:00",
+            "DraftStrategyTime": "2025-02-21T09:04:54.941000+00:00",
+            "TimeHours": 10.73,
+            "TimeDays": 0.45
+        },
+        {
+            "onBehalfOf": "6798c0869605ac2944b8f17f",
+            "StagingFromQATime": "2025-02-04T18:27:37.633000+00:00",
+            "DraftStrategyTime": "2025-02-05T10:10:56.935000+00:00",
+            "TimeHours": 15.72,
+            "TimeDays": 0.66
+        },
+        {
+            "onBehalfOf": "67a3bd32ff73998922ba505a",
+            "StagingFromQATime": "2025-02-11T20:16:21.983000+00:00",
+            "DraftStrategyTime": "2025-02-12T08:50:44.242000+00:00",
+            "TimeHours": 12.57,
+            "TimeDays": 0.52
+        },
+        {
+            "onBehalfOf": "679514cd4e78c866ff34b720",
+            "StagingFromQATime": "2025-02-10T17:23:23.994000+00:00",
+            "DraftStrategyTime": "2025-02-11T08:31:17.499000+00:00",
+            "TimeHours": 15.13,
+            "TimeDays": 0.63
+        },
+        {
+            "onBehalfOf": "6794c4a617459ea9e26bbfda",
+            "StagingFromQATime": "2025-01-29T01:45:11.065000+00:00",
+            "DraftStrategyTime": "2025-01-29T07:12:13.220000+00:00",
+            "TimeHours": 5.45,
+            "TimeDays": 0.23
+        },
+        {
+            "onBehalfOf": "67bb4aba111777fdd322fb33",
+            "StagingFromQATime": "2025-02-24T21:08:10.631000+00:00",
+            "DraftStrategyTime": "2025-02-25T07:56:28.329000+00:00",
+            "TimeHours": 10.8,
+            "TimeDays": 0.45
+        },
+        {
+            "onBehalfOf": "67b6f94cbd7ab7083e0c8d02",
+            "StagingFromQATime": "2025-02-21T18:53:55.470000+00:00",
+            "DraftStrategyTime": "2025-02-24T06:32:55.027000+00:00",
+            "TimeHours": 59.65,
+            "TimeDays": 2.49
+        },
+        {
+            "onBehalfOf": "67ab2f90382a78837ac89d0d",
+            "StagingFromQATime": "2025-02-11T19:38:31.016000+00:00",
+            "DraftStrategyTime": "2025-02-12T07:31:51.871000+00:00",
+            "TimeHours": 11.89,
+            "TimeDays": 0.5
+        },
+        {
+            "onBehalfOf": "6794c28ac95b5e2ce06ab64e",
+            "StagingFromQATime": "2025-02-21T22:37:01.672000+00:00",
+            "DraftStrategyTime": "2025-02-24T08:45:57.854000+00:00",
+            "TimeHours": 58.15,
+            "TimeDays": 2.42
+        },
+        {
+            "onBehalfOf": "679f0207967cef8025d2d9f0",
+            "StagingFromQATime": "2025-02-13T19:09:52.751000+00:00",
+            "DraftStrategyTime": "2025-02-19T07:29:24.314000+00:00",
+            "TimeHours": 132.33,
+            "TimeDays": 5.51
+        },
+        {
+            "onBehalfOf": "6794ca640b12162e899b3030",
+            "StagingFromQATime": "2025-01-27T22:01:54.266000+00:00",
+            "DraftStrategyTime": "2025-01-28T11:51:45.229000+00:00",
+            "TimeHours": 13.83,
+            "TimeDays": 0.58
+        },
+        {
+            "onBehalfOf": "67967c660c62097d0f549d5d",
+            "StagingFromQATime": "2025-02-11T18:14:53.300000+00:00",
+            "DraftStrategyTime": "2025-02-12T08:24:36.120000+00:00",
+            "TimeHours": 14.16,
+            "TimeDays": 0.59
+        },
+        {
+            "onBehalfOf": "67a43aa6e002259af095e511",
+            "StagingFromQATime": "2025-02-11T01:57:03.621000+00:00",
+            "DraftStrategyTime": "2025-02-12T08:41:45.273000+00:00",
+            "TimeHours": 30.74,
+            "TimeDays": 1.28
+        },
+        {
+            "onBehalfOf": "67a4dcd24d3e958ed28b0188",
+            "StagingFromQATime": "2025-02-12T20:30:24.397000+00:00",
+            "DraftStrategyTime": "2025-02-14T10:02:41.392000+00:00",
+            "TimeHours": 37.54,
+            "TimeDays": 1.56
+        },
+        {
+            "onBehalfOf": "679534688c1433246004fc1d",
+            "StagingFromQATime": "2025-02-05T13:25:00.294000+00:00",
+            "DraftStrategyTime": "2025-02-05T13:56:41.811000+00:00",
+            "TimeHours": 0.53,
+            "TimeDays": 0.02
+        },
+        {
+            "onBehalfOf": "67a48a40ff73998922ba7311",
+            "StagingFromQATime": "2025-02-11T19:53:41.346000+00:00",
+            "DraftStrategyTime": "2025-02-17T13:43:22.945000+00:00",
+            "TimeHours": 137.83,
+            "TimeDays": 5.74
+        },
+        {
+            "onBehalfOf": "6797dcdd0c62097d0f54d56a",
+            "StagingFromQATime": "2025-01-28T20:14:47.477000+00:00",
+            "DraftStrategyTime": "2025-01-29T12:35:47.369000+00:00",
+            "TimeHours": 16.35,
+            "TimeDays": 0.68
+        },
+        {
+            "onBehalfOf": "6797959d2904a2cd98efd0d5",
+            "StagingFromQATime": "2025-01-31T00:06:18.013000+00:00",
+            "DraftStrategyTime": "2025-01-31T08:32:45.695000+00:00",
+            "TimeHours": 8.44,
+            "TimeDays": 0.35
+        },
+        {
+            "onBehalfOf": "679a18bd360bb854dc712856",
+            "StagingFromQATime": "2025-02-17T19:52:40.329000+00:00",
+            "DraftStrategyTime": "2025-02-18T13:46:33.505000+00:00",
+            "TimeHours": 17.9,
+            "TimeDays": 0.75
+        },
+        {
+            "onBehalfOf": "67a1b8ba732931b06e895e45",
+            "StagingFromQATime": "2025-02-20T19:56:25.933000+00:00",
+            "DraftStrategyTime": "2025-02-21T10:31:13.162000+00:00",
+            "TimeHours": 14.58,
+            "TimeDays": 0.61
+        },
+        {
+            "onBehalfOf": "67b6193ef442930563488433",
+            "StagingFromQATime": "2025-02-20T18:36:06.464000+00:00",
+            "DraftStrategyTime": "2025-02-21T10:37:05.127000+00:00",
+            "TimeHours": 16.02,
+            "TimeDays": 0.67
+        },
+        {
+            "onBehalfOf": "6797b4148a1b310ee1ac8661",
+            "StagingFromQATime": "2025-02-03T16:43:26.020000+00:00",
+            "DraftStrategyTime": "2025-02-05T12:07:26.281000+00:00",
+            "TimeHours": 43.4,
+            "TimeDays": 1.81
+        },
+        {
+            "onBehalfOf": "679b5a2cbc18b37761b147e6",
+            "StagingFromQATime": "2025-02-11T19:41:51.346000+00:00",
+            "DraftStrategyTime": "2025-02-13T08:28:23.512000+00:00",
+            "TimeHours": 36.78,
+            "TimeDays": 1.53
+        },
+        {
+            "onBehalfOf": "6799ccb70e0266f38a26a03e",
+            "StagingFromQATime": "2025-01-31T01:00:35.246000+00:00",
+            "DraftStrategyTime": "2025-01-31T08:50:15.962000+00:00",
+            "TimeHours": 7.83,
+            "TimeDays": 0.33
+        },
+        {
+            "onBehalfOf": "67a19dfde274648c415d9990",
+            "StagingFromQATime": "2025-02-05T19:37:56.784000+00:00",
+            "DraftStrategyTime": "2025-02-18T13:56:09.177000+00:00",
+            "TimeHours": 306.3,
+            "TimeDays": 12.76
+        },
+        {
+            "onBehalfOf": "679a53fc0717da6b4c3f95d3",
+            "StagingFromQATime": "2025-02-05T13:38:57.447000+00:00",
+            "DraftStrategyTime": "2025-02-05T14:02:10.017000+00:00",
+            "TimeHours": 0.39,
+            "TimeDays": 0.02
+        },
+        {
+            "onBehalfOf": "67b4be6b756f80144e2fa139",
+            "StagingFromQATime": "2025-02-20T17:04:29.901000+00:00",
+            "DraftStrategyTime": "2025-02-21T10:13:21.026000+00:00",
+            "TimeHours": 17.15,
+            "TimeDays": 0.71
+        },
+        {
+            "onBehalfOf": "6797cef5aa45decf1a24e818",
+            "StagingFromQATime": "2025-02-03T12:50:35.051000+00:00",
+            "DraftStrategyTime": "2025-02-04T06:42:25.687000+00:00",
+            "TimeHours": 17.86,
+            "TimeDays": 0.74
+        },
+        {
+            "onBehalfOf": "67b2630b2f20cafdd6bfdc74",
+            "StagingFromQATime": "2025-02-17T16:46:11.741000+00:00",
+            "DraftStrategyTime": "2025-02-18T11:23:23.771000+00:00",
+            "TimeHours": 18.62,
+            "TimeDays": 0.78
+        },
+        {
+            "onBehalfOf": "67b34cdf77192bd97a94bedf",
+            "StagingFromQATime": "2025-02-19T18:54:47.040000+00:00",
+            "DraftStrategyTime": "2025-02-20T12:14:21.291000+00:00",
+            "TimeHours": 17.33,
+            "TimeDays": 0.72
+        },
+        {
+            "onBehalfOf": "67b0b33e234758f7874efb58",
+            "StagingFromQATime": "2025-02-19T17:40:26.602000+00:00",
+            "DraftStrategyTime": "2025-02-20T11:20:00.188000+00:00",
+            "TimeHours": 17.66,
+            "TimeDays": 0.74
+        },
+        {
+            "onBehalfOf": "67a7c65e7122ecabfb4ed65e",
+            "StagingFromQATime": "2025-02-13T07:38:35.998000+00:00",
+            "DraftStrategyTime": "2025-02-14T10:08:26.360000+00:00",
+            "TimeHours": 26.5,
+            "TimeDays": 1.1
+        },
+        {
+            "onBehalfOf": "67a2343d530ea2c0f19e1b94",
+            "StagingFromQATime": "2025-02-17T18:55:25.519000+00:00",
+            "DraftStrategyTime": "2025-02-18T13:26:18.742000+00:00",
+            "TimeHours": 18.51,
+            "TimeDays": 0.77
+        },
+        {
+            "onBehalfOf": "67a272cc04418d2b8abd204a",
+            "StagingFromQATime": "2025-02-07T09:45:39.971000+00:00",
+            "DraftStrategyTime": "2025-02-10T08:17:28.042000+00:00",
+            "TimeHours": 70.53,
+            "TimeDays": 2.94
+        },
+        {
+            "onBehalfOf": "67306a73aa6f96f44d9e84d5",
+            "StagingFromQATime": "2025-01-30T18:06:14.695000+00:00",
+            "DraftStrategyTime": "2025-01-31T09:37:29.812000+00:00",
+            "TimeHours": 15.52,
+            "TimeDays": 0.65
+        },
+        {
+            "onBehalfOf": "67b7f4432e19cefb4236e984",
+            "StagingFromQATime": "2025-02-24T05:34:42.989000+00:00",
+            "DraftStrategyTime": "2025-02-25T08:04:22.633000+00:00",
+            "TimeHours": 26.49,
+            "TimeDays": 1.1
+        },
+        {
+            "onBehalfOf": "67a4f135e96e61b34560b9ab",
+            "StagingFromQATime": "2025-02-11T18:10:20.791000+00:00",
+            "DraftStrategyTime": "2025-02-12T08:01:59.918000+00:00",
+            "TimeHours": 13.86,
+            "TimeDays": 0.58
+        },
+        {
+            "onBehalfOf": "67a5e0adf16de32a7225217c",
+            "StagingFromQATime": "2025-02-12T17:46:10.717000+00:00",
+            "DraftStrategyTime": "2025-02-13T09:03:13.382000+00:00",
+            "TimeHours": 15.28,
+            "TimeDays": 0.64
+        },
+        {
+            "onBehalfOf": "67b1c64e1e703d9959ef8d87",
+            "StagingFromQATime": "2025-02-19T18:36:37.348000+00:00",
+            "DraftStrategyTime": "2025-02-20T07:16:16.847000+00:00",
+            "TimeHours": 12.66,
+            "TimeDays": 0.53
+        },
+        {
+            "onBehalfOf": "67a7b83aae1b46b76beea362",
+            "StagingFromQATime": "2025-02-10T19:19:26.035000+00:00",
+            "DraftStrategyTime": "2025-02-12T08:25:58.428000+00:00",
+            "TimeHours": 37.11,
+            "TimeDays": 1.55
+        },
+        {
+            "onBehalfOf": "677582179d7d0ec2797f1328",
+            "StagingFromQATime": "2025-02-18T07:38:02.334000+00:00",
+            "DraftStrategyTime": "2025-02-18T13:56:06.153000+00:00",
+            "TimeHours": 6.3,
+            "TimeDays": 0.26
+        },
+        {
+            "onBehalfOf": "679746ad2904a2cd98efb19b",
+            "StagingFromQATime": "2025-02-24T22:05:34.921000+00:00",
+            "DraftStrategyTime": "2025-02-25T10:32:52.751000+00:00",
+            "TimeHours": 12.45,
+            "TimeDays": 0.52
+        },
+        {
+            "onBehalfOf": "67a7658fbd4e10dc9132ed20",
+            "StagingFromQATime": "2025-02-10T18:58:57.742000+00:00",
+            "DraftStrategyTime": "2025-02-12T11:37:21.721000+00:00",
+            "TimeHours": 40.64,
+            "TimeDays": 1.69
+        },
+        {
+            "onBehalfOf": "67a4e09f013c5e5cb9417e3e",
+            "StagingFromQATime": "2025-02-10T18:03:41.646000+00:00",
+            "DraftStrategyTime": "2025-02-18T11:12:31.425000+00:00",
+            "TimeHours": 185.15,
+            "TimeDays": 7.71
+        },
+        {
+            "onBehalfOf": "679a2e580e0266f38a26d4c2",
+            "StagingFromQATime": "2025-01-30T23:48:45.496000+00:00",
+            "DraftStrategyTime": "2025-01-31T10:21:36.609000+00:00",
+            "TimeHours": 10.55,
+            "TimeDays": 0.44
+        },
+        {
+            "onBehalfOf": "6795d6c5aa45decf1a249333",
+            "StagingFromQATime": "2025-01-28T23:37:29.180000+00:00",
+            "DraftStrategyTime": "2025-02-05T06:48:26.759000+00:00",
+            "TimeHours": 175.18,
+            "TimeDays": 7.3
+        },
+        {
+            "onBehalfOf": "67960d85aa45decf1a249c31",
+            "StagingFromQATime": "2025-01-31T10:13:29.279000+00:00",
+            "DraftStrategyTime": "2025-02-05T09:51:04.734000+00:00",
+            "TimeHours": 119.63,
+            "TimeDays": 4.98
+        },
+        {
+            "onBehalfOf": "67a661ca7d3fb4d6d2b38958",
+            "StagingFromQATime": "2025-02-10T17:23:08.917000+00:00",
+            "DraftStrategyTime": "2025-02-11T12:45:00.868000+00:00",
+            "TimeHours": 19.36,
+            "TimeDays": 0.81
+        },
+        {
+            "onBehalfOf": "67974fa517459ea9e26c044e",
+            "StagingFromQATime": "2025-02-12T18:02:57.423000+00:00",
+            "DraftStrategyTime": "2025-02-13T09:17:52.148000+00:00",
+            "TimeHours": 15.25,
+            "TimeDays": 0.64
+        },
+        {
+            "onBehalfOf": "67b2379345044b2243fa6bd8",
+            "StagingFromQATime": "2025-02-22T15:45:22.637000+00:00",
+            "DraftStrategyTime": "2025-02-24T07:55:32.523000+00:00",
+            "TimeHours": 40.17,
+            "TimeDays": 1.67
+        },
+        {
+            "onBehalfOf": "6797639daa45decf1a24d019",
+            "StagingFromQATime": "2025-02-13T19:12:09.475000+00:00",
+            "DraftStrategyTime": "2025-02-14T09:46:29.305000+00:00",
+            "TimeHours": 14.57,
+            "TimeDays": 0.61
+        },
+        {
+            "onBehalfOf": "67accfa7771e8098090b6227",
+            "StagingFromQATime": "2025-02-13T20:56:07.612000+00:00",
+            "DraftStrategyTime": "2025-02-14T09:40:25.224000+00:00",
+            "TimeHours": 12.74,
+            "TimeDays": 0.53
+        },
+        {
+            "onBehalfOf": "67a763b3bd4e10dc9132ecdb",
+            "StagingFromQATime": "2025-02-13T07:27:57.900000+00:00",
+            "DraftStrategyTime": "2025-02-13T08:55:28.327000+00:00",
+            "TimeHours": 1.46,
+            "TimeDays": 0.06
+        },
+        {
+            "onBehalfOf": "67ac6e1a007fdf1b3a53c9f1",
+            "StagingFromQATime": "2025-02-24T22:29:23.731000+00:00",
+            "DraftStrategyTime": "2025-02-25T09:14:14.700000+00:00",
+            "TimeHours": 10.75,
+            "TimeDays": 0.45
+        },
+        {
+            "onBehalfOf": "67a85347e808088419b47c41",
+            "StagingFromQATime": "2025-02-21T21:41:28.919000+00:00",
+            "DraftStrategyTime": "2025-02-24T08:10:59.551000+00:00",
+            "TimeHours": 58.49,
+            "TimeDays": 2.44
+        },
+        {
+            "onBehalfOf": "67972cebe757e3560b464463",
+            "StagingFromQATime": "2025-01-27T23:20:37.131000+00:00",
+            "DraftStrategyTime": "2025-01-28T13:52:43.407000+00:00",
+            "TimeHours": 14.54,
+            "TimeDays": 0.61
+        },
+        {
+            "onBehalfOf": "67867217b357ce0f6670c065",
+            "StagingFromQATime": "2025-01-27T23:00:15.102000+00:00",
+            "DraftStrategyTime": "2025-01-29T08:00:11.203000+00:00",
+            "TimeHours": 33.0,
+            "TimeDays": 1.37
+        },
+        {
+            "onBehalfOf": "67756f76e802d0e87ac1036c",
+            "StagingFromQATime": "2025-02-03T13:22:33.786000+00:00",
+            "DraftStrategyTime": "2025-02-04T06:14:17.157000+00:00",
+            "TimeHours": 16.86,
+            "TimeDays": 0.7
+        },
+        {
+            "onBehalfOf": "67b5b8e55873e51b5b90e769",
+            "StagingFromQATime": "2025-02-21T19:55:07.544000+00:00",
+            "DraftStrategyTime": "2025-02-24T09:10:40.773000+00:00",
+            "TimeHours": 61.26,
+            "TimeDays": 2.55
+        },
+        {
+            "onBehalfOf": "6788fe58c17b2fb267f2a47e",
+            "StagingFromQATime": "2025-01-27T22:36:25.654000+00:00",
+            "DraftStrategyTime": "2025-01-29T08:14:49.292000+00:00",
+            "TimeHours": 33.64,
+            "TimeDays": 1.4
+        },
+        {
+            "onBehalfOf": "67a60f30491c4126b8b0cc63",
+            "StagingFromQATime": "2025-02-10T22:10:35.943000+00:00",
+            "DraftStrategyTime": "2025-02-12T12:13:23.456000+00:00",
+            "TimeHours": 38.05,
+            "TimeDays": 1.59
+        },
+        {
+            "onBehalfOf": "679756cee757e3560b465782",
+            "StagingFromQATime": "2025-01-30T13:40:03.769000+00:00",
+            "DraftStrategyTime": "2025-02-25T09:43:38.864000+00:00",
+            "TimeHours": 620.06,
+            "TimeDays": 25.84
+        },
+        {
+            "onBehalfOf": "67b71fa7070eb85dbb13aef3",
+            "StagingFromQATime": "2025-02-24T17:03:15.085000+00:00",
+            "DraftStrategyTime": "2025-02-25T07:28:14.096000+00:00",
+            "TimeHours": 14.42,
+            "TimeDays": 0.6
+        },
+        {
+            "onBehalfOf": "67a4e859f16de32a7224faf1",
+            "StagingFromQATime": "2025-02-13T16:45:40.016000+00:00",
+            "DraftStrategyTime": "2025-02-14T08:49:59.421000+00:00",
+            "TimeHours": 16.07,
+            "TimeDays": 0.67
+        },
+        {
+            "onBehalfOf": "67991a699605ac2944b8fea8",
+            "StagingFromQATime": "2025-02-13T19:03:48.972000+00:00",
+            "DraftStrategyTime": "2025-02-14T08:14:21.025000+00:00",
+            "TimeHours": 13.18,
+            "TimeDays": 0.55
+        },
+        {
+            "onBehalfOf": "679cb5a9bc18b37761b18b44",
+            "StagingFromQATime": "2025-02-18T12:31:50.977000+00:00",
+            "DraftStrategyTime": "2025-02-19T07:43:17.755000+00:00",
+            "TimeHours": 19.19,
+            "TimeDays": 0.8
+        },
+        {
+            "onBehalfOf": "67974aa12904a2cd98efb419",
+            "StagingFromQATime": "2025-02-03T23:17:00.261000+00:00",
+            "DraftStrategyTime": "2025-02-05T09:58:11.864000+00:00",
+            "TimeHours": 34.69,
+            "TimeDays": 1.45
+        },
+        {
+            "onBehalfOf": "67b470587f1c84803805e831",
+            "StagingFromQATime": "2025-02-24T21:42:08.132000+00:00",
+            "DraftStrategyTime": "2025-02-25T10:18:35.374000+00:00",
+            "TimeHours": 12.61,
+            "TimeDays": 0.53
+        },
+        {
+            "onBehalfOf": "6794cb51385649dcd523b6bb",
+            "StagingFromQATime": "2025-01-27T21:13:46.191000+00:00",
+            "DraftStrategyTime": "2025-01-29T08:57:28.328000+00:00",
+            "TimeHours": 35.73,
+            "TimeDays": 1.49
+        },
+        {
+            "onBehalfOf": "67953541385649dcd523c3a0",
+            "StagingFromQATime": "2025-02-03T13:22:41.241000+00:00",
+            "DraftStrategyTime": "2025-02-04T08:09:08.402000+00:00",
+            "TimeHours": 18.77,
+            "TimeDays": 0.78
+        },
+        {
+            "onBehalfOf": "67953e1a4e78c866ff34b96b",
+            "StagingFromQATime": "2025-01-31T21:38:37.274000+00:00",
+            "DraftStrategyTime": "2025-02-03T07:16:56.511000+00:00",
+            "TimeHours": 57.64,
+            "TimeDays": 2.4
+        },
+        {
+            "onBehalfOf": "67b5e3c9101dafad2938fda9",
+            "StagingFromQATime": "2025-02-20T18:06:26.065000+00:00",
+            "DraftStrategyTime": "2025-02-21T10:53:26.495000+00:00",
+            "TimeHours": 16.78,
+            "TimeDays": 0.7
+        },
+        {
+            "onBehalfOf": "67a9cf09b04148829b1d6e3d",
+            "StagingFromQATime": "2025-02-10T17:41:55.105000+00:00",
+            "DraftStrategyTime": "2025-02-12T11:25:42.360000+00:00",
+            "TimeHours": 41.73,
+            "TimeDays": 1.74
+        },
+        {
+            "onBehalfOf": "679ba4032e4a87341a13d7c4",
+            "StagingFromQATime": "2025-02-05T15:55:04.373000+00:00",
+            "DraftStrategyTime": "2025-02-06T07:49:33.273000+00:00",
+            "TimeHours": 15.91,
+            "TimeDays": 0.66
+        },
+        {
+            "onBehalfOf": "679f79da967cef8025d2e28f",
+            "StagingFromQATime": "2025-02-10T19:17:12.833000+00:00",
+            "DraftStrategyTime": "2025-02-11T08:37:40.847000+00:00",
+            "TimeHours": 13.34,
+            "TimeDays": 0.56
+        },
+        {
+            "onBehalfOf": "67a0e5b9e1179612acb17dc6",
+            "StagingFromQATime": "2025-02-07T08:06:35.152000+00:00",
+            "DraftStrategyTime": "2025-02-07T09:29:20.571000+00:00",
+            "TimeHours": 1.38,
+            "TimeDays": 0.06
+        },
+        {
+            "onBehalfOf": "67b0919ac427dc6d2b69cfbe",
+            "StagingFromQATime": "2025-02-17T18:08:16.118000+00:00",
+            "DraftStrategyTime": "2025-02-18T10:26:13.005000+00:00",
+            "TimeHours": 16.3,
+            "TimeDays": 0.68
+        },
+        {
+            "onBehalfOf": "6729b5b1e37b0afb003479dc",
+            "StagingFromQATime": "2025-02-01T01:23:03.713000+00:00",
+            "DraftStrategyTime": "2025-02-03T06:21:49.909000+00:00",
+            "TimeHours": 52.98,
+            "TimeDays": 2.21
+        },
+        {
+            "onBehalfOf": "671b6e6d0e47cbfca086a1ce",
+            "StagingFromQATime": "2025-02-07T21:18:10.452000+00:00",
+            "DraftStrategyTime": "2025-02-10T07:00:59.273000+00:00",
+            "TimeHours": 57.71,
+            "TimeDays": 2.4
+        },
+        {
+            "onBehalfOf": "67b4ef42756f80144e2fa388",
+            "StagingFromQATime": "2025-02-19T17:55:11.832000+00:00",
+            "DraftStrategyTime": "2025-02-20T07:02:01.420000+00:00",
+            "TimeHours": 13.11,
+            "TimeDays": 0.55
+        },
+        {
+            "onBehalfOf": "67ac4fb51a40184d43295958",
+            "StagingFromQATime": "2025-02-13T06:23:33.162000+00:00",
+            "DraftStrategyTime": "2025-02-13T09:09:07.103000+00:00",
+            "TimeHours": 2.76,
+            "TimeDays": 0.11
+        },
+        {
+            "onBehalfOf": "67ab7ef78e4147ec4855955a",
+            "StagingFromQATime": "2025-02-12T18:06:36.745000+00:00",
+            "DraftStrategyTime": "2025-02-13T09:28:15.655000+00:00",
+            "TimeHours": 15.36,
+            "TimeDays": 0.64
+        },
+        {
+            "onBehalfOf": "6797877c0c62097d0f54cba8",
+            "StagingFromQATime": "2025-02-05T13:11:06.197000+00:00",
+            "DraftStrategyTime": "2025-02-05T14:12:44.952000+00:00",
+            "TimeHours": 1.03,
+            "TimeDays": 0.04
+        },
+        {
+            "onBehalfOf": "6795fbf517459ea9e26bda65",
+            "StagingFromQATime": "2025-02-05T07:39:51.424000+00:00",
+            "DraftStrategyTime": "2025-02-05T12:56:45.795000+00:00",
+            "TimeHours": 5.28,
+            "TimeDays": 0.22
+        },
+        {
+            "onBehalfOf": "679758f42904a2cd98efba18",
+            "StagingFromQATime": "2025-02-10T18:54:36.913000+00:00",
+            "DraftStrategyTime": "2025-02-11T07:56:19.893000+00:00",
+            "TimeHours": 13.03,
+            "TimeDays": 0.54
+        },
+        {
+            "onBehalfOf": "67a77392ae1b46b76beea055",
+            "StagingFromQATime": "2025-02-17T18:23:42.563000+00:00",
+            "DraftStrategyTime": "2025-02-25T09:32:15.205000+00:00",
+            "TimeHours": 183.14,
+            "TimeDays": 7.63
+        },
+        {
+            "onBehalfOf": "6788a42176421f889de12f8e",
+            "StagingFromQATime": "2025-01-27T19:50:33.828000+00:00",
+            "DraftStrategyTime": "2025-01-29T08:09:21.168000+00:00",
+            "TimeHours": 36.31,
+            "TimeDays": 1.51
+        },
+        {
+            "onBehalfOf": "67a3bf08ff73998922ba5080",
+            "StagingFromQATime": "2025-02-12T08:51:00.590000+00:00",
+            "DraftStrategyTime": "2025-02-13T08:45:16.670000+00:00",
+            "TimeHours": 23.9,
+            "TimeDays": 1.0
+        },
+        {
+            "onBehalfOf": "6798f982d620708a506cad81",
+            "StagingFromQATime": "2025-01-30T17:58:49.489000+00:00",
+            "DraftStrategyTime": "2025-02-18T14:09:40.307000+00:00",
+            "TimeHours": 452.18,
+            "TimeDays": 18.84
+        },
+        {
+            "onBehalfOf": "6794d074fc22d4474a0dddbe",
+            "StagingFromQATime": "2025-01-28T12:58:38.219000+00:00",
+            "DraftStrategyTime": "2025-01-29T09:07:03.613000+00:00",
+            "TimeHours": 20.14,
+            "TimeDays": 0.84
+        },
+        {
+            "onBehalfOf": "67979e294d3d2fdbd82ea2b2",
+            "StagingFromQATime": "2025-01-28T21:57:56.310000+00:00",
+            "DraftStrategyTime": "2025-01-29T11:12:12.723000+00:00",
+            "TimeHours": 13.24,
+            "TimeDays": 0.55
+        },
+        {
+            "onBehalfOf": "679f1cc43f4ba434b2cbe066",
+            "StagingFromQATime": "2025-02-10T22:45:39.911000+00:00",
+            "DraftStrategyTime": "2025-02-12T12:46:27.101000+00:00",
+            "TimeHours": 38.01,
+            "TimeDays": 1.58
+        },
+        {
+            "onBehalfOf": "67ab5266386da82ecc590a3d",
+            "StagingFromQATime": "2025-02-13T20:35:15.619000+00:00",
+            "DraftStrategyTime": "2025-02-14T09:37:48.037000+00:00",
+            "TimeHours": 13.04,
+            "TimeDays": 0.54
+        },
+        {
+            "onBehalfOf": "679536ce8c1433246004fc47",
+            "StagingFromQATime": "2025-02-13T16:37:14.319000+00:00",
+            "DraftStrategyTime": "2025-02-18T12:40:59.451000+00:00",
+            "TimeHours": 116.06,
+            "TimeDays": 4.84
+        },
+        {
+            "onBehalfOf": "67b83c1e9c6dcc1c212ab6c4",
+            "StagingFromQATime": "2025-02-21T08:48:03.478000+00:00",
+            "DraftStrategyTime": "2025-02-24T07:58:32.732000+00:00",
+            "TimeHours": 71.17,
+            "TimeDays": 2.97
+        },
+        {
+            "onBehalfOf": "6798a623d620708a506c99eb",
+            "StagingFromQATime": "2025-02-11T20:33:13.176000+00:00",
+            "DraftStrategyTime": "2025-02-13T10:00:05.800000+00:00",
+            "TimeHours": 37.45,
+            "TimeDays": 1.56
+        },
+        {
+            "onBehalfOf": "679a63df935a8b4588a9eda1",
+            "StagingFromQATime": "2025-02-10T17:55:37.846000+00:00",
+            "DraftStrategyTime": "2025-02-12T08:56:55.047000+00:00",
+            "TimeHours": 39.02,
+            "TimeDays": 1.63
+        },
+        {
+            "onBehalfOf": "67a452a0e002259af095e6a5",
+            "StagingFromQATime": "2025-02-18T07:06:54.579000+00:00",
+            "DraftStrategyTime": "2025-02-19T07:28:26.183000+00:00",
+            "TimeHours": 24.36,
+            "TimeDays": 1.01
+        },
+        {
+            "onBehalfOf": "67aa0d99ee35a99e4b0681d1",
+            "StagingFromQATime": "2025-02-11T20:20:33.626000+00:00",
+            "DraftStrategyTime": "2025-02-12T07:51:40.833000+00:00",
+            "TimeHours": 11.52,
+            "TimeDays": 0.48
+        },
+        {
+            "onBehalfOf": "67aafdc9382a78837ac88545",
+            "StagingFromQATime": "2025-02-20T15:30:38.404000+00:00",
+            "DraftStrategyTime": "2025-02-21T08:23:47.948000+00:00",
+            "TimeHours": 16.89,
+            "TimeDays": 0.7
+        },
+        {
+            "onBehalfOf": "679be9fd2e4a87341a13ddba",
+            "StagingFromQATime": "2025-02-11T19:42:48.490000+00:00",
+            "DraftStrategyTime": "2025-02-12T09:07:56.429000+00:00",
+            "TimeHours": 13.42,
+            "TimeDays": 0.56
+        },
+        {
+            "onBehalfOf": "679b5c9ec343b52c128befbd",
+            "StagingFromQATime": "2025-02-03T17:54:32.355000+00:00",
+            "DraftStrategyTime": "2025-02-19T10:19:52.345000+00:00",
+            "TimeHours": 376.42,
+            "TimeDays": 15.68
+        },
+        {
+            "onBehalfOf": "67a4562df16de32a7224bff0",
+            "StagingFromQATime": "2025-02-10T22:57:43.889000+00:00",
+            "DraftStrategyTime": "2025-02-12T12:51:45.771000+00:00",
+            "TimeHours": 37.9,
+            "TimeDays": 1.58
+        },
+        {
+            "onBehalfOf": "67b785ae966e3c86dbd2badb",
+            "StagingFromQATime": "2025-02-24T20:12:55.845000+00:00",
+            "DraftStrategyTime": "2025-02-25T06:43:46.002000+00:00",
+            "TimeHours": 10.51,
+            "TimeDays": 0.44
+        },
+        {
+            "onBehalfOf": "679dfde3c343b52c128c49e9",
+            "StagingFromQATime": "2025-02-25T01:18:08.578000+00:00",
+            "DraftStrategyTime": "2025-02-25T10:26:19.652000+00:00",
+            "TimeHours": 9.14,
+            "TimeDays": 0.38
+        },
+        {
+            "onBehalfOf": "67a43238e002259af095e4c1",
+            "StagingFromQATime": "2025-02-10T22:30:16.200000+00:00",
+            "DraftStrategyTime": "2025-02-12T12:26:19.251000+00:00",
+            "TimeHours": 37.93,
+            "TimeDays": 1.58
+        },
+        {
+            "onBehalfOf": "6799f7f1684fc630e9bd3a39",
+            "StagingFromQATime": "2025-02-12T18:22:18.086000+00:00",
+            "DraftStrategyTime": "2025-02-13T09:47:40.132000+00:00",
+            "TimeHours": 15.42,
+            "TimeDays": 0.64
+        },
+        {
+            "onBehalfOf": "67b097a38a4ee4f9a5a84c3d",
+            "StagingFromQATime": "2025-02-17T18:54:11.655000+00:00",
+            "DraftStrategyTime": "2025-02-18T06:44:02.861000+00:00",
+            "TimeHours": 11.83,
+            "TimeDays": 0.49
+        },
+        {
+            "onBehalfOf": "679538ade866d38ea296a4d5",
+            "StagingFromQATime": "2025-02-21T00:44:50.620000+00:00",
+            "DraftStrategyTime": "2025-02-21T08:27:07.478000+00:00",
+            "TimeHours": 7.7,
+            "TimeDays": 0.32
+        },
+        {
+            "onBehalfOf": "67a4aa45e96e61b34560a6d6",
+            "StagingFromQATime": "2025-02-11T12:41:05.748000+00:00",
+            "DraftStrategyTime": "2025-02-12T09:26:29.715000+00:00",
+            "TimeHours": 20.76,
+            "TimeDays": 0.86
+        },
+        {
+            "onBehalfOf": "67b45d12345ebc7599670522",
+            "StagingFromQATime": "2025-02-19T17:11:05.072000+00:00",
+            "DraftStrategyTime": "2025-02-20T07:26:40.863000+00:00",
+            "TimeHours": 14.26,
+            "TimeDays": 0.59
+        },
+        {
+            "onBehalfOf": "670fa91eb643b1276267c14b",
+            "StagingFromQATime": "2025-02-10T18:36:33.922000+00:00",
+            "DraftStrategyTime": "2025-02-11T06:46:48.116000+00:00",
+            "TimeHours": 12.17,
+            "TimeDays": 0.51
+        },
+        {
+            "onBehalfOf": "67b4a4844840d8604a3f7605",
+            "StagingFromQATime": "2025-02-21T20:04:19.087000+00:00",
+            "DraftStrategyTime": "2025-02-24T07:18:34.657000+00:00",
+            "TimeHours": 59.24,
+            "TimeDays": 2.47
+        },
+        {
+            "onBehalfOf": "67b9db82a5523b0b9aef2f97",
+            "StagingFromQATime": "2025-02-24T21:18:36.100000+00:00",
+            "DraftStrategyTime": "2025-02-25T08:38:37.781000+00:00",
+            "TimeHours": 11.33,
+            "TimeDays": 0.47
+        },
+        {
+            "onBehalfOf": "67a4880ff16de32a7224dd91",
+            "StagingFromQATime": "2025-02-18T11:21:10.758000+00:00",
+            "DraftStrategyTime": "2025-02-18T13:05:42.924000+00:00",
+            "TimeHours": 1.74,
+            "TimeDays": 0.07
+        },
+        {
+            "onBehalfOf": "67acc40c007fdf1b3a53e5e4",
+            "StagingFromQATime": "2025-02-13T17:07:45.085000+00:00",
+            "DraftStrategyTime": "2025-02-14T07:48:29.835000+00:00",
+            "TimeHours": 14.68,
+            "TimeDays": 0.61
+        },
+        {
+            "onBehalfOf": "67b1c83345044b2243fa66bf",
+            "StagingFromQATime": "2025-02-19T22:17:42.921000+00:00",
+            "DraftStrategyTime": "2025-02-20T06:49:21.380000+00:00",
+            "TimeHours": 8.53,
+            "TimeDays": 0.36
+        },
+        {
+            "onBehalfOf": "67960bbc0c62097d0f548e01",
+            "StagingFromQATime": "2025-02-04T08:12:28.541000+00:00",
+            "DraftStrategyTime": "2025-02-04T13:30:14.769000+00:00",
+            "TimeHours": 5.3,
+            "TimeDays": 0.22
+        },
+        {
+            "onBehalfOf": "67a741d07122ecabfb4ecde8",
+            "StagingFromQATime": "2025-02-20T20:22:38.299000+00:00",
+            "DraftStrategyTime": "2025-02-21T08:22:09.390000+00:00",
+            "TimeHours": 11.99,
+            "TimeDays": 0.5
+        },
+        {
+            "onBehalfOf": "67a458aa013c5e5cb94142f5",
+            "StagingFromQATime": "2025-02-10T19:54:29.341000+00:00",
+            "DraftStrategyTime": "2025-02-12T07:35:37.556000+00:00",
+            "TimeHours": 35.69,
+            "TimeDays": 1.49
+        },
+        {
+            "onBehalfOf": "67a35b60f16de32a7224a285",
+            "StagingFromQATime": "2025-02-10T19:39:50.963000+00:00",
+            "DraftStrategyTime": "2025-02-12T07:16:29.473000+00:00",
+            "TimeHours": 35.61,
+            "TimeDays": 1.48
+        },
+        {
+            "onBehalfOf": "67a773d57122ecabfb4ed0f5",
+            "StagingFromQATime": "2025-02-13T07:30:25.341000+00:00",
+            "DraftStrategyTime": "2025-02-13T13:38:38.174000+00:00",
+            "TimeHours": 6.14,
+            "TimeDays": 0.26
+        },
+        {
+            "onBehalfOf": "6799e7e8360bb854dc7104bd",
+            "StagingFromQATime": "2025-02-13T18:27:49.499000+00:00",
+            "DraftStrategyTime": "2025-02-14T07:42:31.041000+00:00",
+            "TimeHours": 13.24,
+            "TimeDays": 0.55
+        },
+        {
+            "onBehalfOf": "679bf8b03c6321b486dff403",
+            "StagingFromQATime": "2025-02-12T18:37:10.349000+00:00",
+            "DraftStrategyTime": "2025-02-13T06:32:54.187000+00:00",
+            "TimeHours": 11.93,
+            "TimeDays": 0.5
+        },
+        {
+            "onBehalfOf": "67a3c9da7c5581bb2e3c0f22",
+            "StagingFromQATime": "2025-02-10T20:37:02.890000+00:00",
+            "DraftStrategyTime": "2025-02-11T08:55:04.941000+00:00",
+            "TimeHours": 12.3,
+            "TimeDays": 0.51
+        },
+        {
+            "onBehalfOf": "67b2619a95443597a484bc07",
+            "StagingFromQATime": "2025-02-17T23:58:07.721000+00:00",
+            "DraftStrategyTime": "2025-02-18T07:39:04.175000+00:00",
+            "TimeHours": 7.68,
+            "TimeDays": 0.32
+        },
+        {
+            "onBehalfOf": "67a50f5ff16de32a7224fe07",
+            "StagingFromQATime": "2025-02-10T17:35:06.250000+00:00",
+            "DraftStrategyTime": "2025-02-12T07:32:02.278000+00:00",
+            "TimeHours": 37.95,
+            "TimeDays": 1.58
+        },
+        {
+            "onBehalfOf": "67a5fdf27d3fb4d6d2b37900",
+            "StagingFromQATime": "2025-02-20T20:11:22.464000+00:00",
+            "DraftStrategyTime": "2025-02-21T07:57:05.484000+00:00",
+            "TimeHours": 11.76,
+            "TimeDays": 0.49
+        },
+        {
+            "onBehalfOf": "67a60c28e96e61b34560efc3",
+            "StagingFromQATime": "2025-02-10T23:23:20.727000+00:00",
+            "DraftStrategyTime": "2025-02-11T08:58:04.259000+00:00",
+            "TimeHours": 9.58,
+            "TimeDays": 0.4
+        },
+        {
+            "onBehalfOf": "67a9f01f8e4b8484325dd519",
+            "StagingFromQATime": "2025-02-11T19:46:18.325000+00:00",
+            "DraftStrategyTime": "2025-02-12T07:06:06.327000+00:00",
+            "TimeHours": 11.33,
+            "TimeDays": 0.47
+        },
+        {
+            "onBehalfOf": "67ab5bd4382a78837ac8b95f",
+            "StagingFromQATime": "2025-02-17T17:00:15.853000+00:00",
+            "DraftStrategyTime": "2025-02-18T06:57:29.865000+00:00",
+            "TimeHours": 13.95,
+            "TimeDays": 0.58
+        },
+        {
+            "onBehalfOf": "67aefcd8d7790c17b334e87e",
+            "StagingFromQATime": "2025-02-17T18:19:40.109000+00:00",
+            "DraftStrategyTime": "2025-02-18T07:09:53.619000+00:00",
+            "TimeHours": 12.84,
+            "TimeDays": 0.53
+        },
+        {
+            "onBehalfOf": "67b4b547f442930563484b6c",
+            "StagingFromQATime": "2025-02-19T18:53:45.751000+00:00",
+            "DraftStrategyTime": "2025-02-20T10:34:47.616000+00:00",
+            "TimeHours": 15.68,
+            "TimeDays": 0.65
+        },
+        {
+            "onBehalfOf": "67958e5be757e3560b4612fb",
+            "StagingFromQATime": "2025-02-13T20:50:04.123000+00:00",
+            "DraftStrategyTime": "2025-02-14T08:05:04.835000+00:00",
+            "TimeHours": 11.25,
+            "TimeDays": 0.47
+        },
+        {
+            "onBehalfOf": "67aca10e1a40184d43297c3f",
+            "StagingFromQATime": "2025-02-13T19:13:17.139000+00:00",
+            "DraftStrategyTime": "2025-02-14T08:52:03.965000+00:00",
+            "TimeHours": 13.65,
+            "TimeDays": 0.57
+        },
+        {
+            "onBehalfOf": "67a5d151e96e61b34560d1e4",
+            "StagingFromQATime": "2025-02-11T17:04:15.197000+00:00",
+            "DraftStrategyTime": "2025-02-12T10:34:07.525000+00:00",
+            "TimeHours": 17.5,
+            "TimeDays": 0.73
+        },
+        {
+            "onBehalfOf": "679b7032c343b52c128bf9f0",
+            "StagingFromQATime": "2025-01-31T22:43:06.983000+00:00",
+            "DraftStrategyTime": "2025-02-13T14:04:49.333000+00:00",
+            "TimeHours": 303.36,
+            "TimeDays": 12.64
+        },
+        {
+            "onBehalfOf": "67b72895800c122d5736e6a1",
+            "StagingFromQATime": "2025-02-21T18:51:27.196000+00:00",
+            "DraftStrategyTime": "2025-02-24T07:07:26.984000+00:00",
+            "TimeHours": 60.27,
+            "TimeDays": 2.51
+        },
+        {
+            "onBehalfOf": "679be30b935a8b4588aa35d2",
+            "StagingFromQATime": "2025-02-13T20:59:07.724000+00:00",
+            "DraftStrategyTime": "2025-02-14T09:16:48.638000+00:00",
+            "TimeHours": 12.29,
+            "TimeDays": 0.51
+        },
+        {
+            "onBehalfOf": "67a077a0740b3b6071dbca34",
+            "StagingFromQATime": "2025-02-11T02:22:30.240000+00:00",
+            "DraftStrategyTime": "2025-02-13T08:18:37.788000+00:00",
+            "TimeHours": 53.94,
+            "TimeDays": 2.25
+        },
+        {
+            "onBehalfOf": "67a5b5b7f16de32a72250a59",
+            "StagingFromQATime": "2025-02-13T13:28:13.154000+00:00",
+            "DraftStrategyTime": "2025-02-13T13:41:24.459000+00:00",
+            "TimeHours": 0.22,
+            "TimeDays": 0.01
+        },
+        {
+            "onBehalfOf": "6797e1378a1b310ee1ac8b49",
+            "StagingFromQATime": "2025-01-28T19:09:43.992000+00:00",
+            "DraftStrategyTime": "2025-01-30T14:09:46.164000+00:00",
+            "TimeHours": 43.0,
+            "TimeDays": 1.79
+        },
+        {
+            "onBehalfOf": "67bafa58056d57ef4fb22fab",
+            "StagingFromQATime": "2025-02-24T23:06:31.237000+00:00",
+            "DraftStrategyTime": "2025-02-25T07:54:48.088000+00:00",
+            "TimeHours": 8.8,
+            "TimeDays": 0.37
+        },
+        {
+            "onBehalfOf": "679ca5c5bc18b37761b185f2",
+            "StagingFromQATime": "2025-02-04T17:06:51.656000+00:00",
+            "DraftStrategyTime": "2025-02-05T08:57:15.550000+00:00",
+            "TimeHours": 15.84,
+            "TimeDays": 0.66
+        },
+        {
+            "onBehalfOf": "67b1b9f0ac5596883bb9837f",
+            "StagingFromQATime": "2025-02-21T17:01:25.591000+00:00",
+            "DraftStrategyTime": "2025-02-24T06:15:32.323000+00:00",
+            "TimeHours": 61.24,
+            "TimeDays": 2.55
+        },
+        {
+            "onBehalfOf": "67a4ee41013c5e5cb9417f46",
+            "StagingFromQATime": "2025-02-11T00:50:45.797000+00:00",
+            "DraftStrategyTime": "2025-02-12T10:12:42.444000+00:00",
+            "TimeHours": 33.37,
+            "TimeDays": 1.39
+        },
+        {
+            "onBehalfOf": "67a78c8fae1b46b76beea17c",
+            "StagingFromQATime": "2025-02-12T11:07:41.272000+00:00",
+            "DraftStrategyTime": "2025-02-13T07:56:49.864000+00:00",
+            "TimeHours": 20.82,
+            "TimeDays": 0.87
+        },
+        {
+            "onBehalfOf": "67a5dacb013c5e5cb9419dae",
+            "StagingFromQATime": "2025-02-10T18:27:05.324000+00:00",
+            "DraftStrategyTime": "2025-02-12T07:53:57.232000+00:00",
+            "TimeHours": 37.45,
+            "TimeDays": 1.56
+        },
+        {
+            "onBehalfOf": "67b46163345ebc75996707c3",
+            "StagingFromQATime": "2025-02-19T22:53:01.408000+00:00",
+            "DraftStrategyTime": "2025-02-20T11:14:45.281000+00:00",
+            "TimeHours": 12.36,
+            "TimeDays": 0.52
+        },
+        {
+            "onBehalfOf": "67b6f59bd963c5ed704087fd",
+            "StagingFromQATime": "2025-02-20T09:41:40.089000+00:00",
+            "DraftStrategyTime": "2025-02-24T14:18:12.311000+00:00",
+            "TimeHours": 100.61,
+            "TimeDays": 4.19
+        },
+        {
+            "onBehalfOf": "66d98450a34bf76c08140343",
+            "StagingFromQATime": "2025-02-24T09:50:46.411000+00:00",
+            "DraftStrategyTime": "2025-02-25T08:24:09.645000+00:00",
+            "TimeHours": 22.56,
+            "TimeDays": 0.94
+        },
+        {
+            "onBehalfOf": "67add6aeba626ed659c25b52",
+            "StagingFromQATime": "2025-02-13T17:11:21.436000+00:00",
+            "DraftStrategyTime": "2025-02-14T08:36:32.698000+00:00",
+            "TimeHours": 15.42,
+            "TimeDays": 0.64
+        },
+        {
+            "onBehalfOf": "679b591c3e6d7912b9f0796e",
+            "StagingFromQATime": "2025-01-31T23:09:25.879000+00:00",
+            "DraftStrategyTime": "2025-02-04T09:59:12.394000+00:00",
+            "TimeHours": 82.83,
+            "TimeDays": 3.45
+        },
+        {
+            "onBehalfOf": "67955f8b0b12162e899b415c",
+            "StagingFromQATime": "2025-02-10T23:05:55.127000+00:00",
+            "DraftStrategyTime": "2025-02-11T09:51:40.694000+00:00",
+            "TimeHours": 10.76,
+            "TimeDays": 0.45
+        },
+        {
+            "onBehalfOf": "6795ca3f17459ea9e26bd4ba",
+            "StagingFromQATime": "2025-01-31T22:38:47.398000+00:00",
+            "DraftStrategyTime": "2025-02-03T07:04:42.878000+00:00",
+            "TimeHours": 56.43,
+            "TimeDays": 2.35
+        },
+        {
+            "onBehalfOf": "6795db9a17459ea9e26bd673",
+            "StagingFromQATime": "2025-02-10T22:36:19.728000+00:00",
+            "DraftStrategyTime": "2025-02-11T09:58:41.325000+00:00",
+            "TimeHours": 11.37,
+            "TimeDays": 0.47
+        },
+        {
+            "onBehalfOf": "67a123273933113e206c020e",
+            "StagingFromQATime": "2025-02-11T00:33:22.682000+00:00",
+            "DraftStrategyTime": "2025-02-11T07:47:24.221000+00:00",
+            "TimeHours": 7.23,
+            "TimeDays": 0.3
+        },
+        {
+            "onBehalfOf": "67a3c399f16de32a7224ba66",
+            "StagingFromQATime": "2025-02-10T21:28:52.624000+00:00",
+            "DraftStrategyTime": "2025-02-12T09:00:26.500000+00:00",
+            "TimeHours": 35.53,
+            "TimeDays": 1.48
+        },
+        {
+            "onBehalfOf": "67adfa393850ec78b76cc8df",
+            "StagingFromQATime": "2025-02-21T23:08:39.021000+00:00",
+            "DraftStrategyTime": "2025-02-24T07:18:22+00:00",
+            "TimeHours": 56.16,
+            "TimeDays": 2.34
+        },
+        {
+            "onBehalfOf": "6786b191d15520a6e9b3adf8",
+            "StagingFromQATime": "2025-01-28T18:24:43.522000+00:00",
+            "DraftStrategyTime": "2025-01-29T07:06:40.262000+00:00",
+            "TimeHours": 12.7,
+            "TimeDays": 0.53
+        },
+        {
+            "onBehalfOf": "6796527217459ea9e26be522",
+            "StagingFromQATime": "2025-02-12T16:29:13.847000+00:00",
+            "DraftStrategyTime": "2025-02-13T08:20:36.765000+00:00",
+            "TimeHours": 15.86,
+            "TimeDays": 0.66
+        },
+        {
+            "onBehalfOf": "6798fa2e0717da6b4c3f3cc4",
+            "StagingFromQATime": "2025-02-07T07:34:58.465000+00:00",
+            "DraftStrategyTime": "2025-02-10T07:27:23.380000+00:00",
+            "TimeHours": 71.87,
+            "TimeDays": 2.99
+        },
+        {
+            "onBehalfOf": "67aa28a24a6e2042a7ba9cbd",
+            "StagingFromQATime": "2025-02-24T17:42:14.831000+00:00",
+            "DraftStrategyTime": "2025-02-25T06:20:32.511000+00:00",
+            "TimeHours": 12.64,
+            "TimeDays": 0.53
+        },
+        {
+            "onBehalfOf": "6794e27a17459ea9e26bc749",
+            "StagingFromQATime": "2025-02-18T18:09:44.603000+00:00",
+            "DraftStrategyTime": "2025-02-19T06:20:25.823000+00:00",
+            "TimeHours": 12.18,
+            "TimeDays": 0.51
+        },
+        {
+            "onBehalfOf": "6794dabb4e78c866ff34af2f",
+            "StagingFromQATime": "2025-01-27T23:03:19.966000+00:00",
+            "DraftStrategyTime": "2025-02-05T14:02:27.093000+00:00",
+            "TimeHours": 206.99,
+            "TimeDays": 8.62
+        },
+        {
+            "onBehalfOf": "67b0d3eaa43a336485cb3a9b",
+            "StagingFromQATime": "2025-02-17T17:51:06.435000+00:00",
+            "DraftStrategyTime": "2025-02-18T10:30:12.758000+00:00",
+            "TimeHours": 16.65,
+            "TimeDays": 0.69
+        },
+        {
+            "onBehalfOf": "6794de65e757e3560b4606ca",
+            "StagingFromQATime": "2025-02-10T17:06:16.294000+00:00",
+            "DraftStrategyTime": "2025-02-11T07:13:37.450000+00:00",
+            "TimeHours": 14.12,
+            "TimeDays": 0.59
+        },
+        {
+            "onBehalfOf": "67a46664f16de32a7224c847",
+            "StagingFromQATime": "2025-02-17T20:04:04.547000+00:00",
+            "DraftStrategyTime": "2025-02-18T09:06:29.298000+00:00",
+            "TimeHours": 13.04,
+            "TimeDays": 0.54
+        },
+        {
+            "onBehalfOf": "679725c2aa45decf1a24ba0f",
+            "StagingFromQATime": "2025-01-31T01:12:14.911000+00:00",
+            "DraftStrategyTime": "2025-01-31T10:00:31.783000+00:00",
+            "TimeHours": 8.8,
+            "TimeDays": 0.37
+        },
+        {
+            "onBehalfOf": "6794efb50b12162e899b36e3",
+            "StagingFromQATime": "2025-02-07T07:07:10.215000+00:00",
+            "DraftStrategyTime": "2025-02-07T07:57:44.450000+00:00",
+            "TimeHours": 0.84,
+            "TimeDays": 0.04
+        },
+        {
+            "onBehalfOf": "6799fa73684fc630e9bd3ca8",
+            "StagingFromQATime": "2025-02-10T19:29:11.844000+00:00",
+            "DraftStrategyTime": "2025-02-11T07:49:48.822000+00:00",
+            "TimeHours": 12.34,
+            "TimeDays": 0.51
+        },
+        {
+            "onBehalfOf": "679a01aa0717da6b4c3f752e",
+            "StagingFromQATime": "2025-02-03T17:32:57.221000+00:00",
+            "DraftStrategyTime": "2025-02-04T07:26:29.579000+00:00",
+            "TimeHours": 13.89,
+            "TimeDays": 0.58
+        },
+        {
+            "onBehalfOf": "679a7725360bb854dc713c64",
+            "StagingFromQATime": "2025-02-03T20:59:21.138000+00:00",
+            "DraftStrategyTime": "2025-02-04T08:11:42.489000+00:00",
+            "TimeHours": 11.21,
+            "TimeDays": 0.47
+        },
+        {
+            "onBehalfOf": "679a86af0717da6b4c3f9a8a",
+            "StagingFromQATime": "2025-02-13T12:05:20.860000+00:00",
+            "DraftStrategyTime": "2025-02-13T13:02:02.156000+00:00",
+            "TimeHours": 0.94,
+            "TimeDays": 0.04
+        },
+        {
+            "onBehalfOf": "679b88f4935a8b4588aa2d02",
+            "StagingFromQATime": "2025-02-07T01:24:41.416000+00:00",
+            "DraftStrategyTime": "2025-02-07T08:57:54.416000+00:00",
+            "TimeHours": 7.55,
+            "TimeDays": 0.31
+        },
+        {
+            "onBehalfOf": "679cf9bfaa60e449218b2eb0",
+            "StagingFromQATime": "2025-02-12T18:48:14.990000+00:00",
+            "DraftStrategyTime": "2025-02-13T10:23:20.842000+00:00",
+            "TimeHours": 15.58,
+            "TimeDays": 0.65
+        },
+        {
+            "onBehalfOf": "6794d16b4e78c866ff34ad2d",
+            "StagingFromQATime": "2025-01-27T22:52:24.535000+00:00",
+            "DraftStrategyTime": "2025-01-28T12:02:10.892000+00:00",
+            "TimeHours": 13.16,
+            "TimeDays": 0.55
+        },
+        {
+            "onBehalfOf": "67a691c048374d83e974beba",
+            "StagingFromQATime": "2025-02-13T07:25:36.794000+00:00",
+            "DraftStrategyTime": "2025-02-17T10:00:57.298000+00:00",
+            "TimeHours": 98.59,
+            "TimeDays": 4.11
+        },
+        {
+            "onBehalfOf": "67a7a9a27122ecabfb4ed3d4",
+            "StagingFromQATime": "2025-02-11T19:52:49.595000+00:00",
+            "DraftStrategyTime": "2025-02-13T08:29:51.371000+00:00",
+            "TimeHours": 36.62,
+            "TimeDays": 1.53
+        },
+        {
+            "onBehalfOf": "67bad5926633057930193e80",
+            "StagingFromQATime": "2025-02-24T21:16:22.933000+00:00",
+            "DraftStrategyTime": "2025-02-25T09:47:06.815000+00:00",
+            "TimeHours": 12.51,
+            "TimeDays": 0.52
+        },
+        {
+            "onBehalfOf": "6787b19f5a01737dfdaaa5ae",
+            "StagingFromQATime": "2025-01-27T23:37:53.089000+00:00",
+            "DraftStrategyTime": "2025-01-30T09:55:28.543000+00:00",
+            "TimeHours": 58.29,
+            "TimeDays": 2.43
+        },
+        {
+            "onBehalfOf": "6787b7ad76421f889de0ddfc",
+            "StagingFromQATime": "2025-02-10T17:04:43.740000+00:00",
+            "DraftStrategyTime": "2025-02-11T12:17:12.860000+00:00",
+            "TimeHours": 19.21,
+            "TimeDays": 0.8
+        },
+        {
+            "onBehalfOf": "67b48fef7f1c8480380602da",
+            "StagingFromQATime": "2025-02-19T23:31:30.545000+00:00",
+            "DraftStrategyTime": "2025-02-20T10:50:38.473000+00:00",
+            "TimeHours": 11.32,
+            "TimeDays": 0.47
+        },
+        {
+            "onBehalfOf": "67b9b09ef23a09ffc12f46e2",
+            "StagingFromQATime": "2025-02-25T03:13:08.236000+00:00",
+            "DraftStrategyTime": "2025-02-25T07:38:56.356000+00:00",
+            "TimeHours": 4.43,
+            "TimeDays": 0.18
+        },
+        {
+            "onBehalfOf": "67aa3a0aee35a99e4b06850d",
+            "StagingFromQATime": "2025-02-17T16:24:52.544000+00:00",
+            "DraftStrategyTime": "2025-02-18T11:18:37.667000+00:00",
+            "TimeHours": 18.9,
+            "TimeDays": 0.79
+        },
+        {
+            "onBehalfOf": "67b882492105ca3404b56a3b",
+            "StagingFromQATime": "2025-02-25T01:58:04.997000+00:00",
+            "DraftStrategyTime": "2025-02-25T07:50:45.400000+00:00",
+            "TimeHours": 5.88,
+            "TimeDays": 0.24
+        },
+        {
+            "onBehalfOf": "6794da61fc22d4474a0ddfcc",
+            "StagingFromQATime": "2025-01-28T08:03:20.927000+00:00",
+            "DraftStrategyTime": "2025-01-28T13:36:35.930000+00:00",
+            "TimeHours": 5.55,
+            "TimeDays": 0.23
+        },
+        {
+            "onBehalfOf": "67a5b397e96e61b34560c27d",
+            "StagingFromQATime": "2025-02-10T18:06:57.774000+00:00",
+            "DraftStrategyTime": "2025-02-12T09:07:49.422000+00:00",
+            "TimeHours": 39.01,
+            "TimeDays": 1.63
+        },
+        {
+            "onBehalfOf": "679523fa385649dcd523c1f1",
+            "StagingFromQATime": "2025-01-28T22:55:56.688000+00:00",
+            "DraftStrategyTime": "2025-01-30T14:29:59.645000+00:00",
+            "TimeHours": 39.57,
+            "TimeDays": 1.65
+        },
+        {
+            "onBehalfOf": "67b07fd76450e4731e30f507",
+            "StagingFromQATime": "2025-02-17T18:51:42.895000+00:00",
+            "DraftStrategyTime": "2025-02-18T07:02:58.133000+00:00",
+            "TimeHours": 12.19,
+            "TimeDays": 0.51
+        },
+        {
+            "onBehalfOf": "671a4fefa956c4df85f2cbad",
+            "StagingFromQATime": "2025-02-10T20:25:40.136000+00:00",
+            "DraftStrategyTime": "2025-02-12T09:08:59.347000+00:00",
+            "TimeHours": 36.72,
+            "TimeDays": 1.53
+        },
+        {
+            "onBehalfOf": "67a12a90d82073f6eea9b80b",
+            "StagingFromQATime": "2025-02-10T20:11:09.267000+00:00",
+            "DraftStrategyTime": "2025-02-11T09:19:02.602000+00:00",
+            "TimeHours": 13.13,
+            "TimeDays": 0.55
+        },
+        {
+            "onBehalfOf": "67b098c5e0454622ed6fffec",
+            "StagingFromQATime": "2025-02-19T22:56:55.884000+00:00",
+            "DraftStrategyTime": "2025-02-20T08:20:15.303000+00:00",
+            "TimeHours": 9.39,
+            "TimeDays": 0.39
+        },
+        {
+            "onBehalfOf": "67b2ee6877192bd97a94907d",
+            "StagingFromQATime": "2025-02-18T17:08:28.245000+00:00",
+            "DraftStrategyTime": "2025-02-19T11:01:25.926000+00:00",
+            "TimeHours": 17.88,
+            "TimeDays": 0.75
+        },
+        {
+            "onBehalfOf": "679d360fc343b52c128c40a2",
+            "StagingFromQATime": "2025-02-24T19:10:06.407000+00:00",
+            "DraftStrategyTime": "2025-02-25T07:34:12.370000+00:00",
+            "TimeHours": 12.4,
+            "TimeDays": 0.52
+        },
+        {
+            "onBehalfOf": "6789f9dbd454c90ca9813816",
+            "StagingFromQATime": "2025-01-28T00:10:12.647000+00:00",
+            "DraftStrategyTime": "2025-01-29T08:20:47.661000+00:00",
+            "TimeHours": 32.18,
+            "TimeDays": 1.34
+        },
+        {
+            "onBehalfOf": "67b45e467f1c84803805db4e",
+            "StagingFromQATime": "2025-02-19T19:15:02.246000+00:00",
+            "DraftStrategyTime": "2025-02-20T08:52:32.691000+00:00",
+            "TimeHours": 13.63,
+            "TimeDays": 0.57
+        },
+        {
+            "onBehalfOf": "67a4f414e96e61b34560b9e8",
+            "StagingFromQATime": "2025-02-21T22:12:04.151000+00:00",
+            "DraftStrategyTime": "2025-02-24T08:09:05.899000+00:00",
+            "TimeHours": 57.95,
+            "TimeDays": 2.41
+        },
+        {
+            "onBehalfOf": "67a483cfe002259af096009d",
+            "StagingFromQATime": "2025-02-12T17:14:16.241000+00:00",
+            "DraftStrategyTime": "2025-02-13T09:33:52.405000+00:00",
+            "TimeHours": 16.33,
+            "TimeDays": 0.68
+        },
+        {
+            "onBehalfOf": "67b453ff7f1c84803805d3df",
+            "StagingFromQATime": "2025-02-19T19:29:45.132000+00:00",
+            "DraftStrategyTime": "2025-02-20T07:24:51.202000+00:00",
+            "TimeHours": 11.92,
+            "TimeDays": 0.5
+        },
+        {
+            "onBehalfOf": "6797ce82aa45decf1a24e80c",
+            "StagingFromQATime": "2025-02-05T07:52:22.181000+00:00",
+            "DraftStrategyTime": "2025-02-05T10:07:47.418000+00:00",
+            "TimeHours": 2.26,
+            "TimeDays": 0.09
+        },
+        {
+            "onBehalfOf": "679bb1fe3e6d7912b9f098b8",
+            "StagingFromQATime": "2025-02-17T16:53:01.943000+00:00",
+            "DraftStrategyTime": "2025-02-18T10:12:00.605000+00:00",
+            "TimeHours": 17.32,
+            "TimeDays": 0.72
+        },
+        {
+            "onBehalfOf": "679de4ce2e4a87341a141bb1",
+            "StagingFromQATime": "2025-02-12T16:50:37.355000+00:00",
+            "DraftStrategyTime": "2025-02-13T09:00:00.245000+00:00",
+            "TimeHours": 16.16,
+            "TimeDays": 0.67
+        },
+        {
+            "onBehalfOf": "679de68baa60e449218b3bbe",
+            "StagingFromQATime": "2025-02-10T16:04:41.875000+00:00",
+            "DraftStrategyTime": "2025-02-11T06:56:02.489000+00:00",
+            "TimeHours": 14.86,
+            "TimeDays": 0.62
+        },
+        {
+            "onBehalfOf": "67a75d4b1145203b0f58fa4d",
+            "StagingFromQATime": "2025-02-17T16:43:42.933000+00:00",
+            "DraftStrategyTime": "2025-02-18T06:56:00.482000+00:00",
+            "TimeHours": 14.2,
+            "TimeDays": 0.59
+        },
+        {
+            "onBehalfOf": "67a44228ff73998922ba5479",
+            "StagingFromQATime": "2025-02-17T18:28:27.802000+00:00",
+            "DraftStrategyTime": "2025-02-18T13:24:52.083000+00:00",
+            "TimeHours": 18.94,
+            "TimeDays": 0.79
+        },
+        {
+            "onBehalfOf": "67963864aa45decf1a24a2e0",
+            "StagingFromQATime": "2025-02-05T15:41:55.172000+00:00",
+            "DraftStrategyTime": "2025-02-06T06:23:19.686000+00:00",
+            "TimeHours": 14.69,
+            "TimeDays": 0.61
+        },
+        {
+            "onBehalfOf": "67a86576493e67338802c815",
+            "StagingFromQATime": "2025-02-17T18:27:04.167000+00:00",
+            "DraftStrategyTime": "2025-02-18T13:06:18.319000+00:00",
+            "TimeHours": 18.65,
+            "TimeDays": 0.78
+        },
+        {
+            "onBehalfOf": "67961f3ce757e3560b4625e3",
+            "StagingFromQATime": "2025-01-30T23:41:50.659000+00:00",
+            "DraftStrategyTime": "2025-01-31T12:39:46.608000+00:00",
+            "TimeHours": 12.97,
+            "TimeDays": 0.54
+        },
+        {
+            "onBehalfOf": "67b43eb4345ebc759966f0a4",
+            "StagingFromQATime": "2025-02-18T18:58:44.171000+00:00",
+            "DraftStrategyTime": "2025-02-19T10:42:52.226000+00:00",
+            "TimeHours": 15.74,
+            "TimeDays": 0.66
+        },
+        {
+            "onBehalfOf": "67b2194e1e703d9959ef90d3",
+            "StagingFromQATime": "2025-02-18T16:53:29.321000+00:00",
+            "DraftStrategyTime": "2025-02-19T09:20:05.430000+00:00",
+            "TimeHours": 16.44,
+            "TimeDays": 0.69
+        },
+        {
+            "onBehalfOf": "67b364e077192bd97a94c0ff",
+            "StagingFromQATime": "2025-02-19T18:17:28.168000+00:00",
+            "DraftStrategyTime": "2025-02-21T10:47:05.984000+00:00",
+            "TimeHours": 40.49,
+            "TimeDays": 1.69
+        },
+        {
+            "onBehalfOf": "67bad13f056d57ef4fb22db3",
+            "StagingFromQATime": "2025-02-24T20:57:00.590000+00:00",
+            "DraftStrategyTime": "2025-02-25T07:21:30.318000+00:00",
+            "TimeHours": 10.41,
+            "TimeDays": 0.43
+        },
+        {
+            "onBehalfOf": "6796260eaa45decf1a249fbf",
+            "StagingFromQATime": "2025-01-29T01:56:56.594000+00:00",
+            "DraftStrategyTime": "2025-01-30T07:14:19.396000+00:00",
+            "TimeHours": 29.29,
+            "TimeDays": 1.22
+        },
+        {
+            "onBehalfOf": "6797b8d44d3d2fdbd82ea576",
+            "StagingFromQATime": "2025-02-03T12:59:06.180000+00:00",
+            "DraftStrategyTime": "2025-02-04T08:58:07.183000+00:00",
+            "TimeHours": 19.98,
+            "TimeDays": 0.83
+        },
+        {
+            "onBehalfOf": "67a5f3ca013c5e5cb941a78c",
+            "StagingFromQATime": "2025-02-10T22:25:48.075000+00:00",
+            "DraftStrategyTime": "2025-02-12T12:18:30.414000+00:00",
+            "TimeHours": 37.88,
+            "TimeDays": 1.58
+        },
+        {
+            "onBehalfOf": "67abc0001a40184d43294e51",
+            "StagingFromQATime": "2025-02-24T23:40:37.940000+00:00",
+            "DraftStrategyTime": "2025-02-25T10:37:36.310000+00:00",
+            "TimeHours": 10.95,
+            "TimeDays": 0.46
+        },
+        {
+            "onBehalfOf": "6797545b8a1b310ee1ac6931",
+            "StagingFromQATime": "2025-01-30T20:36:43.899000+00:00",
+            "DraftStrategyTime": "2025-01-31T08:23:27.978000+00:00",
+            "TimeHours": 11.78,
+            "TimeDays": 0.49
+        },
+        {
+            "onBehalfOf": "679793c94d3d2fdbd82ea0c0",
+            "StagingFromQATime": "2025-02-10T17:01:46.371000+00:00",
+            "DraftStrategyTime": "2025-02-11T10:08:34.014000+00:00",
+            "TimeHours": 17.11,
+            "TimeDays": 0.71
+        },
+        {
+            "onBehalfOf": "67b468c4345ebc7599670d5d",
+            "StagingFromQATime": "2025-02-19T18:15:35.857000+00:00",
+            "DraftStrategyTime": "2025-02-20T07:10:52.367000+00:00",
+            "TimeHours": 12.92,
+            "TimeDays": 0.54
+        },
+        {
+            "onBehalfOf": "67a4e92fe002259af09621f7",
+            "StagingFromQATime": "2025-02-10T22:45:20.616000+00:00",
+            "DraftStrategyTime": "2025-02-18T13:24:56.297000+00:00",
+            "TimeHours": 182.66,
+            "TimeDays": 7.61
+        },
+        {
+            "onBehalfOf": "67a11b5a2614a53d28c46e26",
+            "StagingFromQATime": "2025-02-17T18:05:42.878000+00:00",
+            "DraftStrategyTime": "2025-02-18T09:28:46.746000+00:00",
+            "TimeHours": 15.38,
+            "TimeDays": 0.64
+        },
+        {
+            "onBehalfOf": "6798ffe2d620708a506cadd3",
+            "StagingFromQATime": "2025-01-30T16:53:24.259000+00:00",
+            "DraftStrategyTime": "2025-01-31T08:39:33.330000+00:00",
+            "TimeHours": 15.77,
+            "TimeDays": 0.66
+        },
+        {
+            "onBehalfOf": "672343a9a20f26749ace0846",
+            "StagingFromQATime": "2025-01-31T11:36:45.409000+00:00",
+            "DraftStrategyTime": "2025-01-31T13:24:01.224000+00:00",
+            "TimeHours": 1.79,
+            "TimeDays": 0.07
+        },
+        {
+            "onBehalfOf": "679ea9633c6321b486e0564a",
+            "StagingFromQATime": "2025-02-03T21:20:15.089000+00:00",
+            "DraftStrategyTime": "2025-02-04T12:28:14.024000+00:00",
+            "TimeHours": 15.13,
+            "TimeDays": 0.63
+        },
+        {
+            "onBehalfOf": "679619c3aa45decf1a249e50",
+            "StagingFromQATime": "2025-02-03T13:15:50.114000+00:00",
+            "DraftStrategyTime": "2025-02-04T06:51:39.521000+00:00",
+            "TimeHours": 17.6,
+            "TimeDays": 0.73
+        },
+        {
+            "onBehalfOf": "67a8a41ccd190b5ed1343649",
+            "StagingFromQATime": "2025-02-11T00:09:56.325000+00:00",
+            "DraftStrategyTime": "2025-02-11T10:13:45.248000+00:00",
+            "TimeHours": 10.06,
+            "TimeDays": 0.42
+        },
+        {
+            "onBehalfOf": "67a7b6e318058c7135d8e45f",
+            "StagingFromQATime": "2025-02-17T18:12:06.154000+00:00",
+            "DraftStrategyTime": "2025-02-18T10:30:48.924000+00:00",
+            "TimeHours": 16.31,
+            "TimeDays": 0.68
+        },
+        {
+            "onBehalfOf": "67969b5517459ea9e26bed90",
+            "StagingFromQATime": "2025-01-27T20:15:55.266000+00:00",
+            "DraftStrategyTime": "2025-01-31T08:24:55.613000+00:00",
+            "TimeHours": 84.15,
+            "TimeDays": 3.51
+        },
+        {
+            "onBehalfOf": "679b866e935a8b4588aa2aec",
+            "StagingFromQATime": "2025-02-10T20:24:18.973000+00:00",
+            "DraftStrategyTime": "2025-02-11T14:17:52.450000+00:00",
+            "TimeHours": 17.89,
+            "TimeDays": 0.75
+        },
+        {
+            "onBehalfOf": "67840f7cff38bce06f511caa",
+            "StagingFromQATime": "2025-01-28T16:21:33.450000+00:00",
+            "DraftStrategyTime": "2025-01-29T07:19:33.735000+00:00",
+            "TimeHours": 14.97,
+            "TimeDays": 0.62
+        },
+        {
+            "onBehalfOf": "679a9590c343b52c128bd158",
+            "StagingFromQATime": "2025-02-03T16:22:10.393000+00:00",
+            "DraftStrategyTime": "2025-02-05T07:16:56.374000+00:00",
+            "TimeHours": 38.91,
+            "TimeDays": 1.62
+        },
+        {
+            "onBehalfOf": "6791f1cc9f1997c649326cb5",
+            "StagingFromQATime": "2025-01-28T18:20:53.734000+00:00",
+            "DraftStrategyTime": "2025-01-29T08:48:20.206000+00:00",
+            "TimeHours": 14.46,
+            "TimeDays": 0.6
+        },
+        {
+            "onBehalfOf": "6797a7b517459ea9e26c1c8a",
+            "StagingFromQATime": "2025-02-17T14:09:08.498000+00:00",
+            "DraftStrategyTime": "2025-02-18T07:48:02.044000+00:00",
+            "TimeHours": 17.65,
+            "TimeDays": 0.74
+        },
+        {
+            "onBehalfOf": "67a43a0aff73998922ba5439",
+            "StagingFromQATime": "2025-02-10T18:00:47.200000+00:00",
+            "DraftStrategyTime": "2025-02-11T14:12:10.858000+00:00",
+            "TimeHours": 20.19,
+            "TimeDays": 0.84
+        },
+        {
+            "onBehalfOf": "67a3d40bf16de32a7224bbf0",
+            "StagingFromQATime": "2025-02-10T20:28:57.357000+00:00",
+            "DraftStrategyTime": "2025-02-13T13:11:29.805000+00:00",
+            "TimeHours": 64.71,
+            "TimeDays": 2.7
+        },
+        {
+            "onBehalfOf": "67b45a927f1c84803805d930",
+            "StagingFromQATime": "2025-02-19T18:21:01.795000+00:00",
+            "DraftStrategyTime": "2025-02-20T13:22:28.739000+00:00",
+            "TimeHours": 19.02,
+            "TimeDays": 0.79
+        },
+        {
+            "onBehalfOf": "67b08877e0454622ed6ffd4f",
+            "StagingFromQATime": "2025-02-17T19:28:32.879000+00:00",
+            "DraftStrategyTime": "2025-02-18T09:07:26.125000+00:00",
+            "TimeHours": 13.65,
+            "TimeDays": 0.57
+        },
+        {
+            "onBehalfOf": "6794ccaf8c1433246004ee70",
+            "StagingFromQATime": "2025-02-12T17:07:46.854000+00:00",
+            "DraftStrategyTime": "2025-02-13T12:49:14.724000+00:00",
+            "TimeHours": 19.69,
+            "TimeDays": 0.82
+        },
+        {
+            "onBehalfOf": "67993f40d620708a506cb088",
+            "StagingFromQATime": "2025-02-13T19:54:10+00:00",
+            "DraftStrategyTime": "2025-02-17T07:47:55.538000+00:00",
+            "TimeHours": 83.9,
+            "TimeDays": 3.5
+        },
+        {
+            "onBehalfOf": "6787c6ede06e3462d107f4ff",
+            "StagingFromQATime": "2025-01-27T23:11:30.216000+00:00",
+            "DraftStrategyTime": "2025-01-28T08:48:17.844000+00:00",
+            "TimeHours": 9.61,
+            "TimeDays": 0.4
+        },
+        {
+            "onBehalfOf": "67afbbd1544a9be800d0b26e",
+            "StagingFromQATime": "2025-02-17T17:10:00.827000+00:00",
+            "DraftStrategyTime": "2025-02-18T13:13:01.195000+00:00",
+            "TimeHours": 20.05,
+            "TimeDays": 0.84
+        },
+        {
+            "onBehalfOf": "67b0985c6450e4731e30f977",
+            "StagingFromQATime": "2025-02-18T15:40:31.232000+00:00",
+            "DraftStrategyTime": "2025-02-19T10:27:21.937000+00:00",
+            "TimeHours": 18.78,
+            "TimeDays": 0.78
+        },
+        {
+            "onBehalfOf": "67a9c9c2b04148829b1d6b7a",
+            "StagingFromQATime": "2025-02-13T19:58:13.209000+00:00",
+            "DraftStrategyTime": "2025-02-17T09:59:03.951000+00:00",
+            "TimeHours": 86.01,
+            "TimeDays": 3.58
+        },
+        {
+            "onBehalfOf": "679809294d3d2fdbd82eac28",
+            "StagingFromQATime": "2025-01-31T22:56:05.269000+00:00",
+            "DraftStrategyTime": "2025-02-03T07:15:39.901000+00:00",
+            "TimeHours": 56.33,
+            "TimeDays": 2.35
+        },
+        {
+            "onBehalfOf": "679601a617459ea9e26bdaed",
+            "StagingFromQATime": "2025-01-31T01:03:56.701000+00:00",
+            "DraftStrategyTime": "2025-01-31T10:15:27.581000+00:00",
+            "TimeHours": 9.19,
+            "TimeDays": 0.38
+        },
+        {
+            "onBehalfOf": "679a08743e6d7912b9f0351d",
+            "StagingFromQATime": "2025-02-04T16:13:28.538000+00:00",
+            "DraftStrategyTime": "2025-02-06T12:23:12.264000+00:00",
+            "TimeHours": 44.16,
+            "TimeDays": 1.84
+        },
+        {
+            "onBehalfOf": "6795fc7617459ea9e26bda76",
+            "StagingFromQATime": "2025-02-10T18:24:39.441000+00:00",
+            "DraftStrategyTime": "2025-02-11T10:40:59.405000+00:00",
+            "TimeHours": 16.27,
+            "TimeDays": 0.68
+        },
+        {
+            "onBehalfOf": "679627cc0c62097d0f54916a",
+            "StagingFromQATime": "2025-02-03T13:13:27.451000+00:00",
+            "DraftStrategyTime": "2025-02-04T06:56:33.463000+00:00",
+            "TimeHours": 17.72,
+            "TimeDays": 0.74
+        },
+        {
+            "onBehalfOf": "679a373b9c3c79e6a19f7eb9",
+            "StagingFromQATime": "2025-02-05T08:49:45.983000+00:00",
+            "DraftStrategyTime": "2025-02-05T10:17:09.970000+00:00",
+            "TimeHours": 1.46,
+            "TimeDays": 0.06
+        },
+        {
+            "onBehalfOf": "670e5ffe38445f75934cc4fc",
+            "StagingFromQATime": "2025-01-29T01:35:47.004000+00:00",
+            "DraftStrategyTime": "2025-01-29T06:29:58.579000+00:00",
+            "TimeHours": 4.9,
+            "TimeDays": 0.2
+        },
+        {
+            "onBehalfOf": "679ba44f3e6d7912b9f0971a",
+            "StagingFromQATime": "2025-02-07T06:43:16.646000+00:00",
+            "DraftStrategyTime": "2025-02-07T09:02:52.794000+00:00",
+            "TimeHours": 2.33,
+            "TimeDays": 0.1
+        },
+        {
+            "onBehalfOf": "67976bd42904a2cd98efbfb6",
+            "StagingFromQATime": "2025-02-21T00:58:38.765000+00:00",
+            "DraftStrategyTime": "2025-02-21T10:31:51.227000+00:00",
+            "TimeHours": 9.55,
+            "TimeDays": 0.4
+        },
+        {
+            "onBehalfOf": "6796f6b0aa45decf1a24b700",
+            "StagingFromQATime": "2025-01-30T16:46:28.149000+00:00",
+            "DraftStrategyTime": "2025-01-31T09:29:33.914000+00:00",
+            "TimeHours": 16.72,
+            "TimeDays": 0.7
+        },
+        {
+            "onBehalfOf": "6710d038c74e8e26ab4d7095",
+            "StagingFromQATime": "2025-01-27T20:50:02.565000+00:00",
+            "DraftStrategyTime": "2025-01-29T10:03:45.427000+00:00",
+            "TimeHours": 37.23,
+            "TimeDays": 1.55
+        },
+        {
+            "onBehalfOf": "679c8a72c343b52c128c16e4",
+            "StagingFromQATime": "2025-02-04T15:49:43.813000+00:00",
+            "DraftStrategyTime": "2025-02-05T13:24:30.336000+00:00",
+            "TimeHours": 21.58,
+            "TimeDays": 0.9
+        },
+        {
+            "onBehalfOf": "679898294b3225d6f1c2b030",
+            "StagingFromQATime": "2025-02-05T16:15:55.763000+00:00",
+            "DraftStrategyTime": "2025-02-06T10:41:30.608000+00:00",
+            "TimeHours": 18.43,
+            "TimeDays": 0.77
+        },
+        {
+            "onBehalfOf": "67a7b0cbae1b46b76beea2fd",
+            "StagingFromQATime": "2025-02-10T22:52:22.201000+00:00",
+            "DraftStrategyTime": "2025-02-12T09:56:54.712000+00:00",
+            "TimeHours": 35.08,
+            "TimeDays": 1.46
+        },
+        {
+            "onBehalfOf": "67af2a3fd7790c17b3350cc3",
+            "StagingFromQATime": "2025-02-17T17:55:48.359000+00:00",
+            "DraftStrategyTime": "2025-02-18T13:18:02.265000+00:00",
+            "TimeHours": 19.37,
+            "TimeDays": 0.81
+        },
+        {
+            "onBehalfOf": "67954b33fc22d4474a0dea57",
+            "StagingFromQATime": "2025-01-31T00:36:37.378000+00:00",
+            "DraftStrategyTime": "2025-01-31T09:52:40.671000+00:00",
+            "TimeHours": 9.27,
+            "TimeDays": 0.39
+        },
+        {
+            "onBehalfOf": "6790a6e033411408b47b997f",
+            "StagingFromQATime": "2025-01-28T18:14:33.414000+00:00",
+            "DraftStrategyTime": "2025-01-29T07:33:49.601000+00:00",
+            "TimeHours": 13.32,
+            "TimeDays": 0.56
+        },
+        {
+            "onBehalfOf": "67af6779544a9be800d0afdb",
+            "StagingFromQATime": "2025-02-17T18:08:11.040000+00:00",
+            "DraftStrategyTime": "2025-02-18T13:28:48.108000+00:00",
+            "TimeHours": 19.34,
+            "TimeDays": 0.81
+        },
+        {
+            "onBehalfOf": "67a5cb68e96e61b34560ce93",
+            "StagingFromQATime": "2025-02-20T15:26:54.122000+00:00",
+            "DraftStrategyTime": "2025-02-21T11:02:40.615000+00:00",
+            "TimeHours": 19.6,
+            "TimeDays": 0.82
+        },
+        {
+            "onBehalfOf": "6794d9f9fc22d4474a0ddfc4",
+            "StagingFromQATime": "2025-02-10T22:05:40.884000+00:00",
+            "DraftStrategyTime": "2025-02-11T07:59:34.326000+00:00",
+            "TimeHours": 9.9,
+            "TimeDays": 0.41
+        },
+        {
+            "onBehalfOf": "67aa51c9382a78837ac87905",
+            "StagingFromQATime": "2025-02-21T10:38:50.110000+00:00",
+            "DraftStrategyTime": "2025-02-24T11:22:51.101000+00:00",
+            "TimeHours": 72.73,
+            "TimeDays": 3.03
+        },
+        {
+            "onBehalfOf": "67b4dda94840d8604a3f7b75",
+            "StagingFromQATime": "2025-02-20T17:50:58.609000+00:00",
+            "DraftStrategyTime": "2025-02-21T13:06:29.908000+00:00",
+            "TimeHours": 19.26,
+            "TimeDays": 0.8
+        },
+        {
+            "onBehalfOf": "67a9e72d4a6e2042a7ba82f7",
+            "StagingFromQATime": "2025-02-11T00:45:42.640000+00:00",
+            "DraftStrategyTime": "2025-02-18T13:58:08.867000+00:00",
+            "TimeHours": 181.21,
+            "TimeDays": 7.55
+        },
+        {
+            "onBehalfOf": "67a48d4a013c5e5cb94161a3",
+            "StagingFromQATime": "2025-02-10T19:46:27.775000+00:00",
+            "DraftStrategyTime": "2025-02-11T14:32:15.673000+00:00",
+            "TimeHours": 18.76,
+            "TimeDays": 0.78
+        },
+        {
+            "onBehalfOf": "678ab8bacb4906911f2b4bba",
+            "StagingFromQATime": "2025-01-31T00:35:14.586000+00:00",
+            "DraftStrategyTime": "2025-01-31T12:37:21.659000+00:00",
+            "TimeHours": 12.04,
+            "TimeDays": 0.5
+        },
+        {
+            "onBehalfOf": "6785cecbb357ce0f66707356",
+            "StagingFromQATime": "2025-02-10T19:54:27.754000+00:00",
+            "DraftStrategyTime": "2025-02-11T09:32:56.055000+00:00",
+            "TimeHours": 13.64,
+            "TimeDays": 0.57
+        },
+        {
+            "onBehalfOf": "6786b8094a24273e46827cf7",
+            "StagingFromQATime": "2025-02-04T17:59:31.298000+00:00",
+            "DraftStrategyTime": "2025-02-05T13:02:49.164000+00:00",
+            "TimeHours": 19.05,
+            "TimeDays": 0.79
+        },
+        {
+            "onBehalfOf": "6788734ee06e3462d1082185",
+            "StagingFromQATime": "2025-02-04T16:57:08.598000+00:00",
+            "DraftStrategyTime": "2025-02-05T12:30:26.618000+00:00",
+            "TimeHours": 19.56,
+            "TimeDays": 0.81
+        },
+        {
+            "onBehalfOf": "65e203a2704e83e76db95986",
+            "StagingFromQATime": "2025-02-03T18:16:26.617000+00:00",
+            "DraftStrategyTime": "2025-02-12T12:16:09.291000+00:00",
+            "TimeHours": 210.0,
+            "TimeDays": 8.75
+        },
+        {
+            "onBehalfOf": "6794edb1e757e3560b460967",
+            "StagingFromQATime": "2025-02-17T06:38:20.238000+00:00",
+            "DraftStrategyTime": "2025-02-18T09:00:33.962000+00:00",
+            "TimeHours": 26.37,
+            "TimeDays": 1.1
+        },
+        {
+            "onBehalfOf": "6794f30717459ea9e26bc9df",
+            "StagingFromQATime": "2025-02-03T12:46:57.686000+00:00",
+            "DraftStrategyTime": "2025-02-04T06:47:40.162000+00:00",
+            "TimeHours": 18.01,
+            "TimeDays": 0.75
+        },
+        {
+            "onBehalfOf": "67a37684933488035bc045a2",
+            "StagingFromQATime": "2025-02-11T02:26:47.395000+00:00",
+            "DraftStrategyTime": "2025-02-11T11:00:04.839000+00:00",
+            "TimeHours": 8.55,
+            "TimeDays": 0.36
+        },
+        {
+            "onBehalfOf": "67b47225345ebc7599671535",
+            "StagingFromQATime": "2025-02-19T17:24:02.063000+00:00",
+            "DraftStrategyTime": "2025-02-20T09:23:39.957000+00:00",
+            "TimeHours": 15.99,
+            "TimeDays": 0.67
+        },
+        {
+            "onBehalfOf": "679b289d3e6d7912b9f05f0b",
+            "StagingFromQATime": "2025-02-04T06:44:04.921000+00:00",
+            "DraftStrategyTime": "2025-02-04T13:58:20.627000+00:00",
+            "TimeHours": 7.24,
+            "TimeDays": 0.3
+        },
+        {
+            "onBehalfOf": "67b450207f1c84803805cfb9",
+            "StagingFromQATime": "2025-02-20T16:54:53.234000+00:00",
+            "DraftStrategyTime": "2025-02-21T11:18:11.666000+00:00",
+            "TimeHours": 18.39,
+            "TimeDays": 0.77
+        },
+        {
+            "onBehalfOf": "671a63cb70463ee9eabcd714",
+            "StagingFromQATime": "2025-01-30T19:10:02.978000+00:00",
+            "DraftStrategyTime": "2025-02-07T08:35:55.762000+00:00",
+            "TimeHours": 181.43,
+            "TimeDays": 7.56
+        },
+        {
+            "onBehalfOf": "6799d9cf0717da6b4c3f56de",
+            "StagingFromQATime": "2025-01-31T00:20:56.914000+00:00",
+            "DraftStrategyTime": "2025-01-31T12:55:11.285000+00:00",
+            "TimeHours": 12.57,
+            "TimeDays": 0.52
+        },
+        {
+            "onBehalfOf": "679b8cbac343b52c128c08e0",
+            "StagingFromQATime": "2025-02-03T08:43:33.858000+00:00",
+            "DraftStrategyTime": "2025-02-04T08:00:18.007000+00:00",
+            "TimeHours": 23.28,
+            "TimeDays": 0.97
+        },
+        {
+            "onBehalfOf": "6795410ee757e3560b460fe1",
+            "StagingFromQATime": "2025-02-13T20:57:47.885000+00:00",
+            "DraftStrategyTime": "2025-02-18T12:49:02.665000+00:00",
+            "TimeHours": 111.85,
+            "TimeDays": 4.66
+        },
+        {
+            "onBehalfOf": "679683c9aa45decf1a24ae4f",
+            "StagingFromQATime": "2025-02-10T23:44:06.992000+00:00",
+            "DraftStrategyTime": "2025-02-11T09:04:21.549000+00:00",
+            "TimeHours": 9.34,
+            "TimeDays": 0.39
+        },
+        {
+            "onBehalfOf": "678ce9d49b7dab82e34f2b9f",
+            "StagingFromQATime": "2025-01-22T08:50:28.356000+00:00",
+            "DraftStrategyTime": "2025-01-23T10:55:44.128000+00:00",
+            "TimeHours": 26.09,
+            "TimeDays": 1.09
+        },
+        {
+            "onBehalfOf": "67a49631e002259af09608b0",
+            "StagingFromQATime": "2025-02-10T18:38:51.319000+00:00",
+            "DraftStrategyTime": "2025-02-12T08:57:26.605000+00:00",
+            "TimeHours": 38.31,
+            "TimeDays": 1.6
+        },
+        {
+            "onBehalfOf": "6796b455aa45decf1a24b513",
+            "StagingFromQATime": "2025-01-28T23:25:51.185000+00:00",
+            "DraftStrategyTime": "2025-01-31T06:35:51.199000+00:00",
+            "TimeHours": 55.17,
+            "TimeDays": 2.3
+        },
+        {
+            "onBehalfOf": "6798f6b20e0266f38a269231",
+            "StagingFromQATime": "2025-01-31T22:20:36.584000+00:00",
+            "DraftStrategyTime": "2025-02-04T11:36:08.865000+00:00",
+            "TimeHours": 85.26,
+            "TimeDays": 3.55
+        },
+        {
+            "onBehalfOf": "67ae7aa75c449b5915e555f5",
+            "StagingFromQATime": "2025-02-17T18:03:51.722000+00:00",
+            "DraftStrategyTime": "2025-02-18T13:09:35.764000+00:00",
+            "TimeHours": 19.1,
+            "TimeDays": 0.8
+        },
+        {
+            "onBehalfOf": "6794dac617459ea9e26bc5ce",
+            "StagingFromQATime": "2025-02-04T12:10:35.859000+00:00",
+            "DraftStrategyTime": "2025-02-05T13:27:40.806000+00:00",
+            "TimeHours": 25.28,
+            "TimeDays": 1.05
+        },
+        {
+            "onBehalfOf": "679612b917459ea9e26bdd67",
+            "StagingFromQATime": "2025-02-07T06:25:38.502000+00:00",
+            "DraftStrategyTime": "2025-02-07T08:13:15.232000+00:00",
+            "TimeHours": 1.79,
+            "TimeDays": 0.07
+        },
+        {
+            "onBehalfOf": "679679e70c62097d0f549d21",
+            "StagingFromQATime": "2025-02-03T21:12:28.101000+00:00",
+            "DraftStrategyTime": "2025-02-04T07:33:26.788000+00:00",
+            "TimeHours": 10.35,
+            "TimeDays": 0.43
+        },
+        {
+            "onBehalfOf": "679b7d0b3c6321b486dfe085",
+            "StagingFromQATime": "2025-02-13T07:22:22.492000+00:00",
+            "DraftStrategyTime": "2025-02-13T11:00:06.811000+00:00",
+            "TimeHours": 3.63,
+            "TimeDays": 0.15
+        },
+        {
+            "onBehalfOf": "67a274e5372d5c786af69be6",
+            "StagingFromQATime": "2025-02-10T21:16:20.870000+00:00",
+            "DraftStrategyTime": "2025-02-12T07:29:46.171000+00:00",
+            "TimeHours": 34.22,
+            "TimeDays": 1.43
+        },
+        {
+            "onBehalfOf": "67b029750f3f6b12640b7b32",
+            "StagingFromQATime": "2025-02-17T19:38:27.983000+00:00",
+            "DraftStrategyTime": "2025-02-18T12:52:57.748000+00:00",
+            "TimeHours": 17.24,
+            "TimeDays": 0.72
+        },
+        {
+            "onBehalfOf": "67b220931e703d9959ef9116",
+            "StagingFromQATime": "2025-02-24T20:13:51.500000+00:00",
+            "DraftStrategyTime": "2025-02-25T06:54:36.393000+00:00",
+            "TimeHours": 10.68,
+            "TimeDays": 0.44
+        },
+        {
+            "onBehalfOf": "679761c38a1b310ee1ac6de3",
+            "StagingFromQATime": "2025-02-13T20:51:55.936000+00:00",
+            "DraftStrategyTime": "2025-02-18T13:20:08.636000+00:00",
+            "TimeHours": 112.47,
+            "TimeDays": 4.69
+        },
+        {
+            "onBehalfOf": "679a1bc69c3c79e6a19f75aa",
+            "StagingFromQATime": "2025-01-31T10:15:38.361000+00:00",
+            "DraftStrategyTime": "2025-02-06T12:54:49.708000+00:00",
+            "TimeHours": 146.65,
+            "TimeDays": 6.11
+        },
+        {
+            "onBehalfOf": "67a34a6aff73998922ba3577",
+            "StagingFromQATime": "2025-02-12T19:01:55.011000+00:00",
+            "DraftStrategyTime": "2025-02-24T13:44:40.308000+00:00",
+            "TimeHours": 282.71,
+            "TimeDays": 11.78
+        },
+        {
+            "onBehalfOf": "67a46393e002259af095eda1",
+            "StagingFromQATime": "2025-02-17T17:11:03.118000+00:00",
+            "DraftStrategyTime": "2025-02-18T08:47:03.496000+00:00",
+            "TimeHours": 15.6,
+            "TimeDays": 0.65
+        },
+        {
+            "onBehalfOf": "6794dd7117459ea9e26bc680",
+            "StagingFromQATime": "2025-01-28T10:38:30.353000+00:00",
+            "DraftStrategyTime": "2025-01-28T12:44:48.905000+00:00",
+            "TimeHours": 2.11,
+            "TimeDays": 0.09
+        },
+        {
+            "onBehalfOf": "67b48cb37f1c848038060036",
+            "StagingFromQATime": "2025-02-19T23:07:28.934000+00:00",
+            "DraftStrategyTime": "2025-02-20T09:48:48.385000+00:00",
+            "TimeHours": 10.69,
+            "TimeDays": 0.45
+        },
+        {
+            "onBehalfOf": "67ba1661a02d755362988bc2",
+            "StagingFromQATime": "2025-02-24T23:33:08.505000+00:00",
+            "DraftStrategyTime": "2025-02-25T08:28:43.305000+00:00",
+            "TimeHours": 8.93,
+            "TimeDays": 0.37
+        },
+        {
+            "onBehalfOf": "678bad23b907d4c76deb1886",
+            "StagingFromQATime": "2025-01-28T19:04:08.124000+00:00",
+            "DraftStrategyTime": "2025-01-29T06:51:52.407000+00:00",
+            "TimeHours": 11.8,
+            "TimeDays": 0.49
+        },
+        {
+            "onBehalfOf": "679a016e3e6d7912b9f031d0",
+            "StagingFromQATime": "2025-02-19T09:46:53.797000+00:00",
+            "DraftStrategyTime": "2025-02-20T07:46:04.881000+00:00",
+            "TimeHours": 21.99,
+            "TimeDays": 0.92
+        },
+        {
+            "onBehalfOf": "67973d68aa45decf1a24bf9a",
+            "StagingFromQATime": "2025-02-10T21:22:39.251000+00:00",
+            "DraftStrategyTime": "2025-02-11T10:48:55.164000+00:00",
+            "TimeHours": 13.44,
+            "TimeDays": 0.56
+        },
+        {
+            "onBehalfOf": "679b7ae1bc18b37761b15699",
+            "StagingFromQATime": "2025-02-03T16:39:59.771000+00:00",
+            "DraftStrategyTime": "2025-02-04T08:38:00.217000+00:00",
+            "TimeHours": 15.97,
+            "TimeDays": 0.67
+        },
+        {
+            "onBehalfOf": "67bb3c7a056d57ef4fb23285",
+            "StagingFromQATime": "2025-02-25T01:53:38.238000+00:00",
+            "DraftStrategyTime": "2025-02-25T09:02:04.963000+00:00",
+            "TimeHours": 7.14,
+            "TimeDays": 0.3
+        },
+        {
+            "onBehalfOf": "67b35e5f7f1c84803805baeb",
+            "StagingFromQATime": "2025-02-18T21:55:22.027000+00:00",
+            "DraftStrategyTime": "2025-02-19T10:32:10.828000+00:00",
+            "TimeHours": 12.61,
+            "TimeDays": 0.53
+        },
+        {
+            "onBehalfOf": "6789df922c3f2eceb9a8334e",
+            "StagingFromQATime": "2025-02-07T07:06:02.456000+00:00",
+            "DraftStrategyTime": "2025-02-07T08:20:24.945000+00:00",
+            "TimeHours": 1.24,
+            "TimeDays": 0.05
+        },
+        {
+            "onBehalfOf": "6797380be757e3560b4646fd",
+            "StagingFromQATime": "2025-01-28T21:46:32.363000+00:00",
+            "DraftStrategyTime": "2025-01-31T08:19:33.888000+00:00",
+            "TimeHours": 58.55,
+            "TimeDays": 2.44
+        },
+        {
+            "onBehalfOf": "671e94a0e22a4e87f00c921c",
+            "StagingFromQATime": "2025-01-28T21:45:11.046000+00:00",
+            "DraftStrategyTime": "2025-01-29T07:46:15.610000+00:00",
+            "TimeHours": 10.02,
+            "TimeDays": 0.42
+        },
+        {
+            "onBehalfOf": "67a3a42fe002259af095df96",
+            "StagingFromQATime": "2025-02-17T18:04:36.592000+00:00",
+            "DraftStrategyTime": "2025-02-18T13:43:11.172000+00:00",
+            "TimeHours": 19.64,
+            "TimeDays": 0.82
+        },
+        {
+            "onBehalfOf": "6799fccc360bb854dc711434",
+            "StagingFromQATime": "2025-01-31T10:05:13.543000+00:00",
+            "DraftStrategyTime": "2025-01-31T14:05:44.907000+00:00",
+            "TimeHours": 4.01,
+            "TimeDays": 0.17
+        },
+        {
+            "onBehalfOf": "67a375e4e002259af095db76",
+            "StagingFromQATime": "2025-02-13T16:00:55.388000+00:00",
+            "DraftStrategyTime": "2025-02-14T08:17:18.383000+00:00",
+            "TimeHours": 16.27,
+            "TimeDays": 0.68
+        },
+        {
+            "onBehalfOf": "67a719487122ecabfb4ecb6e",
+            "StagingFromQATime": "2025-02-20T20:20:27.433000+00:00",
+            "DraftStrategyTime": "2025-02-21T10:04:43.381000+00:00",
+            "TimeHours": 13.74,
+            "TimeDays": 0.57
+        },
+        {
+            "onBehalfOf": "67af831e511de0ebf6eda859",
+            "StagingFromQATime": "2025-02-17T18:59:58.084000+00:00",
+            "DraftStrategyTime": "2025-02-18T13:54:34.708000+00:00",
+            "TimeHours": 18.91,
+            "TimeDays": 0.79
+        },
+        {
+            "onBehalfOf": "67b06ca2234758f7874eea89",
+            "StagingFromQATime": "2025-02-24T20:33:45.051000+00:00",
+            "DraftStrategyTime": "2025-02-25T06:59:41.437000+00:00",
+            "TimeHours": 10.43,
+            "TimeDays": 0.43
+        },
+        {
+            "onBehalfOf": "67b201d22122acdc2f846bb3",
+            "StagingFromQATime": "2025-02-20T21:10:39.685000+00:00",
+            "DraftStrategyTime": "2025-02-21T12:50:14.833000+00:00",
+            "TimeHours": 15.66,
+            "TimeDays": 0.65
+        },
+        {
+            "onBehalfOf": "679b5de03e6d7912b9f07b26",
+            "StagingFromQATime": "2025-01-31T21:45:14.221000+00:00",
+            "DraftStrategyTime": "2025-02-04T10:19:23.510000+00:00",
+            "TimeHours": 84.57,
+            "TimeDays": 3.52
+        },
+        {
+            "onBehalfOf": "6799e0769c3c79e6a19f500e",
+            "StagingFromQATime": "2025-01-30T21:34:09.748000+00:00",
+            "DraftStrategyTime": "2025-02-05T10:58:54.146000+00:00",
+            "TimeHours": 133.41,
+            "TimeDays": 5.56
+        },
+        {
+            "onBehalfOf": "679b7500c343b52c128bfb5f",
+            "StagingFromQATime": "2025-02-20T19:35:53.718000+00:00",
+            "DraftStrategyTime": "2025-02-21T12:43:56.236000+00:00",
+            "TimeHours": 17.13,
+            "TimeDays": 0.71
+        },
+        {
+            "onBehalfOf": "67a47aa5f16de32a7224d6b1",
+            "StagingFromQATime": "2025-02-10T19:16:54.732000+00:00",
+            "DraftStrategyTime": "2025-02-12T08:44:56.814000+00:00",
+            "TimeHours": 37.47,
+            "TimeDays": 1.56
+        },
+        {
+            "onBehalfOf": "67b49d06f44293056348493d",
+            "StagingFromQATime": "2025-02-19T19:05:34.521000+00:00",
+            "DraftStrategyTime": "2025-02-20T10:06:57.304000+00:00",
+            "TimeHours": 15.02,
+            "TimeDays": 0.63
+        },
+        {
+            "onBehalfOf": "6796917f0c62097d0f549f4c",
+            "StagingFromQATime": "2025-01-28T18:12:56.583000+00:00",
+            "DraftStrategyTime": "2025-01-29T08:08:53.560000+00:00",
+            "TimeHours": 13.93,
+            "TimeDays": 0.58
+        },
+        {
+            "onBehalfOf": "67aed778d7790c17b334de99",
+            "StagingFromQATime": "2025-02-17T16:39:45.683000+00:00",
+            "DraftStrategyTime": "2025-02-18T12:59:50.369000+00:00",
+            "TimeHours": 20.33,
+            "TimeDays": 0.85
+        },
+        {
+            "onBehalfOf": "67b493c33c1da501f017154d",
+            "StagingFromQATime": "2025-02-19T20:44:12.196000+00:00",
+            "DraftStrategyTime": "2025-02-20T10:02:10.385000+00:00",
+            "TimeHours": 13.3,
+            "TimeDays": 0.55
+        },
+        {
+            "onBehalfOf": "678671a2b357ce0f6670c012",
+            "StagingFromQATime": "2025-01-27T23:55:55.438000+00:00",
+            "DraftStrategyTime": "2025-01-28T14:27:42.875000+00:00",
+            "TimeHours": 14.53,
+            "TimeDays": 0.61
+        },
+        {
+            "onBehalfOf": "67a775f818058c7135d8e1d5",
+            "StagingFromQATime": "2025-02-10T16:46:51.151000+00:00",
+            "DraftStrategyTime": "2025-02-12T09:54:23.246000+00:00",
+            "TimeHours": 41.13,
+            "TimeDays": 1.71
+        },
+        {
+            "onBehalfOf": "67a9069fcd190b5ed1343996",
+            "StagingFromQATime": "2025-02-13T19:17:34.218000+00:00",
+            "DraftStrategyTime": "2025-02-18T13:23:23.813000+00:00",
+            "TimeHours": 114.1,
+            "TimeDays": 4.75
+        },
+        {
+            "onBehalfOf": "679890069605ac2944b8e08a",
+            "StagingFromQATime": "2025-01-28T21:18:18.261000+00:00",
+            "DraftStrategyTime": "2025-01-29T09:15:53.372000+00:00",
+            "TimeHours": 11.96,
+            "TimeDays": 0.5
+        },
+        {
+            "onBehalfOf": "67a5a645013c5e5cb94186c5",
+            "StagingFromQATime": "2025-02-17T06:42:00.775000+00:00",
+            "DraftStrategyTime": "2025-02-17T08:05:46.752000+00:00",
+            "TimeHours": 1.4,
+            "TimeDays": 0.06
+        },
+        {
+            "onBehalfOf": "67b766832e19cefb4236e58f",
+            "StagingFromQATime": "2025-02-24T05:40:43.360000+00:00",
+            "DraftStrategyTime": "2025-02-24T13:34:46.907000+00:00",
+            "TimeHours": 7.9,
+            "TimeDays": 0.33
+        },
+        {
+            "onBehalfOf": "67a501e6e96e61b34560bb0c",
+            "StagingFromQATime": "2025-02-11T00:12:25.124000+00:00",
+            "DraftStrategyTime": "2025-02-13T13:43:12.252000+00:00",
+            "TimeHours": 61.51,
+            "TimeDays": 2.56
+        },
+        {
+            "onBehalfOf": "67b2f7be2f20cafdd6bfe716",
+            "StagingFromQATime": "2025-02-18T19:23:41.792000+00:00",
+            "DraftStrategyTime": "2025-02-19T09:15:51.509000+00:00",
+            "TimeHours": 13.87,
+            "TimeDays": 0.58
+        },
+        {
+            "onBehalfOf": "67b38f1d7f1c84803805bdf7",
+            "StagingFromQATime": "2025-02-24T21:32:58.886000+00:00",
+            "DraftStrategyTime": "2025-02-25T09:35:26.771000+00:00",
+            "TimeHours": 12.04,
+            "TimeDays": 0.5
+        },
+        {
+            "onBehalfOf": "67977e570c62097d0f54c78c",
+            "StagingFromQATime": "2025-02-25T02:29:38.772000+00:00",
+            "DraftStrategyTime": "2025-02-25T10:01:59.560000+00:00",
+            "TimeHours": 7.54,
+            "TimeDays": 0.31
+        },
+        {
+            "onBehalfOf": "67a6f66ca127c8ccaa048b36",
+            "StagingFromQATime": "2025-02-10T21:11:01.563000+00:00",
+            "DraftStrategyTime": "2025-02-17T14:05:08.036000+00:00",
+            "TimeHours": 160.9,
+            "TimeDays": 6.7
+        },
+        {
+            "onBehalfOf": "679f10f8f9744f57ba53db64",
+            "StagingFromQATime": "2025-02-24T21:05:09.042000+00:00",
+            "DraftStrategyTime": "2025-02-25T07:39:32.328000+00:00",
+            "TimeHours": 10.57,
+            "TimeDays": 0.44
+        },
+        {
+            "onBehalfOf": "67a1095fe1179612acb17fe1",
+            "StagingFromQATime": "2025-02-17T16:42:04.561000+00:00",
+            "DraftStrategyTime": "2025-02-18T10:28:52.002000+00:00",
+            "TimeHours": 17.78,
+            "TimeDays": 0.74
+        },
+        {
+            "onBehalfOf": "67a24667530ea2c0f19e1de1",
+            "StagingFromQATime": "2025-02-10T21:13:10.773000+00:00",
+            "DraftStrategyTime": "2025-02-11T08:25:14.988000+00:00",
+            "TimeHours": 11.2,
+            "TimeDays": 0.47
+        },
+        {
+            "onBehalfOf": "67b066d3a43a336485cb281a",
+            "StagingFromQATime": "2025-02-17T17:57:22.418000+00:00",
+            "DraftStrategyTime": "2025-02-18T10:38:42.426000+00:00",
+            "TimeHours": 16.69,
+            "TimeDays": 0.7
+        },
+        {
+            "onBehalfOf": "67b604ecf85a27013d442f9a",
+            "StagingFromQATime": "2025-02-24T22:53:23.158000+00:00",
+            "DraftStrategyTime": "2025-02-25T08:13:33.777000+00:00",
+            "TimeHours": 9.34,
+            "TimeDays": 0.39
+        },
+        {
+            "onBehalfOf": "675f547efe527a88c2c56029",
+            "StagingFromQATime": "2025-01-28T19:15:58.266000+00:00",
+            "DraftStrategyTime": "2025-01-29T07:33:57.145000+00:00",
+            "TimeHours": 12.3,
+            "TimeDays": 0.51
+        },
+        {
+            "onBehalfOf": "6794cf918c1433246004ef4d",
+            "StagingFromQATime": "2025-02-03T15:19:03.782000+00:00",
+            "DraftStrategyTime": "2025-02-04T07:15:55.586000+00:00",
+            "TimeHours": 15.95,
+            "TimeDays": 0.66
+        },
+        {
+            "onBehalfOf": "67961e26e757e3560b4625c3",
+            "StagingFromQATime": "2025-02-10T19:56:53.855000+00:00",
+            "DraftStrategyTime": "2025-02-17T12:42:00.723000+00:00",
+            "TimeHours": 160.75,
+            "TimeDays": 6.7
+        },
+        {
+            "onBehalfOf": "67a96148b04148829b1d47ed",
+            "StagingFromQATime": "2025-02-10T21:06:13.703000+00:00",
+            "DraftStrategyTime": "2025-02-11T12:12:20.725000+00:00",
+            "TimeHours": 15.1,
+            "TimeDays": 0.63
+        },
+        {
+            "onBehalfOf": "67aa26344a6e2042a7ba9c89",
+            "StagingFromQATime": "2025-02-11T20:16:25.141000+00:00",
+            "DraftStrategyTime": "2025-02-17T12:41:09.885000+00:00",
+            "TimeHours": 136.41,
+            "TimeDays": 5.68
+        },
+        {
+            "onBehalfOf": "67aa9bd2382a78837ac87c4f",
+            "StagingFromQATime": "2025-02-11T19:13:17.608000+00:00",
+            "DraftStrategyTime": "2025-02-17T14:09:15.216000+00:00",
+            "TimeHours": 138.93,
+            "TimeDays": 5.79
+        },
+        {
+            "onBehalfOf": "67b4620e3c1da501f016ee39",
+            "StagingFromQATime": "2025-02-19T18:39:44.700000+00:00",
+            "DraftStrategyTime": "2025-02-20T06:38:55.101000+00:00",
+            "TimeHours": 11.99,
+            "TimeDays": 0.5
+        },
+        {
+            "onBehalfOf": "67b464f877192bd97a94e1d5",
+            "StagingFromQATime": "2025-02-24T17:31:53.922000+00:00",
+            "DraftStrategyTime": "2025-02-25T07:48:36.792000+00:00",
+            "TimeHours": 14.28,
+            "TimeDays": 0.59
+        },
+        {
+            "onBehalfOf": "67b49847756f80144e2f9d61",
+            "StagingFromQATime": "2025-02-21T19:04:04.531000+00:00",
+            "DraftStrategyTime": "2025-02-24T14:13:23.369000+00:00",
+            "TimeHours": 67.16,
+            "TimeDays": 2.8
+        },
+        {
+            "onBehalfOf": "67b4ce8af85a27013d44013f",
+            "StagingFromQATime": "2025-02-24T16:46:50.757000+00:00",
+            "DraftStrategyTime": "2025-02-25T07:57:51.986000+00:00",
+            "TimeHours": 15.18,
+            "TimeDays": 0.63
+        },
+        {
+            "onBehalfOf": "67b5f1d4f85a27013d442de7",
+            "StagingFromQATime": "2025-02-24T17:39:03.788000+00:00",
+            "DraftStrategyTime": "2025-02-25T07:08:53.683000+00:00",
+            "TimeHours": 13.5,
+            "TimeDays": 0.56
+        },
+        {
+            "onBehalfOf": "67b6531ef85a27013d443317",
+            "StagingFromQATime": "2025-02-20T19:22:26.138000+00:00",
+            "DraftStrategyTime": "2025-02-21T11:04:45.584000+00:00",
+            "TimeHours": 15.71,
+            "TimeDays": 0.65
+        },
+        {
+            "onBehalfOf": "6798bb48b8525ee083fd9149",
+            "StagingFromQATime": "2025-02-05T07:41:53.408000+00:00",
+            "DraftStrategyTime": "2025-02-17T14:19:20.983000+00:00",
+            "TimeHours": 294.62,
+            "TimeDays": 12.28
+        },
+        {
+            "onBehalfOf": "6794bc99e866d38ea2968d93",
+            "StagingFromQATime": "2025-02-10T19:55:36.592000+00:00",
+            "DraftStrategyTime": "2025-02-11T10:23:44.867000+00:00",
+            "TimeHours": 14.47,
+            "TimeDays": 0.6
+        },
+        {
+            "onBehalfOf": "67acb363b90b2a47a6c3b0d1",
+            "StagingFromQATime": "2025-02-13T18:27:22.161000+00:00",
+            "DraftStrategyTime": "2025-02-14T09:56:33.641000+00:00",
+            "TimeHours": 15.49,
+            "TimeDays": 0.65
+        },
+        {
+            "onBehalfOf": "6794c9628c1433246004ed88",
+            "StagingFromQATime": "2025-01-27T08:07:30.093000+00:00",
+            "DraftStrategyTime": "2025-01-27T09:15:32.644000+00:00",
+            "TimeHours": 1.13,
+            "TimeDays": 0.05
+        },
+        {
+            "onBehalfOf": "6795f008aa45decf1a24978c",
+            "StagingFromQATime": "2025-02-11T19:54:35.946000+00:00",
+            "DraftStrategyTime": "2025-02-17T14:35:33.655000+00:00",
+            "TimeHours": 138.68,
+            "TimeDays": 5.78
+        },
+        {
+            "onBehalfOf": "67b1e7a32122acdc2f846a9d",
+            "StagingFromQATime": "2025-02-17T16:20:59.833000+00:00",
+            "DraftStrategyTime": "2025-02-18T10:53:36.895000+00:00",
+            "TimeHours": 18.54,
+            "TimeDays": 0.77
+        },
+        {
+            "onBehalfOf": "67b1f26845044b2243fa68bf",
+            "StagingFromQATime": "2025-02-17T17:00:13.717000+00:00",
+            "DraftStrategyTime": "2025-02-18T10:32:43.047000+00:00",
+            "TimeHours": 17.54,
+            "TimeDays": 0.73
+        },
+        {
+            "onBehalfOf": "6796594faa45decf1a24a8cf",
+            "StagingFromQATime": "2025-02-24T21:00:40.959000+00:00",
+            "DraftStrategyTime": "2025-02-25T07:40:45.644000+00:00",
+            "TimeHours": 10.67,
+            "TimeDays": 0.44
+        },
+        {
+            "onBehalfOf": "678ca38dcb4906911f2b9b33",
+            "StagingFromQATime": "2025-01-23T12:11:30.913000+00:00",
+            "DraftStrategyTime": "2025-01-27T08:45:06.840000+00:00",
+            "TimeHours": 92.56,
+            "TimeDays": 3.86
+        },
+        {
+            "onBehalfOf": "67b0b7e62910fa26364cbf3f",
+            "StagingFromQATime": "2025-02-19T23:43:24.291000+00:00",
+            "DraftStrategyTime": "2025-02-20T08:38:35.443000+00:00",
+            "TimeHours": 8.92,
+            "TimeDays": 0.37
+        },
+        {
+            "onBehalfOf": "67b48cd977192bd97a950020",
+            "StagingFromQATime": "2025-02-19T18:26:55.586000+00:00",
+            "DraftStrategyTime": "2025-02-20T12:05:23.735000+00:00",
+            "TimeHours": 17.64,
+            "TimeDays": 0.74
+        },
+        {
+            "onBehalfOf": "67b2db7b2f20cafdd6bfe0c4",
+            "StagingFromQATime": "2025-02-18T19:27:38.334000+00:00",
+            "DraftStrategyTime": "2025-02-19T10:17:39.641000+00:00",
+            "TimeHours": 14.83,
+            "TimeDays": 0.62
+        },
+        {
+            "onBehalfOf": "679b5182935a8b4588aa14f7",
+            "StagingFromQATime": "2025-02-04T18:01:29.572000+00:00",
+            "DraftStrategyTime": "2025-02-05T08:36:34.828000+00:00",
+            "TimeHours": 14.58,
+            "TimeDays": 0.61
+        },
+        {
+            "onBehalfOf": "679a12cf9c3c79e6a19f7042",
+            "StagingFromQATime": "2025-01-31T00:14:29.891000+00:00",
+            "DraftStrategyTime": "2025-01-31T09:48:55.668000+00:00",
+            "TimeHours": 9.57,
+            "TimeDays": 0.4
+        },
+        {
+            "onBehalfOf": "678babccb907d4c76deb1822",
+            "StagingFromQATime": "2025-02-20T15:18:46.326000+00:00",
+            "DraftStrategyTime": "2025-02-21T10:55:38.693000+00:00",
+            "TimeHours": 19.61,
+            "TimeDays": 0.82
+        },
+        {
+            "onBehalfOf": "67a685d0f16de32a72253fbf",
+            "StagingFromQATime": "2025-02-12T00:31:41.980000+00:00",
+            "DraftStrategyTime": "2025-02-18T07:35:00.410000+00:00",
+            "TimeHours": 151.06,
+            "TimeDays": 6.29
+        },
+        {
+            "onBehalfOf": "678a51a8e5211e79c57433c1",
+            "StagingFromQATime": "2025-01-22T13:50:55.294000+00:00",
+            "DraftStrategyTime": "2025-01-27T09:46:45.124000+00:00",
+            "TimeHours": 115.93,
+            "TimeDays": 4.83
+        },
+        {
+            "onBehalfOf": "6794e6a7c95b5e2ce06abe5f",
+            "StagingFromQATime": "2025-01-28T21:54:29.089000+00:00",
+            "DraftStrategyTime": "2025-02-06T09:52:31.083000+00:00",
+            "TimeHours": 203.97,
+            "TimeDays": 8.5
+        },
+        {
+            "onBehalfOf": "679505870b12162e899b39d9",
+            "StagingFromQATime": "2025-01-27T18:44:44.187000+00:00",
+            "DraftStrategyTime": "2025-01-28T09:53:19.643000+00:00",
+            "TimeHours": 15.14,
+            "TimeDays": 0.63
+        },
+        {
+            "onBehalfOf": "6794fe13e866d38ea296a08a",
+            "StagingFromQATime": "2025-02-04T17:32:33.207000+00:00",
+            "DraftStrategyTime": "2025-02-05T12:52:31.881000+00:00",
+            "TimeHours": 19.33,
+            "TimeDays": 0.81
+        },
+        {
+            "onBehalfOf": "67a1ff0304418d2b8abcf9b2",
+            "StagingFromQATime": "2025-02-17T18:40:48.448000+00:00",
+            "DraftStrategyTime": "2025-02-18T13:20:01.020000+00:00",
+            "TimeHours": 18.65,
+            "TimeDays": 0.78
+        },
+        {
+            "onBehalfOf": "67ac111e1a40184d43295004",
+            "StagingFromQATime": "2025-02-13T06:06:33.888000+00:00",
+            "DraftStrategyTime": "2025-02-17T09:24:02.822000+00:00",
+            "TimeHours": 99.29,
+            "TimeDays": 4.14
+        },
+        {
+            "onBehalfOf": "67a7b5a37122ecabfb4ed50d",
+            "StagingFromQATime": "2025-02-13T07:35:44.147000+00:00",
+            "DraftStrategyTime": "2025-02-17T09:48:15.824000+00:00",
+            "TimeHours": 98.21,
+            "TimeDays": 4.09
+        },
+        {
+            "onBehalfOf": "6797cbf5aa45decf1a24e7d5",
+            "StagingFromQATime": "2025-01-28T17:55:04.322000+00:00",
+            "DraftStrategyTime": "2025-01-29T07:38:37.076000+00:00",
+            "TimeHours": 13.73,
+            "TimeDays": 0.57
+        },
+        {
+            "onBehalfOf": "67a7b28f7122ecabfb4ed4b1",
+            "StagingFromQATime": "2025-02-10T19:41:28.557000+00:00",
+            "DraftStrategyTime": "2025-02-13T08:43:41.449000+00:00",
+            "TimeHours": 61.04,
+            "TimeDays": 2.54
+        },
+        {
+            "onBehalfOf": "679cfe74bc18b37761b1a029",
+            "StagingFromQATime": "2025-02-04T06:49:30.033000+00:00",
+            "DraftStrategyTime": "2025-02-18T09:37:27.835000+00:00",
+            "TimeHours": 338.8,
+            "TimeDays": 14.12
+        },
+        {
+            "onBehalfOf": "67b49f5c756f80144e2f9ee8",
+            "StagingFromQATime": "2025-02-20T21:23:30.505000+00:00",
+            "DraftStrategyTime": "2025-02-21T09:52:24.209000+00:00",
+            "TimeHours": 12.48,
+            "TimeDays": 0.52
+        },
+        {
+            "onBehalfOf": "679a3eac3e6d7912b9f04c71",
+            "StagingFromQATime": "2025-02-03T15:40:27.638000+00:00",
+            "DraftStrategyTime": "2025-02-05T07:00:12.161000+00:00",
+            "TimeHours": 39.33,
+            "TimeDays": 1.64
+        },
+        {
+            "onBehalfOf": "67a3695de002259af095d2c8",
+            "StagingFromQATime": "2025-02-20T20:54:02.416000+00:00",
+            "DraftStrategyTime": "2025-02-21T10:19:06.800000+00:00",
+            "TimeHours": 13.42,
+            "TimeDays": 0.56
+        },
+        {
+            "onBehalfOf": "679f4f393943f830990afa5b",
+            "StagingFromQATime": "2025-02-10T21:13:52.445000+00:00",
+            "DraftStrategyTime": "2025-02-13T08:54:11.747000+00:00",
+            "TimeHours": 59.67,
+            "TimeDays": 2.49
+        },
+        {
+            "onBehalfOf": "678d657acb4906911f2bbcca",
+            "StagingFromQATime": "2025-01-23T10:21:23.949000+00:00",
+            "DraftStrategyTime": "2025-01-27T09:35:33.190000+00:00",
+            "TimeHours": 95.24,
+            "TimeDays": 3.97
+        },
+        {
+            "onBehalfOf": "679574318c1433246004ff99",
+            "StagingFromQATime": "2025-02-12T11:31:38.768000+00:00",
+            "DraftStrategyTime": "2025-02-13T13:40:34.898000+00:00",
+            "TimeHours": 26.15,
+            "TimeDays": 1.09
+        },
+        {
+            "onBehalfOf": "6799206e0e0266f38a26963a",
+            "StagingFromQATime": "2025-01-30T17:20:39.475000+00:00",
+            "DraftStrategyTime": "2025-01-31T09:35:05.743000+00:00",
+            "TimeHours": 16.24,
+            "TimeDays": 0.68
+        },
+        {
+            "onBehalfOf": "67ae10c53850ec78b76cd2cd",
+            "StagingFromQATime": "2025-02-17T17:53:46.493000+00:00",
+            "DraftStrategyTime": "2025-02-18T13:03:22.442000+00:00",
+            "TimeHours": 19.16,
+            "TimeDays": 0.8
+        },
+        {
+            "onBehalfOf": "6797ede48a1b310ee1ac8c5b",
+            "StagingFromQATime": "2025-02-07T11:35:06.230000+00:00",
+            "DraftStrategyTime": "2025-02-07T13:17:26.625000+00:00",
+            "TimeHours": 1.71,
+            "TimeDays": 0.07
+        },
+        {
+            "onBehalfOf": "679a66fb0e0266f38a26dfa2",
+            "StagingFromQATime": "2025-02-05T20:36:59.861000+00:00",
+            "DraftStrategyTime": "2025-02-13T13:59:12.505000+00:00",
+            "TimeHours": 185.37,
+            "TimeDays": 7.72
+        },
+        {
+            "onBehalfOf": "67973db62904a2cd98efa97f",
+            "StagingFromQATime": "2025-01-30T23:11:07.114000+00:00",
+            "DraftStrategyTime": "2025-01-31T08:29:02.280000+00:00",
+            "TimeHours": 9.3,
+            "TimeDays": 0.39
+        },
+        {
+            "onBehalfOf": "6794d2edc95b5e2ce06abbbc",
+            "StagingFromQATime": "2025-02-05T07:20:27.986000+00:00",
+            "DraftStrategyTime": "2025-02-05T10:03:10.446000+00:00",
+            "TimeHours": 2.71,
+            "TimeDays": 0.11
+        },
+        {
+            "onBehalfOf": "679a57879c3c79e6a19f8270",
+            "StagingFromQATime": "2025-02-05T17:58:44.461000+00:00",
+            "DraftStrategyTime": "2025-02-10T09:59:51.259000+00:00",
+            "TimeHours": 112.02,
+            "TimeDays": 4.67
+        },
+        {
+            "onBehalfOf": "679b535dbc18b37761b14620",
+            "StagingFromQATime": "2025-02-13T20:27:54.013000+00:00",
+            "DraftStrategyTime": "2025-02-17T12:43:12.935000+00:00",
+            "TimeHours": 88.26,
+            "TimeDays": 3.68
+        },
+        {
+            "onBehalfOf": "67b4889077192bd97a94fc3b",
+            "StagingFromQATime": "2025-02-22T15:43:46.739000+00:00",
+            "DraftStrategyTime": "2025-02-24T13:55:12.567000+00:00",
+            "TimeHours": 46.19,
+            "TimeDays": 1.92
+        },
+        {
+            "onBehalfOf": "67a12ea32614a53d28c46f4f",
+            "StagingFromQATime": "2025-02-10T19:22:10.262000+00:00",
+            "DraftStrategyTime": "2025-02-11T10:57:38.409000+00:00",
+            "TimeHours": 15.59,
+            "TimeDays": 0.65
+        },
+        {
+            "onBehalfOf": "67a2d577933488035bbff064",
+            "StagingFromQATime": "2025-02-10T22:08:57.399000+00:00",
+            "DraftStrategyTime": "2025-02-13T08:47:16.649000+00:00",
+            "TimeHours": 58.64,
+            "TimeDays": 2.44
+        },
+        {
+            "onBehalfOf": "6794c2290b12162e899b2cbe",
+            "StagingFromQATime": "2025-01-28T21:07:55.667000+00:00",
+            "DraftStrategyTime": "2025-02-05T13:00:49.963000+00:00",
+            "TimeHours": 183.88,
+            "TimeDays": 7.66
+        },
+        {
+            "onBehalfOf": "6794e4824e78c866ff34b0c2",
+            "StagingFromQATime": "2025-01-27T19:25:27.343000+00:00",
+            "DraftStrategyTime": "2025-01-28T11:30:58.049000+00:00",
+            "TimeHours": 16.09,
+            "TimeDays": 0.67
+        },
+        {
+            "onBehalfOf": "6794ec208c1433246004f45d",
+            "StagingFromQATime": "2025-01-27T22:03:10.280000+00:00",
+            "DraftStrategyTime": "2025-01-28T12:42:28.722000+00:00",
+            "TimeHours": 14.66,
+            "TimeDays": 0.61
+        },
+        {
+            "onBehalfOf": "67a75f457122ecabfb4ecf90",
+            "StagingFromQATime": "2025-02-10T23:07:31.953000+00:00",
+            "DraftStrategyTime": "2025-02-11T10:10:25.752000+00:00",
+            "TimeHours": 11.05,
+            "TimeDays": 0.46
+        },
+        {
+            "onBehalfOf": "67a86ce99a46c3bca9dc5a49",
+            "StagingFromQATime": "2025-02-13T20:41:27.453000+00:00",
+            "DraftStrategyTime": "2025-02-14T10:09:52.936000+00:00",
+            "TimeHours": 13.47,
+            "TimeDays": 0.56
+        },
+        {
+            "onBehalfOf": "67af48a6544a9be800d09cf9",
+            "StagingFromQATime": "2025-02-17T19:02:03.008000+00:00",
+            "DraftStrategyTime": "2025-02-18T11:10:43.509000+00:00",
+            "TimeHours": 16.14,
+            "TimeDays": 0.67
+        },
+        {
+            "onBehalfOf": "67a8f625493e67338802cce4",
+            "StagingFromQATime": "2025-02-13T19:10:28.518000+00:00",
+            "DraftStrategyTime": "2025-02-17T08:58:19.118000+00:00",
+            "TimeHours": 85.8,
+            "TimeDays": 3.57
+        },
+        {
+            "onBehalfOf": "6798d3bfd620708a506ca807",
+            "StagingFromQATime": "2025-02-13T20:19:19.627000+00:00",
+            "DraftStrategyTime": "2025-02-17T10:11:24.018000+00:00",
+            "TimeHours": 85.87,
+            "TimeDays": 3.58
+        },
+        {
+            "onBehalfOf": "6794e339e757e3560b46077c",
+            "StagingFromQATime": "2025-01-29T00:22:08.602000+00:00",
+            "DraftStrategyTime": "2025-01-30T07:48:03.014000+00:00",
+            "TimeHours": 31.43,
+            "TimeDays": 1.31
+        },
+        {
+            "onBehalfOf": "67972d10aa45decf1a24bba6",
+            "StagingFromQATime": "2025-01-28T17:58:28.072000+00:00",
+            "DraftStrategyTime": "2025-01-29T12:56:34.094000+00:00",
+            "TimeHours": 18.97,
+            "TimeDays": 0.79
+        },
+        {
+            "onBehalfOf": "67ab27978e4147ec4855714c",
+            "StagingFromQATime": "2025-02-13T16:06:47.718000+00:00",
+            "DraftStrategyTime": "2025-02-14T09:40:39.803000+00:00",
+            "TimeHours": 17.56,
+            "TimeDays": 0.73
+        },
+        {
+            "onBehalfOf": "67b110596450e4731e30fea6",
+            "StagingFromQATime": "2025-02-17T19:56:44.134000+00:00",
+            "DraftStrategyTime": "2025-02-18T12:06:53.078000+00:00",
+            "TimeHours": 16.17,
+            "TimeDays": 0.67
+        },
+        {
+            "onBehalfOf": "67ae36e4714dcc8e19556258",
+            "StagingFromQATime": "2025-02-17T18:51:15.274000+00:00",
+            "DraftStrategyTime": "2025-02-18T10:47:56.307000+00:00",
+            "TimeHours": 15.94,
+            "TimeDays": 0.66
+        },
+        {
+            "onBehalfOf": "67954994e866d38ea296a5d8",
+            "StagingFromQATime": "2025-02-10T23:19:15.754000+00:00",
+            "DraftStrategyTime": "2025-02-11T09:45:37.841000+00:00",
+            "TimeHours": 10.44,
+            "TimeDays": 0.43
+        },
+        {
+            "onBehalfOf": "67a7d7657122ecabfb4ed704",
+            "StagingFromQATime": "2025-02-10T23:43:28.531000+00:00",
+            "DraftStrategyTime": "2025-02-18T08:54:33.816000+00:00",
+            "TimeHours": 177.18,
+            "TimeDays": 7.38
+        },
+        {
+            "onBehalfOf": "67b086d7e0454622ed6ffcf6",
+            "StagingFromQATime": "2025-02-17T19:41:58.083000+00:00",
+            "DraftStrategyTime": "2025-02-18T10:43:33.132000+00:00",
+            "TimeHours": 15.03,
+            "TimeDays": 0.63
+        },
+        {
+            "onBehalfOf": "664c919f5f67c4aaf575783a",
+            "StagingFromQATime": "2025-01-28T17:37:38.169000+00:00",
+            "DraftStrategyTime": "2025-02-10T08:37:58.540000+00:00",
+            "TimeHours": 303.01,
+            "TimeDays": 12.63
+        },
+        {
+            "onBehalfOf": "664c91a55f67c4aaf575784c",
+            "StagingFromQATime": "2025-01-22T13:57:01.875000+00:00",
+            "DraftStrategyTime": "2025-01-27T09:28:37.463000+00:00",
+            "TimeHours": 115.53,
+            "TimeDays": 4.81
+        },
+        {
+            "onBehalfOf": "67960aec17459ea9e26bdc49",
+            "StagingFromQATime": "2025-02-21T00:48:36.478000+00:00",
+            "DraftStrategyTime": "2025-02-21T11:53:29.978000+00:00",
+            "TimeHours": 11.08,
+            "TimeDays": 0.46
+        },
+        {
+            "onBehalfOf": "67b45ac67f1c84803805d948",
+            "StagingFromQATime": "2025-02-19T19:33:29.226000+00:00",
+            "DraftStrategyTime": "2025-02-20T11:17:22.087000+00:00",
+            "TimeHours": 15.73,
+            "TimeDays": 0.66
+        },
+        {
+            "onBehalfOf": "67b4877a77192bd97a94fb89",
+            "StagingFromQATime": "2025-02-19T18:57:55.477000+00:00",
+            "DraftStrategyTime": "2025-02-20T06:39:52.305000+00:00",
+            "TimeHours": 11.7,
+            "TimeDays": 0.49
+        },
+        {
+            "onBehalfOf": "679b754e935a8b4588aa2180",
+            "StagingFromQATime": "2025-02-10T20:58:21.408000+00:00",
+            "DraftStrategyTime": "2025-02-18T07:40:12.539000+00:00",
+            "TimeHours": 178.7,
+            "TimeDays": 7.45
+        },
+        {
+            "onBehalfOf": "67954904c95b5e2ce06aca94",
+            "StagingFromQATime": "2025-02-03T14:18:43.329000+00:00",
+            "DraftStrategyTime": "2025-02-05T10:52:24.988000+00:00",
+            "TimeHours": 44.56,
+            "TimeDays": 1.86
+        },
+        {
+            "onBehalfOf": "6032bd3d1165f48cdbdc17ab",
+            "StagingFromQATime": "2025-02-07T07:22:32.037000+00:00",
+            "DraftStrategyTime": "2025-02-07T09:31:47.818000+00:00",
+            "TimeHours": 2.15,
+            "TimeDays": 0.09
+        },
+        {
+            "onBehalfOf": "67b0c67a234758f7874efc6d",
+            "StagingFromQATime": "2025-02-18T16:33:59.898000+00:00",
+            "DraftStrategyTime": "2025-02-19T12:01:07.398000+00:00",
+            "TimeHours": 19.45,
+            "TimeDays": 0.81
+        },
+        {
+            "onBehalfOf": "679fbfdb3943f830990b00ab",
+            "StagingFromQATime": "2025-02-10T21:04:49.595000+00:00",
+            "DraftStrategyTime": "2025-02-11T08:03:03.923000+00:00",
+            "TimeHours": 10.97,
+            "TimeDays": 0.46
+        },
+        {
+            "onBehalfOf": "679f3ceb941c2564ec7592c9",
+            "StagingFromQATime": "2025-02-07T10:08:54.654000+00:00",
+            "DraftStrategyTime": "2025-02-10T08:29:46.337000+00:00",
+            "TimeHours": 70.35,
+            "TimeDays": 2.93
+        },
+        {
+            "onBehalfOf": "6795d551e757e3560b461c72",
+            "StagingFromQATime": "2025-01-31T00:00:51.749000+00:00",
+            "DraftStrategyTime": "2025-01-31T09:41:04.656000+00:00",
+            "TimeHours": 9.67,
+            "TimeDays": 0.4
+        },
+        {
+            "onBehalfOf": "6795085f8c1433246004f8af",
+            "StagingFromQATime": "2025-02-10T17:59:55.079000+00:00",
+            "DraftStrategyTime": "2025-02-11T07:21:07.906000+00:00",
+            "TimeHours": 13.35,
+            "TimeDays": 0.56
+        },
+        {
+            "onBehalfOf": "6795b986e757e3560b4613a6",
+            "StagingFromQATime": "2025-01-28T22:16:09.743000+00:00",
+            "DraftStrategyTime": "2025-01-29T13:41:49.899000+00:00",
+            "TimeHours": 15.43,
+            "TimeDays": 0.64
+        },
+        {
+            "onBehalfOf": "679650ee0c62097d0f5496fe",
+            "StagingFromQATime": "2025-01-30T21:05:39.948000+00:00",
+            "DraftStrategyTime": "2025-01-31T10:16:46.627000+00:00",
+            "TimeHours": 13.19,
+            "TimeDays": 0.55
+        },
+        {
+            "onBehalfOf": "6797ccf38a1b310ee1ac88f2",
+            "StagingFromQATime": "2025-02-21T01:08:31.269000+00:00",
+            "DraftStrategyTime": "2025-02-21T11:01:28.420000+00:00",
+            "TimeHours": 9.88,
+            "TimeDays": 0.41
+        },
+        {
+            "onBehalfOf": "6797d936aa45decf1a24e9bf",
+            "StagingFromQATime": "2025-02-07T06:19:33.247000+00:00",
+            "DraftStrategyTime": "2025-02-07T07:45:26.510000+00:00",
+            "TimeHours": 1.43,
+            "TimeDays": 0.06
+        },
+        {
+            "onBehalfOf": "67994bb30717da6b4c3f4350",
+            "StagingFromQATime": "2025-02-07T06:37:29.322000+00:00",
+            "DraftStrategyTime": "2025-02-07T07:47:41.093000+00:00",
+            "TimeHours": 1.17,
+            "TimeDays": 0.05
+        },
+        {
+            "onBehalfOf": "67a2441de274648c415dfe81",
+            "StagingFromQATime": "2025-02-12T18:54:49.227000+00:00",
+            "DraftStrategyTime": "2025-02-13T12:56:45.553000+00:00",
+            "TimeHours": 18.03,
+            "TimeDays": 0.75
+        },
+        {
+            "onBehalfOf": "67a60825491c4126b8b0c90e",
+            "StagingFromQATime": "2025-02-10T15:52:05.460000+00:00",
+            "DraftStrategyTime": "2025-02-11T06:57:25.772000+00:00",
+            "TimeHours": 15.09,
+            "TimeDays": 0.63
+        },
+        {
+            "onBehalfOf": "67a893cce808088419b47ee2",
+            "StagingFromQATime": "2025-02-17T16:26:31.573000+00:00",
+            "DraftStrategyTime": "2025-02-18T10:26:04.806000+00:00",
+            "TimeHours": 17.99,
+            "TimeDays": 0.75
+        },
+        {
+            "onBehalfOf": "67b9c5faf23a09ffc12f48a2",
+            "StagingFromQATime": "2025-02-24T17:51:29.075000+00:00",
+            "DraftStrategyTime": "2025-02-25T07:30:24.755000+00:00",
+            "TimeHours": 13.65,
+            "TimeDays": 0.57
+        },
+        {
+            "onBehalfOf": "679513cefc22d4474a0de67e",
+            "StagingFromQATime": "2025-02-17T06:19:38.408000+00:00",
+            "DraftStrategyTime": "2025-02-17T07:40:33.531000+00:00",
+            "TimeHours": 1.35,
+            "TimeDays": 0.06
+        },
+        {
+            "onBehalfOf": "67a3c670933488035bc04d0a",
+            "StagingFromQATime": "2025-02-13T19:08:23.625000+00:00",
+            "DraftStrategyTime": "2025-02-17T09:03:01.034000+00:00",
+            "TimeHours": 85.91,
+            "TimeDays": 3.58
+        },
+        {
+            "onBehalfOf": "6798fd1d0e0266f38a2692f3",
+            "StagingFromQATime": "2025-02-03T16:32:08.745000+00:00",
+            "DraftStrategyTime": "2025-02-04T07:07:50.404000+00:00",
+            "TimeHours": 14.59,
+            "TimeDays": 0.61
+        },
+        {
+            "onBehalfOf": "6799199a0717da6b4c3f3f4f",
+            "StagingFromQATime": "2025-02-21T01:36:43.533000+00:00",
+            "DraftStrategyTime": "2025-02-21T11:06:56.156000+00:00",
+            "TimeHours": 9.5,
+            "TimeDays": 0.4
+        },
+        {
+            "onBehalfOf": "6797609f2904a2cd98efbce1",
+            "StagingFromQATime": "2025-02-11T16:52:20.424000+00:00",
+            "DraftStrategyTime": "2025-02-17T12:40:39.923000+00:00",
+            "TimeHours": 139.81,
+            "TimeDays": 5.83
+        },
+        {
+            "onBehalfOf": "67a225cde274648c415dfc28",
+            "StagingFromQATime": "2025-02-17T18:15:40.946000+00:00",
+            "DraftStrategyTime": "2025-02-18T10:42:15.230000+00:00",
+            "TimeHours": 16.44,
+            "TimeDays": 0.69
+        },
+        {
+            "onBehalfOf": "6792778264056825fe49b88a",
+            "StagingFromQATime": "2025-01-28T17:57:20.833000+00:00",
+            "DraftStrategyTime": "2025-01-29T08:47:19.499000+00:00",
+            "TimeHours": 14.83,
+            "TimeDays": 0.62
+        },
+        {
+            "onBehalfOf": "67965a38e757e3560b462e20",
+            "StagingFromQATime": "2025-02-06T15:11:54.648000+00:00",
+            "DraftStrategyTime": "2025-02-07T08:42:24.825000+00:00",
+            "TimeHours": 17.51,
+            "TimeDays": 0.73
+        },
+        {
+            "onBehalfOf": "6745e6ac54074f2b551f9f9b",
+            "StagingFromQATime": "2025-02-03T13:02:15.828000+00:00",
+            "DraftStrategyTime": "2025-02-04T06:49:05.576000+00:00",
+            "TimeHours": 17.78,
+            "TimeDays": 0.74
+        },
+        {
+            "onBehalfOf": "679760ca0c62097d0f54bec0",
+            "StagingFromQATime": "2025-02-21T00:57:04.124000+00:00",
+            "DraftStrategyTime": "2025-02-21T10:58:39.323000+00:00",
+            "TimeHours": 10.03,
+            "TimeDays": 0.42
+        },
+        {
+            "onBehalfOf": "67a153add82073f6eea9b986",
+            "StagingFromQATime": "2025-02-13T18:13:39.485000+00:00",
+            "DraftStrategyTime": "2025-02-14T08:09:04.098000+00:00",
+            "TimeHours": 13.92,
+            "TimeDays": 0.58
+        },
+        {
+            "onBehalfOf": "67b1b44c2122acdc2f84683c",
+            "StagingFromQATime": "2025-02-18T17:07:22.322000+00:00",
+            "DraftStrategyTime": "2025-02-19T08:55:39.929000+00:00",
+            "TimeHours": 15.8,
+            "TimeDays": 0.66
+        },
+        {
+            "onBehalfOf": "67a23d052d4b8cea1e943572",
+            "StagingFromQATime": "2025-02-10T17:59:15.770000+00:00",
+            "DraftStrategyTime": "2025-02-11T08:45:20.207000+00:00",
+            "TimeHours": 14.77,
+            "TimeDays": 0.62
+        },
+        {
+            "onBehalfOf": "67b600b59a17fb20438317ba",
+            "StagingFromQATime": "2025-02-20T23:15:50.213000+00:00",
+            "DraftStrategyTime": "2025-02-21T10:53:16.090000+00:00",
+            "TimeHours": 11.62,
+            "TimeDays": 0.48
+        },
+        {
+            "onBehalfOf": "6794ceb9fc22d4474a0ddd4e",
+            "StagingFromQATime": "2025-02-12T17:09:13.152000+00:00",
+            "DraftStrategyTime": "2025-02-17T10:21:14.221000+00:00",
+            "TimeHours": 113.2,
+            "TimeDays": 4.72
+        },
+        {
+            "onBehalfOf": "6795520bc95b5e2ce06acb39",
+            "StagingFromQATime": "2025-01-28T06:52:34.592000+00:00",
+            "DraftStrategyTime": "2025-01-28T07:13:01.558000+00:00",
+            "TimeHours": 0.34,
+            "TimeDays": 0.01
+        },
+        {
+            "onBehalfOf": "6795def817459ea9e26bd6e7",
+            "StagingFromQATime": "2025-02-05T13:29:23.967000+00:00",
+            "DraftStrategyTime": "2025-02-05T14:09:01.171000+00:00",
+            "TimeHours": 0.66,
+            "TimeDays": 0.03
+        },
+        {
+            "onBehalfOf": "67b6006bf442930563488257",
+            "StagingFromQATime": "2025-02-20T22:02:53.072000+00:00",
+            "DraftStrategyTime": "2025-02-21T11:49:35.136000+00:00",
+            "TimeHours": 13.78,
+            "TimeDays": 0.57
+        },
+        {
+            "onBehalfOf": "67b8d2949c6dcc1c212ace31",
+            "StagingFromQATime": "2025-02-24T17:04:37.716000+00:00",
+            "DraftStrategyTime": "2025-02-25T07:07:49.869000+00:00",
+            "TimeHours": 14.05,
+            "TimeDays": 0.59
+        },
+        {
+            "onBehalfOf": "679b8879bc18b37761b15fb3",
+            "StagingFromQATime": "2025-02-01T02:45:30.925000+00:00",
+            "DraftStrategyTime": "2025-02-10T09:14:16.918000+00:00",
+            "TimeHours": 222.48,
+            "TimeDays": 9.27
+        },
+        {
+            "onBehalfOf": "67916c0d491f7369029c2978",
+            "StagingFromQATime": "2025-02-03T08:04:09.631000+00:00",
+            "DraftStrategyTime": "2025-02-04T09:11:52.556000+00:00",
+            "TimeHours": 25.13,
+            "TimeDays": 1.05
+        },
+        {
+            "onBehalfOf": "67802f64d2765945285ea963",
+            "StagingFromQATime": "2025-01-30T16:56:33.640000+00:00",
+            "DraftStrategyTime": "2025-01-31T09:31:23.237000+00:00",
+            "TimeHours": 16.58,
+            "TimeDays": 0.69
+        },
+        {
+            "onBehalfOf": "6795f49517459ea9e26bd968",
+            "StagingFromQATime": "2025-01-31T21:36:06.768000+00:00",
+            "DraftStrategyTime": "2025-02-03T07:08:54.176000+00:00",
+            "TimeHours": 57.55,
+            "TimeDays": 2.4
+        },
+        {
+            "onBehalfOf": "66f6ef75273b83e5e2145e4b",
+            "StagingFromQATime": "2025-02-10T19:12:40.419000+00:00",
+            "DraftStrategyTime": "2025-02-11T07:45:56.516000+00:00",
+            "TimeHours": 12.55,
+            "TimeDays": 0.52
+        },
+        {
+            "onBehalfOf": "67aa4139ee35a99e4b06859c",
+            "StagingFromQATime": "2025-02-24T23:09:36.599000+00:00",
+            "DraftStrategyTime": "2025-02-25T08:53:32.072000+00:00",
+            "TimeHours": 9.73,
+            "TimeDays": 0.41
+        },
+        {
+            "onBehalfOf": "679b6816c343b52c128bf57d",
+            "StagingFromQATime": "2025-02-04T16:18:31.213000+00:00",
+            "DraftStrategyTime": "2025-02-06T07:00:45.450000+00:00",
+            "TimeHours": 38.7,
+            "TimeDays": 1.61
+        },
+        {
+            "onBehalfOf": "6795551e385649dcd523c63b",
+            "StagingFromQATime": "2025-02-11T02:31:14.073000+00:00",
+            "DraftStrategyTime": "2025-02-11T10:01:08.140000+00:00",
+            "TimeHours": 7.5,
+            "TimeDays": 0.31
+        },
+        {
+            "onBehalfOf": "67b60cbaf85a27013d443028",
+            "StagingFromQATime": "2025-02-20T21:34:34.981000+00:00",
+            "DraftStrategyTime": "2025-02-21T11:11:16.424000+00:00",
+            "TimeHours": 13.61,
+            "TimeDays": 0.57
+        },
+        {
+            "onBehalfOf": "67890c4cc17b2fb267f2b177",
+            "StagingFromQATime": "2025-01-28T21:25:40.864000+00:00",
+            "DraftStrategyTime": "2025-01-29T09:27:12.501000+00:00",
+            "TimeHours": 12.03,
+            "TimeDays": 0.5
+        },
+        {
+            "onBehalfOf": "67a0864a740b3b6071dbcfa9",
+            "StagingFromQATime": "2025-02-04T09:38:48.084000+00:00",
+            "DraftStrategyTime": "2025-02-12T07:38:57.713000+00:00",
+            "TimeHours": 190.0,
+            "TimeDays": 7.92
+        },
+        {
+            "onBehalfOf": "67a54b4ee96e61b34560bdd1",
+            "StagingFromQATime": "2025-02-18T11:54:00.368000+00:00",
+            "DraftStrategyTime": "2025-02-19T09:26:54.516000+00:00",
+            "TimeHours": 21.55,
+            "TimeDays": 0.9
+        },
+        {
+            "onBehalfOf": "6795ec4eaa45decf1a2496b4",
+            "StagingFromQATime": "2025-01-28T21:19:07.415000+00:00",
+            "DraftStrategyTime": "2025-01-29T13:12:12.789000+00:00",
+            "TimeHours": 15.88,
+            "TimeDays": 0.66
+        },
+        {
+            "onBehalfOf": "679b9f5dbc18b37761b165b2",
+            "StagingFromQATime": "2025-02-07T08:16:25.628000+00:00",
+            "DraftStrategyTime": "2025-02-07T08:55:30.608000+00:00",
+            "TimeHours": 0.65,
+            "TimeDays": 0.03
+        },
+        {
+            "onBehalfOf": "678e50cb1148dc03ae91f21c",
+            "StagingFromQATime": "2025-02-04T16:15:07.744000+00:00",
+            "DraftStrategyTime": "2025-02-05T13:12:44.538000+00:00",
+            "TimeHours": 20.96,
+            "TimeDays": 0.87
+        },
+        {
+            "onBehalfOf": "679661a7e757e3560b462fb7",
+            "StagingFromQATime": "2025-02-03T18:50:23.403000+00:00",
+            "DraftStrategyTime": "2025-02-04T07:25:18.233000+00:00",
+            "TimeHours": 12.58,
+            "TimeDays": 0.52
+        },
+        {
+            "onBehalfOf": "67972cc7e757e3560b46445b",
+            "StagingFromQATime": "2025-01-30T07:27:34.136000+00:00",
+            "DraftStrategyTime": "2025-01-31T09:17:33.517000+00:00",
+            "TimeHours": 25.83,
+            "TimeDays": 1.08
+        },
+        {
+            "onBehalfOf": "6797c601aa45decf1a24e737",
+            "StagingFromQATime": "2025-02-03T15:13:58.986000+00:00",
+            "DraftStrategyTime": "2025-02-04T08:52:48.859000+00:00",
+            "TimeHours": 17.65,
+            "TimeDays": 0.74
+        }
+    ],
+    "Summary": {
+        "AverageQATime": {
+            "Days": 1.49,
+            "Hours": 35.76
+        },
+        "BenchmarkCount": {
+            "MetBenchmark (<=3 days)": 562,
+            "DidNotMeetBenchmark (>3 days)": 74
+        },
+        "QATimeGroups": {
+            "1-3 days": 115,
+            "4-7 days": 31,
+            "7-14 days": 22,
+            "14-21 days": 3,
+            "More than 21 days": 465
+        }
+    }
+}

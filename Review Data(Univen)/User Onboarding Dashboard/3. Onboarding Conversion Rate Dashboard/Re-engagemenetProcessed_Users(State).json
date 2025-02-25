@@ -1,0 +1,43 @@
+{
+    "TotalUsers": 5680,
+    "StateCounts": {
+        "Onboarding": 682,
+        "Low Maths": 140,
+        "Low Average": 107,
+        "Low English": 3,
+        "Closed": 410,
+        "QA": 97,
+        "QA Failed": 3415,
+        "Disapproved": 385,
+        "Staging": 20,
+        "Approved Strategy": 246,
+        "QA Review": 7,
+        "Awaiting Learner": 23,
+        "Awaiting June Results": 87,
+        "Learner Exists": 2,
+        "3 Applications": 17,
+        "2 Applications": 11,
+        "Potential Sales": 1,
+        "wl:Not Considered": 1,
+        "4 Applications": 2,
+        "Feedback": 14,
+        "1 Application": 6,
+        "Special Feedback": 4
+    },
+    "Re-engagement Success Rate": {
+        "Total Re-engaged Users": 330,
+        "Breakdown": {
+            "Staging": 20,
+            "Approved Strategy": 246,
+            "QA Review": 7,
+            "Learner Exists": 2,
+            "3 Applications": 17,
+            "2 Applications": 11,
+            "Potential Sales": 1,
+            "4 Applications": 2,
+            "Feedback": 14,
+            "1 Application": 6,
+            "Special Feedback": 4
+        }
+    }
+}
