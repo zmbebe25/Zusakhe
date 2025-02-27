@@ -1,19 +1,22 @@
 {
+    "TotalUsers": 978,
+    "ProcessedUsers": 902,
+    "SkippedUsers": 38,
     "AverageOnboardingTime": {
-        "Days": 10.86,
-        "Hours": 261.97,
-        "Minutes": 15718.28
+        "Days": 10.01,
+        "Hours": 241.5,
+        "Minutes": 14490.11
     },
     "BenchmarkCount": {
-        "MetBenchmark (<=3 days)": 811,
-        "DidNotMeetBenchmark (>3 days)": 20
+        "MetBenchmark (<=3 days)": 881,
+        "DidNotMeetBenchmark (>3 days)": 21
     },
     "TimeGroups": {
-        "1-3 days": 34,
-        "4-7 days": 11,
+        "1-3 days": 36,
+        "4-7 days": 13,
         "7-14 days": 2,
-        "14-21 days": 2,
-        "More than 21 days": 782
+        "14-21 days": 1,
+        "More than 21 days": 850
     },
     "OnboardingDetails": [
         {
@@ -251,6 +254,15 @@
             "BenchmarkMet": true
         },
         {
+            "UserID": "67b6116ff85a27013d443092",
+            "CreatedDate": "2025-02-19T17:14:23.903000+00:00",
+            "UpdateTime": "2025-02-25T12:37:19.835000+00:00",
+            "OnboardingTimeDays": 5,
+            "OnboardingTimeHours": 139.38,
+            "OnboardingTimeMinutes": 8362.93,
+            "BenchmarkMet": false
+        },
+        {
             "UserID": "67b61514e61455f3dc74fd1e",
             "CreatedDate": "2025-02-19T17:29:56.344000+00:00",
             "UpdateTime": "2025-02-19T17:31:18.665000+00:00",
@@ -347,15 +359,6 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.03,
             "OnboardingTimeMinutes": 1.7,
-            "BenchmarkMet": true
-        },
-        {
-            "UserID": "67b6d13a2f622928fa5f9d94",
-            "CreatedDate": "2025-02-20T06:52:42.074000+00:00",
-            "UpdateTime": "2025-02-22T08:21:56.154000+00:00",
-            "OnboardingTimeDays": 2,
-            "OnboardingTimeHours": 49.49,
-            "OnboardingTimeMinutes": 2969.23,
             "BenchmarkMet": true
         },
         {
@@ -602,24 +605,6 @@
             "BenchmarkMet": true
         },
         {
-            "UserID": "67b7803e914a10fd732d09c6",
-            "CreatedDate": "2025-02-20T19:19:26.056000+00:00",
-            "UpdateTime": "2025-02-20T19:20:08.889000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.01,
-            "OnboardingTimeMinutes": 0.71,
-            "BenchmarkMet": true
-        },
-        {
-            "UserID": "67b787512105ca3404b55655",
-            "CreatedDate": "2025-02-20T19:49:37.028000+00:00",
-            "UpdateTime": "2025-02-20T20:19:44.001000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.5,
-            "OnboardingTimeMinutes": 30.12,
-            "BenchmarkMet": true
-        },
-        {
             "UserID": "67b806dfec63a155e6b63eef",
             "CreatedDate": "2025-02-21T04:53:51.387000+00:00",
             "UpdateTime": "2025-02-21T04:54:07.363000+00:00",
@@ -734,15 +719,6 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.01,
             "OnboardingTimeMinutes": 0.45,
-            "BenchmarkMet": true
-        },
-        {
-            "UserID": "67b8bbcbec63a155e6b6575d",
-            "CreatedDate": "2025-02-21T17:45:47.618000+00:00",
-            "UpdateTime": "2025-02-25T08:12:50.346000+00:00",
-            "OnboardingTimeDays": 3,
-            "OnboardingTimeHours": 86.45,
-            "OnboardingTimeMinutes": 5187.05,
             "BenchmarkMet": true
         },
         {
@@ -863,24 +839,6 @@
             "BenchmarkMet": true
         },
         {
-            "UserID": "67b9c102a5523b0b9aef2e36",
-            "CreatedDate": "2025-02-22T12:20:18.072000+00:00",
-            "UpdateTime": "2025-02-22T12:20:59.641000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.01,
-            "OnboardingTimeMinutes": 0.69,
-            "BenchmarkMet": true
-        },
-        {
-            "UserID": "67b9d4cf8a42c8445b9d640a",
-            "CreatedDate": "2025-02-22T13:44:47.979000+00:00",
-            "UpdateTime": "2025-02-22T13:57:35.519000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.21,
-            "OnboardingTimeMinutes": 12.79,
-            "BenchmarkMet": true
-        },
-        {
             "UserID": "67b9dbacde585255f7b2e6aa",
             "CreatedDate": "2025-02-22T14:14:04.198000+00:00",
             "UpdateTime": "2025-02-22T14:14:38.691000+00:00",
@@ -890,21 +848,12 @@
             "BenchmarkMet": true
         },
         {
-            "UserID": "67b9ffe9a02d755362988ae7",
-            "CreatedDate": "2025-02-22T16:48:41.849000+00:00",
-            "UpdateTime": "2025-02-22T16:48:52.690000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.0,
-            "OnboardingTimeMinutes": 0.18,
-            "BenchmarkMet": true
-        },
-        {
             "UserID": "67ba01d0a02d755362988af7",
             "CreatedDate": "2025-02-22T16:56:48.798000+00:00",
-            "UpdateTime": "2025-02-22T16:57:14.487000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.01,
-            "OnboardingTimeMinutes": 0.43,
+            "UpdateTime": "2025-02-25T19:42:37.083000+00:00",
+            "OnboardingTimeDays": 3,
+            "OnboardingTimeHours": 74.76,
+            "OnboardingTimeMinutes": 4485.8,
             "BenchmarkMet": true
         },
         {
@@ -998,15 +947,6 @@
             "BenchmarkMet": true
         },
         {
-            "UserID": "67baf5f2004871fd97745aa8",
-            "CreatedDate": "2025-02-23T10:18:26.139000+00:00",
-            "UpdateTime": "2025-02-23T10:34:40.366000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.27,
-            "OnboardingTimeMinutes": 16.24,
-            "BenchmarkMet": true
-        },
-        {
             "UserID": "67bafe74056d57ef4fb22ff1",
             "CreatedDate": "2025-02-23T10:54:44.361000+00:00",
             "UpdateTime": "2025-02-23T11:45:30.781000+00:00",
@@ -1094,15 +1034,6 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.01,
             "OnboardingTimeMinutes": 0.41,
-            "BenchmarkMet": true
-        },
-        {
-            "UserID": "67bb8e38056d57ef4fb23603",
-            "CreatedDate": "2025-02-23T21:08:08.214000+00:00",
-            "UpdateTime": "2025-02-23T21:08:33.592000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.01,
-            "OnboardingTimeMinutes": 0.42,
             "BenchmarkMet": true
         },
         {
@@ -1205,15 +1136,6 @@
             "BenchmarkMet": true
         },
         {
-            "UserID": "67bcc40e70062cd863213b05",
-            "CreatedDate": "2025-02-24T19:10:06.289000+00:00",
-            "UpdateTime": "2025-02-24T19:10:26.887000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.01,
-            "OnboardingTimeMinutes": 0.34,
-            "BenchmarkMet": true
-        },
-        {
             "UserID": "67bcc41770062cd863213b0a",
             "CreatedDate": "2025-02-24T19:10:15.761000+00:00",
             "UpdateTime": "2025-02-24T19:13:06.092000+00:00",
@@ -1295,15 +1217,6 @@
             "BenchmarkMet": true
         },
         {
-            "UserID": "67bd91d76c64d33d13e53f57",
-            "CreatedDate": "2025-02-25T09:48:07.969000+00:00",
-            "UpdateTime": "2025-02-25T09:48:52.152000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.01,
-            "OnboardingTimeMinutes": 0.74,
-            "BenchmarkMet": true
-        },
-        {
             "UserID": "67bda810922b8c2a5bc6e035",
             "CreatedDate": "2025-02-25T11:22:56.963000+00:00",
             "UpdateTime": "2025-02-25T11:23:07.237000+00:00",
@@ -1322,22 +1235,256 @@
             "BenchmarkMet": true
         },
         {
-            "UserID": "67bdb7706c64d33d13e54588",
-            "CreatedDate": "2025-02-25T12:28:32.387000+00:00",
-            "UpdateTime": "2025-02-25T12:28:53.171000+00:00",
+            "UserID": "67bdbb60922b8c2a5bc6e26b",
+            "CreatedDate": "2025-02-25T12:45:20.495000+00:00",
+            "UpdateTime": "2025-02-25T12:47:15.018000+00:00",
             "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.01,
-            "OnboardingTimeMinutes": 0.35,
+            "OnboardingTimeHours": 0.03,
+            "OnboardingTimeMinutes": 1.91,
             "BenchmarkMet": true
         },
         {
-            "UserID": "67a212a2e274648c415deb95",
-            "CreatedDate": "2025-02-04T13:14:10.646000+00:00",
-            "UpdateTime": "2025-02-21T19:59:48.547000+00:00",
-            "OnboardingTimeDays": 17,
-            "OnboardingTimeHours": 414.76,
-            "OnboardingTimeMinutes": 24885.63,
-            "BenchmarkMet": false
+            "UserID": "67bddd27e8237b56b3d0ffd1",
+            "CreatedDate": "2025-02-25T15:09:27.581000+00:00",
+            "UpdateTime": "2025-02-25T15:10:56.137000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.02,
+            "OnboardingTimeMinutes": 1.48,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67be0286e8237b56b3d10146",
+            "CreatedDate": "2025-02-25T17:48:54.981000+00:00",
+            "UpdateTime": "2025-02-25T17:49:06.187000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.0,
+            "OnboardingTimeMinutes": 0.19,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67be06976621017c2d17b7c2",
+            "CreatedDate": "2025-02-25T18:06:15.436000+00:00",
+            "UpdateTime": "2025-02-25T18:06:26.411000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.0,
+            "OnboardingTimeMinutes": 0.18,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67be0a706621017c2d17b808",
+            "CreatedDate": "2025-02-25T18:22:40.347000+00:00",
+            "UpdateTime": "2025-02-25T18:23:02.527000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.01,
+            "OnboardingTimeMinutes": 0.37,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67be13f94e2e72b891cc15a4",
+            "CreatedDate": "2025-02-25T19:03:21.771000+00:00",
+            "UpdateTime": "2025-02-25T19:03:42.005000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.01,
+            "OnboardingTimeMinutes": 0.34,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67be4875f90891612e34a8af",
+            "CreatedDate": "2025-02-25T22:47:17.086000+00:00",
+            "UpdateTime": "2025-02-25T22:47:34.766000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.0,
+            "OnboardingTimeMinutes": 0.29,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67be5279f90891612e34a8d9",
+            "CreatedDate": "2025-02-25T23:30:01.305000+00:00",
+            "UpdateTime": "2025-02-25T23:31:30.614000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.02,
+            "OnboardingTimeMinutes": 1.49,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67be70743f03e61ef921f6e4",
+            "CreatedDate": "2025-02-26T01:37:56.223000+00:00",
+            "UpdateTime": "2025-02-26T01:38:24.974000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.01,
+            "OnboardingTimeMinutes": 0.48,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bea4a63f03e61ef921f79e",
+            "CreatedDate": "2025-02-26T05:20:38.355000+00:00",
+            "UpdateTime": "2025-02-26T05:21:09.732000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.01,
+            "OnboardingTimeMinutes": 0.52,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67beb5de4e2e72b891cc1fd1",
+            "CreatedDate": "2025-02-26T06:34:06.632000+00:00",
+            "UpdateTime": "2025-02-26T06:34:25.010000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.01,
+            "OnboardingTimeMinutes": 0.31,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bebd783f03e61ef921fa01",
+            "CreatedDate": "2025-02-26T07:06:32.153000+00:00",
+            "UpdateTime": "2025-02-26T07:07:33.962000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.02,
+            "OnboardingTimeMinutes": 1.03,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67beca8b306113ea0fbb473d",
+            "CreatedDate": "2025-02-26T08:02:19.294000+00:00",
+            "UpdateTime": "2025-02-26T08:02:42.853000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.01,
+            "OnboardingTimeMinutes": 0.39,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bed8db306113ea0fbb497c",
+            "CreatedDate": "2025-02-26T09:03:23.735000+00:00",
+            "UpdateTime": "2025-02-26T09:03:48.380000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.01,
+            "OnboardingTimeMinutes": 0.41,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf2875306113ea0fbb5415",
+            "CreatedDate": "2025-02-26T14:43:01.441000+00:00",
+            "UpdateTime": "2025-02-26T14:56:38.280000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.23,
+            "OnboardingTimeMinutes": 13.61,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf37b9f90891612e34bc65",
+            "CreatedDate": "2025-02-26T15:48:09.702000+00:00",
+            "UpdateTime": "2025-02-26T16:15:53.560000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.46,
+            "OnboardingTimeMinutes": 27.73,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf39a4f90891612e34bcaa",
+            "CreatedDate": "2025-02-26T15:56:20.919000+00:00",
+            "UpdateTime": "2025-02-26T15:56:42.418000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.01,
+            "OnboardingTimeMinutes": 0.36,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf3f313f03e61ef9220dba",
+            "CreatedDate": "2025-02-26T16:20:01.147000+00:00",
+            "UpdateTime": "2025-02-26T16:20:27.871000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.01,
+            "OnboardingTimeMinutes": 0.45,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf442be2776f522c0c5459",
+            "CreatedDate": "2025-02-26T16:41:15.383000+00:00",
+            "UpdateTime": "2025-02-26T16:43:43.900000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.04,
+            "OnboardingTimeMinutes": 2.48,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf45523f03e61ef9220ef5",
+            "CreatedDate": "2025-02-26T16:46:10.592000+00:00",
+            "UpdateTime": "2025-02-26T16:48:41.809000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.04,
+            "OnboardingTimeMinutes": 2.52,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf4855f90891612e34bfdd",
+            "CreatedDate": "2025-02-26T16:59:01.886000+00:00",
+            "UpdateTime": "2025-02-26T17:02:02.294000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.05,
+            "OnboardingTimeMinutes": 3.01,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf491ee2776f522c0c56e5",
+            "CreatedDate": "2025-02-26T17:02:22.984000+00:00",
+            "UpdateTime": "2025-02-26T17:21:51.931000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.32,
+            "OnboardingTimeMinutes": 19.48,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf52e53f03e61ef92215e3",
+            "CreatedDate": "2025-02-26T17:44:05.468000+00:00",
+            "UpdateTime": "2025-02-26T17:44:35.201000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.01,
+            "OnboardingTimeMinutes": 0.5,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf73533f03e61ef9221843",
+            "CreatedDate": "2025-02-26T20:02:27.739000+00:00",
+            "UpdateTime": "2025-02-26T20:03:19.091000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.01,
+            "OnboardingTimeMinutes": 0.86,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf7b9d306113ea0fbb5f20",
+            "CreatedDate": "2025-02-26T20:37:49.897000+00:00",
+            "UpdateTime": "2025-02-26T20:39:12.588000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.02,
+            "OnboardingTimeMinutes": 1.38,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf901b3f03e61ef922197e",
+            "CreatedDate": "2025-02-26T22:05:15.432000+00:00",
+            "UpdateTime": "2025-02-26T22:06:08.756000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.01,
+            "OnboardingTimeMinutes": 0.89,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bfac51e2776f522c0c5dc7",
+            "CreatedDate": "2025-02-27T00:05:37.657000+00:00",
+            "UpdateTime": "2025-02-27T00:05:48.450000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.0,
+            "OnboardingTimeMinutes": 0.18,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bfdb2c861143b7e13e0cef",
+            "CreatedDate": "2025-02-27T03:25:32.757000+00:00",
+            "UpdateTime": "2025-02-27T03:27:21.339000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.03,
+            "OnboardingTimeMinutes": 1.81,
+            "BenchmarkMet": true
         },
         {
             "UserID": "67b5b98b5873e51b5b90e7da",
@@ -1351,11 +1498,11 @@
         {
             "UserID": "67b5e836e61455f3dc74f86e",
             "CreatedDate": "2025-02-19T14:18:30.602000+00:00",
-            "UpdateTime": "2025-02-19T14:39:47.350000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.35,
-            "OnboardingTimeMinutes": 21.28,
-            "BenchmarkMet": true
+            "UpdateTime": "2025-02-26T15:02:02.409000+00:00",
+            "OnboardingTimeDays": 7,
+            "OnboardingTimeHours": 168.73,
+            "OnboardingTimeMinutes": 10123.53,
+            "BenchmarkMet": false
         },
         {
             "UserID": "67b6014df85a27013d442f69",
@@ -1466,15 +1613,6 @@
             "BenchmarkMet": true
         },
         {
-            "UserID": "67b9bc28f23a09ffc12f47f9",
-            "CreatedDate": "2025-02-22T11:59:36.171000+00:00",
-            "UpdateTime": "2025-02-24T09:19:17.248000+00:00",
-            "OnboardingTimeDays": 1,
-            "OnboardingTimeHours": 45.33,
-            "OnboardingTimeMinutes": 2719.68,
-            "BenchmarkMet": true
-        },
-        {
             "UserID": "67b9d1c6a5523b0b9aef2f1a",
             "CreatedDate": "2025-02-22T13:31:50.627000+00:00",
             "UpdateTime": "2025-02-22T13:34:43.526000+00:00",
@@ -1574,21 +1712,48 @@
             "BenchmarkMet": true
         },
         {
-            "UserID": "67bd81963e1bdbb47c204f13",
-            "CreatedDate": "2025-02-25T08:38:46.008000+00:00",
-            "UpdateTime": "2025-02-25T08:42:19.666000+00:00",
+            "UserID": "67bdaef23e1bdbb47c205bc3",
+            "CreatedDate": "2025-02-25T11:52:18.526000+00:00",
+            "UpdateTime": "2025-02-25T20:10:33.022000+00:00",
             "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.06,
-            "OnboardingTimeMinutes": 3.56,
+            "OnboardingTimeHours": 8.3,
+            "OnboardingTimeMinutes": 498.24,
             "BenchmarkMet": true
         },
         {
-            "UserID": "67bdaef23e1bdbb47c205bc3",
-            "CreatedDate": "2025-02-25T11:52:18.526000+00:00",
-            "UpdateTime": "2025-02-25T11:54:26.117000+00:00",
+            "UserID": "67bdd234185e70e574897976",
+            "CreatedDate": "2025-02-25T14:22:44.193000+00:00",
+            "UpdateTime": "2025-02-25T15:03:13.366000+00:00",
             "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.04,
-            "OnboardingTimeMinutes": 2.13,
+            "OnboardingTimeHours": 0.67,
+            "OnboardingTimeMinutes": 40.49,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67be0d0c487bd4db06b2b50e",
+            "CreatedDate": "2025-02-25T18:33:48.680000+00:00",
+            "UpdateTime": "2025-02-25T18:37:03.082000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.05,
+            "OnboardingTimeMinutes": 3.24,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67be11f7487bd4db06b2b56a",
+            "CreatedDate": "2025-02-25T18:54:47.245000+00:00",
+            "UpdateTime": "2025-02-25T20:06:44.605000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 1.2,
+            "OnboardingTimeMinutes": 71.96,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf960cf90891612e34c883",
+            "CreatedDate": "2025-02-26T22:30:36.448000+00:00",
+            "UpdateTime": "2025-02-26T22:32:10.435000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.03,
+            "OnboardingTimeMinutes": 1.57,
             "BenchmarkMet": true
         },
         {
@@ -1652,6 +1817,15 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.04,
             "OnboardingTimeMinutes": 2.15,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bec11a4e2e72b891cc214a",
+            "CreatedDate": "2025-02-26T07:22:02.497000+00:00",
+            "UpdateTime": "2025-02-26T07:44:38.573000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.38,
+            "OnboardingTimeMinutes": 22.6,
             "BenchmarkMet": true
         },
         {
@@ -1783,10 +1957,10 @@
         {
             "UserID": "67b996eade585255f7b2e3f6",
             "CreatedDate": "2025-02-22T09:20:42.388000+00:00",
-            "UpdateTime": "2025-02-22T09:35:07.351000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.24,
-            "OnboardingTimeMinutes": 14.42,
+            "UpdateTime": "2025-02-25T15:12:02.792000+00:00",
+            "OnboardingTimeDays": 3,
+            "OnboardingTimeHours": 77.86,
+            "OnboardingTimeMinutes": 4671.34,
             "BenchmarkMet": true
         },
         {
@@ -1805,6 +1979,15 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.07,
             "OnboardingTimeMinutes": 4.04,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf2d803f03e61ef9220b76",
+            "CreatedDate": "2025-02-26T15:04:32.744000+00:00",
+            "UpdateTime": "2025-02-26T15:18:52.889000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.24,
+            "OnboardingTimeMinutes": 14.34,
             "BenchmarkMet": true
         },
         {
@@ -1832,6 +2015,15 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.09,
             "OnboardingTimeMinutes": 5.67,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bedf0c306113ea0fbb4a5a",
+            "CreatedDate": "2025-02-26T09:29:48.376000+00:00",
+            "UpdateTime": "2025-02-26T09:30:54.838000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.02,
+            "OnboardingTimeMinutes": 1.11,
             "BenchmarkMet": true
         },
         {
@@ -1873,10 +2065,10 @@
         {
             "UserID": "67bdb913922b8c2a5bc6e23a",
             "CreatedDate": "2025-02-25T12:35:31.395000+00:00",
-            "UpdateTime": "2025-02-25T12:36:46.104000+00:00",
+            "UpdateTime": "2025-02-25T13:06:06.978000+00:00",
             "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.02,
-            "OnboardingTimeMinutes": 1.25,
+            "OnboardingTimeHours": 0.51,
+            "OnboardingTimeMinutes": 30.59,
             "BenchmarkMet": true
         },
         {
@@ -1932,15 +2124,6 @@
             "OnboardingTimeHours": 0.03,
             "OnboardingTimeMinutes": 1.84,
             "BenchmarkMet": true
-        },
-        {
-            "UserID": "67b80a242105ca3404b558dd",
-            "CreatedDate": "2025-02-21T05:07:48.215000+00:00",
-            "UpdateTime": "2025-02-25T08:34:08.981000+00:00",
-            "OnboardingTimeDays": 4,
-            "OnboardingTimeHours": 99.44,
-            "OnboardingTimeMinutes": 5966.35,
-            "BenchmarkMet": false
         },
         {
             "UserID": "67b5f09f9a17fb204383169f",
@@ -2075,6 +2258,15 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.12,
             "OnboardingTimeMinutes": 7.16,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf9679f90891612e34c887",
+            "CreatedDate": "2025-02-26T22:32:25.763000+00:00",
+            "UpdateTime": "2025-02-26T22:50:42.722000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.3,
+            "OnboardingTimeMinutes": 18.28,
             "BenchmarkMet": true
         },
         {
@@ -2321,15 +2513,6 @@
             "BenchmarkMet": true
         },
         {
-            "UserID": "67b89e082105ca3404b56eae",
-            "CreatedDate": "2025-02-21T15:38:48.786000+00:00",
-            "UpdateTime": "2025-02-21T16:12:15.255000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.56,
-            "OnboardingTimeMinutes": 33.44,
-            "BenchmarkMet": true
-        },
-        {
             "UserID": "67bb28576633057930194177",
             "CreatedDate": "2025-02-23T13:53:27.136000+00:00",
             "UpdateTime": "2025-02-23T14:07:44.910000+00:00",
@@ -2345,6 +2528,15 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.6,
             "OnboardingTimeMinutes": 36.02,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf4314f90891612e34bdd2",
+            "CreatedDate": "2025-02-26T16:36:36.452000+00:00",
+            "UpdateTime": "2025-02-26T17:14:58.207000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.64,
+            "OnboardingTimeMinutes": 38.36,
             "BenchmarkMet": true
         },
         {
@@ -2411,15 +2603,6 @@
             "BenchmarkMet": true
         },
         {
-            "UserID": "67b88d9d2105ca3404b56da0",
-            "CreatedDate": "2025-02-21T14:28:45.469000+00:00",
-            "UpdateTime": "2025-02-21T14:35:58.405000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.12,
-            "OnboardingTimeMinutes": 7.22,
-            "BenchmarkMet": true
-        },
-        {
             "UserID": "67bb268b004871fd97745c47",
             "CreatedDate": "2025-02-23T13:45:47.906000+00:00",
             "UpdateTime": "2025-02-23T14:01:15.303000+00:00",
@@ -2456,6 +2639,15 @@
             "BenchmarkMet": true
         },
         {
+            "UserID": "67be960ce93dbe729309552e",
+            "CreatedDate": "2025-02-26T04:18:20.055000+00:00",
+            "UpdateTime": "2025-02-26T04:19:53.685000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.03,
+            "OnboardingTimeMinutes": 1.56,
+            "BenchmarkMet": true
+        },
+        {
             "UserID": "6798c3df4b3225d6f1c2be63",
             "CreatedDate": "2025-01-28T11:47:43.834000+00:00",
             "UpdateTime": "2025-01-28T11:49:27.146000+00:00",
@@ -2471,15 +2663,6 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.07,
             "OnboardingTimeMinutes": 4.12,
-            "BenchmarkMet": true
-        },
-        {
-            "UserID": "67bb04207c118649d8972f9b",
-            "CreatedDate": "2025-02-23T11:18:56.997000+00:00",
-            "UpdateTime": "2025-02-23T11:21:29.728000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.04,
-            "OnboardingTimeMinutes": 2.55,
             "BenchmarkMet": true
         },
         {
@@ -2510,12 +2693,12 @@
             "BenchmarkMet": false
         },
         {
-            "UserID": "67bd6112922b8c2a5bc6d32c",
-            "CreatedDate": "2025-02-25T06:20:02.143000+00:00",
-            "UpdateTime": "2025-02-25T06:21:07.734000+00:00",
+            "UserID": "67bfd3bde17a7945bb9fa09d",
+            "CreatedDate": "2025-02-27T02:53:49.206000+00:00",
+            "UpdateTime": "2025-02-27T02:54:56.901000+00:00",
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.02,
-            "OnboardingTimeMinutes": 1.09,
+            "OnboardingTimeMinutes": 1.13,
             "BenchmarkMet": true
         },
         {
@@ -2744,6 +2927,15 @@
             "BenchmarkMet": true
         },
         {
+            "UserID": "67bf39453f03e61ef9220cee",
+            "CreatedDate": "2025-02-26T15:54:45.334000+00:00",
+            "UpdateTime": "2025-02-26T15:56:34.549000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.03,
+            "OnboardingTimeMinutes": 1.82,
+            "BenchmarkMet": true
+        },
+        {
             "UserID": "67b8b0c2ec63a155e6b656ea",
             "CreatedDate": "2025-02-21T16:58:42.729000+00:00",
             "UpdateTime": "2025-02-21T19:32:31.928000+00:00",
@@ -2777,6 +2969,42 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.07,
             "OnboardingTimeMinutes": 4.39,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67be18244e2e72b891cc15df",
+            "CreatedDate": "2025-02-25T19:21:08.828000+00:00",
+            "UpdateTime": "2025-02-25T19:32:48.186000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.19,
+            "OnboardingTimeMinutes": 11.66,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67be5702487bd4db06b2b715",
+            "CreatedDate": "2025-02-25T23:49:22.347000+00:00",
+            "UpdateTime": "2025-02-25T23:56:56.604000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.13,
+            "OnboardingTimeMinutes": 7.57,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67be9c62e93dbe729309553e",
+            "CreatedDate": "2025-02-26T04:45:22.184000+00:00",
+            "UpdateTime": "2025-02-26T17:39:02.593000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 12.89,
+            "OnboardingTimeMinutes": 773.67,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67be35a34e2e72b891cc174d",
+            "CreatedDate": "2025-02-25T21:26:59.975000+00:00",
+            "UpdateTime": "2025-02-25T21:47:20.983000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.34,
+            "OnboardingTimeMinutes": 20.35,
             "BenchmarkMet": true
         },
         {
@@ -2861,6 +3089,15 @@
             "BenchmarkMet": true
         },
         {
+            "UserID": "67be3ee24e2e72b891cc17a6",
+            "CreatedDate": "2025-02-25T22:06:26.206000+00:00",
+            "UpdateTime": "2025-02-25T22:07:40.337000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.02,
+            "OnboardingTimeMinutes": 1.24,
+            "BenchmarkMet": true
+        },
+        {
             "UserID": "67b579d4101dafad2938d688",
             "CreatedDate": "2025-02-19T06:27:32.761000+00:00",
             "UpdateTime": "2025-02-19T06:29:23.128000+00:00",
@@ -2912,15 +3149,6 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.03,
             "OnboardingTimeMinutes": 1.8,
-            "BenchmarkMet": true
-        },
-        {
-            "UserID": "67b843e49c6dcc1c212ab85e",
-            "CreatedDate": "2025-02-21T09:14:12.658000+00:00",
-            "UpdateTime": "2025-02-21T11:22:39.735000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 2.14,
-            "OnboardingTimeMinutes": 128.45,
             "BenchmarkMet": true
         },
         {
@@ -3005,6 +3233,15 @@
             "BenchmarkMet": true
         },
         {
+            "UserID": "67be08ac487bd4db06b2b4ce",
+            "CreatedDate": "2025-02-25T18:15:08.552000+00:00",
+            "UpdateTime": "2025-02-25T18:25:48.876000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.18,
+            "OnboardingTimeMinutes": 10.67,
+            "BenchmarkMet": true
+        },
+        {
             "UserID": "67b6e3705738a495401264bb",
             "CreatedDate": "2025-02-20T08:10:24.660000+00:00",
             "UpdateTime": "2025-02-20T08:19:28.561000+00:00",
@@ -3086,6 +3323,15 @@
             "BenchmarkMet": true
         },
         {
+            "UserID": "67bf7020306113ea0fbb5e7f",
+            "CreatedDate": "2025-02-26T19:48:48.394000+00:00",
+            "UpdateTime": "2025-02-26T20:15:41.329000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.45,
+            "OnboardingTimeMinutes": 26.88,
+            "BenchmarkMet": true
+        },
+        {
             "UserID": "67b71a84070eb85dbb13aeb5",
             "CreatedDate": "2025-02-20T12:05:24.388000+00:00",
             "UpdateTime": "2025-02-20T12:06:47.261000+00:00",
@@ -3158,6 +3404,15 @@
             "BenchmarkMet": true
         },
         {
+            "UserID": "67beda1df90891612e34b02a",
+            "CreatedDate": "2025-02-26T09:08:45.943000+00:00",
+            "UpdateTime": "2025-02-26T09:12:32.562000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.06,
+            "OnboardingTimeMinutes": 3.78,
+            "BenchmarkMet": true
+        },
+        {
             "UserID": "67b5f332e61455f3dc74fa8a",
             "CreatedDate": "2025-02-19T15:05:22.710000+00:00",
             "UpdateTime": "2025-02-19T15:13:11.396000+00:00",
@@ -3173,15 +3428,6 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.03,
             "OnboardingTimeMinutes": 1.59,
-            "BenchmarkMet": true
-        },
-        {
-            "UserID": "67b5f90c101dafad29390107",
-            "CreatedDate": "2025-02-19T15:30:20.583000+00:00",
-            "UpdateTime": "2025-02-19T15:31:36.721000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.02,
-            "OnboardingTimeMinutes": 1.27,
             "BenchmarkMet": true
         },
         {
@@ -3203,21 +3449,21 @@
             "BenchmarkMet": true
         },
         {
-            "UserID": "67bd769f3e1bdbb47c204cb6",
-            "CreatedDate": "2025-02-25T07:51:59.457000+00:00",
-            "UpdateTime": "2025-02-25T07:53:29.741000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.03,
-            "OnboardingTimeMinutes": 1.5,
-            "BenchmarkMet": true
-        },
-        {
             "UserID": "67b85f312e19cefb4236fc59",
             "CreatedDate": "2025-02-21T11:10:41.104000+00:00",
             "UpdateTime": "2025-02-21T11:56:16.029000+00:00",
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.76,
             "OnboardingTimeMinutes": 45.58,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf66f43f03e61ef9221760",
+            "CreatedDate": "2025-02-26T19:09:40.138000+00:00",
+            "UpdateTime": "2025-02-27T00:45:30.245000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 5.6,
+            "OnboardingTimeMinutes": 335.84,
             "BenchmarkMet": true
         },
         {
@@ -3266,15 +3512,6 @@
             "BenchmarkMet": true
         },
         {
-            "UserID": "67bb1367111777fdd322f9e5",
-            "CreatedDate": "2025-02-23T12:24:07.816000+00:00",
-            "UpdateTime": "2025-02-23T14:38:36.634000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 2.24,
-            "OnboardingTimeMinutes": 134.48,
-            "BenchmarkMet": true
-        },
-        {
             "UserID": "67b62fe2e61455f3dc74ff5c",
             "CreatedDate": "2025-02-19T19:24:18.611000+00:00",
             "UpdateTime": "2025-02-19T19:29:55.558000+00:00",
@@ -3299,6 +3536,15 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.03,
             "OnboardingTimeMinutes": 1.6,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf27e2e2776f522c0c5221",
+            "CreatedDate": "2025-02-26T14:40:34.538000+00:00",
+            "UpdateTime": "2025-02-26T14:41:30.745000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.02,
+            "OnboardingTimeMinutes": 0.94,
             "BenchmarkMet": true
         },
         {
@@ -3335,6 +3581,15 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.06,
             "OnboardingTimeMinutes": 3.67,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67be1d9f4e2e72b891cc162c",
+            "CreatedDate": "2025-02-25T19:44:31.846000+00:00",
+            "UpdateTime": "2025-02-25T19:45:51.286000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.02,
+            "OnboardingTimeMinutes": 1.32,
             "BenchmarkMet": true
         },
         {
@@ -3455,12 +3710,12 @@
             "BenchmarkMet": true
         },
         {
-            "UserID": "67bdae95a6524c1639dabf51",
-            "CreatedDate": "2025-02-25T11:50:45.733000+00:00",
-            "UpdateTime": "2025-02-25T12:31:13.967000+00:00",
+            "UserID": "67bf9bcce2776f522c0c5da3",
+            "CreatedDate": "2025-02-26T22:55:08.586000+00:00",
+            "UpdateTime": "2025-02-26T22:56:52.116000+00:00",
             "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.67,
-            "OnboardingTimeMinutes": 40.47,
+            "OnboardingTimeHours": 0.03,
+            "OnboardingTimeMinutes": 1.73,
             "BenchmarkMet": true
         },
         {
@@ -3470,15 +3725,6 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.02,
             "OnboardingTimeMinutes": 1.05,
-            "BenchmarkMet": true
-        },
-        {
-            "UserID": "67b5f7a5f4429305634881ac",
-            "CreatedDate": "2025-02-19T15:24:21.124000+00:00",
-            "UpdateTime": "2025-02-19T15:28:11.549000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.06,
-            "OnboardingTimeMinutes": 3.84,
             "BenchmarkMet": true
         },
         {
@@ -3563,12 +3809,21 @@
             "BenchmarkMet": true
         },
         {
-            "UserID": "67bda7b7755fbbfd0a7c2cbf",
-            "CreatedDate": "2025-02-25T11:21:27.973000+00:00",
-            "UpdateTime": "2025-02-25T11:35:36.769000+00:00",
+            "UserID": "67bded5cd578a98686c5092e",
+            "CreatedDate": "2025-02-25T16:18:36.173000+00:00",
+            "UpdateTime": "2025-02-25T17:27:56.387000+00:00",
             "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.24,
-            "OnboardingTimeMinutes": 14.15,
+            "OnboardingTimeHours": 1.16,
+            "OnboardingTimeMinutes": 69.34,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bed833f90891612e34b000",
+            "CreatedDate": "2025-02-26T09:00:35.089000+00:00",
+            "UpdateTime": "2025-02-26T09:11:39.122000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.18,
+            "OnboardingTimeMinutes": 11.07,
             "BenchmarkMet": true
         },
         {
@@ -3592,10 +3847,10 @@
         {
             "UserID": "67bc7f6a0e0852ae1cd3729b",
             "CreatedDate": "2025-02-24T14:17:14.057000+00:00",
-            "UpdateTime": "2025-02-24T14:43:51.624000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.44,
-            "OnboardingTimeMinutes": 26.63,
+            "UpdateTime": "2025-02-25T20:02:50.474000+00:00",
+            "OnboardingTimeDays": 1,
+            "OnboardingTimeHours": 29.76,
+            "OnboardingTimeMinutes": 1785.61,
             "BenchmarkMet": true
         },
         {
@@ -3605,15 +3860,6 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.04,
             "OnboardingTimeMinutes": 2.49,
-            "BenchmarkMet": true
-        },
-        {
-            "UserID": "67bb59fd111777fdd322fbb6",
-            "CreatedDate": "2025-02-23T17:25:17.014000+00:00",
-            "UpdateTime": "2025-02-23T17:31:26.643000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.1,
-            "OnboardingTimeMinutes": 6.16,
             "BenchmarkMet": true
         },
         {
@@ -3635,6 +3881,15 @@
             "BenchmarkMet": true
         },
         {
+            "UserID": "67be0f53e8237b56b3d10212",
+            "CreatedDate": "2025-02-25T18:43:31.925000+00:00",
+            "UpdateTime": "2025-02-25T18:45:10.749000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.03,
+            "OnboardingTimeMinutes": 1.65,
+            "BenchmarkMet": true
+        },
+        {
             "UserID": "67b77c12914a10fd732d0968",
             "CreatedDate": "2025-02-20T19:01:38.451000+00:00",
             "UpdateTime": "2025-02-20T19:02:40.504000+00:00",
@@ -3650,15 +3905,6 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 14.19,
             "OnboardingTimeMinutes": 851.69,
-            "BenchmarkMet": true
-        },
-        {
-            "UserID": "67bcc769426d3b620741cb9d",
-            "CreatedDate": "2025-02-24T19:24:25.855000+00:00",
-            "UpdateTime": "2025-02-25T07:19:25.052000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 11.92,
-            "OnboardingTimeMinutes": 714.99,
             "BenchmarkMet": true
         },
         {
@@ -3713,24 +3959,6 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.32,
             "OnboardingTimeMinutes": 19.03,
-            "BenchmarkMet": true
-        },
-        {
-            "UserID": "67b8ed6c9c6dcc1c212acf69",
-            "CreatedDate": "2025-02-21T21:17:32.457000+00:00",
-            "UpdateTime": "2025-02-22T09:48:27.925000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 12.52,
-            "OnboardingTimeMinutes": 750.92,
-            "BenchmarkMet": true
-        },
-        {
-            "UserID": "67bdaa123e1bdbb47c205b0b",
-            "CreatedDate": "2025-02-25T11:31:30.712000+00:00",
-            "UpdateTime": "2025-02-25T11:33:45.947000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.04,
-            "OnboardingTimeMinutes": 2.25,
             "BenchmarkMet": true
         },
         {
@@ -3797,6 +4025,15 @@
             "BenchmarkMet": true
         },
         {
+            "UserID": "67bf67c4306113ea0fbb5e22",
+            "CreatedDate": "2025-02-26T19:13:08.980000+00:00",
+            "UpdateTime": "2025-02-26T19:14:18.623000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.02,
+            "OnboardingTimeMinutes": 1.16,
+            "BenchmarkMet": true
+        },
+        {
             "UserID": "6794c673385649dcd523b50f",
             "CreatedDate": "2025-01-25T11:09:39.077000+00:00",
             "UpdateTime": "2025-01-25T11:11:26.423000+00:00",
@@ -3833,6 +4070,15 @@
             "BenchmarkMet": true
         },
         {
+            "UserID": "67bf6ef83f03e61ef92217fa",
+            "CreatedDate": "2025-02-26T19:43:52.794000+00:00",
+            "UpdateTime": "2025-02-26T19:44:52.686000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.02,
+            "OnboardingTimeMinutes": 1.0,
+            "BenchmarkMet": true
+        },
+        {
             "UserID": "67b8ca359c6dcc1c212acda7",
             "CreatedDate": "2025-02-21T18:47:17.959000+00:00",
             "UpdateTime": "2025-02-21T18:48:10.673000+00:00",
@@ -3857,15 +4103,6 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.27,
             "OnboardingTimeMinutes": 16.12,
-            "BenchmarkMet": true
-        },
-        {
-            "UserID": "67bcd5c3b21a96a5789032ce",
-            "CreatedDate": "2025-02-24T20:25:39.082000+00:00",
-            "UpdateTime": "2025-02-24T20:27:40.365000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.03,
-            "OnboardingTimeMinutes": 2.02,
             "BenchmarkMet": true
         },
         {
@@ -3907,10 +4144,10 @@
         {
             "UserID": "67bce7ea3a71cb87716a7a31",
             "CreatedDate": "2025-02-24T21:43:06.844000+00:00",
-            "UpdateTime": "2025-02-25T02:09:52.731000+00:00",
+            "UpdateTime": "2025-02-25T16:49:33.310000+00:00",
             "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 4.45,
-            "OnboardingTimeMinutes": 266.76,
+            "OnboardingTimeHours": 19.11,
+            "OnboardingTimeMinutes": 1146.44,
             "BenchmarkMet": true
         },
         {
@@ -3959,12 +4196,12 @@
             "BenchmarkMet": true
         },
         {
-            "UserID": "67bd495b922b8c2a5bc6d1c8",
-            "CreatedDate": "2025-02-25T04:38:51.400000+00:00",
-            "UpdateTime": "2025-02-25T05:07:56.270000+00:00",
+            "UserID": "67bed0fbe93dbe7293095b47",
+            "CreatedDate": "2025-02-26T08:29:47.047000+00:00",
+            "UpdateTime": "2025-02-26T08:31:04.808000+00:00",
             "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.48,
-            "OnboardingTimeMinutes": 29.08,
+            "OnboardingTimeHours": 0.02,
+            "OnboardingTimeMinutes": 1.3,
             "BenchmarkMet": true
         },
         {
@@ -4031,6 +4268,15 @@
             "BenchmarkMet": true
         },
         {
+            "UserID": "67be2dbb6621017c2d17b985",
+            "CreatedDate": "2025-02-25T20:53:15.529000+00:00",
+            "UpdateTime": "2025-02-25T21:47:51.653000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.91,
+            "OnboardingTimeMinutes": 54.6,
+            "BenchmarkMet": true
+        },
+        {
             "UserID": "67b58a3df85a27013d440962",
             "CreatedDate": "2025-02-19T07:37:33.374000+00:00",
             "UpdateTime": "2025-02-19T07:40:14.146000+00:00",
@@ -4046,15 +4292,6 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.04,
             "OnboardingTimeMinutes": 2.17,
-            "BenchmarkMet": true
-        },
-        {
-            "UserID": "67bd78f7a6524c1639dab375",
-            "CreatedDate": "2025-02-25T08:01:59.234000+00:00",
-            "UpdateTime": "2025-02-25T08:32:39.117000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.51,
-            "OnboardingTimeMinutes": 30.66,
             "BenchmarkMet": true
         },
         {
@@ -4168,10 +4405,10 @@
         {
             "UserID": "67bc8e1270062cd8632137ca",
             "CreatedDate": "2025-02-24T15:19:46.907000+00:00",
-            "UpdateTime": "2025-02-24T15:33:50.187000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.23,
-            "OnboardingTimeMinutes": 14.05,
+            "UpdateTime": "2025-02-26T05:22:35.114000+00:00",
+            "OnboardingTimeDays": 1,
+            "OnboardingTimeHours": 38.05,
+            "OnboardingTimeMinutes": 2282.8,
             "BenchmarkMet": true
         },
         {
@@ -4337,6 +4574,15 @@
             "BenchmarkMet": true
         },
         {
+            "UserID": "67bf4823e2776f522c0c5644",
+            "CreatedDate": "2025-02-26T16:58:11.475000+00:00",
+            "UpdateTime": "2025-02-26T17:22:20.773000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.4,
+            "OnboardingTimeMinutes": 24.15,
+            "BenchmarkMet": true
+        },
+        {
             "UserID": "6799d285360bb854dc70fb44",
             "CreatedDate": "2025-01-29T07:02:29.470000+00:00",
             "UpdateTime": "2025-01-29T07:03:24.100000+00:00",
@@ -4355,12 +4601,12 @@
             "BenchmarkMet": true
         },
         {
-            "UserID": "67bcbcb0cd57d5b0c53e4b09",
-            "CreatedDate": "2025-02-24T18:38:40.392000+00:00",
-            "UpdateTime": "2025-02-24T19:02:20.311000+00:00",
+            "UserID": "67bf2f0be2776f522c0c5266",
+            "CreatedDate": "2025-02-26T15:11:07.282000+00:00",
+            "UpdateTime": "2025-02-26T15:25:44.057000+00:00",
             "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.39,
-            "OnboardingTimeMinutes": 23.67,
+            "OnboardingTimeHours": 0.24,
+            "OnboardingTimeMinutes": 14.61,
             "BenchmarkMet": true
         },
         {
@@ -4427,12 +4673,12 @@
             "BenchmarkMet": true
         },
         {
-            "UserID": "67b75ccf966e3c86dbd2b7d6",
-            "CreatedDate": "2025-02-20T16:48:15.282000+00:00",
-            "UpdateTime": "2025-02-20T16:50:07.827000+00:00",
+            "UserID": "67be1bcb4e2e72b891cc1606",
+            "CreatedDate": "2025-02-25T19:36:43.878000+00:00",
+            "UpdateTime": "2025-02-25T20:21:31.066000+00:00",
             "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.03,
-            "OnboardingTimeMinutes": 1.88,
+            "OnboardingTimeHours": 0.75,
+            "OnboardingTimeMinutes": 44.79,
             "BenchmarkMet": true
         },
         {
@@ -4445,12 +4691,12 @@
             "BenchmarkMet": true
         },
         {
-            "UserID": "67b7436d966e3c86dbd2b647",
-            "CreatedDate": "2025-02-20T14:59:57.028000+00:00",
-            "UpdateTime": "2025-02-20T15:02:06.535000+00:00",
+            "UserID": "67bf7360f90891612e34c776",
+            "CreatedDate": "2025-02-26T20:02:40.639000+00:00",
+            "UpdateTime": "2025-02-26T20:03:50.785000+00:00",
             "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.04,
-            "OnboardingTimeMinutes": 2.16,
+            "OnboardingTimeHours": 0.02,
+            "OnboardingTimeMinutes": 1.17,
             "BenchmarkMet": true
         },
         {
@@ -4571,15 +4817,6 @@
             "BenchmarkMet": true
         },
         {
-            "UserID": "679d22adaa60e449218b325d",
-            "CreatedDate": "2025-01-31T19:21:17.163000+00:00",
-            "UpdateTime": "2025-02-03T17:30:44.463000+00:00",
-            "OnboardingTimeDays": 2,
-            "OnboardingTimeHours": 70.16,
-            "OnboardingTimeMinutes": 4209.45,
-            "BenchmarkMet": true
-        },
-        {
             "UserID": "679dcb2c3c6321b486e040b6",
             "CreatedDate": "2025-02-01T07:20:12.448000+00:00",
             "UpdateTime": "2025-02-01T07:21:58.781000+00:00",
@@ -4595,6 +4832,15 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.04,
             "OnboardingTimeMinutes": 2.68,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67be500df90891612e34a8d1",
+            "CreatedDate": "2025-02-25T23:19:41.680000+00:00",
+            "UpdateTime": "2025-02-25T23:28:25.797000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.15,
+            "OnboardingTimeMinutes": 8.74,
             "BenchmarkMet": true
         },
         {
@@ -4672,19 +4918,10 @@
         {
             "UserID": "67b9ee0df23a09ffc12f4a48",
             "CreatedDate": "2025-02-22T15:32:29.843000+00:00",
-            "UpdateTime": "2025-02-22T15:33:15.712000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.01,
-            "OnboardingTimeMinutes": 0.76,
-            "BenchmarkMet": true
-        },
-        {
-            "UserID": "67bc6bae0e0852ae1cd36d8e",
-            "CreatedDate": "2025-02-24T12:53:02.481000+00:00",
-            "UpdateTime": "2025-02-24T15:24:08.229000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 2.52,
-            "OnboardingTimeMinutes": 151.1,
+            "UpdateTime": "2025-02-26T06:49:56.972000+00:00",
+            "OnboardingTimeDays": 3,
+            "OnboardingTimeHours": 87.29,
+            "OnboardingTimeMinutes": 5237.45,
             "BenchmarkMet": true
         },
         {
@@ -4724,39 +4961,21 @@
             "BenchmarkMet": true
         },
         {
-            "UserID": "67bd933e6c64d33d13e53f82",
-            "CreatedDate": "2025-02-25T09:54:06.604000+00:00",
-            "UpdateTime": "2025-02-25T10:06:51.611000+00:00",
+            "UserID": "67bec7f8f90891612e34ad36",
+            "CreatedDate": "2025-02-26T07:51:20.254000+00:00",
+            "UpdateTime": "2025-02-26T07:52:36.907000+00:00",
             "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.21,
-            "OnboardingTimeMinutes": 12.75,
-            "BenchmarkMet": true
-        },
-        {
-            "UserID": "67bc1f24cd57d5b0c53e2dfc",
-            "CreatedDate": "2025-02-24T07:26:28.439000+00:00",
-            "UpdateTime": "2025-02-25T09:01:23.351000+00:00",
-            "OnboardingTimeDays": 1,
-            "OnboardingTimeHours": 25.58,
-            "OnboardingTimeMinutes": 1534.92,
-            "BenchmarkMet": true
-        },
-        {
-            "UserID": "67bd777d3e1bdbb47c204d00",
-            "CreatedDate": "2025-02-25T07:55:41.042000+00:00",
-            "UpdateTime": "2025-02-25T08:07:46.036000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.2,
-            "OnboardingTimeMinutes": 12.08,
+            "OnboardingTimeHours": 0.02,
+            "OnboardingTimeMinutes": 1.28,
             "BenchmarkMet": true
         },
         {
             "UserID": "67bb8b28056d57ef4fb235f0",
             "CreatedDate": "2025-02-23T20:55:04.148000+00:00",
-            "UpdateTime": "2025-02-23T21:05:52.421000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.18,
-            "OnboardingTimeMinutes": 10.8,
+            "UpdateTime": "2025-02-26T14:39:44.221000+00:00",
+            "OnboardingTimeDays": 2,
+            "OnboardingTimeHours": 65.74,
+            "OnboardingTimeMinutes": 3944.67,
             "BenchmarkMet": true
         },
         {
@@ -4778,30 +4997,12 @@
             "BenchmarkMet": true
         },
         {
-            "UserID": "67bd6afa922b8c2a5bc6d447",
-            "CreatedDate": "2025-02-25T07:02:18.874000+00:00",
-            "UpdateTime": "2025-02-25T07:03:58.667000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.03,
-            "OnboardingTimeMinutes": 1.66,
-            "BenchmarkMet": true
-        },
-        {
             "UserID": "67b8a4df2105ca3404b56f05",
             "CreatedDate": "2025-02-21T16:07:59.774000+00:00",
             "UpdateTime": "2025-02-21T16:14:07.878000+00:00",
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.1,
             "OnboardingTimeMinutes": 6.14,
-            "BenchmarkMet": true
-        },
-        {
-            "UserID": "67b9593cf23a09ffc12f41cf",
-            "CreatedDate": "2025-02-22T04:57:32.482000+00:00",
-            "UpdateTime": "2025-02-22T04:58:19.653000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.01,
-            "OnboardingTimeMinutes": 0.79,
             "BenchmarkMet": true
         },
         {
@@ -4825,10 +5026,10 @@
         {
             "UserID": "67ba4ff2f23a09ffc12f4d90",
             "CreatedDate": "2025-02-22T22:30:10.358000+00:00",
-            "UpdateTime": "2025-02-22T22:37:40.886000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.13,
-            "OnboardingTimeMinutes": 7.51,
+            "UpdateTime": "2025-02-25T18:23:37.851000+00:00",
+            "OnboardingTimeDays": 2,
+            "OnboardingTimeHours": 67.89,
+            "OnboardingTimeMinutes": 4073.46,
             "BenchmarkMet": true
         },
         {
@@ -4865,15 +5066,6 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.03,
             "OnboardingTimeMinutes": 1.66,
-            "BenchmarkMet": true
-        },
-        {
-            "UserID": "67bd7defa6524c1639dab46d",
-            "CreatedDate": "2025-02-25T08:23:11.766000+00:00",
-            "UpdateTime": "2025-02-25T08:40:00.205000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.28,
-            "OnboardingTimeMinutes": 16.81,
             "BenchmarkMet": true
         },
         {
@@ -4922,30 +5114,12 @@
             "BenchmarkMet": true
         },
         {
-            "UserID": "67b7bbd92105ca3404b557e4",
-            "CreatedDate": "2025-02-20T23:33:45.811000+00:00",
-            "UpdateTime": "2025-02-23T13:50:04.363000+00:00",
-            "OnboardingTimeDays": 2,
-            "OnboardingTimeHours": 62.27,
-            "OnboardingTimeMinutes": 3736.31,
-            "BenchmarkMet": true
-        },
-        {
-            "UserID": "67bc50473b23c0721b887ce9",
-            "CreatedDate": "2025-02-24T10:56:07.646000+00:00",
-            "UpdateTime": "2025-02-24T11:11:17.959000+00:00",
+            "UserID": "67be0c31e8237b56b3d101da",
+            "CreatedDate": "2025-02-25T18:30:09.401000+00:00",
+            "UpdateTime": "2025-02-25T18:37:49.092000+00:00",
             "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.25,
-            "OnboardingTimeMinutes": 15.17,
-            "BenchmarkMet": true
-        },
-        {
-            "UserID": "67bd55433e1bdbb47c204482",
-            "CreatedDate": "2025-02-25T05:29:39.472000+00:00",
-            "UpdateTime": "2025-02-25T05:30:28.020000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.01,
-            "OnboardingTimeMinutes": 0.81,
+            "OnboardingTimeHours": 0.13,
+            "OnboardingTimeMinutes": 7.66,
             "BenchmarkMet": true
         },
         {
@@ -5021,15 +5195,6 @@
             "BenchmarkMet": true
         },
         {
-            "UserID": "67b8e48a2105ca3404b57259",
-            "CreatedDate": "2025-02-21T20:39:38.337000+00:00",
-            "UpdateTime": "2025-02-21T20:45:12.125000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.09,
-            "OnboardingTimeMinutes": 5.56,
-            "BenchmarkMet": true
-        },
-        {
             "UserID": "6797acbc9605ac2944b8cc4d",
             "CreatedDate": "2025-01-27T15:56:44.423000+00:00",
             "UpdateTime": "2025-02-09T13:22:08.167000+00:00",
@@ -5102,30 +5267,57 @@
             "BenchmarkMet": true
         },
         {
+            "UserID": "67bdee45d578a98686c50948",
+            "CreatedDate": "2025-02-25T16:22:29.256000+00:00",
+            "UpdateTime": "2025-02-25T17:11:40.619000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.82,
+            "OnboardingTimeMinutes": 49.19,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67be00d66621017c2d17b72e",
+            "CreatedDate": "2025-02-25T17:41:42.449000+00:00",
+            "UpdateTime": "2025-02-25T18:02:04.767000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.34,
+            "OnboardingTimeMinutes": 20.37,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67be087d487bd4db06b2b4ca",
+            "CreatedDate": "2025-02-25T18:14:21.026000+00:00",
+            "UpdateTime": "2025-02-25T18:56:26.800000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.7,
+            "OnboardingTimeMinutes": 42.1,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf38a0e2776f522c0c52d0",
+            "CreatedDate": "2025-02-26T15:52:00.322000+00:00",
+            "UpdateTime": "2025-02-26T15:53:16.683000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.02,
+            "OnboardingTimeMinutes": 1.27,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf6864f90891612e34c6e4",
+            "CreatedDate": "2025-02-26T19:15:48.015000+00:00",
+            "UpdateTime": "2025-02-26T19:38:11.529000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.37,
+            "OnboardingTimeMinutes": 22.39,
+            "BenchmarkMet": true
+        },
+        {
             "UserID": "67b8caa82105ca3404b5715c",
             "CreatedDate": "2025-02-21T18:49:12.405000+00:00",
             "UpdateTime": "2025-02-21T18:50:15.807000+00:00",
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.02,
             "OnboardingTimeMinutes": 1.06,
-            "BenchmarkMet": true
-        },
-        {
-            "UserID": "67bda0ad3e1bdbb47c205832",
-            "CreatedDate": "2025-02-25T10:51:21.633000+00:00",
-            "UpdateTime": "2025-02-25T12:36:41.922000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 1.76,
-            "OnboardingTimeMinutes": 105.34,
-            "BenchmarkMet": true
-        },
-        {
-            "UserID": "67b784ec2105ca3404b55644",
-            "CreatedDate": "2025-02-20T19:39:24.154000+00:00",
-            "UpdateTime": "2025-02-20T19:41:11.362000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.03,
-            "OnboardingTimeMinutes": 1.79,
             "BenchmarkMet": true
         },
         {
@@ -5183,21 +5375,21 @@
             "BenchmarkMet": false
         },
         {
-            "UserID": "679006e9ba1c72801024672e",
-            "CreatedDate": "2025-01-21T20:43:21.358000+00:00",
-            "UpdateTime": "2025-01-21T21:02:19.550000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.32,
-            "OnboardingTimeMinutes": 18.97,
-            "BenchmarkMet": true
-        },
-        {
             "UserID": "6797a3c617459ea9e26c1c46",
             "CreatedDate": "2025-01-27T15:18:30.824000+00:00",
             "UpdateTime": "2025-01-27T15:44:59.631000+00:00",
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.44,
             "OnboardingTimeMinutes": 26.48,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bed8b1306113ea0fbb4960",
+            "CreatedDate": "2025-02-26T09:02:41.230000+00:00",
+            "UpdateTime": "2025-02-26T09:04:48.351000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.04,
+            "OnboardingTimeMinutes": 2.12,
             "BenchmarkMet": true
         },
         {
@@ -5225,6 +5417,15 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.13,
             "OnboardingTimeMinutes": 7.93,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bef586e93dbe7293096075",
+            "CreatedDate": "2025-02-26T11:05:42.805000+00:00",
+            "UpdateTime": "2025-02-26T11:18:43.052000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.22,
+            "OnboardingTimeMinutes": 13.0,
             "BenchmarkMet": true
         },
         {
@@ -5327,6 +5528,15 @@
             "BenchmarkMet": true
         },
         {
+            "UserID": "67bee26df90891612e34b174",
+            "CreatedDate": "2025-02-26T09:44:13.904000+00:00",
+            "UpdateTime": "2025-02-26T09:46:04.947000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.03,
+            "OnboardingTimeMinutes": 1.85,
+            "BenchmarkMet": true
+        },
+        {
             "UserID": "6794ce33e757e3560b460393",
             "CreatedDate": "2025-01-25T11:42:43.345000+00:00",
             "UpdateTime": "2025-01-25T11:47:30.011000+00:00",
@@ -5351,6 +5561,15 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.02,
             "OnboardingTimeMinutes": 1.43,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67be21f04e2e72b891cc1664",
+            "CreatedDate": "2025-02-25T20:02:56.722000+00:00",
+            "UpdateTime": "2025-02-25T20:05:10.571000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.04,
+            "OnboardingTimeMinutes": 2.23,
             "BenchmarkMet": true
         },
         {
@@ -5408,6 +5627,15 @@
             "BenchmarkMet": true
         },
         {
+            "UserID": "67bde7a6d578a98686c508e3",
+            "CreatedDate": "2025-02-25T15:54:14.250000+00:00",
+            "UpdateTime": "2025-02-25T15:56:17.265000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.03,
+            "OnboardingTimeMinutes": 2.05,
+            "BenchmarkMet": true
+        },
+        {
             "UserID": "67962efee757e3560b4627dc",
             "CreatedDate": "2025-01-26T12:47:58.015000+00:00",
             "UpdateTime": "2025-01-27T05:04:42.384000+00:00",
@@ -5435,6 +5663,15 @@
             "BenchmarkMet": true
         },
         {
+            "UserID": "67bf411df90891612e34bd77",
+            "CreatedDate": "2025-02-26T16:28:13.786000+00:00",
+            "UpdateTime": "2025-02-26T16:31:22.022000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.05,
+            "OnboardingTimeMinutes": 3.14,
+            "BenchmarkMet": true
+        },
+        {
             "UserID": "67b8dc699c6dcc1c212acec3",
             "CreatedDate": "2025-02-21T20:04:57.184000+00:00",
             "UpdateTime": "2025-02-23T19:19:31.313000+00:00",
@@ -5444,12 +5681,21 @@
             "BenchmarkMet": true
         },
         {
+            "UserID": "67be0beaf90891612e34a647",
+            "CreatedDate": "2025-02-25T18:28:58.852000+00:00",
+            "UpdateTime": "2025-02-25T18:57:02.783000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.47,
+            "OnboardingTimeMinutes": 28.07,
+            "BenchmarkMet": true
+        },
+        {
             "UserID": "6794c4a2c95b5e2ce06ab776",
             "CreatedDate": "2025-01-25T11:01:54.965000+00:00",
-            "UpdateTime": "2025-02-24T20:08:58.277000+00:00",
-            "OnboardingTimeDays": 30,
-            "OnboardingTimeHours": 729.12,
-            "OnboardingTimeMinutes": 43747.06,
+            "UpdateTime": "2025-02-25T16:35:37.461000+00:00",
+            "OnboardingTimeDays": 31,
+            "OnboardingTimeHours": 749.56,
+            "OnboardingTimeMinutes": 44973.71,
             "BenchmarkMet": false
         },
         {
@@ -5570,6 +5816,24 @@
             "BenchmarkMet": true
         },
         {
+            "UserID": "67bef0a2f90891612e34b366",
+            "CreatedDate": "2025-02-26T10:44:50.066000+00:00",
+            "UpdateTime": "2025-02-26T11:12:57.924000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.47,
+            "OnboardingTimeMinutes": 28.13,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf41f0f90891612e34bd8c",
+            "CreatedDate": "2025-02-26T16:31:44.042000+00:00",
+            "UpdateTime": "2025-02-26T16:32:28.004000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.01,
+            "OnboardingTimeMinutes": 0.73,
+            "BenchmarkMet": true
+        },
+        {
             "UserID": "67bc129c0e0852ae1cd3559e",
             "CreatedDate": "2025-02-24T06:33:00.043000+00:00",
             "UpdateTime": "2025-02-24T06:53:35.624000+00:00",
@@ -5585,6 +5849,15 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 9.72,
             "OnboardingTimeMinutes": 583.22,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67beb309f90891612e34aada",
+            "CreatedDate": "2025-02-26T06:22:01.668000+00:00",
+            "UpdateTime": "2025-02-26T06:23:49.736000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.03,
+            "OnboardingTimeMinutes": 1.8,
             "BenchmarkMet": true
         },
         {
@@ -5642,6 +5915,15 @@
             "BenchmarkMet": true
         },
         {
+            "UserID": "67bf0a01e2776f522c0c4e0b",
+            "CreatedDate": "2025-02-26T12:33:05.585000+00:00",
+            "UpdateTime": "2025-02-26T18:50:56.258000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 6.3,
+            "OnboardingTimeMinutes": 377.84,
+            "BenchmarkMet": true
+        },
+        {
             "UserID": "67b71819070eb85dbb13ae53",
             "CreatedDate": "2025-02-20T11:55:05.292000+00:00",
             "UpdateTime": "2025-02-20T11:57:05.056000+00:00",
@@ -5660,15 +5942,6 @@
             "BenchmarkMet": true
         },
         {
-            "UserID": "67bc8bebcd57d5b0c53e4920",
-            "CreatedDate": "2025-02-24T15:10:35.564000+00:00",
-            "UpdateTime": "2025-02-24T15:39:11.643000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.48,
-            "OnboardingTimeMinutes": 28.6,
-            "BenchmarkMet": true
-        },
-        {
             "UserID": "67bb15ce66330579301940c9",
             "CreatedDate": "2025-02-23T12:34:22.267000+00:00",
             "UpdateTime": "2025-02-23T12:36:14.892000+00:00",
@@ -5684,6 +5957,15 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.03,
             "OnboardingTimeMinutes": 2.02,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67be13da4e2e72b891cc15a1",
+            "CreatedDate": "2025-02-25T19:02:50.601000+00:00",
+            "UpdateTime": "2025-02-25T19:24:31.241000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.36,
+            "OnboardingTimeMinutes": 21.68,
             "BenchmarkMet": true
         },
         {
@@ -5723,6 +6005,15 @@
             "BenchmarkMet": true
         },
         {
+            "UserID": "67bdc922a6524c1639dac36d",
+            "CreatedDate": "2025-02-25T13:44:02.724000+00:00",
+            "UpdateTime": "2025-02-25T13:45:10.422000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.02,
+            "OnboardingTimeMinutes": 1.13,
+            "BenchmarkMet": true
+        },
+        {
             "UserID": "67b9ebc0f23a09ffc12f4a39",
             "CreatedDate": "2025-02-22T15:22:40.989000+00:00",
             "UpdateTime": "2025-02-22T15:24:48.117000+00:00",
@@ -5759,6 +6050,15 @@
             "BenchmarkMet": true
         },
         {
+            "UserID": "67beb2b8e93dbe72930956f5",
+            "CreatedDate": "2025-02-26T06:20:40.085000+00:00",
+            "UpdateTime": "2025-02-26T06:36:28.763000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.26,
+            "OnboardingTimeMinutes": 15.81,
+            "BenchmarkMet": true
+        },
+        {
             "UserID": "679712f1e757e3560b463cc4",
             "CreatedDate": "2025-01-27T05:00:33.320000+00:00",
             "UpdateTime": "2025-01-27T05:04:48.428000+00:00",
@@ -5786,15 +6086,6 @@
             "BenchmarkMet": true
         },
         {
-            "UserID": "67bd85c56c64d33d13e53c17",
-            "CreatedDate": "2025-02-25T08:56:37.522000+00:00",
-            "UpdateTime": "2025-02-25T09:09:33.116000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.22,
-            "OnboardingTimeMinutes": 12.93,
-            "BenchmarkMet": true
-        },
-        {
             "UserID": "67b5c8b4e61455f3dc74ef44",
             "CreatedDate": "2025-02-19T12:04:04.783000+00:00",
             "UpdateTime": "2025-02-19T12:08:44.717000+00:00",
@@ -5819,15 +6110,6 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.04,
             "OnboardingTimeMinutes": 2.65,
-            "BenchmarkMet": true
-        },
-        {
-            "UserID": "67bdb5c73e1bdbb47c205cf6",
-            "CreatedDate": "2025-02-25T12:21:27.847000+00:00",
-            "UpdateTime": "2025-02-25T12:32:18.982000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.18,
-            "OnboardingTimeMinutes": 10.85,
             "BenchmarkMet": true
         },
         {
@@ -5864,6 +6146,15 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 22.36,
             "OnboardingTimeMinutes": 1341.82,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67be06c2f90891612e34a5cd",
+            "CreatedDate": "2025-02-25T18:06:58.585000+00:00",
+            "UpdateTime": "2025-02-25T18:08:42.809000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.03,
+            "OnboardingTimeMinutes": 1.74,
             "BenchmarkMet": true
         },
         {
@@ -5981,24 +6272,6 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.03,
             "OnboardingTimeMinutes": 1.67,
-            "BenchmarkMet": true
-        },
-        {
-            "UserID": "67b9bb29a5523b0b9aef2dc8",
-            "CreatedDate": "2025-02-22T11:55:21.287000+00:00",
-            "UpdateTime": "2025-02-22T11:57:46.440000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.04,
-            "OnboardingTimeMinutes": 2.42,
-            "BenchmarkMet": true
-        },
-        {
-            "UserID": "67bdb545a6524c1639dac000",
-            "CreatedDate": "2025-02-25T12:19:17.792000+00:00",
-            "UpdateTime": "2025-02-25T12:34:12.679000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.25,
-            "OnboardingTimeMinutes": 14.91,
             "BenchmarkMet": true
         },
         {
@@ -6173,6 +6446,15 @@
             "BenchmarkMet": true
         },
         {
+            "UserID": "67bf76c1f90891612e34c7a1",
+            "CreatedDate": "2025-02-26T20:17:05.976000+00:00",
+            "UpdateTime": "2025-02-26T20:35:58.733000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.31,
+            "OnboardingTimeMinutes": 18.88,
+            "BenchmarkMet": true
+        },
+        {
             "UserID": "6797d801751ec8f41219562a",
             "CreatedDate": "2025-01-27T19:01:21.879000+00:00",
             "UpdateTime": "2025-02-01T06:04:26.260000+00:00",
@@ -6254,21 +6536,12 @@
             "BenchmarkMet": true
         },
         {
-            "UserID": "67bad6ed004871fd97745930",
-            "CreatedDate": "2025-02-23T08:06:05.970000+00:00",
-            "UpdateTime": "2025-02-23T08:07:53.210000+00:00",
+            "UserID": "67bf1f8df90891612e34b9fa",
+            "CreatedDate": "2025-02-26T14:05:01.584000+00:00",
+            "UpdateTime": "2025-02-26T14:07:09.512000+00:00",
             "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.03,
-            "OnboardingTimeMinutes": 1.79,
-            "BenchmarkMet": true
-        },
-        {
-            "UserID": "67b9e015de585255f7b2e6c7",
-            "CreatedDate": "2025-02-22T14:32:53.538000+00:00",
-            "UpdateTime": "2025-02-25T10:24:23.432000+00:00",
-            "OnboardingTimeDays": 2,
-            "OnboardingTimeHours": 67.86,
-            "OnboardingTimeMinutes": 4071.5,
+            "OnboardingTimeHours": 0.04,
+            "OnboardingTimeMinutes": 2.13,
             "BenchmarkMet": true
         },
         {
@@ -6278,15 +6551,6 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.11,
             "OnboardingTimeMinutes": 6.75,
-            "BenchmarkMet": true
-        },
-        {
-            "UserID": "67bcb7d570062cd863213a2a",
-            "CreatedDate": "2025-02-24T18:17:57.047000+00:00",
-            "UpdateTime": "2025-02-24T18:33:27.242000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.26,
-            "OnboardingTimeMinutes": 15.5,
             "BenchmarkMet": true
         },
         {
@@ -6353,6 +6617,15 @@
             "BenchmarkMet": true
         },
         {
+            "UserID": "67bdcc493e1bdbb47c206266",
+            "CreatedDate": "2025-02-25T13:57:29.753000+00:00",
+            "UpdateTime": "2025-02-25T14:16:26.802000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.32,
+            "OnboardingTimeMinutes": 18.95,
+            "BenchmarkMet": true
+        },
+        {
             "UserID": "6794ceb08c1433246004ef1a",
             "CreatedDate": "2025-01-25T11:44:48.425000+00:00",
             "UpdateTime": "2025-01-25T11:48:12.641000+00:00",
@@ -6386,15 +6659,6 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.03,
             "OnboardingTimeMinutes": 1.58,
-            "BenchmarkMet": true
-        },
-        {
-            "UserID": "67bd81de6c64d33d13e53b59",
-            "CreatedDate": "2025-02-25T08:39:58.027000+00:00",
-            "UpdateTime": "2025-02-25T09:18:38.490000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.64,
-            "OnboardingTimeMinutes": 38.67,
             "BenchmarkMet": true
         },
         {
@@ -6497,6 +6761,15 @@
             "BenchmarkMet": true
         },
         {
+            "UserID": "67beea95e93dbe7293095eda",
+            "CreatedDate": "2025-02-26T10:19:01.651000+00:00",
+            "UpdateTime": "2025-02-26T10:27:56.749000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.15,
+            "OnboardingTimeMinutes": 8.92,
+            "BenchmarkMet": true
+        },
+        {
             "UserID": "6796706daa45decf1a24ac31",
             "CreatedDate": "2025-01-26T17:27:09.864000+00:00",
             "UpdateTime": "2025-01-26T17:30:18.768000+00:00",
@@ -6526,10 +6799,10 @@
         {
             "UserID": "67bc05c13b23c0721b886460",
             "CreatedDate": "2025-02-24T05:38:09.903000+00:00",
-            "UpdateTime": "2025-02-24T05:44:05.572000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.1,
-            "OnboardingTimeMinutes": 5.93,
+            "UpdateTime": "2025-02-25T15:20:44.315000+00:00",
+            "OnboardingTimeDays": 1,
+            "OnboardingTimeHours": 33.71,
+            "OnboardingTimeMinutes": 2022.57,
             "BenchmarkMet": true
         },
         {
@@ -6614,12 +6887,21 @@
             "BenchmarkMet": true
         },
         {
-            "UserID": "67bd714b3e1bdbb47c204b47",
-            "CreatedDate": "2025-02-25T07:29:15.012000+00:00",
-            "UpdateTime": "2025-02-25T08:16:11.361000+00:00",
+            "UserID": "67bec64df90891612e34acd6",
+            "CreatedDate": "2025-02-26T07:44:13.717000+00:00",
+            "UpdateTime": "2025-02-26T07:45:31.077000+00:00",
             "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.78,
-            "OnboardingTimeMinutes": 46.94,
+            "OnboardingTimeHours": 0.02,
+            "OnboardingTimeMinutes": 1.29,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67beb645f90891612e34ab2a",
+            "CreatedDate": "2025-02-26T06:35:49.341000+00:00",
+            "UpdateTime": "2025-02-26T07:03:37.073000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.46,
+            "OnboardingTimeMinutes": 27.8,
             "BenchmarkMet": true
         },
         {
@@ -6629,6 +6911,15 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.17,
             "OnboardingTimeMinutes": 9.93,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bef24de93dbe7293095ffd",
+            "CreatedDate": "2025-02-26T10:51:57.508000+00:00",
+            "UpdateTime": "2025-02-26T10:53:20.613000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.02,
+            "OnboardingTimeMinutes": 1.39,
             "BenchmarkMet": true
         },
         {
@@ -6677,12 +6968,30 @@
             "BenchmarkMet": true
         },
         {
+            "UserID": "67bde133f90891612e34a3cd",
+            "CreatedDate": "2025-02-25T15:26:43.097000+00:00",
+            "UpdateTime": "2025-02-25T18:40:05.440000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 3.22,
+            "OnboardingTimeMinutes": 193.37,
+            "BenchmarkMet": true
+        },
+        {
             "UserID": "67956a098c1433246004ff29",
             "CreatedDate": "2025-01-25T22:47:37.098000+00:00",
             "UpdateTime": "2025-01-25T22:54:17.853000+00:00",
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.11,
             "OnboardingTimeMinutes": 6.68,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf6e33306113ea0fbb5e65",
+            "CreatedDate": "2025-02-26T19:40:35.361000+00:00",
+            "UpdateTime": "2025-02-26T19:42:04.423000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.02,
+            "OnboardingTimeMinutes": 1.48,
             "BenchmarkMet": true
         },
         {
@@ -6742,10 +7051,28 @@
         {
             "UserID": "67bb08d3056d57ef4fb2308c",
             "CreatedDate": "2025-02-23T11:38:59.194000+00:00",
-            "UpdateTime": "2025-02-23T11:55:02.498000+00:00",
+            "UpdateTime": "2025-02-26T02:41:29.437000+00:00",
+            "OnboardingTimeDays": 2,
+            "OnboardingTimeHours": 63.04,
+            "OnboardingTimeMinutes": 3782.5,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bdf3a4d578a98686c509b3",
+            "CreatedDate": "2025-02-25T16:45:24.038000+00:00",
+            "UpdateTime": "2025-02-25T16:46:19.472000+00:00",
             "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.27,
-            "OnboardingTimeMinutes": 16.06,
+            "OnboardingTimeHours": 0.02,
+            "OnboardingTimeMinutes": 0.92,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bed9faf90891612e34b022",
+            "CreatedDate": "2025-02-26T09:08:10.662000+00:00",
+            "UpdateTime": "2025-02-26T09:38:21.302000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.5,
+            "OnboardingTimeMinutes": 30.18,
             "BenchmarkMet": true
         },
         {
@@ -6782,15 +7109,6 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.02,
             "OnboardingTimeMinutes": 1.14,
-            "BenchmarkMet": true
-        },
-        {
-            "UserID": "67b5b0c0f442930563486bf2",
-            "CreatedDate": "2025-02-19T10:21:52.412000+00:00",
-            "UpdateTime": "2025-02-21T13:29:51.380000+00:00",
-            "OnboardingTimeDays": 2,
-            "OnboardingTimeHours": 51.13,
-            "OnboardingTimeMinutes": 3067.98,
             "BenchmarkMet": true
         },
         {
@@ -6877,11 +7195,11 @@
         {
             "UserID": "67b9c450f23a09ffc12f4894",
             "CreatedDate": "2025-02-22T12:34:24.115000+00:00",
-            "UpdateTime": "2025-02-22T12:45:39.801000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.19,
-            "OnboardingTimeMinutes": 11.26,
-            "BenchmarkMet": true
+            "UpdateTime": "2025-02-26T15:40:44.296000+00:00",
+            "OnboardingTimeDays": 4,
+            "OnboardingTimeHours": 99.11,
+            "OnboardingTimeMinutes": 5946.34,
+            "BenchmarkMet": false
         },
         {
             "UserID": "67ba05a98a42c8445b9d663c",
@@ -6890,6 +7208,33 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.56,
             "OnboardingTimeMinutes": 33.42,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bea8bce93dbe72930955c8",
+            "CreatedDate": "2025-02-26T05:38:04.357000+00:00",
+            "UpdateTime": "2025-02-26T08:11:54.320000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 2.56,
+            "OnboardingTimeMinutes": 153.83,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bed1e43f03e61ef921fd9d",
+            "CreatedDate": "2025-02-26T08:33:40.731000+00:00",
+            "UpdateTime": "2025-02-26T08:36:01.607000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.04,
+            "OnboardingTimeMinutes": 2.35,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf5154f90891612e34c54b",
+            "CreatedDate": "2025-02-26T17:37:24.921000+00:00",
+            "UpdateTime": "2025-02-26T18:00:17.768000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.38,
+            "OnboardingTimeMinutes": 22.88,
             "BenchmarkMet": true
         },
         {
@@ -6935,6 +7280,33 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.03,
             "OnboardingTimeMinutes": 1.62,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67be02b36621017c2d17b760",
+            "CreatedDate": "2025-02-25T17:49:39.337000+00:00",
+            "UpdateTime": "2025-02-25T18:24:11.092000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.58,
+            "OnboardingTimeMinutes": 34.53,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67be0479e8237b56b3d1016b",
+            "CreatedDate": "2025-02-25T17:57:13.082000+00:00",
+            "UpdateTime": "2025-02-25T18:03:02.418000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.1,
+            "OnboardingTimeMinutes": 5.82,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf6146e2776f522c0c5c1b",
+            "CreatedDate": "2025-02-26T18:45:26.123000+00:00",
+            "UpdateTime": "2025-02-26T18:46:44.104000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.02,
+            "OnboardingTimeMinutes": 1.3,
             "BenchmarkMet": true
         },
         {
@@ -7001,6 +7373,24 @@
             "BenchmarkMet": true
         },
         {
+            "UserID": "67bdb7706c64d33d13e54588",
+            "CreatedDate": "2025-02-25T12:28:32.387000+00:00",
+            "UpdateTime": "2025-02-25T14:01:40.320000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 1.55,
+            "OnboardingTimeMinutes": 93.13,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67be11bee8237b56b3d1024e",
+            "CreatedDate": "2025-02-25T18:53:50.221000+00:00",
+            "UpdateTime": "2025-02-25T18:55:18.378000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.02,
+            "OnboardingTimeMinutes": 1.47,
+            "BenchmarkMet": true
+        },
+        {
             "UserID": "67b8ef88ec63a155e6b659d5",
             "CreatedDate": "2025-02-21T21:26:32.336000+00:00",
             "UpdateTime": "2025-02-21T21:27:58.600000+00:00",
@@ -7046,15 +7436,6 @@
             "BenchmarkMet": true
         },
         {
-            "UserID": "67b7e38b9c6dcc1c212ab0f3",
-            "CreatedDate": "2025-02-21T02:23:07.119000+00:00",
-            "UpdateTime": "2025-02-21T02:24:26.001000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.02,
-            "OnboardingTimeMinutes": 1.31,
-            "BenchmarkMet": true
-        },
-        {
             "UserID": "67ba18a28a42c8445b9d66f3",
             "CreatedDate": "2025-02-22T18:34:10.549000+00:00",
             "UpdateTime": "2025-02-22T18:35:49.769000+00:00",
@@ -7070,6 +7451,15 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.03,
             "OnboardingTimeMinutes": 1.83,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf1990306113ea0fbb51f4",
+            "CreatedDate": "2025-02-26T13:39:28.688000+00:00",
+            "UpdateTime": "2025-02-26T13:40:45.944000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.02,
+            "OnboardingTimeMinutes": 1.29,
             "BenchmarkMet": true
         },
         {
@@ -7091,6 +7481,15 @@
             "BenchmarkMet": true
         },
         {
+            "UserID": "67be32f56621017c2d17b9b5",
+            "CreatedDate": "2025-02-25T21:15:33.576000+00:00",
+            "UpdateTime": "2025-02-25T21:30:13.859000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.24,
+            "OnboardingTimeMinutes": 14.67,
+            "BenchmarkMet": true
+        },
+        {
             "UserID": "67b94ab08a42c8445b9d5b8a",
             "CreatedDate": "2025-02-22T03:55:28.101000+00:00",
             "UpdateTime": "2025-02-22T04:04:53.314000+00:00",
@@ -7106,15 +7505,6 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.47,
             "OnboardingTimeMinutes": 28.09,
-            "BenchmarkMet": true
-        },
-        {
-            "UserID": "67b860872e19cefb4236fcb1",
-            "CreatedDate": "2025-02-21T11:16:23.440000+00:00",
-            "UpdateTime": "2025-02-21T17:48:29.570000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 6.54,
-            "OnboardingTimeMinutes": 392.1,
             "BenchmarkMet": true
         },
         {
@@ -7172,12 +7562,156 @@
             "BenchmarkMet": true
         },
         {
+            "UserID": "67bf5a633f03e61ef922165d",
+            "CreatedDate": "2025-02-26T18:16:03.156000+00:00",
+            "UpdateTime": "2025-02-26T18:19:55.170000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.06,
+            "OnboardingTimeMinutes": 3.87,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bfb3b73f03e61ef9221a1b",
+            "CreatedDate": "2025-02-27T00:37:11.741000+00:00",
+            "UpdateTime": "2025-02-27T01:16:08.318000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.65,
+            "OnboardingTimeMinutes": 38.94,
+            "BenchmarkMet": true
+        },
+        {
             "UserID": "67b5702b101dafad2938d58e",
             "CreatedDate": "2025-02-19T05:46:19.578000+00:00",
             "UpdateTime": "2025-02-19T05:48:34.480000+00:00",
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.04,
             "OnboardingTimeMinutes": 2.25,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bfaae0306113ea0fbb5fba",
+            "CreatedDate": "2025-02-26T23:59:28.859000+00:00",
+            "UpdateTime": "2025-02-27T00:03:03.519000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.06,
+            "OnboardingTimeMinutes": 3.58,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf372bf90891612e34bc5d",
+            "CreatedDate": "2025-02-26T15:45:47.036000+00:00",
+            "UpdateTime": "2025-02-26T16:26:59.805000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.69,
+            "OnboardingTimeMinutes": 41.21,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf38a8e2776f522c0c52d5",
+            "CreatedDate": "2025-02-26T15:52:08.053000+00:00",
+            "UpdateTime": "2025-02-26T17:38:07.980000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 1.77,
+            "OnboardingTimeMinutes": 106.0,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf3c5de2776f522c0c533d",
+            "CreatedDate": "2025-02-26T16:07:57.046000+00:00",
+            "UpdateTime": "2025-02-26T17:40:01+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 1.53,
+            "OnboardingTimeMinutes": 92.07,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf3c5de2776f522c0c533e",
+            "CreatedDate": "2025-02-26T16:07:57.156000+00:00",
+            "UpdateTime": "2025-02-26T16:42:25.944000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.57,
+            "OnboardingTimeMinutes": 34.48,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf3f62306113ea0fbb55b5",
+            "CreatedDate": "2025-02-26T16:20:50.166000+00:00",
+            "UpdateTime": "2025-02-26T19:20:08.333000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 2.99,
+            "OnboardingTimeMinutes": 179.3,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf3f98306113ea0fbb55be",
+            "CreatedDate": "2025-02-26T16:21:44.653000+00:00",
+            "UpdateTime": "2025-02-26T16:39:59.685000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.3,
+            "OnboardingTimeMinutes": 18.25,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf472ce2776f522c0c55d1",
+            "CreatedDate": "2025-02-26T16:54:04.712000+00:00",
+            "UpdateTime": "2025-02-26T17:35:39.010000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.69,
+            "OnboardingTimeMinutes": 41.57,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf496af90891612e34c06e",
+            "CreatedDate": "2025-02-26T17:03:38.883000+00:00",
+            "UpdateTime": "2025-02-26T17:10:55.024000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.12,
+            "OnboardingTimeMinutes": 7.27,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf5451306113ea0fbb5d52",
+            "CreatedDate": "2025-02-26T17:50:09.038000+00:00",
+            "UpdateTime": "2025-02-26T17:59:28.123000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.16,
+            "OnboardingTimeMinutes": 9.32,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf564c3f03e61ef922160c",
+            "CreatedDate": "2025-02-26T17:58:36.513000+00:00",
+            "UpdateTime": "2025-02-27T00:29:31.992000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 6.52,
+            "OnboardingTimeMinutes": 390.92,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf63483f03e61ef922172c",
+            "CreatedDate": "2025-02-26T18:54:00.885000+00:00",
+            "UpdateTime": "2025-02-26T18:54:58.403000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.02,
+            "OnboardingTimeMinutes": 0.96,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf6ff5f90891612e34c74e",
+            "CreatedDate": "2025-02-26T19:48:05.564000+00:00",
+            "UpdateTime": "2025-02-26T23:28:04.023000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 3.67,
+            "OnboardingTimeMinutes": 219.97,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bfcc9822101a661416433c",
+            "CreatedDate": "2025-02-27T02:23:20.148000+00:00",
+            "UpdateTime": "2025-02-27T02:30:53.355000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.13,
+            "OnboardingTimeMinutes": 7.55,
             "BenchmarkMet": true
         },
         {
@@ -7190,12 +7724,39 @@
             "BenchmarkMet": true
         },
         {
+            "UserID": "67bded92f90891612e34a445",
+            "CreatedDate": "2025-02-25T16:19:30.408000+00:00",
+            "UpdateTime": "2025-02-25T16:21:01.261000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.03,
+            "OnboardingTimeMinutes": 1.51,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bebf0be93dbe729309583d",
+            "CreatedDate": "2025-02-26T07:13:15.437000+00:00",
+            "UpdateTime": "2025-02-26T19:20:02.616000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 12.11,
+            "OnboardingTimeMinutes": 726.79,
+            "BenchmarkMet": true
+        },
+        {
             "UserID": "67bce2541b58a99bc8945fb0",
             "CreatedDate": "2025-02-24T21:19:16.755000+00:00",
             "UpdateTime": "2025-02-24T21:22:54.661000+00:00",
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.06,
             "OnboardingTimeMinutes": 3.63,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67beadb5e93dbe729309562a",
+            "CreatedDate": "2025-02-26T05:59:17.780000+00:00",
+            "UpdateTime": "2025-02-26T06:01:55.491000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.04,
+            "OnboardingTimeMinutes": 2.63,
             "BenchmarkMet": true
         },
         {
@@ -7244,6 +7805,15 @@
             "BenchmarkMet": true
         },
         {
+            "UserID": "67be0058f90891612e34a519",
+            "CreatedDate": "2025-02-25T17:39:36.264000+00:00",
+            "UpdateTime": "2025-02-25T18:24:29.126000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.75,
+            "OnboardingTimeMinutes": 44.88,
+            "BenchmarkMet": true
+        },
+        {
             "UserID": "67b08a6da43a336485cb344d",
             "CreatedDate": "2025-02-15T12:37:01.838000+00:00",
             "UpdateTime": "2025-02-15T15:01:10.373000+00:00",
@@ -7273,10 +7843,10 @@
         {
             "UserID": "67bb4627663305793019428a",
             "CreatedDate": "2025-02-23T16:00:39.352000+00:00",
-            "UpdateTime": "2025-02-23T16:08:43.928000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.13,
-            "OnboardingTimeMinutes": 8.08,
+            "UpdateTime": "2025-02-26T04:36:40.920000+00:00",
+            "OnboardingTimeDays": 2,
+            "OnboardingTimeHours": 60.6,
+            "OnboardingTimeMinutes": 3636.03,
             "BenchmarkMet": true
         },
         {
@@ -7295,6 +7865,24 @@
             "OnboardingTimeDays": 2,
             "OnboardingTimeHours": 49.3,
             "OnboardingTimeMinutes": 2958.17,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67be0a1a487bd4db06b2b4da",
+            "CreatedDate": "2025-02-25T18:21:14.983000+00:00",
+            "UpdateTime": "2025-02-25T18:23:00.056000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.03,
+            "OnboardingTimeMinutes": 1.75,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf7c3be2776f522c0c5d21",
+            "CreatedDate": "2025-02-26T20:40:27.014000+00:00",
+            "UpdateTime": "2025-02-26T20:42:09.113000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.03,
+            "OnboardingTimeMinutes": 1.7,
             "BenchmarkMet": true
         },
         {
@@ -7322,6 +7910,42 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.04,
             "OnboardingTimeMinutes": 2.27,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf31853f03e61ef9220bf9",
+            "CreatedDate": "2025-02-26T15:21:41.919000+00:00",
+            "UpdateTime": "2025-02-26T15:39:18.894000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.29,
+            "OnboardingTimeMinutes": 17.62,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf31f73f03e61ef9220c01",
+            "CreatedDate": "2025-02-26T15:23:35.425000+00:00",
+            "UpdateTime": "2025-02-26T15:35:51.206000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.2,
+            "OnboardingTimeMinutes": 12.26,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf378c306113ea0fbb54f9",
+            "CreatedDate": "2025-02-26T15:47:24.217000+00:00",
+            "UpdateTime": "2025-02-26T15:50:22.995000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.05,
+            "OnboardingTimeMinutes": 2.98,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf383d306113ea0fbb5509",
+            "CreatedDate": "2025-02-26T15:50:21.976000+00:00",
+            "UpdateTime": "2025-02-26T16:20:11.798000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.5,
+            "OnboardingTimeMinutes": 29.83,
             "BenchmarkMet": true
         },
         {
@@ -7370,30 +7994,12 @@
             "BenchmarkMet": true
         },
         {
-            "UserID": "67b09a2a2910fa26364cbd3d",
-            "CreatedDate": "2025-02-15T13:44:10.956000+00:00",
-            "UpdateTime": "2025-02-15T13:45:00.081000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.01,
-            "OnboardingTimeMinutes": 0.82,
-            "BenchmarkMet": true
-        },
-        {
             "UserID": "67b74a1d070eb85dbb13b229",
             "CreatedDate": "2025-02-20T15:28:29.337000+00:00",
             "UpdateTime": "2025-02-20T15:30:14.334000+00:00",
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.03,
             "OnboardingTimeMinutes": 1.75,
-            "BenchmarkMet": true
-        },
-        {
-            "UserID": "67b88ce89c6dcc1c212ac995",
-            "CreatedDate": "2025-02-21T14:25:44.410000+00:00",
-            "UpdateTime": "2025-02-21T16:10:17.971000+00:00",
-            "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 1.74,
-            "OnboardingTimeMinutes": 104.56,
             "BenchmarkMet": true
         },
         {
@@ -7412,6 +8018,15 @@
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 7.81,
             "OnboardingTimeMinutes": 468.57,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf597b3f03e61ef9221648",
+            "CreatedDate": "2025-02-26T18:12:11.947000+00:00",
+            "UpdateTime": "2025-02-26T18:33:00.496000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.35,
+            "OnboardingTimeMinutes": 20.81,
             "BenchmarkMet": true
         },
         {
@@ -7451,12 +8066,21 @@
             "BenchmarkMet": true
         },
         {
-            "UserID": "67bca609cd57d5b0c53e4a45",
-            "CreatedDate": "2025-02-24T17:02:01.534000+00:00",
-            "UpdateTime": "2025-02-24T17:52:19.910000+00:00",
+            "UserID": "67bdf55ed578a98686c509d5",
+            "CreatedDate": "2025-02-25T16:52:46.545000+00:00",
+            "UpdateTime": "2025-02-25T20:26:18.274000+00:00",
             "OnboardingTimeDays": 0,
-            "OnboardingTimeHours": 0.84,
-            "OnboardingTimeMinutes": 50.31,
+            "OnboardingTimeHours": 3.56,
+            "OnboardingTimeMinutes": 213.53,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67be1e96f90891612e34a70f",
+            "CreatedDate": "2025-02-25T19:48:38.841000+00:00",
+            "UpdateTime": "2025-02-26T17:54:52.601000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 22.1,
+            "OnboardingTimeMinutes": 1326.23,
             "BenchmarkMet": true
         },
         {
@@ -7469,12 +8093,30 @@
             "BenchmarkMet": true
         },
         {
+            "UserID": "67bf3e0f3f03e61ef9220d95",
+            "CreatedDate": "2025-02-26T16:15:11.017000+00:00",
+            "UpdateTime": "2025-02-26T16:27:29.649000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 0.21,
+            "OnboardingTimeMinutes": 12.31,
+            "BenchmarkMet": true
+        },
+        {
             "UserID": "67bb20a4111777fdd322fa34",
             "CreatedDate": "2025-02-23T13:20:36.691000+00:00",
             "UpdateTime": "2025-02-23T13:45:07.661000+00:00",
             "OnboardingTimeDays": 0,
             "OnboardingTimeHours": 0.41,
             "OnboardingTimeMinutes": 24.52,
+            "BenchmarkMet": true
+        },
+        {
+            "UserID": "67bf6487306113ea0fbb5e01",
+            "CreatedDate": "2025-02-26T18:59:19.813000+00:00",
+            "UpdateTime": "2025-02-26T20:58:35.755000+00:00",
+            "OnboardingTimeDays": 0,
+            "OnboardingTimeHours": 1.99,
+            "OnboardingTimeMinutes": 119.27,
             "BenchmarkMet": true
         },
         {

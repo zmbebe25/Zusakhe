@@ -1,0 +1,24 @@
+{
+    "TotalUsers": 1222,
+    "ProcessedUsers": 647,
+    "UnusedUsers": 575,
+    "SkippedUsers": 28,
+    "MissingActionsUsers": 547,
+    "Summary": {
+        "AverageQATime": {
+            "Days": 1.48,
+            "Hours": 35.55
+        },
+        "BenchmarkCount": {
+            "MetBenchmark (<=3 days)": 572,
+            "DidNotMeetBenchmark (>3 days)": 75
+        },
+        "QATimeGroups": {
+            "1-3 days": 115,
+            "4-7 days": 32,
+            "7-14 days": 22,
+            "14-21 days": 3,
+            "More than 21 days": 475
+        }
+    }
+}

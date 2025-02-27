@@ -5,8 +5,8 @@ import json
 
 # ✅ MongoDB Connection Details
 mongo_uri = "mongodb+srv://zusakhe:KN3VcfCsVuyafM9l@mailserver.seham.mongodb.net/test?"
-database_name = "gradesmatch_core"  
-collection_name = "user"  
+database_name = "gradesmatch_core"
+collection_name = "user"
 
 # ✅ MongoDB Connection
 client = MongoClient(mongo_uri)
@@ -39,6 +39,11 @@ utc = pytz.UTC
 benchmark_true_count = 0
 benchmark_false_count = 0
 
+# ✅ Counters for Skipped and Used Users
+total_users = len(users)
+skipped_users = 0
+processed_users = 0
+
 for user in users:
     try:
         # Extract CreatedDate and UpdateTime
@@ -56,7 +61,8 @@ for user in users:
         # 🚀 **Skip if CreatedDate is from 2024**
         if created_date.year == 2024:
             print(f"Skipping user {user['_id']} - CreatedDate is in 2024")
-            continue  
+            skipped_users += 1
+            continue  # Skip this user and move to the next one
 
         # Convert UpdateTime
         if isinstance(last_update_state, dict) and "$date" in last_update_state:
@@ -101,6 +107,8 @@ for user in users:
             "BenchmarkMet": benchmark_met
         })
 
+        processed_users += 1  # ✅ Count Users Used
+
     except Exception as e:
         print(f"Error processing user {user['_id']}: {e}")
 
@@ -114,6 +122,9 @@ else:
 
 # ✅ Final Output for Dashboard
 final_output = {
+    "TotalUsers": total_users,
+    "ProcessedUsers": processed_users,
+    "SkippedUsers": skipped_users,
     "AverageOnboardingTime": {
         "Days": round(avg_days, 2),
         "Hours": round(avg_hours, 2),
@@ -132,4 +143,8 @@ output_file = "C:/Users/zusakhe_gradesmatch/Downloads/Zusakhe-1/Review Data(Univ
 with open(output_file, "w", encoding="utf-8") as outfile:
     json.dump(final_output, outfile, indent=4)
 
+# ✅ Print Summary
 print(f"✅ Onboarding time calculations saved to {output_file}")
+print(f"Total Users: {total_users}")
+print(f"Processed Users: {processed_users}")
+print(f"Skipped Users: {skipped_users}")

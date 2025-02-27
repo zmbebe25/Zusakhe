@@ -1,16 +1,16 @@
 {
     "StageCounts": {
-        "Stage 1(Signups)": 11870,
-        "Stage 2(School,PreferredQualifications)": 8218,
-        "Stage 3(School,PreferredQualifications,AdditionalDetails)": 8218,
-        "Stage 4(School,PreferredQualifications,AdditionalDetails,TotalDocs)": 6705,
-        "Stage 5(School,PreferredQualifications,AdditionalDetails,TotalDocs,State:Staging& Approved Strategy)": 1237
+        "Stage 1(Signups)": 12203,
+        "Stage 2(School,PreferredQualifications)": 8516,
+        "Stage 3(School,PreferredQualifications,AdditionalDetails)": 8516,
+        "Stage 4(School,PreferredQualifications,AdditionalDetails,TotalDocs)": 6899,
+        "Stage 5(School,PreferredQualifications,AdditionalDetails,TotalDocs,State:Staging& Approved Strategy)": 1344
     },
     "DropOffRates": {
         "Stage 1(Signups)": 0.0,
-        "Stage 2(School,PreferredQualifications)": 30.77,
-        "Stage 3(School,PreferredQualifications,AdditionalDetails)": 30.77,
-        "Stage 4(School,PreferredQualifications,AdditionalDetails,TotalDocs)": 43.51,
-        "Stage 5(School,PreferredQualifications,AdditionalDetails,TotalDocs,State:Staging& Approved Strategy)": 89.58
+        "Stage 2(School,PreferredQualifications)": 30.21,
+        "Stage 3(School,PreferredQualifications,AdditionalDetails)": 30.21,
+        "Stage 4(School,PreferredQualifications,AdditionalDetails,TotalDocs)": 43.46,
+        "Stage 5(School,PreferredQualifications,AdditionalDetails,TotalDocs,State:Staging& Approved Strategy)": 88.99
     }
 }

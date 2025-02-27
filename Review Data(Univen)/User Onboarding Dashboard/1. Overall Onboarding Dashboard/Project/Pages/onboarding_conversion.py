@@ -22,14 +22,13 @@ state_change_collection = db_analytics["state_change"]
 start_of_2025 = datetime(2025, 1, 1, tzinfo=timezone.utc)
 
 # ✅ Fetch Counts from MongoDB
-total_signups = users_collection.count_documents({"ApplicationYear": 2025, "Source": "bridge_client"})
+total_signups = users_collection.count_documents({"ApplicationYear": 2025, "BridgeApplicant": True})
 
 onboarding_start = users_collection.count_documents({
     "ApplicationYear": 2025,
     "School": {"$ne": None},
     "PreferredQualifications": {"$ne": None},
-    "AdditionalDetails": {"$ne": None},
-    "LastUpdateState": {"$gte": start_of_2025}
+    "AdditionalDetails": {"$ne": None}
 })
 
 approved_learners = state_change_collection.count_documents({
@@ -147,14 +146,34 @@ layout = html.Div([
     # ✅ Onboarding Time Analysis
     html.Div([
         html.H3("Sign-up → Onboarding Start Average Time"),
-        html.P(f"⏳ Average Time: {avg_onboarding_time['Days']} Days"),
+        
+        # Display Key Metrics
+        html.P(f"📌 Total Users: {onboarding_data.get('TotalUsers', 0)}"),
+        html.P(f"📌 Processed Users: {onboarding_data.get('ProcessedUsers', 0)}"),
+        html.P(f"📌 Skipped Users: {onboarding_data.get('SkippedUsers', 0)}",
+            style={'color': 'red', 'fontWeight': 'bold'}),  # Highlight Skipped Users
+
+        html.P(f"⏳ Average Time: {avg_onboarding_time['Days']} Days",
+            style={'fontSize': '18px', 'fontWeight': 'bold'}),
+
         dcc.Graph(figure=onboarding_chart)
     ], style={'marginBottom': '30px'}),
+
 
     # ✅ QA Time Analysis
     html.Div([
         html.H3("Onboarding → Approval Average Time"),
-        html.P(f"⏳ Average Time: {avg_qa_time['Days']} Days"),
+        
+        # Display Key Metrics
+        html.P(f"📌 Total Users: {qa_time_data.get('TotalUsers', 0)}"),
+        html.P(f"📌 Processed Users: {qa_time_data.get('ProcessedUsers', 0)}"),
+        html.P(f"📌 Unused Users: {qa_time_data.get('UnusedUsers', 0)}",
+            style={'color': 'red', 'fontWeight': 'bold'}),  # Highlight Unused Users
+        
+        html.P(f"⏳ Average Time: {avg_qa_time['Days']} Days",
+            style={'fontSize': '18px', 'fontWeight': 'bold'}),
+        
         dcc.Graph(figure=qa_time_chart)
-    ])
+    ], style={'marginBottom': '30px'}),
+
 ])

@@ -20,7 +20,7 @@ filter_query = {
     "PreferredQualifications": {"$ne": None},
     "AdditionalDetails": {"$ne": None},
     "TotalDocs": {"$ne": None},
-    "State": "QA"
+    "State": "Staging"
 }
 
 # ✅ Fetch Users Matching the Query

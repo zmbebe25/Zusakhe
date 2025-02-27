@@ -5,26 +5,54 @@ import dash_bootstrap_components as dbc
 # ✅ Initialize Dash App with Multi-Page Support
 app = dash.Dash(__name__, use_pages=True, external_stylesheets=[dbc.themes.BOOTSTRAP])
 
-# ✅ Layout for Navigation
-app.layout = dbc.Container([
-    dbc.NavbarSimple(
-        brand="User Onboarding Dashboard",
-        brand_href="/",
-        color="primary",
-        dark=True,
-    ),
-    html.Div([
-        dcc.Link("Home | ", href="/"),
-        dcc.Link("Onboarding Funnel | ", href="/onboarding-funnel"),
-        dcc.Link("Conversion Rates | ", href="/onboarding-conversion"),
-        dcc.Link("Onboarding & QA | ", href="/onboarding-qa"),
-        dcc.Link("Approval Process | ", href="/approval-process"),  
-        dcc.Link("Application Progress | ", href="/application-progress"),  # ✅ NEW PAGE
-        dcc.Link("Stuck Users & Regions", href="/stuck-regions"),
-    ], style={'textAlign': 'center', 'padding': '10px'}),
+# ✅ Sidebar Layout (Fixed & Well-Fitted)
+sidebar = html.Div(
+    [
+        html.H2("User Onboarding Dashboard", className="display-6", style={'marginBottom': '20px', 'textAlign': 'center'}),
+        html.Hr(),
+        dbc.Nav(
+            [
+                dbc.NavLink("🏠 Home", href="/", active="exact"),
+                dbc.NavLink("📊 Onboarding Funnel", href="/onboarding-funnel", active="exact"),
+                dbc.NavLink("📈 Conversion Rates", href="/onboarding-conversion", active="exact"),
+                dbc.NavLink("🔍 Onboarding & QA", href="/onboarding-qa", active="exact"),
+                dbc.NavLink("✅ Approval Process", href="/approval-process", active="exact"),
+                dbc.NavLink("📂 Application Progress", href="/application-progress", active="exact"),
+                dbc.NavLink("⚠️ Stuck Users & Regions", href="/stuck-regions", active="exact"),
+            ],
+            vertical=True,
+            pills=True,
+        ),
+    ],
+    style={
+        "position": "fixed",
+        "top": 0,
+        "left": 0,
+        "bottom": 0,
+        "width": "250px",  # ✅ Adjusted width
+        "padding": "20px",
+        "backgroundColor": "#f8f9fa",  # ✅ Light Grey for a clean look
+        "borderRight": "2px solid #ddd"  # ✅ Adds a nice separation
+    }
+)
 
-    dash.page_container  # ✅ This renders the correct page dynamically
-])
+# ✅ Main Content Layout (White Background)
+content = html.Div(
+    [
+        dbc.Container(
+            [
+                html.Br(),
+                dash.page_container  # ✅ Dynamically renders the current page
+            ],
+            fluid=True,
+            style={"marginLeft": "270px", "padding": "20px", "backgroundColor": "white"}  # ✅ White Background
+        )
+    ]
+)
 
+# ✅ Define App Layout
+app.layout = html.Div([sidebar, content])
+
+# ✅ Run the App
 if __name__ == '__main__':
     app.run_server(debug=True, host="0.0.0.0")
