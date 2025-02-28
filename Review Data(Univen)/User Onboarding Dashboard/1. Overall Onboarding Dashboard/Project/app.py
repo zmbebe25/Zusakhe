@@ -19,6 +19,8 @@ sidebar = html.Div(
                 dbc.NavLink("✅ Approval Process", href="/approval-process", active="exact"),
                 dbc.NavLink("📂 Application Progress", href="/application-progress", active="exact"),
                 dbc.NavLink("⚠️ Stuck Users & Regions", href="/stuck-regions", active="exact"),
+                dbc.NavLink("📅 Weekly Updates", href="/weekly-updates", active="exact"),  # ✅ Add this line
+
             ],
             vertical=True,
             pills=True,

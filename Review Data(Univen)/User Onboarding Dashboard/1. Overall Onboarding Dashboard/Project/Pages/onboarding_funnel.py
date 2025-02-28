@@ -88,42 +88,27 @@ funnel_fig = px.funnel(
     title="📊 Onboarding Funnel",
 )
 
-# ✅ Drop-Off Heatmap
-heatmap_data = pd.DataFrame({
-    "Stage": funnel_data["Stage"].iloc[:-1],  # Exclude last stage
-    "Drop-Off Rate (%)": funnel_data["Conversion Rate (%)"].iloc[:-1]
-})
-
-heatmap_fig = px.bar(
-    heatmap_data,
-    x="Stage",
-    y="Drop-Off Rate (%)",
-    title="🔥 Drop-Off Heatmap",
-    color="Drop-Off Rate (%)",
-    color_continuous_scale="Reds"
-)
-
-# ✅ Dummy Data for Trend Line (Replace with actual MongoDB aggregation)
-trend_data = pd.DataFrame({
-    "Date": pd.date_range(start="2025-01-01", periods=10, freq="D"),
-    "Conversion Rate (%)": [30, 35, 40, 50, 55, 60, 65, 70, 75, 80]
-})
-
-trend_fig = px.line(
-    trend_data,
-    x="Date",
-    y="Conversion Rate (%)",
-    title="📈 Conversion Trends Over Time",
-    markers=True
-)
 
 # ✅ Layout for Dashboard
 layout = html.Div([
-    html.H1("Onboarding Funnel Dashboard", style={'textAlign': 'center'}),
+    html.H1("Onboarding Funnel Dashboard", style={'textAlign': 'center', 'marginBottom': '20px'}),
+
+    # ✅ Onboarding Funnel Definition
+    html.Div([
+        html.H3("📌 Onboarding Funnel Definition", style={'textAlign': 'center', 'color': '#2c3e50', 'fontWeight': 'bold'}),
+        html.P(
+            "The Onboarding Funnel represents the step-by-step journey of users from initial registration to full completion of the process. "
+            "It tracks user engagement across key milestones—Sign-Ups, Onboarding, Profile Approval, and Application Submission—highlighting "
+            "conversion rates and identifying drop-off points. This helps in visualizing where users disengage, optimizing the onboarding "
+            "experience, and improving overall conversion rates.",
+            style={'textAlign': 'center', 'color': '#34495e', 'fontSize': '16px'}
+        ),
+    ], style={'marginBottom': '30px', 'padding': '20px', 'backgroundColor': '#f8f9fa', 'borderRadius': '10px'}),
 
     # ✅ Funnel Chart
     html.Div([
-        html.H3("User Journey Drop-Off"),
+        html.H3("📊 User Journey Drop-Off", style={'textAlign': 'center'}),
         dcc.Graph(figure=funnel_fig)
-    ], style={'marginBottom': '30px'})
+    ], style={'marginBottom': '30px'}),
+
 ])

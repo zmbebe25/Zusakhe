@@ -49,6 +49,14 @@
             "QATimeDays": 9.1
         },
         {
+            "onBehalfOf": "67b8641c2105ca3404b565a5",
+            "DoneByLearnerTime": "2025-02-24T01:07:15.816000+00:00",
+            "QAActionTime": "2025-02-24T23:05:20.540000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 21.97,
+            "QATimeDays": 0.92
+        },
+        {
             "onBehalfOf": "67b6f4f15738a49540126806",
             "DoneByLearnerTime": "2025-02-20T13:53:28.231000+00:00",
             "QAActionTime": "2025-02-24T17:57:10.797000+00:00",
@@ -127,6 +135,14 @@
             "QAAction": "Updated state to Staging from Onboarding",
             "QATimeHours": 14.47,
             "QATimeDays": 0.6
+        },
+        {
+            "onBehalfOf": "67b6ea02f26095a0630d9476",
+            "DoneByLearnerTime": "2025-02-24T14:53:54.972000+00:00",
+            "QAActionTime": "2025-02-25T03:30:15.231000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 12.61,
+            "QATimeDays": 0.53
         },
         {
             "onBehalfOf": "679d3adc2e4a87341a1415ce",
@@ -223,14 +239,6 @@
             "QAAction": "Updated state to Staging from QA",
             "QATimeHours": 29.95,
             "QATimeDays": 1.25
-        },
-        {
-            "onBehalfOf": "679836518a1b310ee1ac8fb2",
-            "DoneByLearnerTime": "2025-01-28T02:02:54.285000+00:00",
-            "QAActionTime": "2025-01-29T00:10:44.706000+00:00",
-            "QAAction": "Updated state to Staging from Onboarding",
-            "QATimeHours": 22.13,
-            "QATimeDays": 0.92
         },
         {
             "onBehalfOf": "6797951a0c62097d0f54d05a",
@@ -361,6 +369,14 @@
             "QATimeDays": 3.88
         },
         {
+            "onBehalfOf": "67ada2fa1f174288c694b1e5",
+            "DoneByLearnerTime": "2025-02-25T15:13:15.368000+00:00",
+            "QAActionTime": "2025-02-26T20:35:53.476000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 29.38,
+            "QATimeDays": 1.22
+        },
+        {
             "onBehalfOf": "6794f4c70b12162e899b377e",
             "DoneByLearnerTime": "2025-01-26T08:06:11.764000+00:00",
             "QAActionTime": "2025-01-27T19:39:20.085000+00:00",
@@ -399,6 +415,14 @@
             "QAAction": "Updated state to Staging from QA",
             "QATimeHours": 98.49,
             "QATimeDays": 4.1
+        },
+        {
+            "onBehalfOf": "67b41ad13c1da501f016d27b",
+            "DoneByLearnerTime": "2025-02-19T05:05:46.304000+00:00",
+            "QAActionTime": "2025-02-26T18:00:20.688000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 180.91,
+            "QATimeDays": 7.54
         },
         {
             "onBehalfOf": "67980405aa45decf1a24ed33",
@@ -481,6 +505,14 @@
             "QATimeDays": 2.87
         },
         {
+            "onBehalfOf": "6798a9499605ac2944b8eab0",
+            "DoneByLearnerTime": "2025-01-28T14:20:00.876000+00:00",
+            "QAActionTime": "2025-02-26T18:11:24.262000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 699.86,
+            "QATimeDays": 29.16
+        },
+        {
             "onBehalfOf": "6798a9fed620708a506c9b2c",
             "DoneByLearnerTime": "2025-01-31T17:01:21.517000+00:00",
             "QAActionTime": "2025-02-25T21:20:54.855000+00:00",
@@ -519,6 +551,14 @@
             "QAAction": "Updated state to Staging from QA Failed",
             "QATimeHours": 42.97,
             "QATimeDays": 1.79
+        },
+        {
+            "onBehalfOf": "67a4b7f9f16de32a7224efbf",
+            "DoneByLearnerTime": "2025-02-06T13:53:57.733000+00:00",
+            "QAActionTime": "2025-02-11T01:17:06.537000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 107.39,
+            "QATimeDays": 4.47
         },
         {
             "onBehalfOf": "67b0e5a5a43a336485cb3bb6",
@@ -665,6 +705,14 @@
             "QATimeDays": 1.86
         },
         {
+            "onBehalfOf": "67b70b99914a10fd732cfdb4",
+            "DoneByLearnerTime": "2025-02-21T02:22:12.704000+00:00",
+            "QAActionTime": "2025-02-25T20:44:44.305000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 114.38,
+            "QATimeDays": 4.77
+        },
+        {
             "onBehalfOf": "678fb398505208965751d558",
             "DoneByLearnerTime": "2025-01-21T14:57:00.942000+00:00",
             "QAActionTime": "2025-01-23T11:41:44.021000+00:00",
@@ -799,6 +847,14 @@
             "QAAction": "Updated state to Staging from QA",
             "QATimeHours": 3.86,
             "QATimeDays": 0.16
+        },
+        {
+            "onBehalfOf": "67a7a5807122ecabfb4ed375",
+            "DoneByLearnerTime": "2025-02-17T16:41:55.682000+00:00",
+            "QAActionTime": "2025-02-26T18:03:22.148000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 217.36,
+            "QATimeDays": 9.06
         },
         {
             "onBehalfOf": "67a85750cd190b5ed13433ac",
@@ -1121,6 +1177,14 @@
             "QATimeDays": 4.54
         },
         {
+            "onBehalfOf": "67bad6267c118649d8972d63",
+            "DoneByLearnerTime": "2025-02-24T14:02:57.670000+00:00",
+            "QAActionTime": "2025-02-24T22:02:20.191000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 7.99,
+            "QATimeDays": 0.33
+        },
+        {
             "onBehalfOf": "67964740e757e3560b462aef",
             "DoneByLearnerTime": "2025-01-26T15:00:47.578000+00:00",
             "QAActionTime": "2025-01-28T00:04:54.801000+00:00",
@@ -1135,6 +1199,14 @@
             "QAAction": "Updated state to Staging from Onboarding",
             "QATimeHours": 48.28,
             "QATimeDays": 2.01
+        },
+        {
+            "onBehalfOf": "67c018019e3387f6d80eb8d4",
+            "DoneByLearnerTime": "2025-02-27T08:17:43.003000+00:00",
+            "QAActionTime": "2025-02-27T17:46:30.784000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 9.48,
+            "QATimeDays": 0.39
         },
         {
             "onBehalfOf": "678a7233e135ba9fea06f4bb",
@@ -1329,12 +1401,28 @@
             "QATimeDays": 2.13
         },
         {
+            "onBehalfOf": "67bcefdb6309a9322ea4de23",
+            "DoneByLearnerTime": "2025-02-24T22:45:03.281000+00:00",
+            "QAActionTime": "2025-02-25T21:44:37.736000+00:00",
+            "QAAction": "Updated state to Staging from Low Maths",
+            "QATimeHours": 22.99,
+            "QATimeDays": 0.96
+        },
+        {
             "onBehalfOf": "67b501cbf4429305634850ab",
             "DoneByLearnerTime": "2025-02-19T10:17:58.432000+00:00",
             "QAActionTime": "2025-02-19T18:12:20.548000+00:00",
             "QAAction": "Updated state to Staging from QA",
             "QATimeHours": 7.91,
             "QATimeDays": 0.33
+        },
+        {
+            "onBehalfOf": "67b6f2c25738a4954012676a",
+            "DoneByLearnerTime": "2025-02-21T06:42:31.982000+00:00",
+            "QAActionTime": "2025-02-26T17:01:31.107000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 130.32,
+            "QATimeDays": 5.43
         },
         {
             "onBehalfOf": "67a326dfe002259af095b06f",
@@ -1369,12 +1457,28 @@
             "QATimeDays": 1.15
         },
         {
+            "onBehalfOf": "67bf21dff90891612e34ba54",
+            "DoneByLearnerTime": "2025-02-26T14:38:04.830000+00:00",
+            "QAActionTime": "2025-02-27T21:24:46.629000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 30.78,
+            "QATimeDays": 1.28
+        },
+        {
             "onBehalfOf": "67964e2be757e3560b462bd0",
             "DoneByLearnerTime": "2025-02-08T03:34:39.692000+00:00",
             "QAActionTime": "2025-02-10T16:09:54.355000+00:00",
             "QAAction": "Updated state to Staging from QA",
             "QATimeHours": 60.59,
             "QATimeDays": 2.52
+        },
+        {
+            "onBehalfOf": "67b77ecbf24828a4bb0cfbf7",
+            "DoneByLearnerTime": "2025-02-21T16:32:16.068000+00:00",
+            "QAActionTime": "2025-02-25T01:33:20.209000+00:00",
+            "QAAction": "Updated state to Staging from Low Maths",
+            "QATimeHours": 81.02,
+            "QATimeDays": 3.38
         },
         {
             "onBehalfOf": "67a5aabcf16de32a7225081a",
@@ -1449,6 +1553,14 @@
             "QATimeDays": 1.34
         },
         {
+            "onBehalfOf": "67b60904101dafad29390231",
+            "DoneByLearnerTime": "2025-02-25T22:54:53.238000+00:00",
+            "QAActionTime": "2025-02-26T15:58:37.146000+00:00",
+            "QAAction": "Updated state to Staging from Draft Strategy",
+            "QATimeHours": 17.06,
+            "QATimeDays": 0.71
+        },
+        {
             "onBehalfOf": "67b5ce7a5873e51b5b90ef06",
             "DoneByLearnerTime": "2025-02-19T14:56:27.221000+00:00",
             "QAActionTime": "2025-02-20T17:45:53.618000+00:00",
@@ -1497,6 +1609,14 @@
             "QATimeDays": 0.39
         },
         {
+            "onBehalfOf": "67b5d3d4e61455f3dc74f291",
+            "DoneByLearnerTime": "2025-02-20T10:03:48.898000+00:00",
+            "QAActionTime": "2025-02-22T00:07:35.745000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 38.06,
+            "QATimeDays": 1.59
+        },
+        {
             "onBehalfOf": "67951b120b12162e899b3c28",
             "DoneByLearnerTime": "2025-02-16T20:54:10.325000+00:00",
             "QAActionTime": "2025-02-18T17:48:43.917000+00:00",
@@ -1511,6 +1631,14 @@
             "QAAction": "Updated state to Staging from QA",
             "QATimeHours": 140.18,
             "QATimeDays": 5.84
+        },
+        {
+            "onBehalfOf": "67b70632bd7ab7083e0c9116",
+            "DoneByLearnerTime": "2025-02-21T04:37:25.616000+00:00",
+            "QAActionTime": "2025-02-24T05:41:56.279000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 73.08,
+            "QATimeDays": 3.04
         },
         {
             "onBehalfOf": "6798b2240717da6b4c3f2bbc",
@@ -1535,6 +1663,14 @@
             "QAAction": "Updated state to Staging from QA",
             "QATimeHours": 29.39,
             "QATimeDays": 1.22
+        },
+        {
+            "onBehalfOf": "67b64d41f442930563488810",
+            "DoneByLearnerTime": "2025-02-19T22:06:18.438000+00:00",
+            "QAActionTime": "2025-02-20T19:20:11.156000+00:00",
+            "QAAction": "Updated state to Staging from Low Maths",
+            "QATimeHours": 21.23,
+            "QATimeDays": 0.88
         },
         {
             "onBehalfOf": "679b660bc343b52c128bf457",
@@ -1583,6 +1719,22 @@
             "QAAction": "Updated state to Staging from QA",
             "QATimeHours": 75.71,
             "QATimeDays": 3.15
+        },
+        {
+            "onBehalfOf": "67b87a8d2105ca3404b568e0",
+            "DoneByLearnerTime": "2025-02-21T13:38:49.792000+00:00",
+            "QAActionTime": "2025-02-24T20:35:19.869000+00:00",
+            "QAAction": "Updated state to Staging from Onboarding",
+            "QATimeHours": 78.94,
+            "QATimeDays": 3.29
+        },
+        {
+            "onBehalfOf": "67be1b044e2e72b891cc15fb",
+            "DoneByLearnerTime": "2025-02-26T10:47:42.195000+00:00",
+            "QAActionTime": "2025-02-26T17:24:03.807000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 6.61,
+            "QATimeDays": 0.28
         },
         {
             "onBehalfOf": "6620b17d3441d5360cb21ee6",
@@ -1665,6 +1817,14 @@
             "QATimeDays": 4.83
         },
         {
+            "onBehalfOf": "67b5ba96101dafad2938eff4",
+            "DoneByLearnerTime": "2025-02-21T11:08:37.499000+00:00",
+            "QAActionTime": "2025-02-24T21:45:50.761000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 82.62,
+            "QATimeDays": 3.44
+        },
+        {
             "onBehalfOf": "67b5c1e6101dafad2938f351",
             "DoneByLearnerTime": "2025-02-22T17:39:19.938000+00:00",
             "QAActionTime": "2025-02-24T22:39:30.152000+00:00",
@@ -1687,6 +1847,14 @@
             "QAAction": "Updated state to Staging from Low Maths",
             "QATimeHours": 71.52,
             "QATimeDays": 2.98
+        },
+        {
+            "onBehalfOf": "67b9569df23a09ffc12f41c2",
+            "DoneByLearnerTime": "2025-02-25T17:11:59.204000+00:00",
+            "QAActionTime": "2025-02-26T16:11:54.039000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 23.0,
+            "QATimeDays": 0.96
         },
         {
             "onBehalfOf": "67bb0678663305793019404b",
@@ -1727,6 +1895,14 @@
             "QAAction": "Updated state to Staging from Low Maths",
             "QATimeHours": 333.61,
             "QATimeDays": 13.9
+        },
+        {
+            "onBehalfOf": "67b66e82f4429305634888f9",
+            "DoneByLearnerTime": "2025-02-20T00:44:10.775000+00:00",
+            "QAActionTime": "2025-02-20T19:26:15.358000+00:00",
+            "QAAction": "Updated state to Staging from Low Maths",
+            "QATimeHours": 18.7,
+            "QATimeDays": 0.78
         },
         {
             "onBehalfOf": "6795eb6c17459ea9e26bd852",
@@ -1777,6 +1953,14 @@
             "QATimeDays": 2.66
         },
         {
+            "onBehalfOf": "67bd493f922b8c2a5bc6d1c1",
+            "DoneByLearnerTime": "2025-02-25T04:59:31.222000+00:00",
+            "QAActionTime": "2025-02-25T23:50:51.719000+00:00",
+            "QAAction": "Updated state to Staging from Low Maths",
+            "QATimeHours": 18.86,
+            "QATimeDays": 0.79
+        },
+        {
             "onBehalfOf": "6798bbfab8525ee083fd9176",
             "DoneByLearnerTime": "2025-01-28T14:07:01.431000+00:00",
             "QAActionTime": "2025-01-28T20:22:40.465000+00:00",
@@ -1791,6 +1975,14 @@
             "QAAction": "Updated state to Staging from Onboarding",
             "QATimeHours": 117.25,
             "QATimeDays": 4.89
+        },
+        {
+            "onBehalfOf": "67b0da01c427dc6d2b69d57f",
+            "DoneByLearnerTime": "2025-02-15T18:35:17.191000+00:00",
+            "QAActionTime": "2025-02-18T16:39:47.490000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 70.08,
+            "QATimeDays": 2.92
         },
         {
             "onBehalfOf": "67b5f456f44293056348813a",
@@ -1839,6 +2031,14 @@
             "QAAction": "Updated state to Staging from Low Maths",
             "QATimeHours": 279.73,
             "QATimeDays": 11.66
+        },
+        {
+            "onBehalfOf": "67b767bd2e19cefb4236e5b2",
+            "DoneByLearnerTime": "2025-02-20T17:58:55.251000+00:00",
+            "QAActionTime": "2025-02-24T21:56:58.616000+00:00",
+            "QAAction": "Updated state to Staging from Low Maths",
+            "QATimeHours": 99.97,
+            "QATimeDays": 4.17
         },
         {
             "onBehalfOf": "67bbe1653b23c0721b885f20",
@@ -1905,6 +2105,14 @@
             "QATimeDays": 1.0
         },
         {
+            "onBehalfOf": "67b75302914a10fd732d04fc",
+            "DoneByLearnerTime": "2025-02-21T11:01:37.586000+00:00",
+            "QAActionTime": "2025-02-25T20:41:07.858000+00:00",
+            "QAAction": "Updated state to Staging from Low Maths",
+            "QATimeHours": 105.66,
+            "QATimeDays": 4.4
+        },
+        {
             "onBehalfOf": "67b61470f4429305634883b4",
             "DoneByLearnerTime": "2025-02-20T06:18:53.278000+00:00",
             "QAActionTime": "2025-02-20T18:13:34.269000+00:00",
@@ -1937,12 +2145,28 @@
             "QATimeDays": 1.46
         },
         {
+            "onBehalfOf": "67b19d1f1e703d9959ef8c23",
+            "DoneByLearnerTime": "2025-02-21T12:59:03.942000+00:00",
+            "QAActionTime": "2025-02-21T15:48:50.789000+00:00",
+            "QAAction": "Updated state to Staging from Low Maths",
+            "QATimeHours": 2.83,
+            "QATimeDays": 0.12
+        },
+        {
             "onBehalfOf": "67a3b3df933488035bc04aaf",
             "DoneByLearnerTime": "2025-02-05T19:56:39.858000+00:00",
             "QAActionTime": "2025-02-10T20:23:40.921000+00:00",
             "QAAction": "Updated state to Staging from QA",
             "QATimeHours": 120.45,
             "QATimeDays": 5.02
+        },
+        {
+            "onBehalfOf": "67bee402306113ea0fbb4ae3",
+            "DoneByLearnerTime": "2025-02-26T10:47:44.119000+00:00",
+            "QAActionTime": "2025-02-26T16:18:29.818000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 5.51,
+            "QATimeDays": 0.23
         },
         {
             "onBehalfOf": "67b76318966e3c86dbd2b86a",
@@ -2025,12 +2249,36 @@
             "QATimeDays": 4.01
         },
         {
+            "onBehalfOf": "67b7260b070eb85dbb13af92",
+            "DoneByLearnerTime": "2025-02-20T15:13:06.411000+00:00",
+            "QAActionTime": "2025-02-21T19:09:40.280000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 27.94,
+            "QATimeDays": 1.16
+        },
+        {
+            "onBehalfOf": "679ba0d1bc18b37761b165db",
+            "DoneByLearnerTime": "2025-02-24T16:53:10.634000+00:00",
+            "QAActionTime": "2025-02-25T20:51:22.605000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 27.97,
+            "QATimeDays": 1.17
+        },
+        {
             "onBehalfOf": "6797ac0a9605ac2944b8cc2a",
             "DoneByLearnerTime": "2025-02-03T05:46:16.049000+00:00",
             "QAActionTime": "2025-02-03T15:19:50.185000+00:00",
             "QAAction": "Updated state to Staging from QA",
             "QATimeHours": 9.56,
             "QATimeDays": 0.4
+        },
+        {
+            "onBehalfOf": "67bc3aee0e0852ae1cd3617a",
+            "DoneByLearnerTime": "2025-02-24T09:56:26.484000+00:00",
+            "QAActionTime": "2025-02-26T17:00:04.488000+00:00",
+            "QAAction": "Updated state to Staging from Low Maths",
+            "QATimeHours": 55.06,
+            "QATimeDays": 2.29
         },
         {
             "onBehalfOf": "67950f900b12162e899b3b18",
@@ -2257,6 +2505,14 @@
             "QATimeDays": 0.33
         },
         {
+            "onBehalfOf": "678e3c42cb4906911f2c0930",
+            "DoneByLearnerTime": "2025-01-20T13:54:15.431000+00:00",
+            "QAActionTime": "2025-01-22T09:19:48.579000+00:00",
+            "QAAction": "Updated state to Staging from Low Maths",
+            "QATimeHours": 43.43,
+            "QATimeDays": 1.81
+        },
+        {
             "onBehalfOf": "67bb3828004871fd97745cbf",
             "DoneByLearnerTime": "2025-02-23T15:35:20.662000+00:00",
             "QAActionTime": "2025-02-24T19:47:55.154000+00:00",
@@ -2281,6 +2537,14 @@
             "QATimeDays": 3.5
         },
         {
+            "onBehalfOf": "67bed98b3f03e61ef921ff16",
+            "DoneByLearnerTime": "2025-02-26T12:03:47.633000+00:00",
+            "QAActionTime": "2025-02-26T20:38:01.592000+00:00",
+            "QAAction": "Updated state to Staging from Low Maths",
+            "QATimeHours": 8.57,
+            "QATimeDays": 0.36
+        },
+        {
             "onBehalfOf": "6799d0a30e0266f38a26a14c",
             "DoneByLearnerTime": "2025-01-29T07:13:16.260000+00:00",
             "QAActionTime": "2025-01-31T21:15:45.037000+00:00",
@@ -2295,6 +2559,14 @@
             "QAAction": "Updated state to Staging from QA",
             "QATimeHours": 30.5,
             "QATimeDays": 1.27
+        },
+        {
+            "onBehalfOf": "67b6ed815738a49540126608",
+            "DoneByLearnerTime": "2025-02-20T09:35:14.404000+00:00",
+            "QAActionTime": "2025-02-20T23:00:43.837000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 13.42,
+            "QATimeDays": 0.56
         },
         {
             "onBehalfOf": "67974c0ae757e3560b46532b",
@@ -2313,6 +2585,14 @@
             "QATimeDays": 4.24
         },
         {
+            "onBehalfOf": "67bcc769426d3b620741cb9d",
+            "DoneByLearnerTime": "2025-02-25T07:19:25.053000+00:00",
+            "QAActionTime": "2025-02-25T21:34:40.118000+00:00",
+            "QAAction": "Updated state to Staging from Onboarding",
+            "QATimeHours": 14.25,
+            "QATimeDays": 0.59
+        },
+        {
             "onBehalfOf": "67a3bd32ff73998922ba505a",
             "DoneByLearnerTime": "2025-02-11T12:11:09.048000+00:00",
             "QAActionTime": "2025-02-11T20:16:21.983000+00:00",
@@ -2327,6 +2607,14 @@
             "QAAction": "Updated state to Staging from Low Maths",
             "QATimeHours": 59.69,
             "QATimeDays": 2.49
+        },
+        {
+            "onBehalfOf": "67b6f7e7d963c5ed7040890c",
+            "DoneByLearnerTime": "2025-02-20T09:59:23.264000+00:00",
+            "QAActionTime": "2025-02-26T19:50:22.726000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 153.85,
+            "QATimeDays": 6.41
         },
         {
             "onBehalfOf": "679514cd4e78c866ff34b720",
@@ -2399,6 +2687,14 @@
             "QAAction": "Updated state to Staging from Low Maths",
             "QATimeHours": 14.03,
             "QATimeDays": 0.58
+        },
+        {
+            "onBehalfOf": "67b5e995e61455f3dc74f917",
+            "DoneByLearnerTime": "2025-02-21T08:31:11.149000+00:00",
+            "QAActionTime": "2025-02-24T20:48:24.293000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 84.29,
+            "QATimeDays": 3.51
         },
         {
             "onBehalfOf": "67ab2f90382a78837ac89d0d",
@@ -3193,6 +3489,14 @@
             "QATimeDays": 4.25
         },
         {
+            "onBehalfOf": "67be1f006621017c2d17b8e6",
+            "DoneByLearnerTime": "2025-02-25T20:10:52.985000+00:00",
+            "QAActionTime": "2025-02-26T20:46:44.987000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 24.6,
+            "QATimeDays": 1.02
+        },
+        {
             "onBehalfOf": "679934690717da6b4c3f41ac",
             "DoneByLearnerTime": "2025-02-04T16:34:16.933000+00:00",
             "QAActionTime": "2025-02-05T14:18:16.010000+00:00",
@@ -3441,12 +3745,28 @@
             "QATimeDays": 1.09
         },
         {
+            "onBehalfOf": "679a4138bc18b37761b11b2c",
+            "DoneByLearnerTime": "2025-02-26T22:50:01.053000+00:00",
+            "QAActionTime": "2025-02-27T19:24:15.880000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 20.57,
+            "QATimeDays": 0.86
+        },
+        {
             "onBehalfOf": "679a4206684fc630e9bd5c26",
             "DoneByLearnerTime": "2025-01-30T16:15:54.532000+00:00",
             "QAActionTime": "2025-01-30T23:43:11.900000+00:00",
             "QAAction": "Updated state to Staging from Low Maths",
             "QATimeHours": 7.45,
             "QATimeDays": 0.31
+        },
+        {
+            "onBehalfOf": "679a5649bc18b37761b11dad",
+            "DoneByLearnerTime": "2025-02-25T17:26:51.732000+00:00",
+            "QAActionTime": "2025-02-26T16:58:23.385000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 23.53,
+            "QATimeDays": 0.98
         },
         {
             "onBehalfOf": "679a59c1935a8b4588a9ecff",
@@ -3513,6 +3833,14 @@
             "QATimeDays": 2.97
         },
         {
+            "onBehalfOf": "679e4d3aaa60e449218b4375",
+            "DoneByLearnerTime": "2025-02-01T16:52:38.170000+00:00",
+            "QAActionTime": "2025-02-03T14:20:43.582000+00:00",
+            "QAAction": "Updated state to Staging from Onboarding",
+            "QATimeHours": 45.47,
+            "QATimeDays": 1.89
+        },
+        {
             "onBehalfOf": "679e55a3aa60e449218b43d7",
             "DoneByLearnerTime": "2025-02-01T17:38:01.640000+00:00",
             "QAActionTime": "2025-02-03T12:55:42.795000+00:00",
@@ -3551,6 +3879,14 @@
             "QAAction": "Updated state to Staging from Low Maths",
             "QATimeHours": 30.12,
             "QATimeDays": 1.25
+        },
+        {
+            "onBehalfOf": "67bc10a170062cd8632115e9",
+            "DoneByLearnerTime": "2025-02-24T21:55:24.602000+00:00",
+            "QAActionTime": "2025-02-26T17:14:08.006000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 43.31,
+            "QATimeDays": 1.8
         },
         {
             "onBehalfOf": "6729b5b1e37b0afb003479dc",
@@ -3689,6 +4025,14 @@
             "QATimeDays": 1.21
         },
         {
+            "onBehalfOf": "67b0fad48d1085efd69c6bdf",
+            "DoneByLearnerTime": "2025-02-15T20:55:44.811000+00:00",
+            "QAActionTime": "2025-02-17T19:06:07.716000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 46.17,
+            "QATimeDays": 1.92
+        },
+        {
             "onBehalfOf": "679756d017459ea9e26c0747",
             "DoneByLearnerTime": "2025-01-27T10:32:35.034000+00:00",
             "QAActionTime": "2025-01-28T12:45:58.353000+00:00",
@@ -3729,12 +4073,28 @@
             "QATimeDays": 2.21
         },
         {
+            "onBehalfOf": "67bf4fb43f03e61ef92215a6",
+            "DoneByLearnerTime": "2025-02-26T17:51:24.465000+00:00",
+            "QAActionTime": "2025-02-27T20:07:44.343000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 26.27,
+            "QATimeDays": 1.09
+        },
+        {
             "onBehalfOf": "6788a42176421f889de12f8e",
             "DoneByLearnerTime": "2025-01-27T15:22:49.690000+00:00",
             "QAActionTime": "2025-01-28T17:33:54.528000+00:00",
             "QAAction": "Updated state to Staging from Awaiting Learner",
             "QATimeHours": 26.18,
             "QATimeDays": 1.09
+        },
+        {
+            "onBehalfOf": "67b45ebb7f1c84803805dbb5",
+            "DoneByLearnerTime": "2025-02-18T10:37:58.243000+00:00",
+            "QAActionTime": "2025-02-26T20:19:10.440000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 201.69,
+            "QATimeDays": 8.4
         },
         {
             "onBehalfOf": "67a3bf08ff73998922ba5080",
@@ -4049,6 +4409,14 @@
             "QATimeDays": 9.46
         },
         {
+            "onBehalfOf": "67bde316d578a98686c508a5",
+            "DoneByLearnerTime": "2025-02-25T21:08:47.685000+00:00",
+            "QAActionTime": "2025-02-27T20:47:02.897000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 47.64,
+            "QATimeDays": 1.98
+        },
+        {
             "onBehalfOf": "679b9a8b2e4a87341a13d6cd",
             "DoneByLearnerTime": "2025-01-30T15:42:43.221000+00:00",
             "QAActionTime": "2025-02-05T06:39:03.289000+00:00",
@@ -4097,6 +4465,14 @@
             "QATimeDays": 2.17
         },
         {
+            "onBehalfOf": "6717fecfc620da311a7f321e",
+            "DoneByLearnerTime": "2025-01-14T19:40:01.109000+00:00",
+            "QAActionTime": "2025-02-24T21:30:32.906000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 985.84,
+            "QATimeDays": 41.08
+        },
+        {
             "onBehalfOf": "6798d0ea360bb854dc70e496",
             "DoneByLearnerTime": "2025-01-28T13:35:38.113000+00:00",
             "QAActionTime": "2025-01-28T21:42:35.759000+00:00",
@@ -4111,6 +4487,14 @@
             "QAAction": "Updated state to Staging from QA",
             "QATimeHours": 629.05,
             "QATimeDays": 26.21
+        },
+        {
+            "onBehalfOf": "67a493b6ff73998922ba7649",
+            "DoneByLearnerTime": "2025-02-06T16:56:09.390000+00:00",
+            "QAActionTime": "2025-02-27T14:15:27.214000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 501.32,
+            "QATimeDays": 20.89
         },
         {
             "onBehalfOf": "6799f42b684fc630e9bd3734",
@@ -4135,6 +4519,14 @@
             "QAAction": "Updated state to Staging from Low Maths",
             "QATimeHours": 32.38,
             "QATimeDays": 1.35
+        },
+        {
+            "onBehalfOf": "67b9cf7ba5523b0b9aef2efb",
+            "DoneByLearnerTime": "2025-02-22T15:36:48.466000+00:00",
+            "QAActionTime": "2025-02-26T20:08:13.919000+00:00",
+            "QAAction": "Updated state to Staging from PreStaging",
+            "QATimeHours": 100.52,
+            "QATimeDays": 4.19
         },
         {
             "onBehalfOf": "67961ea9e757e3560b4625d6",
@@ -4361,6 +4753,14 @@
             "QATimeDays": 10.63
         },
         {
+            "onBehalfOf": "67a3c4497c5581bb2e3c0e9f",
+            "DoneByLearnerTime": "2025-02-05T20:15:02.399000+00:00",
+            "QAActionTime": "2025-02-10T21:18:46.379000+00:00",
+            "QAAction": "Updated state to Staging from Onboarding",
+            "QATimeHours": 121.06,
+            "QATimeDays": 5.04
+        },
+        {
             "onBehalfOf": "679f2ead3943f830990af8d9",
             "DoneByLearnerTime": "2025-02-02T08:58:10.082000+00:00",
             "QAActionTime": "2025-02-04T16:19:40.008000+00:00",
@@ -4423,6 +4823,14 @@
             "QAAction": "Updated state to Staging from Onboarding",
             "QATimeHours": 5.42,
             "QATimeDays": 0.23
+        },
+        {
+            "onBehalfOf": "67bc1f24cd57d5b0c53e2dfc",
+            "DoneByLearnerTime": "2025-02-25T15:07:46.772000+00:00",
+            "QAActionTime": "2025-02-25T20:50:25.049000+00:00",
+            "QAAction": "Updated state to Staging from Onboarding",
+            "QATimeHours": 5.71,
+            "QATimeDays": 0.24
         },
         {
             "onBehalfOf": "679cc3faaa60e449218b1d58",
@@ -4495,6 +4903,14 @@
             "QAAction": "Updated state to Staging from QA",
             "QATimeHours": 25.51,
             "QATimeDays": 1.06
+        },
+        {
+            "onBehalfOf": "67b71108070eb85dbb13ad64",
+            "DoneByLearnerTime": "2025-02-20T11:54:11.995000+00:00",
+            "QAActionTime": "2025-02-26T17:06:44.914000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 149.21,
+            "QATimeDays": 6.22
         },
         {
             "onBehalfOf": "67958e5be757e3560b4612fb",
@@ -4641,6 +5057,14 @@
             "QATimeDays": 1.5
         },
         {
+            "onBehalfOf": "67990e82360bb854dc70ec46",
+            "DoneByLearnerTime": "2025-01-28T17:26:32.468000+00:00",
+            "QAActionTime": "2025-02-27T20:39:24.420000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 723.21,
+            "QATimeDays": 30.13
+        },
+        {
             "onBehalfOf": "679ca5c5bc18b37761b185f2",
             "DoneByLearnerTime": "2025-02-01T17:29:37.660000+00:00",
             "QAActionTime": "2025-02-04T17:06:51.656000+00:00",
@@ -4681,12 +5105,28 @@
             "QATimeDays": 4.29
         },
         {
+            "onBehalfOf": "67b7bbd92105ca3404b557e4",
+            "DoneByLearnerTime": "2025-02-26T08:06:33.324000+00:00",
+            "QAActionTime": "2025-02-26T17:08:26.286000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 9.03,
+            "QATimeDays": 0.38
+        },
+        {
             "onBehalfOf": "67a78c8fae1b46b76beea17c",
             "DoneByLearnerTime": "2025-02-12T11:05:52.486000+00:00",
             "QAActionTime": "2025-02-12T11:07:41.272000+00:00",
             "QAAction": "Updated state to Staging from QA",
             "QATimeHours": 0.03,
             "QATimeDays": 0.0
+        },
+        {
+            "onBehalfOf": "67bb3394056d57ef4fb23235",
+            "DoneByLearnerTime": "2025-02-23T15:06:42.601000+00:00",
+            "QAActionTime": "2025-02-25T12:14:43.582000+00:00",
+            "QAAction": "Updated state to Staging from Onboarding",
+            "QATimeHours": 45.13,
+            "QATimeDays": 1.88
         },
         {
             "onBehalfOf": "6794cdb88c1433246004eebb",
@@ -4911,6 +5351,14 @@
             "QAAction": "Updated state to Staging from Onboarding",
             "QATimeHours": 114.37,
             "QATimeDays": 4.77
+        },
+        {
+            "onBehalfOf": "67b7638f966e3c86dbd2b875",
+            "DoneByLearnerTime": "2025-02-20T18:11:25.558000+00:00",
+            "QAActionTime": "2025-02-21T22:45:52.564000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 28.57,
+            "QATimeDays": 1.19
         },
         {
             "onBehalfOf": "66d98450a34bf76c08140338",
@@ -5601,6 +6049,14 @@
             "QATimeDays": 0.13
         },
         {
+            "onBehalfOf": "67bc8bebcd57d5b0c53e4920",
+            "DoneByLearnerTime": "2025-02-24T15:39:11.643000+00:00",
+            "QAActionTime": "2025-02-25T19:31:29.446000+00:00",
+            "QAAction": "Updated state to Staging from Onboarding",
+            "QATimeHours": 27.87,
+            "QATimeDays": 1.16
+        },
+        {
             "onBehalfOf": "6797798f8a1b310ee1ac757e",
             "DoneByLearnerTime": "2025-01-28T15:18:24.896000+00:00",
             "QAActionTime": "2025-01-31T11:40:42.604000+00:00",
@@ -5895,6 +6351,14 @@
             "QAAction": "Updated state to Staging from Onboarding",
             "QATimeHours": 27.53,
             "QATimeDays": 1.15
+        },
+        {
+            "onBehalfOf": "67bd9e6e6c64d33d13e5413e",
+            "DoneByLearnerTime": "2025-02-25T11:09:19.942000+00:00",
+            "QAActionTime": "2025-02-25T18:51:53.244000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 7.71,
+            "QATimeDays": 0.32
         },
         {
             "onBehalfOf": "67840f7cff38bce06f511caa",
@@ -6521,6 +6985,14 @@
             "QATimeDays": 4.98
         },
         {
+            "onBehalfOf": "67bf76c1f90891612e34c7a1",
+            "DoneByLearnerTime": "2025-02-27T12:37:09.864000+00:00",
+            "QAActionTime": "2025-02-27T21:25:41.310000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 8.81,
+            "QATimeDays": 0.37
+        },
+        {
             "onBehalfOf": "678ab8bacb4906911f2b4bba",
             "DoneByLearnerTime": "2025-02-05T09:58:50.272000+00:00",
             "QAActionTime": "2025-02-10T12:09:48.148000+00:00",
@@ -6639,6 +7111,14 @@
             "QAAction": "Updated state to Staging from Awaiting Learner",
             "QATimeHours": 151.07,
             "QATimeDays": 6.29
+        },
+        {
+            "onBehalfOf": "67be1fca6621017c2d17b8f2",
+            "DoneByLearnerTime": "2025-02-25T20:31:53.038000+00:00",
+            "QAActionTime": "2025-02-26T18:20:31.383000+00:00",
+            "QAAction": "Updated state to Staging from Onboarding",
+            "QATimeHours": 21.81,
+            "QATimeDays": 0.91
         },
         {
             "onBehalfOf": "67a37684933488035bc045a2",
@@ -6809,6 +7289,14 @@
             "QATimeDays": 3.76
         },
         {
+            "onBehalfOf": "67bdcbdf3e1bdbb47c206236",
+            "DoneByLearnerTime": "2025-02-26T07:42:17.899000+00:00",
+            "QAActionTime": "2025-02-26T17:15:39.064000+00:00",
+            "QAAction": "Updated state to Staging from Low English",
+            "QATimeHours": 9.56,
+            "QATimeDays": 0.4
+        },
+        {
             "onBehalfOf": "6794c3134e78c866ff34a82a",
             "DoneByLearnerTime": "2025-01-30T20:34:52.617000+00:00",
             "QAActionTime": "2025-02-10T12:59:17.452000+00:00",
@@ -6871,6 +7359,14 @@
             "QAAction": "Updated state to Staging from QA",
             "QATimeHours": 61.5,
             "QATimeDays": 2.56
+        },
+        {
+            "onBehalfOf": "67b9e015de585255f7b2e6c7",
+            "DoneByLearnerTime": "2025-02-25T14:12:46.736000+00:00",
+            "QAActionTime": "2025-02-26T19:41:17.584000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 29.48,
+            "QATimeDays": 1.23
         },
         {
             "onBehalfOf": "67a64c2c013c5e5cb941bce3",
@@ -6943,6 +7439,14 @@
             "QAAction": "Updated state to Staging from QA Failed",
             "QATimeHours": 81.08,
             "QATimeDays": 3.38
+        },
+        {
+            "onBehalfOf": "67bd81de6c64d33d13e53b59",
+            "DoneByLearnerTime": "2025-02-25T09:18:38.118000+00:00",
+            "QAActionTime": "2025-02-26T17:27:57.132000+00:00",
+            "QAAction": "Updated state to Staging from Onboarding",
+            "QATimeHours": 32.16,
+            "QATimeDays": 1.34
         },
         {
             "onBehalfOf": "67a46393e002259af095eda1",
@@ -7129,6 +7633,14 @@
             "QATimeDays": 0.7
         },
         {
+            "onBehalfOf": "679906de9605ac2944b8fd71",
+            "DoneByLearnerTime": "2025-02-14T21:27:06.515000+00:00",
+            "QAActionTime": "2025-02-27T21:26:15.359000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 311.99,
+            "QATimeDays": 13.0
+        },
+        {
             "onBehalfOf": "6797380be757e3560b4646fd",
             "DoneByLearnerTime": "2025-01-27T07:49:47.917000+00:00",
             "QAActionTime": "2025-02-24T12:06:03.742000+00:00",
@@ -7169,6 +7681,14 @@
             "QATimeDays": 0.2
         },
         {
+            "onBehalfOf": "679749d10c62097d0f54b6b4",
+            "DoneByLearnerTime": "2025-02-22T17:56:28.778000+00:00",
+            "QAActionTime": "2025-02-27T21:04:51.854000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 123.14,
+            "QATimeDays": 5.13
+        },
+        {
             "onBehalfOf": "6794fa0b4e78c866ff34b455",
             "DoneByLearnerTime": "2025-01-25T15:28:28.221000+00:00",
             "QAActionTime": "2025-02-26T07:35:13.361000+00:00",
@@ -7183,6 +7703,14 @@
             "QAAction": "Updated state to Staging from QA",
             "QATimeHours": 46.2,
             "QATimeDays": 1.92
+        },
+        {
+            "onBehalfOf": "679a2362684fc630e9bd53b0",
+            "DoneByLearnerTime": "2025-02-27T10:17:10.135000+00:00",
+            "QAActionTime": "2025-02-27T20:38:03.883000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 10.35,
+            "QATimeDays": 0.43
         },
         {
             "onBehalfOf": "6798b52ed620708a506c9e23",
@@ -8377,14 +8905,6 @@
             "QATimeDays": 16.09
         },
         {
-            "onBehalfOf": "677630add511b7892775c6fb",
-            "DoneByLearnerTime": "2025-01-26T10:38:16.166000+00:00",
-            "QAActionTime": "2025-01-27T20:42:37.400000+00:00",
-            "QAAction": "Updated state to Staging from Onboarding",
-            "QATimeHours": 34.07,
-            "QATimeDays": 1.42
-        },
-        {
             "onBehalfOf": "679b535dbc18b37761b14620",
             "DoneByLearnerTime": "2025-01-30T10:53:08.085000+00:00",
             "QAActionTime": "2025-02-20T10:25:31.024000+00:00",
@@ -9137,6 +9657,14 @@
             "QATimeDays": 2.15
         },
         {
+            "onBehalfOf": "67a3b505f16de32a7224b8f4",
+            "DoneByLearnerTime": "2025-02-24T14:50:38.376000+00:00",
+            "QAActionTime": "2025-02-26T16:37:12.711000+00:00",
+            "QAAction": "Updated state to Staging from QA Failed",
+            "QATimeHours": 49.78,
+            "QATimeDays": 2.07
+        },
+        {
             "onBehalfOf": "67969984aa45decf1a24b19a",
             "DoneByLearnerTime": "2025-01-26T21:21:28.837000+00:00",
             "QAActionTime": "2025-02-12T12:14:56.969000+00:00",
@@ -9287,6 +9815,14 @@
             "QAAction": "Updated state to Staging from QA",
             "QATimeHours": 28.8,
             "QATimeDays": 1.2
+        },
+        {
+            "onBehalfOf": "67bed5c2306113ea0fbb48fa",
+            "DoneByLearnerTime": "2025-02-26T09:48:27.989000+00:00",
+            "QAActionTime": "2025-02-26T17:11:44.016000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 7.39,
+            "QATimeDays": 0.31
         },
         {
             "onBehalfOf": "6796e1af17459ea9e26bf12e",
@@ -9561,6 +10097,22 @@
             "QATimeDays": 27.93
         },
         {
+            "onBehalfOf": "679e48f12e4a87341a14225c",
+            "DoneByLearnerTime": "2025-02-26T19:51:49.884000+00:00",
+            "QAActionTime": "2025-02-27T20:43:48.522000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 24.87,
+            "QATimeDays": 1.04
+        },
+        {
+            "onBehalfOf": "679f646f967cef8025d2e10a",
+            "DoneByLearnerTime": "2025-02-26T15:26:05.782000+00:00",
+            "QAActionTime": "2025-02-27T20:31:47.804000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 29.1,
+            "QATimeDays": 1.21
+        },
+        {
             "onBehalfOf": "67a10392972eb2a8d9094221",
             "DoneByLearnerTime": "2025-02-05T14:32:32.719000+00:00",
             "QAActionTime": "2025-02-17T12:43:02.892000+00:00",
@@ -9625,196 +10177,28 @@
             "QATimeDays": 0.4
         },
         {
-            "onBehalfOf": "67ada2fa1f174288c694b1e5",
-            "DoneByLearnerTime": "2025-02-25T15:13:15.368000+00:00",
-            "QAActionTime": "2025-02-26T20:35:53.476000+00:00",
+            "onBehalfOf": "67b7ad19966e3c86dbd2bc34",
+            "DoneByLearnerTime": "2025-02-20T22:38:23.941000+00:00",
+            "QAActionTime": "2025-02-27T19:46:03.650000+00:00",
             "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 29.38,
-            "QATimeDays": 1.22
-        },
-        {
-            "onBehalfOf": "67b41ad13c1da501f016d27b",
-            "DoneByLearnerTime": "2025-02-19T05:05:46.304000+00:00",
-            "QAActionTime": "2025-02-26T18:00:20.688000+00:00",
-            "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 180.91,
-            "QATimeDays": 7.54
-        },
-        {
-            "onBehalfOf": "6798a9499605ac2944b8eab0",
-            "DoneByLearnerTime": "2025-01-28T14:20:00.876000+00:00",
-            "QAActionTime": "2025-02-26T18:11:24.262000+00:00",
-            "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 699.86,
-            "QATimeDays": 29.16
-        },
-        {
-            "onBehalfOf": "67a7a5807122ecabfb4ed375",
-            "DoneByLearnerTime": "2025-02-17T16:41:55.682000+00:00",
-            "QAActionTime": "2025-02-26T18:03:22.148000+00:00",
-            "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 217.36,
-            "QATimeDays": 9.06
-        },
-        {
-            "onBehalfOf": "6789392d5a2892fe63d81221",
-            "DoneByLearnerTime": "2025-01-16T17:39:54.776000+00:00",
-            "QAActionTime": "2025-01-22T12:59:57.112000+00:00",
-            "QAAction": "Updated state to Staging from PreStaging",
-            "QATimeHours": 139.33,
-            "QATimeDays": 5.81
-        },
-        {
-            "onBehalfOf": "678de4a29b7dab82e34f48a2",
-            "DoneByLearnerTime": "2025-01-20T06:38:28.278000+00:00",
-            "QAActionTime": "2025-01-22T07:49:30.815000+00:00",
-            "QAAction": "Updated state to Staging from Onboarding",
-            "QATimeHours": 49.18,
-            "QATimeDays": 2.05
-        },
-        {
-            "onBehalfOf": "67bcefdb6309a9322ea4de23",
-            "DoneByLearnerTime": "2025-02-24T22:45:03.281000+00:00",
-            "QAActionTime": "2025-02-25T21:44:37.736000+00:00",
-            "QAAction": "Updated state to Staging from Low Maths",
-            "QATimeHours": 22.99,
-            "QATimeDays": 0.96
-        },
-        {
-            "onBehalfOf": "67b6f2c25738a4954012676a",
-            "DoneByLearnerTime": "2025-02-21T06:42:31.982000+00:00",
-            "QAActionTime": "2025-02-26T17:01:31.107000+00:00",
-            "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 130.32,
-            "QATimeDays": 5.43
-        },
-        {
-            "onBehalfOf": "67bdde2cf90891612e34a395",
-            "DoneByLearnerTime": "2025-02-25T15:32:02.922000+00:00",
-            "QAActionTime": "2025-02-26T20:06:25.695000+00:00",
-            "QAAction": "Updated state to Staging from Onboarding",
-            "QATimeHours": 28.57,
-            "QATimeDays": 1.19
-        },
-        {
-            "onBehalfOf": "67b8e4699c6dcc1c212acf07",
-            "DoneByLearnerTime": "2025-02-25T10:52:49.100000+00:00",
-            "QAActionTime": "2025-02-26T20:09:39.186000+00:00",
-            "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 33.28,
-            "QATimeDays": 1.39
-        },
-        {
-            "onBehalfOf": "67b60904101dafad29390231",
-            "DoneByLearnerTime": "2025-02-25T22:54:53.238000+00:00",
-            "QAActionTime": "2025-02-26T15:58:37.146000+00:00",
-            "QAAction": "Updated state to Staging from Draft Strategy",
-            "QATimeHours": 17.06,
-            "QATimeDays": 0.71
-        },
-        {
-            "onBehalfOf": "67b92ee79c6dcc1c212ad0f6",
-            "DoneByLearnerTime": "2025-02-24T22:38:44.741000+00:00",
-            "QAActionTime": "2025-02-26T20:34:41.145000+00:00",
-            "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 45.93,
-            "QATimeDays": 1.91
-        },
-        {
-            "onBehalfOf": "67be1b044e2e72b891cc15fb",
-            "DoneByLearnerTime": "2025-02-26T10:47:42.195000+00:00",
-            "QAActionTime": "2025-02-26T17:24:03.807000+00:00",
-            "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 6.61,
-            "QATimeDays": 0.28
-        },
-        {
-            "onBehalfOf": "67b5d5acf442930563487a40",
-            "DoneByLearnerTime": "2025-02-25T10:39:17.544000+00:00",
-            "QAActionTime": "2025-02-26T17:47:18.566000+00:00",
-            "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 31.13,
-            "QATimeDays": 1.3
-        },
-        {
-            "onBehalfOf": "67b9569df23a09ffc12f41c2",
-            "DoneByLearnerTime": "2025-02-25T17:11:59.204000+00:00",
-            "QAActionTime": "2025-02-26T16:11:54.039000+00:00",
-            "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 23.0,
-            "QATimeDays": 0.96
-        },
-        {
-            "onBehalfOf": "67b9f8c0a02d755362988ab4",
-            "DoneByLearnerTime": "2025-02-24T11:31:22.278000+00:00",
-            "QAActionTime": "2025-02-26T20:21:14.702000+00:00",
-            "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 56.83,
-            "QATimeDays": 2.37
-        },
-        {
-            "onBehalfOf": "67bd493f922b8c2a5bc6d1c1",
-            "DoneByLearnerTime": "2025-02-25T04:59:31.222000+00:00",
-            "QAActionTime": "2025-02-25T23:50:51.719000+00:00",
-            "QAAction": "Updated state to Staging from Low Maths",
-            "QATimeHours": 18.86,
-            "QATimeDays": 0.79
-        },
-        {
-            "onBehalfOf": "67b5eb76e61455f3dc74f96a",
-            "DoneByLearnerTime": "2025-02-26T08:08:02.809000+00:00",
-            "QAActionTime": "2025-02-26T19:49:15.870000+00:00",
-            "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 11.69,
-            "QATimeDays": 0.49
-        },
-        {
-            "onBehalfOf": "67b75302914a10fd732d04fc",
-            "DoneByLearnerTime": "2025-02-21T11:01:37.586000+00:00",
-            "QAActionTime": "2025-02-25T20:41:07.858000+00:00",
-            "QAAction": "Updated state to Staging from Low Maths",
-            "QATimeHours": 105.66,
-            "QATimeDays": 4.4
-        },
-        {
-            "onBehalfOf": "67bee402306113ea0fbb4ae3",
-            "DoneByLearnerTime": "2025-02-26T10:47:44.119000+00:00",
-            "QAActionTime": "2025-02-26T16:18:29.818000+00:00",
-            "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 5.51,
-            "QATimeDays": 0.23
+            "QATimeHours": 165.13,
+            "QATimeDays": 6.88
         },
         {
             "onBehalfOf": "67b5fadb101dafad2939014d",
-            "DoneByLearnerTime": "2025-02-20T10:19:11.801000+00:00",
-            "QAActionTime": "2025-02-26T20:40:08.891000+00:00",
-            "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 154.35,
-            "QATimeDays": 6.43
+            "DoneByLearnerTime": "2025-02-27T12:44:22.027000+00:00",
+            "QAActionTime": "2025-02-28T08:06:45.858000+00:00",
+            "QAAction": "Updated state to Staging from Awaiting Learner",
+            "QATimeHours": 19.37,
+            "QATimeDays": 0.81
         },
         {
-            "onBehalfOf": "679ba0d1bc18b37761b165db",
-            "DoneByLearnerTime": "2025-02-24T16:53:10.634000+00:00",
-            "QAActionTime": "2025-02-25T20:51:22.605000+00:00",
+            "onBehalfOf": "67960df2aa45decf1a249c3c",
+            "DoneByLearnerTime": "2025-02-25T08:44:40.287000+00:00",
+            "QAActionTime": "2025-02-27T18:31:46.160000+00:00",
             "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 27.97,
-            "QATimeDays": 1.17
-        },
-        {
-            "onBehalfOf": "67bc3aee0e0852ae1cd3617a",
-            "DoneByLearnerTime": "2025-02-24T09:56:26.484000+00:00",
-            "QAActionTime": "2025-02-26T17:00:04.488000+00:00",
-            "QAAction": "Updated state to Staging from Low Maths",
-            "QATimeHours": 55.06,
-            "QATimeDays": 2.29
-        },
-        {
-            "onBehalfOf": "67b63bf2e61455f3dc750042",
-            "DoneByLearnerTime": "2025-02-19T20:59:55.765000+00:00",
-            "QAActionTime": "2025-02-26T17:02:14.429000+00:00",
-            "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 164.04,
-            "QATimeDays": 6.83
+            "QATimeHours": 57.78,
+            "QATimeDays": 2.41
         },
         {
             "onBehalfOf": "67b7452b966e3c86dbd2b663",
@@ -9825,68 +10209,12 @@
             "QATimeDays": 3.38
         },
         {
-            "onBehalfOf": "678e3c42cb4906911f2c0930",
-            "DoneByLearnerTime": "2025-01-20T13:54:15.431000+00:00",
-            "QAActionTime": "2025-01-22T09:19:48.579000+00:00",
-            "QAAction": "Updated state to Staging from Low Maths",
-            "QATimeHours": 43.43,
-            "QATimeDays": 1.81
-        },
-        {
-            "onBehalfOf": "67b876529c6dcc1c212ac462",
-            "DoneByLearnerTime": "2025-02-25T08:27:40.179000+00:00",
-            "QAActionTime": "2025-02-26T17:19:27.330000+00:00",
-            "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 32.86,
-            "QATimeDays": 1.37
-        },
-        {
-            "onBehalfOf": "67bed98b3f03e61ef921ff16",
-            "DoneByLearnerTime": "2025-02-26T12:03:47.633000+00:00",
-            "QAActionTime": "2025-02-26T20:38:01.592000+00:00",
-            "QAAction": "Updated state to Staging from Low Maths",
-            "QATimeHours": 8.57,
-            "QATimeDays": 0.36
-        },
-        {
             "onBehalfOf": "67bee3703f03e61ef92200f1",
             "DoneByLearnerTime": "2025-02-26T10:40:36.786000+00:00",
             "QAActionTime": "2025-02-26T16:34:20.392000+00:00",
             "QAAction": "Updated state to Staging from Low Maths",
             "QATimeHours": 5.9,
             "QATimeDays": 0.25
-        },
-        {
-            "onBehalfOf": "67bcc769426d3b620741cb9d",
-            "DoneByLearnerTime": "2025-02-25T07:19:25.053000+00:00",
-            "QAActionTime": "2025-02-25T21:34:40.118000+00:00",
-            "QAAction": "Updated state to Staging from Onboarding",
-            "QATimeHours": 14.25,
-            "QATimeDays": 0.59
-        },
-        {
-            "onBehalfOf": "67b6f7e7d963c5ed7040890c",
-            "DoneByLearnerTime": "2025-02-20T09:59:23.264000+00:00",
-            "QAActionTime": "2025-02-26T19:50:22.726000+00:00",
-            "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 153.85,
-            "QATimeDays": 6.41
-        },
-        {
-            "onBehalfOf": "67aaffe5386da82ecc58dd70",
-            "DoneByLearnerTime": "2025-02-24T07:15:20.239000+00:00",
-            "QAActionTime": "2025-02-26T20:44:04.510000+00:00",
-            "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 61.48,
-            "QATimeDays": 2.56
-        },
-        {
-            "onBehalfOf": "67b9aed3f23a09ffc12f46b3",
-            "DoneByLearnerTime": "2025-02-25T07:56:07.507000+00:00",
-            "QAActionTime": "2025-02-26T17:15:23.780000+00:00",
-            "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 33.32,
-            "QATimeDays": 1.39
         },
         {
             "onBehalfOf": "67b4ca6a756f80144e2fa1e5",
@@ -9897,140 +10225,28 @@
             "QATimeDays": 5.24
         },
         {
-            "onBehalfOf": "67bb6b88056d57ef4fb234eb",
-            "DoneByLearnerTime": "2025-02-24T10:45:44.011000+00:00",
-            "QAActionTime": "2025-02-26T20:28:28.893000+00:00",
+            "onBehalfOf": "679f13f4f9744f57ba53db72",
+            "DoneByLearnerTime": "2025-02-25T12:46:58.943000+00:00",
+            "QAActionTime": "2025-02-27T20:43:01.652000+00:00",
             "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 57.71,
-            "QATimeDays": 2.4
+            "QATimeHours": 55.93,
+            "QATimeDays": 2.33
         },
         {
-            "onBehalfOf": "67b6b56ee61455f3dc7502b9",
-            "DoneByLearnerTime": "2025-02-21T11:15:26.950000+00:00",
-            "QAActionTime": "2025-02-26T20:26:31.934000+00:00",
+            "onBehalfOf": "67b7690a966e3c86dbd2b8ff",
+            "DoneByLearnerTime": "2025-02-21T16:53:58.985000+00:00",
+            "QAActionTime": "2025-02-27T19:34:19.845000+00:00",
             "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 129.18,
-            "QATimeDays": 5.38
+            "QATimeHours": 146.67,
+            "QATimeDays": 6.11
         },
         {
-            "onBehalfOf": "67be1f006621017c2d17b8e6",
-            "DoneByLearnerTime": "2025-02-25T20:10:52.985000+00:00",
-            "QAActionTime": "2025-02-26T20:46:44.987000+00:00",
-            "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 24.6,
-            "QATimeDays": 1.02
-        },
-        {
-            "onBehalfOf": "679a5649bc18b37761b11dad",
-            "DoneByLearnerTime": "2025-02-25T17:26:51.732000+00:00",
-            "QAActionTime": "2025-02-26T16:58:23.385000+00:00",
-            "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 23.53,
-            "QATimeDays": 0.98
-        },
-        {
-            "onBehalfOf": "67bc10a170062cd8632115e9",
-            "DoneByLearnerTime": "2025-02-24T21:55:24.602000+00:00",
-            "QAActionTime": "2025-02-26T17:14:08.006000+00:00",
-            "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 43.31,
-            "QATimeDays": 1.8
-        },
-        {
-            "onBehalfOf": "67b45ebb7f1c84803805dbb5",
-            "DoneByLearnerTime": "2025-02-18T10:37:58.243000+00:00",
-            "QAActionTime": "2025-02-26T20:19:10.440000+00:00",
-            "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 201.69,
-            "QATimeDays": 8.4
-        },
-        {
-            "onBehalfOf": "67b9cf7ba5523b0b9aef2efb",
-            "DoneByLearnerTime": "2025-02-22T15:36:48.466000+00:00",
-            "QAActionTime": "2025-02-26T20:08:13.919000+00:00",
-            "QAAction": "Updated state to Staging from PreStaging",
-            "QATimeHours": 100.52,
-            "QATimeDays": 4.19
-        },
-        {
-            "onBehalfOf": "6032b77f1165f48cdbdbcc15",
-            "DoneByLearnerTime": "2025-02-26T08:45:06.991000+00:00",
-            "QAActionTime": "2025-02-26T18:54:44.999000+00:00",
-            "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 10.16,
-            "QATimeDays": 0.42
-        },
-        {
-            "onBehalfOf": "67bc1f24cd57d5b0c53e2dfc",
-            "DoneByLearnerTime": "2025-02-25T15:07:46.772000+00:00",
-            "QAActionTime": "2025-02-25T20:50:25.049000+00:00",
-            "QAAction": "Updated state to Staging from Onboarding",
-            "QATimeHours": 5.71,
-            "QATimeDays": 0.24
-        },
-        {
-            "onBehalfOf": "67b71108070eb85dbb13ad64",
-            "DoneByLearnerTime": "2025-02-20T11:54:11.995000+00:00",
-            "QAActionTime": "2025-02-26T17:06:44.914000+00:00",
-            "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 149.21,
-            "QATimeDays": 6.22
-        },
-        {
-            "onBehalfOf": "67b7bbd92105ca3404b557e4",
-            "DoneByLearnerTime": "2025-02-26T08:06:33.324000+00:00",
-            "QAActionTime": "2025-02-26T17:08:26.286000+00:00",
-            "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 9.03,
-            "QATimeDays": 0.38
-        },
-        {
-            "onBehalfOf": "67bb3394056d57ef4fb23235",
-            "DoneByLearnerTime": "2025-02-23T15:06:42.601000+00:00",
-            "QAActionTime": "2025-02-25T12:14:43.582000+00:00",
-            "QAAction": "Updated state to Staging from Onboarding",
-            "QATimeHours": 45.13,
-            "QATimeDays": 1.88
-        },
-        {
-            "onBehalfOf": "67bdd6bfd578a98686c507e5",
-            "DoneByLearnerTime": "2025-02-25T15:18:22.066000+00:00",
-            "QAActionTime": "2025-02-26T19:24:48.368000+00:00",
-            "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 28.11,
-            "QATimeDays": 1.17
-        },
-        {
-            "onBehalfOf": "67b9af66f23a09ffc12f46c2",
-            "DoneByLearnerTime": "2025-02-22T11:20:31.963000+00:00",
-            "QAActionTime": "2025-02-26T20:45:22.528000+00:00",
-            "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 105.41,
-            "QATimeDays": 4.39
-        },
-        {
-            "onBehalfOf": "67bc8bebcd57d5b0c53e4920",
-            "DoneByLearnerTime": "2025-02-24T15:39:11.643000+00:00",
-            "QAActionTime": "2025-02-25T19:31:29.446000+00:00",
-            "QAAction": "Updated state to Staging from Onboarding",
-            "QATimeHours": 27.87,
-            "QATimeDays": 1.16
-        },
-        {
-            "onBehalfOf": "67bdce30d578a98686c50638",
-            "DoneByLearnerTime": "2025-02-25T14:21:28.783000+00:00",
-            "QAActionTime": "2025-02-26T17:21:34.994000+00:00",
-            "QAAction": "Updated state to Staging from Onboarding",
-            "QATimeHours": 27.0,
-            "QATimeDays": 1.13
-        },
-        {
-            "onBehalfOf": "67bd9e6e6c64d33d13e5413e",
-            "DoneByLearnerTime": "2025-02-25T11:09:19.942000+00:00",
-            "QAActionTime": "2025-02-25T18:51:53.244000+00:00",
-            "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 7.71,
-            "QATimeDays": 0.32
+            "onBehalfOf": "67a95681b04148829b1d47d5",
+            "DoneByLearnerTime": "2025-02-10T12:38:53.237000+00:00",
+            "QAActionTime": "2025-02-27T20:56:23.882000+00:00",
+            "QAAction": "Updated state to Staging from QA Failed",
+            "QATimeHours": 416.29,
+            "QATimeDays": 17.35
         },
         {
             "onBehalfOf": "67beca64306113ea0fbb4735",
@@ -10049,116 +10265,92 @@
             "QATimeDays": 19.66
         },
         {
-            "onBehalfOf": "67be1fca6621017c2d17b8f2",
-            "DoneByLearnerTime": "2025-02-25T20:31:53.038000+00:00",
-            "QAActionTime": "2025-02-26T18:20:31.383000+00:00",
+            "onBehalfOf": "679a49e93e6d7912b9f04dd2",
+            "DoneByLearnerTime": "2025-01-29T15:58:21.640000+00:00",
+            "QAActionTime": "2025-02-27T20:48:38.889000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 700.84,
+            "QATimeDays": 29.2
+        },
+        {
+            "onBehalfOf": "67bed9faf90891612e34b022",
+            "DoneByLearnerTime": "2025-02-26T09:38:21.302000+00:00",
+            "QAActionTime": "2025-02-27T19:36:10.620000+00:00",
             "QAAction": "Updated state to Staging from Onboarding",
-            "QATimeHours": 21.81,
-            "QATimeDays": 0.91
+            "QATimeHours": 33.96,
+            "QATimeDays": 1.42
         },
         {
-            "onBehalfOf": "67bdcbdf3e1bdbb47c206236",
-            "DoneByLearnerTime": "2025-02-26T07:42:17.899000+00:00",
-            "QAActionTime": "2025-02-26T17:15:39.064000+00:00",
-            "QAAction": "Updated state to Staging from Low English",
-            "QATimeHours": 9.56,
-            "QATimeDays": 0.4
-        },
-        {
-            "onBehalfOf": "67b9e015de585255f7b2e6c7",
-            "DoneByLearnerTime": "2025-02-25T14:12:46.736000+00:00",
-            "QAActionTime": "2025-02-26T19:41:17.584000+00:00",
+            "onBehalfOf": "67b485b277192bd97a94fa16",
+            "DoneByLearnerTime": "2025-02-27T17:22:51.983000+00:00",
+            "QAActionTime": "2025-02-27T18:21:44.976000+00:00",
             "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 29.48,
-            "QATimeDays": 1.23
+            "QATimeHours": 0.98,
+            "QATimeDays": 0.04
         },
         {
-            "onBehalfOf": "67bd81de6c64d33d13e53b59",
-            "DoneByLearnerTime": "2025-02-25T09:18:38.118000+00:00",
-            "QAActionTime": "2025-02-26T17:27:57.132000+00:00",
+            "onBehalfOf": "67bbe2603b23c0721b885f2f",
+            "DoneByLearnerTime": "2025-02-26T03:14:17.744000+00:00",
+            "QAActionTime": "2025-02-27T18:38:44.492000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 39.41,
+            "QATimeDays": 1.64
+        },
+        {
+            "onBehalfOf": "67bd628d922b8c2a5bc6d354",
+            "DoneByLearnerTime": "2025-02-25T07:24:44.262000+00:00",
+            "QAActionTime": "2025-02-27T17:41:15.279000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 58.28,
+            "QATimeDays": 2.43
+        },
+        {
+            "onBehalfOf": "67a4ebd74d3e958ed28b0264",
+            "DoneByLearnerTime": "2025-02-12T16:22:50.870000+00:00",
+            "QAActionTime": "2025-02-27T19:39:06.868000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 363.27,
+            "QATimeDays": 15.14
+        },
+        {
+            "onBehalfOf": "67bf38dff90891612e34bc86",
+            "DoneByLearnerTime": "2025-02-26T16:35:57.604000+00:00",
+            "QAActionTime": "2025-02-27T18:07:13.964000+00:00",
+            "QAAction": "Updated state to Staging from QA",
+            "QATimeHours": 25.52,
+            "QATimeDays": 1.06
+        },
+        {
+            "onBehalfOf": "67bf3f98306113ea0fbb55be",
+            "DoneByLearnerTime": "2025-02-27T16:30:02.773000+00:00",
+            "QAActionTime": "2025-02-27T20:33:47.860000+00:00",
             "QAAction": "Updated state to Staging from Onboarding",
-            "QATimeHours": 32.16,
-            "QATimeDays": 1.34
+            "QATimeHours": 4.06,
+            "QATimeDays": 0.17
         },
         {
-            "onBehalfOf": "67b0dac4c427dc6d2b69d58c",
-            "DoneByLearnerTime": "2025-02-18T10:51:53.593000+00:00",
-            "QAActionTime": "2025-02-26T16:46:05.798000+00:00",
-            "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 197.9,
-            "QATimeDays": 8.25
-        },
-        {
-            "onBehalfOf": "67b5b0c0f442930563486bf2",
-            "DoneByLearnerTime": "2025-02-25T19:01:28.906000+00:00",
-            "QAActionTime": "2025-02-26T17:55:00.732000+00:00",
-            "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 22.89,
-            "QATimeDays": 0.95
-        },
-        {
-            "onBehalfOf": "67a11926740b3b6071dbfa16",
-            "DoneByLearnerTime": "2025-02-03T19:42:32.219000+00:00",
-            "QAActionTime": "2025-02-26T18:08:26.674000+00:00",
-            "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 550.43,
-            "QATimeDays": 22.93
-        },
-        {
-            "onBehalfOf": "67b860872e19cefb4236fcb1",
-            "DoneByLearnerTime": "2025-02-21T12:15:54.525000+00:00",
-            "QAActionTime": "2025-02-26T16:54:45.633000+00:00",
-            "QAAction": "Updated state to Staging from Onboarding",
-            "QATimeHours": 124.65,
-            "QATimeDays": 5.19
-        },
-        {
-            "onBehalfOf": "67be6cd2f90891612e34a923",
-            "DoneByLearnerTime": "2025-02-26T01:45:50.978000+00:00",
-            "QAActionTime": "2025-02-26T17:05:01.036000+00:00",
-            "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 15.32,
-            "QATimeDays": 0.64
-        },
-        {
-            "onBehalfOf": "67b96021f23a09ffc12f422a",
-            "DoneByLearnerTime": "2025-02-25T17:11:09.994000+00:00",
-            "QAActionTime": "2025-02-26T17:55:47.897000+00:00",
-            "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 24.74,
-            "QATimeDays": 1.03
-        },
-        {
-            "onBehalfOf": "679911880e6f461350624c01",
-            "DoneByLearnerTime": "2025-01-30T16:09:04.951000+00:00",
-            "QAActionTime": "2025-02-26T20:02:38.133000+00:00",
-            "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 651.89,
-            "QATimeDays": 27.16
-        },
-        {
-            "onBehalfOf": "67a3b505f16de32a7224b8f4",
-            "DoneByLearnerTime": "2025-02-24T14:50:38.376000+00:00",
-            "QAActionTime": "2025-02-26T16:37:12.711000+00:00",
+            "onBehalfOf": "67bde9dd487bd4db06b2b359",
+            "DoneByLearnerTime": "2025-02-25T16:16:51.986000+00:00",
+            "QAActionTime": "2025-02-27T21:48:46.456000+00:00",
             "QAAction": "Updated state to Staging from QA Failed",
-            "QATimeHours": 49.78,
-            "QATimeDays": 2.07
+            "QATimeHours": 53.53,
+            "QATimeDays": 2.23
         },
         {
-            "onBehalfOf": "67bed5c2306113ea0fbb48fa",
-            "DoneByLearnerTime": "2025-02-26T09:48:27.989000+00:00",
-            "QAActionTime": "2025-02-26T17:11:44.016000+00:00",
+            "onBehalfOf": "67b058b7234758f7874ee955",
+            "DoneByLearnerTime": "2025-02-27T08:02:19.465000+00:00",
+            "QAActionTime": "2025-02-27T18:04:20.181000+00:00",
             "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 7.39,
-            "QATimeDays": 0.31
+            "QATimeHours": 10.03,
+            "QATimeDays": 0.42
         },
         {
-            "onBehalfOf": "67b88ed2ec63a155e6b654bf",
-            "DoneByLearnerTime": "2025-02-24T16:41:56.777000+00:00",
-            "QAActionTime": "2025-02-26T16:33:17.614000+00:00",
+            "onBehalfOf": "67b7700df24828a4bb0cfb43",
+            "DoneByLearnerTime": "2025-02-22T14:03:58.990000+00:00",
+            "QAActionTime": "2025-02-28T09:11:34.986000+00:00",
             "QAAction": "Updated state to Staging from QA",
-            "QATimeHours": 47.86,
-            "QATimeDays": 1.99
+            "QATimeHours": 139.13,
+            "QATimeDays": 5.8
         },
         {
             "onBehalfOf": "67beb93be93dbe72930957a5",
@@ -10172,15 +10364,15 @@
     "Summary": {
         "AverageQATime": {
             "Days": 5.76,
-            "Hours": 138.15
+            "Hours": 138.25
         },
         "BenchmarkCount": {
-            "MetBenchmark (<=3 days)": 737,
-            "DidNotMeetBenchmark (>3 days)": 534
+            "MetBenchmark (<=3 days)": 750,
+            "DidNotMeetBenchmark (>3 days)": 545
         },
         "SkippedUsers": {
-            "TotalSkipped": 69,
-            "UsersWithoutLearnerAction": 69,
+            "TotalSkipped": 154,
+            "UsersWithoutLearnerAction": 154,
             "UsersWithNegativeQA": 0
         }
     }

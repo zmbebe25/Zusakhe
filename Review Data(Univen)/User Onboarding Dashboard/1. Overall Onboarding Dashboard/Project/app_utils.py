@@ -20,7 +20,7 @@ collection = db[COLLECTION_NAME]
 # Paths to additional data
 DATA_DIR = r"C:\Users\zusakhe_gradesmatch\Downloads\Zusakhe-1\Review Data(Univen)\User Onboarding Dashboard\1. Overall Onboarding Dashboard"
 dropoff_rate_file = os.path.join(DATA_DIR, "C:/Users/zusakhe_gradesmatch/Downloads/Zusakhe-1/Review Data(Univen)/User Onboarding Dashboard/1. Overall Onboarding Dashboard/Project/drop_off_rates.json")
-onboarding_time_file = os.path.join(DATA_DIR, "C:/Users/zusakhe_gradesmatch/Downloads/Zusakhe-1/Review Data(Univen)/User Onboarding Dashboard/1. Overall Onboarding Dashboard\Project\latest_onboarding_times.json")
+onboarding_time_file = os.path.join(DATA_DIR, "C:/Users/zusakhe_gradesmatch/Downloads/Zusakhe-1/Review Data(Univen)/User Onboarding Dashboard/1. Overall Onboarding Dashboard/Project/latest_onboarding_times.json")
 qa_time_file = os.path.join(DATA_DIR, "C:/Users/zusakhe_gradesmatch/Downloads/Zusakhe-1/Review Data(Univen)/User Onboarding Dashboard/1. Overall Onboarding Dashboard/Project/qa_times.json")
 
 # Load JSON Data
